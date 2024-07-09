@@ -1,20 +1,3 @@
-Spells to make:  
-Abaft? (Knock back spell)  
-Abase  (Spell to put something else down and undue magical levitation)  
-Abate? (Actually not sure what to put for this)   
-Abaxiate (changes the orientation of a thing in motion)  
-Abbazone (Creates a zone where creatures can paint in the air or on any surface)
-Abear (Cast in response to the potential loss of a hitpoint. Can potentially prevent the loss based on the tier of spell)  
-Abeyance (a stasis spell)  
-Abhor (fear effect)  
-Abject (produces depression in a foe)   
-Abrogation (A means of possibly dispelling the effect of a magic over an individual)  
-Acanthovalder (A thorn spirtit which grapples a foe then explodes)  
-Blare (produces very loud noise of a vague nature such as a band, horn section, or roar) 
-Hypoaftepathy (Creates an illusory figure or creature which can only be spied through magical means, possibly corrupting attempts of divination)  
-Surveil (Allows you to affect an area so you can psychically view it by maneuvering so a vision of it. It is affected by light just like anything else. You are not able to enter through or affect the space of anything viewed and your vision cannot exceed the area set forth by the spell regardless of lighting conditions)
-
-
 ### A (7
 
 #### Abatis
