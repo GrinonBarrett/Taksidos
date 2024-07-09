@@ -15,4 +15,4 @@
 | Hydroglossa | Hydron | - | The language of water elementals and associated creatures. |
 | Auraglossa | Auric | - | The language of air elementals and associated creatures. |
 | Terraglossa | Terran | - | The language of earth elementals and associated creatures. |
-| Lakhasi | Hydron | Regions | A common language among the east. |
+| Lakhasi | Hydron | TBD | A common language among the east. |
