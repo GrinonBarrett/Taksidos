@@ -4,6 +4,4 @@ End folders represent chapters, with each section being numbered in the recommen
 
 > Not to be confused with this particular format.
 
-###### May still include "simple" checks. Checks which do not benefit from critical success and do not require rolls by proficient characters.
-
 Though this is a work in progress, all rights are reserved.
