@@ -49,6 +49,8 @@ Contemplate renaming Clerics to Mystics.
 
 Finish serviles.
 
+Flesh out bestiary.
+
 MORE SPELLS!
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
