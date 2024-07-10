@@ -49,6 +49,8 @@ Contemplate renaming Clerics to Mystics.
 
 Finish serviles.
 
+MORE SPELLS!
+
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
