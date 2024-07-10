@@ -30,7 +30,7 @@ Classes:
 ~~**A**ssassin (Backstab)~~  
 ~~**B**ard (Informed folks with bonuses against certain creatures and spell types, does not add new spell casting method but does provide some protection against spells)~~  
 ~~**B**erserk (rage wielders)~~  
-**C**leric  (preistly sorts, uses [Empy] for casting)  
+~~**C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)~~  
 ~~**E**voker  (ki blast pew pew)~~ *although Super Techniques need to be developed*  
 ~~**J**ester  (a sort of buff and debuff support role that can use skills in new ways)~~  
 ~~**M**agi (will have the spell point guessing system, uses Will for casting)~~  
