@@ -43,7 +43,11 @@ Classes:
 
 ###### May ditch the warlock as something similar in terms of flavor and mechanics can be done with monk and or cleric (when it gets completed).
 
-Also finish the optional summoning class (which needs a decent name) inspired by the way diablo 2 handled necro/druid summons. May alter the Bonding Magic of the invoker once the cleric is developed so that it no longer adds [Empy] to casting and counterspelling.
+Contemplate renaming Rogue to Venturer.
+
+Contemplate renaming Clerics to Mystics.
+
+Finish serviles.
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
