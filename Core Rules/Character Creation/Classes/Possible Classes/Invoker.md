@@ -1,3 +1,4 @@
+
 # Invoker
 Invokers bring an unusual aura about them. This aura attracts serviles and empowers them.
 
@@ -9,7 +10,7 @@ Invokers bring an unusual aura about them. This aura attracts serviles and empow
 |-------|----|----------|---------|---------------------------------------------------|
 | 1st   | 0  |    +1    |    1    | Conjury, Serviles                                 |
 | 2nd   | 1  |    +2    |    2    | Dominion, Engage                                  |
-| 3rd   | 1  |    +3    |    2    | Attribute Improvement, Bonding Magic              |
+| 3rd   | 1  |    +3    |    2    | Attribute Improvement, Bonded Magic               |
 | 4th   | 1  |    +4    |    3    | Further Training                                  |
 | 5th   | 2  |    +4    |    3    | Splash or Specialize                              |
 | 6th   | 2  |    +5    |    4    | Attribute Improvement, Greater Servile            |
@@ -31,10 +32,10 @@ Your powers have an origin in some aspect of magic. Determine what that origin i
 ### 2) Engage
 Once per round, you may use your reaction to impose advantage on an attack or check made by a servile which you can perceive.
 
-### 3) Bonding Magic
+### 3) Bonded Magic
 Anytime a creature within a number of yards equal to your level receives Spell-Sickness, you may use your reaction to redirect up to half of that to yourself.  
-When a spell references your [Magic] score/bonus, you may use your [Empy] score/bonus.  
-Furthermore, when performing a counter-spell check, you may add your [Empy] bonus.
+When a spell references your [Magic] score/bonus, you may use your [Prcp] score/bonus.  
+Furthermore, when performing a counter-spell check, you may add your [Prcp] bonus.
 
 ### 4) Further Training
 You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may choose to gain a skill of your choice instead of getting any training in weapons or languages.
@@ -50,14 +51,14 @@ At levels 5 and 10, you may choose to splash another class into your training or
 
 #### Specialize
 Your greater servile no longer counts against your conjury.
-You gain a bonus to all spell checks equal to your [Empy].
+You gain a bonus to all spell checks equal to your [Prcp].
 Your serviles gain a bonus to all saves equal to your [Empy] bonus.
 
 #### Splash
 If you splash invoker as a member of another class, you gain the following:  
 You may have a single lesser servile. You are considered to have a conjury value of 1.  
-When a spell references your [Magic] score/bonus, you may use your [Empy] score/bonus.  
-Anytime you perform a spell check, you may add your [Empy] bonus.
+When a spell references your [Magic] score/bonus, you may use your [Prcp] score/bonus.  
+Anytime you perform a spell check, you may add your [Prcp] bonus.
 
 #### Dominions
 
