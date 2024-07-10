@@ -20,7 +20,7 @@ A rare breed capable of powering superliminal effects with the energy stored in 
 
 
 ### Cantripancy
-When you cast a tier 1 spell, you may take on any number of levels of exhaustion. If you do, you gain a 1d12+1 bonus to the spellcheck.
+When you cast a tier 1 spell, you may take on any number of levels of exhaustion. If you do, you gain a 1d12+1 bonus to the spellcheck for each level of exhaustion taken this way.
 
 ### Sorcery
 You are capable of tapping into the latent magics. When you perform a spell check, a skill check involving the nature of magic, or a save against a magical effect, you gain a bonus equal to your [Fort] bonus.  
