@@ -42,7 +42,7 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 
 **Range**: 5 yards
 
-**Effect**: You cause an object to return to the relative position it occupied up to a number of minutes ago equal to the tier of the spell. A creature can be targeted by this spell, but is instead returned a to the point occupied measured in rounds not minutes. A creature affected by this must make a [Rflx] save or become prone or vulnerable (their choice, if they are already affected by one, they must choose the other). You may choose to grant that creature a bonus to its save equal to your [Magic] bonus.
+**Effect**: You cause an object to return to the relative position it occupied up to a number of minutes ago equal to the tier of the spell. A creature can be targeted by this spell, but is instead returned a point occupied measured in rounds not minutes. A creature affected by this must make a [Rflx] save or become prone or vulnerable (their choice, if they are already affected by one, they must choose the other). You may choose to grant that creature a bonus to its save equal to your [Magic] bonus.
 
 **At Higher Tiers**: Each tier above minimum increases the range by 1 yard and the casting time by 1 action.
 
