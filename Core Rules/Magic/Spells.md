@@ -13,7 +13,7 @@ This barrier lasts for a number of rounds equal to the spell check's points of s
 
 If the caster is larger or smaller than Medium, adjust the size of the barrier accordingly.
 
-The DV of the save is equal to double the spell's tier + the number os size classes above diminutive of the caster + the spell-check's points of success.
+The DV of the save is equal to double the spell's tier + the number of size classes above diminutive of the caster + the spell-check's points of success.
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
