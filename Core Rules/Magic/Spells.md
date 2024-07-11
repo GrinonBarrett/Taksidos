@@ -387,7 +387,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (2
+### H (3
 
 #### Hencor's Needles
 
@@ -416,6 +416,27 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
 **Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + x rounds. Where X is the tier of the spell.
+
+#### Hypoaftepathy
+
+**Minimum Tier**: 1
+
+**Casting Time**: 10 actions
+
+**Range**: 30 yards
+
+**Duration**: 2 hours
+
+**Effect**: You create a mobile hallucination which takes the form of a person or creature you can imagine. It is visible only to magical forms of sight. The illusion's range extends out from you and it cannot leave this range.
+
+You may give the illusion psychic commands as an action or reaction, however it can interact with anything in any way.
+
+**At Higher Tiers**: Each tier beyond minimum allows you one of the following
+* Increase the range by 20 yards.
+* Increases the duration by 2 hours.
+* Increases the range by 10 yards and the duration by an hour.
+
+**Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
 ### I (3
 
