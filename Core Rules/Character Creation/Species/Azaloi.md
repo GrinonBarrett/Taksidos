@@ -44,7 +44,7 @@ Giants comosed of some mineral compound, these beings must sustain themselves of
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 13   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 13    |
+| **Club**                   | 16   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 13    |
 | **Longsword**              | 13    | **Greatsword** | 13     | **Arrow, Broadhead**    | 14    |
 | **Mace**                   | 13    | **Maul** | 13     | **Bolt** | 13    |
 | **Spear**                  | 13     | **Pike** | 13     | **Brusgiata** | 15     |  |     |
@@ -70,9 +70,36 @@ Giants comosed of some mineral compound, these beings must sustain themselves of
  • Are immune to diseases, poisons and venom.  
  • Are not affected by spells which would affect flesh. Because of their metallic nature, they can be affected as metal.
 
- **Carrying Capacity**: Grandfolks' weight load limits are twice that of a normal character.
+**Carrying Capacity**: Azaloi weight load limits are twice that of a normal character.
 
-**Azaloi Apetite**: Unlike most elementals, azaloi must consume metal to sustain themselves. They have hunger like any adventurer, but do not possess thirst. Each pound of metal provides 2 servings of food. If an azalai consumes at least 2 servings of a specific metal in one sitting, they will acquire metallic powers acccording to that metal. Scrap or "dirty" metal (mixed alloys not otherwise mentioned) does not provide metallic powers. These powers last for 6 hours per portion consumed.
+**Azaloi Apetite**: Unlike most elementals, azaloi must consume metal to sustain themselves. They have hunger like any adventurer, but do not possess thirst. Each pound of metal provides 2 servings of food. If an azalai consumes at least 2 servings of a specific metal in one sitting, they will acquire metallic powers acccording to that metal. Scrap or "dirty" metal (mixed alloys not otherwise mentioned) does not provide metallic powers. These powers last for 6 hours per portion consumed. After about a minute of eating a portion of metal, the azalai's skin is treated as being like that metal for about 6 hours. It can be treated as multiple metals this way simultaneously.
 
 ### Metallic Powers
 
+**Altyprium**: You gain a +1 bonus to defense against all attacks. You gain a +1 bonus to all skill checks you are proficient with.
+
+**Brass**: You gain a +3 bonus to defense against magical effects.
+
+**Bronze**: You gain a +1 bonus to defense against all attacks. You gain a +1 bonus to skill checks you are not proficient with.
+
+**Copper**: Electrical attacks against you gain advantage. Your electrical attacks gain a +2 bonus. When you are successfully struck by an electrical attack, you lose a point of Spell-Sickness.
+
+**Deorium**: You gain a +1 bonus to defense against all attacks. You also gain a +2 bonus to spell checks.
+
+**Gold**: Psychic and toxic attacks against you have disadvantage. Anytime you perform a spellcheck, you gain a d4 bonus.
+
+**Hadrium**: You gain a +1 to defense against all attacks. Your melee attacks gain a +1 bonus.
+
+**Iron**: Your [Body] bonus is doubled for the purpose of checks and saves. Your carrying capacity is increased by your [Body] score at all load limits.
+
+**Nickel**: Cold and fire attacks against you have disadvantage.
+
+**Platinum**: You gain a bonus to all spell checks and counterspell checks equal to your current hitpoints.
+
+**Pulcerium**: Acid attacks against you have advantage. You gain a bonus to all spell checks equal to your heroism.
+
+**Silver**: You gain a +4 bonus to saves against magic. You also gain a d4 bonus to counterspell checks.
+
+**Steel**: Your defense against all attacks is increased by 1. Your unarmed attacks gain a +2 bonus.
+
+**Tin**: Your [Rflx] bonus is doubled for the purpose of checks and saves. You gain a +1 bonus to all checks and saves. Acid attacks against you have advantage.
