@@ -31,11 +31,11 @@ Choose an attribute. It is increased by 1.
 | **Longsword**              | 10 | **Greatsword** | 10    | **Arrow, Broadhead**    | 12    |
 | **Mace**                   | 11    | **Maul** | 10    | **Bolt** | 11    |
 | **Spear**                  | 11     | **Pike** | 10    | **Brusgiata** | 13     |  |     |
-| **Hand Axe**               | 11     | **Couched Lance** | 7     | **Chakram** | 13   |
+| **Hand Axe**               | 11     | **Madu** | 12    | **Chakram** | 13   |
 | **Katar**                  | 10    | **Javelin** | 11   | **Arquebus** | 10    |
 | **Dagger**                 | 11     | **Throwing Blade** | 16  | **Musket** | 10    |
 | **Morningstar**            | 10    | **Sling** | 17    | **Tronutonante** | 11    |
-| **Warpick**                | 10    | **Madu** | 12  |  |     |
+| **Warpick**                | 10    |  |    | **Unarmed** | 19  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 6     | **Psychic** | 13     |
 | **Cold**                   | 13     | **Force** | 13     | **Toxic**  | 13     |
@@ -43,7 +43,7 @@ Choose an attribute. It is increased by 1.
 | **Cutting**                | 13     | **Necrotic** | 6     | **Sonic** | 13    |
 | **Electrical**             | 13     | **Piercing** | 10     | **Biting** | 13    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 | **Unarmed** | 19  | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 12 |  |   | **Undamaging** | 13 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
