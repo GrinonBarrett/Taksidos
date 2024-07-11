@@ -3,7 +3,7 @@ Giants of a more civilized demeanor than most. Grandfolk societies are not dissi
 
 **Creature Type**: Grandfolk are humanoids.
 
-**Size**: Grandfolk stand between 7'9" and 9'6" meters tall. They can weigh between 400-650 pounds. They are large creatures.
+**Size**: Grandfolk stand between 7'9" and 9'6" tall. They can weigh between 400-650 pounds. They are large creatures.
 
 **Ability Score Modification**: Choose an attribute. It is increased by a 1.
 
