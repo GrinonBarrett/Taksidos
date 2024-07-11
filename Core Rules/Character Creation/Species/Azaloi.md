@@ -1,6 +1,6 @@
 
 ## AZALOI
-Giants comosed of some mineral compound, these beings must sustain themselves off of metal to exist. They are considered living weapons by some and avatrs by others. Azaloi characters get the following features;
+Giants composed of some mineral compound, these beings must sustain themselves off of metal to exist. They are considered living weapons by some and avatrs by others. Azaloi characters get the following features;
 
 **Creature Type**: Azaloi are elementals.
 
