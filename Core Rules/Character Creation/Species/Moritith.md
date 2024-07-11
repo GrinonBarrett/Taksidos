@@ -26,11 +26,11 @@ Choose an attribute. it is improved by 1 while each other attribute is reduced b
 | **Longsword**              | 13    | **Greatsword** | 12     | **Arrow, Broadhead**    | 13    |
 | **Mace**                   | 13    | **Maul** | 12     | **Bolt** | 13    |
 | **Spear**                  | 13     | **Pike** | 12     | **Brusgiata** | 13     |  |     |
-| **Hand Axe**               | 13     | **Couched Lance** | 12     | **Chakram** | 13    |
+| **Hand Axe**               | 13     | **Madu** | 14     | **Chakram** | 13    |
 | **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 13     | **Throwing Blade** | 14  | **Musket** | 12    |
 | **Morningstar**            | 13     | **Sling** | 14    | **Tronutonante** | 12    |
-| **Warpick**                | 13     | **Madu** | 14  |  |     |
+| **Warpick**                | 13     |  |   | **Unarmed** | 20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 12     | **Psychic** | 10     |
 | **Cold**                   | 18     | **Force** | 14     | **Toxic**  | 15     |
@@ -38,7 +38,7 @@ Choose an attribute. it is improved by 1 while each other attribute is reduced b
 | **Cutting**                | 14     | **Necrotic** | 13     | **Sonic** | 13    |
 | **Electrical**             | 12     | **Piercing** | 14     | **Biting** | 14    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 13 | **Unarmed** | 20  | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 13 |  |   | **Undamaging** | 14 |
 
 ### Special Features
 
