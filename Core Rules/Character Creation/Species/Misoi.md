@@ -31,11 +31,11 @@ Choose three attributes. Each are increased by 1.
 | **Longsword**              | 13    | **Greatsword** | 12     | **Arrow, Broadhead**    | 13    |
 | **Mace**                   | 13    | **Maul** | 12     | **Bolt** | 13    |
 | **Spear**                  | 13     | **Pike** | 12     | **Brusgiata** | 13     |  |     |
-| **Hand Axe**               | 13     | **Couched Lance** | 12     | **Chakram** | 13    |
+| **Hand Axe**               | 13     | **Madu** | 14     | **Chakram** | 13    |
 | **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 13     | **Throwing Blade** | 14   | **Musket** | 12    |
 | **Morningstar**            | 13     | **Sling** | 14    | **Tronutonante** | 13    |
-| **Warpick**                | 13     | **Madu** | 14  |  |     |
+| **Warpick**                | 13     |   |    | **Unarmed** |  20 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 12     | **Psychic** | 14     |
 | **Cold**                   | 14     | **Force** | 13     | **Toxic**  | 14     |
@@ -43,7 +43,7 @@ Choose three attributes. Each are increased by 1.
 | **Cutting**                | 13     | **Necrotic** | 12     | **Sonic** | 14    |
 | **Electrical**             | 12     | **Piercing** | 13     | **Biting** | 13    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 13 | **Unarmed** | 20  | **Undamaging** | 12 |
+| **Unlisted Damage Type** | 13 |   |    | **Undamaging** | 12 |
 
 
 ### Special Features
