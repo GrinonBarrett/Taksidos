@@ -1,6 +1,6 @@
 
 ## AZALOI
-Giants composed of some mineral compound, these beings must sustain themselves off of metal to exist. They are considered living weapons by some and avatrs by others. Azaloi characters get the following features;
+Giants composed of some mineral compound, these beings must sustain themselves off of metal to exist. They are considered living weapons by some and avatars by others. Azaloi characters get the following features;
 
 **Creature Type**: Azaloi are elementals.
 
@@ -72,7 +72,8 @@ Giants composed of some mineral compound, these beings must sustain themselves o
 
 **Carrying Capacity**: Azaloi weight load limits are twice that of a normal character.
 
-**Azaloi Apetite**: Unlike most elementals, azaloi must consume metal to sustain themselves. They have hunger like any adventurer, but do not possess thirst. Each pound of metal provides 2 servings of food. If an azalai consumes at least 2 servings of a specific metal in one sitting, they will acquire metallic powers acccording to that metal. Scrap or "dirty" metal (mixed alloys not otherwise mentioned) does not provide metallic powers. These powers last for 6 hours per portion consumed. After about a minute of eating a portion of metal, the azalai's skin is treated as being like that metal for about 6 hours. It can be treated as multiple metals this way simultaneously.
+**Azaloi Apetite**: Unlike most elementals, azaloi must consume metal to sustain themselves. They have hunger like any adventurer, but do not possess thirst. Each pound of metal provides 2 servings of food. If an azalai consumes at least 2 servings of a specific metal in one sitting, they will acquire metallic powers acccording to that metal. Scrap or "dirty" metal (mixed alloys not otherwise mentioned) does not provide metallic powers. These powers last for 6 hours per portion consumed. After about a minute of eating a portion of metal, the azalai's skin is treated as being like that metal for about 6 hours. It can be treated as multiple metals this way simultaneously.  
+An azaloi cannot perish of hunger.
 
 ### Metallic Powers
 
