@@ -31,8 +31,8 @@ Choose two attributes. They are increased by a single level each.
  • Any successful fire or electrical attack against a lumivaki also reduces its current hitpoints by 1.  
  • They gain no benefits (or disadvantages) from armor. They do still bear its weight. They are treated as wearing gambeson.  
  • They do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
- • Cold attacks have no affect on the lumivaki. Fire attacks gain advantage against the lumivaki.
- • Critical hits of Fire attacks leave the lumivaki vulnerable until the end of the round.
+ • Cold attacks have no affect on the lumivaki. Fire attacks gain advantage against the lumivaki.  
+ • Critical hits of Fire attacks leave the lumivaki vulnerable until the end of the round.  
  • Any effect which would heal the lumivaki has a 1 in 3 chance not to.
 
 **Lumivaki Resilience**: While wounds are inflicted against a lumivaki, they have no ill effect.

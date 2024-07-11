@@ -79,11 +79,11 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 
 #### Special Features
 
-**Fiendish Nature**: The canucorryn's fiendish nature bestows it with a few particular features; 
- • Do not need to eat, sleep, or breathe. They do still need to relax to rest.
- • Are not subject to bleeding.
+**Fiendish Nature**: The canucorryn's fiendish nature bestows it with a few particular features;  
+ • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
+ • Are not subject to bleeding.  
  • Are immune to diseases, poisons and venom.  
- • Gains a bonus to all saves equal to current hitpoints. 
+ • Gains a bonus to all saves equal to current hitpoints.  
  • Are not affected by spells which would affect the flesh.
 
 **Immunity**: The canucorryn is immune to any damage from fire attacks and any damage from non-magical cold attacks.

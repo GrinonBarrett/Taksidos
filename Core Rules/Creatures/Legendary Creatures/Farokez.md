@@ -96,12 +96,12 @@ A monstrous thing. It propels itself primarily with its powerful hind legs, like
 
 #### Special Features 
 
-**Fiendish Nature**: The farokez's fiendish nature bestows it with a few particular features; 
- • Do not need to eat, sleep, or breathe. They do still need to relax to rest.
- • Are not subject to bleeding.
+**Fiendish Nature**: The farokez's fiendish nature bestows it with a few particular features;  
+ • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
+ • Are not subject to bleeding.  
  • Are immune to diseases, poisons and venom.  
- • Gains a bonus to all saves equal to current hitpoints. 
- • Are not affected by spells which would affect the flesh.
+ • Gains a bonus to all saves equal to current hitpoints.  
+ • Are not affected by spells which would affect the flesh.  
 
 **Acid Blood**: Anytime the farokez is struck by a cleave, a weapon attack against the farokez is a critical hit, or an attack would cause the farokex to hemorrhage- everything within 2 feet in the direction of the attack are subject to an acid attack. A farokez is never subject to its own acid. A creature killed by the farokez's acid will be completely consumed by the acid.
 

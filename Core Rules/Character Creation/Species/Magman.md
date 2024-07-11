@@ -57,11 +57,11 @@ Choose two attributes. Each are increased by 1.
  • Cannot be affected by fire in any manner.
  • Cannot wear armor. They are treated as wearing brigandine.  
  • They do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
- • Cold attacks against the magman have disadvantage and cause the magman to be prone for a number of rounds equal to the attack total. This is cumulative.
- • Critical hits of Cold and Crushing attacks leave the magman vulnerable until the end of the round, even if the magman would not be wounded by it.
- • Every round the magman spends at least half submerged in water reduces its run and climb speeds by 1 foot until it spend twice as much time dry. This is cumulative. Once the magman's last mode of movement is reduced to 0 this way, it loses the ability to move at all until the appropriate amount of time has been spent dry.
- • The magman may put off light like a torch. This feature is an action to activate or deactivate.
- • Any effect which would heal the lumivaki has a 1 in 3 chance not to.
+ • Cold attacks against the magman have disadvantage and cause the magman to be prone for a number of rounds equal to the attack total. This is cumulative.  
+ • Critical hits of Cold and Crushing attacks leave the magman vulnerable until the end of the round, even if the magman would not be wounded by it.  
+ • Every round the magman spends at least half submerged in water reduces its run and climb speeds by 1 foot until it spend twice as much time dry. This is cumulative. Once the magman's last mode of movement is reduced to 0 this way, it loses the ability to move at all until the appropriate amount of time has been spent dry.  
+ • The magman may put off light like a torch. This feature is an action to activate or deactivate.  
+ • Any effect which would heal the magman has a 1 in 3 chance not to.  
  • They do not swim in water, instead walking on the surface below.
 
 **Molten Guard**: The unusual surface of the magman’s form causes all successful unarmed attacks to the magman to burn that foe, inflicting a fire attack.
