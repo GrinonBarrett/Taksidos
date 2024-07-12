@@ -1,4 +1,4 @@
-### A (7
+### A (8
 
 #### Abatis
 
@@ -18,6 +18,22 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
 **Critical Failure**: The barriers falls on you, inflict a Force attack, Crushing attack, and Piercing attack- each with a bonus equal to the spell's tier. The barrier is created, of course, and lasts for a number of rounds equal to 1d12 + spell tier.
+
+#### Abaxiate
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 3 yards
+
+**Duration**: 3 rounds
+
+**Effect**: You hold this spell for its duration, during which you may use your reaction in response to an object or creature moving (before knowing what direction it plans to move in) to designate a new direction for it to move. If it is not phsyically possible for it to move in that direction with its chosen mode of movement, the movement is treated as knockback movement.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 round.
+
+**Critical Failure**: You instead affect yourself with the spell. If you had already targeted yourself, you instead fail to move.
 
 #### Abnegate
 
