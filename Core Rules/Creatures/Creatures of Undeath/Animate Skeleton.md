@@ -95,3 +95,8 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 **Mindless**: Animate skeletons do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
 **Barebone Senses**: The skeleton is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch.
+
+-----
+
+***Creating an Animate Skeleton***: It is possible for one to use the Animate spell to create an animate skeleton from a reletively fleshless skeleton if it is cast as a 3rd tier or greater. On a critical success, the animate skeleton will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for 1d4-1 hours per point of success. On a critical failure, the skeleton is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+The skeleton is fully animate 1d12 rounds after the spell completes.
