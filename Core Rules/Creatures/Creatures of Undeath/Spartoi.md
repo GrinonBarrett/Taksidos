@@ -128,3 +128,8 @@ Warriors returned from the grave. Though they are mindless, they retain some of 
 **Mindless**: Spartoi do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
 **Limited Sensing**: The spartai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as ahuman's eyes for sight. It can also hear sound which travels through these cones. 
+
+-----
+
+***Creating a Spartai***: It is possible for one to use the Animate spell to create a spartai from a reletively fleshless skeleton if it is cast as a 4th tier or greater. THe remains must belong to a fallen warrior of some kind. On a critical success, the spartai will not be aggressive to its creator. It can be give an a target to pursue or a point to guard while it is forming. THe spartai will only be passive to its creator for 1d3-1 hours per point of success. On a critical failure, the spartai is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+The spartai is fully animate 1d6+2 rounds after the spell completes.
