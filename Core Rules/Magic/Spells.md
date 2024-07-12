@@ -43,7 +43,7 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 
 **Range**: 20 yards
 
-**Effect**: You attempt to counter a spell being cast, as though you knew the spell, so long as it is a lower tier than this spell. You must still perform a counterspell check. The foe gains a bonus to their check equal to their spell's tier and you gain a bonus equal to this spell's tier.
+**Effect**: You attempt to counter a spell being cast, as though you knew the spell, so long as it half the tier or lower than this spell. You must still perform a counterspell check. The foe gains a bonus to their check equal to their spell's tier and you gain a bonus equal to this spell's tier.
 If you critcally fail your counterspell check, you cannot affect the spell with another abnegation of the same or lower tier.
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
