@@ -57,28 +57,28 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 | **Electrical**             | 16     | **Piercing**       | 18     | **Biting**                 | 18    |
 |                            |        |                    |        |                            |            |
 | **Unlisted Damage Type**   | 17     |                    |        | **Undamaging**             | 16 |
-{resume}
+
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Clipped Wings     | It's flying speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
-|   4    | Collapse          | It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
-|   5    | Broken Bone       | The spartoi is prone until the end of the next round. |
+|   4    | Necrotic Flare    | Every other creature within 25 yards of the tromochtikai is subject to a necrotic attack which gains a bonus equal to the number of wounds the tromochtikai has sustained. |
+|   5    | Broken Bone       | The tromochtikai is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Dislodged bone    | Biased wound. The spartoi foregoes its turn during the next movement phase. |
+|   7    | Shattering Blow  | **Biased wound**. Until this wound is healed, the tromochtikai becomes vulnerable at the start of each round until it is damaged. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Lost Limb         | The spartoi loses a random limb. It can be reattached as an action. |
-|   10   | Destructive Blow  | Spartoi loses 1d20 points of undeath. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
-|   12   | Lost Limb        | The spartoi loses a random limb. It can be reattached as an action. |
-|   13   | Collapse         | Biased wound. It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
-|   14   | Broken Bone       | The spartai is prone until the end of the next round. |
-|   15   | Bell Rung         | The next attack made against the spartai before the end of the next round gets advantage.        |
-|   16   | Glancing Blow     | Biased wound. No effect. |
-|   17   | Trip Up           | Spartai must make a [Rflx] save against the attack total or be knocked prone.               |
-|   18   | Broken Bone       | The spartai is prone until the end of the next round. |
+|   9    | Backfire          | Everything (including the tromochtikai) within 50 yards is subject to a fire attack. |
+|   10   | Destructive Blow  | It loses 1d20 points of undeath. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Rattle            | The tromochtikai is prone until end of round. |
+|   13   | Glancing Blow     | **Biased wound**. No ill effect. |
+|   14   | Disrupted         | The tromochtikai cannot perform any magic abilities until the end of the next round. |
+|   15   | BRandom Regeneration | Roll a d20, if it is a taken wound result, the wound is healed. |
+|   16   | Glancing Blow     | **Biased wound**. No effect. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.               |
+|   18   | Lessor   Flare    | Every other creature within 25 yards of the tromochtikai is subject to a necrotic attack. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -95,7 +95,7 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 **-** Cannot be destroyed by massive damage.  
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
-
+{resume}
 **Mindless**: Spartoi do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
 **Limited Sensing**: The spartai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as ahuman's eyes for sight. It can also hear sound which travels through these cones. 
