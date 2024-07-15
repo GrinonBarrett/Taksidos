@@ -30,22 +30,26 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 
  • Smack: The tromochtikia may use a limb or random object against a foe within 4 yards. This is a melee unarmed attack.
 
+ • Claw: The tromochtikia may use a limb or wing to strike a foe within 2.5 yards. This may be treated as a melee piercing or cutting attack.
+
+ • Bite: The tromochtikia may bite a foe within 3 yards. This is a melee biting attack.
+
 ---------------------
 
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
-| **Club**                   | 20     | **Pole Axe**       | 15     | **Arrow, Bodkin Point**    | 19    |
-| **Longsword**              | 16     | **Greatsword**     | 15     | **Arrow, Broadhead**       | 19    |
-| **Mace**                   | 14     | **Maul**           | 13     | **Bolt**                   | 19    |
-| **Spear**                  | 16     | **Pike**           | 16     | **Brusgiata**              | 16    |
-| **Hand Axe**               | 15     | **Madu**           | 17     | **Chakram**                | 18    |
-| **Katar**                  | 17     | **Javelin**        | 16     | **Arquebus**               | 16    |
-| **Dagger**                 | 22     | **Throwing Blade** | 22     | **Musket**                 | 15    |
-| **Morningstar**            | 14     | **Sling**          | 21     | **Tronutonante**           | 17    |
-| **Warpick**                | 16     |                    |        | **Unarmed**        | 23    |   |      |
-|                            |        |                    |        |
+| **Club**                   | 22     | **Pole Axe**       | 17     | **Arrow, Bodkin Point**    | 20    |
+| **Longsword**              | 18     | **Greatsword**     | 17     | **Arrow, Broadhead**       | 20    |
+| **Mace**                   | 17     | **Maul**           | 17     | **Bolt**                   | 20    |
+| **Spear**                  | 18     | **Pike**           | 17     | **Brusgiata**              | 19    |
+| **Hand Axe**               | 18     | **Madu**           | 19     | **Chakram**                | 20    |
+| **Katar**                  | 19     | **Javelin**        | 18     | **Arquebus**               | 19    |
+| **Dagger**                 | 25     | **Throwing Blade** | 25     | **Musket**                 | 18    |
+| **Morningstar**            | 17     | **Sling**          | 22     | **Tronutonante**           | 19    |
+| **Warpick**                | 18     |                    |        | **Unarmed**        | 26    |   |      |
+|  {Resume}                   |        |                    |        |
 | **Acid**                   | 16     | **Fire**           | 16     | **Psychic**                | 19     |
 | **Cold**                   | 25     | **Force**          | 15     | **Toxic**                  | 26     |
 | **Crushing**               | 14     | **Ki**             | 13     | **Radiant**                | 13     |
