@@ -63,14 +63,14 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 |   4    | Rattle            | The animate skeleton is prone until end of round. |
 |   5    | Broken Bone       | The skeleton is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Stinging          | Biased wound. The skeleton is prone until the end of the next round. |
+|   7    | Stinging          | **Biased wound**. The skeleton is prone until the end of the next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Smashed Limb      | The skeleton loses one of its arms (or equivalent limb). |
 |   10   | Destructive Blow  | Skeleton loses 1d20 points of undeath. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Collapse         | **Biased wound**. It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
-|   14   | Broken Bone       | The scareton is prone until the end of the next round. |
+|   14   | Broken Bone       | The skeleton is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
