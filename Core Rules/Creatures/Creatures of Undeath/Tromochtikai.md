@@ -20,19 +20,19 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 
 **Run Speed**: It may run up to 6 yards per move.
 
-**Climb speed**: It may swim up to 3 yarsd per move, presuming it is reasonable to do so.
+**Climb Speed**: It may swim up to 3 yarsd per move, presuming it is reasonable to do so.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim Speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
-**Fly SPeed**: *It may fly up to 20 yard per move*.
+**Fly Speed**: *It may fly up to 20 yards per move*.
 
 **Unarmed Attacks**;
 
  • Smack: The tromochtikia may use a limb or random object against a foe within 4 yards. This is a melee unarmed attack.
 
- • Claw: The tromochtikia may use a limb or wing to strike a foe within 2.5 yards. This may be treated as a melee piercing or cutting attack.
+ • Claw: The tromochtikai may use a limb or wing to strike a foe within 2.5 yards. This may be treated as a melee piercing or cutting attack.
 
- • Bite: The tromochtikia may bite a foe within 3 yards. This is a melee biting attack.
+ • Bite: The tromochtikai may bite a foe within 3 yards. This is a melee biting attack.
 
 ---------------------
 
