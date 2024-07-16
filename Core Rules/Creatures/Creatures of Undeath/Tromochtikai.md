@@ -1,5 +1,5 @@
 ### Tromochtikai
-Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled tromocikai in its original Lithen.
+Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled tromocikai in its original Lithen and has entered into the Lazine tongue as Tromosokia.
 
 **Creature Type**: Tromochtikoi are undead.
 
@@ -95,12 +95,17 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 **-** Cannot be destroyed by massive damage.  
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
-{resume}
-**Mindless**: Spartoi do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
-**Limited Sensing**: The spartai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as ahuman's eyes for sight. It can also hear sound which travels through these cones. 
+**Voidtouched**: It has seen the veil and, as a result, is numb to the fears of mortality. Unless specified otherwise, fear based effects cannot affect the tromochtikai.
 
------
+**Terrifying Leap**: Once per encounter, the tromochtikai may leap five times its normal distance and may choose to do so as a reaction, causing any attacks against it to have disadvantage.
 
-***Creating a Spartai***: It is possible for one to use the Animate spell to create a spartai from a reletively fleshless skeleton if it is cast as a 4th tier or greater. THe remains must belong to a fallen warrior of some kind. On a critical success, the spartai will not be aggressive to its creator. It can be give an a target to pursue or a point to guard while it is forming. THe spartai will only be passive to its creator for 1d3-1 hours per point of success. On a critical failure, the spartai is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
-The spartai is fully animate 1d6+2 rounds after the spell completes.
+**Terrifying Roar**: Once per encounter, the tromochtikai may loose a terrifying roar as a full round action. Anything within half a mile must succeed a [Will] save with a DV equal to the tromochtikai's [Will] score + [Empy] bonus or be deathly afraid of the tromochtikai. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the result, causing them to be dazed and vulnerable during this time. A creature which can directly percieve the tromochtikai, has no remaining hitpoints, and a [Will] score below the tromochtikai is killed by the fear.
+
+**Breath Weapon**: The tromochtikai can exhude a devastating breath weapon as an action. This has two primary effects.  
+1) It prodocus a neon green flame which extends in a 40 yard line, which is .5 yards high and wide. It can sweep its head back and forth to instead produce a 30 yard cone. Anything caught within is subject to a fire attack and then a necrotic attack.
+2) *A noxious gas is emitted in a 40 yard cone which lasts for 1d4+4 rounds*. Anything in the area at the time the breath weapon is exhaled and anything which starts and ends a round in it is subject to a necrotic attack. Additionally, if a creature with no hitpoints started and ended its turn in the area, it is subject to a toxic attack.  
+The tromochtikai may opt to spend any number of phases continuing to exhale the breath weapon, expending any actions during appropriate phases and being unable to perform any reactions while doing so. It can still move during the appropriate phases.  
+Once finished with it, the tromochtikai rolls a number of d12s to datermine how long must pass before it may perform its breath weapon again equal to the number of phases it used the breath weapon. Each odd result is measured in hours, while each even result is measured in minutes.
+
+**Flare Burst**: *Once per encounter, the tromochtikai may loose a small burst of energy akin to its breath weapon. It spews a foot in diameter sphere out to a target within 50 yards. Everything within 2 yards of the impact point is subject to the attack type chosen by the tromochtikai from the following (Fire, Necrotic, Radiant). If the flare impact against a creature, it is also subject to a Toxic attack*.
