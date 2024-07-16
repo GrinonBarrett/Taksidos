@@ -1,5 +1,5 @@
 ### Tromochtikai
-Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled tromocikai in its original Lithen and has entered into the Lazine tongue as Tromosokia.
+Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled Tromocikai in its original Lithen and has entered into the Lazine tongue as Tromosokia.
 
 **Creature Type**: Tromochtikoi are undead.
 
