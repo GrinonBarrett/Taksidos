@@ -1,5 +1,5 @@
 ### Tromochtikai
-Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled Tromocikai in its original Lithen and has entered into the Lazine tongue as Tromosokia.
+Terrible creatures which appear where there is a powerful necromancer. The will wreak havoc on anything the encounter and have only been slain by legends of old. Their form resembles a dragon's skeleton, with an elengated spine and tail. It is also spelled Tromocikai in its original Lithen and has entered into the Lazine tongue as Tromosokia. They are not known to be created, but instead arrive as an omen that a powerful necromancer is near.
 
 **Creature Type**: Tromochtikoi are undead.
 
@@ -20,7 +20,7 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 
 **Run Speed**: It may run up to 6 yards per move.
 
-**Climb Speed**: It may swim up to 3 yarsd per move, presuming it is reasonable to do so.
+**Climb Speed**: It may swim up to 3 yards per move, presuming it is reasonable to do so.
 
 **Swim Speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
