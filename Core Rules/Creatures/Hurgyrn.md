@@ -1,34 +1,38 @@
 ### Hurgyrn
-Bipedal feline creatures which
+Possessing the head of a panther, mane of a hyena, arms and torso of a gorilla, and the lower quarters like an owl were it covered in thick fur- these vaguely humanoid monsters can be appropriately called monsters. Though they form tribes, their behaviour within those structures is akin to wild dogs. 
 
-**Creature Type**: Men-at-arms are Humanoids.
+**Creature Type**: Hurgyrn are Humanoids.
 
-**Size**: Bandits are between 4.5-6 feet tall. They can weigh between 130 and 185 pounds. They are medium creatures.
+**Size**: Bandits are between 4-5 feet tall. They can weigh between 95 and 125 pounds. They are medium creatures.
 
-**Hitpoints**: A man at arms has a single hitpoint.
+**Hitpoints**: A mhurgyrn has a single hitpoint.
 
 **Attributes**:  
-[Body] 12 (+4)  
+[Body] 13 (+4)  
 [Fort] 10 (+3)  
-[Rflx] 11 (+3)  
-[Will] 11 (+3)  
-[Inte] 10 (+3)  
+[Rflx] 14 (+4)  
+[Will] 9  (+3)  
+[Inte] 7  (+2)  
 [Prcp] 11 (+3)  
-[Empy] 10  (+3)  
+[Empy] 7  (+2)  
 
-**Languages**: Men at arms often speak the Common Tongue and one other.
+**Languages**: Hurgyrn do not speak any languages, but can communicate in yips and screeches to each other.
 
-**Run Speed**: It may run up to 5 yards per move.
+**Run Speed**: It may run up to 6 yards per move.
 
-**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
+Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable terrain to climb.
 
-**Weapon Attacks**: The man at arms is capable of using weapons. It even has proficiency in two weapons.
+**Swim speed**: You may swim up to 1 yards per move, presuming the water isn’t too rough.
 
-**Defenses**: A man at arms can use armor and a shield.
+**Weapon Attacks**: The hurgyrn is proficient in clubs and one other weapon. Even if not proficient, it will attempt to use a weapon if it has one available.
+
+**Defenses**: A hurgyrn can wear a limited form of armor made of natural materials which is ruined after a single point of damage. It could in theory wear traditional armor if fashined to its form, but it would not have the patience to don such garb. If it hypothetically is equipped, use the standard hit tables for that armor.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+{Resume}
+ • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
 
 ---------------------
 
