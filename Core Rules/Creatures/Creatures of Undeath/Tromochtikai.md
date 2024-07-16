@@ -49,12 +49,12 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 | **Dagger**                 | 25     | **Throwing Blade** | 25     | **Musket**                 | 18    |
 | **Morningstar**            | 17     | **Sling**          | 22     | **Tronutonante**           | 19    |
 | **Warpick**                | 18     |                    |        | **Unarmed**        | 26    |   |      |
-|  {Resume}                   |        |                    |        |
+|                            |        |                    |        |
 | **Acid**                   | 16     | **Fire**           | 16     | **Psychic**                | 19     |
 | **Cold**                   | 25     | **Force**          | 15     | **Toxic**                  | 26     |
 | **Crushing**               | 14     | **Ki**             | 13     | **Radiant**                | 13     |
 | **Cutting**                | 18     | **Necrotic**       | 19     | **Sonic**                  | 16    |
-| **Electrical**             | 16     | **Piercing**       | 18     | **Biting**                 | 18    |
+| **Electrical**             | 16     | **Piercing**       | 18     | **Biting**                 | 19    |
 |                            |        |                    |        |                            |            |
 | **Unlisted Damage Type**   | 17     |                    |        | **Undamaging**             | 16 |
 
@@ -108,4 +108,6 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 The tromochtikai may opt to spend any number of phases continuing to exhale the breath weapon, expending any actions during appropriate phases and being unable to perform any reactions while doing so. It can still move during the appropriate phases.  
 Once finished with it, the tromochtikai rolls a number of d12s to datermine how long must pass before it may perform its breath weapon again equal to the number of phases it used the breath weapon. Each odd result is measured in hours, while each even result is measured in minutes.
 
-**Flare Burst**: *Once per encounter, the tromochtikai may loose a small burst of energy akin to its breath weapon. It spews a foot in diameter sphere out to a target within 50 yards. Everything within 2 yards of the impact point is subject to the attack type chosen by the tromochtikai from the following (Fire, Necrotic, Radiant). If the flare impact against a creature, it is also subject to a Toxic attack*.
+**Flare Burst**: *Once per encounter, the tromochtikai may loose a small burst of energy akin to its breath weapon. It spews a foot in diameter sphere out to a target within 50 yards. Everything within 2 yards of the impact point is subject to the attack type chosen by the tromochtikai from the following (Fire, Necrotic, Radiant). If the flare impacts against a creature, it is also subject to a Toxic attack*.
+
+**Spell-like Ability**: The tromochtikai has a single spell *it may cast once per encounter. Its tier cannot exceed the [Will] bonus of the tromochtikai. The tromochtikai does not need to make a check and is sonsidered to have a number of points of success equal to its [Will] score + 1d6, which may produce a critical success*.
