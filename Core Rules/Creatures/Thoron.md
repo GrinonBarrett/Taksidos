@@ -72,21 +72,21 @@ They are considered the violent defenders of nature- Not something to be reasone
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
 |   4    | Bit Bark       | The thoron will direct its attention to whatever caused this wound, but the wound itself has no other mehcanical effect. One can see the woody flesh of the thoron where this wound was dealt until it heals. |
 |   5    | Glancing Blow      | This wound has no effect. |
 |   6    | Critical Vision    | The thoron's instincts and sensory organs experience a strange boost for a moment. It can see in a perfect sphere until the end of the next round.|
-|   7    | Stinging Wound   | Biased wound. -1 penalty to checks until end of next round. |
+|   7    | Stinging Wound   | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | The thoron loses its reaction during the next round. |
 |   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Thorn Burst       | Biased wound. A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A thoron cannot be affected by this.  |
+|   13   | Thorn Burst       | **Biased wound**. A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A thoron cannot be affected by this.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Bit Bark       | The thoron will direct its attention to whatever caused this wound, but the wound itself has no other mehcanical effect. One can see the woody flesh of the thoron where this wound was dealt until it heals. |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Bit Bark       | **Biased Wound**. The thoron will direct its attention to whatever caused this wound, but the wound itself has no other mehcanical effect. One can see the woody flesh of the thoron where this wound was dealt until it heals. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
