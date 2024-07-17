@@ -91,21 +91,21 @@ Warriors returned from the grave. Though they are mindless, they retain some of 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
 |   4    | Collapse          | It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
 |   5    | Broken Bone       | The spartoi is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Dislodged bone    | Biased wound. The spartoi foregoes its turn during the next movement phase. |
+|   7    | Dislodged bone    | **Biased wound**. The spartoi foregoes its turn during the next movement phase. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Lost Limb         | The spartoi loses a random limb. It can be reattached as an action. |
 |   10   | Destructive Blow  | Spartoi loses 1d20 points of undeath. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Lost Limb        | The spartoi loses a random limb. It can be reattached as an action. |
-|   13   | Collapse         | Biased wound. It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
+|   13   | Collapse         | **Biased wound**. It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
 |   14   | Broken Bone       | The spartai is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against the spartai before the end of the next round gets advantage.        |
-|   16   | Glancing Blow     | Biased wound. No effect. |
+|   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Spartai must make a [Rflx] save against the attack total or be knocked prone.               |
 |   18   | Broken Bone       | The spartai is prone until the end of the next round. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
@@ -127,7 +127,7 @@ Warriors returned from the grave. Though they are mindless, they retain some of 
 
 **Mindless**: Spartoi do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
-**Limited Sensing**: The spartai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as ahuman's eyes for sight. It can also hear sound which travels through these cones. 
+**Limited Sensing**: The spartai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight. It can also hear sound which travels through these cones. 
 
 -----
 
