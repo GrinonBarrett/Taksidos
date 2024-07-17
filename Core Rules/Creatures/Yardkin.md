@@ -93,24 +93,25 @@ Grandfolk of the plains. The nomadic grandfolk known as yardkin are easy to get 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
-|   3    | Favored Limb      | The limb featuring your main hand no longer is functional until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
-|   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
-|   7    | Stumble | Biased wound. Your are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Favored Limb      | The limb featuring its main hand no longer is functional until this wound is healed. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on your sight until this wound is healed. |
+|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Appendage         | A limb featuring an off hand is longer functional until this wound is healed. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
-|   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | Biased Wound. A mortal wound has been inflicted against a vital organ. The yardkin must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   10   | Surprising Force | It cannot take a reaction during the following round. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging.  |
+|   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Off Limb | Biased wound. The limb featuring your off hand no longer is functional until this wound is healed. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Mortal Wound | Biased wound. Man at arms must make an incapacitation save or die immediately. |
+|   16   | Off Limb | **Biased wound**. The limb featuring your off hand no longer is functional until this wound is healed. |
+|   17   | Trip Up  | Make a [Rflx] save against the attack total or be knocked prone.  |
+|   18   | Mortal Wound | **Biased wound**. It must make an incapacitation save or die immediately. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
+|   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
 ---------------------
@@ -118,11 +119,11 @@ Grandfolk of the plains. The nomadic grandfolk known as yardkin are easy to get 
 #### Variants
 Among the yardkin people, there are a few standouts. 
 
-**Yardkin Warriors**: Yardkin warriors have additional training in weapons. Their normal weapon proficiencies are supplemented by proficiency spear, pike, greatsword, lance, mace, and morningstar. They also have profiency in shields.
+**Yardkin Warriors**: Yardkin warriors have additional training in weapons. Their normal weapon proficiencies are supplemented by proficiency with spear, pike, greatsword, mace, and morningstar. They also have profiency in shields.
 
 **Yardkin Helmists**: Chaplains and key members of society. Helmists are capable of performing magic. They typically know the following spells: _Expulsion Sphere_, _Gravitic Disruption_, _Shackling Order_, _Spectral Burst_, and two more spells. They are also proficient with staves and shields in addition to their normal proficiencies.
 
-###### Create the Shackling Order spell.
+###### {Create the Shackling Order spell}
 
 --------
 
@@ -130,4 +131,4 @@ Among the yardkin people, there are a few standouts.
 
 **Show of Strength**: When the yardkin would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
-**Yardkin Resilieince**: Yardkin double their attribute bonus on all [Empy] and [Will] saves against magical effects.
+**Yardkin Resilience**: Yardkin double their attribute bonus on all [Empy] and [Will] saves against magical effects.
