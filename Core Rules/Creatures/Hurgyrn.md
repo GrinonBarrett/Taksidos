@@ -127,4 +127,4 @@ Among the hurgyrn, there can be some standouts.
 
 -----
 
-**Resistance**: A hurgyn gains a +1 to all saves against magical effects. If it knows the spell it is being affected by, it also doubles its bonus to saves and defense for knowing that spell.
+**Resistance**: A hurgyrn gains a +1 to all saves against magical effects. If it knows the spell it is being affected by, it also doubles its bonus to saves and defense for knowing that spell.
