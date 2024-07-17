@@ -77,14 +77,14 @@ An amphibian, torn from the sea. They appear to be covered in turgid ticks crawl
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | It loses its reaction during the next round. |
-|   10   | Vital Organ        | A mortal wound has been inflicted against a vital organ. The inhaubulcher must perform an incapacitation save or die immediately. Until this wound is healed, it must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   10   | Vital Organ        | A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Nasty Burst       | **Biased wound**. Everything within 2 feet is covered in the inhaubulcher's oil.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Oil Spill       | The inhaubulcher begins leaking its oil, covering itself and anything it touches. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
@@ -98,7 +98,7 @@ An amphibian, torn from the sea. They appear to be covered in turgid ticks crawl
 
 **Spell Resistance**: The inhaubulcher gets a bonus to defense and saves against spells equal to that spell's tier.
 
-**Inhaubulcher's Oil**: The inhaubulcher's body produces an oily substance which is quite flammable and dissolve's mucous. The inhaubulcher is immune to the effects of the Mucous feature. ADditionally, if it is leaking oil, fire attacks against the inhaubulcher automatically apply the critical effect of fire attacks (this does not make the attack an automatic critical success). Anything covered in the inhaubulcher's oil is subject to the same. Potent alcohol will eliminate the substance.
-ANytime the inhaubulcher brawls with a creature, that creature becomes covered in the substance.
+**Inhaubulcher's Oil**: The inhaubulcher's body produces an oily substance which is quite flammable and dissolve's mucous. The inhaubulcher is immune to the effects of the Mucous feature. Additionally, if it is leaking oil, fire attacks against the inhaubulcher automatically apply the critical effect of fire attacks (this does not make the attack an automatic critical success). Anything covered in the inhaubulcher's oil is subject to the same. Potent alcohol will eliminate the substance.
+Anytime the inhaubulcher brawls with a creature, that creature becomes covered in the substance.
 
 **Exploding Death**: If the inhaubulcher dies as a result of fire, a necrotic attack, a spell which instantly kills it, or massive damage- it tick like appendages fly everywhere. An attack roll is made against every creature within 1 yard. If the die result against a creature is even, it is a toxic attack. If odd, it is a biting attack. This cannot inflict a critical hit.
