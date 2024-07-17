@@ -1,3 +1,4 @@
+
 ### Bandit
 Common run of the mill bandits. If death seems like a serious possibility, they will opt to leave.
 
@@ -102,7 +103,7 @@ Common run of the mill bandits. If death seems like a serious possibility, they 
 |   10   | Surprising Force   | It cannot take a reaction during the next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. The bandit must perform an incapacitation save or die immediately. It is hemorrhaging.  |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Off Limb | **Biased wound**. The limb featuring your off hand no longer is functional until this wound is healed. |
