@@ -1,5 +1,5 @@
 ### Peasant
-Not at all soldiers in the least, but given a weapon anyways. These are ragtags only in combat in a pinch. Although, sometimes they may get into a drunken brawl.
+Not at all soldiers in the least, but given a weapon anyways. These are ragtags who should only see combat in a pinch. Sometimes they may get into a drunken brawl, so that may be another use of this statblock for a narrator.
 
 **Creature Type**: Peasants are Humanoids.
 
@@ -28,7 +28,7 @@ Not at all soldiers in the least, but given a weapon anyways. These are ragtags 
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The bandit may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The peasant may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
 
 ---------------------
 
@@ -91,23 +91,23 @@ Not at all soldiers in the least, but given a weapon anyways. These are ragtags 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
-|   3    | Favored Limb      | The limb featuring your main hand no longer is functional until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
-|   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
-|   7    | Stumble | Biased wound. Your are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Appendage         | A limb featuring an off hand is longer functional until this wound is healed. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
-|   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | Biased Wound. A mortal wound has been inflicted against a vital organ. The peasent must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Off Limb | Biased wound. The limb featuring your off hand no longer is functional until this wound is healed. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Mortal Wound | Biased wound. Peasant must make an incapacitation save or die immediately. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Favored Limb      | The limb featuring its main hand no longer is functional until this wound is healed. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. it also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
+|   6    | Winded            | It must succeed a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time. |
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   8    | Stunned     | It is dazed until the end of the next round.                        |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   10   | Surprising Force  | It cannot take a reaction during the next round. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging.  |
+|   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
+|   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Off Limb | **Biased wound**. The limb featuring its off hand no longer is functional until this wound is healed. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Mortal Wound | **Biased wound**. It must make an incapacitation save or die immediately. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
