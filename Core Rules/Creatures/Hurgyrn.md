@@ -5,7 +5,7 @@ Possessing the head of a panther, mane of a hyena, arms and torso of a gorilla, 
 
 **Size**: Bandits are between 4-5 feet tall. They can weigh between 95 and 125 pounds. They are medium creatures.
 
-**Hitpoints**: A mhurgyrn has a single hitpoint.
+**Hitpoints**: A hurgyrn has a single hitpoint.
 
 **Attributes**:  
 [Body] 13 (+4)  
@@ -22,7 +22,7 @@ Possessing the head of a panther, mane of a hyena, arms and torso of a gorilla, 
 
 Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 1 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
 **Weapon Attacks**: The hurgyrn is proficient in clubs and one other weapon. Even if not proficient, it will attempt to use a weapon if it has one available.
 
@@ -31,72 +31,70 @@ Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable ter
 **Unarmed Attacks**;
 
  • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
-{Resume}
- • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+
+ • Claws: If a foe is prone, and the hurgyrn is not, it may use its leg claws to perform a slashing attack against a foe.
 
 ---------------------
 
 **Table**: *Melee Weapon Attack versus Armor*
-| Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    | Plate   |
-|------------------------|-----------|----------|------------|---------|------------|---------|
-|                        |           |          |            |         |            |         |
-| Unarmed                | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
-| Longsword              | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
-| Mace                   | 7 - 10    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Spear                  | 5 - 8     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
-| Hand Axe               | 6 - 9     | 9 - 11   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
-| Katar                  | 5 - 8     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
-| Dagger                 | 6 - 9     | 8 - 10   | 12 - 13    | 14 - 16 | 13 - 15    | 15 - 18 |
-| Morningstar            | 6 - 9     | 10 - 12  | 11 - 13    | 13 - 15 | 13 - 15    | 14 - 17 |
-| Warpick                | 6 - 9     | 9 - 11   | 11 - 13    | 12 - 14 | 13 - 15    | 14 - 17 |
-|                        |           |          |            |         |            |         |
-| Pole Axe               | 5 - 8     | 8 - 10   | 9 - 11     | 12 - 14 | 12 - 14    | 16 - 19 |
-| Greatsword             | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Maul                   | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
-| Pike                   | 6 - 9     | 7 - 9    | 9 - 11     | 12 - 14 | 12 - 14    | 15 - 18 |
-| Club                   | 7 - 10    | 10 - 12  | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
-| Madu                   | 6 - 9     | 8 - 10   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
-|                        |           |          |            |         |            |         |
-| Couched Lance          | 3 - 6     | 6 - 8    | 8 - 10     | 10 - 12 | 10 - 12    | 13 - 16 |
-|                        |           |          |            |         |            |         |
-| Javelin                | 6 - 10    | 8 - 11   | 11 - 14    | 13 - 16 | 13 - 16    | 16 - 20 |
-| Arrow, Bodkin Point    | 6 - 10    | 9 - 12   | 11 - 14    | 12 - 15 | 13 - 16    | 15 - 19 |
-| Arrow, Broadhead       | 5 - 9     | 8 - 11   | 11 - 14    | 13 - 16 | 12 - 15    | 16 - 20 |
-| Bolt                   | 6 - 10    | 9 - 12   | 10 - 13    | 11 - 14 | 12 - 15    | 14 - 18 |
-| Throwing Blade         | 4 - 9     | 10 - 13  | 12 - 15    | 13 - 16 | 13 - 16    | 17 - 21 |
-| Brusgiata              | 6 - 10    | 9 - 12   | 11 - 14    | 12 - 15 | 12 - 15    | 15 - 19 |
-| Chakram                | 5 - 9     | 8 - 11   | 10 - 13    | 13 - 16 | 13 - 16    | 17 - 21 |
-| Sling*                 | 5 - 9     | 10 - 13  | 12 - 15    | 14 - 17 | 13 - 16    | 17 - 21 |
-| Arquebus               | 6 - 8     | 9 - 11   | 11 - 13    | 11 - 13 | 12 - 14    | 13 - 15 |
-| Musket                 | 5 - 7     | 9 - 11   | 11 - 13    | 11 - 13 | 11 - 13    | 12 - 14 |
-| Tronutonante           | 6 - 8     | 9 - 11   | 11 - 13    | 11 - 13 | 12 - 14    | 14 - 16 |
-|                        |           |          |            |         |            |         |
-| Unlisted Weapons       | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
-|                        |           |          |            |         |            |         |
-| Acid                   | 4 - 7     | 8 - 10   | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Biting                 | 3 - 6     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
-| Cold                   | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 11 - 13    | 14 - 17 |
-| Crushing               | 6 - 7     | 9 - 10   | 11 - 12    | 13 - 14 | 12 - 13    | 15 - 16 |
-| Cutting                | 4 - 7     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Electrical             | 5 - 8     | 9 - 11   | 10 - 12    | 12 - 14 | 11 - 13    | 14 - 17 |
-| Fire                   | 5 - 8     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Force                  | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
-| Ki                     | 6 - 9     | 8 - 10   | 10 - 12    | 11 - 13 | 12 - 14    | 14 - 17 |
-| Necrotic               | 2 - 5     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Piercing               | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
-| Psychic                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Radiant                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Toxic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
-|                        |           |          |            |         |            |         |
-| Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
-|                        |           |          |            |         |            |         |
-| Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
+| Weapon                 | Unarmored | Improvised |
+|------------------------|-----------|----------|
+|                        |           |          |
+| Unarmed                | 11 - 14   | 13 - 15  |
+| Longsword              | 6 - 8     | 7 - 9   |
+| Mace                   | 7 - 9    | 9 - 11  |
+| Spear                  | 5 - 7     | 6 - 8   |
+| Hand Axe               | 6 - 8     | 7 - 9   |
+| Katar                  | 5 - 7     | 8 - 10   |
+| Dagger                 | 6 - 8     | 7 - 9   |
+| Morningstar            | 6 - 8     | 9 - 11  |
+| Warpick                | 6 - 8     | 9 - 11   |
+|                        |           |          |
+| Pole Axe               | 5 - 7     | 8 - 10   |
+| Greatsword             | 5 - 7     | 8 - 10   |
+| Maul                   | 6 - 8     | 9 - 11   |
+| Pike                   | 6 - 8     | 8 - 10    |
+| Club                   | 7 - 9    | 10 - 12  |
+| Madu                   | 6 - 8     | 8 - 10   |
+|                        |           |          |
+| Javelin                | 6 - 8    | 10 - 12   |
+| Arrow, Bodkin Point    | 6 - 8    | 9 - 11   |
+| Arrow, Broadhead       | 5 - 7     | 9 - 11   |
+| Bolt                   | 6 - 8    | 9 - 11   |
+| Throwing Blade         | 4 - 6     | 10 - 13  |
+| Brusgiata              | 6 - 8    | 9 - 11   |
+| Chakram                | 5 - 7     | 9 - 11   |
+| Sling*                 | 5 - 7     | 10 - 12  |
+| Arquebus               | 6 - 7     | 7 - 9   |
+| Musket                 | 5 - 6     | 6 - 8   |
+| Tronutonante           | 6 - 8     | 7 - 9   |
+|                        |           |          |
+| Unlisted Weapons       | 6 - 8     | 8 - 10   |
+|                        |           |          |
+| Acid                   | 4 - 7     | 7 - 10   |
+| Biting                 | 3 - 6     | 7 - 9    |
+| Cold                   | 3 - 6     | 7 - 9    |
+| Crushing               | 6 - 7     | 7 - 9    |
+| Cutting                | 4 - 7     | 8 - 10   |
+| Electrical             | 5 - 8     | 7 - 9    |
+| Fire                   | 5 - 8     | 4 - 6    |
+| Force                  | 6 - 9     | 8 - 10   |
+| Ki                     | 6 - 9     | 7 - 9    |
+| Necrotic               | 2 - 5     | 6 - 8    |
+| Piercing               | 6 - 9     | 8 - 10   |
+| Psychic                | 5 - 8     | 6 - 8    |
+| Radiant                | 5 - 8     | 8 - 10   |
+| Sonic                  | 4 - 7     | 8 - 10   |
+| Toxic                  | 4 - 7     | 8 - 10   |
+|                        |           |          |
+| Undamaging*            | 7 - 10    | 8 - 10   |
+|                        |           |          |
+| Unlisted Damage Type   | 5 - 7     | 8 - 10   |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
-|   1    | Attacker's Choice |                                                                |
+|   1    | Attacker's Choice |      {resume}                                                          |
 |   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
 |   3    | Favored Limb      | The limb featuring your main hand no longer is functional until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
@@ -119,3 +117,5 @@ Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable ter
 |        |                                                |                                   |
 
 ---------------------
+
+**Resistance**: A hurgyn gains a +1 to all saves against magical effects. If it knows the spell it is being affected by, it also doubles its bonus to saves and defense for knowing that spell.
