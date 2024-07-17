@@ -48,21 +48,21 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 | **Katar**                  | 19     | **Javelin**        | 18     | **Arquebus**               | 19    |
 | **Dagger**                 | 25     | **Throwing Blade** | 25     | **Musket**                 | 18    |
 | **Morningstar**            | 17     | **Sling**          | 22     | **Tronutonante**           | 19    |
-| **Warpick**                | 18     |                    |        | **Unarmed**        | 26    |   |      |
-|                            |        |                    |        |
+| **Warpick**                | 18     |                    |        | **Unarmed**                | 26    |
+|                            |        |                    |        |                            |        |
 | **Acid**                   | 16     | **Fire**           | 16     | **Psychic**                | 19     |
 | **Cold**                   | 25     | **Force**          | 15     | **Toxic**                  | 26     |
 | **Crushing**               | 14     | **Ki**             | 13     | **Radiant**                | 13     |
 | **Cutting**                | 18     | **Necrotic**       | 19     | **Sonic**                  | 16    |
 | **Electrical**             | 16     | **Piercing**       | 18     | **Biting**                 | 19    |
-|                            |        |                    |        |                            |            |
+|                            |        |                    |        |                            |        |
 | **Unlisted Damage Type**   | 17     |                    |        | **Undamaging**             | 16 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Clipped Wings     | It's flying speed is halved until this wound is healed.      |
+|   2    | Clipped Wings     | Its flying speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
 |   4    | Necrotic Flare    | Every other creature within 25 yards of the tromochtikai is subject to a necrotic attack which gains a bonus equal to the number of wounds the tromochtikai has sustained. |
 |   5    | Broken Bone       | The tromochtikai is prone until the end of the next round. |
@@ -75,10 +75,10 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 |   12   | Rattle            | The tromochtikai is prone until end of round. |
 |   13   | Glancing Blow     | **Biased wound**. No ill effect. |
 |   14   | Disrupted         | The tromochtikai cannot perform any magic abilities until the end of the next round. |
-|   15   | BRandom Regeneration | Roll a d20, if it is a taken wound result, the wound is healed. |
+|   15   | Random Regeneration | Roll a d20, if it is a taken wound result, the wound is healed. |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.               |
-|   18   | Lessor   Flare    | Every other creature within 25 yards of the tromochtikai is subject to a necrotic attack. |
+|   18   | Lessor Flare      | Every other creature within 25 yards of the tromochtikai is subject to a necrotic attack. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
