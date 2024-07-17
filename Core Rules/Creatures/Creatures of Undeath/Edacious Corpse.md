@@ -58,7 +58,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
 |   4    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
 |   5    | Broken Bone       | The edacious corpse is prone until the end of the next round. |
@@ -70,7 +70,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 |   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Glancing Blow     | No ill effects. |
 |   13   | Memory            | **Biased wound**. The edacious corpse is stunned as it endures a flashback of its life. Until the end of the next round, so long as nothing attacks or comes in contact with the edacious corpse, it does nothing. If something does disturb it, it becomes the center of its attention. |
-|   14   | Broken Bone       | The edacious is prone until the end of the next round. |
+|   14   | Broken Bone       | The edacious corpse is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
