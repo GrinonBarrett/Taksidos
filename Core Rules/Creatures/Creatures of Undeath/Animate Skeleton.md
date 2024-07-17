@@ -58,7 +58,7 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
 |   4    | Rattle            | The animate skeleton is prone until end of round. |
 |   5    | Broken Bone       | The skeleton is prone until the end of the next round. |
