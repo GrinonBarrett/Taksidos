@@ -48,7 +48,7 @@ These creatures bear two large back legs, two forward legs, a large pincer like 
 | **Katar**                  | 17     | **Javelin**         | 17    | **Arquebus** | 13    |
 | **Dagger**                 | 18     | **Throwing Blade**  | 21    | **Musket** | 12    |
 | **Morningstar**            | 16     | **Sling**           | 23    | **Tronutonante** | 15    |
-| **Warpick**                | 15     | **Unarmed**         | 25  |  |     |
+| **Warpick**                | 15     |                     |       |  **Unarmed**     | 25  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 14     | **Fire** | 13     | **Psychic** | 17     |
 | **Cold**                   | 14     | **Force** | 14     | **Toxic**  | 13     |
@@ -62,23 +62,23 @@ These creatures bear two large back legs, two forward legs, a large pincer like 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Striker Lost      | It loses one of its strikers. |
-|   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. It is hemorrhaging. |
 |   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | Biased wound. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, you must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stagger        | It has its movement halved until the end of the round. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
-|   12   | Stumble | You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   13   | Eye Stalk | Biased Wound. The aranidh's eye stalk is destroyed, causing it to be blind until this wound is healed. |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Stumble | It is prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   13   | Eye Stalk | **Biased Wound**. The aranidh's eye stalk is destroyed, causing it to be blind until this wound is healed. |
+|   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Tail Shot | Biased wound. It cannot use its Spine Tail attack during this round and loses its Superior Balance feature until this wound is healed. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Lost Striker | Biased wound. It loses one of its strikers. |
+|   16   | Tail Shot | **Biased wound**. It cannot use its Spine Tail attack during this round and loses its Superior Balance feature until this wound is healed. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Lost Striker | **Biased wound**. It loses one of its strikers. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
