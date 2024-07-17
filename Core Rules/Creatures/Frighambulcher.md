@@ -74,15 +74,15 @@ They appear as hairy mounds that scoot along the forest floor. When they attack 
 |   4    | Beat Up       | The frighambulcher loses a hitpoint. |
 |   5    | Glancing Blow      | This wound has no effect. |
 |   6    | Stunned    | The frighambulcher is dazed until the end of the next round.|
-|   7    | Stinging Wound    | Biased wound. -1 penalty to checks until end of next round. |
+|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | It loses its reaction during the next round. |
-|   10   | Vital Organ        | A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   10   | Vital Organ        | A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Startle       | Biased wound. The frighambulcher has a little panic attack and will do everything it can until the end of the next round to leave the area.  |
+|   13   | Startle       | **Biased wound**. The frighambulcher has a little panic attack and will do everything it can until the end of the next round to leave the area.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Spit Up       | The frighambulcher spews some of its stomach acid at something within 5 yards. Treat as a ranged acid attack. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
@@ -102,4 +102,4 @@ They appear as hairy mounds that scoot along the forest floor. When they attack 
 
 **Swallow Whole**: If the frighambulcher successfully grapples a creature of equal or smaller size, it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape. 
 
-**Stomach Acid**: ANything in the frighambulcher's stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
+**Stomach Acid**: Anything in the frighambulcher's stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
