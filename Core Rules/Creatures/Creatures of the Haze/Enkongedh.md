@@ -24,7 +24,7 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 
 **Unarmed Attacks**;
 
- • Maw: The enkongedh's maw can be used to deliver a biting melee attack while brawling. It is not penalized for this attack while brawling and may only perform the attack while brawling .
+ • Maw: The enkongedh's maw can be used to deliver a biting melee attack while brawling. It is not penalized for this attack while brawling and may only perform the attack while brawling.
 
 ---------------------
 
@@ -40,7 +40,7 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 | **Katar**                  | 10     | **Javelin**         | 13    | **Arquebus** | 10    |
 | **Dagger**                 | 10     | **Throwing Blade**  | 13    | **Musket** | 9    |
 | **Morningstar**            | 10     | **Sling**           | 16    | **Tronutonante** | 11    |
-| **Warpick**                | 11     | **Unarmed**         | 15  |  |     |
+| **Warpick**                | 11     |                     |  **Unarmed**         | 15   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 10     | **Psychic** | 10     |
 | **Cold**                   | 11     | **Force** | 10     | **Toxic**  | 11     |
@@ -54,23 +54,23 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
-|   3    | Stumble      | You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The enkongedh must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Stumble      | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, you must choose the other. |
+|   4    | Mortal Blow       | Until this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging. |
 |   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | Biased wound. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, ita choice. If it already suffers from one, it must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stagger        | It has its movement halved until the end of the round. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
-|   12   | Stumble | You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   13   | Abdominal Eye | Biased Wound. The enkongedh's abdominal eye ceases to function until this wound is healed. |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Stagger | Biased wound. It has its movement halved until the end of the next round. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Kill Shot | Biased wound. It dies instantly. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Stumble | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   13   | Abdominal Eye | **Biased Wound**. The enkongedh's abdominal eye ceases to function until this wound is healed. |
+|   14   | Flesh Wound | Attacks made against it until the end of the encounter get a +1 bonus. |
+|   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Stagger | **Biased wound**. It has its movement halved until the end of the next round. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Kill Shot | **Biased wound**. It dies instantly. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -83,4 +83,4 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 * It can see in a 200 degree arc behind itself. This prevents foes from taking advantage of attacking its rear.  
 * It can see infrared emissions, allowing it to see warm blooded creatures.
 * It is able to detect the presence of magic and the ki possessed by creatures.
-* It may _perform a ranged radiant attack. This functions identically to a wand for all intents and purposes*. This attack can be fired forward as normal or through the creature's rear direction. It cannot b fired more than once per round nor on consecutive rounds.
+* It may perform a ranged radiant attack. This functions identically to a wand for all intents and purposes*. This attack can be fired forward as normal or through the creature's rear direction. It cannot be fired more than once per round nor on consecutive rounds.
