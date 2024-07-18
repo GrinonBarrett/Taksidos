@@ -67,9 +67,9 @@ These creatures bear two large back legs, two forward legs, a large pincer like 
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. It is hemorrhaging. |
 |   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, you must choose the other. |
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stagger        | It has its movement halved until the end of the round. |
 |   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Stumble | It is prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
