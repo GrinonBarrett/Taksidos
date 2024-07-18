@@ -48,7 +48,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 |  |   |
+| **Warpick**                | 6-9   |   |  |**Unarmed** | 11-13  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
