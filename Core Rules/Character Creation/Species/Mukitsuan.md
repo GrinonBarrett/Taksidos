@@ -23,7 +23,7 @@ Choose two attributes. Each are increased by 1.
 
 ### Special Features
 
-**Comproficiency**: You gain proficiency in two skills of your choice. You may replace either (or both) skill proficiencies with a competency of your choice.
+**Comproficiency**: You gain proficiency in two skills of your choice. You may replace one or both skill proficiencies with comptency in two languages each.
 
 **Amorphous**: Mukitsuan don’t retain a single cohesive shape but are instead in the form of a glob of snotty material. This confers some strange properties to it.  
  • Immunity to falling and knockback damage.  
@@ -34,7 +34,7 @@ Choose two attributes. Each are increased by 1.
  • While the mukitsuan has a creature grappled, it can treat that creature as being unarmored for the purpose of attacking it.  
  • The mukitsuan is capable of traveling through any opening small enough to stick both of one’s hands.  
  • Cannot use armor, shields, or any item unless it mentions it can be used by the mukitsuan. When attacked, treat as wearing gambeson.  
- • Receives wounds, but no effect from them. If a creature would be able to modify a wound result against the mukitsuan, it may choose to destory one of its appendages. If it does, a new appendage will automatically regrow at the end of the next round.
+ • Receives wounds, but no effect from them. If a creature would be able to modify a wound result against the mukitsuan, it may choose to destroy one of its appendages. If it does, a new appendage will automatically regrow at the end of the next round.
 
 **Infigural Nature**: Being infigura, mukitsuan have several advantages.  
  • Immunity to all poisons and diseases, including toxic damage, except those that specifically affect infigura.  
