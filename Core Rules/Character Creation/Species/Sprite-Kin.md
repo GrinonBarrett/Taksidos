@@ -3,7 +3,7 @@ Faeries more comfortable with both civilization and adventure than most, sprite-
 
 **Creature Type**: Sprite-kin are fey.
 
-**Size**: Sprite-kin stand between 3'-4'" meters tall. They can weigh between 84-132 pounds. They are medium creatures.
+**Size**: Sprite-kin stand between 3-4 feet tall. They can weigh between 84-132 pounds. They are medium creatures.
 
 **Ability Score Modification**: As a Sprite-Kin, you have the following adjustments to your attributes  
 -1 [Body]  
