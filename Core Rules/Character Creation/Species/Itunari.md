@@ -1,5 +1,5 @@
 ## ITUNARI
-Centuries ago, a dethroned nomad king waged a campaign of vengeance. In desperation, he made a pact with Othmazdo (a god of life, death, and vengeance) to become a monster to finish his quest. Those that still followed him became subject to the curse as well. In this form, he successfully led his followers to finish his quest. As a result of this compact, the cursed were forced to remain destructive monsters themselves until they would ultimately be destroyed by vengeance. It is rumored that they can be laid to rest if they locate and lay low their former king. Itunari characters get the following features;
+Centuries ago, a dethroned nomad king waged a campaign of vengeance. In desperation, he made a pact with Othmazdo (a god of life, death, and vengeance) to become a monster to finish his quest. Those that still followed him became subject to the curse as well. In this form, he successfully led his followers to finish his quest. As a result of this compact, the cursed were forced to remain destructive monsters themselves until they would ultimately be destroyed by vengeance. Itunari characters get the following features;
 
 **Creature Type**: Itunari are monsters.
 
@@ -96,3 +96,5 @@ The DV of the save is equal to double your level.
 
 **Blind Fury**: Anytime an attack against the itunari has at least 5 points of success, it becomes blind with fury. At the end of each round it is in this fury, it must succeed a [Will] save with a DV of 18 to end the fury. It has disadvantage on this save if it did not kill or incapacitate a foe during that round. During each round it is subject to this fury, it must attack a another creature during the phase of the round it is capable of doing so. Additionally, it must use its movement during the Primary movement phase to bring itself into range to attack the nearest creature or a creature which has dealt damage to it since the beginning of the previous round.  
 When the fury ends, the itunari suffers two levels of exhaustion. The itunari cannot be killed by exhaustion gained this way.
+
+###### It is rumored that they can be laid to rest if they locate and lay low their former king. 
