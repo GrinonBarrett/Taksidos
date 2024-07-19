@@ -64,4 +64,4 @@ Choose two attributes. Each are increased by 1.
  • Any effect which would heal the magman has a 1 in 3 chance not to.  
  • They do not swim in water, instead walking on the surface below.
 
-**Molten Guard**: The unusual surface of the magman’s form causes all successful unarmed attacks to the magman to burn that foe, inflicting a fire attack.
+**Molten Guard**: The unusual surface of the magman’s form causes all successful unarmed attacks against the magman to potentially burn that foe, inflicting a fire attack.
