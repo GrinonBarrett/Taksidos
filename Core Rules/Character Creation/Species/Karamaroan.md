@@ -3,7 +3,7 @@ Large crustaceans that populate the southern coasts. They typically live in home
 
 **Creature Type**: Karamaroan are aquatic.
 
-**Size**: Karamaroan stand between 1'7"-.2'5" tall. They can weigh between 55-80 pounds. They are small creatures.
+**Size**: Karamaroan stand between 1'7"-2'5" tall. They can weigh between 55-80 pounds. They are small creatures.
 
 **Ability Score Modification**: As a karamaroan, you have the following adjustments to your attributes;  
 Your [Body] increases by 1.  
@@ -34,7 +34,7 @@ Choose an attribute. It is increased by 1.
 |   10   | Main Claw    | The limb featuring your main hand no longer is functional until this wound is healed. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Glancing Blow | No ill effects. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Fractured Carapace | **Biased wound**. Your hardened carpace has been compromised. Until this wound is healed, you are treated as being unarmored. |
@@ -46,7 +46,7 @@ Choose an attribute. It is increased by 1.
 
 ### Special Features
 
-**Karamaroan Proficiency**: You gain proficiency in wrestling and any skill of your choice. ALternatively, you may instead gain competency in a language of your choice and training in unarmed attacks.
+**Karamaroan Proficiency**: You gain proficiency in wrestling and any skill of your choice. Alternatively, you may instead gain competency in a language of your choice and training in unarmed attacks.
 
 **Sea Drinker**: You require twice as much fluid as a normal adventurer. You may drink seawater without ill effect.
 

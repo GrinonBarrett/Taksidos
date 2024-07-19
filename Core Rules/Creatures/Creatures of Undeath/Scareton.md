@@ -69,22 +69,22 @@ The result of dying of fright or being one of those occassional sods that suffer
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
-|   4    | Concussive Flashback  | The scareton must succeed a DV 15 [Will] save or be overcome by fear, causing it to be dazed until the end of the next round. |
+|   4    | Concussive Flashback  | The scareton must succeed a DV 15 [Will] save or be overcome by fear as it recalls its last moments, causing it to be dazed until the end of the next round. |
 |   5    | Broken Bone       | The scareton is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
 |   7    | Rattle          | **Biased wound**. The scareton is prone until the end of the next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Screaming Fit     | The scareton does nothing but scream during the next phase. |
 |   10   | Destructive Blow  | Scareton loses 1d20 points of undeath. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Collapse         | **Biased wound**. It collapses on to the ground in a pile of bones, becoming vulnerable during the next phase. During the phase afterwards, it begins to reassemble, being prone and foregoing an action. The phase following that it functions as normal. |
 |   14   | Broken Bone       | The scareton is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Broken Bone       | The scareton is prone until the end of the next round. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
@@ -103,7 +103,7 @@ The result of dying of fright or being one of those occassional sods that suffer
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Frightful Gaze**: Once per encounter, _the scareton's eyeless stare can unsettle a foe within 10 yards which sees it. This requires the creature make a DV 15 [Will] save_ or be frightened of the scareton. While frightened this way, the creature must use its movement to make as much dstance as it can from the skeleton.
+**Frightful Gaze**: Once per encounter, _the scareton's eyeless stare can unsettle a foe within 10 yards which sees it. This requires the creature make a DV 15 [Will] save_ or be frightened of the scareton. While frightened this way, the creature must use its movement to make as much distance as it can from the skeleton.
 
 **Spooking**: Once per encounter, as an action, the scareton will freak out- making all manner of horrific noise. Treat as an undamaging attack against a foe within 30 yards. Instead of inflicting a wound, the foe will be dazed until the end of the next round.
 

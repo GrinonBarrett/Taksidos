@@ -38,7 +38,7 @@ Choose an attribute. It is increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -58,11 +58,11 @@ Choose an attribute. It is increased by 1.
 
 **No Hands**: Unless otherwise noted, iptemeneoi cannot use equipment.
 
-**Odd Form**: Armor must be made especially for an iptemenai. Any variant of armor which is to be fit for an iptemenai weighs half as much, but must be made to fit it. The cost of the armor, despite requiring less material, is the same as armor for a standard form.  
+**Odd Form**: Armor must be made especially for an iptemenai. Any variant of armor which is to be fit for an iptemenai weighs half as much. The cost of the armor, despite requiring less material, is the same as armor for a standard form.  
 
 **Physical Alacrity**: Once per encounter, you may grant yourself a bonus to an Athletics check or save equal to your level.
 
-**Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your singer. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
+**Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your stinger. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
 
 **Venom**: When you successfully attack with your stinger, you may choose to inject venom into the struck creature. If you do, it must succeed a [Fort] save or lose 1 hitpoint. At the end of each round, for a number of rounds equal to your level, a new save must be made or the creature will lose another hitpoint. Once the venom has been injected, you cannot produce enough to do so again until you complete a long or full rest.  
 THe DV of the save is equal to double your level.  

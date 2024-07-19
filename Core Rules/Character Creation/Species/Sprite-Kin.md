@@ -3,7 +3,7 @@ Faeries more comfortable with both civilization and adventure than most, sprite-
 
 **Creature Type**: Sprite-kin are fey.
 
-**Size**: Sprite-kin stand between 3'-4'" meters tall. They can weigh between 84-132 pounds. They are medium creatures.
+**Size**: Sprite-kin stand between 3-4 feet tall. They can weigh between 84-132 pounds. They are medium creatures.
 
 **Ability Score Modification**: As a Sprite-Kin, you have the following adjustments to your attributes  
 -1 [Body]  
@@ -36,7 +36,7 @@ Choose an attribute. It is increased by a single level.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Clipped Wings | **Biased wound**. Until this wound is healed, you cannot fly. |

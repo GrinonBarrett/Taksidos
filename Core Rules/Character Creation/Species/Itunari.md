@@ -1,5 +1,5 @@
 ## ITUNARI
-Centuries ago, a dethroned nomad king waged a campaign of vengeance. In desperation, he made a pact with Othmazdo (a god of life, death, and vengeance) to become a monster to finish his quest. Those that still followed him became subject to the curse as well. In this form, he successfully led his followers to finish his quest. As a result of this compact, the cursed were forced to remain destructive monsters themselves until they would ultimately be destroyed by vengeance. It is rumored that they can be laid to rest if they locate and lay low their former king. Itunari characters get the following features;
+Centuries ago, a dethroned nomad king waged a campaign of vengeance. In desperation, he made a pact with Othmazdo (a god of life, death, and vengeance) to become a monster to finish his quest. Those that still followed him became subject to the curse as well. In this form, he successfully led his followers to finish his quest. As a result of this compact, the cursed were forced to remain destructive monsters themselves until they would ultimately be destroyed by vengeance. Itunari characters get the following features;
 
 **Creature Type**: Itunari are monsters.
 
@@ -60,7 +60,7 @@ Choose an attribute. It is increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow | **Biased wound**. No ill effects. |
@@ -88,7 +88,7 @@ An itunari could hypothetically use a shield, but does not gain the passive bene
 **Monstrous Grip**: When you succesfully have a foe grappled, you may squeeze them with your claw as an action to inflict a crushing attack. If you have a greater [Body] score than the grappled creature, you gain a bonus equal to your [Body] bonus.  
 While you are grappling a foe, your unarmed attacks against that foe gain a +2 bonus for the purpose of inflicting a critical hit. When you slam a prone foe, if you have an unoccupied claw, you may choose to inflict a crushing attack against that foe.
 
-**Itunari Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your singer. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
+**Itunari Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your stinger. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
 
 **Venom**: When you successfully attack with your stinger, you may choose to inject venom into the struck creature. If you do, it must succeed a [Fort] save or lose 1 hitpoint. At the end of each round, for a number of rounds equal to your level, a new save must be made or the creature will lose another hitpoint. Once the venom has been injected, you must rest before producing more venom.
 Though the venom's effect is not magical, the venom itself is.  
@@ -97,4 +97,4 @@ The DV of the save is equal to double your level.
 **Blind Fury**: Anytime an attack against the itunari has at least 5 points of success, it becomes blind with fury. At the end of each round it is in this fury, it must succeed a [Will] save with a DV of 18 to end the fury. It has disadvantage on this save if it did not kill or incapacitate a foe during that round. During each round it is subject to this fury, it must attack a another creature during the phase of the round it is capable of doing so. Additionally, it must use its movement during the Primary movement phase to bring itself into range to attack the nearest creature or a creature which has dealt damage to it since the beginning of the previous round.  
 When the fury ends, the itunari suffers two levels of exhaustion. The itunari cannot be killed by exhaustion gained this way.
 
-###### Their former king is much more powerful than they are and is not to be sought out lightly.
+###### It is rumored that they can be laid to rest if they locate and lay low their former king. 

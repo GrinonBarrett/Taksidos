@@ -37,7 +37,7 @@ You then choose an attribute. It is increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -59,7 +59,7 @@ You then choose an attribute. It is increased by 1.
 
 **Thermal Regulation**: So long as it would not deal damage to you, you are comfortable in any temperature.
 
-**Tribe**: You are born into a tribe. TYour time living among the tribe has granted certain features. Once this is determined, it cannot be changed.
+**Tribe**: You are born into a tribe. Your time living among the tribe has granted certain features. Once this is determined, it cannot be changed.
 
 #### TRIBES
 
@@ -68,7 +68,7 @@ You learn a spell which has been granted by the teachings of the tribes elders, 
 
 **Natural Tribe**: If the tribe is natural, your capacity for individual learning is based on your level and not your heroism. Additionally, unarmed attacks have disadvantage against you.
 
-**Seaborne Tribe**: Your swim speed is increased by 2 meters. You may hold you breath twice as long as normal.
+**Seaborne Tribe**: Your swim speed is increased by 2 yards. You may hold you breath twice as long as normal.
 
 **Desolated Tribe**: If the tribe is desolated, they have been decimated and returned to a false-life by dark magic. You become Undead, not Humanoid. Choose 3 of your attributes. They are each reduced by 1.  
 You also are subject to the following;  

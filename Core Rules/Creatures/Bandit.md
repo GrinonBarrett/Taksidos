@@ -1,3 +1,4 @@
+
 ### Bandit
 Common run of the mill bandits. If death seems like a serious possibility, they will opt to leave.
 

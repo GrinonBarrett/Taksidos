@@ -63,11 +63,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
@@ -153,11 +153,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
@@ -245,11 +245,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
@@ -337,11 +337,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
@@ -429,11 +429,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
@@ -521,11 +521,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Longsword**              | 6-10  | **Greatsword** | 5-9   | **Arrow, Broadhead**       | 6-10 |
 | **Mace**                   | 6-9 | **Maul** | 5-9   | **Bolt** | 6-10 |
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
-| **Hand Axe**               | 6-10  | **Couched Lance** | 3-6   | **Chakram** | 7-11 |
+| **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 | Madu |  7-11 |
+| **Warpick**                | 6-9   | | | **Unarmed** | 11-13 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |

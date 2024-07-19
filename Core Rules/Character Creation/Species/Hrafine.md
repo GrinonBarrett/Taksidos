@@ -34,7 +34,7 @@ Choose two attributes. Each are increased by 2.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Clipped Wings | **Biased wound**. Until this wound is healed, you cannot fly. |
@@ -49,11 +49,11 @@ Choose two attributes. Each are increased by 2.
 
 **Hrafine Knowledge**: You gain proficiency in the Lore skill and a skill of your choice.
 
-**Hrafine Form**: A hrafine cannot wear armor. It’s claws can be used to hold items, but it can only use items as though it had a single hand.
+**Hrafine Form**: A hrafine cannot wear armor. Its claws can be used to hold items, but it can only use items as though it had a single hand.
 
 **Nimble Flight**: While flying, the hrafine adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater.
 
-**Magical Resistance**: Anytime you would perform a save against a magical effect, you add half of your level to your attribute.
+**Magical Resistance**: Anytime you would perform a save against a magical effect, you add half of your level to your attribute bonus.
 
 **Dire Form**: As a full round action you may transform into your Dire form. While in the dire form, you are affected by the following  
  • +1 [Body]  

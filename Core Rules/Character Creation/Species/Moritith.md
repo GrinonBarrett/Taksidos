@@ -5,8 +5,7 @@ Creatures doomed to live in the shadows. Though many are hostile or malicious, o
 
 **Size**: Moritith stand between 3-6 feet tall. They weigh 1 pound. They are medium creatures.
 
-**Ability Score Modification**: As a moritith, you have the following adjustments to your attributes  
-Choose an attribute. it is improved by 1 while each other attribute is reduced by 2.
+**Ability Score Modification**: As a moritith, choose an attribute. it is improved by 1 while each other attribute is reduced by 2.
 
 **Languages**: You gain competency in the Common Tongue and one other language of your choice.
 
@@ -69,7 +68,7 @@ The moritith exists where the light does not touch, this means they may only exi
  • A weapon which is illuminated in some way gains advantage on attacks against you. Treat a lit torch as an illuminated club.
  • Damage from radiant sources reduces the maximum hitpoints of a moritith rather than dealing damage. The dusken regains 1 of these per a short rest, 3 per a long rest, and all per a full rest. 
 
-**Maring**: The moritith cannot recover by resting. It must instead leech the rest of another, sleeping, creature. This require it grapple's the sleeping creature. The grapple itself does not wake the sleeping creature. If it spends at least 1 hour doing so, and that creature completes a long or full rest- it will have partialley mared its rest. The formely sleeping creature's rest is reduced to be a lower grade (short rest if it was long, long rest if it was full) and the moritith is considered to have completed a short rest. If the moritith spends enough time to complete a long rest while grappling the sleeping creature, and the sleeping creature would complete a long or full rest, the moritith instead gains the benefit of that rest.  
+**Maring**: The moritith cannot recover by resting. It must instead leech the rest of another, sleeping, creature. This requires it grapples the sleeping creature. The grapple itself does not wake the sleeping creature. If it spends at least 1 hour doing so, and that creature completes a long or full rest- it will have partialley mared its rest. The formely sleeping creature's rest is reduced to be a lower grade (short rest if it was long, long rest if it was full) and the moritith is considered to have completed a short rest. If the moritith spends enough time to complete a long rest while grappling the sleeping creature, and the sleeping creature would complete a long or full rest, the moritith instead gains the benefit of that rest.  
 Additionally, the moritith may choose to inflict a level of fatigue against the sleeping creature to recover a level of its own fatigue.  
 A moritith cannot affect Elementals, Ephemera, Monsters, or Undead with this.
 

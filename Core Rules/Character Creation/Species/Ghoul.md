@@ -48,9 +48,8 @@ Choose two attributes. Each are increased by 1.
 
 **Dead-like**: Anytime an effect would affect an undead creature, it might include yourself. Perform an [Empy] save with a DV of 21. If you fail, you may be treated as an undead for the purpose of that effect.  
 You do not need to breathe.  
-Any effect which would heal wounds to you has a 50% chance of not affecting you unless it specifically affects undead.
-
-**Already Dead**: You cannot be instantly killed by magic unless it specifies otherwise. A wound you receive from Necrotic sources cannot kill you, even if you fail your incapacitation save.
+Any effect which would heal wounds to you has a 50% chance of not affecting you unless it specifically affects undead.  
+You cannot be instantly killed by magic unless it specifies otherwise. A wound you receive from Necrotic sources cannot kill you, even if you fail your incapacitation save.
 
 **Necrophage**: You cannot consume traditional food, but must instead subsist on the flesh of dead creatures. Freshly felled creatures can count, as can rotting flesh- so long as the creature was dead. Living flesh provides one-sixth of what it would by weight.  Elemental, Eldritch, Ephemera, Infigura, and Plant creatures do not count towards this. Flesh which was reanimated at any point to be an undead creature (or part of one) does nothing to sate your hunger, which you will realize immediately after consuming.  
 Furthermore, your hunger is two and a half times that of a normal player-character's.

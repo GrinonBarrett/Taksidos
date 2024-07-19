@@ -75,7 +75,7 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
 |   4    | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
 |   5    | Glancing Blow      | This wound has no effect. |
@@ -84,13 +84,13 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | It loses its reaction during the next round. |
 |   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Distrubed Stomach Acids | The trillipede performs an acid attack against a creature within 1 meter and loses its reaction (if it stil has one) for the round. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Distrubed Stomach Acids | The trillipede performs an acid attack against a creature within 1 yard and loses its reaction (if it stil has one) for the round. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |

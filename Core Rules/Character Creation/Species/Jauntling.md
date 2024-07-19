@@ -34,7 +34,7 @@ Choose two attributes. Each are increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -49,12 +49,12 @@ Choose two attributes. Each are increased by 1.
 **Spiky Form**: Jauntlings have a unique body, conferring the following  
  • They cannot wear armor or use equipment.  
  • Anytime an attack within .5 yard is made against the Jauntling- a piercing attack is inflicted against the attacker.  
- • If it is not moving, the Jauntling gets a +3 bonus to checks/saves pertaining to staying in place as a result of digging into a surface with its appednages. It cannot do this in a liquid of course.  
+ • If it is not moving, the Jauntling gets a +3 bonus to checks/saves pertaining to staying in place as a result of digging into a surface with its appendages.  
  • You may perform a number of unarmed attacks with a single attack action up to one third of your level (minimum of 1).  
  • A prone Jauntling is stuck to whatever surface it is resting upon, becoming unable to perform movement as it is wrestling to free itself.
  • A creature trampling a jauntling is subject to a piercing attack.
 
-**Odd Mind**: Psychic attacks against you have disadvantage. Anytime you would make a save against an effect which would alter your state of mind, you may roll an additional die. Each odd result grants a +2 bonus.
+**Odd Mind**: Psychic attacks against you have disadvantage. Anytime you would make a save against an effect which would alter your state of mind, you may roll an additional die. Each odd die roll result of the save grants a +2 bonus.
 
 **Super-ethereal Nature**: Your movement speed in the Ethereal Plane is increased by a number of yards equal to your level. You can perceive the material and ethereal planes simultaneously so long as you are on either. You can tell them apart.
 

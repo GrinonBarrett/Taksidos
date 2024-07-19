@@ -34,8 +34,7 @@ Choose two attributes. Each are increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round you did not perform such a save. Additionally, you must perform an incapacitation save at the end of each round you do not do so.  |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Tail Shot | **Biased wound**. Until this wound is healed, you cannot use your tail sweep ability. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
@@ -48,7 +47,7 @@ Choose two attributes. Each are increased by 1.
 
 **Marine Breathing**: Grecurin are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Single Claw**: Grecurin have a single claw which may be used as a main hand.
+**Single Claw**: Grecurin have a single claw which may be used as their main hand. they have no ohter manipulators.
 
 **Rough Hide**: A grecurin cannot use armor unless it states otherwise. When unarmored, a grecurin is treated as wearing gambeson.
 

@@ -29,11 +29,11 @@ Choose three attributes. They are increased by 1 each.
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Psionic Shock     | Your Mild Telepathy and Mind Spike features do not function until the end of the round. Until this wound is healed, you Mild Telepathy's range is halved. |
+|   9    | Web Sack     | Until this wound is healed, you cannot produce or expel web. |
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -45,9 +45,9 @@ Choose three attributes. They are increased by 1 each.
 
 ### Special Features
 
-**Upersun Capablities**: You gain proficiency Ropework and any one of the following skills (Athletics, Lore, Survival, Wrestling). You have a knack for vigilance.
+**Upersun Capablities**: You gain proficiency in Ropework and any one of the following skills (Athletics, Lore, Survival, Wrestling). You have a knack for vigilance.
 
-**Arachnid Form**: Upersu cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by one and a half.
+**Arachnid Form**: Upersu cannot wear armor unless it is tailored to the arachnid form. This raises the cost of the armor by one and a half.
 
 **Fumblesome Manipulators**: While there are grippers on each of the upersu's legs, they cannot be used with any fine manipulation. Additionally, only the foreward most pair is capable of even the gross movements resmbling arms. Any checks or attack rolls made involving items in these "hands" has disadvantage.
 
@@ -55,7 +55,7 @@ Choose three attributes. They are increased by 1 each.
 
 **Web**: The upersu can produce up to 10 yards of silk as a special action. This silk functions as a rope. The silk ignores the burden of the upersu climbing or traveling with it. It is treated as rope a weight of .5 lb per yard and strength of 3,000. The web weakens over time, losing 50 points of strength per minute. All forms of force and crushing damage dealt to the silk is halved.
  
-Once the upersu has produced al of this silk, it cannot produce any more until it rests. It recuperates 1d2+3 feet during a long rest and 2d6+6 during a full rest.
+Once the upersu has produced all of this silk, it cannot produce any more until it rests. It recuperates 1d2+3 feet during a long rest and 2d6+6 during a full rest.
 
 **Webbed Grip**: The upersu may expend some of its web to ensure a strong grip on an item. By expending a yard's worth of web it can fix the item to its hand. This requires a [Body] check to undo as a full round action. The upersu itself may choose to do so as a special action instead or to gain advantage on the check. This grip lasts for an hour, negates the disadvantage on weapon attacks, and grants advantage on checks involving grip.
 

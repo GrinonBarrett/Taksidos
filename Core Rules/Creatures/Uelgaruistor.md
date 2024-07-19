@@ -76,22 +76,22 @@ This creature is covered in proto-feathers. Instead of traditional talons, it ha
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
 |   4    | Broken Claw    | It loses the use of one of its claws, halving its run, climb, and swim speeds. |
 |   5    | Glancing Blow      | This wound has no effect. |
 |   6    | Clipped Wing    | **Biased Wound**. It cannot fly for 1d12+3 rounds.|
-|   7    | Stinging Blow    | Biased wound. -1 penalty to checks until end of next round. |
+|   7    | Stinging Blow    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | It loses its reaction during the next round. |
 |   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Broken Wing       | **Biased wound**. UNtil this wound is healed, it cannot fly.  |
+|   13   | Broken Wing       | **Biased wound**. Until this wound is healed, it cannot fly.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Broken Claw    | It loses the use of one of its clawss, halving its run, climb, and swim speeds. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
@@ -104,7 +104,7 @@ This creature is covered in proto-feathers. Instead of traditional talons, it ha
 **Thagomizer Swing**: Once per round, when its unarmed attack would be a critical hit or it slams a brawling opponent, it may use its reaction to do one of the following;
 
 * It may have that creature perform a [Body] save with a DV equal to its [Body] score. On a failure, that creature is knocked prone until the end of the round. On a critical failure, it is also vulnerable during this time.  
-If the foe has a greater [Rflx] score than the ???, it gains advantage on the save.
+If the foe has a greater [Rflx] score than the uelgaruistor, it gains advantage on the save.
 
 * Inflict a Club attack against that creature.
 

@@ -46,7 +46,7 @@ Described as giant hummingbirds, these creatures are preceded by a deep buzzing 
 
  • Kick: The horrornitheus may use its leg a foe within 1 yard. This is a melee force attack.
 
- • Beak Thrust: If the horrornitheus is not prone, it may use its beak to perform a piercing attack.
+ • Beak Thrust: If the horrornitheus is not prone, it may use its beak to perform a piercing attack against a foe within 1 foot.
 
 ---------------------
 
@@ -72,27 +72,25 @@ Described as giant hummingbirds, these creatures are preceded by a deep buzzing 
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 13 |    |     | **Undamaging** | 14 |
 
-###### Still need to do wounds
-
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
 |   4    | Leg Break       | The horrornitheus' loses the use of one of its legs, halving its run and swim speeds. |
 |   5    | Glancing Blow      | This wound has no effect. |
-|   6    | Clipped Wing    | Biased Wound. The horronitheus cannot fly or hover for 1d12+3 rounds.|
-|   7    | Stinging Blow    | Biased wound. -1 penalty to checks until end of next round. |
+|   6    | Clipped Wing    | **Biased Wound**. The horronitheus cannot fly or hover for 1d12+3 rounds.|
+|   7    | Stinging Blow    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Agonizing Blow     | It loses its reaction during the next round. |
 |   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Broken Wing       | Biased wound. UNtil this wound is healed, the horrornitheus cannot hover or fly.  |
+|   13   | Broken Wing       | **Biased wound**. Until this wound is healed, the horrornitheus cannot hover or fly.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Leg Break    | The horrornitheus' loses the use of one of its legs, halving its run and swim speeds. |
+|   15   | Bell Rung         | The next attack made against yit before the end of the next round gets advantage.  |
+|   16   | Leg Break    | The horrornitheus' loses the use of one of its legs, halving its run and swim speeds. It can receive this wound up to 4 times. Upon the foruth, it cannot run or swim. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |

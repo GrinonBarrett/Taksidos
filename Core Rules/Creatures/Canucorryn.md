@@ -40,7 +40,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 | **Katar**                  | 16     | **Javelin**         | 16    | **Arquebus** | 12    |
 | **Dagger**                 | 16     | **Throwing Blade**  | 16    | **Musket** | 11    |
 | **Morningstar**            | 13     | **Sling**           | 15    | **Tronutonante** | 13    |
-| **Warpick**                | 11     | **Unarmed**         | 17  |  |     |
+| **Warpick**                | 11     | |  **Unarmed**         | 17   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12     | **Fire** | 25     | **Psychic** | 13     |
 | **Cold**                   | 18     | **Force** | 13     | **Toxic**  | 13     |
@@ -54,24 +54,24 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Burning Riposte     | If the attack was a melee attack, the attacker is subject to a fire attack. |
-|   4    | Smoke Puff       | A puff of smoke explodes out from the canucorryn. ANy attacks which pass through the smoke until the end of the next round have disadvantage. The smoke extends out 1 foot. The canucorryn then appears somewhere within 1 yard. |
+|   4    | Smoke Puff       | A puff of smoke explodes out from the canucorryn. Any attacks which pass through the smoke until the end of the next round have disadvantage. The smoke extends out 1 foot. The canucorryn then appears somewhere within 1 yard. |
 |   5    | Fireball    | Everything within 3 yards is subject to a fire attack. |
 |   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | Biased wound. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stagger        | It has its movement halved until the end of the round. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Knock Back | It is knocked back 1d4+1 feet. |
-|   13   | Web Sack | Biased Wound. The canucorryn loses the ability to produce or expend web until this wound is healed. |
+|   13   | Web Sack | **Biased Wound**. The canucorryn loses the ability to produce or expend web until this wound is healed. |
 |   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Stumble | Biased wound. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Dissonant Blow | Biased wound. It's Spell-Sickness is doubled. |
-|   19   | Unaligned Chakras | It gains a point of Spell-Sickness. Additionally, you suffer a penalty to all spell checks equal to your heroism until this wound is healed. |
+|   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.   |
+|   18   | Knockback | **Biased wound**. It is knocked back 1d4+1 feet. |
+|   19   | Unaligned Chakras | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 

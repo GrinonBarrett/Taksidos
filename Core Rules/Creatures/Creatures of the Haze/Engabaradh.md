@@ -58,23 +58,23 @@ These creatures bear four large back legs, two forward legs, a pair of pincers, 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
-|   3    | Stumble      | You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The ?? must perform an incapacitation save or die immediately. Until this wound is healed, they must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so. |
-|   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | Biased wound. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Stagger        | It has its movement halved until the end of the round. |
-|   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
-|   12   | Stumble | You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   13   | Eye Lost | Biased Wound. You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Striker Lost      | It loses one of its strikers. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Winded       | It must succeed a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time. |
+|   6    | Glancing Blow     | No ill effects. |
+|   7    | Stumble           | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, you must choose the other. |
+|   8    | Glancing Blow     | No ill effects. |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   10   | Beat Up           | It loses a hitpoint. |
+|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Stumble | It is prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
+|   13   | Glancing Blow | **Biased Wound**. No ill effects. |
+|   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Glancing Blow | Biased wound. No ill effect. |
-|   17   | Trip Up  | Make a [Rflx] save against the attack total or be knocked prone. |
-|   18   | Glancing Blow | Biased wound. No ill effect. |
+|   16   | Shell Crack | **Biased wound**. Until this wound is healed, it is vulnerable. |
+|   17   | Trip Up     | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Off Balance | **Biased wound**. It is prone until the end of the next round. Additionally, it has disadvantage on [Body], [Rflx], and [Prcp] checks and saves nor can it use its scuttle feature.  |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |

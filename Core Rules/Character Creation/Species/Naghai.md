@@ -40,7 +40,7 @@ Choose an attribute. It is increased by a single level.
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
-|   17   | Vital Organ          | A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   17   | Vital Organ          |  A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   18   | Off Limb | **Biased wound**. The limb featuring your off hand no longer is functional until this wound is healed. |
 |   19   | Unaligned Chakras | You gain a point of Spell-Sickness. Additionally, you suffer a penalty to all spell checks equal to your heroism until this wound is healed. |
 |   20   | Defender's choice |                                   |

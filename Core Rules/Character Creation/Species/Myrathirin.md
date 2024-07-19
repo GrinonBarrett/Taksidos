@@ -32,7 +32,7 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -48,7 +48,7 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 
 **Arachnid Form**: Myrathirin cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by one and a half.
 
-**Strikers**: Myrathirin do not have manipulators (hands) on the end of their limbs, instead they end in points (known as strikers). This prevents them from using equipment unless it specifically states it can be used by myrathirin. This also grants them an alternative to their standard unarmed attack which is treated as a piercing attack with a range of one half-meter.
+**Strikers**: Myrathirin do not have manipulators (hands) on the end of their limbs, instead they end in points (known as strikers). This prevents them from using equipment unless it specifically states it can be used by myrathirin. This also grants them an alternative to their standard unarmed attack which is treated as a piercing attack with a range of .5 yard.
 
 **Mild Telepathy**: A myrathirin can convey a single sentence of information during each phase. This has a range of 5 yards. If communicating with another Myrathirin, the range is increased by a number of yards equal to the lowest of either’s [Inte] score.
 
