@@ -53,8 +53,8 @@ A variety of unicorns, the unikeroi are a noble race known for aiding just and p
 
 **Unikeroi Magic**: An unikerai has innate magical abilities. It has a pool magic points, whose maximum is equal to its level. A long rest recovers a single point. A full rest recovers 2 points. The following features are available and each considered magical effects.
 
-• **Curative Whisper**. Costs 2 points.  
-The unikerai recites an inaudible magic word to another creature within 3 meters as a special action. Roll a d8. If the result is greater than that creature’s missing hitpoints, that creature has a single hitpoint restored. 
+• **Curative Whisper**. Costs 3 points.  
+The unikerai recites an inaudible magic word to another creature within 3 meters as a special action. Roll a d4. If the result is greater than that creature’s missing hitpoints, that creature has a single hitpoint restored. 
 
 • **Glow**. Costs 1 point.  
 The unikerai’s horn emits light like a torch. This will last for up to a number of minutes equal to the unikeroi’s [Will]. The unikeroi may use this ability again while it is active to extend the duration appropriately. It may choose to end this ability at will.  
