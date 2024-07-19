@@ -52,8 +52,8 @@ The dusken exists where the light does not touch, this means they may only exist
  • The dusken ignores all ethereal/material armor when attacking a creature which is in dim light or no light at all using its .  
  • A dusken ignores a target’s cover from objects when it strikes a foe with its unarmed attack.  
  • Dusken make no sound when they move.  
- • Dusken cast no shadow or reflection when observed.
- • Dusken do not need to eat or drink.
+ • Dusken cast no shadow or reflection when observed.  
+ • Dusken do not need to eat or drink.  
  • Dusken only gain a full or long rest's benefits if they have a portion of food or a serving of fluid which was given to them unsolicted from a non-dusken. They cannot inform others of this by any means. During the rest, the offering is either consumed or simply fades from existence.
  • You gain no benefit from armor but are still burdened by it.  
  • You have a Attack versus Creature table which outlines your defense against each kind of attack.  
@@ -70,4 +70,4 @@ The dusken exists where the light does not touch, this means they may only exist
 
 **Senseless**: Effects that rely on stimuli such as pleasure or pain have no effect on the dusken. It still has the function of its senses, but does not process sensations as “painful” or “pleasurable” nor is it overwhelmed by intensive stimulation. It simply receives stimuli.
 
-**Destroying a Dusken**: A dusken character has twise as many hitpoints as a character might normally. A dusken does not receive wounds from successful attacks as normal creatures, instead they are simply destroyed when an attack is successful against them while they have no hitpoints remaining.
+**Destroying a Dusken**: A dusken character has twice as many hitpoints as a character might normally. A dusken does not receive wounds from successful attacks as normal creatures, instead they are simply destroyed when an attack is successful against them while they have no hitpoints remaining.
