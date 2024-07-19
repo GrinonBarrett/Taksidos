@@ -31,7 +31,7 @@ Choose two attributes. Each are increased by 1.
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -43,6 +43,6 @@ Choose two attributes. Each are increased by 1.
 
 ### Special Features
 
-**Water Warping**: The sylvestrian may jump into a body of water, plunging into its depths. If it sinks far enough to not be seen from the surface (easier in murkier waters of course), it can reappear in another body of water it is familiar with within a number of kilometers equal to its level doubled. It may only appear in that body if it would be unseen when appearing in it and if the water is suitable for the sylvestrian to move in. If it cannot travel into that body of water, it simply remains in the original. It must complete a full rest before attempting to do so again.
+**Water Warping**: The sylvestrian may jump into a body of water, plunging into its depths. If it sinks far enough to not be seen from the surface (easier in murkier waters of course), it can reappear in another body of water it is familiar with within a number of miles equal to its level. It may only appear in that body if it would be unseen when appearing in it and if the water is suitable for the sylvestrian to move in. If it cannot travel into that body of water, it simply remains in the original. It must complete a full rest before attempting to do so again.
 
 **Natural Magic**: You have been born with some innate magic power. Choose a spell with a minimum tier of 1. You learn the spell. At 4th level and 9th level each, you may choose a spell with a minimum tier of 1 or 2. You learn the selected spell.
