@@ -42,7 +42,7 @@ Choose three attributes. Each are increased by 1.
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Disturbing Blow | **Biased wound**. Yosdu gain 1d4 points of spell sickness. _Inflict a sonic attack againstthe source of this wound_. |
+|   18   | Disturbing Blow | **Biased wound**. Yosdu gain 1d4 points of spell sickness. _Inflict a sonic attack against the source of this wound_. |
 |   19   | Unaligned Chakras | You gain a point of Spell-Sickness. Additionally, you suffer a penalty to all spell checks equal to your heroism until this wound is healed. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
