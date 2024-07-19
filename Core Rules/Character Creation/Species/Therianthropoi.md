@@ -30,7 +30,7 @@ Several species of anthropomorphic animal-like creatures are represented by thes
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. Until this wound is healed, you must perform an incapacitation at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
+|   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
 |   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
@@ -44,4 +44,4 @@ Several species of anthropomorphic animal-like creatures are represented by thes
 
 **Some Education**: You gain proficiency in two skills of your choice.
 
-**Heightened Senses**: Choose one of the following senses: Vision, Scent, Hearing. Once this decision is made, it cannot be changed. You gain a +3 bonus to [Prcp] checks and saves involving the selected sense.
+**Heightened Senses**: Choose one of the following senses (Vision, Scent, Hearing). Once this decision is made, it cannot be changed. You gain a +3 bonus to [Prcp] checks and saves involving the selected sense.
