@@ -482,7 +482,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Effect**: You produce a trap which possesses a 2 yard cone-shaped trigger. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presnce of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it secretly inflicts a toxic attack against each creature within the cone. This attack does not inflict a wound like normal. The trap then disappears. For the remainder of the spell, the caster may use their reaction to force any creatures they perceive which were successfully attacked to succeed a [Fort] save or have their hitpoints reduced by 1.
 
-**At Higher Tiers**: For each tier beyond minimum, traps cone is increased by 1 meter.
+**At Higher Tiers**: For each tier beyond minimum, trap's cone is increased by 1 yard.
 
 **Critical Failure**: You are afflicted by a magical poison. Every minute for the duration of the spell, you must succeed a [Fort] save with a DV of 15 or have your hitpoints reduced by 1.
 
