@@ -3,7 +3,7 @@ A sentient ooze that just so happens to exist. No one knows how they come to be,
 
 **Creature Type**: Ynthviur are infigura.
 
-**Size**: Ynthviur can stretch up to 2 yards or compact down to 1 foot. They are between 20-33 kilos. They can be treated as small or medium creatures.
+**Size**: Ynthviur can stretch up to 2 yards or compact down to 1 foot. They are between 44-73 kilos. They can be treated as small or medium creatures.
 
 **Ability Score Modification**: As an Ynthviur, you have the following adjustments to your attributes  
 -1 [Body]  
