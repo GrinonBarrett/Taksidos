@@ -35,9 +35,9 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 [Prcp] 11 (+3)  
 [Empy] 5 (+1)  
 
-**Run Speed**: It may run up to 7 meters per move.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Climb speed**: It may swim up to 4.5 meters per move.
+**Climb speed**: It may swim up to 4.5 yards per move.
 
 **Burrow Speed**: It may burrow up to 3 yards per move presuming the earth is not too hard.  
 
