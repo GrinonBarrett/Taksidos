@@ -99,6 +99,8 @@ An azaloi cannot perish of hunger.
 
 **Pulcerium**: Acid attacks against you have advantage. You gain a bonus to all spell checks equal to your heroism.
 
+**Salt**: If any portion of you is submerged in water for more than 2 rounds, you will be subject to an acid attack at the end of each round. You gain a +1 bonus to defense against fire attacks and magical attacks. You have a -1 penalty to all [Fort] saves.
+
 **Silver**: You gain a +4 bonus to saves against magic. You also gain a d4 bonus to counterspell checks.
 
 **Steel**: Your defense against all attacks is increased by 1. Your unarmed attacks gain a +2 bonus.
