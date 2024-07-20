@@ -32,9 +32,9 @@ They are considered the violent defenders of nature- Not something to be reasone
 [Prcp] 14 (+4)  
 [Empy] 10 (+3)  
 
-**Run Speed**: It may run up to 7 meters per move.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Swim speed**: You may swim up to 6 meters per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
