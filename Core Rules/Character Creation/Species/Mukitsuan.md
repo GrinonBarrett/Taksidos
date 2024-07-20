@@ -71,4 +71,4 @@ The appendage is capable of smelling just like a normal nose. Two sniffers grant
  • Manipulator  
 The appendage can functions as a hand. It suffers a penalty to any check or attack roll involving an item in this manipulator equal to the weight in pounds of the item. A manipulator is treated as an offhand in all cases.  
  • Shooter  
-The appendage becomes capable of blasting a foe with mucous. As an action, a target within 4 meters must succeed a [Prcp] save or be covered in mucous. It gains a bonus to its save equal to the number of meters in distance from the mukitsuan. The DV is equal to your level + your [Rflx] bonus.
+The appendage becomes capable of blasting a foe with mucous. As an action, a target within 4 yards must succeed a [Prcp] save or be covered in mucous. It gains a bonus to its save equal to the number of meters in distance from the mukitsuan. The DV is equal to your level + your [Rflx] bonus.
