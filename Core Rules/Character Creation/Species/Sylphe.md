@@ -53,7 +53,7 @@ Choose three attributes. Each are increased by 1.
 
 **Unusual Form**: Unless otherwise noted, sylphes cannot use equipment or armor. 
 
-**Nimble Flight**: So long as you are airborne, not prone, and aware of an attack being made against you- you may roll a d6 and add it to your defense against that attack. This bonus cannot exceed your total movement in meters.
+**Nimble Flight**: So long as you are airborne, not prone, and aware of an attack being made against you- you may roll a d6 and add it to your defense against that attack. This bonus cannot exceed your total movement in yards.
 
 **Breezeless**: A sylphe may choose to ignore the effects of the wind. Magical effects still function against the sylphe.
 

@@ -3,7 +3,7 @@ Jauntling look like spiked balls with faces, their hundreds of quill-like append
 
 **Creature Type**: Jauntlings are Eldritch.
 
-**Size**: Jauntlings are spheres up to 6" meters in height, but their appendages make them stand up to 1'7" high in total. They can weigh between 45 - 145 pounds. They are small creatures.
+**Size**: Jauntlings are spheres up to 6" in height, but their appendages make them stand up to 1'7" high in total. They can weigh between 45 - 145 pounds. They are small creatures.
 
 Ability Score Increase: As a jauntling, you have the following adjustments to your attributes  
 -1 [Inte]  

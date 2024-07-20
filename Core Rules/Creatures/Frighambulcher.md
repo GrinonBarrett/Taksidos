@@ -33,7 +33,7 @@ They appear as hairy mounds that scoot along the forest floor. When they attack 
 [Prcp] 11 (+3)  
 [Empy] 8 (+2)  
 
-**Run Speed**: It may run up to 4 meters per move.
+**Run Speed**: It may run up to 4 yards per move.
 
 **Unarmed Attacks**;
 

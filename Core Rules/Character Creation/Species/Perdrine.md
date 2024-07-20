@@ -83,7 +83,7 @@ Below is each perdrine power. Note that many powers manifest in different ways.
 **Burning Fury**: Whether you are a flaming skull, or simply a head wreathed in brilliance, you have been kissed by flame.  
  • Anytime a creature within 1 yard attacks you and either hits or critically fails their attack, you may use your reaction to inflict a magical fire attack against that foe.  
  • You may choose, as a special ability or attack action, to emit bright light out to 3 yards and may choose to emit dim light up to 3 yards beyond that. Alternatively, you may have any bright light you would emit instead be fair or dim. Changing the radius or turning of the ability on/off is an action.  
- • When you would be destroyed, you may choose to explode. Anything within a number of half yards equal to your level are subject to a fire attack. A creature gains a +1 bonus to their save for each meter away from the explosion.
+ • When you would be destroyed, you may choose to explode. Anything within a number of half yards equal to your level are subject to a fire attack. A creature gains a +1 bonus to their save for each yard away from the explosion.
 
 **Great Mind**: You had, or have since developed, some psionic abilities.  
  • You are capable of acting with telekinetics as though you had two arms with fingers and fine motor skills to perform a single task. You may do this out to a number of feet equal to your level + your heroism. You must perform a rest before doing so again.  

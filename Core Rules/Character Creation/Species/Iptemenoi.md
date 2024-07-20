@@ -21,7 +21,7 @@ Choose an attribute. It is increased by 1.
 
 **Fly speed**: You can fly at a speed of 6 yards per move. You must fly at least 3 yards per round to remain airborne.
 
-**Unarmed Attacks**: Your unarmed attacks have a range of one quarter-meter. They use your [Body]. They deal 1d2 damage. On a critical hit, they deal 1d3 damage.
+**Unarmed Attacks**: Your unarmed attacks have a range of one foot.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |

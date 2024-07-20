@@ -14,7 +14,7 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough. A sprint would move you 9 meters instead.
+**Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
