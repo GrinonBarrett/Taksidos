@@ -145,7 +145,7 @@ An adventurer's diet can compose of no more than one-third starch to gain any be
 A shelf stable dry good. Requires a cooking medium such as water to use effectively. A single pound provides 2 servings, but only if another food type is available.
 
 **Potatoes**, $1.1 per lb.  
-Good for 1d8+4 days. A kilo of potatoes can provide 1.75 portions once cooked.
+Good for 1d8+4 days. A kilo of potatoes can provide 1 portion once cooked.
 
 #### Fruit
 The price of fruit may be higher if they are not grown locally.
