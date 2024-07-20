@@ -98,7 +98,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 
 ##### Secondary Breed Types
 **Draft**: +2 bonus to all Athletics checks. +1 bonus to all Animal Empathy checks involving this mount. Weight increased by 100-250 pounds.  
-**Race**: Run speed increased by 1 meter.  
+**Race**: Run speed increased by 1 yard.  
 **Riding**: +1 [Empy]. Bumpy ride penalty is reduced by half. Weight is increased by 50-120 pounds.  
 **War**: +1 [Body] and [Fort]. +1d4 to all saves against fear. Weight increased by 50-150 pounds.  
 **Sport**: The horse gains proficiency in Athletics.  
