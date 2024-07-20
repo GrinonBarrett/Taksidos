@@ -17,7 +17,7 @@ A staple of life. Used for everything from cooking, preserving meat, and even so
 A powder composed of sawdust, ground nutshells, and milled tumbleweed. It is a common component in arcane operations and is often used in absorbing alchemic agents to make cleaning an affected area easier.
 
 **Pistachios**		$23 per per lb.  
-A popular treat for those with the wealth to spend and the time to shell. A kilo already shelled is just over twice as expensive.
+A popular treat for those with the wealth to spend and the time to shell. A pound already shelled is just over twice as expensive.
 
 **Lumber**		$25 per  lb.  
 An ever useful construction material and theoretically renewable if the generations take care.
