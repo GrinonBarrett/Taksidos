@@ -19,9 +19,9 @@ Common run of the mill bandits. If death seems like a serious possibility, they 
 
 **Languages**: Bandits often speak the Common Tongue and one other.
 
-**Run Speed**: It may run up to 5 meters per move.
+**Run Speed**: It may run up to 5 yards per move.
 
-**Swim speed**: You may swim up to 2 meters per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Weapon Attacks**: The bandit is capable of using weapons. It even has proficiency in one weapon.
 
