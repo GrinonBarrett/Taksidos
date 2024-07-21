@@ -667,7 +667,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of round equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (5
+### S (6
 
 #### Silent Alarm
 
@@ -746,6 +746,20 @@ The globe can stop at the directed point and hover in place. While active this w
 **At Higher Tiers**: Each tier beyond its minimum can either increase the range of the sphere's journey by 25 yards.
 
 **Critical Failure**: The sphere doesn't stablize as it forms, causing it to detonate in your grasp. The attacks from the spell gain a bonus against you equal to the spell's tier. Additionally, anything within range must succeed a DV 18 [Prcp] or [Rflx] save or be blinded for a number of minutes equal to the points of failure. You are instead blinded for a number of hours equal to the points of failure. Even if you succeed your save, you will be blind for a number of minutes equal to the spell's tier.
+
+#### Swift Bolt
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 5 yards
+
+**Effect**: You attempt to create a tether of controlled ions which become charged, inflicting an electrical attack against the foe. If it is not Elemental, Ephemera, Fey, or Undead, it s nit wounded and instead prone and vulnerable until the end of the next round.
+
+**At Higher Tiers**: Each tier beyond minimum sees the range increase by 3 yards. 
+
+**Critical Failure**: You fail to ground yourself aginst the charge of the tether, causing yourself to be afflicted by the attack instead. The attack gains a +1 bonus against you for each tier beyond first.
 
 ### T (1
 
