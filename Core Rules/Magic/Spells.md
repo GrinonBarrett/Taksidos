@@ -126,7 +126,21 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Critical Failure**: You fail to ground yourself properly. The spell functions as normal, but attacks you as the original target.
 
-### B (2
+### B (3
+
+#### Behest
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 1 foot + a number of feet equal to the spellcheck's points of success.
+
+**Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell.
+
+**At Higher Tiers**: As seen above, a higher tier provides several benefits.
+
+**Critical Failure**: Your words have no effect and have managed to convince the target of your attempt to bewitch them.
 
 #### Blast Lightning
 
