@@ -140,7 +140,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
-**Critical Failure**: Your words have no effect and have managed to convince the target of your attempt to bewitch them.
+**Critical Failure**: Your words have no noticable effect and have managed to convince the target of your attempt to bewitch them.
 
 #### Blast Lightning
 
@@ -171,7 +171,7 @@ If an attack is a critical failure, the spell inflicts an electrical attack agai
 
 **Range**: 30 yards
 
-**Effect**: You hurl a sphere of light which moves in a straight line. An undead creature struck by this is subject to a radiant attack. Any ephemera or fiend is subject to an undamaging attack, which while leave the creature prone if successful. If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint.
+**Effect**: You hurl a sphere of light which moves in a straight line. An undead creature struck by this is subject to a radiant attack. Any ephemera or fiend is subject to an undamaging attack, which will leave the creature prone if successful. If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint.
 This globe produces bright light in it path, which extends fairlight out 5 yards and dim light outwards further another yard.
 
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
@@ -316,7 +316,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Critical Failure**: The sphere originates just beneath you, propelling your upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (4
+### F (5
 
 #### Feyding Gesture
 
@@ -332,6 +332,20 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives.
 
 **Critical Failure**: You find your senses distort for just a moment as your headspace changes. You gain points of inebriation equal to the tier of the spell and are dazed for a number of rounds equal to the points of failure.
+
+#### Flash Cannon
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 Action
+
+**Effect**: You hold your hand out, producing a sphere of light. This produces bright light out for 1 foot, fair light out to 3 yards, and dim light another 2 yards beyond that. You may concentrate on the sphere up to a number of phases equal to the spell's tier. Once the concentration stops, a beam erupts from the sphere in a direction you choose out 7 yards in a line. It is up to .5 foot wide and equally tall. This beam lasts for a number of phases equal to the number of phases the sphere had been concentrated on. Anything in the area suffers a radiant attack. While the beam is active, it and the sphere it emits from produce bright light up to 1 yard, fair light 4 yards beyond that, and dim light 1 yard beyond that.
+
+You may choose not to have the beam inflict a wound on a successful hit. If you do, you may increase the range by half. It will still inflict the result of a critical hit this way.
+
+**At Higher Tiers**: Each tier beyond the minimum increased the distance of the yard by 1 yard, in addition to allowing you to concentrate on it longer as noted above.
+
+**Critical Failure**: You produce the sphere of light and lose control, blinding yourself for a number of minutes equal to the point of failure. Additionally, at the end of each round for a number of rounds equal to the spell's tier, you are subject to a radiant attack.
 
 #### Flechette
 
@@ -459,7 +473,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Effect**: You create a mobile hallucination which takes the form of a person or creature you can imagine. It is visible only to magical forms of sight. The illusion's range extends out from you and it cannot leave this range.
 
-You may give the illusion psychic commands as an action or reaction, however it can interact with anything in any way.
+You may give the illusion psychic commands as an action or reaction, however it cannot interact with anything in any way.
 
 **At Higher Tiers**: Each tier beyond minimum allows you one of the following
 * Increase the range by 20 yards.
@@ -665,7 +679,21 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 ### Q
 
-### R (1
+### R (2
+
+#### Resend
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to a spell producing a ray or the ranged attack of a wand or staff
+
+**Range**: 5 Yards
+
+**Effect**: You redirect a magical ray back to its source. You may only redirect the ray of a spell whose tier is half or less of this spell's.
+
+**At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards or grants a +1 bonus to the redirected ray's attack roll.
+
+**Critical Failure**: You direct the ray towards yourself, granting it a bonus to its attack roll equal to this spell's tier.
 
 #### Rotword
 
@@ -769,7 +797,7 @@ The globe can stop at the directed point and hover in place. While active this w
 
 **Range**: 5 yards
 
-**Effect**: You attempt to create a tether of controlled ions which become charged, inflicting an electrical attack against the foe. If it is not Elemental, Ephemera, Fey, or Undead, it s nit wounded and instead prone and vulnerable until the end of the next round.
+**Effect**: You attempt to create a tether of controlled ions which become charged, inflicting an electrical attack against the foe. If it is not Elemental, Ephemera, Fey, or Undead, it is not wounded and instead prone and vulnerable until the end of the next round. It can still be subject to the effect of a critical hit.
 
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 3 yards. 
 
@@ -828,6 +856,8 @@ This spell is active as long as you concentrate on it. When casting or concentra
 
 **Effect**: You cause a 3 yard fan of necrotic energy to pulse out. Anything in the area suffers a necrotic attack. After a number of rounds has passed equal to the spell's tier, any afflicted creature is subject to an incapacitation save. A creature with no remaining hitpoints has disadvantage on this save.
 
+Undead creatures and those produced by the animation spell cannot be subject to the disadvantage for not having hitpoints.
+
 **At Higher Tiers**: Each tier beyond the minimum allows you pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
 **Critical Failure**: You lose hitpoints equal to the tier of this spell. If you do not have enough hitpoints, you must succeed a number of incapacitation saves equal to the difference. Then you and any non-undead creature within 3 yards suffer a necrotic attack.
@@ -840,7 +870,7 @@ This spell is active as long as you concentrate on it. When casting or concentra
 
 **Range**: 1 foot
 
-**Effect**: Instantly move to an unoccupied point of space within range.
+**Effect**: Instantly move to an unoccupied point of space within range. If you would still be in range of an attack made against you, you are still subject to the attack.
 
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 1 foot.
 
