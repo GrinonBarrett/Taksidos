@@ -60,3 +60,5 @@ MORE SPELLS!
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
+
+###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
