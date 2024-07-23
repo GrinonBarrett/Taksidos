@@ -894,5 +894,22 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 ### Y
 
-### Z
+#### Yellow Mark
 
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 1 yard
+
+**Effect**: Target performs a [Empy] save or becomes odunted for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for a foot and possesses an eerie wave to it. Upon a critcal success, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
+
+This cannot affect Eldritch, Ephemera, Fiends, or Undead.
+
+If you know this spell, you can indentify marks made with it- even if you do not understand the meaning of the exact sigils formed by it.
+
+**At Higher Tiers**: Each tier beyond provides benefits as noted above.
+
+**Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest and various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure.Critically failing an [Empy] save during this time may expose you to visionsof something beyond.
+
+### Z
