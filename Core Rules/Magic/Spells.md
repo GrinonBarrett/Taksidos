@@ -296,7 +296,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Range**: 20 yards
 
-**Effect**: You produce a sphere of ice, 1 foot in diameter, which is then directed in a straight line to a point you designate within range. Upon impact, the sphere explodes causing anything within 3 yards to be subject to the explosion. The explosion will, in order; perform a slashing attack, a piercing attack, and a cold attack against anything caught. If an attack is successful in any degree, it grants the next attack advantage.
+**Effect**: You produce a sphere of ice, 1 foot in diameter, which is then directed in a straight line to a point you designate within range. Upon impact, the sphere explodes causing anything within 3 yards to be subject to the explosion. The explosion will, in order; perform a slashing attack, a piercing attack, and a cold attack against anything caught. If any of these attacks is successful in any degree, it grants the next attack advantage.
 
 **At Higher Tiers**: Each tier beyond its minimum can either increase the range of the sphere's journey by 20 yards or the explosion radius by 1 yard.
 
@@ -310,7 +310,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Range**: 20 yards
 
-**Effect**: You create a 3 yard sphere centered on a point within range. All creatures and loose objects within the sphere are knocked back a number of feet equal to the spellcheck result divide by their weight in stones. You may then concentrate on the sphere to keep it in effect. Any creature or object which attempts to enter the sphere is subject to its effect. This also prevnets any ranged non-magical attack from entering. Magical projectiles and the rays of magical effects are unaffected by this sphere. As is light, sound, and magical fields.
+**Effect**: You create a 3 yard sphere centered on a point within range. All creatures and loose objects within the sphere are knocked back a number of feet equal to the spellcheck result divide by their weight in stones. You may then concentrate on the sphere to keep it in effect. Any creature or object which attempts to enter the sphere is subject to its effect. This also prevents any ranged non-magical attack from entering. Magical projectiles and the rays of magical effects are unaffected by this sphere. As is light, sound, and magical fields.
 
 **At Higher Tiers**: Each tier beyond minimum increases range by 2 yards and the sphere's size by 1 yard.
 
@@ -482,7 +482,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (3
+### I (4
 
 #### Icebreaker
 
@@ -497,6 +497,22 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
 **Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it with a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
+
+#### Imbue
+
+**Minimum Tier**: 1
+
+**Casting Time**: 40 actions
+
+**Duration**: 1 hour
+
+**Effect**: You touch a weapon, piece of ammunition, piece of armor, or some other object.
+
+Any item touched by this is considered magical for all intents and purposes. It does not have any special effect inherently, but is considered magical (and thus can cause its interactions to be treated as being performed with a magical weapon/item).
+
+**At Higher Tiers**: For each tier beyond minimum, you may either halve the casting time or increase the duration by 1 hour.
+
+**Critical Failure**: You accidentally curse the item in some way. You possess the same curse as the magic item. This curse lasts for a number of days equal to the spell's tier.
 
 #### Intoxify
 
