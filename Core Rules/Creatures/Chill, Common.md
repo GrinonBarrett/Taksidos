@@ -40,7 +40,7 @@ Created when malicious extra planar energy mixes with native planar energies. Ch
 | **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 14     | **Throwing Blade** |17    | **Musket** | 11    |
 | **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 13    |
-| **Warpick**                | 13     | **Unarmed** |  19 |  |     |
+| **Warpick**                | 13     |  |  | **Unarmed** |  19 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 15     | **Fire** | 9     | **Psychic** | 15     |
 | **Cold**                   | 19     | **Force** | 13     | **Toxic**  | 19     |
