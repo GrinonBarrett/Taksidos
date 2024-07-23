@@ -108,5 +108,5 @@ A much more ferocious manner of chill. The melavolent energies exuded from the c
 * Exploding Sphere
 * Frost Lance
 * Frostbite
-* Sphere of Oppressive Cold
+* Sphere of Oppressive Cold  
 The first time it casts a spell whose tier is equal to or lower than its [Empy] bonus during an encounter, it does not receive spell-sickness for a success.
