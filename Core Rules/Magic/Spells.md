@@ -892,7 +892,7 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 ### X
 
-### Y
+### Y (1
 
 #### Yellow Mark
 
