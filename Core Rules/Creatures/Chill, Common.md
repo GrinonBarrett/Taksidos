@@ -95,7 +95,7 @@ Created when malicious extra planar energy mixes with native planar energies. Ch
 
 **Cold Ray**: Once per encounter, and an additional time between rests, the chill may hurl a ray of intense cold. This functions as a cold wand attack for all intents and purposes.
 
-**Cold Touch**: When the chill successfully hits a creature, it may use its reaction to inflict a special cold effect. Treat as a cold attack against that same creature with the following eceptions.  
+**Cold Touch**: When the chill successfully hits a creature, it may use its reaction to inflict a special cold effect. Treat as a cold attack against that same creature with the following exceptions.  
 * A d12 is rolled instead of a d20.
 * The Chill gains a bonus equal to its [Empy] bonus to the attack roll.
 
