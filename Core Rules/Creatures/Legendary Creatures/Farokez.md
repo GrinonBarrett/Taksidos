@@ -14,7 +14,7 @@ A monstrous thing. It propels itself primarily with its powerful hind legs, like
 |   1-2  | Curiosity (1) | The farokez is not entirely sure how to feel about the party.   |
 |    3   | Greed (2)  | The farokez wants your coins. |
 |   4-8  | Greed (3)     | The farokez wants everything. |
-|   20   | Fear (3)  | The inhaubulcher strikes a random party member to cause a commotion so it can flee in the chaos. |
+|   20   | Fear (3)  | The farokez strikes a random party member to cause a commotion so it can flee in the chaos. |
 
 -----
 
