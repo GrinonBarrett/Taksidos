@@ -36,7 +36,7 @@ Choose an attribute. It is increased by 1.
  • Cannot use armor, shields, or any item unless it mentions it can be used by the ynthviur. When attacked, treat as wearing gambeson.  
  • Receives wounds, but no effect from them.
 
- **Infigural Nature**: Being infigura, mukitsuan have several advantages.  
+ **Infigural Nature**: Being infigura, ynthviur have several advantages.  
  • Immunity to all poisons and diseases, including toxic damage, except those that specifically affect infigura.  
  • Immunity to the effects of bloodloss.  
  • Immunity to fatigue from outside sources. A ynthviur still suffers from fatigue brought on as a result of sorcery.  
