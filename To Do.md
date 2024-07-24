@@ -62,3 +62,5 @@ Create the Alchemy system in which potions and powders can be created with effec
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
 
 ###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
+
+###### May also do so with all non-manfolk species so that it is more streamlined for a player to make their first character. The system certainly has a weakness in character creation as the intention was that I could handle most of that load for the wee ones, but less crunch orinted folks may not appreciate it as much despite the game being more streamlined afterwards.
