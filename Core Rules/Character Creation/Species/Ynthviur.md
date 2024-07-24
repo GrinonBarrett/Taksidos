@@ -32,7 +32,7 @@ Choose an attribute. It is increased by 1.
  • Anytime a spell would be cast against the ynthviur that would affect its form, shape, composition, or mental state- the ynthviur gains a bonus to its saves against that effect equal to its level.  
  • The ynthviur cannot be grappled.  
  • While the ynthviur has a creature grappled, it can treat that creature as being unarmored for the purpose of attacking it.  
- • The ynthviur is capable of traveling through any opening small enough to stick one’s fist.
+ • The ynthviur is capable of traveling through any opening small enough to stick one’s fist.  
  • Cannot use armor, shields, or any item unless it mentions it can be used by the ynthviur. When attacked, treat as wearing gambeson.  
  • Receives wounds, but no effect from them.
 
