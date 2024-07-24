@@ -53,10 +53,6 @@ Flesh out bestiary.
 
 MORE SPELLS!
 
-###### Zazen,  a spell to induce a beneficial trance
-
-###### Zenering, a spell for extrasensory perception
-
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
