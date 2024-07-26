@@ -8,13 +8,13 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 **Hitpoints**: An alashanasaurus has 5 hitpoints.
 
 **Attributes**:  
-[Body] 21 (+5)  
-[Fort] 14 (+3)  
-[Rflx] 15 (+3)  
-[Will] 15 (+3)  
-[Inte] 11 (+2)  
-[Prcp] 14 (+3)  
-[Empy] 10 (+2)  
+[Body] 21 (+7)  
+[Fort] 14 (+4)  
+[Rflx] 15 (+5)  
+[Will] 15 (+5)  
+[Inte] 11 (+3)  
+[Prcp] 14 (+4)  
+[Empy] 10 (+3)  
 
 **Languages**: Alashanasaurus don't speak.
 
@@ -42,7 +42,7 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 | **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
 | **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
 | **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     | **Unarmed** |     |  |     |
+| **Warpick**                | 15     |    |  |   **Unarmed** |  22  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
 | **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
