@@ -30,7 +30,7 @@ You may use your action or reaction to expend buffonery while being grappled to 
 You may also tickle a creature which is grappling another if you are unrestrained.
 
 ### 2) Flashback
-When performing a check/save, if the result is a failure or a critical failure, you may reattempt it by explaining a scenario in which you had actually prepared for the original result. If the narrator deems your explenation remotely in tone for the scenario, perform a new check/save. You must complete a full or long rest before doing so again.
+When performing a check/save, if the result is a failure or a critical failure, you may reattempt it by explaining a scenario in which you had actually prepared for the original result. If the narrator deems your explaination remotely in tone for the scenario, perform a new check/save. You must complete a full or long rest before doing so again.
 
 ### 2) Journeyman
 The number of items you may learn from individual learning is doubled.
@@ -51,7 +51,7 @@ You add your level to your initiative roll.
 You may perform a shenanigan without expending buffonery. You must rest before doing so again.  
 
 ### 7) Stand-Out Performance
-Anytime you perform a shenannigan, you may increase or reduce the spell-sickness of a creature within 3 yards by 1.
+Anytime you perform a shenannigan, you may increase or reduce the spell-sickness of a creature within 3 yards by 1 so long as it already had spell-sickness.
 
 ### 8) Ungovernable
 When you perform a save, you may expend buffoonery to gain a bonus equal to your heroism.
@@ -68,7 +68,7 @@ You may expend buffoonery as an action or reaction to increase or reduce another
 
 #### Splash
 If you splash jester as a member of another class, you gain the following:  
-You learn a language of your choice, training in a weapon of your choice, the Shenanigannery feature, and Jack of All Trades feature.
+You gain a language of your choice, training in a weapon of your choice, the Shenanigannery feature, and Jack of All Trades feature.
 
 #### Shenanigans
 
@@ -76,21 +76,21 @@ You learn a language of your choice, training in a weapon of your choice, the Sh
 
 **• Animal Empathy**: You give an animal a single sentance of information in a manner similar to your jesting, accompanied by strange noises.
 
-**• Athletics**: You tumble or move in an otherwise unorthodox manner. Treat as a jump which ignores usual impediments of terrain and does not count towards distance fallen. An attack of opporunity against you for this movement has disadvantage.
+**• Athletics**: You tumble or move in an otherwise unorthodox manner. Treat as a jump which ignores usual impediments of terrain and does not count towards distance fallen. An attack of opportunity against you for this movement has disadvantage.
 
 **• Burglary**: You modify a trap or lock which you have already bypasssed to have its DV changed to any number up to your level + your heroism.
 
-**• Carousing**: You cause such a distraction that anyone not engaged in battle immediately has their attention turned to you. Anyone in battle must succeed a [Will] save with a DV equal to your level + you heroism or have its concentration lost and attention turned to you.
+**• Carousing**: You cause such a distraction that anyone not engaged in battle immediately has their attention turned to you. Anyone in battle must succeed a [Will] save with a DV equal to your level + your heroism or have its concentration lost and attention turned to you.
 
 **• Carpentry**: You manage to work a random wooden object into an improvised weapon until the end of the encounter. It can be used as a club to attack and also functions as a buckler until it is damaged.
 
 **• Cartage**: You perform a cartage check, for a number of rounds equal to the result, the vehicle and its contents may be treated as having half of its weight or half again of its weight.
 
-**• Cooking**: You make a food item of some sort (soup, pie, etc.) which can be thrown as though it were a thrown blade (for determining ranges) and used to inflict an undamaging attack. Instead of inflicting a wound, the foe is dazed or prone, you choice. If the attack was a critical hit, they are subject to both. They remain so until the spend an action cleaning themselves.
+**• Cooking**: You make a food item of some sort (soup, pie, etc.) which can be thrown as though it were a thrown blade (for determining ranges) and used to inflict an undamaging attack. Instead of inflicting a wound, the foe is dazed or prone, you choice. If the attack was a critical hit, they are subject to both. They remain so until they spend an action cleaning themselves.
 
 **• Fabrication**: You create a disguise out of various garb which can make you appear like a generic NPC of a similar species (or another) which requires a successful [Prcp] check to determine is false. This requires 120 minutes divided by your [Inte] score. The DV of the check is equal to your level + your heroism. The narrator may also apply bonus to the DV based on how the scenario plays out, granting an ability bonus to it.
 
-**• Helmsmanship**: Flip a coin. If heads, you manage to increase the turn radius of the ship by 20%. If tails, ou increase the speed of the ship by 20%. A musical number should accompany this. This lasts for as long as you are engaged in the action and for a number of rounds equal to your level (up to your level squared or the time it takes to finish the musical number).
+**• Helmsmanship**: Flip a coin. If heads, you manage to increase the turn radius of the ship by 20%. If tails, you increase the speed of the ship by 20%. A musical number should accompany this. This lasts for as long as you are engaged in the action and for a number of rounds equal to your level (up to your level squared or the time it takes to finish the musical number).
 
 **• Jewelcraft**: You manage to turn a piece of jewelry into a type of weapon. Treat as either a club, thrown blade, sling, or buckler until the end of the encounter.
 
@@ -104,7 +104,7 @@ You learn a language of your choice, training in a weapon of your choice, the Sh
  
 **• Riding**: You charge with your mount recklessly, moving the mount at max speed for the entire round (it must move at max speed using one of its movement modes during both movement phases). During this time, you may add your heroism to your Riding checks in place of gaining your proficiency die. At the end of the round, you jump. For this purpose, you jump is doubled and does not count towards your falling distance. You may theoretically jump in such a way as to land back in the saddle.
   
-**• Roping**: You use your rope to lasso a foe. Perform an undamaging attack against a foe within the length of the rope, up to a number of yards equal to your level + your [Rflx] bonus. If successful, the foe is prone until and action is spent removing the rope. On a critical success, you manage to restrain the foe fully, leaving them vulnerable until the end of the round.
+**• Roping**: You use your rope to lasso a foe. Perform an undamaging attack against a foe within the length of the rope, up to a number of yards equal to your level + your [Rflx] bonus. If successful, the foe is prone and functionally grappled until an action is spent removing the rope. On a critical success, you manage to restrain the foe fully, leaving them vulnerable until the end of the round.
  
 **• Smithy**: You cobble together some makeshift armor which functions for a number of minutes equal to your level. You need a number of pounds of material equal to 40 minus your [Inte] score + your heroism. At least one-third of this needs to be metal. Treat as cuirass, but attacks have advantage against one wearing it. This requires 1d4+6 rounds to put together.
    
@@ -112,7 +112,7 @@ You learn a language of your choice, training in a weapon of your choice, the Sh
  
 **• Survival**: Perform a survival check. Divide the points of success by 5. This is how many portions of food or liquid you produce (of a nature determined by the narrator). You must explain why you had it and may or may not want to explain where you hid it. The narrator may change the exact nature of such items afterwards.
 
-**• Tannery**: You cobble together an improvised form of armor which is treated as gambeson and last for a number of minutes equal to your level + your herosim. You need a number of pounds of material equal to 20 minus your level. At least one-third of this needs to be leather or quilted material. This requires 1d8+2 rounds to put together.
+**• Tannery**: You cobble together an improvised form of armor which is treated as gambeson and lasts for a number of minutes equal to your level + your herosim. You need a number of pounds of material equal to 20 minus your level. At least one-third of this needs to be leather or quilted material. This requires 1d8+2 rounds to put together.
 
 **• Volierence**: You cause the vehicle to move again as an action, but suffer disadvantage on checks and saves pertaining to controlling the vehicle until the end of the round. If you do so twice in a round, you extend the penalty to the next round.
   
