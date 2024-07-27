@@ -7,7 +7,7 @@ You add your heorism to your spell check.
 A successful check imposes a point of spell-sickness, though a critical success does not. Failure results in no effect and also imposes a point of spell sickness per spell tier. In the event of a critical failure, the spell dictates what can happen, in addition to receiving the spell-sickness for failure.  
 
 ### Casting Time
-A character must spend a number of actions to cast the spell. Once the spell is cast, it occurs at the end of the phase.
+A character must spend a number of actions (or units of time) to cast the spell. Once the spell is cast, it occurs at the end of the phase.
 
 #### Casting Using Reaction
 Some spells let you use a reaction to cast it. This does not count as reflexive casting. You cannot cast such a a spell using your reaction during the same phase you cast another spell. A spell cast using a reaction occurs immediately after what it responds to, as any reaction.
