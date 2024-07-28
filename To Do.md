@@ -42,8 +42,8 @@ Classes, Done:
 **W**arrior  (Full blown fighter)  
 
 Classes to do:  
-**I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)
-**W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this) 
+**I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
+**W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)
 
 ###### May ditch the warlock as something similar in terms of flavor and mechanics can be done with monk and or cleric.
 
