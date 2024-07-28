@@ -1,0 +1,1 @@
+Anytime an attack roll's unmodified die result is a 20, it is automatically successful. If it would have been successful anyway, it is instead a critical hit. If it would have already been a critical hit, the struck foe must perform an additional incapcitation save.
