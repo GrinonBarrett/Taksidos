@@ -24,7 +24,8 @@ Add more alternatively sized weapons
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
 
 Edit Character Creation  
-In particular, finish up the classes and ~~species~~.  
+In particular, finish up the classes and ~~species~~.
+
 Classes, Done:  
 **A**canist  (Intelligence caster)  
 **A**ssassin (Backstab)  
