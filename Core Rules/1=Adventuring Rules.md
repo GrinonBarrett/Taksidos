@@ -80,6 +80,29 @@ Carrying capacity reflects how much weight you can wear for travel. You have 3 w
 ### Lifting
 If attempting to lift an object as a skill check, the DV is 1 per 1.5 pounds of weight the object is. Certain difficult to manage items could be up to 4 per pound. Multiple individuals can contribute to this.
 
+## STEALTH
+When a character attempts to hide or move without being detected, they describe how they blend in with the environment (or move within it) to the narrator. The narrator then determines the difficulty of [Prcp] check if the creature in pursuit. 
+
+**Sight**
+Plain sight, +0  
+One quarter-cover, +2  
+Half cover, +4
+Three-quarters cover, +7
+Seeker is blind, +10
+You possess clothing which blends well, +2
+You possess clothes which clash with environament, -3
+
+**Scent**
+Has not bathed in a month, -3  
+Has not bathed in 1-3 weeks, +0  
+Has bathed within the week, +1  
+Has bathed in last couple of days, +3  
+Just cleaned, +5
+Has similar diet to tracker, +2
+
+{resume}
+
+
 ## FOOD, WATER, AND SURVIVAL
 While rules for the cost of food on the road is given, they are only an average of the cost of eating on the road. Included herein are more detailed rules for food, drink, and deprivation of such things.
 
