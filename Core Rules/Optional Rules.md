@@ -53,7 +53,7 @@ An expense firearm which is essentially powered by a wand inside the weapon. Thi
 -----
 
 ### Difficulty Classes
-A narrator may choose to completely ignore standard DVs presented throughout this system. Alhough this is discouraged, there can be several valid reasons for this. Not the least of which would be a streamlined and conssistant experience. In this case, the narrator may wish to assign a set DV based on how difficult they believe the check/save should be.
+A narrator may choose to completely ignore standard DVs presented throughout this system. Alhough this is discouraged, there can be several valid reasons for this. Not the least of which would be a streamlined and consistant experience. In this case, the narrator may wish to assign a set DV based on how difficult they believe the check/save should be. This should not alter the difficulty of spellchecks.
 
 | Difficulty | DV of check |
 |------------|-------------|
@@ -81,6 +81,3 @@ A character does not get a hermorrhage but is instead blodied, causing the foloo
 The condition can still be treated as normal.
 
 This will be simpler for many players, and reduces record keeping. It also make it a little less brutal for characters engaged in longer encounters.
------
-### Aging
-{May make this an advanced rule for a supplement}
