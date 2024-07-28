@@ -44,6 +44,8 @@
   
 **• Wrestling**: The ability to manipulate another’s body using your own.
 
+**• Zoology**: A knowledge of creatures and their habitats. Also functions as a medicine skill for creatures of the associated type. This is actually a group of skills. There is one skill for each creature type except humanoids.
+
 -----
 
 | Language | Script | Regions | Notes |
@@ -66,5 +68,3 @@
 | Lakhasi | Hydron | TBD | A common language among the east. |
 
 ###### Langugages still need some work. :/
-
-**• Zoology**: A knowledge of creatures and their habitats. Also functions as a medicine skill for creatures of the associated type. This is actually a group of skills. There is one skill for each creature type except humanoids.
