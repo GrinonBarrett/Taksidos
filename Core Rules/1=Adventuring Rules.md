@@ -239,3 +239,7 @@ Lasts 12d12+40 days if unopened. Lasts a day once opened. You can drink a single
 Characters are likely going to drink. Even if they don't, some substances can create similarly debilitating effects to alcohol. Each point of inebriation can last for 1d12 + 1d8 minutes. This is individual to each point of inebriation. When the time expires from the inebriation point, each die is reduced by 1 level each. Once a die is reduced below 1, it is no longer rolled. When both dice are lost from the inebriation, that point of inebriation is lost.  
 A point of inebriation does not begin for a number of minutes equal to your [Fort].  
 When your inebriation reachs half of your [Fort], you are obtunded. When your inebriation is 3/4 of your [Fort], you are stuporous. When your inebriation reaches your [Fort], you are incapacitated.
+
+### TENSION
+Adventuring is stressful. It takes its toll physically, mentally, and emotionally. Anytime the character critically fails a check/save, fails a save against a fear-related effect, or is affected by a critical hit, they receive a point of tension. They may also receive a point of tension for each day beyond the first without rest. Once their tension equal or exceeds their level, they are subject to the Oramous condition. If a character's panic ever doubles their level, they must perform an incapaitation save or die immediately.  
+A short rest can reduce tension by 1. A long rest can reduce your current amount by 1d4. A full rest can reduce it by 1d6+1d4.
