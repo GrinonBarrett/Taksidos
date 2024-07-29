@@ -80,6 +80,47 @@ Carrying capacity reflects how much weight you can wear for travel. You have 3 w
 ### Lifting
 If attempting to lift an object as a skill check, the DV is 1 per 1.5 pounds of weight the object is. Certain difficult to manage items could be up to 4 per pound. Multiple individuals can contribute to this.
 
+## STEALTH
+When a character attempts to hide or move without being detected, they describe how they blend in with the environment (or move within it) to the narrator. The narrator then determines the difficulty of [Prcp] check if the creature in pursuit. The default DV of a check is 13, with modifiers appropriate to the senses available to the pursuing creature. For example, a blind creature is unaffected by sight modifiers in any way.
+
+**Sight**  
+Lighting conditions should not be ignored.  
+Plain sight, +1  
+One quarter-cover, +3  
+Half cover, +6
+Three-quarters cover, +10
+You possess clothing which blends well, +3
+You possess clothes which clash with environament, -3  
+Shadowy Envirnoment, +2
+
+**Scent**  
+Has not bathed in a month, -3  
+Has not bathed in 1-3 weeks, +1  
+Has bathed within the week, +2  
+Has bathed in last couple of days, +4  
+Just cleaned, +6
+Has similar diet to tracker, +2
+
+**Sound**  
+Running, -5  
+Carefully walking, -2  
+Tip-toe pace, +0  
+Is not breathing, +2  
+Is breathing but not speaking, +1  
+Is breathing heavily, +0  
+Whispering, -1  
+Talking, -3  
+Shouting, -6
+
+**Touch**  
+If a pursuing creature has innately limited senses but has a sense of touch, it should see one and a half times the reduction in DV from the following.  
+Lighty Graze, -2  
+Touch with any form of pressure, -8  
+Body temperature is greatly different than ambient temperature, -1  
+
+**Taste**  
+Functions much akin to how scent does, but only on surfaces with which the stealthy creature came in contact with.
+
 ## FOOD, WATER, AND SURVIVAL
 While rules for the cost of food on the road is given, they are only an average of the cost of eating on the road. Included herein are more detailed rules for food, drink, and deprivation of such things.
 
@@ -198,3 +239,7 @@ Lasts 12d12+40 days if unopened. Lasts a day once opened. You can drink a single
 Characters are likely going to drink. Even if they don't, some substances can create similarly debilitating effects to alcohol. Each point of inebriation can last for 1d12 + 1d8 minutes. This is individual to each point of inebriation. When the time expires from the inebriation point, each die is reduced by 1 level each. Once a die is reduced below 1, it is no longer rolled. When both dice are lost from the inebriation, that point of inebriation is lost.  
 A point of inebriation does not begin for a number of minutes equal to your [Fort].  
 When your inebriation reachs half of your [Fort], you are obtunded. When your inebriation is 3/4 of your [Fort], you are stuporous. When your inebriation reaches your [Fort], you are incapacitated.
+
+### TENSION
+Adventuring is stressful. It takes its toll physically, mentally, and emotionally. Anytime the character critically fails a check/save, fails a save against a fear-related effect, or is affected by a critical hit, they receive a point of tension. They may also receive a point of tension for each day beyond the first without rest. Once their tension equal or exceeds their level, they are subject to the Oramous condition. If a character's panic ever doubles their level, they must perform an incapaitation save or die immediately.  
+A short rest can reduce tension by 1. A long rest can reduce your current amount by 1d4. A full rest can reduce it by 1d6+1d4.

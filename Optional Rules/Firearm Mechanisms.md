@@ -1,31 +1,3 @@
-### Rolling with Intensity
-If you do not have advantage or disadvantage on a skill check, you may choose to instead roll two different d20s. Whichever result is the furthest from 11 is used in place of the result of 3d6. If you have proficiency with the skill, you still roll an additional d6 and add the result.
-
------
-
-### [Body] requirements for Weapons
-To use a melee weapon in one hand, the character must have a [Body] score which is triple the weight of the weapon. To use in two hands, it need only be double.  
-A two handed weapon used with one hand this way has any attacks resolved after all other melee attacks and reactions cannot be made with the two handed weapon unless your [Body] is four times the weight of the weapon.  
-Any attack made by a creature which does not have sufficient [Body] suffers disadvantage.
-
------
-
-### Increased Criticals
-Each total level of training possessed when wielding a weapon grants a +1 to the attack for the purpose of inflicting a critical hit.
-
------
-
-### Naturally Dangerous Attacks
-Anytime an attack roll's unmodified die result is a 20, it is automatically successful. If it would have been successful anyway, it is instead a critical hit. If it would have already been a critical hit, the struck foe must erform an additional incapcitation save.
-
------
-
-### Skilled Counterspelling
-When performing a counterspell a particpant gets a bonus to their check equal to the highest tier they have cast the spell as.
-
------
-
-### Firearm Mechanisims
 All firearms have a mechanism by which they are operated that can affect how exactly they are handled. These are the Looselock, Matchlock, Sliverlock, Sparklock, and Wyrdlock.
 
 ##### Looselock
@@ -49,38 +21,3 @@ Triples the price of the firearm.
 An expense firearm which is essentially powered by a wand inside the weapon. This increases the price by 750%. Additionally, _there is a 1 in 20 chance that weapon explodes if used in the proximity of magic_.
 
 ###### With the wyrdlock, this begs the question- why not simply have a gun that doesn't need powder? The in world reasoning is that the combustion from the firewand-esque mechanisms doesn't produce the same kind of pressure to propel the bullet that powder does. The game design reason is to ensure that there is more variety in weapon types.
-
------
-
-### Difficulty Classes
-A narrator may choose to completely ignore standard DVs presented throughout this system. Alhough this is discouraged, there can be several valid reasons for this. Not the least of which would be a streamlined and conssistant experience. In this case, the narrator may wish to assign a set DV based on how difficult they believe the check/save should be.
-
-| Difficulty | DV of check |
-|------------|-------------|
-| | |
-| Easy       |     8       |
-| Typical  | 12 |
-| Challenging | 16 |
-| Difficult | 19 |
-| Extraordinarily Difficult | 23 |
-| Legendarily Difficult | 27 |
-| Near Impossible |    30  |
-
------
-### Improved Battle Attributes
-In place of gaining a bonus to melee attack rolls for having greater [Body] and/or [Rflx], an attack adds their [Body] and [Rflx] bonuses to their attack roll totals and a defender adds their [Body] and [Rflx] bonus to their defense.
-
-This will see the dynamic shift to a more melee centric form of combat. It will also cause attack rolls to be more consistant, whilst making the most powerful creatures even tougher to deal with.
-
------
-### Bloodied not Hemorrhaging
-A character does not get a hermorrhage but is instead blodied, causing the foloowing penalties:
- * -1 to all checks and attack rolls
- * -3 to all saves other than incapacitation saves
- * -5 to al incapacitation saves
-The condition can still be treated as normal.
-
-This will be simpler for many players, and reduces record keeping. It also make it a little less brutal for characters engaged in longer encounters.
------
-### Aging
-{May make this an advanced rule for a supplement}

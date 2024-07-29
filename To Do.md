@@ -24,24 +24,28 @@ Add more alternatively sized weapons
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
 
 Edit Character Creation  
-In particular, finish up the classes and ~~species~~.  
-Classes:  
-~~**A**canist  (Intelligence caster)~~  
-~~**A**ssassin (Backstab)~~  
-~~**B**ard (Informed folks with bonuses against certain creatures and spell types, does not add new spell casting method but does provide some protection against spells)~~  
-~~**B**erserk (rage wielders)~~  
-~~**C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)~~  
-~~**E**voker  (ki blast pew pew)~~ *although Super Techniques need to be developed*  
-~~**J**ester  (a sort of buff and debuff support role that can use skills in new ways)~~  
-~~**M**agi (will have the spell point guessing system, uses Will for casting)~~  
-~~**M**onk (has auras and can be either a martial artist or a support class. Will have an aura or two, but gains features based on monastic order.)~~ *Could still use a few more orders*  
-~~**P**aragon  (gives commands to allies)~~  
-~~**R**ogue  (has some skill bonuses and luck)~~  
-~~**S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)~~  
-**W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)  
-~~**W**arrior  (Full blown fighter)~~  
+In particular, finish up the classes and ~~species~~.
 
-###### May ditch the warlock as something similar in terms of flavor and mechanics can be done with monk and or cleric (when it gets completed).
+Classes, Done:  
+**A**canist  (Intelligence caster)  
+**A**ssassin (Backstab)  
+**B**ard (Informed folks with bonuses against certain creatures and spell types, does not add new spell casting method but does provide some protection against spells)  
+**B**erserk (rage wielders)  
+**C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)  
+**E**voker  (ki blast pew pew) *although Super Techniques need to be developed*  
+**J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
+**M**agi (will have the spell point guessing system, uses Will for casting)  
+**M**onk (has auras and can be either a martial artist or a support class. Will have an aura or two, but gains features based on monastic order.) *Could still use a few more orders*  
+**P**aragon  (gives commands to allies)  
+**R**ogue  (has some skill bonuses and luck)  
+**S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)  
+**W**arrior  (Full blown fighter)  
+
+Classes to do:  
+**I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
+**W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)
+
+###### May ditch the warlock as something similar in terms of flavor and mechanics can be done with monk and or cleric.
 
 Contemplate renaming Rogue to Venturer.
 
