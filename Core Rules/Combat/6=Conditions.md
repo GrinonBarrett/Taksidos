@@ -50,6 +50,19 @@ Obtunded creatures are affected by substances or magical effects. It is somewhat
 
   • Cannot sidestep as a reaction.
 
+  ##### Oramous
+  An alternative spelling to a lithen word which has no direct translation, it refers to a sort of madness brough about by a mix of fear, mental and emotional disresonance, and phsyical stress. Adventurers which have become heavily panicked can be described as such. A creature which has become oramous is subject to the following:
+
+• You lose your benefits of heroisim.
+
+• You have disadvantage on all saves against fear.
+
+• You have disadvantage on incapacitation saves.
+
+• When you take this condition, choose either Dazed or Vulnerable. You have the chosen condition until your panic is reduced to 0.
+
+• This condition is lost when your panic returns to 0.
+
   ##### Petrified
 A petrified creature can only be so by the effect of magic. The creature has become fossilized in and out, akin in nature to a statue. A petrified creature is subject to the following:
 
