@@ -33,16 +33,3 @@ If a roll is affected by both advantage and disadvantage, and it is an equal num
 
 #### OPPOSED CHECKS
 An opposed check requires two opponents each roll 3d6 and add their appropriate attribute to their result. If one side is greater than the other, they have a success while the opponent has a failure. If one of the opponents has a total value more than one and a half times their opponent, they enjoy a critical success and their opponent suffers a critical failure. Sometimes it will be up to the narrator if a critical success/failure has any outstanding effect.
-
-#### SIZE CATEGORY
-All creatures have a size category. For the purposes of trampling, these size categories can be used to determine if a creature is small enough to be trampled. A narrator may find other uses for these size categories as well. A narrator is free to simply use their judgement when deciding trampling though.
-
-Size Caes are as follows:  
-Jormungous  
-Titanous  
-Huge  
-Great  
-Large  
-Medium  
-Small  
-Diminutive
