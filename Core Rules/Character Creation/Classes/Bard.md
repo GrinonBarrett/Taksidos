@@ -1,7 +1,7 @@
 # Bard
 Enriched in culture and capable of fighting- you are the warsingers, skalds, and those who dare to find the greatest stories by placing yourself within the action. You have impeccable knowledge of the obscure, even among those learned in magic.
 
-**Beginning Skills**: Select one of the following (Carousing, Lore, Spellcraft). You gain it and 2 skills of your choice.
+**Class Skills**: Select one of the following (Carousing, Lore, Spellcraft).
 
 **Table-The Bard**
 
