@@ -1,7 +1,7 @@
 # Arcanist
 Students of arcane magic. Arcanists are capable of memorizing spells broken into formulas.
 
-**Beginning Skills**: Select one of the following (Alchemy, Lore, Spellcraft). You gain it and 2 skills of your choice.
+**Class Skills**: Select one of the following (Alchemy, Lore, Spellcraft).
 
 **Table-The Arcanist**
 
