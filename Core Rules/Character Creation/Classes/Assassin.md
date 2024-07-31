@@ -1,7 +1,7 @@
 # Assassin
 Lurking in shadows or in plain sight, assassins bring their targets to a swift end. 
 
-**Beginning Skills**: Select one of the following (Athletics, Burglery, or Roping). You gain it and 2 skills of your choice.
+**Class Skills**: Select one of the following (Athletics, Burglery, or Roping).
 
 **Table-The Assassin**
 
