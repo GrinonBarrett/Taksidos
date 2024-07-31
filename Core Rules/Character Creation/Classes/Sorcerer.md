@@ -1,7 +1,7 @@
 # Sorcerer
 A rare breed capable of powering superliminal effects with the energy stored in themeslves.
 
-**Beginning Skills**: Select one of the following (Lore, Spellcraft, Volierence). You gain it and 2 skills of your choice.
+**Beginning Skills**: Select one of the following (Lore, Spellcraft, Volierence).
 
 **Table-The Sorcerer**
 
