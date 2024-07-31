@@ -1,7 +1,7 @@
 # Rogue
 Adventurers, acrobats, thieves, and scoundrals all fall under the archetype of this class. Rogues have a habit of being good enough to get the job done through a combination of wits, competency, and sheer luck.
 
-**Beginning Skills**: You gain 3 skills of your choice.
+**Beginning Skills**: You gain a skill of your choice.
 
 **Table-The Rogue**
 
