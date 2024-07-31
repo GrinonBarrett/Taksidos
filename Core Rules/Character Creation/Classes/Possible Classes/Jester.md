@@ -1,7 +1,7 @@
 # Jester
 A class much maligned by many a narrator, the jester is the sort of character who causes chaos in their presence. The entire class may be "reflavored" to be more serious despite performing unusual deeds, but most players choosing this class will opt for comedy.
 
-**Beginning Skills**: You gain 2 skills of your choice.
+**Beginning Skills**: The Jester does not gain calss skills.
 
 **Table-The Jester**
 
@@ -24,6 +24,8 @@ You are capable of some of the most ridiculous antics imaginable. Just how outla
 
 ### Jesting
 You can communicate by using your entire body in place of speech. This requires an entire round and that you not be restrained. When you do so, you may set a DV up to your level + [Inte] score. A creature observing the movements can make an [Inte] or [Prcp] check (their choice) to decipher the meaning of the movements. You may convey a single sentence per round. Additionally, if you can perceive the creature, you may give a single creature advantage on their check to understand you. You may expened buffoonery to grant a creature a advantage on their check as well.
+
+Another Jester may add their level to their check for the purpose of understanding your jesting.
 
 ### Tickle
 You may use your action or reaction to expend buffonery while being grappled to force the grappler to make a [Fort] or [Rflx] save (your choice). If the save is a failure, the grapple is released. If the save is a critical failure, they are also vulnerable until the end of the next phase. If the save is a critical success, the creature is not only unaffected, but will not be affected by further attempts. The DV of the save is your level + your heroism.  
