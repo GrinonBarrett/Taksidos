@@ -2,7 +2,7 @@
 # Invoker
 Invokers bring an unusual aura about them. This aura attracts serviles and empowers them.
 
-**Beginning Skills**: You gain 2 skills of your choice.
+**Class Skills**: The invoker does not gain class skills.
 
 **Table-The Invoker**
 
