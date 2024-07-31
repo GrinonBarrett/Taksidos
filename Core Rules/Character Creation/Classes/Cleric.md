@@ -1,7 +1,7 @@
 # Cleric
 Students of arcane magic. Arcanists are capable of memorizing spells broken into formulas.
 
-**Beginning Skills**: Select one of the following (Carousing, Lore, Spellcraft). You gain it and a skill of your choice.
+**Class Skills**: Select one of the following (Carousing, Lore, Spellcraft).
 
 **Table-The Cleric**
 
@@ -19,7 +19,7 @@ Students of arcane magic. Arcanists are capable of memorizing spells broken into
 | 10th  | 3  |    +8    | Splash or Specialize                              |
 
 ### Acolyte
-You learn a language of your choice. Additionally, you gain training in two weapons of your choice. You may replace either or both of these with a language of your choice. Alternatively, you may learn a skill of your choice. You learn 2 rites of your choice (see the Liturgy feature below).
+You learn a language of your choice. Additionally, you gain training in two weapons of your choice. You may replace either or both of these with a language of your choice. You learn 2 rites of your choice (see the Liturgy feature below).
 
 ### Inspired Magic
 Your devotion to your cause causes you to radiate inspiration. When a spell references your [Magic] score/bonus, you may use your [Empy] score/bonus.  
