@@ -31,6 +31,6 @@ Each player chooses a character class when making their character. This provides
 Once a class is chosen, it cannot be changed. 
 
 #### DETAILS
-Don't forget to figure out some details about your character. How tall are they? How old.
+Don't forget to figure out some details about your character. How tall are they? How old? How much do they weigh? What are their aspirations?
 
-Yoour creature type, movement speeds, wound chart, and Potential is that of a Manfolk.
+Your creature type, size category, movement speeds, wound chart, and Potential is that of a Manfolk.
