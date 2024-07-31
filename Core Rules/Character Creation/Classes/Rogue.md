@@ -7,13 +7,13 @@ Adventurers, acrobats, thieves, and scoundrals all fall under the archetype of t
 
 | Level | HP | Heroism  | Luck | Features                                          |
 |-------|----|----------|------|---------------------------------------------------|
-| 1st   | 1  |    +1    | 3    | Knack, Luck, Unorthodox Learning                  |
+| 1st   | 1  |    +1    | 3    | Hecking Good, Luck, Unorthodox Learning           |
 | 2nd   | 1  |    +2    | 4    | Journeyman, Ready                                 |
 | 3rd   | 1  |    +3    | 5    | Attribute Improvement, Primary Edge               |
 | 4th   | 2  |    +4    | 6    | Further Training                                  |
 | 5th   | 2  |    +4    | 6    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | 7    | Attribute Improvement, Secondary Edge             |
-| 7th   | 2  |    +6    | 8    | Improved Knack                                    |
+| 7th   | 2  |    +6    | 8    | Hecking Awesome                                   |
 | 8th   | 3  |    +7    | 9    | Splash or Specialize                              |
 | 9th   | 3  |    +8    | 10   | Attribute Improvement                             |
 | 10th  | 3  |    +8    | 10   | Splash or Specialize                              |
@@ -44,7 +44,7 @@ You gain training in two weapons of your choice. You may choose to learn a langu
 ### 6) Secondary Edge
 You are able to acquire a paticular set of abilities not available to the common folk. Choose an edge. You gain the selected edge.
 
-### 7) Improved Knack
+### 7) Hecking Awesome
 If you make a skill check with your kecking good skill, you may choose to add your heroism bonus to your check. You must finish a long or full rest before doing so again.  
 When you replace the bonus d6 of your hecking good skill during an opposed check, you now roll a d20 instead.
 
@@ -77,10 +77,8 @@ You gain an Edge of your choice.
 
 • **Adept**. Select a skill, Anytime you use that skill to perform a check (whether you are proficient or not), you gain a +2 bonus to that check. You may select this multiple times, choosing a new skill each time.
 
-• **Weapon Competency**. Select a weapon type. You gain a +2 bonus to all attacks made with the selected weapon type.  
+• **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
-
-• **Knack for Magic**. You may expend a use of your knack when performing a spell check to gain a 1d4 bonus.
 
 • **Tongue and Cheek**. Select two languages. You learn both.
 
@@ -98,7 +96,7 @@ You may select this multiple times, choosing a new weapon type each time.
 
 • **Regulated Emotion**. You gain a +2 to all [Empy] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Expanded Knack**. Choose two skills. They are now included in your Knack feature.
+• **Hecking Versatile**. Choose two skills. They are now included in your Hecking feature.
 
 • **Phased Strike**. When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
 
@@ -118,8 +116,6 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 • **Tactical Step**. Once per round, you may move 1 yard on land. This does not count as an action and does not count against your movement.
 
 • **Aggressive Way**. If you Press Attack to the first attack you make in the round, it does not count against your reaction for the round.
-
-• **Empowered Knack**. You may use your Knack feature twice between rests.
 
 • **Bob and Weave**. When an attack against you fails, you may use your reaction to spend any number of luck points. You may move a number of feet equal to the luck spent this way +1. This movement does not have to cause brawling/trampling.
 
