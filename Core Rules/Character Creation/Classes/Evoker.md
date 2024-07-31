@@ -1,7 +1,7 @@
 # Evoker
 Having trained in the ways of body and mind, you have developed the ability to harness ki. 
 
-**Beginning Skills**: Select one of the following (Athletics, Lore, or Wrestling). You gain it and 2 skills of your choice.
+**Class Skills**: Select one of the following (Athletics, Lore, or Wrestling).
 
 **Table-The Evoker**
 
