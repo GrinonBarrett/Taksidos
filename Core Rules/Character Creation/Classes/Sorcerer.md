@@ -1,7 +1,7 @@
 # Sorcerer
 A rare breed capable of powering superliminal effects with the energy stored in themeslves.
 
-**Beginning Skills**: Select one of the following (Lore, Spellcraft, Volierence).
+**Class Skills**: Select one of the following (Lore, Spellcraft, Volierence).
 
 **Table-The Sorcerer**
 
@@ -59,4 +59,4 @@ So long as you have any hitpoints remaining, you gain a +1 bonus to defense agai
 
 #### Splash
 If you splash sorcerer as a member of another class, you gain the following:  
-You gain the Sorcery and Intensify Spell features.
+You gain the Sorcery and Intensify Spell features and gain a +1 to defense against magical attacks so long as you have any hitpoints remaining.
