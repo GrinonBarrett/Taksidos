@@ -1,7 +1,7 @@
 # Paragon
 Whether you are the supportive ally or the charismatic leader, you bring a powerful direction to your party.
 
-**Beginning Skills**: You gain 3 skills of your choice.
+**Class Skills**: You gain any skill of your choice.
 
 **Table-The Paragon**
 
