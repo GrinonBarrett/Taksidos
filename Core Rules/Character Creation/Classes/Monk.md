@@ -1,7 +1,7 @@
 # Monk
 Pious individuals who have taken a life of study and meditation. Though many study divine rights and theology, some have taken the blade as their subject.
 
-**Beginning Skills**: You gain 3 skills of your choice.
+**Class Skills**: You gain any skill of your choice.
 
 **Table-The Monk**
 
