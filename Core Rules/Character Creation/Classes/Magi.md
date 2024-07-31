@@ -1,7 +1,7 @@
 # Magi
 Naturally magical individuals who have the ability to access a magical field which permeates all matter by sheer willpower.
 
-**Beginning Skills**: Select one of the following (Alchemy, Lore, Spellcraft). You gain it and 2 skills of your choice.
+**Class Skills**: Select one of the following (Alchemy, Lore, Spellcraft).
 
 **Table-The Magi**
 
