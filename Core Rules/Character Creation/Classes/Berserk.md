@@ -1,7 +1,7 @@
 # Berserk
 Possessed of rage and fury, you are a formidable foe to any and all that step foot on the battlefield.
 
-**Beginning Skills**: Select one of the following (Athletics, Survival, or Wrestling). You gain it and 2 skills of your choice.
+**Beginning Skills**: Select one of the following (Athletics, Survival, or Wrestling).
 
 **Table-The Berserk**
 
