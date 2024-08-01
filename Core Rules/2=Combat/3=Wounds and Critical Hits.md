@@ -1,5 +1,4 @@
 ### Wounds
-
 Each creature and playable species has a wound chart like what is presented below, though the exact contents will vary. Anytime the character/creature receives a wound, a d20 is rolled and compared to its wound chart. If the result is of a wound that character/creature already has, a new wound is determined.
 
 **Table**: *Wound Allocation*
