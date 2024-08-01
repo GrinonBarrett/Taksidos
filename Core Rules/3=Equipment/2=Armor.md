@@ -2,7 +2,7 @@
 So- you got some neat features from your character's species, some shiny abilities from your selected character class, got the basics for life on the go, and now you feel primed and ready. As convenient as it would be to simply run and gun, at the end of the day, your character is flesh and bone and needs to keep those bits together. A bit of armor goes a long way to ensure you keep having fun with that brand new character of yours.
 
 Armor, for the sake of this game is divided into 6 classifications:  
--**U**narmed. Not technically armor, but some magical garments which can be worn are treated as though you were unarmored. This represents a person without proper protection.  
+-**U**narmored. Not technically armor, but some magical garments which can be worn are treated as though you were unarmored. This represents a person without proper protection.  
 -**G**ambeson. Padded, cloth, quilten, and/or leather based armors typically fall into this category. These are usually used by the poorest on the battlefield or by light cavalry.  
 -**B**rigandine. A primarily cloth form of protection reinforced with economical metal plates. This can include historical brigandine, chihal'ta hazar masha, or kikko.  
 -**M**aile. Armor composed of links, scale, or small plates. This includes classic chainmail, mirror armor, and lamallar.  
