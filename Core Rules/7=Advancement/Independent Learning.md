@@ -1,4 +1,4 @@
-### Individual Learning
+### Independent Learning
 A character is able to learn features outside of what is granted by their class. They may acquire a number of languages and training in weapons equal to their heroism. They may also gain skills, but each skill learned counts as two items of learning.
 
 Learning spells has no limit.
