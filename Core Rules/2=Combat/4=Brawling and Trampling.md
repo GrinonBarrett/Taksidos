@@ -18,11 +18,7 @@ Divide this by half of the shoved creature’s weight in stones + its [Body].
 ##### Slam
 A slam is a means of knocking a foe off balance. An opposed [Body] check occurs, with the slamming creature adding their weight in stones as a bonus. The defending creature adds half of their weight in stones to their check. If the slamming creature is successful, the opponent is knocked prone. If the slamming creature has a critical failure, the defending creature may choose to disengage the brawl.
 
-#### Size Class and Brawling (optional ruling)
-Narrators wanting to have size play more of a role in brawling and trampling can use the following guideline-  
-For each size larger a creature is against the opponent, it gains a +1 bonus to its [Body] for the purpose of that brawl/trample. Conversely, each size smaller than an opponent grants a creature a +1 to their [Rflx] for this purpose as well.
-
 #### TRAMPLING
-Trampling occurs when a creature moves to engage a significantly smaller foe and is done in place of a brawl. To determine the effects of trampling, the attacker and defender make an opposed [Rflx] check (called "evading the charge") or an opposed [Body] check (called "holding your ground"), defender’s choice. If making an opposed [Body] check, the trampling unit gets a bonus equal to half of the number of yards it has moved this round and the previous. If the trampling unit succeeds, the defender is knocked prone and a crushing attack is inflicted by the trampling mount.
-If the defender has a critical success with an opposed [Body] check, they stop the mount and may choose to use their reaction to knock them prone.
-If the defender has a critical success with an opposed [Rflx] check, they may use their reaction to perform a melee attack against the trampler or its rider (if it has one).
+Trampling occurs when a creature moves to engage a significantly smaller foe and is done in place of a brawl. To determine the effects of trampling, the attacker and defender make an opposed [Rflx] check (called "evading the charge") or an opposed [Body] check (called "holding your ground"), defender’s choice. If the trampling unit succeeds, the defender is knocked prone and a crushing attack is inflicted by the trampling mount.
+If the defender has a critical success while holding their ground, they stop the mount and may choose to use their reaction to knock them prone.
+If the defender has a critical success while evading the charge, they may use their reaction to perform a melee attack against the trampler or its rider (if it has one).
