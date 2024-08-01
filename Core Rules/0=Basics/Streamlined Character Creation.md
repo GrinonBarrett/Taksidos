@@ -34,3 +34,6 @@ Once a class is chosen, it cannot be changed.
 Don't forget to figure out some details about your character. How tall are they? How old? How much do they weigh? What are their aspirations?
 
 Your creature type, size category, movement speeds, wound chart, and Potential is that of a Manfolk.
+
+#### GEAR
+The narrator may give you a package of gear and will also give you an amount of starting cash to begin the game with.
