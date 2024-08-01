@@ -29,7 +29,7 @@ You choose a reaction. During the next round, you may perform that reaction once
 #### Cleave
 Reaction  
 Used in response to your own melee weapon attack. You cleave with your attack, causing an attack against each creature in a 180 degree arc in front of you extending out to the maximum range of the weapon beginning with the leftmost or rightmost foe first and proceeding onward. Each such attack is made with a -1 penalty.  
-If an attack is parried, a critical failure, or you are successfully struck by a counter attack- the cleave ends and you are vulnerable until the end of the next round. You cannot perform a follow up attack to an attack this way.
+If an attack is parried, a critical failure, or you are successfully struck by an attack which was a response to this cleaving attack- the cleave ends and you are vulnerable until the end of the next round. You cannot perform a follow up attack to an attack this way.
 
 If an attack is made this way within less than half of the weapon's range, that attack has disadvantage.
 
@@ -39,12 +39,13 @@ If a creature attempted an attack against you and it was a critical failure, you
 
 #### Counterspell
 Reaction  
-You attempt to counter a spell which specifially targets you or which is being cast by a creature within a number of yards equal to your [Prcp].
+You attempt to counter a spell which specifially targets you or which is being cast by a creature within a number of yards equal to your [Prcp] score.
 
 #### Dive for Cover
 Reaction  
 In response to potentially being affected by an effect which would affect an area, a character may dive for cover by immediately moving to a position which is within a jump's distance. If they do, they are prone and vulnerable until the end of the next round. They then perform a [Rflx] save to determine if they even avoid the effect. This cannot be done if already prone. The DV is 21.  
-A narrator may opt to simply allow a character to dive this way when not avoiding an effect, but we recommend reserving this for those particular occasions.
+A narrator may opt to simply allow a character to dive this way when not avoiding an effect, but we recommend reserving this for those particular occasions.  
+If the effect would be an attack roll, the DV is instead the attack roll result.
 
 #### Dodge
 Reaction  
@@ -57,7 +58,7 @@ If no creature performed a reaction in response to it, you attack is resolved as
 
 #### Follow-Up
 Reaction  
-If you successfully attack a creature, you may perform an additional attack against them with disadvantage. If the attack was one-handed, the attack must be made with a different hand/weapon. A two-handed attack can be repeated this way.
+If you successfully attack a creature, you may perform an additional melee attack against them with disadvantage. If the attack was one-handed, the attack must be made with a different hand/weapon. A two-handed attack can be repeated this way.
 
 #### Parry
 Reaction  
@@ -93,4 +94,4 @@ This is treated as an attack of opportunity which is made in response to a foe's
 
 #### Tag
 Action or Reaction  
-Once per round, a character may use their action or reaction to tag with another creature they can perceive within 3 yards. The tagging creatures swap initiative chits.
+Once per round, a character may use their action or reaction to tag with another creature they can perceive within 3 yards. The tagging creatures swap initiative chits. The current turn's creature still continues their turn as normal, with the new order taking effect during the next round.
