@@ -1,5 +1,5 @@
 ### Larger Ranged Weapons
-Unless noted otherwise, all ranged weapons use ammunition of the same size. Firearms are an exception to this.
+Unless noted otherwise, all ranged weapons use ammunition of the same size as those for medium creatures. Firearms are an exception to this.
 
 | Weapon                 | Cost | Weight      | Special Features | Total range | Optimal Range   |
 |------------------------|------|-------------------------|----------|------------|---------------|
