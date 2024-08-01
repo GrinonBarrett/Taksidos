@@ -1,5 +1,5 @@
 #### Resolving an Attack
-To determine if an attack successfully wounds its target, the attacker rolls a d20. This is compared to the Attack Versus Armor Table below. If the attacker’s result is equal to or greater than the listed number, they successfully wound the foe. Afailure does not mean that they failed to make contact, only that they failed to deliver a meaningful blow.
+To determine if an attack successfully wounds its target, the attacker rolls a d20. This is compared to the Attack Versus Armor Table below. If the attacker’s result is equal to or greater than the listed number, they successfully wound the foe. A failure does not mean that they failed to make contact, only that they failed to deliver a meaningful blow.
 
 Value before dash is without shield. Value after dash is with shield. 
 
@@ -62,9 +62,9 @@ Value before dash is without shield. Value after dash is with shield.
 | Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Toxic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 |                        |           |          |            |         |            |         |
-| Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
+| Undamaging†            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
 |                        |           |          |            |         |            |         |
-| Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
+| Unlisted Damage Type‡  | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 
 If unsure of what a weapon's value would be, you can use the Unlisted Weapon entry or try to find a similar weapon on the appropriate chart.
 
@@ -81,10 +81,10 @@ When an attack is successful, a wound is inflicted against the character/creatur
 Creatures that do not wear armor will include an Attack Against Creature table which details what attak roll is required for each type of attack.
 
 ##### Critical Hits
-If an attack roll would be at least one and a half times the opponents defense, the attack is considered a critical hit. The weapon (or other source of attack) will determine exactly what occurs with a critical hit, as outlined in the Wounds and Critical Hits section.
+If an attack roll would be at least one and a half times the opponents defense, the attack is considered a critical hit. The weapon (or other type of attack) will determine exactly what occurs with a critical hit, as outlined in the Wounds and Critical Hits section.
 
 ##### Handedness of Attack
-All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack if using their off hand. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer an additional -2 penalty to their offhand attack.
+All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer an additional -2 penalty to their offhand attack.
 Ranged attacks involving an off-hand suffer an additional -1 penalty.
 
 ##### Ranged Attacks
@@ -119,7 +119,7 @@ The following can modify one's defense rating combat:
 
 #### Couching a Lance
 A spear or pike may be used as a lance if the user has a proper cradle in their armor with which to couch it.  
-This lets the weapon automatically inflict an attack against a foe when coming into contact to brawl or trample, but needs to be couched in properly fitted armor while having moved at least 10 yards since the beginning of the round and since your previous attack to do so or otherwise be used properly. Readying the lance properly requires an action.   
-A properly couched lance gains  bonus to the attack roll equal to once third of the distance in yards traveled since the beginning of the round or the previors action (other than readying the lance) whichever was most recent.
+This lets the weapon automatically inflict an attack against a foe when coming into contact to brawl or trample, but needs to be couched in properly fitted armor while having moved at least 15 yards since the beginning of the round and since your previous attack to do so or otherwise be used properly. Readying the lance properly requires an action.   
+A properly couched lance gains a bonus to the attack roll equal to once third of the distance in yards traveled since the beginning of the round or the previous action (other than readying the lance) whichever was most recent.
 
 When the lance would damage a foe's armor or the attack roll result is within 1 point of the exact number rquired to hit or inflict a critical hit while couched, there is a 60% chance the lance breaks.
