@@ -44,7 +44,7 @@ Classes, Done:
 Classes to do:  
 **I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
 **W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)  
-**?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic)
+**?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)
 
 ###### May ditch the warlock as something similar in terms of flavor and mechanics can be done with monk and or cleric.
 
