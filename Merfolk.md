@@ -1,5 +1,4 @@
 ## MERFOLK
-
 Mythical creatures who have been mistaken for undine creatures. Merfolk live in varied societies which appear just beyond the casual grasp of a land-dweller’s society. Merfolk characters get the following features;
 
 **Creature Type**: Merfolks are humanoids.
