@@ -1,5 +1,5 @@
 # Cleric
-Students of arcane magic. Arcanists are capable of memorizing spells broken into formulas.
+Servents to a higher purpose than the simple pursuit of the lay life, clerics can draw from great traditions to aid others.
 
 **Class Skills**: Select one of the following (Carousing, Lore, Spellcraft).
 
@@ -28,12 +28,12 @@ Furthermore, when performing a counter-spell check, you may add your [Empy] bonu
 ### Liturgy
 You have learned several religious rites which can be used as an alternative to wyrdings. Each rite functions as a spell with a few differences;  
 * The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
-* You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, you have disadvantage on the spell check. If you cannot perform the recitation, you fail to cast the spell.  
+* You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, or are struggling to focus on the recitation, you have disadvantage on the spellcheck. If you cannot perform the recitation, you fail to cast the spell.  
 * You must have components (such as incense, an offering of wealth or food, etc.) whose value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
 * Any spell sickness you would recieve is reduced by 1.  
 * A critical success will increase the tier of the cast spell by 1.  
 * A critical failure has a 50% chance not to apply its critical failure effect.  
-Anytime you learn a spell, you also learn a rite for it automatically. You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise.
+You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associateed spell.
 
 ### 2) Exogesis
 Anytime you successfully prevent the casting of a spell through the use of counterspelling, you gain a +1 on all attacks and defense against that creature for a number of days equal to the tier of the spell. This is not cumulative in benefits, but can be extended through multiple counterspellings.
