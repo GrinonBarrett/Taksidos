@@ -48,6 +48,8 @@ Choose an attribute. It is increased by 1.
 
 **Minimal Sensing**: The ynthviur is, in the most technical sense, blind. It is also devoid of the senses of smell and hearing. Instead it relies on sensing vibrations and its ability to taste everything it comes in contact with. Anytime it would attempt a check or save based on perceiving something, it has disadvantage (likewise, it should get advantage against illusions based on such stimuli). If it would rely on multiple missing senses, it suffers an additional -2 penalty for each total sense. If it is touching or tasting something, it does not have any issues identifying it.
 
+**Stretchy**: Because it can change its size, the ynthviur may choose to switch between being medium or small as an action or reaction.
+
 **Potentially Venomous Gel**: The ynthviur may treat critical hits of its unarmed attacks as being toxic attacks.
 
 **Weak**: Your weight capacity is reduced to ½ at all load levels.
