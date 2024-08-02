@@ -46,6 +46,8 @@ Choose two attributes. Each are increased by 1.
  • Does not require sleep to rest, but must still manage to relax and unwind as other creatures would.  
  • Immunity to incapacitation, but is destroyed when wounded with no remaining hitpoints.
 
+ **Stretchy Nature**: Because they can change size, the mukitsuan may choose to switch between being medium or small as an action or reaction.
+
 **Minimal Sensing**: The mukitsuan is, in the most technical sense, blind. It is also devoid of the senses of smell and hearing. Instead it relies on sensing vibrations and its ability to taste everything it comes in contact with. Anytime it would attempt a check or save based on perceiving something, it has disadvantage (likewise, it should get advantage against illusions based on such stimuli). If it would rely on multiple missing senses, it suffers an additional -2 penalty for each total sense. If it is touching or tasting something, it does not have any issues identifying it.
 
 **Mucous**: The body of a mukitsuan is coated in a  mucous which is constantly being produced. This confers several advantages  
