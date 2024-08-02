@@ -1,25 +1,4 @@
-~~Edit Combat~~  
-~~Section 0 is done~~  
-~~Section 1 is done~~  
-~~Section 2 is done~~  
-~~Section 3 is done~~  
-~~Section 4 is done~~  
-~~Section 5 is done~~  
-~~Section 6 is done~~
-
-Edit Equipment  
-~~Section 0 is done~~  
-~~Section 1 is done, mostly - need to determine how to handle rope~~  
-~~Armor is done~~  
-~~Exotic Items are "done"~~  
-~~Shields are done~~  
 Add more alternatively sized weapons
-
-~~Edit Goods and Services~~  
-~~Adventuring Expenses done~~  
-~~Crafting will become its own feature~~  
-~~Magical services, Medical services, and Transportation will need to be finished~~  
-~~Trade Goods is done~~
 
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
 
@@ -41,7 +20,7 @@ Classes, Done:
 **S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)  
 **W**arrior  (Full blown fighter)  
 
-Classes to do:  
+Possible classes to do:  
 **I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
 **W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)  
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)
@@ -63,5 +42,3 @@ Create the Alchemy system in which potions and powders can be created with effec
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
 
 ###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
-
-###### May also do so with all non-manfolk species so that it is more streamlined for a player to make their first character. The system certainly has a weakness in character creation as the intention was that I could handle most of that load for the wee ones, but less crunch orinted folks may not appreciate it as much despite the game being more streamlined afterwards.
