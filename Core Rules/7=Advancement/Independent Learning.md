@@ -5,3 +5,7 @@ Learning spells has no limit.
 
 #### Skill Training
 As an item of improvement, a character can gain a permanent +1 bonus to a particular skill they are proficient with. This may occur up to a +5 bonus.
+
+#### Time Required
+Any such improvement is recommend to require at least 6 hours of study for 45 days minus your [Inte] score. The narrator may opt to replace [Inte] with another ability score if they deem appropriate.  
+A narrator may also opt to simply allow the player to gain it as a sort of milestone achievement.
