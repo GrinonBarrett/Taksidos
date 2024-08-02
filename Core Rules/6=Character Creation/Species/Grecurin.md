@@ -1,5 +1,5 @@
 ## GRECURIN
-Intelligent creatures from the deep, their most common neighbor are merfolk. These creatures sport a pair of wings and a set of fins which can give the appearance of wings at first glance. They are otherwise serpentine. Their tails end in fins which can resemble any form of sea life and are unique to the individual member of the species. Grecurin characters get the following features;
+Intelligent creatures from the deep, their most common neighbor are merfolk. These creatures sport a pair of wings and a set of fins which can give the appearance of another pair of wings at first glance. They are otherwise serpentine. Their tails end in fins which can resemble any form of sea life and are unique to the individual member of the species. Grecurin characters get the following features;
 
 **Creature Type**: Grecurin are Aquatic.
 
