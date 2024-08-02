@@ -7,8 +7,8 @@ Hailing from eastern lands, the brilekh are an adaptable species which has evolv
 
 **Ability Score Modification**: As a brilekh, you have the following adjustments to your attributes  
 -3 [Body]  
--1 [Rflx]
-You then choose 2 attributes. Each are increased by 1.
+-1 [Rflx]  
+Choose 2 attributes. Each are increased by 1.
 
 **Languages**: You gain competency in the Common Tongue and one other language of your choice.
 
