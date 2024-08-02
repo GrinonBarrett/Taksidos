@@ -928,4 +928,22 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest and various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure.Critically failing an [Empy] save during this time may expose you to visionsof something beyond.
 
-### Z
+### Z (1
+
+#### Zone of Vengeance
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 rounds or more
+
+**Effect**: You invoke spirits, or some other entites, which rush around in a circle, semisphere, or sphere (your choice) which extends out 3 yards. Choose an exotic damage type.
+
+Anything entering or exiting the area of the spell is subject to an attack. If the attack die roll is even, it is of the chosen type for the spell. If the attack roll is odd, it is of a nature determined by the narrator as appropriate to the spirit(s) summoned. In place of damaging armor, a creature is prone until the end of the next round.
+
+You may use your reaction to inflict an attack against a creature within the area of the spell. An attack inflicted this way gains a bonus equal to the spell's tier if you are also within the area of the spell.
+
+This spell lasts twice as long as the time spent to cast it.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range by up to 1.5 yards.
+
+**Critical Failure**: Whatever has been conjured this way is not your ally. So long as you are within the area of the spell will also attack you and your allies at the end of every round. As you move, it will also move to catch up with you during each move phase- up to a number of yards equal to half of your mode of movement + a number of yards equal to the spell's tier. If you cast the spell at a higher tier but did not expand the spell to its fullest extent, it will do so to reach you.
