@@ -208,6 +208,18 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
+#### Conjure Water
+
+**Minimum Tier**: 1
+
+**Casting Time**: 14 actions
+
+**Effect**: From your touch, or an object in your possession, a serving of water per spell tier is produced. This water is clean enough to drink. Alternatively, you can convert up to 2 servings of dirty water into drinkable water per spell tier, or 3 servings of sea water into 3 servings of fresh water (or vice versa).
+
+**At Higher Tiers**: For each tier beyond minimum, you may produce this water up to 1 foot away.
+
+**Critical Failure**: You manage to soak yourself in the conjured water and nearly drown on it, causing you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
 #### Creeping Death
 
 **Minimum Tier**: 5
