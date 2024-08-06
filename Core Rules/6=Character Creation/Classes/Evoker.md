@@ -94,6 +94,9 @@ You are capable of producing a burst of energy which can be propelled at a foe u
 **Cruel Strike**  
 The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and then perfom a movement.
 
+**Dragon Fist**  
+The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
+
 **Flash Step**  
 The user spends any number of ki points as an action to move a number of yards in any direction equal to the ki spent +1.
 
@@ -103,11 +106,17 @@ The user spends 2 ki as an action to fire a brilliant beam of intense energy, in
 **Great Thundrous Blast**  
 The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
 
-**Dragon Fist**  
-The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
+**Luminous Mark**  
+The user spends 1 ki to inflict a rnaged undamagin attack against a creature within a number of yards equal to their level + remaining ki. For a number of minutes equal to their level, the struck foe retain a mildly glowing marking. While marked this way, the evoker may have that foe emit light like a torch. Additionally, it may use an action or reaction to inflict both a radiant attack and a ki attack against that foe, but ends this technique's effect when they do.
 
 **Raging Volley**  
 The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack fails to hit a foe this way, all instances of advantage are lost.
 
 **Reject Assault**  
 The user spends 2 ki as a reaction to having an attack inflicted against them. Against that attack, their defense is equal to their remaining ki + their heroism.
+
+**Sinister Disappearence**  
+The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level mulitplied by the number of rounds they were missing.
+
+**Zenith Combo**  
+The user spends at least 3 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way. If an attack is successful, the next attack in the combo gains advantage. If each attack was successful, the user may choose to give up their advantage to have the attack treated as either crushing, force, or ki.
