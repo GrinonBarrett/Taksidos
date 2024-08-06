@@ -80,25 +80,34 @@ Furthermore, you may add your [Body] bonus to your counterspell checks.
 -----
 
 ##### Super Techniques
-Unless otherwise mentioned, all ranged attack from super techniques are considered within their optimal range.
+Unless otherwise mentioned, all ranged attacks from super techniques are considered within their optimal range.
 
-**Great Thundrous Blast**  
-The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
+**Bold Blast**  
+The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
 **Burst Cannon**  
-The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful hit, the for is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction.
-
-**Raging Volley**  
-The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack fails to hit a foe this way, all instances of advantage are lost.
+The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction or use another super technique which can be used as a single as a reaction.
 
 **Busting Bolt**  
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Fort].
 
-**Flash Cannon**  
-The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack hit, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
+**Cruel Strike**  
+The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and then perfom a movement.
+
+**Flash Step**  
+The user spends any number of ki points as an action to move a number of yards in any direction equal to the ki spent +1.
+
+**Flashing Burst**  
+The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack is successful, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
+
+**Great Thundrous Blast**  
+The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
 
 **Dragon Fist**  
-The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe.
+The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
 
-**Bold Blast**  
-The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
+**Raging Volley**  
+The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack fails to hit a foe this way, all instances of advantage are lost.
+
+**Reject Assault**  
+The user spends 2 ki as a reaction to having an attack inflicted against them. Against that attack, their defense is equal to their remaining ki + their heroism.
