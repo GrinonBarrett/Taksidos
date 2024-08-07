@@ -57,13 +57,13 @@ The bonus to spell checks you gain from staves for spells you know is increased 
 You gain a bonus to your saves against magical effects equal to your [Will] bonus.
 
 ### 8) Modify Strike
-You may use your reaction to expend your use of the Resist Wands feature to grant any creature you can perceive within a number of yards a set defense value against a magical attack. The defense would be equal to your [Will] score.
+You may use your reaction to expend your use of the Resist Wands feature to grant any creature you can perceive within a number of yards equal to your level a set defense value against a magical attack. The defense would be equal to your [Will] score.
+
+### 9) Modify Magic
+You may use your reaction to expend the use of your Resist Wands feature to modify the save of a creature within a number of yards equal to your level against a magical effect by up to your [Will] bonus.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
-
-### 9) Modify Magic
-You may use your reaction to expend the use of your Resist Wands feature to modify a creature's save against a magical effect by up to your [Will] bonus.
 
 #### Specialize
 If you specialize as a magi, you gain the following:  
