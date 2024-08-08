@@ -29,6 +29,8 @@ Contemplate renaming Rogue to Venturer.
 
 Contemplate renaming Clerics to Mystics.
 
+Contemplate giving warriors a feature in which they gain +1 to attack against foes with lower initiative (or a later turn order) and +1 to defense against those with higher initiative (or earlier turn order). Might also give to jester.
+
 Finish serviles.
 
 Flesh out bestiary.
