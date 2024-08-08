@@ -20,7 +20,7 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 
 
 ### Basic Training
-Every Warrior receives some training over their lifetime. You are trained in four weapons of your choice. You may include the Shield Proficiency (see below) in these picks.  
+Every Warrior receives some training over their lifetime. You are trained in four weapons of your choice. You may include the Shield Proficiency (see below) in these picks. You also have specialization with a weapon of your choice.  
 When you inflict a critical hit with an attack, you know how many hitpoints that creature currently has remaining.  
 Additionally, choose [Body], [Rflx], or [Fort]. It is improved by 1. Once chosen, this choice cannot be undone.
 
