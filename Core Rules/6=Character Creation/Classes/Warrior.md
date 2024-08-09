@@ -63,7 +63,7 @@ If you are attacked with a weapon or unarmed attack and have a greater total lev
 Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
 
 ### 9) Battle Instinct
-As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe.
+As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe. If a foe critically fails to strike you unarmed or with a weapon, you know their level of training in that weapon and are automatically aware of them.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -103,7 +103,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Crossbow               | You may use your reaction to perform an attack. |
 | Throwing Blade         | In place of moving, you may perform an attack. |
 | Brusgiata              | Your critical hits leave a foe vulnerable until the end of the round. |
-| Chakram                | You may have your chakram bounce off of the foe to a particular spot. This spot cannot exceed a distance from the foe greater than half of the remaining maximum distance of the weapon when the attack was made. This cannot occur if the attack was a critical failure. |
+| Chakram                | You may have your chakram bounce off of the foe to a particular spot. This spot cannot exceed a distance from the foe greater than half of the remaining maximum distance of the weapon when the attack was made. This cannot occur if the attack was a critical failure. If it returns to your own space, you catch it. |
 | Sling                  | If your sling is readied and you aimed this round, you gain a +6 bonus to your attack for the purpose of inflicting a critical hit. When being used for attacks or hurlings, its range is increased by half if it has been wound at least twice this round. |
 | Arquebus               | If you aimed your attack, the foe loses 1d2 hitpoints if the attack is successful, after inflicting a wound. |
 | Musket           | You gain a 1d8 bonus to the attack for the purpose of determining if the successful attack is a critical hit. If the attack was aimed, 1d12 bonus instead. |
