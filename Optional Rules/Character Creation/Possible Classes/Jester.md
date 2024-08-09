@@ -7,12 +7,12 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 1  |    +1    | Buffoonery, Jesting, Tickle                       |
+| 1st   | 1  |    +1    | Buffoonery, Jesting, On-On, Tickle                |
 | 2nd   | 2  |    +2    | Flashback, Journeyman                             |
 | 3rd   | 2  |    +3    | Attribute Improvement, Jack of All Trades         |
 | 4th   | 2  |    +4    | Distraction, Shenanigans                          |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 3  |    +5    | Attribute Improvement, Hasty                      |
+| 6th   | 3  |    +5    | Attribute Improvement, Hasty,                     |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
 | 8th   | 3  |    +7    | Ungovernable                                      |
 | 9th   | 4  |    +8    | Attribute Improvement                             |
@@ -26,6 +26,9 @@ You are capable of some of the most ridiculous antics imaginable. Just how outla
 You can communicate by using your entire body in place of speech. This requires an entire round and that you not be restrained. When you do so, you may set a DV up to your level + [Inte] score. A creature observing the movements can make an [Inte] or [Prcp] check (their choice) to decipher the meaning of the movements. You may convey a single sentence per round. Additionally, if you can perceive the creature, you may give a single creature advantage on their check to understand you. You may expened buffoonery to grant a creature a advantage on their check as well.
 
 Another Jester may add their level to their check for the purpose of understanding your jesting.
+
+### On-On
+You may tag any creature, even if it does not agree to the tag. When you do, you may use your reaction to call out "No tagbacks!", preventing them from targeting you for attacks or spells for the remainder of the round. They can still use features and actions which affect an area that happens to include you.
 
 ### Tickle
 You may use your action or reaction to expend buffonery while being grappled to force the grappler to make a [Fort] or [Rflx] save (your choice). If the save is a failure, the grapple is released. If the save is a critical failure, they are also vulnerable until the end of the next phase. If the save is a critical success, the creature is not only unaffected, but will not be affected by further attempts. The DV of the save is your level + your heroism.  
