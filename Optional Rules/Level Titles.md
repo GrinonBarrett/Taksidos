@@ -15,7 +15,5 @@ Each class can achieve a title upon reaching levels 5 and 8 of the class. A char
 | **Sorcerer** | Source-Touched | Sourcerai | ***Source-Blood*** |
 | **Warrior** | Fighter | Hero | ***Superhero*** |
 | | | | |
-| **Jester** | | | |
-| **Invoker** | | | |
-
-###### Jester and Invoker, being considered non-canon classes at this time, do not have level titles as of yet.
+| **Jester** | Disour | Tiggy | **Denner** |
+| **Invoker** | Conjurist | Summoner | **Harbinger** |
