@@ -46,7 +46,7 @@ Primarily laid beneath a tent, a canvas tarp is invaluable in creative hands.
 A casamirian device is used for seeing through another casamirian device. A casamirian device can only provide as much vision as a normal eye might, but some devices can be rotated or moved in some way. So long as one is familiar with a casamirian device, they can gaze through it using another. The level of familiarity one must have to gaze through such an item is like that of a focus.
 
   **• Casamirian Sphere, $10,000, 10 lb.**  
-This clear quartz orb can be used to *see through another casamirian device* if the user is competent with SPellcraft. This sphere requires three total hits to destroy. Sonic and Psychic attacks against it have advantage. It is immune to necrotic, radiant, and toxic sources of damage. Acid, fire, and cold attacks against the sphere have disadvantage.
+This clear quartz orb can be used to *see through another casamirian device* if the user is competent with Spellcraft. This sphere requires three total hits to destroy. Sonic and Psychic attacks against it have advantage. It is immune to necrotic, radiant, and toxic sources of damage. Acid, fire, and cold attacks against the sphere have disadvantage.
 
 ###### More casamirian devices to come.
 
