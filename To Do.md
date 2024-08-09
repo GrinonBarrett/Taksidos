@@ -13,10 +13,10 @@ Classes, Done:
 **C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)  
 **E**voker  (ki blast pew pew) *although Super Techniques need to be developed*  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
-**M**agi (will have the spell point guessing system, uses Will for casting)  
+**M**agi (can use spell points to cast spells, uses Will for casting)  
 **M**onk (has auras and can be either a martial artist or a support class. Will have an aura or two, but gains features based on monastic order.) *Could still use a few more orders*  
 **P**aragon  (gives commands to allies)  
-**R**ogue  (has some skill bonuses and luck)  
+**R**ogue  (has some skill bonuses and luck. A customizable class.)  
 **S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)  
 **W**arrior  (Full blown fighter)  
 
