@@ -13,7 +13,7 @@ Each class can achieve a title upon reaching levels 5 and 8 of the class. A char
 | **Paragon** | Declamator | Charismatte | ***Eloquention*** |
 | **Rogue** | Scoundrel | Venturer | ***Freewalker*** |
 | **Sorcerer** | Source-Touched | Sourcerai | ***Source-Blood*** |
-| **Warrior** | Hero | Veteran | ***Superhero*** |
+| **Warrior** | Fighter | Hero | ***Superhero*** |
 | | | | |
 | **Jester** | | | |
 | **Invoker** | | | |
