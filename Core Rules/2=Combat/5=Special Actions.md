@@ -80,8 +80,8 @@ Use in response to receiving a wound, when the wound is determined. You may adju
 Reaction  
 If the remaining casting time of your spell is only 1 action, you may complete the spell. This induces a point of spell-sickness. You will also be vulnerable until the end of the next round.
 
-#### Side-step
-Action or Reaction
+#### Side-Step
+Action or Reaction  
 You may move up to 1 yard using one of your modes of movement, so long as you can move up to that distance using it.
 
 #### Sprint
@@ -94,4 +94,4 @@ This is treated as an attack of opportunity which is made in response to a foe's
 
 #### Tag
 Action or Reaction  
-Once per round, a character may use their action or reaction to tag with another creature they can perceive within 3 yards. The tagging creatures swap initiative chits. The current turn's creature still continues their turn as normal, with the new order taking effect during the next round.
+Once per round, a character may use their action or reaction to tag with another creature they can perceive within 3 yards. The tagging creatures swap initiative chits. The current turn's creature still continues their turn as normal, with the new order taking effect during the next round. The other creature must approve of the swap for it to occur.
