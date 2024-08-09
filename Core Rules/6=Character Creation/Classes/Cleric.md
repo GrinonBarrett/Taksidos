@@ -33,7 +33,7 @@ You have learned several religious rites which can be used as an alternative to 
 * Any spell sickness you would recieve is reduced by 1.  
 * A critical success will increase the tier of the cast spell by 1.  
 * A critical failure has a 50% chance not to apply its critical failure effect.  
-You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associateed spell.
+You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associated spell.
 
 ### 2) Exogesis
 Anytime you successfully prevent the casting of a spell through the use of counterspelling, you gain a +1 on all attacks and defense against that creature for a number of days equal to the tier of the spell. This is not cumulative in benefits, but can be extended through multiple counterspellings.
@@ -42,7 +42,7 @@ Anytime you successfully prevent the casting of a spell through the use of count
 When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
 
 ### 4) Chalogesis
-When you succeed a counterspell check against a creature casting a spell, you may choose to reduce the tier of the spell of that spell inplace of increasing the casting time by half if it is cast above minimum tier.
+When you succeed a counterspell check against a creature casting a spell, you may choose to reduce the tier of the spell in place of increasing the casting time by half, if it is cast above minimum tier.
 
 ### 4) Spectacular Strike
 When you successfully perform a magical attack against a creature which is casting a spell or afflicted by Spell Sickness, it incurs a point of Spell Sickness.
