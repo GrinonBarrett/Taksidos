@@ -1,8 +1,14 @@
 ### EXOTIC ITEMS
 Here are some of the more magical items one may come across. 
 
+**Boutava's Beneficial Bourbon**, $125 per bottle, 3 lbs.  
+The bottle includes a paper adhered to its body, 
+> "When the eldritch horros get rough with your body, reach for the smooth tatse that replenishes your soul. With 17 essential vitamins and minerals and a proprietary blend of fine spirits and botanicals, our cask strength panacea can be used by adventurers of any experience with complete confidence. While others may sell your oil d'naga blends with subpar liquors, we have taken oaths to 3 different gods of festivities to ensure our employees never falter in delivering to you the premium product you demand for your active lifestle. When you are close to joining the spirits, choose the spirits more professionals reach for."
+
+A bottle contains 25 servings, which are each capable of giving a character 2 points of enebriation. A character gains no hydration from this and will infact require an additional serving of water for every 3 servings they partake in. Whether taken orally or topically, this can provide a 1d4 *(+1 as an effect of its latent magics)* bonus to a medicine check to the one it is administered. Additionally, there is a % chance equal to the number of servings they take that they will recover a single hitpoint.
+
 **Coldon's Powdered Ale**, $200 per serving, neg.  
-_This powder can turn half a serving of water into a serving of ale by sprinkling it into the water and giving it the slightest stir_. We don't know how this works anymore than you, but we wish it wasn't so expensive. Roll a d12. The narrator secretly chooses a number. If the die result matches the number, the ale will taste awful. Otherwise, it is rather servicable.
+_This powder can turn half a serving of water into a serving of ale by sprinkling it into the water and giving it the slightest stir_. We don't know how this works anymore than you, but we wish it wasn't so expensive. Roll a d20. The narrator secretly chooses a number. If the die result matches the number, the ale will taste awful. Otherwise, it is rather servicable.
 
 **Dust of Disjunction**, $1,000, neg.  
 Represents one “dose”. This powder is capable of temporarily rendering magic inert. An object or creature with a dose of this sprinkled over them has its magical features become negated while covered. Larger creatures/objects may require more doses, but a single dose can be sprinkled on a person or a 4" by 4" square. This lasts so long as the object is covered, but the dust itself usually becomes inert after it has been removed or itself rendered so by something else. The dust is water soluble and becomes inert when absorbed by any liquid, but a single dose will ruin a potion.
