@@ -12,7 +12,7 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 | 3rd   | 2  |    +3    | Attribute Improvement, Jack of All Trades         |
 | 4th   | 2  |    +4    | Distraction, Shenanigans                          |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 3  |    +5    | Attribute Improvement, Hasty,                     |
+| 6th   | 3  |    +5    | Attribute Improvement, Hasty                      |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
 | 8th   | 3  |    +7    | Ungovernable                                      |
 | 9th   | 4  |    +8    | Attribute Improvement                             |
