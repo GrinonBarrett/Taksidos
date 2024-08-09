@@ -7,8 +7,8 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 2  |    +1    | Basic Training, Shield Proficiency                |
-| 2nd   | 2  |    +2    | Tactical Step, Weight Bearer,                     |
+| 1st   | 2  |    +1    | Basic Training, Pacing, Shield Proficiency        |
+| 2nd   | 2  |    +2    | Tactical Step, Weight Bearer                      |
 | 3rd   | 3  |    +3    | Attribute Improvement, Bravery                    |
 | 4th   | 3  |    +4    | Aggressive Way                                    |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
@@ -23,6 +23,13 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 Every Warrior receives some training over their lifetime. You are trained in four weapons of your choice. You may include the Shield Proficiency (see below) in these picks. You also have specialization with a weapon of your choice.  
 When you inflict a critical hit with an attack, you know how many hitpoints that creature currently has remaining.  
 Additionally, choose [Body], [Rflx], or [Fort]. It is improved by 1. Once chosen, this choice cannot be undone.
+
+### Pacing
+At the beginning of any encounter, you may choose one of the following:
+
+* **Haste**. You gain a +1 to attacks against foes with a later turn order than yourself.
+* **Patience**. You gain a +1 to defense against foes with an earlier turn order than yourself.
+* **Caution**. Choose an action, you are automatically braced for it during the first round of combat.
 
 ### Shield Proficiency
 Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
