@@ -50,12 +50,12 @@ Bonuses to beats and parries made by or against the weapon are reduced to +1. Fo
 **Patta**, $150, 2.75 lb  
 Katar  
 _Used by the Kagaladine military as an anti-cavalry weapon, its use is rather uncommon._  
-Range is increased to 2 feet. Inflicts attacks as a longsword.
+Range is increased to unarmed attack range + 2 feet. Inflicts attacks as a longsword.
 
 **Dandpatta**, $190, 3.5 lb  
 Longsword  
 _Once used by the Kagaldine cavalry as a cavalry sword as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry._  
-Range is increased to 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
+Range is increased to unarmed attack range + 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
 
 **Khopesh**, $135, 3.75 lb.  
 Longsword  
