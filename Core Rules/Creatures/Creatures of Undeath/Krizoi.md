@@ -1,5 +1,5 @@
 ### Krizoi
-Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum. 
+Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum. The singular is krizai.
 
 **Creature Type**: Krizoi are undead.
 
@@ -20,9 +20,9 @@ Caused by the greed of the vanquished, these unusual figures resemble extremely 
 
 **Run Speed**: It may run up to 6.5 yards per move.
 
-**Climb speed**: You may swim up to 3 yards per move, presuming the water isn’t too rough.
+**Climb speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough.
 
-**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
@@ -58,10 +58,10 @@ Caused by the greed of the vanquished, these unusual figures resemble extremely 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   2    | Chipped           | A piece of the kirzoi worth d12 $ is chipped off of the krizoi.     |
 |   3    | Glancing Blow     | No ill effects. |
-|   4    | Rattle            | The animate skeleton is prone until end of round. |
-|   5    | Broken Bone       | The skeleton is prone until the end of the next round. |
+|   4    | Rattle            | The krizai is prone until end of round. |
+|   5    | Broken Limb       | The krizai is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
 |   7    | Stinging          | **Biased wound**. The skeleton is prone until the end of the next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
