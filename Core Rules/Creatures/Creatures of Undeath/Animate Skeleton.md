@@ -63,7 +63,7 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 |   4    | Rattle            | The animate skeleton is prone until end of round. |
 |   5    | Broken Bone       | The skeleton is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Stinging          | **Biased wound**. The skeleton is prone until the end of the next round. |
+|   7    | Rattle            | **Biased wound**. The skeleton is prone until the end of the next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Smashed Limb      | The skeleton loses one of its arms (or equivalent limb). |
 |   10   | Destructive Blow  | Skeleton loses 1d20 points of undeath. |
