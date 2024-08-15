@@ -1,4 +1,4 @@
-Legendary spells are named for their creator. These spells are listed by creator rather than letter. Legendary spells cannot simply be learned by a character. The creators' notes are often losst or buried and require deciphering. Alternatively, if such a magician is still alive, direct tualege could allow a character to learn such a spell.
+Legendary spells are named for their creator. These spells are listed by creator rather than letter. Legendary spells cannot simply be learned by a character. The creators' notes are often lost or buried and require deciphering. Alternatively, if such a magician is still alive, direct tutalege could allow a character to learn such a spell.
 
 ### Alekard (1
 A blood sucking priest from another world which gained divinity. His original name was corrupted into its current form in the process.
@@ -82,8 +82,20 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 
 **Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
 
-### Liston (1
+### Liston (2
 A scoundrel who isn't even considered any form of arcanist. He is a thief and a reckless one at that.
+
+#### Liston's Fallback
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 Action
+
+**Effect**: You destroy a staff in our possession and begin immediately casting the spell contained therein at the same level as this spell. You cannot cast a spell whose minimum tier is greater than this spell's casting.
+
+**At Higher Tiers**: The duration of this spell is increased by 1 action for each tier beyond minimum.
+
+**Critical Failure**: For a number of days equal to this spell's tier, your spell-sickness penalty for trying to cast the spell contained in the staff is doubled. The staff is not destroyed.
 
 #### Liston's Pry
 
