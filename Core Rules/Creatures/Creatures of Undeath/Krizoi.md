@@ -1,11 +1,11 @@
 ### Krizoi
-Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum (and very rarely some other valuable material). They pursue treasure of the same nature as themselves. The singular is krizai. Sometimes the name used to refer to such a creature can vary by material.
+Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum (and very rarely some other valuable material). They pursue treasure of the same nature as themselves. The singular is krizai. Sometimes the name used to refer to such a creature can vary by material such as Zimai for silver or Skotaqai for platinum.
 
 **Creature Type**: Krizoi are undead.
 
 **Size**: Krizoi stand between 4 and 10 feet. They can weigh between 20 and 500 pounds. They are medium or large creatures.
 
-**Undeath**: An animate skeleton has a number of points of undeath equal to 1/15 of the $ value of the being by weight.
+**Undeath**: A krizai has a number of points of undeath equal to 1/15 of the $ value of the being by weight.
 
 **Attributes**:  
 [Body] 10 (+3)  
@@ -103,4 +103,4 @@ Hypothetically, krizoi can have any number of limbs but is functionally the same
 
 -----
 
-***Creating Krizoi***: Adventurers, nobles, and others afflicted by greed can become a krizai. If the slain materialist is buried with their treasure and a 3rd tier or greater Animate is cast upon the corpse, the treasure will begin to meld with the corpse (as though by the Treasure Melding feature), this will include treasure buried with it even if it was not the slain's or the proper material. Once the melding completes, the krizai is animated. On a critical success, the creator may choose what material the krizai will favor from among the treasures buried with them so long as. On a critical failure, the krizai is animated, but seeks only yo destroy its creator and process their corpse. It instinctively knows if a creature it perceives is its creator.
+***Creating Krizoi***: Adventurers, nobles, and others afflicted by greed can become a krizai. If the slain materialist is buried with their treasure and a 3rd tier or greater Animate is cast upon the corpse, the treasure will begin to meld with the corpse (as though by the Treasure Melding feature), this will include treasure buried with it even if it was not the slain's or the proper material. Once the melding completes, the krizai is animated. On a critical success, the creator may choose what material the krizai will favor from among the treasures buried with them so long as. On a critical failure, the krizai is animated, but seeks to destroy its creator and process their corpse. It instinctively knows if a creature it perceives is its creator. If it successfully processes the corpse of its creator when made in this fashion, it ceases to be animat and simply a from of its material composition.
