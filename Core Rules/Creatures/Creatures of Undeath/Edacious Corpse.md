@@ -20,7 +20,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 
 **Run Speed**: It may run up to 4 yards per move.
 
-**Climb speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
+**Climb speed**: You may swim up to .5 yard per move, presuming it is reasonable terrain to do so.
 
 **Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
 
