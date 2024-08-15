@@ -886,7 +886,19 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest and various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure.Critically failing an [Empy] save during this time may expose you to visionsof something beyond.
 
-### Z (1
+### Z (2
+
+#### Zenith
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Effect**: You touch a creature, selecting an attribute, and enhance it for 2d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck double's the spell tier bonus to the duration.
+
+**At Higher Tiers**: In additional to the benefits listed above, each tier beyond minimum increases the casting time by 1 action.
+
+**Critical Failure**: You have inverted the spell completely causing it to instead inflict a penalty to the attribute against you for the proper duration.
 
 #### Zone of Vengeance
 
