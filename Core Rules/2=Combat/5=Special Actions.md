@@ -64,6 +64,10 @@ If you successfully attack a creature, you may perform an additional melee attac
 Reaction  
 When you are targeted for a melee attack, or a creature within melee range is targeted for a melee attack, you may perform a [Rflx] or [Body] check against the attack. If successful, you managed to foil the attack. A critical success will leave the foe vulnerable until the end of the round. A failure results in the attack's target being struck regardless. A critical failure results in your being vulnerable until the end of the round. The DV is the opponent's attack roll total (including modifiers).  
 
+#### Pocket
+Action  
+Take something within reach of your hand (or appropriate limb) and place it in a pocket or other easily accessed pouch.
+
 #### Press Attack
 Reaction  
 Declared when you make an attack, you gain advantage on the attack. You also become vulnerable until the end of the round.

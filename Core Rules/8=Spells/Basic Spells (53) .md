@@ -236,7 +236,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (3
+### D (4
 
 #### Decombustion
 
@@ -275,6 +275,20 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 **At Higher Tiers**: Each tier beyond the original extends the range by 1 yard.
 
 **Critical Failure**: Your words are instead shrill and crackled as you strain your voice. Yourself and every creature within a number of yards equal to the spell's tier suffer a sonic attack. The attack has advantage against you and disadvantage against each other creature. Your voice will sound weak until your spell-sickness has recovered.
+
+#### Destructive Volley
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Effect**: You overload a wand in your possesion, casuing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
+
+If the spellcheck was a critical success, you may gain a bonus to one of the attacks equal to the points of success for the purpose of determining if the attack is a critical hit.
+
+**At Higher Tiers**: For each tier beyond minimum, an additional such ray is fired.
+
+**Critical Failure**: You instead are subject to a number of the wand's attacks equal to the spell's tier. The wand is still destroyed.
 
 #### Dragon's Breath
 
@@ -872,7 +886,19 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest and various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure.Critically failing an [Empy] save during this time may expose you to visionsof something beyond.
 
-### Z (1
+### Z (2
+
+#### Zenith
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Effect**: You touch a creature, selecting an attribute, and enhance it for 2d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck double's the spell tier bonus to the duration.
+
+**At Higher Tiers**: In additional to the benefits listed above, each tier beyond minimum increases the casting time by 1 action.
+
+**Critical Failure**: You have inverted the spell completely causing it to instead inflict a penalty to the attribute against you for the proper duration.
 
 #### Zone of Vengeance
 
