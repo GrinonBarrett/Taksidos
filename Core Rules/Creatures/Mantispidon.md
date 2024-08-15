@@ -63,18 +63,18 @@ Oversized relatives of the mantids, mantispidons are an ecological pest in most 
 |   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Striker Lost      | It loses one of its strikers. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The aranidh must perform an incapacitation save or die immediately. It is hemorrhaging. |
+|   5    | Vital Organ    | A mortal wound has been inflicted against a vital organ. The mantisipdon must perform an incapacitation save or die immediately. It is hemorrhaging. |
 |   6    | Glancing Blow            | No ill effects. |
-|   7    | Clipped WIngs | **Biased wound**. Until this wound is healed, it cannot. |
+|   7    | Clipped WIngs | **Biased wound**. Until this wound is healed, it cannot fly or use its Winged Lunge. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stagger        | It has its movement halved until the end of the round. |
 |   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Stumble | It is prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   13   | Death | **Biased Wound**. It dies. |
+|   13   | Debilitating Blow | **Biased Wound**. It is vulnerable until the end of the round. |
 |   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Tail Shot | **Biased wound**. It cannot use its Spine Tail attack during this round and loses its Superior Balance feature until this wound is healed. |
+|   16   | Glancing Blow | **Biased wound**. No ill effects. |
 |   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Lost Striker | **Biased wound**. It loses one of its strikers. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
