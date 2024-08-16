@@ -12,7 +12,7 @@ Possessed of rage and fury, you are a formidable foe to any and all that step fo
 | 3rd   | 3  |    +3    | Attribute Improvement, Shout                      |
 | 4th   | 3  |    +4    | Bash, Brutal Momentum                             |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
-| 6th   | 4  |    +5    | Attribute Improvement, Brutal Blow                |
+| 6th   | 4  |    +5    | Attribute Improvement, Reckless                   |
 | 7th   | 4  |    +6    | Relentless Strike, Warcry                         |
 | 8th   | 4  |    +7    | Barbarity, Glorious Cry                           |
 | 9th   | 4  |    +8    | Attribute Improvement, Raging Focus               |
@@ -36,15 +36,16 @@ The first attack you make each round while in your battle rage gains a bonus equ
 You may use your reaction to produce a shout which affects any number of creatures you can perceive within 3 yards. Those creatures get a -1 penalty to the next d20 they roll before the end of the next round.
 
 ### 4) Bash
-If you Press Attack to the first attack you make in the round, you also gain a bonus to the attack roll equal to the number of hands your wield the weapon with. If in your battlerage trance, you also gain a bonus for the purpose of inflicting a critical hit equal to the number of hands you wield the weapon with.
+If you Press Attack to the first attack you make in the round, you gain a bonus to your attack based on the type of attack:  
+* Ranged and One-handed melee weapon attacks, +1.  
+* Unarmed Attacks and Two-handed melee weapon attacks, +2.  
+If in your battlerage trance, you also gain a bonus for the purpose of inflicting a critical hit equal to the number of hands you wield the weapon with, or a +1 if an unarmed attack.
 
 ### 4) Brutal Momentum
 When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
-### 6) Brutal Blow
-If you Press Attack while in your battlerage, you gain a bonus to your attack based on the type of attack:  
-Ranged and One-handed melee weapon attacks, +1.  
-Unarmed Attacks and Two-handed melee weapon attacks, +2.
+### 6) Reckless
+If you are vulnerable but not prone, your follow up attacks do not have disadvantage.
 
 ### 7) Relentless Strike
 Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
@@ -59,7 +60,7 @@ Your [Body] and [Fort] each improve by 1. Choose two attributes. They are both i
 When you inflict a critical hit, if you expend your reaction to use your Shout or Warcry features, it does not count against your reaction for the round. You may only use one feature for free this way per critical hit.
 
 ### 9) Raging Focus
-While in your battle rage, if you receive a wound and are not vulnerable, you may choose to become vulnerable until the end of the round. If you do, you may perform an additional reaction this round and gain a +1 to all attack rolls until your take a reaction.
+While in your battle rage, if you receive a wound and are not vulnerable, you may choose to become vulnerable until the end of the round. If you do, you may perform an additional reaction this round and gain a +1 to all attack rolls until you take your next reaction this encounter.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -72,4 +73,4 @@ You are now affected by your Warcry ability.
 You may now use your War Cry ability an additional time per encounter, so long as it is the first round and you do not have all of your hitpoints.
 
 #### Splash
-If you splash berserk as a member of another class, you gain the ability to enter a battlerage trance and gain the Brutal Momentum feature.
+If you splash berserk as a member of another class, you gain the ability to enter a battlerage trance, gain the Brutal Momentum feature, and gain the Reckless feature.
