@@ -38,14 +38,15 @@ You may use your reaction to produce a shout which affects any number of creatur
 ### 4) Bash
 If you Press Attack to the first attack you make in the round, you gain a bonus to your attack based on the type of attack:  
 * Ranged and One-handed melee weapon attacks, +1.  
-* Unarmed Attacks and Two-handed melee weapon attacks, +2.  
+* Unarmed Attacks and Two-handed melee weapon attacks, +2.
+
 If in your battlerage trance, you also gain a bonus for the purpose of inflicting a critical hit equal to the number of hands you wield the weapon with, or a +1 if an unarmed attack.
 
 ### 4) Brutal Momentum
 When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
 ### 6) Reckless
-If you are vulnerable but not prone, your follow up attacks do not have disadvantage.
+If you are vulnerable, but not prone, your follow up attacks do not have disadvantage.
 
 ### 7) Relentless Strike
 Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
