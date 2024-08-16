@@ -1,7 +1,7 @@
 ### Ergenekrai
 A skeletal servant. It is not very competent on its own. The plural is ergenekroi.
 
-**Creature Type**: Ergenekrai are Undead.
+**Creature Type**: Ergenekroi are Undead.
 
 **Size**: Ergenekroi stand between 4 and 6 feet. They can weigh between 50 and 90 pounds. They are medium creatures.
 
@@ -14,7 +14,7 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 [Will] 9 (+3)  
 [Inte] 7 (+2)  
 [Prcp] 8 (+2)  
-[Empy] 8 (+2)  
+[Empy] 6 (+2)  
 
 **Run Speed**: It may run up to 5 yards per move.
 
