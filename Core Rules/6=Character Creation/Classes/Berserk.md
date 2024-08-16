@@ -42,7 +42,7 @@ If you Press Attack to the first attack you make in the round, you also gain a b
 When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
 ### 6) Brutal Blow
-If you Press Attack while in your battlerage, you gain a bonus to your attack based on the type of attack:
+If you Press Attack while in your battlerage, you gain a bonus to your attack based on the type of attack:  
 Ranged and One-handed melee weapon attacks, +1.  
 Unarmed Attacks and Two-handed melee weapon attacks, +2.
 
