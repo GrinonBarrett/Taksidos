@@ -68,8 +68,8 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as a berserk, you gain the following:  
 You gain training with two weapons of your choice.  
 While in your battlerage trance, you gain a +2 bonus to your incapacitation saves.  
-Choose two attributes. Each is increased by 1. One of those must be [Body], [Fort], [Rflx] or [Empy].  
 You are now affected by your Warcry ability.
+You may now use your War Cry ability an additional time per encounter, so long as it is the first round and you do not have all of your hitpoints.
 
 #### Splash
 If you splash berserk as a member of another class, you gain the ability to enter a battlerage trance and gain the Brutal Momentum feature.
