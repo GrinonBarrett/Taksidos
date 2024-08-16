@@ -113,8 +113,6 @@ A prone creature is in a physically disadvantaged position. If it is not prone f
   • Anytime a stuperous creature sprints or is wounded, there is a 50% chance it becomes prone.
 
   • A stuporous creature which is dazed or prone is also vulnerable while so afflicted.
-  
-  • All attacks made against the prone creature get a +1 bonus.
 
 ##### Vulnerable
 All attacks made against a vulnerable creature gain a +4 bonus.
