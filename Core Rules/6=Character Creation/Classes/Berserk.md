@@ -39,7 +39,7 @@ You may use your reaction to produce a shout which affects any number of creatur
 If you Press Attack to the first attack you make in the round, you also gain a bonus to the attack roll equal to the number of hands your wield the weapon with. If in your battlerage trance, you also gain a bonus for the purpose of inflicting a critical hit equal to the number of hands you wield the weapon with.
 
 ### 4) Brutal Momentum
-Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
+When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
 ### 6) Brutal Blow
 If you Press Attack while in your battlerage, you gain a bonus to your attack based on the type of attack:
@@ -47,7 +47,7 @@ Ranged and One-handed melee weapon attacks, +1.
 Unarmed Attacks and Two-handed melee weapon attacks, +2.
 
 ### 7) Relentless Strike
-Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantag on that single attack roll.
+Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
 
 ### 7) Warcry
 Once per encounter, you may use your reaction to grant any number of other creatures you can perceive a +1 to their next attack roll before the end of the next round. They also gain a +1 to defense against the next attack made against them during this time.
