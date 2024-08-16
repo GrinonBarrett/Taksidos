@@ -20,9 +20,9 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 
 **Run Speed**: It may run up to 5 yards per move.
 
-**Climb speed**: You may swim up to 1 yard per move, presuming it is reasonable terrain to do so.
+**Climb speed**: It may swim up to 1 yard per move, presuming it is reasonable terrain to do so.
 
-**Swim speed**: You may swim up to 1 yard per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
