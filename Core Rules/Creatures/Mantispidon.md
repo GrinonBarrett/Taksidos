@@ -3,7 +3,7 @@ Oversized relatives of the mantids, mantispidons are an ecological pest in most 
 
 **Creature Type**: Mantispodons are Insects.
 
-**Size**: Mantispidons are between 3-4 yards in height. They can weigh between 25 and 45 pounds. They are medium creatures.
+**Size**: Mantispidons are between 3-4 feet in height. They can weigh between 25 and 45 pounds. They are medium creatures.
 
 **Hitpoints**: A mantispidon has no hitpoints.
 
