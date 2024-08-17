@@ -26,33 +26,31 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 
  • Smack: The bone-mage may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
 
- • Magic Blast: The bone-mage is capable of firing a ray as though fired from a wand.
+ • Magic Blast: The bone-mage is capable of firing a ray as though fired from a wand. The damage type is determined when the servile is acquired. This is a magical effect.
 
 ---------------------
-{resume, by increasing all non-exotic defences by 1}
+
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
-| **Club**                   | 11     | **Pole Axe**       | 10     | **Arrow, Bodkin Point**    | 15    |
-| **Longsword**              | 11     | **Greatsword**     | 10     | **Arrow, Broadhead**       | 15    |
-| **Mace**                   | 7      | **Maul**           | 6      | **Bolt**                   | 15    |
-| **Spear**                  | 11     | **Pike**           | 11     | **Brusgiata**              | 12    |
-| **Hand Axe**               | 10     | **Madu**           | 12     | **Chakram**                | 14    |
-| **Katar**                  | 12     | **Javelin**        | 11     | **Arquebus**               | 12    |
-| **Dagger**                 | 16     | **Throwing Blade** | 17     | **Musket**                 | 11    |
-| **Morningstar**            | 7      | **Sling**          | 16     | **Tronutonante**           | 13    |
-| **Warpick**                | 8      |                    |        | **Unarmed**                | 17    |
+| **Club**                   | 12     | **Pole Axe**       | 11     | **Arrow, Bodkin Point**    | 16    |
+| **Longsword**              | 12     | **Greatsword**     | 11     | **Arrow, Broadhead**       | 16    |
+| **Mace**                   | 8      | **Maul**           | 7      | **Bolt**                   | 16    |
+| **Spear**                  | 12     | **Pike**           | 12     | **Brusgiata**              | 13    |
+| **Hand Axe**               | 11     | **Madu**           | 13     | **Chakram**                | 15    |
+| **Katar**                  | 13     | **Javelin**        | 12     | **Arquebus**               | 13    |
+| **Dagger**                 | 17     | **Throwing Blade** | 18     | **Musket**                 | 12    |
+| **Morningstar**            | 8      | **Sling**          | 17     | **Tronutonante**           | 14    |
+| **Warpick**                | 9      |                    |        | **Unarmed**                | 18    |
 |                            |        |                    |        |
 | **Acid**                   | 11     | **Fire**           | 9      | **Psychic**                | 14     |
-| **Cold**                   | 18     | **Force**          | 8      | **Toxic**                  | 24     |
-| **Crushing**               | 9      | **Ki**             | 10     | **Radiant**                | 9      |
-| **Cutting**                | 12     | **Necrotic**       | 12     | **Sonic**                  | 11     |
-| **Electrical**             | 11     | **Piercing**       | 14     | **Biting**                 | 12     |
+| **Cold**                   | 18     | **Force**          | 9      | **Toxic**                  | 24     |
+| **Crushing**               | 9      | **Ki**             | 9      | **Radiant**                | 8      |
+| **Cutting**                | 13     | **Necrotic**       | 12     | **Sonic**                  | 11     |
+| **Electrical**             | 11     | **Piercing**       | 15     | **Biting**                 | 12     |
 |                            |        |                    |        |                            |        |
-| **Unlisted Damage Type**   | 11     |                    |        | **Undamaging**             | 11 |
-
-
+| **Unlisted Damage Type**   | 12     |                    |        | **Undamaging**             | 12 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -91,11 +89,25 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 **-** Cannot be destroyed by massive damage.  
 **-** Does not produce warmth.  
 
-**Mindless**: Ergenekrai do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
+**Magic Blaster**: Each bone-mage bears a glowing, flaring, aura around its fists and in its eye sockets. When it is created, the type of damage dealt by the magic blast is determined by rolling a d8 and comparing to the chart below.
 
-**Barebone Senses**: The ergenekrai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It can always see its invoker with its eye holes if nothing lies between them and will always understand the voice of its invoker.
+|   | The Earth | The Flame | The Grave | The Light | The Sea | The Sky | Nobility |  Valdercaller |
+|---|-----------|-----------|-----------|-----------|---------|---------|----------|---------------|
+|   |           |           |           |           |         |         |          |               |
+| 1 |   Acid    |  Radiant  |  Radiant  |  Radiant  | Electric| Electric|   Cold   |   Piercing    |
+| 2 | Crushing  |   Fire    |    Cold   |   Fire    |   Cold  | Electric|Electrical|     Acid      |
+| 3 | Crushing  |   Fire    |    Cold   |  Radiant  |   Cold  | Electric|   Fire   |     Cold      |
+| 4 |   Force   |   Fire    |   Toxic   | Electric  |   Acid  |   Cold  |    Ki    |     Fire      |
+| 5 |   Force   |   Fire    |   Toxic   |  Radiant  |   Force |  Sonic  |  Psychic |    Biting     |
+| 6 |   Force   |   Fire    |  Psychic  |  Psychic  |   Force |  Sonic  |  Radiant |   Radiant     |
+| 7 |    Fire   |   Cold    | Necrotic  |  Radiant  |  Toxic  | Crushing|   Sonic  |   Electric    |
+| 8 | Necrotic  | Necrotic  | Necrotic  | Necrotic  | Necrotic | Necrotic | Necrotic | Necrotic    |
+
+**Limited Senses**: The bone-mage is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight.
+
+**Split Spell**: When you begin casting a spell, you may command the bone-mage to also attempt to focus its actions as though it were casting the spell as well. Upon completing the spell, you may use your reaction to treat it as the origin of the spell instead of yourself. You are still the one casting the spell.
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
-* **The Grave**. Ki, Necrotic, and Radiant attacks each have disadvantage against the ergenekrai.
-* **The Light**: The ergenekrai can seee light levels (but not actually see) and can "feel" light levels in addition to its standard senses. It cannot be blinded by theses senses.
-* **Valdercaller**. If the ergernkrai is grappling a foe, it can treat its attacks against that foe as being Toxic or Biting. Any critical hit with an unarmed attack dealt be the ergenekrai can be treated as toxic.
+* **The Grave**. Whenever one of your serviles is destroyed while the bone-mage has no remaining hitpoints, you may use your reaction to gain an amount of spell sickness equal to the current number of serviles you control.
+* **The Light**. Anytime the bone-mage's attack is successful and the result is odd, you may have the struck creature produce light like a torch until the end of the next round. Radiant and Necrotic attacks against the bone-mage have disadvantage.
+* **Valdercaller**. The bone-mage may treat its Magic Blast as being toxic regardless of its actual damage type. As an additional option when getting a critical success while brawling, the bone-mage may inflict a toxic attack against the brawling foe *and an additional attack of the Magic Blast's type*.
