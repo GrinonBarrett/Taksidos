@@ -9,7 +9,7 @@ Possessed of rage and fury, you are a formidable foe to any and all that step fo
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 2  |    +1    | Wild One                                          |
 | 2nd   | 2  |    +2    | Furious Blow                                      |
-| 3rd   | 3  |    +3    | Attribute Improvement, Shout                      |
+| 3rd   | 3  |    +3    | Attribute Improvement, Panicked Frenzy, Shout     |
 | 4th   | 3  |    +4    | Bash, Brutal Momentum                             |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Reckless                   |
@@ -31,6 +31,9 @@ This trance ends at the end of any round you do not inflict an attack against a 
 
 ### 2) Furious Blow
 The first attack you make each round while in your battle rage gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
+
+### 3) Panicked Frenzy
+When you fail a save against a fear effect, but not critically fail, you may use your action to into Panicked Frenzy. This frenzy funtions identically to your battlerage trance, but is not cumulative with it. If you are already in your battlerage trance, it is replaced by the panicked frenzy (thus you are not afflicted by the battlerage trance ending). Any features which benefit your battlerage trance also affect your panicked frenzy. This frenzy lasts as long as you are affected by the fear.
 
 ### 3) Shout
 You may use your reaction to produce a shout which affects any number of creatures you can perceive within 3 yards. Those creatures get a -1 penalty to the next d20 they roll before the end of the next round.
