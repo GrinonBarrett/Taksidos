@@ -100,9 +100,9 @@ The following can add to or subtract from your attack value:
    
    • Attacking a foe while you are Brawling, -4
 
-   • Attacking a foe in melee with less [Body] than yourself in Melee, +1
+   • Attacking a foe in melee with less [Body] than yourself, +1
 
-   • Attacking a foe in melee with less [Rflx] than yourself in Melee, +1
+   • Attacking a foe in melee with less [Rflx] than yourself, +1
 
 ##### Defense Modifiers
 The following can modify one's defense rating combat:
