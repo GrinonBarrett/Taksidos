@@ -10,14 +10,14 @@ Invokers bring an unusual aura about them. This aura attracts serviles and empow
 |-------|----|----------|---------|---------------------------------------------------|
 | 1st   | 0  |    +1    |    1    | Conjury, Serviles                                 |
 | 2nd   | 0  |    +2    |    2    | Dominion, Engage                                  |
-| 3rd   | 1  |    +3    |    2    | Attribute Improvement, Bonded, Invocation         |
+| 3rd   | 0  |    +3    |    2    | Attribute Improvement, Bonded, Invocation         |
 | 4th   | 1  |    +4    |    3    | Further Training                                  |
-| 5th   | 2  |    +4    |    3    | Splash or Specialize                              |
-| 6th   | 2  |    +5    |    4    | Attribute Improvement, Greater Servile            |
-| 7th   | 2  |    +6    |    4    | Greater Dominion                                  |
-| 8th   | 3  |    +7    |    5    | -                                                 |
-| 9th   | 3  |    +8    |    5    | Attribute Improvement                             |
-| 10th  | 3  |    +8    |    5    | Splash or Specialize                              |
+| 5th   | 1  |    +4    |    3    | Splash or Specialize                              |
+| 6th   | 1  |    +5    |    4    | Attribute Improvement, Greater Servile            |
+| 7th   | 1  |    +6    |    4    | Greater Dominion                                  |
+| 8th   | 2  |    +7    |    5    | -                                                 |
+| 9th   | 2  |    +8    |    5    | Attribute Improvement                             |
+| 10th  | 2  |    +8    |    5    | Splash or Specialize                              |
 
 ### Conjury
 The invoker may have a number of serviles that give their service to the invoker. These serviles have a special bond with the invoker. The invoker may only entreat the services of so many serviles as limited by their conjury. Once an invoker has reached this limit, they cannot acquire any additional allies of this nature. This is the total number of serviles that may serve you at any time.
