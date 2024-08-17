@@ -9,7 +9,7 @@ Invokers bring an unusual aura about them. This aura attracts serviles and empow
 | Level | HP | Heroism  | Conjury | Features                                          |
 |-------|----|----------|---------|---------------------------------------------------|
 | 1st   | 0  |    +1    |    1    | Conjury, Serviles                                 |
-| 2nd   | 1  |    +2    |    2    | Dominion, Engage                                  |
+| 2nd   | 0  |    +2    |    2    | Dominion, Engage                                  |
 | 3rd   | 1  |    +3    |    2    | Attribute Improvement, Bonded, Invocation         |
 | 4th   | 1  |    +4    |    3    | Further Training                                  |
 | 5th   | 2  |    +4    |    3    | Splash or Specialize                              |
@@ -30,7 +30,7 @@ Serviles function as creatures with a limited pool of hitpoints. When a servile 
 Your powers have an origin in some aspect of magic. Determine what that origin is. You and your serviles can gain benefits based on this. Once this decision is made, it cannot be changed.
 
 ### 2) Engage
-Once per round, you may use your reaction to impose advantage on an attack or check made by a servile which you can perceive.
+Once per round, you may use your reaction to impose advantage on an attack or check made by aone of your serviles which you can perceive.
 
 ### 3) Bonded
 Anytime a creature within a number of yards equal to your level receives Spell-Sickness, you may use your reaction to redirect up to half of that to yourself.
@@ -62,6 +62,14 @@ You may have a single lesser servile. You are considered to have a conjury value
 You also gain the Invocation feature.
 
 #### Dominions
+
+##### The Flame
+Your power comes from the burning in your soul. You may do one of the following:  
+• As an action or reaction, you may choose to receive 1d8 points of spell sickness. If you do, *you exhale flames in a manner identical to the Dragon's Breath spell cast at minimum level*.  
+• As an action, you may *create a harmless flame in your hand which can produce light like a torch. It ceases to exist when you stop concentrating on it*.  
+##### Greater Dominion of The Grave
+• You gain a bonus to defense against cold and fire attacks equal to your Heroism.  
+• When one of your serviles inflicts a critical hit with a melee attack, you may use your reaction to inflict a fire attack against that foe.  
 
 ##### The Grave
 Your power comes from the veil of life and death itself. You may do one of the following:  
