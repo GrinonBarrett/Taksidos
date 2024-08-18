@@ -68,7 +68,7 @@ Your power comes from the land itself. You may do one of the following:
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Earth
-• You Unarmed and Undamaging attacks against you have disadvantage.  
+• Unarmed and Undamaging attacks against you have disadvantage.  
 • When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### The Flame
@@ -99,11 +99,11 @@ Your path has been illuminated by some higher power. You may do one of the follo
 
 ##### The Sea
 Your power comes from the roaring seas. You may do one of the following:  
-• As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of *.  
-• Once per hour, you may perform an thletics check as an action to swim a number of yards equal to the result. You may also do so as a reaction to your performing a swim to increase your swim move by the number of yards equal to the result. You may perform this movement regardless of how rough the water is.  
-##### Greater Dominion of The Grave
-• You Unarmed and Undamaging attacks against you have disadvantage.  
-• When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
+• As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of feet equal to the attack roll total*. Distance traveled in water does not count towards kockback distance for the purpose of damage on impact and impacts against water as a a surface prevent damage from the impact.  
+• Once per hour, you may perform an athletics check as an action to swim a number of yards equal to the result. You may also do so as a reaction to your performing a swim to increase your swim move by the number of yards equal to the result. You may perform this movement regardless of how rough the water is.  
+##### Greater Dominion of The Sea
+• You can breathe normally in air and water and are now capable of drinking sea water and fresh water without ill effect.  
+• You cannot be moved or redirected by a magical effect unless you choose to be.
 
 ##### Valdercaller
 You have been chosen by nature to defend its peace. You may do the following:  
