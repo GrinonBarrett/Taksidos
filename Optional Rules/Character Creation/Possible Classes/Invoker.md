@@ -64,7 +64,7 @@ You also gain the Invocation feature.
 #### Dominions
 
 ##### The Earth
-Your power comes from the land itself. You may do one of the following:  
+Your power comes from the land itself. You gain the following:  
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Earth
@@ -72,7 +72,7 @@ Your power comes from the land itself. You may do one of the following:
 • When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### The Flame
-Your power comes from the burning in your soul. You may do one of the following:  
+Your power comes from the burning in your soul. You gain the following:  
 • As an action or reaction, you may choose to receive 1d8 points of spell sickness. If you do, *you exhale flames in a manner identical to the Dragon's Breath spell cast at minimum level*.  
 • As an action, you may *create a harmless flame in your hand which can produce light like a torch. It ceases to exist when you stop concentrating on it*.  
 ##### Greater Dominion of The Flame
@@ -80,7 +80,7 @@ Your power comes from the burning in your soul. You may do one of the following:
 • When one of your serviles inflicts a critical hit with a melee attack, you may use your reaction to inflict a fire attack against that foe.  
 
 ##### The Grave
-Your power comes from the veil of life and death itself. You may do one of the following:  
+Your power comes from the veil of life and death itself. You gain the following:  
 • As an action, you may target an undead or ephemeral creature which can perceive you and which you can perceive. Perform an opposed [Will] check. If you have a success, it is dazed until the end of the next round. If you have a critical success, it is vulnerable during this time.  
 • As an action, you may take on a point of spell sickness. If you do, choose a number of creatures equal to your heroism who are within 3 yards of each other. They suffer a -1 to all attack rolls, checks, and saves until the end of then next round. Additionally, Necrotic, Radiant, and Undamaging attacks agianst them gain a +1 bonus.  
 ##### Greater Dominion of The Grave
@@ -89,7 +89,7 @@ Your power comes from the veil of life and death itself. You may do one of the f
 • When you would be killed, you may give one final command to your serviles using your reaction.
 
 ##### The Light
-Your path has been illuminated by some higher power. You may do one of the following:  
+Your path has been illuminated by some higher power. You gain the following:  
 • As an action, you may target a fiend or ephemeral creature which can perceive you and which you can perceive. Perform an opposed [Will] check. If you have a success, it is dazed until the end of the next round. If you have a critical success, it is vulnerable during this time.  
 • As a reaction whenever a creature within a number of yards equal to your level performs a save, you may take on a point of spell sickness. If you do, that creature gains a bonus to the save equal to your conjury minus the number of your entreated serviles. 
 ##### Greater Dominion of The Light
@@ -98,15 +98,23 @@ Your path has been illuminated by some higher power. You may do one of the follo
 • When you would be killed, you may explode with light out to a number of yards equal to your heroism. Any ephemera or fiend is subject to a radiant attack, which will leave the creature prone if successful instead of inflicting a wound (critical hits still apply the appropriate effect). If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint. This explosion produces bright light within its area, and fair light an additional 10 yards beyond that, which lasts until the end of the next round.
 
 ##### The Sea
-Your power comes from the roaring seas. You may do one of the following:  
+Your power comes from the roaring seas. You gain the following:  
 • As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of feet equal to the attack roll total*. Distance traveled in water does not count towards kockback distance for the purpose of damage on impact and impacts against water as a a surface prevent damage from the impact.  
 • Once per hour, you may perform an athletics check as an action to swim a number of yards equal to the result. You may also do so as a reaction to your performing a swim to increase your swim move by the number of yards equal to the result. You may perform this movement regardless of how rough the water is.  
 ##### Greater Dominion of The Sea
 • You can breathe normally in air and water and are now capable of drinking sea water and fresh water without ill effect.  
 • You cannot be moved or redirected by a magical effect unless you choose to be.
 
+##### The Sky {WiP}
+Your power comes from the great above. You gain the following:  
+• As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
+• Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
+##### Greater Dominion of The Grave
+• You Unarmed and Undamaging attacks against you have disadvantage.  
+• When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
+
 ##### Valdercaller
-You have been chosen by nature to defend its peace. You may do the following:  
+You have been chosen by nature to defend its peace. You gain the following:  
 • As an action you may change your creature type to become Fey or Sylven. This lasts for a number of minutes equal to your level multiplied by your herosim. While affected by this, you are fluent in the Wild Tongue and all undamaging attacks against you have disadvantage. You must rest before doing so again.  
 • As a reaction, you may take on a point of spell-sickness to fire a thorn from yourself or a nearby plant. This inflicts a thrown blade attack against a foe within a number of yards equal to your level.
 ##### Greater Dominion of the Valdercaller 
