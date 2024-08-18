@@ -63,13 +63,13 @@ You also gain the Invocation feature.
 
 #### Dominions
 
-##### The Earth {WiP}
+##### The Earth
 Your power comes from the land itself. You may do one of the following:  
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Grave
-• You gain a bonus to defense against cold and fire attacks equal to your Heroism.  
-• When one of your serviles inflicts a critical hit with a melee attack, you may use your reaction to inflict a fire attack against that foe.
+• You Unarmed and Undamaging attacks against you have disadvantage.  
+• When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### The Flame
 Your power comes from the burning in your soul. You may do one of the following:  
