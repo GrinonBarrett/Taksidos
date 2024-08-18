@@ -67,7 +67,7 @@ You also gain the Invocation feature.
 Your power comes from the land itself. You may do one of the following:  
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
-##### Greater Dominion of The Grave
+##### Greater Dominion of The Earth
 • You Unarmed and Undamaging attacks against you have disadvantage.  
 • When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
@@ -96,6 +96,14 @@ Your path has been illuminated by some higher power. You may do one of the follo
 • You gain a bonus to defense against necrotic and radiant attacks equal to your Heroism.  
 • When you inflict a critical hit with a melee attack, you may use your reaction to inflict a radiant attack against that foe.  
 • When you would be killed, you may explode with light out to a number of yards equal to your heroism. Any ephemera or fiend is subject to a radiant attack, which will leave the creature prone if successful instead of inflicting a wound (critical hits still apply the appropriate effect). If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint. This explosion produces bright light within its area, and fair light an additional 10 yards beyond that, which lasts until the end of the next round.
+
+##### The Sea
+Your power comes from the roaring seas. You may do one of the following:  
+• As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of *.  
+• Once per hour, you may perform an thletics check as an action to swim a number of yards equal to the result. You may also do so as a reaction to your performing a swim to increase your swim move by the number of yards equal to the result. You may perform this movement regardless of how rough the water is.  
+##### Greater Dominion of The Grave
+• You Unarmed and Undamaging attacks against you have disadvantage.  
+• When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### Valdercaller
 You have been chosen by nature to defend its peace. You may do the following:  
