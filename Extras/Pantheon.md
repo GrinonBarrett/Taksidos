@@ -11,7 +11,7 @@ A god of life, death, and vengeance.
 -----
 
 ## Lithenic
-The exact origin of Lithenic deities is heavily debated. Some argue that they are actually stolen from lessor known pantheons belonging to now forgotten peoples. Others claim they are actually exaggerations of historical characters. Regardless, if one is to communicate within the lithen communities, they should be learned of the pantheon to make sense of many of its expressions. In Lithenic theology, children are considered to be expressionsor more minute forms of the parent's symbol. Thus the children of Zerun, when referred to as such, are functionally narrowed aspects of Zerun himself.
+The exact origin of Lithenic deities is heavily debated. Some argue that they are actually stolen from lessor known pantheons belonging to now forgotten peoples. Others claim they are actually exaggerations of historical characters. Regardless, if one is to communicate within the lithen communities, they should be learned of the pantheon to make sense of many of its expressions. In Lithenic theology, children are considered to be expressions of more minute forms of the parent's symbol. Thus the children of Zerun, when referred to as such, are functionally narrowed aspects of Zerun himself.
 
 #### Iozt
 A patron of intellectuals and son of Wothin, Iozt is often portayed as a trickster and sometimes antagonist of the story, yet is just as frequently by the sides of the fellow gods in tales. It is said that he is to be the example of how the most logical thought is not always the most popular or first thought of one's mind.
