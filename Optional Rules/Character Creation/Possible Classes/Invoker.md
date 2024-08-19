@@ -105,13 +105,13 @@ Your power comes from the roaring seas. You gain the following:
 • You can breathe normally in air and water and are now capable of drinking sea water and fresh water without ill effect.  
 • You cannot be moved or redirected by a magical effect unless you choose to be.
 
-##### The Sky {WiP}
+##### The Sky
 Your power comes from the great above. You gain the following:  
-• Once per encounter, when you recieve a wound, you may use your reaction to 
-• Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
+• Once per encounter, when you recieve a wound, you may use your reaction to move up to a number of yards equal to your level + heroism.  
+• As an additional option when getting a critical hit against a foe while brawling, you may inflict an electrical, cold, or sonic attack against that brawling foe.
 ##### Greater Dominion of The Grave
-• You Unarmed and Undamaging attacks against you have disadvantage.  
-• When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
+• Cold and electric attacks against you have disadvantage.  
+• When one of your serviles inflicts a critical hit or thier attack roll is within 1 point of the minimum to succeed against a foe, and that foe is within a number of yards equal to your [Prcp], you may use your reaction to *take on a point of spell sickness and influct an electric attack against the foe as a bolt of lighting arcs towards the foe*.
 
 ##### Valdercaller
 You have been chosen by nature to defend its peace. You gain the following:  
