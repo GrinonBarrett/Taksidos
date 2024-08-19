@@ -107,7 +107,7 @@ Your power comes from the roaring seas. You gain the following:
 
 ##### The Sky {WiP}
 Your power comes from the great above. You gain the following:  
-• As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
+• Once per encounter, when you recieve a wound, you may use your reaction to 
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Grave
 • You Unarmed and Undamaging attacks against you have disadvantage.  
