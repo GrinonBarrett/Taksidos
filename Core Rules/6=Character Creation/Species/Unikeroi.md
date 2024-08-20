@@ -63,4 +63,4 @@ The unikerai’s horn emits light like a torch. This will last for up to a numbe
 The unikerai hurls a beam or shape of light from its horn towards the target. This functions as a wand attack using the unikerai’s [Will]. It is a radiant attack.  
 
 • **Curative Touch**. Costs 4 points.  
-The unikeroi touches its horn to another creature within range as a special action or in place of an attack action. It rolls a d4 and adds its level. If the result is greater than the creature’s missing hitpoints, this restores a number of hitpoints to that creature equal to half of the difference (minimum 1).
+The unikeroi touches its horn to another creature within range as a special action or in place of an attack action. It rolls a d4 and adds its heroism. If the result is greater than the creature’s missing hitpoints, this restores a number of hitpoints to that creature equal to half of the difference (minimum 1).
