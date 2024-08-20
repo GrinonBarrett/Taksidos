@@ -19,7 +19,7 @@ Classes, Done:
 **S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)  
 **W**arrior  (Full blown fighter)  
 
-Non-Canon Classes, Done:
+Non-Canon Classes, Done:  
 **I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
 
