@@ -97,6 +97,15 @@ Your path has been illuminated by some higher power. You gain the following:
 • When you inflict a critical hit with a melee attack, you may use your reaction to inflict a radiant attack against that foe.  
 • When you would be killed, you may explode with light out to a number of yards equal to your heroism. Any ephemera or fiend is subject to a radiant attack, which will leave the creature prone if successful instead of inflicting a wound (critical hits still apply the appropriate effect). If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint. This explosion produces bright light within its area, and fair light an additional 10 yards beyond that, which lasts until the end of the next round.
 
+##### Nobility
+Your right to rule has gathered your power to advance. You gain the following:  
+• During the first round of any encounter, you are considered to have a   
+• As an action, you may take on a point of spell sickness. If you do, choose a number of creatures equal to your heroism who are within 3 yards of each other. They suffer a -1 to all attack rolls, checks, and saves until the end of then next round. Additionally, Necrotic, Radiant, and Undamaging attacks agianst them gain a +1 bonus.  
+##### Greater Dominion of The Grave
+• You gain a bonus to defense against necrotic and toxic attacks equal to your Heroism.  
+• When you inflict a critical hit with a melee attack, you may use your reaction to inflict a necrotic attack against that foe.  
+• When you would be killed, you may give one final command to your serviles using your reaction.
+
 ##### The Sea
 Your power comes from the roaring seas. You gain the following:  
 • As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of feet equal to the attack roll total*. Distance traveled in water does not count towards kockback distance for the purpose of damage on impact and impacts against water as a a surface prevent damage from the impact.  
