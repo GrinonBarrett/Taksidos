@@ -459,7 +459,23 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (1
+### H (2
+
+#### Habroism
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 actions
+
+**Range**: 2 yards
+
+**Duration**: 1 minute
+
+**Effect**: You inspire grace in the target creature's movements. For the duration, impedements to its movement speed by terrain or obstacles is halved and it may take an additional reaction each round. If it does, it is vulnerable until the end of the next round.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
+
+**Critical Failure**: You seem to have succeeded, however the spell only lasts for a number of rounds equal to the spell's tier. Additionally, you feel a strange ache in your body which causes you to be prone and vulnerable for a number of rounds equal to the spell's tier.
 
 #### Hypoaftepathy
 
