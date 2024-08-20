@@ -11,7 +11,7 @@ You perform an attack with an equipped weapon you are capable of attacking with 
 
 #### Attack of Opportunity
 Reaction  
-When a combatant enters or exits the range of your melee weapon, you may make a melee attack against them.
+When a combatant enters or exits the range of your melee weapon (or unarmed attack), you may make a melee attack against them as appropriate.
 
 #### Beat
 Action or Reaction  
@@ -29,7 +29,7 @@ You choose a reaction. During the next round, you may perform that reaction once
 #### Cleave
 Reaction  
 Used in response to your own melee weapon attack. You cleave with your attack, causing an attack against each creature in a 180 degree arc in front of you extending out to the maximum range of the weapon beginning with the leftmost or rightmost foe first and proceeding onward. Each such attack is made with a -1 penalty.  
-If an attack is parried, a critical failure, or you are successfully struck by an attack which was a response to this cleaving attack- the cleave ends and you are vulnerable until the end of the next round. You cannot perform a follow up attack to an attack this way.
+If an attack is parried, a critical failure, your weapon is successfully beat, or you are successfully struck by an attack which was a response to this cleaving attack- the cleave ends and you are vulnerable until the end of the next round. You cannot perform a follow up attack to an attack this way.
 
 If an attack is made this way within less than half of the weapon's range, that attack has disadvantage.
 
@@ -62,7 +62,7 @@ If you successfully attack a creature, you may perform an additional melee attac
 
 #### Parry
 Reaction  
-When you are targeted for a melee attack, or a creature within melee range is targeted for a melee attack, you may perform a [Rflx] or [Body] check against the attack. If successful, you managed to foil the attack. A critical success will leave the foe vulnerable until the end of the round. A failure results in the attack's target being struck regardless. A critical failure results in your being vulnerable until the end of the round. The DV is the opponent's attack roll total (including modifiers).  
+When you are targeted for a melee attack, or a creature within melee range is targeted for a melee attack, you may perform a [Rflx] or [Body] check against the attack. If successful, you managed to foil the attack. A critical success will leave the foe vulnerable until the end of the round. A failure in any degree results in the attack's target being struck regardless. A critical failure results in your being vulnerable until the end of the round. The DV is the opponent's attack roll total (including modifiers).  
 
 #### Pocket
 Action  
