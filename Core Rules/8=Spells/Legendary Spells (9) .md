@@ -91,7 +91,9 @@ A scoundrel who isn't even considered any form of arcanist. He is a thief and a 
 
 **Casting Time**: 1 Action
 
-**Effect**: You destroy a staff in our possession and begin immediately casting the spell contained therein at the same level as this spell. You cannot cast a spell whose minimum tier is greater than this spell's casting.
+**Effect**: You destroy a staff in your possession and begin immediately casting the spell contained therein at the same tier as this spell +1. You cannot cast a spell whose minimum tier is greater than this spell's casting.
+
+You gain a bonus to the spell check while casting that spell equal to the tier you cast this spell as plus the highest tier you cast this spell as.
 
 **At Higher Tiers**: The duration of this spell is increased by 1 action for each tier beyond minimum.
 
