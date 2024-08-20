@@ -42,7 +42,7 @@ MORE SPELLS!
 Havery? (makes one talk nonsensically)  
 Habroism (allows one to perom an additional reaction from a limited list)  
 Heeze (toss the target into the air at a speed you determine)  
-Jander (makes sick and visibly unappealing)
+Jander (makes sick and visibly unappealing)  
 Jolling (slows a creature's run speed by hindering limbs)
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
