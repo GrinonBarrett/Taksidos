@@ -354,10 +354,10 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Range**: 10 yards
 
-**Effect**: Target performs a [Prcp] save or becomes dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receives 2 points of enebriation.  
+**Effect**: Target performs a [Prcp] save or becomes dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
 Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
-**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives.
+**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives to be equal to the spell's tier.
 
 **Critical Failure**: You find your senses distort for just a moment as your headspace changes. You gain points of inebriation equal to the tier of the spell and are dazed for a number of rounds equal to the points of failure.
 
