@@ -66,6 +66,17 @@ A radiant member of the porbs. Lamporbs are mild tempered creatures that prefer 
 **Wrestler**: The lamporb has the wrestler skill.
 
 **Dominion Benefits**: The lamporb gains the benefit as appropriate to your domain.  
+* **The Earth**. Gains a burrow speed of 2 yards.
+* **The Flame**. Immunity to fire damage.
 * **The Grave**. Immunity to necrotic damage.
-* **The Light**: The Lamporb's Ambient light's ranges are each increased by half.
+* **The Light**. The Lamporb's Ambient light's ranges are each increased by half.
+* **Nobility**. Hitpoints increased by 1.
+* **The Sea**. Gains a swim speed of 4 yards.
+* **The Sky**. Levitation speed increased by 1 yard.
 * **Valdercaller**. Undamaging attacks have disadvantage against the Lamporb.
+
+-----
+
+#### Gaining a Lamporb Servile
+
+Lamporbs can be called from their native plain by an invoker who fully rests for 20 days, keeping a clean burning lamp lit outside their door for the entirety of the time. If the invoker acts in a benevelent or mild manner during this time, they may see it in the distance. After a day, if they leave and return, they will find the lamprob willing to join their retinue.
