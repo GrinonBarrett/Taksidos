@@ -108,6 +108,17 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 **Split Spell**: When you begin casting a spell, you may command the bone-mage to also attempt to focus its actions as though it were casting the spell as well. Upon completing the spell, you may use your reaction to treat it as the origin of the spell instead of yourself. You are still the one casting the spell.
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+* **The Earth**. Immune to damage from knockback and falling.
+* **The Flame**. Anytime its magic blast against a foe would qualify to damage armor or is a critical hit, the invoker may use their reaction to take on 1d4+3 points of spell sickness. If they do, *the magic blast impacts with a fiery explosion, inflicting a fire attack against against everything within 3 yards*.
 * **The Grave**. Whenever one of your serviles is destroyed while the bone-mage has no remaining hitpoints, you may use your reaction to gain an amount of spell sickness equal to the current number of serviles you control.
 * **The Light**. Anytime the bone-mage's attack is successful and the result is odd, you may have the struck creature produce light like a torch until the end of the next round. Radiant and Necrotic attacks against the bone-mage have disadvantage.
+* **Nobility**. Anytime you use your reaction, you can see everything the bone-mage sees so long as you can perceive the bone-mage. The bone-mage may treat its magic blast's attack as *any nromal weapon attack for the purpose of the foe's defense as the magic blast's energy projectile forms to the shape of the weapon*.
+* **The Sea**. Swim speed is increased by 4 yards.
+* **The Sky**. Gains a levitation speed of .5 yards when not prone.
 * **Valdercaller**. The bone-mage may treat its Magic Blast as being toxic regardless of its actual damage type. As an additional option when getting a critical success while brawling, the bone-mage may inflict a toxic attack against the brawling foe *and an additional attack of the Magic Blast's type*.
+
+-----
+
+#### Gaining a Bone-Mage Servile
+
+By casting the Animate spell on a relatively fleshless skeleton at 3rd tier, if it is a critical success- the invoker may choose to entreat the ensuing Animate Skeleton as a Bone-Mage instead. This only works if the remains belonged to a creature capable of performing magic.
