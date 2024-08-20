@@ -97,7 +97,7 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
 * **The Earth**. Immune to damage from knockback (but not falling).
-* **The Flame**. When destroyed, a small explosion can be directed.
+* **The Flame**. When destroyed while being perceived by the invoker, *a small explosion can be directed at a foe within 1 yard, inflicting a fire attack*.
 * **The Grave**. Ki, Necrotic, and Radiant attacks each have disadvantage against the ergenekrai.
 * **The Light**: The ergenekrai can seee light levels (but not actually see) and can "feel" light levels in addition to its standard senses. It cannot be blinded by theses senses.
 * **Nobility**. The ergenekrai gains proficiency with a random weapon. If it is proficient with a one handed weapon, it can use a buckler in its off hand.
