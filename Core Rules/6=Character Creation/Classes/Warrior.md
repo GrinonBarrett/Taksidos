@@ -14,7 +14,7 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Warrior's Training         |
 | 7th   | 4  |    +6    | Riposte, Skilled Defense                          |
-| 8th   | 4  |    +7    | Hardened Veteran                                  |
+| 8th   | 4  |    +7    | Hardened Veteran, Wholesome Courage               |
 | 9th   | 4  |    +8    | Attribute Improvement, Battle Instinct            |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
@@ -57,10 +57,13 @@ Once per round, if you parry an attack and that attack would have been a critica
 Additionally, each level of training in your weapon grants you a +1 to your Parry attempts.
 
 ### 7) Skilled Defense
-If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefit of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
+If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
 ### 8) Hardened Veteran
 Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
+
+### 8) Wholesome Courage
+The die rolled for you Bravery feature is now a d8. You may use your reaction to increase it to a d12.
 
 ### 9) Battle Instinct
 As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe. If a foe critically fails to strike you unarmed or with a weapon, you know their level of training in that weapon and are automatically aware of them.

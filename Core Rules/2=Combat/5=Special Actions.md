@@ -74,7 +74,7 @@ Declared when you make an attack, you gain advantage on the attack. You also bec
 
 #### Push
 Reaction  
-When you attack a creature with a melee attack, may use your reaction after rolling to attempt to knock a foe back. If your attack roll plus your [Body] bonus is higher than the foe's [Body] score, you may push them a number of feet equal to the difference, up to your [Body] score. If the attack was a critical failure, you do not push the foe.
+When you attack a creature with a melee attack, you may use your reaction after rolling to attempt to knock a foe back. If your attack roll plus your [Body] bonus is higher than the foe's [Body] score, you may push them a number of feet equal to the difference, up to your [Body] score. If the attack was a critical failure, you do not push the foe.
 
 #### Recoil
 Reaction  
