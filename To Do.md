@@ -38,7 +38,11 @@ Finish serviles.
 
 Flesh out bestiary.
 
-MORE SPELLS!
+MORE SPELLS!  
+Havery? (makes one talk nonsensically)  
+Habroism (allows one to perom an additional reaction from a limited list)  
+Heeze (toss the target into the air at a speed you determine)  
+Jander (makes sick and visibly unappealing)
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
