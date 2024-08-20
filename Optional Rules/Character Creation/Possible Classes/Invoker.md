@@ -99,12 +99,13 @@ Your path has been illuminated by some higher power. You gain the following:
 
 ##### Nobility
 Your right to rule has gathered your power to advance. You gain the following:  
-• During the first round of any encounter, you are considered to have a   
-• As an action, you may take on a point of spell sickness. If you do, choose a number of creatures equal to your heroism who are within 3 yards of each other. They suffer a -1 to all attack rolls, checks, and saves until the end of then next round. Additionally, Necrotic, Radiant, and Undamaging attacks agianst them gain a +1 bonus.  
-##### Greater Dominion of The Grave
-• You gain a bonus to defense against necrotic and toxic attacks equal to your Heroism.  
-• When you inflict a critical hit with a melee attack, you may use your reaction to inflict a necrotic attack against that foe.  
-• When you would be killed, you may give one final command to your serviles using your reaction.
+• During the first round of any encounter, you are considered to have a braced action of your choice from the following; Block, Dodge, your Engage feature or Tag.  
+• When you Engage one of your serviles, it gains a bonus to saves until the end of the next round equal to your heroism.
+• **Bravery**: Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.  
+##### Greater Dominion of Nobility
+• You may use your reaction grant a bonus to defense against a psychic or undamaging attack equal to your Heroism to either yourself or one of your serviles you can perceive.  
+• When one of your serviles within a number of yards equal to your level is brought down to 0 hitpoints, you may use your reaction to take on 2d4 points of spell sickness to inflict an undamaging attack against that servile. If it is successful, the servile regains a hitpoint.  
+• When one of your lesser serviles is destroyed, you recover 1d2+1 points of spell sickness.
 
 ##### The Sea
 Your power comes from the roaring seas. You gain the following:  
