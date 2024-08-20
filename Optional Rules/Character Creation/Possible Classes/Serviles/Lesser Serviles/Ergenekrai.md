@@ -96,6 +96,17 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 **Barebone Senses**: The ergenekrai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It can always see its invoker with its eye holes if nothing lies between them and will always understand the voice of its invoker.
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+* **The Earth**. Immune to damage from knockback (but not falling).
+* **The Flame**. When destroyed, a small explosion can be directed.
 * **The Grave**. Ki, Necrotic, and Radiant attacks each have disadvantage against the ergenekrai.
 * **The Light**: The ergenekrai can seee light levels (but not actually see) and can "feel" light levels in addition to its standard senses. It cannot be blinded by theses senses.
+* **Nobility**. The ergenekrai gains proficiency with a random weapon. If it is proficient with a one handed weapon, it can use a buckler in its off hand.
+* **The Sea**. Swim speed is increased by 2 yards.
+* **The Sky**. Immune to damage from falling (but not knockback).
 * **Valdercaller**. If the ergernkrai is grappling a foe, it can treat its attacks against that foe as being Toxic or Biting. Any critical hit with an unarmed attack dealt be the ergenekrai can be treated as toxic.
+
+-----
+
+#### Gaining an Ergernekrai Servile
+
+By casting the Animate spell on a relatively fleshless skeleton at 3rd tier, if it is a critical success- the invoker may choose to entreat the ensuing Animate Skeleton as an Ergenekrai instead.
