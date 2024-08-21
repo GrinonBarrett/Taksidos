@@ -1,7 +1,7 @@
 ## Aoseigh
 Elves which choose to live beyond the reach of manfolk, in the woods and caves. Occasionally, one will find the impulse to adventure. The plural is Aosith. Aoseigh characters get the following features;
 
-**Creature Type**: Aosith are humanoids.
+**Creature Type**: Aosith are sylvan.
 
 **Size**: Manfolk stand between 5" to 6'4" tall. They can weigh between 110-200 pounds. They are medium creatures.
 
