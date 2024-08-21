@@ -74,6 +74,6 @@ You learn a spell which has been granted by the teachings of the tribes elders, 
 You also are subject to the following;  
     • Desolated lucertolan do not need to eat, sleep or breathe. They do still need to relax to rest.  
     • You are not affected by disease, poison, or venom. Effects which deal toxic damage do not affect you.  
-    • Necrotic and Fire attacks against you have advantage.
+    • Necrotic and Fire attacks against you have advantage.  
     • You are immune to bloodloss.  
     • All forms of healing which would affect you have a 1 in 3 chance not to affect you unless they explicitly affect undead.  
