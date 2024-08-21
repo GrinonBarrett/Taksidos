@@ -53,7 +53,7 @@ Expand the magical services. Expand services in general to include messengers, a
 Possible traditional fantasy races to add:  
 Zwergain (singular is Zwergar). Dwarves.  
 Aosith (singular is Aoseigh). A type of elf which is used to life distant from other races, they are adept in woods and caverns.  
-Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.
+Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
 Vilaves (singular Vilalf). A type of elf.  
 Hulderveis (Singular Huldralf). A type of elf.  
 Nissen (singular Nisser). Fricken Gnomes.  
