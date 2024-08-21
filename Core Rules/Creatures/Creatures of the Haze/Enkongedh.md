@@ -83,4 +83,4 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 * It can see in a 200 degree arc behind itself. This prevents foes from taking advantage of attacking its rear.  
 * It can see infrared emissions, allowing it to see warm blooded creatures.
 * It is able to detect the presence of magic and the ki possessed by creatures.
-* It may perform a ranged radiant attack. This functions identically to a wand for all intents and purposes*. This attack can be fired forward as normal or through the creature's rear direction. It cannot be fired more than once per round nor on consecutive rounds.
+* It may *perform a ranged radiant attack. This functions identically to a wand for all intents and purposes*. This attack can be fired forward as normal or through the creature's rear direction. It cannot be fired more than once per round nor on consecutive rounds.
