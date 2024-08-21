@@ -42,6 +42,8 @@ Elves which choose to live beyond the reach of manfolk, in the woods and caves. 
 
 ### Special Features
 
+**Many Years of Experience**: You gain proficiency in a skill of your choice. Choose a spell with aminimum tier of 1 or 2, you learn the selected spell.
+
 **Innate Magica**: When performing a wyrding and not benefitting from an attribute bonus to your spell check, you may grant yourself advantage on that spell check. You must complete a full rest before doing so again. You gain a +1 to all spell checks.
 
 **Magical Resistance**: Anytime you would perform a save against a magical effect, you roll 1d8 and add it to your result.
