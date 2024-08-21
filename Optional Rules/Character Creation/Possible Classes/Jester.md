@@ -1,7 +1,7 @@
 # Jester
 A class much maligned by many a narrator, the jester is the sort of character who causes chaos in their presence. The entire class may be "reflavored" to be more serious despite performing unusual deeds, but most players choosing this class will opt for comedy.
 
-**Beginning Skills**: The Jester does not gain calss skills.
+**Beginning Skills**: The Jester does not gain calss skills. 
 
 **Table-The Jester**
 
