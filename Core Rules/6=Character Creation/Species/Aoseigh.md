@@ -9,7 +9,7 @@ Elves which choose to live beyond the reach of manfolk, in the woods and caves. 
 
 **Languages**: You gain competency in the Common Tongue and the Wild Tongue.
 
-**Run Speed**: You may run up to 5 yards per move.
+**Run Speed**: You may run up to 5.5 yards per move.
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
@@ -25,7 +25,7 @@ Elves which choose to live beyond the reach of manfolk, in the woods and caves. 
 |   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
+|   8    | System Shock      | Until this wound is healed, you cannot benefit from your Innate Magica or Magical Resistance features. |
 |   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
