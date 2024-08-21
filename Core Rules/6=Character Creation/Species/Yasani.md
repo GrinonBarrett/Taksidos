@@ -58,7 +58,7 @@ A yasani evoker may use either this or their class abilities to operate any of t
 
  • **The Ancient Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to melee and ki-based attack rolls, but suffer a -1 to checks and saves involving magic (including spellchecks, counterspell checks, operating magical devices, etc).
 
- • **The Ancient Mystic's Blood**. For every missing hitpoint, you gain a +1 bonus to spell checks and counterspell checks) and a -1 penalty to saves against magical effects.
+ • **The Ancient Mystic's Blood**. For every missing hitpoint, you gain a +1 bonus to spell checks and counterspell checks, but a -1 penalty to saves against magical effects.
 
  • **The Wayward Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to saves against magical effects.
 
