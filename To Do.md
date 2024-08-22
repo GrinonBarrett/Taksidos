@@ -54,4 +54,4 @@ Possible traditional fantasy races to add:
 * Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
 * Hulderveis (Singular Huldralf). A type of elf, the nymph-like beautiful and graceful sort.  
 * Nissen (singular Nisser). Fricken Gnomes.
-* Thursain (singular Thursar).  Giants which cause plague.
+* Thursain (singular Thursar).  Giants which cause plague. Probably should be a creature instead.
