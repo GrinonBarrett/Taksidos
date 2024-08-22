@@ -12,13 +12,13 @@ Hailing from mountains far west, the zwergain have evolved in a realm dominated 
 -1 [Empy]  
 Choose an attribute. It is increased by +1.
 
-**Languages**: You gain competency in the Common Tongue and one of: Jotine, Hyholstich, or Terraglossa. {resume}
+**Languages**: You gain competency in the Common Tongue and one of: Jotine, Hyholstich, or Terraglossa.
 
-**Run Speed**: You may run up to 5 yards per move.
+**Run Speed**: You may run up to 4.5 yards per move.
 
-**Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: You may climb up to 2.5 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -47,8 +47,8 @@ Choose an attribute. It is increased by +1.
 
 ### Special Features
 
-**Some Education**: You gain proficiency in two skills of your choice.
+**Trade Knowledge**: Choose one of the following skills (Alchemy, Carpentry, Cooking, Fabrication, Jewelcraft, Masonry, Smithy, Spellcraft, Tannery). You gain the skill. Additionally, anytime you perform a skill check with it, you may roll 1d20 instead of 3d6.
 
-**Advantaged**: You gain one Edge of your choice (see Rogue class).
+**Sober Mind**: You may add your Heroism to your [Fort] score for the purpose of determining the effects of inebriation.
 
-**Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
+**Generational Wealth**: You begin with 10% more wealth than is typical for the campaign. The narrator chooses the form of this wealth. If your narrator opts for characters not to begin with any wealth or equipment, you may either learn a language of your choice or gain a level of training with a weapon of your choice.
