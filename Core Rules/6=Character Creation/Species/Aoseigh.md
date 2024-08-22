@@ -3,7 +3,7 @@ Elves which choose to live beyond the reach of manfolk, in the woods and caves. 
 
 **Creature Type**: Aosith are sylvan.
 
-**Size**: Manfolk stand between 5" to 6'4" tall. They can weigh between 110-200 pounds. They are medium creatures.
+**Size**: Aosith stand between 5" to 6'4" tall. They can weigh between 110-200 pounds. They are medium creatures.
 
 **Ability Score Modification**: Choose an attribute. It is increased by a +1.
 
@@ -42,7 +42,7 @@ Elves which choose to live beyond the reach of manfolk, in the woods and caves. 
 
 ### Special Features
 
-**Many Years of Experience**: You gain proficiency in a skill of your choice. Choose a spell with aminimum tier of 1 or 2, you learn the selected spell.
+**Many Years of Experience**: You gain proficiency in a skill of your choice. Choose a spell with a minimum tier of 1 or 2, you learn the selected spell.
 
 **Innate Magica**: When performing a wyrding and not benefitting from an attribute bonus to your spell check, you may grant yourself advantage on that spell check. You must complete a full rest before doing so again. You gain a +1 to all spell checks.
 
