@@ -20,7 +20,7 @@ Classes, Done:
 **W**arrior  (Full blown fighter)  
 
 Non-Canon Classes, Done:  
-**I**nvoker?  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies)  
+**I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
 
 ###### Non-Canon classes are intended to be fully fleshed out and balanced classes, but many will not want them in their campaigns.
@@ -51,9 +51,7 @@ Expand the magical services. Expand services in general to include messengers, a
 ###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
 
 Possible traditional fantasy races to add:  
-Zwergain (singular is Zwergar). Dwarves.  
-Aosith (singular is Aoseigh). A type of elf which is used to life distant from other races, they are adept in woods and caverns.  
-Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
-Vilaves (singular Vilalf). A type of elf.  
-Hulderveis (Singular Huldralf). A type of elf.  
-Nissen (singular Nisser). Fricken Gnomes.  
+* Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
+* Hulderveis (Singular Huldralf). A type of elf, the nymph-like beautiful and graceful sort.  
+* Nissen (singular Nisser). Fricken Gnomes.
+* Thursain (singular Thursar).  Giants which cause plague.
