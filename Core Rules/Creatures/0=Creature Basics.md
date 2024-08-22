@@ -43,7 +43,7 @@ Hunger
 **Elementals**. Manifestations of the native form of energy to a plane of existence.  
 **Ephemera**. A consciousness devoid of material form.  
 **Fey**. Faeries.  
-**Fiends**. Manifestations of negative energies which might transcend a single plane of existence.
+**Fiends**. Manifestations of negative energies which might transcend a single plane of existence.  
 **Humanoids**. Most people you meet.  
 **Infigura**. Single cell organisms and creatures which do not have an innate bodyplan.  
 **Insect**. Arthopods and similar creatures.  
