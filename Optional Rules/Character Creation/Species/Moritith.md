@@ -48,12 +48,12 @@ The moritith exists where the light does not touch, this means they may only exi
  • If a moritith is somehow trapped in light, it treats bright light as most creatures would treat darkness. It treats fair and dim light as most creatures would treat dim light. It will also become dazed while it is trapped in the light.   
  • Non-magical forms of damage have no effect on the moritith.  
  • The moritith cannot be grappled, restrained, or made prone by any non-magical means.  
- • The moritith ignores all ethereal/material armor when attacking a creature which is in dim light or no light at all using its .  
+ • The moritith ignores all ethereal/material armor when attacking a creature which is in dim light or no light at all using its unarmed attack.  
  • A moritith ignores a target’s cover from objects when it strikes a foe with its unarmed attack.  
  • Moritithi make no sound when they move.  
- • Moritithi cast no shadow or reflection when observed.
- • Moritithi do not need to eat or drink.
- • Moritithi only gain a full or long rest's benefits if they use their Maring feature against another creature.
+ • Moritithi cast no shadow or reflection when observed.  
+ • Moritithi do not need to eat or drink.  
+ • Moritithi only gain a full or long rest's benefits if they use their Maring feature against another creature.  
  • You cannot wear armor.  
  • You have a Attack versus Creature table which outlines your defense against each kind of attack.  
  • Immunity to damage from falling and knockback.  
@@ -65,7 +65,7 @@ The moritith exists where the light does not touch, this means they may only exi
  • Immunity to effects which cause asphyxiation.  
  • Immunity to incapacitation. Instead you can be destroyed as outlined below.  
  • Choose a metal. You cannot purposefully come in contact with that metal and will immediately know if it is the appropriate metal as soon as you can perceive it. Any attack made by an item made from the metal gets a % bonus against you equal to its $ value per pound. Any contact with the chosen metal (uncluding being struck) eaves you vulnerable until at least two whole rounds have passed since you came in contact with it. You cannot perform wyrdings during this time.  
- • A weapon which is illuminated in some way gains advantage on attacks against you. Treat a lit torch as an illuminated club.
+ • A weapon which is illuminated in some way gains advantage on attacks against you. Treat a lit torch as an illuminated club.  
  • Damage from radiant sources reduces the maximum hitpoints of a moritith rather than dealing damage. The dusken regains 1 of these per a short rest, 3 per a long rest, and all per a full rest. 
 
 **Maring**: The moritith cannot recover by resting. It must instead leech the rest of another, sleeping, creature. This requires it grapples the sleeping creature. The grapple itself does not wake the sleeping creature. If it spends at least 1 hour doing so, and that creature completes a long or full rest- it will have partialley mared its rest. The formely sleeping creature's rest is reduced to be a lower grade (short rest if it was long, long rest if it was full) and the moritith is considered to have completed a short rest. If the moritith spends enough time to complete a long rest while grappling the sleeping creature, and the sleeping creature would complete a long or full rest, the moritith instead gains the benefit of that rest.  
@@ -81,3 +81,5 @@ A moritith cannot affect Elementals, Ephemera, Monsters, or Undead with this.
 **Weak**: A moritith's weight load limits are halved.
 
 **Destroying a Moritith**: A moritith character has twice as many hitpoints as a character might normally. A moritith does not receive wounds from successful attacks as normal creatures, instead they are simply destroyed when an attack is successful against them while they have no hitpoints remaining.
+
+###### This was created because a player wanted to play as a "nightmare".

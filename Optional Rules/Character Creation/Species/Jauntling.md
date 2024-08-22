@@ -51,7 +51,7 @@ Choose two attributes. Each are increased by 1.
  • Anytime an attack within .5 yard is made against the Jauntling- a piercing attack is inflicted against the attacker.  
  • If it is not moving, the Jauntling gets a +3 bonus to checks/saves pertaining to staying in place as a result of digging into a surface with its appendages.  
  • You may perform a number of unarmed attacks with a single attack action up to one third of your level (minimum of 1).  
- • A prone Jauntling is stuck to whatever surface it is resting upon, becoming unable to perform movement as it is wrestling to free itself.
+ • A prone Jauntling is stuck to whatever surface it is resting upon, becoming unable to perform movement as it is wrestling to free itself.  
  • A creature trampling a jauntling is subject to a piercing attack.
 
 **Odd Mind**: Psychic attacks against you have disadvantage. Anytime you would make a save against an effect which would alter your state of mind, you may roll an additional die. Each odd die roll result of the save grants a +2 bonus.

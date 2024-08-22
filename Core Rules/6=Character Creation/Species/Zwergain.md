@@ -1,19 +1,24 @@
-## YASANI
-A warrior race scattered across the lands. Their empire once spanned much of the known world until a powerful monster brought it to ruin and scattered them to the corners of society. Yasani characters get the following features;
+## ZWERGAIN
+Hailing from mountains far west, the zwergain have evolved in a realm dominated by monsters and dragons. They are sublime adventurers in the depths of a dungeon but may not be the warmest of allies. They have a distinct disdain of giants and anything big and flying. They are know for living longer than humans, but much of this is spent in their declining years. The singular is zwergar. Zwergar characters get the following features;
 
-**Creature Type**: Yasani are humanoids.
+**Creature Type**: Zwergain are humanoids.
 
-**Size**: Yasani stand between 4'2" to 5'8" tall. They can weigh between 120-220 pounds. They are medium creatures.
+**Size**: Zwergain stand between 4'10" to 5'8" tall. They can weigh between 110-200 pounds. They are medium creatures.
 
-**Ability Score Modification**: Choose an attribute. It is increased by 1.
+**Ability Score Modification**: Zwergar have he following changes to their attributes   
++1 [Body]  
++1 [Fort]  
+-1 [Prcp]  
+-1 [Empy]  
+Choose an attribute. It is increased by +1.
 
-**Languages**: You gain competency in the Common Tongue.
+**Languages**: You gain competency in the Common Tongue and one of: Jotine, Hyholstich, or Terraglossa.
 
-**Run Speed**: You may run up to 5 yards per move.
+**Run Speed**: You may run up to 4.5 yards per move.
 
-**Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: You may climb up to 2.5 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -42,24 +47,8 @@ A warrior race scattered across the lands. Their empire once spanned much of the
 
 ### Special Features
 
-**Poor Education**: You gain proficiency in a skill of your choice.
+**Trade Knowledge**: Choose one of the following skills (Alchemy, Carpentry, Cooking, Fabrication, Jewelcraft, Masonry, Smithy, Spellcraft, Tannery). You gain the skill. Additionally, anytime you perform a skill check with it, you may roll 1d20 instead of 3d6.
 
-**Battle Ready**: You gain training in a weapon of your choice.
+**Sober Mind**: You may add your Heroism to your [Fort] score for the purpose of determining the effects of inebriation.
 
-**Great Leap**: Your jumping distance is doubled.
-
-**Innate Prowess**: A yasani is capable of using super techniques like an evoker by taking on levels of exhaustion. Each level of exhaustion functions like a single ki point spent. The yasani may learn a single super technique.  
-At 5th level, the yasani may learn another additional technique.  
-At 9th level, the yasani may learn yet another super technique.  
-The Yasani uses their [Fort] for this feature.  
-A yasani evoker may use either this or their class abilities to operate any of their super techniques and is capable of using their [Fort] or any ability afforded by their class for these super techniques.
-
-**Warrior's Lineage**: You choose one of the following features to represent your character's heritage.
-
- • **The Ancient Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to melee and ki-based attack rolls, but suffer a -1 to checks and saves involving magic (including spellchecks, counterspell checks, operating magical devices, etc).
-
- • **The Ancient Mystic's Blood**. For every missing hitpoint, you gain a +1 bonus to spell checks and counterspell checks, but a -1 penalty to saves against magical effects.
-
- • **The Wayward Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to saves against magical effects.
-
- • **The Ancient Noble's Blood**. You learn a language of your choice and gain training in a weapon not selected by your Battle Ready feature.
+**Generational Wealth**: You begin with 10% more wealth than is typical for the campaign. The narrator chooses the form of this wealth. If your narrator opts for characters not to begin with any wealth or equipment, you may either learn a language of your choice or gain a level of training with a weapon of your choice.

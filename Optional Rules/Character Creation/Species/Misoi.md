@@ -56,9 +56,9 @@ Choose three attributes. Each are increased by 1.
  • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
  • Are not affected by spells which would affect flesh.  
- • Are not subject to incapacitation saves.
- • Receive wounds, but do not suffer additional effects of wounds.
- • Cannot be healed except through rest.
+ • Are not subject to incapacitation saves.  
+ • Receive wounds, but do not suffer additional effects of wounds.  
+ • Cannot be healed except through rest.  
  • Have advantage on saves against effects which would grapple, restrain, or make the misoi prone unless it specifies that they affect ephemera.
 
 **Misoi Form**: You do not gain the benefits of worn armor, but are still subject to the burdens of it. You have a Attack versus Creature table which outlines your defense against each kind of attack.
@@ -69,7 +69,9 @@ Choose three attributes. Each are increased by 1.
 
 **Misoi Resistance**: Non-magical attacks against the misoi have disadvantage. 
 
-**Fallproof**: A Misai ignores all damage from falling and knockback. If it would receive a number of wounds equal to or greater than its current remaining hitpoints, it instead enters an ephemeral absence for a number of rounds equal to the total wounds it would have received.
+**Fallproof**: A Misai ignores all damage from falling and knockback. 
+
+**Hamering a Misai**: If it would receive a number of wounds equal to or greater than its current remaining hitpoints, it instead enters an ephemeral absence for a number of rounds equal to the total wounds it would have received.
 
 **Ending a Misai**: You and your narrator agree on a type of damage, material, or creature type. Once this decision is made, it cannot be changed. If you would be brought below 0 hitpoints, you enter an ephemeral absence for 1d20 units of time, which is determined by a d12 roll below. If the selected damage/material/creature type was used to bring you below 0 hitpoints, you are destroyed instead.  
 1-3 = rounds  

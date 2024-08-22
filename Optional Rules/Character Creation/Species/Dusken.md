@@ -40,8 +40,6 @@ Choose an attribute. Each other attribute is reduced by 1.
 
 ### Special Features
 
-**Retained Skill**: You gain proficiency in a skill of your choice.
-
 **Shadowy**: Dusken are creatures of shadow and as a result possess a few traits which make them difficult to deal with;    
 The dusken exists where the light does not touch, this means they may only exist in a constant state of darkness.  
  • So long as it does not end the round in it, the dusken may use its movement to cross illuminated areas.  
@@ -49,7 +47,7 @@ The dusken exists where the light does not touch, this means they may only exist
  • If a dusken is somehow trapped in light, it treats bright light as most creatures would treat darkness. It treats fair and dim light as most creatures would treat dim light. It will also become dazed while it is trapped in the light.   
  • Non-magical forms of damage have no effect on the dusken.  
  • The dusken cannot be grappled, restrained, or made prone by any non-magical means.  
- • The dusken ignores all ethereal/material armor when attacking a creature which is in dim light or no light at all using its .  
+ • The dusken ignores all ethereal/material armor when attacking a creature which is in dim light or no light at all using its unarmed attack.  
  • A dusken ignores a target’s cover from objects when it strikes a foe with its unarmed attack.  
  • Dusken make no sound when they move.  
  • Dusken cast no shadow or reflection when observed.  

@@ -4,7 +4,7 @@ Giants composed of some mineral compound, these beings must sustain themselves o
 
 **Creature Type**: Azaloi are elementals.
 
-**Size**: Grandfolk stand between 8' and 10' tall. They can weigh between 2,000-3,600 pounds. They are large creatures.
+**Size**: Azaloi stand between 8' and 10' tall. They can weigh between 2,000-3,600 pounds. They are large creatures.
 
 **Ability Score Modification**: Choose an attribute. It is increased by a 1.
 

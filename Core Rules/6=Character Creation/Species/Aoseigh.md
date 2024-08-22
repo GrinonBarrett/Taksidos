@@ -1,15 +1,15 @@
-## YASANI
-A warrior race scattered across the lands. Their empire once spanned much of the known world until a powerful monster brought it to ruin and scattered them to the corners of society. Yasani characters get the following features;
+## Aoseigh
+Elves which choose to live beyond the reach of manfolk, in the woods and caves. Occasionally, one will find the impulse to adventure. The plural is Aosith. Aoseigh characters get the following features;
 
-**Creature Type**: Yasani are humanoids.
+**Creature Type**: Aosith are sylvan.
 
-**Size**: Yasani stand between 4'2" to 5'8" tall. They can weigh between 120-220 pounds. They are medium creatures.
+**Size**: Aosith stand between 5" to 6'4" tall. They can weigh between 110-200 pounds. They are medium creatures.
 
-**Ability Score Modification**: Choose an attribute. It is increased by 1.
+**Ability Score Modification**: Choose an attribute. It is increased by a +1.
 
-**Languages**: You gain competency in the Common Tongue.
+**Languages**: You gain competency in the Common Tongue and the Wild Tongue.
 
-**Run Speed**: You may run up to 5 yards per move.
+**Run Speed**: You may run up to 5.5 yards per move.
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
@@ -25,7 +25,7 @@ A warrior race scattered across the lands. Their empire once spanned much of the
 |   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
+|   8    | System Shock      | Until this wound is healed, you cannot benefit from your Innate Magica or Magical Resistance features. |
 |   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
@@ -42,24 +42,10 @@ A warrior race scattered across the lands. Their empire once spanned much of the
 
 ### Special Features
 
-**Poor Education**: You gain proficiency in a skill of your choice.
+**Many Years of Experience**: You gain proficiency in a skill of your choice. Choose a spell with a minimum tier of 1 or 2, you learn the selected spell.
 
-**Battle Ready**: You gain training in a weapon of your choice.
+**Innate Magica**: When performing a wyrding and not benefitting from an attribute bonus to your spell check, you may grant yourself advantage on that spell check. You must complete a full rest before doing so again. You gain a +1 to all spell checks.
 
-**Great Leap**: Your jumping distance is doubled.
+**Magical Resistance**: Anytime you would perform a save against a magical effect, you roll 1d8 and add it to your result.
 
-**Innate Prowess**: A yasani is capable of using super techniques like an evoker by taking on levels of exhaustion. Each level of exhaustion functions like a single ki point spent. The yasani may learn a single super technique.  
-At 5th level, the yasani may learn another additional technique.  
-At 9th level, the yasani may learn yet another super technique.  
-The Yasani uses their [Fort] for this feature.  
-A yasani evoker may use either this or their class abilities to operate any of their super techniques and is capable of using their [Fort] or any ability afforded by their class for these super techniques.
-
-**Warrior's Lineage**: You choose one of the following features to represent your character's heritage.
-
- • **The Ancient Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to melee and ki-based attack rolls, but suffer a -1 to checks and saves involving magic (including spellchecks, counterspell checks, operating magical devices, etc).
-
- • **The Ancient Mystic's Blood**. For every missing hitpoint, you gain a +1 bonus to spell checks and counterspell checks, but a -1 penalty to saves against magical effects.
-
- • **The Wayward Warrior's Blood**. For every missing hitpoint, you gain a +1 bonus to saves against magical effects.
-
- • **The Ancient Noble's Blood**. You learn a language of your choice and gain training in a weapon not selected by your Battle Ready feature.
+**Infravision**: Aosith have a limited ability to see infrared emissions. They can see a typical warm blooded creature up to 45 yards away in this manner, or see through 4 inches of soft material if the source of heat is pressed against the other side of an obstacle. Any visible light will negate this feature.
