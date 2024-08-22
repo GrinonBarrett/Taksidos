@@ -26,7 +26,7 @@ This powder is typically sold in one gram "doses", but can be used in any quanti
 If sea water is used, the water can still be consumed safely- but will have a bitter salty flavor. You will also feel nauseous for about 1d6+2 hours per serving.
 
 **Thunderous Dragon Tube**, $760, 2 lb.  
-A tube filled with explosive powder and metal pellets. It can be affixed to a polearm or used as part of a trap. The included fuse can be ignited as an action to cause it to detonate 1 second after (or at the end of the next phase of a round). Once detonated, it explodes outward in a 3 yard cone. Anything caught in it suffers a fire attack and a piercing attack.  
+A tube filled with explosive powder and metal pellets. It can be affixed to a polearm or used as part of a trap. The included fuse can be ignited as an action to cause it to detonate 1 second after (or at the end of the next phase of a round). Once detonated, it explodes outward in a 3 yard cone. Anything caught in it suffers a fire attack with disadvantage and a piercing attack.  
 Caution advised in ensuring it is pointed in the correct direction.
 
 #### POTIONS, ELIXIRS, TINCTURES, AND MORE
