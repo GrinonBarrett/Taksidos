@@ -180,7 +180,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
 
-### C (3
+### C (4
 
 #### Call Lightning
 
@@ -567,8 +567,8 @@ Any item touched by this is considered magical for all intents and purposes. It 
  • Any effect which would heal the affected creature has a 1 in 4 chance not to.  
  • They do not swim in water. They must instead walk on the surface below.
 
-Additionally, you may choose some traits of the metal.
- • _Weight_. You may have the creature's weight be reduced by up to 1/4, or increased by up to 1/3.
+Additionally, you may choose some traits of the metal.  
+ • _Weight_. You may have the creature's weight be reduced by up to 1/4, or increased by up to 1/3.  
  • _Thermal Resistance_. You may choose to have either Cold or Fire attacks have disadvantage against the creature. If you do, attacks of the other type gain advantage against it.  
  • _Weight capacity_. You may choose to increase the weight limits of the creature by half at each load level.  
  • _Conductivity_. You may choose to have electric attacks gain advantage or disadvantage against the creature. You may also choose to apply neither.  
@@ -892,7 +892,7 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 **Range**: 1 yard
 
-**Effect**: Target performs a [Empy] save or becomes odunted for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for a foot and possesses an eerie wave to it. Upon a critcal success, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
+**Effect**: Target performs a [Empy] save or becomes odunted for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for a foot and possesses an eerie wave to it. Upon a critcal success with your spell check or a critical failure on the target's save, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
 
 This cannot affect Eldritch, Ephemera, Fiends, or Undead.
 
@@ -900,7 +900,7 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **At Higher Tiers**: Each tier beyond provides benefits as noted above.
 
-**Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest and various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure.Critically failing an [Empy] save during this time may expose you to visionsof something beyond.
+**Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
 
 ### Z (2
 
@@ -930,6 +930,6 @@ You may use your reaction to inflict an attack against a creature within the are
 
 This spell lasts twice as long as the time spent to cast it.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to increase the range by up to 1.5 yards.
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the spell's shape by up to 1.5 yards.
 
-**Critical Failure**: Whatever has been conjured this way is not your ally. So long as you are within the area of the spell will also attack you and your allies at the end of every round. As you move, it will also move to catch up with you during each move phase- up to a number of yards equal to half of your mode of movement + a number of yards equal to the spell's tier. If you cast the spell at a higher tier but did not expand the spell to its fullest extent, it will do so to reach you.
+**Critical Failure**: Whatever has been conjured this way is not your ally. So long as you are within the area of the spell, it will also attack you and your allies at the end of every round. As you move, it will also move to catch up with you during each move phase- up to a number of yards equal to half of your mode of movement + a number of yards equal to the spell's tier. If you cast the spell at a higher tier but did not expand the spell to its fullest extent, it will do so to reach you.
