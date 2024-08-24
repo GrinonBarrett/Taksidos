@@ -15,5 +15,6 @@ Each class can achieve a title upon reaching levels 5 and 8 of the class. A char
 | **Sorcerer** | Source-Touched | Sourcerai | ***Source-Blood*** |
 | **Warrior** | Fighter | Hero | ***Superhero*** |
 | | | | |
-| **Jester** | Disour | Tiggy | ***Denner*** |
 | **Invoker** | Conjurist | Summoner | ***Harbinger*** |
+| **Jester** | Disour | Tiggy | ***Denner*** |
+| **Mystic** | Witchea | Grim | ***Goetiar*** |
