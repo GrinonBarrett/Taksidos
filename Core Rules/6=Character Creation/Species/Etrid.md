@@ -53,11 +53,11 @@ A reptilian species which was instrumental in the founding of the Lazine Empire.
 
 **Stiff Joints**: Any sprint action you take requires you take a level of fatigue.
 
-**Primal Instincts**: As a special ability, you may enter a frenzied state. While in this state;  
+**Primal Instincts**: As an action, you may enter a frenzied state. While in this state;  
  • You gain a +3 bonus to [Body] checks and saves, +2 to [Will] checks and saves, and +1 bonus to [Rflx] checks and saves.  
  • Your rough hide provides defense like Brigindine.  
  • Anytime you perform an [Inte] check or save, roll a d8. This is a penalty suffered to the check/save.  
- • You ignore your Stiff Joints feature.
+ • You ignore your Stiff Joints feature.  
 This frenzy lasts for 2d6+3 rounds.  
 Once the frenzy ends, you suffer two levels of exhaustion.
 
