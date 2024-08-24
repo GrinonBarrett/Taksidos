@@ -26,13 +26,11 @@ Non-Canon Classes, Done:
 ###### Non-Canon classes are intended to be fully fleshed out and balanced classes, but many will not want them in their campaigns.
 
 Possible classes to do:  
-**W**arlock?  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this)  
+**M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)  
 Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
 
 Contemplate renaming Rogue to Venturer.
-
-Contemplate renaming Clerics to Mystics.
 
 Finish serviles.
 
