@@ -14,7 +14,7 @@ When a critical hit occurs against a creature, it inflicts an additional effect 
 |                        |        |
 | Unarmed Attack         | Struck creature loses a hitpoint if it has any remaining. |
 |                        |           |
-| Weapon Attack          | Struck creature is dealt extreme trauma. Inflict a hemorrhage against the foe. If it cannot be affected by one, instead iflict a biased wound against it. |
+| Weapon Attack          | Struck creature is dealt extreme trauma. Inflict a hemorrhage against the foe. If it cannot be affected by one, instead inflict a biased wound against it. |
 |                        |           |
 | Acid                   | Acid begins to eat away at the creature. At the end of this round and the next, the acid causes an additional acid attack roll against the struck creature (with none of the usual combat modifiers) to possibly inflict another wound. When it performs the attack at the end of the next round, it gets advantage if it inflicted a wound at the end of the current round. If the struck creature is armored, it may expend its reaction and an action to remove compromised pieces of armor to prevent further attacks from the acid (so this can leave them in a compromised position). Multiple instances of acid critical hits are cumulative. |
 | Cold                   | Struck creature must succeed a [Fort] save or be treated as prone for a number of rounds equal to the points of failure. Movement is halved until the end of the next round. |
