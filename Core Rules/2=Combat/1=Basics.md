@@ -9,7 +9,7 @@ When a combatant is to move, follow these steps:
  **•** Move, The combatant may move up to their appropriate movement (run or sprint) in a straight line.
 
 ##### Multiple forms of movement
-Unless otherwise noted, a combatant may perform different modes of movement on their turn, so long as the following conditions are satisfied:  
+Unless otherwise noted, a combatant may perform different modes of movement during a round, so long as the following conditions are satisfied:  
     1 Only one mode is used on a given move.  
     2 The unit has more than one mode of movement available.
 
