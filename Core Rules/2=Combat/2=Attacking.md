@@ -84,8 +84,10 @@ Creatures that do not wear armor will include an Attack Against Creature table w
 If an attack roll would be at least one and a half times the opponents defense, the attack is considered a critical hit. The weapon (or other type of attack) will determine exactly what occurs with a critical hit, as outlined in the Wounds and Critical Hits section.
 
 ##### Handedness of Attack
-All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer an additional -2 penalty to their offhand attack.
+All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer a -2 to their main hand and an additional -3 penalty to their offhand attack.
 Ranged attacks involving an off-hand suffer an additional -1 penalty.
+
+If more than two hands of attacks, each hand has a penalty as appropriate.
 
 ##### Ranged Attacks
 A ranged attack may only be performed so long as no obstructions block the way of the attack in its entirety.
