@@ -14,7 +14,7 @@ Unless otherwise noted, a combatant may perform different modes of movement duri
     2 The unit has more than one mode of movement available.
 
 ##### Jumping
-A character may jump up to half of their run speed. Alternatively, they may jump up to half of their climb speed in an appropriate situation. When swimming, aquatic creatures may jump, when they surface, up to half of their swim speed. A sprinting creature’s jump distance is adjusted accordingly.
+A character may jump up to half of their run speed. Alternatively, they may jump up to half of their climb speed in an appropriate situation. When swimming, aquatic creatures may jump, when they surface, up to half of their swim speed. A sprinting creature’s jump is increased by half.
 
 ##### Turn Order Chits
 All combatants take turns performing their action for the phase per their turn order chit. I.e, the combatant with the first chit goes first, second chit follows them, a third chit follows them, etc.
