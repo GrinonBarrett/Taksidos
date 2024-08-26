@@ -2,8 +2,27 @@ Add more alternatively sized weapons
 
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
 
-Edit Character Creation  
-In particular, finish up the classes and ~~species~~.
+Create characters to test combat. Each character will have a level 0, 1, 3, 5, 7, and 9 variant to compare.
+
+Contemplate renaming Rogue to Venturer.
+
+Finish serviles.
+
+Flesh out bestiary.
+
+MORE SPELLS!  
+Havery? (makes one talk nonsensically)  
+Heeze (toss the target into the air at a speed you determine)  
+Jander (makes sick and visibly unappealing)  
+Jolling (slows a creature's run speed by hindering limbs)
+
+Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
+
+Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
+
+###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
+
+-----
 
 Classes, Done:  
 **A**canist  (Intelligence caster)  
@@ -29,24 +48,6 @@ Possible classes to do:
 **M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)  
 Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
-
-Contemplate renaming Rogue to Venturer.
-
-Finish serviles.
-
-Flesh out bestiary.
-
-MORE SPELLS!  
-Havery? (makes one talk nonsensically)  
-Heeze (toss the target into the air at a speed you determine)  
-Jander (makes sick and visibly unappealing)  
-Jolling (slows a creature's run speed by hindering limbs)
-
-Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
-
-Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
-
-###### May split the spells into their own repository and the creatures into their own. This would make it a touch easier to fork for folks to do some homebrew with down the road.
 
 Possible traditional fantasy races to add:  
 * Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
