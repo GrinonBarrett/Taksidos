@@ -4,6 +4,7 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 -----
 
 #### LEVEL 0
+This represents Grisham before becoming a professional soldier.
 
 **Creature Type**: He is a humanoid.
 
@@ -30,7 +31,7 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -118,7 +119,6 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 
 **Skills**: He is competent in Athletics, Lore, Riding, and Wrestling skills.
 
-
-**Advantaged**: Grisam has the Swole advantage, which grants him his hitpoint.
+**Advantaged**: Grisam has the Swole edge, which grants him his singular hitpoint.
 
 **Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
