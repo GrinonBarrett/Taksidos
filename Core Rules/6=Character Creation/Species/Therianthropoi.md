@@ -45,3 +45,7 @@ Several species of anthropomorphic animal-like creatures are represented by thes
 **Some Education**: You gain proficiency in two skills of your choice.
 
 **Heightened Senses**: Choose one of the following senses (Vision, Scent, Hearing). Once this decision is made, it cannot be changed. You gain a +3 bonus to [Prcp] checks and saves involving the selected sense.
+
+**Biomechanical Evolution**: Sharing traits of bipedal evolution and quadropedal ancestors, choose one of your modes of movement. It is increased by half a yard. Once this decision is made, t cannot be changed.
+
+**Evolved Proficiency**: You suffer a -1 to all checks involving skills you are not proficient in and gain a +1 to all skills you are proficient with.
