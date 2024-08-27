@@ -57,9 +57,9 @@ You maximum hitpoints increase by 1.
 Your [Will] increases by 1.  
 You gain training in a weapon of your choice.
 
-**Islands**: Grandfolks from the islands pride themselves on study and ingenuity. They are sometimes called Shore-kin.
-You gain proficiency in a skill of your choice.
-Your [Inte] increases by 1.
+**Islands**: Grandfolks from the islands pride themselves on study and ingenuity. They are sometimes called Shore-kin.  
+You gain proficiency in a skill of your choice.  
+Your [Inte] increases by 1.  
 You learn two languages of your choice.
 
 **Swamps**: The grandfolks from the swamps have left behind a life of struggle for self-fulfilment. They are sometimes called Bog-kin. Of all of the grandfolk, these face the most universal scorn.  
@@ -68,9 +68,9 @@ You learn a spell of your choice whose minimum tier is 2 or 3.
 Choose an attribute, it is increased by 1.
 
 **Mountains**: Grandfolks which value freedom above all else. They are sometimes known as Crag-kin.  
-You gain an edge of your choice.  
+You gain an edge of your choice (see Rogue class).  
 Your [Body] is increased by 1.
 
 **Forests**: Grandfolks which have sought to fill the role they believe they are to fulfil in the natural order. They are sometimes called Glade-Kin.  
-You learn a language of your choice.
+You learn a language of your choice.  
 Each of your attributes are increased by 1.
