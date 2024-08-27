@@ -12,7 +12,7 @@ When a critical hit occurs against a creature, it inflicts an additional effect 
 | Attack Type            | Effect |
 |------------------------|--------|
 |                        |        |
-| Unarmed Attack         | Struck creature loses a hitpoint if it has any remaining. |
+| Bare Attack            | Struck creature loses a hitpoint if it has any remaining. |
 |                        |           |
 | Weapon Attack          | Struck creature is dealt extreme trauma. Inflict a hemorrhage against the foe. If it cannot be affected by one, instead inflict a biased wound against it. |
 |                        |           |
