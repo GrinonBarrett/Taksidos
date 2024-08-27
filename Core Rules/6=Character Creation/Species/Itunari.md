@@ -35,7 +35,7 @@ Choose an attribute. It is increased by 1.
 | **Katar**                  | 10    | **Javelin** | 11   | **Arquebus** | 10    |
 | **Dagger**                 | 11     | **Throwing Blade** | 16  | **Musket** | 10    |
 | **Morningstar**            | 10    | **Sling** | 17    | **Tronutonante** | 11    |
-| **Warpick**                | 10    |  |    | **Unarmed** | 19  |
+| **Warpick**                | 10    |  |    | **Bare** | 19  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 6     | **Psychic** | 13     |
 | **Cold**                   | 13     | **Force** | 13     | **Toxic**  | 13     |
@@ -74,7 +74,7 @@ Choose an attribute. It is increased by 1.
 
 **Retained Skill**: You gain proficiency in a skill of your choice.
 
-**Itunari Carapace**: Itunari cannot wear armor. Instead they use Attack versus Creature chart included above to determine their defense.
+**Itunari Carapace**: Itunari cannot wear armor. Instead they use the Attack versus Creature chart included above to determine their defense.
 
 **Immunity**: An itunari is immune to non-magical poisons, venoms, diseases, and sources of toxic damage.
 
@@ -94,7 +94,7 @@ While you are grappling a foe, your unarmed attacks against that foe gain a +2 b
 Though the venom's effect is not magical, the venom itself is.  
 The DV of the save is equal to double your level.
 
-**Blind Fury**: Anytime an attack against the itunari has at least 5 points of success, it becomes blind with fury. At the end of each round it is in this fury, it must succeed a [Will] save with a DV of 18 to end the fury. It has disadvantage on this save if it did not kill or incapacitate a foe during that round. During each round it is subject to this fury, it must attack a another creature during the phase of the round it is capable of doing so. Additionally, it must use its movement during the Primary movement phase to bring itself into range to attack the nearest creature or a creature which has dealt damage to it since the beginning of the previous round.  
+**Blind Fury**: Anytime an attack against the itunari has at least 5 points of success, it becomes blind with fury. At the end of each round it is in this fury, it must succeed a [Will] save with a DV of 18 to end the fury. It has disadvantage on this save if it did not kill or incapacitate a foe during that round. During each round it is subject to this fury, it must attack a another creature during the phase of the round if it is capable of doing so. Additionally, it must use its movement during the Primary movement phase to bring itself into range to attack the nearest creature or a creature which has dealt damage to it since the beginning of the previous round.  
 When the fury ends, the itunari suffers two levels of exhaustion. The itunari cannot be killed by exhaustion gained this way.
 
 ###### It is rumored that they can be laid to rest if they locate and lay low their former king. 
