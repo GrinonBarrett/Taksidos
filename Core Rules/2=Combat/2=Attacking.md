@@ -74,6 +74,8 @@ Non-damaging spells which require an attack roll use the Undamaging ranges.
 
 Exotic damage covers the use of wands, staves, spells, and the attacks of non-player creatures.
 
+Unless otherwise noted, all unarmed attacks are treated as bare atacks and the range of a player character's unarmed attack is 1.5 feet.
+
 ##### Wounds
 When an attack is successful, a wound is inflicted against the character/creature. Roll a d20 and consult the Wound Allocation Table for that species or creature.
 
