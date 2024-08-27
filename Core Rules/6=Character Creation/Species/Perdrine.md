@@ -46,7 +46,7 @@ Additionally, they cannot use any form of gear (including armor and weapons) whi
  • You are also immune to damage and other effects from unarmed attacks.  
  • Unarmed and weapon attacks against you cannot be a critical hit.
 
-**Difficult to Hit**: Your defense is equal to your Heroism + your [Body] bonus. If you sprint, it is increased by your [Rflx] bonus until the end of the round. You may only benefit from [Rflx] this way once per round.
+**Difficult to Hit**: Your defense is equal to your Heroism + your [Body] bonus + your [Rflx] bonus.
 
 **Voidtouched**: You have seen the veil and, as a result, find yourself numb to the fears of mortality. Unless specified otherwise, fear based effects cannot affect you.
 
@@ -81,11 +81,11 @@ Below is each perdrine power. Note that many powers manifest in different ways.
  • Your maximum hitpoints are increased by 1.
 
 **Burning Fury**: Whether you are a flaming skull, or simply a head wreathed in brilliance, you have been kissed by flame.  
- • Anytime a creature within 1 yard attacks you and either hits or critically fails their attack, you may use your reaction to inflict a magical fire attack against that foe.  
+ • Anytime a creature within 1 yard attacks you and either hits or critically fails their attack, you may use your reaction to *inflict a fire attack against that foe*.  
  • You may choose, as a special ability or attack action, to emit bright light out to 3 yards and may choose to emit dim light up to 3 yards beyond that. Alternatively, you may have any bright light you would emit instead be fair or dim. Changing the radius or turning of the ability on/off is an action.  
- • When you would be destroyed, you may choose to explode. Anything within a number of half yards equal to your level are subject to a fire attack. A creature gains a +1 bonus to their save for each yard away from the explosion.
+ • When you would be destroyed, you may choose to explode. Anything within a number of half yards equal to your level are subject to a fire attack. A creature gains a +1 bonus to their defense for each yard away from the explosion.
 
 **Great Mind**: You had, or have since developed, some psionic abilities.  
  • You are capable of acting with telekinetics as though you had two arms with fingers and fine motor skills to perform a single task. You may do this out to a number of feet equal to your level + your heroism. You must perform a rest before doing so again.  
- • You may throw a creature or object within 15 yards as an action. It is moved a number of yards equal your [Inte], multiplied by your level, divided by half its weight in pounds. You must complete a full rest to do so again.  
+ • *You may throw a creature or object within 15 yards as an action. It is moved a number of yards equal to your [Inte], multiplied by your level, divided by half its weight in stoness*. You must complete a full rest to do so again.  
  • You may secretly perform an opposed [Will] check against a creature within 1 yard as a special action. If you succeed, you know if the creature is engaging in telepathic communication and with what creature/object it is communicating with if it is within a number of yards to you equal your level. If it is a critical success, you receive the telepathic communications to and from that targeted creature. If it is a critical failure, that creature and anything it is telepathically communicating with (if anything) is aware of your attempt to pry- regardless of whether it was engaged in telepathy or not.
