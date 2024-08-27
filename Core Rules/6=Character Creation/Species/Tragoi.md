@@ -56,9 +56,9 @@ Choose two attributes. Each are increased by 1.
  • You cannot wear or benefit from armor.  
  • Anytime a creature performs an unarmed attack against you, it suffers an acid attack with disadvantage.  
  • At the end of any round you are grappling another creature, you inflict an acid attack against them with disadvantage. You may use your reaction to have that attack made without disadvantage.  
- • If you are trampled by a creature, it suffers an acid attack with disadvantage.
+ • If you are trampled by a creature or it successfully attacks you with an unarmed attack, it suffers an acid attack with disadvantage.
 
-**Drop Resistance**: When inflicting attacks against the tragai for falling, halve the total umber of attacks beyon the first three.
+**Drop Resistance**: When inflicting attacks against the tragai for falling, halve the total number of attacks beyon the first three.
 
 **Mucous**: The body of a helicdai is coated in a  mucous which is constantly being produced. This confers several advantages  
  • Anytime you would need to make a [Fort] or [Rflx] save as a result of a fluid you are submerged in, you gain an advantage on that save.  
