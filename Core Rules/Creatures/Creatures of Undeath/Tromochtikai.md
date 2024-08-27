@@ -28,7 +28,7 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 
 **Unarmed Attacks**;
 
- • Smack: The tromochtikia may use a limb or random object against a foe within 4 yards. This is a melee unarmed attack.
+ • Smack: The tromochtikia may use a limb or random object against a foe within 4 yards. This is a melee bare attack.
 
  • Claw: The tromochtikai may use a limb or wing to strike a foe within 2.5 yards. This may be treated as a melee piercing or cutting attack.
 
@@ -48,7 +48,7 @@ Terrible creatures which appear where there is a powerful necromancer. The will 
 | **Katar**                  | 19     | **Javelin**        | 18     | **Arquebus**               | 19    |
 | **Dagger**                 | 25     | **Throwing Blade** | 25     | **Musket**                 | 18    |
 | **Morningstar**            | 17     | **Sling**          | 22     | **Tronutonante**           | 19    |
-| **Warpick**                | 18     |                    |        | **Unarmed**                | 26    |
+| **Warpick**                | 18     |                    |        | **Bare**                | 26    |
 |                            |        |                    |        |                            |        |
 | **Acid**                   | 16     | **Fire**           | 16     | **Psychic**                | 19     |
 | **Cold**                   | 25     | **Force**          | 15     | **Toxic**                  | 26     |
