@@ -25,7 +25,7 @@ $700 a month for a 2-bedroom house.
 $1,500 a month for a house capable of housing a small family.  
 $3,600 a month for a house that a larger family might call home.
 
-##### Multiply your lodging/rent by living conditions
+##### Multiply your rent by living conditions
 Squalor, 1x  
 There is no privacy, bathing, or restroom and your space is limited. If it is a house, it is likely condemned.  
 Slum, 1.5x  
