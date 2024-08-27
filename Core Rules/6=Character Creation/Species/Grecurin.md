@@ -47,7 +47,7 @@ Choose two attributes. Each are increased by 1.
 
 **Marine Breathing**: Grecurin are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Single Claw**: Grecurin have a single claw which may be used as their main hand. they have no ohter manipulators.
+**Single Claw**: Grecurin have a single claw which may be used as their main hand. They have no other manipulators.
 
 **Rough Hide**: A grecurin cannot use armor unless it states otherwise. When unarmored, a grecurin is treated as wearing gambeson.
 
