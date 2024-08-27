@@ -30,7 +30,7 @@ Grandfolk of the islands. Though their society is remote, their members are quit
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The shorekin may use part of its body to strike a foe within 2 feet. This is a melee unarmed attack.
+ • Unarmed Strike: The shorekin may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
 
 ---------------------
 
@@ -38,7 +38,7 @@ Grandfolk of the islands. Though their society is remote, their members are quit
 | Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    | Plate   |
 |------------------------|-----------|----------|------------|---------|------------|---------|
 |                        |        |    |        |     |        |         |
-| Unarmed                | 11    | 13  | 15     | 16  | 16     | 19  |
+| Bare                   | 11    | 13  | 15     | 16  | 16     | 19  |
 | Longsword              | 6     | 9   | 11     | 13  | 13     | 16  |
 | Mace                   | 7     | 10  | 11     | 12  | 12     | 15  |
 | Spear                  | 6     | 8   | 10     | 13  | 13     | 16  |
