@@ -44,7 +44,7 @@ These creatures bear four large back legs, two forward legs, a pair of pincers, 
 | **Katar**                  | 18     | **Javelin**         | 18    | **Arquebus** | 13    |
 | **Dagger**                 | 19     | **Throwing Blade**  | 22    | **Musket** | 12    |
 | **Morningstar**            | 16     | **Sling**           | 25    | **Tronutonante** | 15    |
-| **Warpick**                | 15     | **Unarmed**         | 26  |  |     |
+| **Warpick**                | 15     | **Bare**         | 26  |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 14     | **Fire** | 13     | **Psychic** | 17     |
 | **Cold**                   | 14     | **Force** | 14     | **Toxic**  | 13     |
