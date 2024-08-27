@@ -62,7 +62,7 @@ This creature is covered in proto-feathers. Instead of traditional talons, it ha
 | **Katar**                  | 10    | **Javelin**       | 10    | **Arquebus** | 7    |
 | **Dagger**                 | 11    | **Throwing Blade** | 14   | **Musket** | 6    |
 | **Morningstar**            | 10    | **Sling**         | 14    | **Tronutonante** | 9    |
-| **Warpick**                | 10    | **Unarmed**       | 17 |  |     |
+| **Warpick**                | 10    | **Bare**       | 17 |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 9     | **Fire**          | 9     | **Psychic** | 13     |
 | **Cold**                   | 9     | **Force**         | 10     | **Toxic**  | 9     |
