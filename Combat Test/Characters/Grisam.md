@@ -118,3 +118,10 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 |        |                                                |                                   |
 
 ---------------------
+
+**Skills**: 
+
+
+**Advantaged**: You gain one Edge of your choice (see Rogue class).
+
+**Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
