@@ -40,7 +40,7 @@ A much more ferocious manner of chill. The melavolent energies exuded from the c
 | **Katar**                  | 14     | **Javelin** | 14    | **Arquebus** | 13    |
 | **Dagger**                 | 15     | **Throwing Blade** | 18   | **Musket** | 12    |
 | **Morningstar**            | 14     | **Sling** | 17    | **Tronutonante** | 14    |
-| **Warpick**                | 14     | |  |  **Unarmed** | 20     |
+| **Warpick**                | 14     | |  |  **Bare** | 20     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 15     | **Fire** | 9     | **Psychic** | 15     |
 | **Cold**                   | 19     | **Force** | 14     | **Toxic**  | 19     |
