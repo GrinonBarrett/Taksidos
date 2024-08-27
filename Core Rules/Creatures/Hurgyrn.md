@@ -40,7 +40,7 @@ Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable ter
 | Weapon                 | Unarmored | Improvised |
 |------------------------|-----------|----------|
 |                        |           |          |
-| Unarmed                | 11 - 14   | 13 - 15  |
+| Bare                   | 11 - 14   | 13 - 15  |
 | Longsword              | 6 - 8     | 7 - 9   |
 | Mace                   | 7 - 9     | 9 - 11  |
 | Spear                  | 5 - 7     | 6 - 8   |
