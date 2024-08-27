@@ -11,30 +11,29 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 
 **Hitpoints**: He has no hitpoints.
 
-{Resume}
-
 **Attributes**:  
 [Body] 12 (+4)  
 [Fort] 10 (+3)  
 [Rflx] 11 (+3)  
-[Will] 11 (+3)  
+[Will] 10 (+3)  
 [Inte] 10 (+3)  
-[Prcp] 11 (+3)  
-[Empy] 10  (+3)  
+[Prcp] 10 (+3)  
+[Empy] 9  (+3)  
 
-**Languages**: Men at arms often speak the Common Tongue and one other.
+**Languages**: He speaks ??? and Lazine.
 
-**Run Speed**: It may run up to 5 yards per move.
+**Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
 
-**Weapon Attacks**: The man at arms is capable of using weapons. It even has proficiency in two weapons.
-
-**Defenses**: A man at arms can use armor and a shield.
+**Weapon Training**: He has no training in weapons.
 
 **Unarmed Attacks**;
 
  • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+
+
+{resume}
 
 ---------------------
 
