@@ -28,7 +28,7 @@ Representing conscripts and volunteers who have taken arms.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -36,7 +36,7 @@ Representing conscripts and volunteers who have taken arms.
 | Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    | Plate   |
 |------------------------|-----------|----------|------------|---------|------------|---------|
 |                        |           |          |            |         |            |         |
-| Unarmed                | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
+| Bare                   | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
 | Longsword              | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Mace                   | 7 - 10    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Spear                  | 5 - 8     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
