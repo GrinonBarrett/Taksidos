@@ -49,7 +49,7 @@ Choose two attributes. Each are increased by 2.
 
 **Hrafine Knowledge**: You gain proficiency in the Lore skill and a skill of your choice.
 
-**Hrafine Form**: A hrafine cannot wear armor. Its claws can be used to hold items, but it can only use items as though it had a single hand.
+**Hrafine Form**: A hrafine cannot wear armor. Its claws can be used to hold items, but it can only use items as though it had a single hand. It cannot perform an unarmed attack with its claws.
 
 **Nimble Flight**: While flying, the hrafine adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater.
 
@@ -57,7 +57,7 @@ Choose two attributes. Each are increased by 2.
 
 **Dire Form**: As a full round action you may transform into your Dire form. While in the dire form, you are affected by the following  
  • +1 [Body]  
- • You sprout four claws. These claws are treated as off hands. A pair of dire claws may be used to make a slashing attack.  You may attacks with both pairs as an action, but have disadvantage on each attack.
+ • You sprout four claws. These claws are treated as off hands. A pair of dire claws may be used to make a slashing unarmed attacks within 1 foot.
  • Your flight speed is reduced by half.  
  • You cannot use items in your claws. 
 You resume your original form when incapacitated or spend a full round to resume it. You suffer a level of exhaustion when you resume your original form.
