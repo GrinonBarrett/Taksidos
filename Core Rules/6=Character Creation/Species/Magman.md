@@ -54,7 +54,7 @@ Choose two attributes. Each are increased by 1.
  • Are not affected by spells which would affect flesh.  
 
 **Body of Lava**: Magmen, having a body composed of molten rock, have a few quirks.  
- • Cannot be affected by fire in any manner.
+ • Cannot be affected by fire in any manner.  
  • Cannot wear armor. They are treated as wearing brigandine.  
  • They do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
  • Cold attacks against the magman have disadvantage and cause the magman to be prone for a number of rounds equal to the attack total. This is cumulative.  
