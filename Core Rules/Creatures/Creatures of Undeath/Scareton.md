@@ -36,7 +36,7 @@ The result of dying of fright or being one of those occassional sods that suffer
 
 **Unarmed Attacks**;
 
- • Smack: The scareton may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
+ • Smack: The scareton may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -52,7 +52,7 @@ The result of dying of fright or being one of those occassional sods that suffer
 | **Katar**                  | 14     | **Javelin** | 14    | **Arquebus** | 15    |
 | **Dagger**                 | 20     | **Throwing Blade** | 20   | **Musket** | 14    |
 | **Morningstar**            | 10     | **Sling** | 20    | **Tronutonante** | 16    |
-| **Warpick**                | 11     |   |    | **Unarmed** | 21    |
+| **Warpick**                | 11     |   |    | **Bare** | 21    |
 |                        |           |          |            |         |            |
 |                        |           |          |            |         |            |
 | **Acid**                   | 14     | **Fire** | 13     | **Psychic** | 15     |
