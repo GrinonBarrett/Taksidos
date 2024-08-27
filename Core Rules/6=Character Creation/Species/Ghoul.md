@@ -56,7 +56,7 @@ Furthermore, your hunger is two and a half times that of a normal player-charact
 
 **Immunity**: You are not affected by disease, poison, or venom. Effects which deal toxic damage do not affect you.
 
-**Light-Sensitivities**: You treat fair light as darkness, darkness as dim light, and dim light as fair light.  
+**Light-Sensitivities**: You treat bright and fair light as darkness, darkness as dim light, and dim light as fair light.  
 All radiant attacks have advantage against you. Radiant critical hits, in addition to their standard effect, also can ignite you with a burning glow. You will put off light like a torch and are set ablze, as though by a critical hit from a fiery source.
 
 **Unnatural Creeping**: When you are prone, you do not suffer the usual penalty to movement.
