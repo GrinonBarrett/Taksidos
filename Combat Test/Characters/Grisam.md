@@ -9,7 +9,7 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 
 **Size**: He stands 5'10 and weighs 167 pounds. He is a medium creatures.
 
-**Hitpoints**: He has no hitpoints.
+**Hitpoints**: He has 1 hitpoint.
 
 **Attributes**:  
 [Body] 12 (+4)  
@@ -31,9 +31,6 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 **Unarmed Attacks**;
 
  • Unarmed Strike: The man at arms may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
-
-
-{resume}
 
 ---------------------
 
@@ -122,6 +119,6 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 **Skills**: He is competent in Athletics, Lore, Riding, and Wrestling skills.
 
 
-**Advantaged**: You gain one Edge of your choice (see Rogue class).
+**Advantaged**: Grisam has the Swole advantage, which grants him his hitpoint.
 
 **Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
