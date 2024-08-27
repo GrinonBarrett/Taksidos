@@ -48,7 +48,7 @@ Though it can vary in its coloration from specimen to specimen, it always takes 
 | **Katar**                  | 10     | **Javelin** | 10    | **Arquebus** | 12    |
 | **Dagger**                 | 10     | **Throwing Blade** |14    | **Musket** | 11    |
 | **Morningstar**            | 10     | **Sling** | 11    | **Tronutonante** | 12    |
-| **Warpick**                | 10     | **Unarmed** |     |  |     |
+| **Warpick**                | 10     | **Bare** |     |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 11     | **Psychic** | 16     |
 | **Cold**                   | 15     | **Force** | 17     | **Toxic**  | 14     |
