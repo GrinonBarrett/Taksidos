@@ -1,4 +1,3 @@
-
 ### Shishpara
 These six-winged creatures are capable of picking up goats and even children as prey with their four talons. The shishpara prefers to attack from above, taking its dive action to open an encounter. It will pick off the most meager creature in a group, but prefers to hunt single targets and pairs of targets.
 
@@ -60,7 +59,7 @@ These six-winged creatures are capable of picking up goats and even children as 
 | **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
 | **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
 | **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Unarmed** |   20  |
+| **Warpick**                | 13     |  |  |  **Bare** |   20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
 | **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
