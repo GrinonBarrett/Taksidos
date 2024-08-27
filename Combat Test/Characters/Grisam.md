@@ -119,7 +119,7 @@ A veteran soldier from Emeria. He's seen a few conflicts and managed to make it 
 
 ---------------------
 
-**Skills**: 
+**Skills**: He is competent in Athletics, Lore, Riding, and Wrestling skills.
 
 
 **Advantaged**: You gain one Edge of your choice (see Rogue class).
