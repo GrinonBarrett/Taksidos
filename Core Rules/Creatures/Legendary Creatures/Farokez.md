@@ -39,7 +39,7 @@ A monstrous thing. It propels itself primarily with its powerful hind legs, like
  
  • Bite: The farokez may attempt to bite a foe within 1 foot. This is a melee biting attack.
 
- • Claw: The farokez strikes a foe with one of claws, treated as an unarmed attack within 2 feet.
+ • Claw: The farokez strikes a foe with one of claws, treated as a bare attack within 2 feet.
  
 ---------------------
 
@@ -55,7 +55,7 @@ A monstrous thing. It propels itself primarily with its powerful hind legs, like
 | **Katar**                  | 16     | **Javelin** | 16    | **Arquebus** | 11    |
 | **Dagger**                 | 17     | **Throwing Blade** |19    | **Musket** | 10    |
 | **Morningstar**            | 16     | **Sling** | 19    | **Tronutonante** | 14    |
-| **Warpick**                | 16     | **Unarmed** | 22  |  |     |
+| **Warpick**                | 16     | **Bare** | 22  |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 18     | **Fire** | 16     | **Psychic** | 17     |
 | **Cold**                   | 16     | **Force** | 16     | **Toxic**  | 17     |
