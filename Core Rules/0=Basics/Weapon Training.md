@@ -8,3 +8,5 @@ The second form, "specialization", allows you to apply both effects.
 The third form, "expertise", also grants a +4 bonus to your attack for the purpose of determining a critical hit.
 
 You must choose which benefits are to be applied before rolling the attack.
+
+A character can gain training in unarmed attacks, which benefits any unarmed attacks they possess.
