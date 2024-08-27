@@ -52,7 +52,7 @@ Giants composed of some mineral compound, these beings must sustain themselves o
 | **Katar**                  | 13     | **Javelin** | 14    | **Arquebus** | 12    |
 | **Dagger**                 | 13     | **Throwing Blade** | 16  | **Musket** | 11    |
 | **Morningstar**            | 13     | **Sling** | 15    | **Tronutonante** | 13    |
-| **Warpick**                | 13     |           |       | **Unarmed** | 20 |
+| **Warpick**                | 13     |           |       | **Bare** | 20 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 13     |
 | **Cold**                   | 17     | **Force** | 17     | **Toxic**  | 20     |
