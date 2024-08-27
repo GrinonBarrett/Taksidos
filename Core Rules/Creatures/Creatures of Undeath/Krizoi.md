@@ -43,7 +43,7 @@ Hypothetically, krizoi can have any number of limbs but is functionally the same
 | **Katar**                  | 13     | **Javelin**        | 13     | **Arquebus**               | 12    |
 | **Dagger**                 | 14     | **Throwing Blade** | 15     | **Musket**                 | 11    |
 | **Morningstar**            | 13     | **Sling**          | 13     | **Tronutonante**           | 13    |
-| **Warpick**                | 13     |                    |        | **Unarmed**                | 18    |
+| **Warpick**                | 13     |                    |        | **Bare**                   | 18    |
 |                            |        |                    |        |
 | **Acid**                   | 11     | **Fire**           | 11     | **Psychic**                | 19    |
 | **Cold**                   | 17     | **Force**          | 12     | **Toxic**                  | 26    |
@@ -51,7 +51,7 @@ Hypothetically, krizoi can have any number of limbs but is functionally the same
 | **Cutting**                | 16     | **Necrotic**       | 19     | **Sonic**                  | 13    |
 | **Electrical**             | 11     | **Piercing**       | 13     | **Biting**                 | 14    |
 |                            |        |                    |        |                            |       |
-| **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 13 |
+| **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 13    |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
