@@ -8,8 +8,8 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 2  |    +1    | Basic Training, Pacing, Shield Proficiency        |
-| 2nd   | 2  |    +2    | Tactical Step, Weight Bearer                      |
-| 3rd   | 3  |    +3    | Attribute Improvement, Bravery                    |
+| 2nd   | 2  |    +2    | Tactical Step, Weight Bearer, Bravery             |
+| 3rd   | 3  |    +3    | Attribute Improvement, Focus Strike               |
 | 4th   | 3  |    +4    | Aggressive Way                                    |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Warrior's Training         |
