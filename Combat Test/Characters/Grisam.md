@@ -31,7 +31,7 @@ This represents Grisham before becoming a professional soldier.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -160,7 +160,7 @@ This represents Grisham as he began his career.
 
 **Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
 
-**Weapon Training**: Has has proficiencyin the following weapons  
+**Weapon Training**: Has has proficiency in the following weapons  
 * Longsword  
 * Warpick
 * Shield
@@ -170,7 +170,7 @@ And specialization with the following weapons
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -277,7 +277,7 @@ An additional buckler, in personal chest
 
 #### Basic Training
 Every Warrior receives some training over their lifetime.  
-When you inflicts a critical hit with an attack, you knows how many hitpoints that creature currently has remaining.
+When you inflict a critical hit with an attack, you know how many hitpoints that creature currently has remaining.
 
 #### Pacing
 At the beginning of any encounter, you may choose one of the following:
@@ -287,7 +287,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat.
 
 #### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields).
 
 -----
 -----
@@ -325,7 +325,7 @@ And specialization with the following weapons
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -442,7 +442,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat.
 
 #### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields).
 
 #### Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement.
@@ -494,7 +494,7 @@ And specialization with the following weapons
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -616,7 +616,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat.
 
 #### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields).
 
 #### Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement.
@@ -634,7 +634,7 @@ When you successfully attack a foe, you may use your reaction to grant yourself 
 If you Press Attack to the first attack you make in the round, it does not count against your reaction for the round.
 
 #### Warrior Mastery
-Grisham has trained well with his weapons, giving him the equivalence of an additional level of training in the handaxe. He gains the benefit listed below.
+Grisam has trained well with his weapons, giving him the equivalence of an additional level of training in the handaxe. He gains the benefit listed below.
 
 ##### **Table**: *Warrior Mastery*
 | Weapon                 | Benefit      |
@@ -681,7 +681,7 @@ And expertise + warrior mastery with the following weapons
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -702,7 +702,7 @@ An additional rondache, in personal chest
 1 pound of silver, in personal chest  
 2 pounds of iron, in personal chest  
 $900 in Emerian coinage, in personal chest
-A Rouncey with full tack and saddle
+A cold blooded Rouncey with full tack and saddle
 
 ---------------------
 
@@ -806,7 +806,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat.
 
 #### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields).
 
 #### Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement.
@@ -831,7 +831,7 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
 #### Warrior Mastery
-Grisham has trained well with his weapons, giving him the equivalence of an additional level of training in the bow, handaxe, and shield. He gains the benefit listed below as appropriate to the weapon.
+Grisam has trained well with his weapons, giving him the equivalence of an additional level of training in the bow, handaxe, and shield. He gains the benefit listed below as appropriate to the weapon.
 
 ##### **Table**: *Warrior Mastery*
 | Weapon                 | Benefit      |
@@ -880,7 +880,7 @@ And expertise + warrior mastery with the following weapons
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: He may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
+ • Unarmed Strike: He may use part of his body to strike a foe within .5 yard. This is a melee bare attack.
 
 -----
 
@@ -1005,7 +1005,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat.
 
 #### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields).
 
 #### Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement.
@@ -1029,8 +1029,14 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 #### Skilled Defense
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
+#### Wholesome Courage
+The die rolled for you Bravery feature is now a d8. You may use your reaction to increase it to a d12.
+
+#### Battle Instinct
+As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe. If a foe critically fails to strike you unarmed or with a weapon, you know their level of training in that weapon and are automatically aware of them.
+
 #### Warrior Mastery
-Grisham has trained well with his weapons, giving him the equivalence of an additional level of training in the bow, handaxe, and shield. He gains the benefit listed below as appropriate to the weapon.
+Grisam has trained well with his weapons, giving him the equivalence of an additional level of training in the bow, handaxe, and shield. He gains the benefit listed below as appropriate to the weapon.
 
 ##### **Table**: *Warrior Mastery*
 | Weapon                 | Benefit      |
