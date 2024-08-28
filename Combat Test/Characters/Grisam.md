@@ -459,7 +459,7 @@ When you successfully attack a foe, you may use your reaction to grant yourself 
 -----
 -----
 ## LEVEL 5
-This represents Grisham into his career.
+This represents Grisham into his career, just after his lord's victory at Endcrag.
 
 **Creature Type**: He is a humanoid.
 
