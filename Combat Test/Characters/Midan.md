@@ -25,7 +25,9 @@ This represents a young Midan training to be a knight.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has specialization in greatsword.
 
@@ -156,7 +158,9 @@ This represents a young Midan at the start of his training.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has proficiency in the following weapons  
 * Longsword  
@@ -310,7 +314,9 @@ This represents Midan during the earliest times of his warring career.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has proficiency in the following weapons  
 * Longsword  
@@ -477,7 +483,9 @@ This represents Midan just before his famous victory at the battle of Maurland.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has proficiency in the following weapons  
 * Flail
@@ -660,7 +668,9 @@ This represents Midan between his famous victory at Maurland and not so famous d
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has proficiency in the following weapons  
 * Flail
@@ -851,7 +861,9 @@ This represents Midan after his victory in the Thunderhall.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has specialization in the following weapons  
 * Flail
