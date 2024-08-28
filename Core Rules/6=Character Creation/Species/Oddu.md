@@ -11,7 +11,7 @@ Oddu are masters of hidden underwater civilizations. They are genetically relate
 
 **Run Speed**: You may run up to 1 yard per move, presuming you have at least two tentacles.
 
-**Climb Speed**: You may climb up to 2 yard per move, presuming it is reasonable terrain to climb and you have at least two tentacles.
+**Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb and you have at least two tentacles.
 
 **Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough.
 
