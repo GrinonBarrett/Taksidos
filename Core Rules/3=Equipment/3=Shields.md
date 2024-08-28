@@ -10,7 +10,7 @@ Special features
 **Buckler**, $105, 2.25 lb.  
 +0  
 A small piece affixed to the forearm. It does not provide much protection, serving a better job of parrying than anything else.  
-While attached to the forearm, it does not prevent the use of a hand. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack.
+While attached to the forearm, it does not prevent the use of a hand, but also does not provide protection during any phase you act with that limb. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack.
 
 **Rondache**, $130, 4 lb.  
 +1  
