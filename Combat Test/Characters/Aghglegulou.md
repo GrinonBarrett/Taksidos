@@ -446,7 +446,7 @@ This represents Aghglegulou once he had a good grip on the business.
 
 **Size**: He stands 4 feet tall and weighs 37 pounds. He is a medium creatures.
 
-**Hitpoints**: He has 1 hitpoint.
+**Hitpoints**: He has 2 hitpoints.
 
 **Attributes**:  
 [Body] 9  (+3)  
@@ -591,6 +591,18 @@ Additionally, when you perform a Feint against a creature, if it has fewer HP th
 
 #### Tumble
 You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
+
+#### Fell Hand
+If you successfully perform a sneak attack against a foe, roll a d12 and add your heroism. For a number of rounds equal to the result, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
+
+#### Pinpoint Strike
+When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critcal hit and may modify the rolled wound by one step. If you were not detected by the foe, you may roll your sneak attack die and add that as an additional bonus for the purposes if determining if it is a critical hit.
+
+#### Specialized Assassin
+Your sneak attack bonus, if undetected, is increased to 1d6.  
+Once per encounter, when you affect a creature with your fell hand ability, you may choose to roll 3d6 or 1d20 instead of 1d12.  
+When you perform a sneak attack against a foe, you may grant yourself advantage on the attack. You must rest before to do so again.
+
 
 -----
 -----
