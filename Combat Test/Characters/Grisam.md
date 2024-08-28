@@ -25,7 +25,9 @@ This represents Grisham before becoming a professional soldier.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has no training in weapons.
 
@@ -158,7 +160,9 @@ This represents Grisham as he began his career.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: Has has proficiency in the following weapons  
 * Longsword  
@@ -313,7 +317,9 @@ This represents Grisham early in his career, having fought in war.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: He has proficiency in the following weapons  
 * Longsword  
@@ -480,7 +486,9 @@ This represents Grisham into his career, just after his lord's victory at Endcra
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: Has has proficiency in the following weapons  
 * Spear
@@ -666,7 +674,9 @@ This represents Grisham at the end of his military career and the start of his a
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: Has has proficiency in the following weapons  
 * Spear
@@ -865,7 +875,9 @@ This represents Grisham at his peak.
 
 **Run Speed**: He may run up to 5 yards per move.
 
-**Swim speed**: He may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: He may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+
+**Swim speed**: He may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: Has has specialization in the following weapons  
 * Spear
