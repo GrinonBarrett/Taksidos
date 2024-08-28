@@ -3,6 +3,12 @@ Add more alternatively sized weapons
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
 
 Create characters to test combat. Each character will have a level 0, 1, 3, 5, 7, and 9 variant to compare.
+* Grisam, An axe and board user. Capable with a bow. Prefers maile armor.
+* Midan, full blown sword swinging knight sort of warrior. Goes for greatsword with longsword for backup.
+* Hallas, a wand focused warrior who can't really afford armor because wands ain't cheap.
+* Zerocles, a berserk who uses a sword and axe. High dex for dodging.
+* Aghgleguglou, an oddu assassin who wields daggers.
+* Forwyn, a polearm master warrior.
 
 Contemplate renaming Rogue to Venturer.
 
