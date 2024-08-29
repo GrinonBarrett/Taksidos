@@ -13,6 +13,7 @@ Create characters to test combat. Each character will have a level 0, 1, 3, 5, 7
 * , Crossbow wielding naghai rogue.
 * , Etrid Berserk that focuses on unarmed attacks and katar.
 * , A draconne evoker.
+* , an pole axe focused assassin to see how busted we can make the pole axe criticals.
 
 Contemplate renaming Rogue to Venturer.
 
