@@ -184,10 +184,10 @@ Handaxe
 Buckler
 
 **Inventory**:
-2 Javelins, strapped to back  
-A longsword, in scabbard  
-Pouch of $50 in Emerian coinage, tied to belt
-An additional buckler, in personal chest
+2 Javelins, strapped to back.  
+A warpick, fixed to belt.  
+Pouch of $50 in Emerian coinage, tied to belt.
+An additional buckler, in personal chest.
 
 ---------------------
 
@@ -341,10 +341,10 @@ Handaxe
 Buckler
 
 **Inventory**:
-2 Javelins, strapped to back  
-A longsword, in scabbard  
-Pouch of $50 in Emerian coinage, tied to belt
-An additional buckler, in personal chest
+2 Javelins, strapped to back.  
+A warpick, fixed to belt.  
+Pouch of $50 in Emerian coinage, tied to belt.
+An additional buckler, in personal chest.
 
 ---------------------
 
@@ -512,15 +512,15 @@ Handaxe
 Rondache
 
 **Inventory**:
-A longsword, in scabbard  
-Pouch of $50 in Emerian coinage, tied to belt
-Brigindine, in personal chest
-Shortbow, in personal chest
-50 broadhead arrows, in personal chest
-An additional buckler, in personal chest  
-1 pound of silver, in personal chest  
-3 pounds of iron, in personal chest  
-$500 in Emerian coinage, in personal chest
+A warpick, fixed to belt.  
+Pouch of $50 in Emerian coinage, tied to belt.  
+Brigindine, in personal chest.  
+Shortbow, in personal chest.  
+50 broadhead arrows, in personal chest.  
+An additional buckler, in personal chest.  
+1 pound of silver, in personal chest.  
+3 pounds of iron, in personal chest.  
+$500 in Emerian coinage, in personal chest.
 
 ---------------------
 
@@ -701,18 +701,18 @@ Handaxe
 Rondache
 
 **Inventory**:
-A longsword, in scabbard  
-Pouch of $50 in Emerian coinage, tied to belt
-Shortbow, in personal chest
-Brigindine, in personal chest
-50 broadhead arrows, in personal chest
-An additional buckler, in personal chest  
-An additional rondache, in personal chest
-1 pound steel, in personal chest
-1 pound of silver, in personal chest  
-2 pounds of iron, in personal chest  
-$900 in Emerian coinage, in personal chest
-A cold blooded Rouncey with full tack and saddle
+A warpick, fixed to belt.  
+Pouch of $50 in Emerian coinage, tied to belt.  
+Shortbow, in personal chest.  
+Brigindine, in personal chest.  
+50 broadhead arrows, in personal chest.  
+An additional buckler, in personal chest.  
+An additional rondache, in personal chest.  
+1 pound steel, in personal chest.  
+1 pound of silver, in personal chest.  
+2 pounds of iron, in personal chest.  
+$900 in Emerian coinage, in personal chest.  
+A cold blooded Rouncey with full tack and saddle.
 
 ---------------------
 
