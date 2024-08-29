@@ -6,9 +6,13 @@ Create characters to test combat. Each character will have a level 0, 1, 3, 5, 7
 * Grisam, An axe and board user. Capable with a bow. Prefers maile armor.
 * Midan, full blown sword swinging knight sort of warrior. Goes for greatsword with warpick for backup.
 * Hallas, a wand focused warrior who can't really afford armor because wands ain't cheap.
-* Zerocles, a berserk who uses a sword and axe. High dex for dodging.
+* Miws, A yasani evoker which uses longsword.
+* Zerocles, a yasani berserk who uses a sword and axe. High dex for dodging.
 * Aghgleguglou, an oddu assassin who wields daggers.
 * Forwyn, a polearm master warrior.
+* , Crossbow wielding naghai rogue.
+* , Etrid Berserk that focuses on unarmed attacks and katar.
+* , A draconne evoker.
 
 Contemplate renaming Rogue to Venturer.
 
