@@ -1,5 +1,6 @@
 # Aghglegulou
 An assassin from the depths, Aghglegulou is known for his unorthodox methods of attack.
+
 -----
 
 ## LEVEL 0
