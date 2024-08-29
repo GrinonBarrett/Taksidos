@@ -21,7 +21,7 @@ When wearing armor which is useless, an attacker may choose whether to treat you
 
 **Armor Classification**  
 Name, Cost, Weight  
-Damage to impair/damage to ruin
+Damage to impair/damage to ruin  
 Description  
 Repair cost  
 Special features  
