@@ -29,7 +29,7 @@ An extremely uncommon sight anywhere else, draftsnails are a vital part of the L
 
 **Unarmed Attacks**;
 
- • Slam: The draftsnail may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Slam: The draftsnail may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
 ---------------------
 
@@ -46,7 +46,7 @@ Value before the dash is standard. Value after dash is while tucked in shell.
 | **Katar**                  | 7-13  | **Javelin** | 7-13  | **Arquebus** | 6-11  |
 | **Dagger**                 | 7-13  | **Throwing Blade** | 9-15  | **Musket** | 6-9 |
 | **Morningstar**            | 7-12   | **Sling** | 9-14  | **Tronutonante** | 7-12  |
-| **Warpick**                | 7-10   | **Unarmed** | 13-18 |  |  |
+| **Warpick**                | 7-10   | **Bare** | 13-18 |  |  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12-16   | **Fire** | 6-13   | **Psychic** | 8-13  |
 | **Cold**                   | 8-13  | **Force** | 7-12   | **Toxic**  | 10-13   |

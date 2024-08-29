@@ -43,6 +43,6 @@ Choose two attributes. Each are increased by 1.
 
 ### Special Features
 
-**Water Warping**: The sylvestrian may jump into a body of water, plunging into its depths. If it sinks far enough to not be seen from the surface (easier in murkier waters of course), it can reappear in another body of water it is familiar with within a number of miles equal to its level. It may only appear in that body if it would be unseen when appearing in it and if the water is suitable for the sylvestrian to move in. If it cannot travel into that body of water, it simply remains in the original. It must complete a full rest before attempting to do so again.
+**Water Warping**: The sylvestrian may jump into a body of water, plunging into its depths. If it sinks far enough to not be seen from the surface (easier in murkier waters of course), *it can reappear in another body of water it is familiar with within a number of miles equal to its level*. It may only appear in that body if it would be unseen when appearing in it and if the water is suitable for the sylvestrian to move in. If it cannot travel into that body of water, it simply remains in the original. It must complete a full rest before attempting to do so again.
 
 **Natural Magic**: You have been born with some innate magic power. Choose a spell with a minimum tier of 1. You learn the spell. At 4th level and 9th level each, you may choose a spell with a minimum tier of 1 or 2. You learn the selected spell.

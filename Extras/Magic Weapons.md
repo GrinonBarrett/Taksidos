@@ -10,8 +10,14 @@ Special Notes
 **The Brazier** (*unique*)  
  $7,500, 3 lbs.  
  Flail  
- A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quikly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
+ A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
  treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
+
+ **Heart Stealer** (*unique*)  
+ $3,400 , 3 lbs.  
+ Handaxe  
+ A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever the origin, it has been forgotten.  
+ *The first attack made with this weapon each round gains a +2 bonus*.
 
 **Ritual Femur**  
 $500, 2 lb.  

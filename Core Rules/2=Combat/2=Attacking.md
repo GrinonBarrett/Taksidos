@@ -7,7 +7,7 @@ Value before dash is without shield. Value after dash is with shield.
 | Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    |  Plate  |
 |------------------------|-----------|----------|------------|---------|------------|---------|
 |                        |           |          |            |         |            |         |
-| Unarmed                | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
+| Bare                   | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
 | Longsword              | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Mace                   | 7 - 10    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Spear                  | 5 - 8     | 7 - 9    | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
@@ -74,6 +74,8 @@ Non-damaging spells which require an attack roll use the Undamaging ranges.
 
 Exotic damage covers the use of wands, staves, spells, and the attacks of non-player creatures.
 
+Unless otherwise noted, all unarmed attacks are treated as bare atacks and the range of a player character's unarmed attack is 1.5 feet.
+
 ##### Wounds
 When an attack is successful, a wound is inflicted against the character/creature. Roll a d20 and consult the Wound Allocation Table for that species or creature.
 
@@ -84,8 +86,10 @@ Creatures that do not wear armor will include an Attack Against Creature table w
 If an attack roll would be at least one and a half times the opponents defense, the attack is considered a critical hit. The weapon (or other type of attack) will determine exactly what occurs with a critical hit, as outlined in the Wounds and Critical Hits section.
 
 ##### Handedness of Attack
-All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer an additional -2 penalty to their offhand attack.
+All attacks are presumed to be made using the primary hand. A character using their offhand gets a -1 to their attack. If a character has a weapon in both hands, they may choose to perform a standard attack with their main hand and an additional attack using their offhand simultaneously, but suffer a -2 to their main hand and an additional -3 penalty to their offhand attack.
 Ranged attacks involving an off-hand suffer an additional -1 penalty.
+
+If more than two hands of attacks, each hand has a penalty as appropriate.
 
 ##### Ranged Attacks
 A ranged attack may only be performed so long as no obstructions block the way of the attack in its entirety.

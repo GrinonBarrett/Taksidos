@@ -14,7 +14,7 @@ Regardless, they are about 218 pounds.
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
 |   1-2  | Curiosity (1) | The hellhare is not entirely sure how to feel about the party.   |
-|   3-9   | Hostility (2)  | The hellhare is likely to strike, especially if it sees the party run. |
+|   3-9  | Hostility (2)  | The hellhare is likely to strike, especially if it sees the party run. |
 |  10-20 | Hostility (3)    | The hellhare has chosen violence. |
 
 
@@ -53,7 +53,7 @@ Regardless, they are about 218 pounds.
 | **Katar**                  | 14     | **Javelin** | 14    | **Arquebus** | 13    |
 | **Dagger**                 | 15     | **Throwing Blade** | 19  | **Musket** | 12    |
 | **Morningstar**            | 14     | **Sling** | 17    | **Tronutonante** | 14    |
-| **Warpick**                | 14     |  |  | **Unarmed** |  21 |
+| **Warpick**                | 14     |  |  | **Bare** |  21 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 15     | **Fire** | 15    | **Psychic** | 15     |
 | **Cold**                   | 15     | **Force** | 14     | **Toxic**  | 19     |
@@ -105,9 +105,9 @@ Regardless, they are about 218 pounds.
 
 **Great Leap**: Its leap distance is doubled.
 
-**Unnatural Leap**: Once per encounter, it may increase the distance of one of its leaps by a number of yards equal to its current hitpoints.
+**Unnatural Leap**: Once per encounter, *it may increase the distance of one of its leaps by a number of yards equal to its current hitpoints*.
 
-**Swiftfoot**: THe hellhare may perform a sprint action once each round without taking on fatigue. WHen it sprints, if it did not sprint already during the current or previous round, its run speed is doubled for the sake of that sprint.
+**Swiftfoot**: THe hellhare may perform a sprint action once each round without taking on fatigue. When it sprints, if it did not sprint already during the current or previous round, its run speed is doubled for the sake of that sprint.
 
 **Infernal Regeneration**: At the end of any round the hellhare receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers a single hitpoint. It must perform a rest before doing so again.
 

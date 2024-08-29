@@ -43,7 +43,7 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 
 **Unarmed Attacks**;
 
- • Smash: The trillipede may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Smash: The trillipede may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Mandible: The trillipede can attempt to bite a foe, dealing a biting attack. On a critical hit, it may be treated as acid. It may only do so once per round.
 
@@ -61,7 +61,7 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 | **Katar**                  | 9     | **Javelin** | 10    | **Arquebus** | 6    |
 | **Dagger**                 | 10     | **Throwing Blade** |12    | **Musket** | 6    |
 | **Morningstar**            | 9     | **Sling** | 12    | **Tronutonante** | 7    |
-| **Warpick**                | 9     | **Unarmed** | 16   |  |     |
+| **Warpick**                | 9     | **Bare** | 16   |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12     | **Fire** | 10     | **Psychic** | 14     |
 | **Cold**                   | 12     | **Force** | 11     | **Toxic**  | 12     |

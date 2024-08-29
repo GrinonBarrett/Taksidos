@@ -29,7 +29,7 @@ A hybrid of horse and donkey. Because of the vast variety of hybrids, a mule can
 
 **Unarmed Attacks**;
 
- • Slam: The mule may use any part of its body to strike a foe within 2 feet. This is a melee unarmed attack.
+ • Slam: The mule may use any part of its body to strike a foe within 2 feet. This is a melee bare attack.
 
  • Stomp: The mule can attempt to stomp a foe within 1 foot, dealing a crushing attack. It has a -1 penalty to its attack, but has a +3 bonus for the purpose of determining if the attack is a critical hit.
 
@@ -48,7 +48,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7-13  | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   | **Unarmed** | 11-13 |  |  |
+| **Warpick**                | 6-9   | **Bare** | 11-13 |  |  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |

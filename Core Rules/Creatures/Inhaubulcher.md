@@ -35,7 +35,7 @@ An amphibian, torn from the sea. They appear to be covered in turgid ticks crawl
 
 **Unarmed Attacks**;
 
- • Leeching Strike: The inhaubulcher strikes a foe with one of its many tick looking suckers, treated as an unarmed attack within 1 foot. If successful, the foe is subject to a Toxic attack as well. If the toxic attack is successful and the creature loses a hitpoint, the inhaubulcher restores a hitpoint.
+ • Leeching Strike: The inhaubulcher strikes a foe with one of its many tick looking suckers, treated as a bare attack within 1 foot. If successful, the foe is subject to a Toxic attack as well. If the toxic attack is successful and the creature loses a hitpoint, the inhaubulcher restores a hitpoint.
  
  • Bite: The inhaubulcher may attempt to bite a foe within 1 foot. This is a melee biting attack.
  
@@ -53,7 +53,7 @@ An amphibian, torn from the sea. They appear to be covered in turgid ticks crawl
 | **Katar**                  | 14     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 15     | **Throwing Blade** |16    | **Musket** | 11    |
 | **Morningstar**            | 14     | **Sling** | 19    | **Tronutonante** | 14    |
-| **Warpick**                | 14     | **Unarmed** | 20  |  |     |
+| **Warpick**                | 14     | **Bare** | 20  |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12     | **Fire** | 10     | **Psychic** | 18     |
 | **Cold**                   | 13     | **Force** | 13     | **Toxic**  | 13     |

@@ -45,7 +45,7 @@ Having been touched by a cosmic power even they cannot fathom, revenants are for
 **Past Skill**: You gain proficiency in a skill of your choice. You gain a +1 bonus to checks involving that skill.
 
 **Forgotten Past**: Your narrator selects 2 skills. When you attempt to use a selected skill, it will be revealed that you have proficiency. If you already had proficiency in it, the narrator conveniently figures out a replacement.  
-You gain a +1 bonus to checks involving your Forgotten Past skills.
+You gain a +2 bonus to checks involving your Forgotten Past skills.
 When both skills have been discovered, you also gain an additional language of your choice as much of your past rushes back to you.
 
 **Already Dead**: You cannot be instantly killed by magic unless it specifies otherwise. A wound you receive from Necrotic sources cannot kill you, even if you fail your incapacitation save.

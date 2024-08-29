@@ -28,7 +28,7 @@ Not at all soldiers in the least, but given a weapon anyways. These are ragtags 
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The peasant may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The peasant may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -36,7 +36,7 @@ Not at all soldiers in the least, but given a weapon anyways. These are ragtags 
 | Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    | Plate   |
 |------------------------|-----------|----------|------------|---------|------------|---------|
 |                        |           |          |            |         |            |         |
-| Unarmed                | 11        | 13       | 14         | 15      | 15         | 17      |
+| Bare                   | 11        | 13       | 14         | 15      | 15         | 17      |
 | Longsword              | 6         | 9        | 10         | 12      | 12         | 14      |
 | Mace                   | 7         | 10       | 11         | 11      | 11         | 13      |
 | Spear                  | 6         | 8        | 9          | 12      | 12         | 14      |

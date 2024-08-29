@@ -11,7 +11,7 @@ Oddu are masters of hidden underwater civilizations. They are genetically relate
 
 **Run Speed**: You may run up to 1 yard per move, presuming you have at least two tentacles.
 
-**Climb Speed**: You may climb up to 2 yard per move, presuming it is reasonable terrain to climb and you have at least two tentacles.
+**Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb and you have at least two tentacles.
 
 **Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough.
 
@@ -44,7 +44,7 @@ Oddu are masters of hidden underwater civilizations. They are genetically relate
 
 **Marine Breathing**:  Oddu are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Unusual Frame**: Oddu can use most equipment just fine, but armor must be made especially for them. Any variant of armor which is to be fit for an oddu cost double what it would typically.
+**Unusual Frame**: Oddu can use most equipment just fine, but armor must be made especially for them. Any variant of armor which is to be fit for an oddu cost double what it would typically and weighs half as much.
 
 **Eight Tentacles**: You have eight tentacles which you can use as arms. All of them are off hands. You cannot gain any benefit from using more hands than a manfolk would (for example being able to use more than two hands on a sword) unless otherwise noted. This can allow you to wield up to four two-handed weapons. You only have the coordination to use as many tenactles as your current [Rflx] score. Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage.
 

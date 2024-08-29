@@ -43,7 +43,7 @@ Bearing the frame and coat of a horse, an elongated head and toothy beak, the ma
 
 **Unarmed Attacks**;
 
- • Slam: The korsikhor may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Slam: The korsikhor may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Claws: The korsikhor may use its claw to strike a foe within 1 yard. This is a melee cutting attack.
 
@@ -63,7 +63,7 @@ Bearing the frame and coat of a horse, an elongated head and toothy beak, the ma
 | **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
 | **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
 | **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Unarmed** |   20  |
+| **Warpick**                | 13     |  |  |  **Bare** |   20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
 | **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |

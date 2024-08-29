@@ -26,7 +26,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 
 **Unarmed Attacks**;
 
- • Smack: The edacious corpse may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
+ • Smack: The edacious corpse may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -42,15 +42,15 @@ Borne of the death of those that hunger, they have been known to form roaming he
 | **Katar**                  | 15     | **Javelin**        | 15     | **Arquebus**               | 17    |
 | **Dagger**                 | 17     | **Throwing Blade** | 19     | **Musket**                 | 17    |
 | **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante**           | 17    |
-| **Warpick**                | 14     |                    |        | **Unarmed**        | 21    |   |      |
+| **Warpick**                | 14     |                    |        | **Bare**                   | 21    |
 |                            |        |                    |        |
 | **Acid**                   | 14     | **Fire**           | 13     | **Psychic**                | 18     |
 | **Cold**                   | 20     | **Force**          | 15     | **Toxic**                  | 25     |
 | **Crushing**               | 14     | **Ki**             | 14     | **Radiant**                | 14     |
-| **Cutting**                | 15     | **Necrotic**       | 15     | **Sonic**                  | 15    |
-| **Electrical**             | 16     | **Piercing**       | 14     | **Biting**                 | 16    |
-|                            |        |                    |        |                            |            |
-| **Unlisted Damage Type**   | 15     |                    |        | **Undamaging**             | 14 |
+| **Cutting**                | 15     | **Necrotic**       | 15     | **Sonic**                  | 15     |
+| **Electrical**             | 16     | **Piercing**       | 14     | **Biting**                 | 16     |
+|                            |        |                    |        |                            |        |
+| **Unlisted Damage Type**   | 15     |                    |        | **Undamaging**             | 14     |
 
 
 

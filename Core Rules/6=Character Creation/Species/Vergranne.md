@@ -8,7 +8,7 @@ Unpleasant mountain dwellers. They get along well enough with other mountain dwe
 **Ability Score Modification**: Vergranne have he following changes to their attributes   
 +1 [Body]  
 +1 [Will]  
--1 [Rflx]
+-1 [Rflx]  
 -1 [Prcp]  
 -2 [Empy]  
 Choose three attributes. Each are increased by +1.
@@ -54,4 +54,4 @@ Choose three attributes. Each are increased by +1.
 
 **Sunlight Vulnerability**: At the end of every other round that the vergranne is exposed to sunlight, *the verganne must perform an incapacitation save. Insetad of dying, it becomes petrified*.
 
-**Tremor Sense**: You are able to sense vibrations in the ground and objects you touch. THis essentially allows you to sense, through touch, any moving on the same ground as you within 10 yards and anything touching the same object as you.
+**Tremor Sense**: You are able to sense vibrations in the ground and objects you touch. This essentially allows you to sense, through touch, any moving on the same ground as you within 10 yards and anything touching the same object as you.

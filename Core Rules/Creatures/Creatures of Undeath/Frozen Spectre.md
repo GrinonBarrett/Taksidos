@@ -38,7 +38,7 @@ Tormented souls created by chills, they accompany their former feller into battl
 | **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 13     | **Throwing Blade** | 14   | **Musket** | 12    |
 | **Morningstar**            | 13     | **Sling** | 14    | **Tronutonante** | 13    |
-| **Warpick**                | 13     |   |    | **Unarmed** |  18 |
+| **Warpick**                | 13     |   |    | **Bare** |  18 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 18     | **Fire** | 11     | **Psychic** | 14     |
 | **Cold**                   | 18     | **Force** | 13     | **Toxic**  | 14     |

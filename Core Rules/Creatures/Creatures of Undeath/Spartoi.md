@@ -30,7 +30,7 @@ Warriors returned from the grave. Though they are mindless, they retain some of 
 
 **Unarmed Attacks**;
 
- • Smack: The spartai may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
+ • Smack: The spartai may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -38,7 +38,7 @@ Warriors returned from the grave. Though they are mindless, they retain some of 
 | Weapon                 | Unarmored | Gambeson | Plate      | Other Armor  |
 |------------------------|-----------|----------|------------|---------|
 |                        |           |          |            |         |
-| Unarmed                | 23        | 24       | 26         | 25      |
+| Bare                   | 23        | 24       | 26         | 25      |
 | Longsword              | 15        | 16       | 18         | 17      |
 | Mace                   | 11        | 11       | 12         | 12      |
 | Spear                  | 15        | 15       | 17         | 16      |

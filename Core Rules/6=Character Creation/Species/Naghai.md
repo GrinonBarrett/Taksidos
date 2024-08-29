@@ -55,7 +55,7 @@ You gain a bonus to initiative equal to your [Rflx].
 
 **Slippery**: Once per encounter, when brawling or being trampled, when you would use your [Rflx] and roll a die, you may gain a bonus equal to half of your level. This is done after you roll the die, but before it is revealed if it is a success or failure.
 
-**Tail Slap**: As a reaction, you may use your tail to inflict a club attack against a creature within 2 feet in any direction. Additionally, anytime you perform an attack as a result of your reaction, you may treat it as a club or unarmed attack using your tail.
+**Tail Slap**: As a reaction, you may use your tail to inflict a club attack against a creature within 2 feet in any direction. Additionally, anytime you perform an attack with your tail as a result of your reaction, you may treat it as a club or bare attack.
 
 **Tail Sweep**: Once per round, when your unarmed attack would be a critical hit or you slam a brawling opponent, you may use your reaction to do one of the following;
 

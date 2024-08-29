@@ -40,7 +40,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 | **Katar**                  | 16     | **Javelin**         | 16    | **Arquebus** | 12    |
 | **Dagger**                 | 16     | **Throwing Blade**  | 16    | **Musket** | 11    |
 | **Morningstar**            | 13     | **Sling**           | 15    | **Tronutonante** | 13    |
-| **Warpick**                | 11     | |  **Unarmed**         | 17   |
+| **Warpick**                | 11     | |  **Bare**         | 17   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12     | **Fire** | 25     | **Psychic** | 13     |
 | **Cold**                   | 18     | **Force** | 13     | **Toxic**  | 13     |

@@ -62,7 +62,7 @@ Described as giant hummingbirds, these creatures are preceded by a deep buzzing 
 | **Katar**                  | 11    | **Javelin**       | 11    | **Arquebus** | 8    |
 | **Dagger**                 | 12    | **Throwing Blade** | 15   | **Musket** | 7    |
 | **Morningstar**            | 11    | **Sling**         | 15    | **Tronutonante** | 10    |
-| **Warpick**                | 11    | **Unarmed**       | 18 |  |     |
+| **Warpick**                | 11    | **Bare**       | 18 |  |     |
 |                        |           |          |            |         |            |
 | **Acid**                   | 10     | **Fire**          | 10     | **Psychic** | 14     |
 | **Cold**                   | 10     | **Force**         | 11     | **Toxic**  | 11     |

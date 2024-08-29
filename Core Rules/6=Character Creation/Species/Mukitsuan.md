@@ -61,7 +61,7 @@ Choose two attributes. Each are increased by 1.
 
 **Adaptable Appendages**: The mukitsuan has two appendages which may each change their form as a full round action. Each appendage may have one of the following functions at anytime.  
  • Whipping Tentacle  
-This appendage may be used for unarmed attacks within 1 yard. Additionally, on a critical hit, the mukitsuan may attempt to grapple the struck foe as though they were brawling.  
+This appendage may be used for unarmed bare attacks within 1 yard. Additionally, on a critical hit, the mukitsuan may attempt to grapple the struck foe as though they were brawling.  
  • Crude Eye  
 The appendage functions like an eye stalk, with a rudimentary ability to perceive and differentiate bewteen colors and light. The mukitsuan can rotate their vision gained by this. This occurs when rotations would during the round. The mukitsuan can rotate their vision during the same or different phases that they rotate their body. Their eyes stalks may only rotate up to 90 degrees left or right. Two eyestalks will grant a +1 to vision related checks and saves.  
  • Tingler  

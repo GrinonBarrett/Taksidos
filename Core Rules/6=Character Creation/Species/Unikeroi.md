@@ -49,7 +49,7 @@ A variety of unicorns, the unikeroi are a noble race known for aiding just and p
 
 **Carrying Capacity**: An unikeroi's weight load capacity is thrice that of a normal character.
 
-**Impalement**: Anytime you would perform an attack of opportunity with an unarmed attack or you would perform a counter attack, you may have it treated as a Piercing attack so long as you are not prone or restrained.
+**Impalement**: Anytime you would perform an attack of opportunity with an unarmed attack or you would perform a counter attack, you may have it treated as a Piercing attack so long as you are not prone or restrained. You may also use your horn as a lance, treating your own movement as that of a mount's. If you do, and the attack is not a critical success- you are dazed until the end of the next round by the impact. Additionally, if the attack was not successful, you are vulnerable during that time. Such an attack is piercing and unarmed.
 
 **Unikeroi Magic**: An unikerai has innate magical abilities. It has a pool magic points, whose maximum is equal to its level. A long rest recovers a single point. A full rest recovers 2 points. The following features are available and each considered magical effects.
 

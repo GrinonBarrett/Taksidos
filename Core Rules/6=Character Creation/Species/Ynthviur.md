@@ -66,7 +66,7 @@ Choose an attribute. It is increased by 1.
 
 **Psychic Scream**: As an action or reaction you loose a powerful wave of psychic energy which bleeds into the mind as a shrill scream. You may expend 3 psyche points to force every creature within a number of feet equal to your [Will] score + your level which is not mindless, or is mindless but connected to the psychic plane, to be subject to a pschic attack. Other ynthviur gain a +4 to their defense against this scream.
 
-**Psychogrip**: As an action or reaction when grappling a foe, you may inflict a melee psychic attack against that creature by expending at least 3 psyche points. If you do, you may treat its critical hit effect as being that of a toxic attack. Every additional psyche poin spent beyond the 3 grant a +1 for the purposes of determining if it is a critical hit.
+**Psychogrip**: As an action or reaction when grappling a foe, you may inflict a melee psychic attack against that creature by expending at least 3 psyche points. If you do, you may treat its critical hit effect as being that of a toxic attack. Every additional psyche point spent beyond the 3 grant a +1 for the purposes of determining if it is a critical hit.
 
 **Vision**: You may expend 2 psyche points to grant yourself a sort of vision. You cannot distinguish between colors or lighting this way (treat everything as dim light) and this vision extends out as a sphere from your body rather than a directed gaze. This lasts for up to an hour.
 

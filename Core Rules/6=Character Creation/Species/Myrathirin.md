@@ -46,7 +46,7 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 
 **Some Education**: You gain proficiency in a skill of your choice.
 
-**Arachnid Form**: Myrathirin cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by one and a half.
+**Arachnid Form**: Myrathirin cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by half.
 
 **Strikers**: Myrathirin do not have manipulators (hands) on the end of their limbs, instead they end in points (known as strikers). This prevents them from using equipment unless it specifically states it can be used by myrathirin. This also grants them an alternative to their standard unarmed attack which is treated as a piercing attack with a range of .5 yard.
 

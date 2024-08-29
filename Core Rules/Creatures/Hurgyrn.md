@@ -30,7 +30,7 @@ Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable ter
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The hurgyrn may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
  • Claws: If a foe is prone, and the hurgyrn is not, it may use its leg claws to perform a slashing attack against a foe.
 
@@ -40,7 +40,7 @@ Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable ter
 | Weapon                 | Unarmored | Improvised |
 |------------------------|-----------|----------|
 |                        |           |          |
-| Unarmed                | 11 - 14   | 13 - 15  |
+| Bare                   | 11 - 14   | 13 - 15  |
 | Longsword              | 6 - 8     | 7 - 9   |
 | Mace                   | 7 - 9     | 9 - 11  |
 | Spear                  | 5 - 7     | 6 - 8   |

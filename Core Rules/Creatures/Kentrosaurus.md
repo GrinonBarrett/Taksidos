@@ -24,9 +24,9 @@ An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found
 
 **Unarmed Attacks**;
 
- • Slam: The kentrosaurus may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Slam: The kentrosaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
- • Thagomizer: The kentrosaurus may us its tail against any creature behing or two its sides within 2 yards. This is treated as either a melee unarmed attack or melee piercing attack.
+ • Thagomizer: The kentrosaurus may us its tail against any creature behing or two its sides within 2 yards. This is treated as either a melee bare attack or melee piercing attack.
 
 -----
 
@@ -42,7 +42,7 @@ An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found
 | **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
 | **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
 | **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     |  |  |  **Unarmed** |   22  |
+| **Warpick**                | 15     |  |  |  **Bare** |   22  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
 | **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |

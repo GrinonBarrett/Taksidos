@@ -29,7 +29,7 @@ Because of the vast variety of traits horses are bred for; presented here is a m
 
 **Unarmed Attacks**;
 
- • Slam: The horse may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Slam: The horse may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Stomp: The horse can attempt to stomp a foe, dealing a crushing attack. It has a -2 penalty to its attack, but has a +5 bonus for the purpose of determining if the attack is a critical hit.
 
@@ -48,7 +48,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
 | **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
-| **Warpick**                | 6-9   |   |  |**Unarmed** | 11-13  |
+| **Warpick**                | 6-9   |   |  |**Bare** | 11-13  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |

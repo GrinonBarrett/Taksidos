@@ -29,7 +29,7 @@ Common run of the mill bandits. If death seems like a serious possibility, they 
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The bandit may use part of its body to strike a foe within 1 foot. This is a melee unarmed attack.
+ • Unarmed Strike: The bandit may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -37,7 +37,7 @@ Common run of the mill bandits. If death seems like a serious possibility, they 
 | Weapon                 | Unarmored | Gambeson | Brigandine | Maile   | Cuirass    | Plate   |
 |------------------------|-----------|----------|------------|---------|------------|---------|
 |                        |           |          |            |         |            |         |
-| Unarmed                | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 18 - 21 |
+| Bare                   | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 18 - 21 |
 | Longsword              | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 15 - 18 |
 | Mace                   | 7 - 10    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Spear                  | 6 - 9     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 15 - 18 |

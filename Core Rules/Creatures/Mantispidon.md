@@ -46,7 +46,7 @@ Oversized relatives of the mantids, mantispidons are an ecological pest in most 
 | **Katar**                  | 7     | **Javelin**         | 8    | **Arquebus** | 6    |
 | **Dagger**                 | 10     | **Throwing Blade**  | 14    | **Musket** | 5    |
 | **Morningstar**            | 7     | **Sling**           | 14    | **Tronutonante** | 7    |
-| **Warpick**                | 8     |                     |       |  **Unarmed**     | 16  |
+| **Warpick**                | 8     |                     |       |  **Bare**     | 16  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 7     | **Fire** | 5     | **Psychic** | 8     |
 | **Cold**                   | 7     | **Force** | 7     | **Toxic**  | 6     |

@@ -24,7 +24,7 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 
 **Unarmed Attacks**;
 
- • Slam: The alashanasaurus may use any part of its body to strike a foe within 1 yard. This is a melee unarmed attack.
+ • Slam: The alashanasaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Bite: The alashanasaurus may perform a single bite against a foe within 1 yard. This is a melee bite attack.
 
@@ -42,7 +42,7 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 | **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
 | **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
 | **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     |    |  |   **Unarmed** |  22  |
+| **Warpick**                | 15     |    |  |   **Bare** |  22  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
 | **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |

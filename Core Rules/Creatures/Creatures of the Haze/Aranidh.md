@@ -48,7 +48,7 @@ These creatures bear two large back legs, two forward legs, a large pincer like 
 | **Katar**                  | 17     | **Javelin**         | 17    | **Arquebus** | 13    |
 | **Dagger**                 | 18     | **Throwing Blade**  | 21    | **Musket** | 12    |
 | **Morningstar**            | 16     | **Sling**           | 23    | **Tronutonante** | 15    |
-| **Warpick**                | 15     |                     |       |  **Unarmed**     | 25  |
+| **Warpick**                | 15     |                     |       |  **Bare**     | 25  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 14     | **Fire** | 13     | **Psychic** | 17     |
 | **Cold**                   | 14     | **Force** | 14     | **Toxic**  | 13     |

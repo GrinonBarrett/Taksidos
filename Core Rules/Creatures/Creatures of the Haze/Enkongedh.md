@@ -40,7 +40,7 @@ These creatures appear to be a tall spider with a raised abdoman resembling a gi
 | **Katar**                  | 10     | **Javelin**         | 13    | **Arquebus** | 10    |
 | **Dagger**                 | 10     | **Throwing Blade**  | 13    | **Musket** | 9    |
 | **Morningstar**            | 10     | **Sling**           | 16    | **Tronutonante** | 11    |
-| **Warpick**                | 11     |                     |  **Unarmed**         | 15   |
+| **Warpick**                | 11     |                     |  **Bare**         | 15   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 10     | **Psychic** | 10     |
 | **Cold**                   | 11     | **Force** | 10     | **Toxic**  | 11     |
