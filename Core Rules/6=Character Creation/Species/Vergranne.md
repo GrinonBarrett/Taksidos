@@ -8,7 +8,7 @@ Unpleasant mountain dwellers. They get along well enough with other mountain dwe
 **Ability Score Modification**: Vergranne have he following changes to their attributes   
 +1 [Body]  
 +1 [Will]  
--1 [Rflx]
+-1 [Rflx]  
 -1 [Prcp]  
 -2 [Empy]  
 Choose three attributes. Each are increased by +1.
