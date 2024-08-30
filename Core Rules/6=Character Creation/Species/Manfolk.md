@@ -33,7 +33,7 @@ Representing mankind and several functionally similar species. Manfolk are the m
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. You must perform an incapacitation save or die immediately. You are hemorrhaging. |
-|   14   | Flesh Wound | Attacks made against you until the end of the enounter get a +1 bonus. |
+|   14   | Flesh Wound | Attacks made against you until the end of the encounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Shock | **Biased wound**. You gain 1d6 points of Spell-Sickness and cannot take a reaction during the next round. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
