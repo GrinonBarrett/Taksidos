@@ -13,6 +13,15 @@ Uses [Will]. When used, a fine ray is projected which pushes thermal energy out 
 **Wand of Reverbarays**, $1,800  
 Uses [Inte]. When used, a fine ray is projected which creates audible distortions. This is a sonic attack.
 
+**Wand of Rot**, $1,800  
+Uses [Inte]. When used, a darkly transparent ray springs towards the foe. This is a necrotic attack.
+
+**Wand of Stabbing**, $1,800  
+Uses [Will]. When used, a small glowing blade is projected towards the foe. This is a dagger attack.
+
+**Wand of Shock**, $1,800  
+Uses [Will]. When used, it produces a bolt of electricity towards the foe.
+
 **Wand of the Pacifist**, $2,000  
 Uses [Empy]. When used, performs an undamaging attack which knocks the foe prone instead of inflicting a wound. A critical hit also confers a -1 penalty to all attacks they make before the end of the next round. Many describe the sensation of being struck by this wand as unpleasent and mildy confusing.
 
