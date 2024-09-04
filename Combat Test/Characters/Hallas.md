@@ -1,5 +1,5 @@
 # Hallas
-Once a street urchin with an uncommon talent for magical devices, he has managed
+Once a street urchin with an uncommon talent for magical devices, he has managed to make a name for himself despite his associations.
 
 -----
 
