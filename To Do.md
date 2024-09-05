@@ -1,3 +1,12 @@
+For this update:
+* Create Asterion as a legendary creature.
+* Create Mystic class.
+* create 3 more lesser serviles.
+* Create 3 more greater serviles.
+* Finish combat test characters.
+* Implement the multihand rewording suggested in the discord server.
+
+-----
 Add more alternatively sized weapons
 
 Finish ~~Horse~~ and Vehicle rules. ~~Maybe add a couple more mounts~~
@@ -13,7 +22,7 @@ Create characters to test combat. Each character will have a level 0, 1, 3, 5, 7
 * , Crossbow wielding naghai rogue.
 * , Etrid Berserk that focuses on unarmed attacks and katar.
 * , A draconne evoker.
-* , an pole axe focused assassin to see how busted we can make the pole axe criticals.
+* , A pole axe focused assassin to see how busted we can make the pole axe criticals.
 
 Contemplate renaming Rogue to Venturer.
 
