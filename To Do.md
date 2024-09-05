@@ -1,7 +1,7 @@
 For this update:
 * Create Asterion as a legendary creature.
 * Create Mystic class.
-* create 3 more lesser serviles.
+* Create 3 more lesser serviles.
 * Create 3 more greater serviles.
 * Finish combat test characters.
 * Implement the multihand rewording suggested in the discord server.
