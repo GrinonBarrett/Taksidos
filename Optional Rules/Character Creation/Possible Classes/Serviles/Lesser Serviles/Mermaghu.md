@@ -3,9 +3,9 @@ An archaic term for merfolk. This represents a merfolk who has pledged themselve
 
 **Creature Type**: Lupausants are humanoids.
 
-**Size**: They stand between 5 and 7 feet. They can weigh between 150 and 210 pounds. They are medium creatures.
+**Size**: They are between 5 and 7 feet in length. They can weigh between 130 and 220 pounds. They are medium creatures.
 
-**Hitpoints**: A lupausant has 2 hitpoints.
+**Hitpoints**: A mermaghu has 2 hitpoints.
 
 **Attributes**:  
 [Body] 12 (+3)  
@@ -16,7 +16,7 @@ An archaic term for merfolk. This represents a merfolk who has pledged themselve
 [Prcp] 10 (+2)  
 [Empy] 10 (+2)  
 
-**Languages**: The Lupausant will know one language, which would be one also known by the invoker.
+**Languages**: The mermaghu will know one language, which would be one also known by the invoker.
 
 **Run Speed**: It may run up to 1.5 yards per move.
 
@@ -24,11 +24,11 @@ An archaic term for merfolk. This represents a merfolk who has pledged themselve
 
 **Swim speed**: It may swim up to 6 yards per move, presuming the water isn’t too rough.
 
-**Weapon Training**: Each lupausant has proficiency in two weapons. They will opt to gain the +1 bonus to their attacks unless commanded otherwise.
+**Weapon Training**: Each mermaghu has proficiency in two weapons. They will opt to gain the +1 bonus to their attacks unless commanded otherwise.
 
 **Unarmed Attacks**;
 
- • Smack: The lupausant may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
+ • Smack: The mermaghu may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -120,24 +120,24 @@ An archaic term for merfolk. This represents a merfolk who has pledged themselve
 
 **Some Learning**: It either knows a skill or an additional language.
 
-**Marine Breathing**: Merfolk are equally capable of breathing normal air and breathing in untainted bodies of water.
+**Marine Breathing**: Mermaghu are equally capable of breathing normal air and breathing in untainted bodies of water.
 
 **Merfolk Form**: Armor suitable for a mermaghu must be fashioned for that form specifically. This does not increase cost or weight, but most armor is made of materials unsuitbale for the aquatic environments that they occupy.
 
-**Bravery**: Anytime the lupausant makes a save against a fear effect, you may roll a d6 and add the result to your total.
+**Bravery**: Anytime the mermaghu makes a save against a fear effect, you may roll a d6 and add the result to your total.
 
-**Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
-* **The Earth**. It gains a bonus to defense against electric attacks equal to the invoker's heroism. It is fluent in terraglossa in addition to any other languages.
-* **The Flame**. It gains a bonus to defense against cold attacks equal to the invoker's heroism. It is fluent in pyroglossa in addition to any other languages.
-* **The Grave**. It gains a bonus to defense against necrotic attacks equal to the invoker's heroism. It is fluent in either Modi or Loholstich in addition to any other languages.
-* **The Light**: It gains a bonus to saves against magical effects equal to the invoker's heroism.
+**Dominion Benefits**: The mermaghu gains the benefit as appropriate to your domain.  
+* **The Earth**. Run speed is increased by .5 yard.
+* **The Flame**. While submerged, fire attacks against the mermaghu have disadvantage.
+* **The Grave**. It gains a bonus to saves against the effects of liquids (such as potion or other fluids) equal to the evoker's heroism.
+* **The Light**: While submerged, it ignores the penalty of bright light. A random attribute is increased by 1d3.
 * **Nobility**. It randomly has the benefit of another dominion.
-* **The Sea**. It gains a bonus to defense against fire attacks equal to the invoker's heroism. It is fluent in hydroglossa in addition to any other languages.
-* **The Sky**. It gains a bonus to defense against sonic attacks equal to the invoker's heroism. It is fluent in auraglossa in addition to any other languages.
-* **Valdercaller**. In addition to its other weapon training, it has proficiency with club and bow. It gains a bonus to defense against toxic attacks equal to the invoker's heroism.
+* **The Sea**. Swim speed is increased by 1 yard.
+* **The Sky**. Gains proficiency in athletics.
+* **Valdercaller**. Each attribute is increased by 1d2, then a random attribute is increased by 1.
 
 -----
 
-#### Gaining a Lupausant Servile
+#### Gaining a Mermaghu Servile
 
-An invoker need merely impress a prospective Lupausant to be able to entreat them into their service.
+An invoker need merely impress a prospective Mermaghu to be able to entreat them into their service.
