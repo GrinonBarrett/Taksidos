@@ -4,6 +4,7 @@ For this update:
 * Create ~~3~~ 1 more lesser serviles.
 * Create 3 more greater serviles.
 * Finish combat test characters.
+* Update Octo test character to reflect dagger change.
 * Implement the multihand rewording suggested in the discord server.
 
 -----
