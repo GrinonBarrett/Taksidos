@@ -26,7 +26,7 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 
 **Unarmed Attacks**;
 
- • Smack: The ergenekrai may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
+ • Smack: The ergenekrai may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
