@@ -22,11 +22,11 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 
 **Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
+**Weapon Training**: The ergenekrai has no training in weapons, but can use them with no penalty.
+
 **Unarmed Attacks**;
 
  • Smack: The ergenekrai may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
-
- • Weapon: The ergenekrai is capable of using a weapon.
 
 ---------------------
 
