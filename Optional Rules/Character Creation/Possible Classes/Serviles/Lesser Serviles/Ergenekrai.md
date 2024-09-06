@@ -16,6 +16,8 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 [Prcp] 8 (+2)  
 [Empy] 6 (+2)  
 
+**Languages**: The ergenekrai does not speak, but understands the invoker.
+
 **Run Speed**: It may run up to 5 yards per move.
 
 **Climb speed**: It may swim up to 1 yard per move, presuming it is reasonable terrain to do so.
