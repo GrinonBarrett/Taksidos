@@ -122,7 +122,7 @@ An old term for a pledged warrior. Lupausants have pledged themselves to serve t
 
 **Bravery**: Anytime the lupausant makes a save against a fear effect, you may roll a d6 and add the result to your total.
 
-**Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+**Dominion Benefits**: The lupausant gains the benefit as appropriate to your domain.  
 * **The Earth**. It gains a bonus to defense against electric attacks equal to the invoker's heroism. It is fluent in terraglossa in addition to any other languages.
 * **The Flame**. It gains a bonus to defense against cold attacks equal to the invoker's heroism. It is fluent in pyroglossa in addition to any other languages.
 * **The Grave**. It gains a bonus to defense against necrotic attacks equal to the invoker's heroism. It is fluent in either Modi or Loholstich in addition to any other languages.
