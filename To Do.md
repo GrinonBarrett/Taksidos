@@ -1,7 +1,7 @@
 For this update:
 * Create Asterion as a legendary creature.
 * Create Mystic class.
-* Create ~~3~~ 1 more lesser serviles.
+* Create ~~6~~ 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Finish combat test characters.
 * Update Octo test character to reflect dagger change.
