@@ -2,10 +2,11 @@ For this update:
 * Create Asterion as a legendary creature.
 * Create Mystic class.
 * Create ~~3~~ 1 more lesser serviles.
-* Create 3 more greater serviles.
+* Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Finish combat test characters.
 * Update Octo test character to reflect dagger change.
 * Implement the multihand rewording suggested in the discord server.
+* Give Perdrine a crystal skull option.
 
 -----
 Add more alternatively sized weapons
