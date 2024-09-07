@@ -10,3 +10,5 @@ If a combatant is incapacitated and an aggressor has no obstacles, they can simp
 If a creature ever has 10 wounds more than its maximum hitpoints, it dies. This is referred to as massive damage.
 
 If a creature with a Wound Table has no options remaining on the table, and receives a wound, it must perform an incapacitation save as a result of the "wound" it receives.
+
+Anytime a creature with no remaining hitpoints is incapacitated, it takes on a level of fatigue. A creature with points of undeath is not affected by this. 
