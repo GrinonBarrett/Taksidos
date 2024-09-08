@@ -134,7 +134,7 @@ You may use your reaction to inflict a crushing attack against a creature within
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and increases the duration by 1 minute.
 
-**Critical Failure**: {Resume}
+**Critical Failure**: You cast the circle around yourself. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot, keeping itself centered on you. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of fire attacks against you equal to the tier of the spell. An immunity to the harm of fire does not protect you from this, but instead has the attacks made with disadvantage.
 
 
 ### Vehemente (2
