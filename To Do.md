@@ -7,6 +7,7 @@ For this update:
 * Update Octo test character to reflect dagger change.
 * Implement the multihand rewording suggested in the discord server.
 * Give Perdrine a crystal skull option.
+* Update legendary spells to reflect there are now 10.
 
 -----
 Add more alternatively sized weapons
