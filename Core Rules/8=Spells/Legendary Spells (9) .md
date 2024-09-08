@@ -115,6 +115,28 @@ Where X is the tier of this spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier. Additionally, you have set off any magical alarms set to the portal. To make things worse, you seem to be effected as though an identical alarm (or alarms) had been set to you. Have fun getting out of trouble.
 
+### Tinto (1
+An ancient magi who managed to illustrate uses of magic in ageiculture, medicine, and war.
+
+#### Tinto's Circle
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 minute
+
+**Range**: 5 yards
+
+**Effect**: You cast a circle of flames around a target, which stretches out between 1 and 5 yards of it.
+
+Anything entering or exiting the area of the spell is subject to a fire attack. A creature attempting to exit the circle must succeed a [Will] save or find itself unable to actually leave the circle. The DV is is double the spell's tier + your [Magic] bonus.
+
+You may use your reaction to inflict a crushing attack against a creature within the area of the spell. 
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and increases the duration by 1 minute.
+
+**Critical Failure**: {Resume}
+
+
 ### Vehemente (2
 Arguably the most intelligent arcanist of his world, he claims to hail from a world opporessed by warring forces of light.
 
