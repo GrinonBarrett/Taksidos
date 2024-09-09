@@ -7,6 +7,10 @@ For this update:
 * Update Octo test character to reflect dagger change.
 * Implement the multihand rewording suggested in the discord server.
 * Give Perdrine a crystal skull option.
+* Recreate the old Barmpasow creature for this system.
+* Recreate the old Mountain Devil (dracnoic butrowing wyrms) for this system.
+* Recreate the old Etermi creature for this system.
+* Recreate the T Rex and Brachiosaurus creatures for this system.
 * Update legendary spells to reflect there are now 10.
 
 -----
