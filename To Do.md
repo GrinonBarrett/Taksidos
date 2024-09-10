@@ -1,5 +1,5 @@
 For this update:
-* Create Asterion as a legendary creature.
+* Create Asterian as a playable species.
 * Create Mystic class.
 * Create ~~6~~ 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
@@ -7,6 +7,7 @@ For this update:
 * Update Octo test character to reflect dagger change.
 * Implement the multihand rewording suggested in the discord server.
 * Give Perdrine a crystal skull option.
+* Create a minotaur-esque legendary creature. He is undead. In a past life, he was a monstrous creature with a taste for human flesh. He now presides over his own new labyrynth where a god-like entity likes to send those that defile or make mockery of oferrings to the gods so he may chase them to exhaustion and eat them in a never ending cycle.
 * Recreate the old Barmpasow creature for this system.
 * Recreate the old Mountain Devil (dracnoic butrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
