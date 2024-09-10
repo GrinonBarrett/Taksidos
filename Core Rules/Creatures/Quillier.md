@@ -81,7 +81,9 @@ The remnants of the Quilled Lizards, an endangered species that was wiped out by
 
 #### Special Features
 
-**Prickly**: ANy creature which brawls with the quillier or inflicts an attack against it as a result of trampling, is subject to a piercing attack. If the attack is a critical hit, it is treated as atoxic attack.
+**Prickly**: Any creature which brawls with the quillier or inflicts an attack against it as a result of trampling, is subject to a piercing attack. If the attack is a critical hit, it is treated as atoxic attack.
+
+**Dash**: The quillier may sprint twice in a round without incurring fatigue if it did not sprint during the previous round.
 
 **Puncturing Quill**: As a reaction, the quillier may fire a quill at a creature in its rear facing. This is treated as a piercing attack.
 
