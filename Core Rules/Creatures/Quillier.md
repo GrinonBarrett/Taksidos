@@ -1,30 +1,28 @@
 ### Quillier
-The remnants of the Quilled Lizards, an endangered species that was wiped out by the explosion of the Vridanth Sphere.
+The remnants of the Quilled Lizards, an endangered species that was wiped out by the collapse of the Vridanth Sphere. They were corrupted by it and infused with malicious energy, causing them to become a menace to the local eco system. They are mortal dangers to most that come across their path, but some consider it a right of passage to slay one.
 
-**Creature Type**: Mantispodons are Insects.
+**Creature Type**: Quilliers are Fiends.
 
-**Size**: Mantispidons are between 3-4 feet in height. They can weigh between 25 and 45 pounds. They are medium creatures.
+**Size**: Mantispidons are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
 
-**Hitpoints**: A mantispidon has no hitpoints.
+**Hitpoints**: A quillier has no hitpoints.
 
 **Attributes**:  
-[Body] 11 (+3)  
-[Fort] 9 (+3)  
-[Rflx] 15 (+5)  
-[Will] 9 (+3)  
+[Body] 6 (+2)  
+[Fort] 8 (+2)  
+[Rflx] 12 (+4)  
+[Will] 8 (+2)  
 [Inte] 8 (+2)  
 [Prcp] 9 (+3)  
 [Empy] 6 (+2)  
 
-**Languages**: Mantispdons don't speak, but can hiss.
+**Languages**: Quilliers don't speak, but can produce a nearly growl-like purring sound.
 
-**Run Speed**: It may run up to 6.5 yards per move.
+**Run Speed**: It may run up to 3 yards per move.
 
-**Fly Speed**: It may fly up to 9 yards per move, but is not capable of performing more than 1 flight movement per round.
+**Swim speed**: It may swim up to .5 yard per move, presuming the water isn’t too rough.
 
-**Climb Speed**: It may climb up to 2 yards per move, so long as it is reasonable terrain to do so.
-
-**Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
+{resume}
 
 **Unarmed Attacks**;
 
