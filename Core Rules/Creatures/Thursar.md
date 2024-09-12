@@ -1,36 +1,36 @@
 ### Thursar
-Giants bent by malice and greed. Their very presence can sicken lesser creatures. Despite the common association between them and bogkin, they actually possess a mutual hatred of each other. The plural is Thursain.
+Giants bent by malice and greed. Their very presence can sicken lesser creatures. Despite the commonly perceived association between them and bogkin, they actually possess a mutual hatred of each other. The plural is Thursain.
 
-**Creature Type**: Thursar are Humanoids.
+**Creature Type**: Thursain are Humanoids.
 
-**Size**: Thursar stand between 9' and 9'9" tall. They can weigh between 450-800 pounds. They are large creatures.
+**Size**: Thursain stand between 9' and 9'9" tall. They can weigh between 450-800 pounds. They are large creatures.
 
-**Hitpoints**: Thursar have 5 Hitpoints.
+**Hitpoints**: Thursain have 5 Hitpoints.
 
 **Attributes**:  
 [Body] 21 (+7)  
 [Fort] 18 (+6)  
 [Rflx] 10 (+3)  
 [Will] 10 (+3)  
-[Inte] 11 (+3)  
-[Prcp] 13 (+4)  
+[Inte] 10 (+3)  
+[Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
-**Languages**: Thursar speak Jotine.
+**Languages**: Thursain speak Jotine.
 
-**Run Speed**: It may run up to 6 yards per move.
+**Run Speed**: It may run up to 6.5 yards per move.
 
 **Climb Speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough.
 
-**Weapon Attacks**: The bogkin is capable of using weapons. It even has proficiency in two weapons (usually sling and club).
+**Weapon Attacks**: The thursar is capable of using weapons. It even has proficiency in four weapons (usually club, mace, dagger, and thrown blades).
 
-**Defenses**: A bogkin can use armor and a shield.
+**Defenses**: A thursar can use armor and a shield.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The bogkin may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
+ • Unarmed Strike: The thursar may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
 
 ---------------------
 
@@ -89,6 +89,8 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 |                        |           |          |            |         |            |         |
 | Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 
+{Alter attack chart}
+
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
@@ -114,18 +116,18 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
----------------------
-
-#### Variants
-Among the bogkin people, there are a few standouts. 
-
-**Bogkin Bogriner**: Some say they are witches, others say they are diviners, and some claim them mediators of magical contracts. Bogriners are capable of performing magic. They typically know the following spells: _Animation_, _Intoxify_, _Rotward_, _Silent Alarm_, _Wretched Ray_, and two more spells. They are also proficient with clubs, daggers, slings, and staves.  
-Bogriners are more apt to do business with adventurers than most bogkin, but can be tricky to deal with.
-
 -------------
 
 #### Special Features
 
-**Show of Strength**: When the bogkin would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
+**Show of Strength**: When the thursar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
-**Bogkin Resilience**: Bogkin double their attribute bonus on all [Fort] and [Inte] saves against magical effects.
+**Vile Smell**: Any checks made to detect a thursar by smell gains a 1d12 bonus.
+
+**Thursaine Aura**: Any creature within 25 yards is subject to accrue a disease known as the Fetid Fever. After exposure for a number of minutes equal to 1d20 + the subjected creature's [Fort] score, it will contract the disease. A thursar is immune to this.
+
+**Toxic Aura**: After a full minute being within 25 yards of a thursar *a creature is subject to a toxic attack at the end of each round while within 25 yards of the thursar*. This is a magical diseas effect.
+
+**Venomous Attacks**: Anytime the thursar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *inflicts a toxic attack*.
+
+**Poison Spreader**: If the thursar is affected by a poison, venom, or disease- it *will spread it in addition to the Fetid Fever of its Thursaine Aura feature*.
