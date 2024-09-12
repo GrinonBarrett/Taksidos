@@ -8,15 +8,15 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 **Hitpoints**: Thursar have 5 Hitpoints.
 
 **Attributes**:  
-[Body] 20 (+6)  
-[Fort] 12 (+4)  
+[Body] 21 (+7)  
+[Fort] 18 (+6)  
 [Rflx] 10 (+3)  
 [Will] 10 (+3)  
 [Inte] 11 (+3)  
 [Prcp] 13 (+4)  
-[Empy] 9 (+3)  
+[Empy] 7 (+2)  
 
-**Languages**: Bogkin speak Jotine and another language as appropriate to where they operate.
+**Languages**: Thursar speak Jotine.
 
 **Run Speed**: It may run up to 6 yards per move.
 
