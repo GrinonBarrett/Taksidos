@@ -12,7 +12,6 @@ For this update:
 * Recreate the old Mountain Devil (dracnoic butrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
-* Update legendary spells to reflect there are now 10.
 
 -----
 Add more alternatively sized weapons
