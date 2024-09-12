@@ -1,5 +1,5 @@
 ### Thursar
-Giants bent by malice and greed. Their very presence can sicken lesser creatures. Despite the common association between them and bogkin, they actually possess a mutual hatred of each other.
+Giants bent by malice and greed. Their very presence can sicken lesser creatures. Despite the common association between them and bogkin, they actually possess a mutual hatred of each other. The plural is Thursain.
 
 **Creature Type**: Thursar are Humanoids.
 
