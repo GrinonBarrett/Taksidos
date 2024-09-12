@@ -24,13 +24,13 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 
 **Swim speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
 
-**Weapon Attacks**: The korventennar is capable of using weapons. It even has proficiency in four weapons (usually club, .
+**Weapon Attacks**: The korventennar is capable of using weapons. It even has proficiency in five weapons (usually club, sling, javelin, spear, and bow).
 
-**Defenses**: A thursar can use armor and a shield.
+**Defenses**: A korventennar can use armor and a shield.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The thursar may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
+ • Unarmed Strike: The korventennar may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
 
 ---------------------
 
@@ -116,7 +116,11 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
--------------
+-----
+
+
+
+-----
 
 #### Special Features
 
