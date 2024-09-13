@@ -1,5 +1,5 @@
 ### Cragkin
-Grandfolk of the mountains. The cragkin live in small settlements. Their societies embrace the voice of each member and liberal freedoms. In battle, they often charge recklesly.
+Grandfolk of the mountains. The cragkin live in small settlements. Their societies embrace the voice of each member and liberal freedoms. In battle, they often charge recklesly. Their collective noun is a Clash.
 
 **Creature Type**: Cragkin are Humanoids.
 
