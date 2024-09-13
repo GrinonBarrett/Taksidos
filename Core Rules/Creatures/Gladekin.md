@@ -1,5 +1,5 @@
 ### Gladekin
-Grandfolk of the woods. The reclusive gladekin live a primitive life in which they seek to maintain harmony with nature in every aspect of life. For the most part, they can be considered the gentlest of the grandfolk- but those that live near ever encroaching settlements find their hostilities much quicker.
+Grandfolk of the woods. The reclusive gladekin live a primitive life in which they seek to maintain harmony with nature in every aspect of life. For the most part, they can be considered the gentlest of the grandfolk- but those that live near ever encroaching settlements find their hostilities much quicker. Their collective noun is a Clash.
 
 **Creature Type**: Gladekin are Humanoids.
 
