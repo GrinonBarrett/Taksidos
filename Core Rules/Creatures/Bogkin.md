@@ -1,5 +1,5 @@
 ### Bogkin
-Grandfolk of the swamps. In their home environment, they are known to be greedy, paranoid, and difficult to deal with. Outside of their home, they are known for their ambition and secrecy.
+Grandfolk of the swamps. In their home environment, they are known to be greedy, paranoid, and difficult to deal with. Outside of their home, they are known for their ambition and secrecy. The collective noun is a Clash.
 
 **Creature Type**: Bogkin are Humanoids.
 
