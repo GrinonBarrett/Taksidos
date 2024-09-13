@@ -1,5 +1,5 @@
 ### TRILLIPEDE
-Large tunneling insects. They subsist on trace minerals found in the earth they burrow through and scavenging the remains of other creatures.
+Large tunneling insects. They subsist on trace minerals found in the earth they burrow through and scavenging the remains of other creatures. Their collective noun is a Writhe.
 
 **Creature Type**: Trillipedes are Insect creatures.
 
