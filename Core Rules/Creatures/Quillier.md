@@ -1,5 +1,5 @@
 ### Quillier
-The remnants of the Quilled Lizards, an endangered species that was wiped out by the collapse of the Vridanth Sphere. They were corrupted by it and infused with malicious energy, causing them to become a menace to the local eco system. They are mortal dangers to most that come across their path, but some consider it a right of passage to slay one. They are seldom encountered alone.
+The remnants of the Quilled Lizards, an endangered species that was wiped out by the collapse of the Vridanth Sphere. They were corrupted by it and infused with malicious energy, causing them to become a menace to the local eco system. They are mortal dangers to most that come across their path, but some consider it a right of passage to slay one. They are seldom encountered alone. Their collective nounn is a Prickle.
 
 **Creature Type**: Quilliers are Fiends.
 
