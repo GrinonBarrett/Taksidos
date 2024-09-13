@@ -1,5 +1,5 @@
 ### Infectious Pudding
-Though it can vary in its coloration from specimen to specimen, it always takes the form of a thick ooze. Infectious puddings usually attack directly. They will always ignore another infectious pudding.
+Though it can vary in its coloration from specimen to specimen, it always takes the form of a thick ooze. Infectious puddings usually attack directly. They will always ignore another infectious pudding. Their collective noun is a Harmalade.
 
 **Creature Type**: Infectious Puddings are Infigura.
 
