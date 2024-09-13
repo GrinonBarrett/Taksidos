@@ -1,6 +1,6 @@
 ### Thoron
 Wardens of the deep woods. These four legged beasts bear flesh like wood, adorned with thorns. They are fast and strong, to the amazement of any that see their figure. It's head appears to be a clubtail covered in brambles and branches with no visible eyes.  
-They are considered the violent defenders of nature- Not something to be reasoned with and unlikely to be dissuaded when they arrive.
+They are considered the violent defenders of nature- Not something to be reasoned with and unlikely to be dissuaded when they arrive. Their collective noun is a Guard.
 
 **Creature Type**: Thorons are Plant creatures.
 
