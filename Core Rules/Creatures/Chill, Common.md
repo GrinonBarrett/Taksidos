@@ -1,5 +1,5 @@
 ### Chill
-Created when malicious extra planar energy mixes with native planar energies. Chills represent desolate cold. These winged, vaguely humanoid, shapes are often ill omens for adventurers as they reflect the coming difficulties that nature will inflict. They are always hostile to others except chills and frozen spectres. They will open an engagement by inflicting as much cold damage as possible before closing in to use their claws.
+Created when malicious extra planar energy mixes with native planar energies. Chills represent desolate cold. These winged, vaguely humanoid, shapes are often ill omens for adventurers as they reflect the coming difficulties that nature will inflict. They are always hostile to others except chills and frozen spectres. They will open an engagement by inflicting as much cold damage as possible before closing in to use their claws. Their collective noun is a Shiver.
 
 **Creature Type**: Chills are Elemental creatures.
 
