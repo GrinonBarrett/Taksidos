@@ -83,13 +83,11 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 | Psychic                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Radiant                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Toxic                  | 5 - 8     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
+| Toxic                  | 12 - 15   | 13 - 15  | 13 - 15    | 14 - 16 | 14 - 16    | 16 - 19 |
 |                        |           |          |            |         |            |         |
 | Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
 |                        |           |          |            |         |            |         |
 | Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-
-{Alter attack chart}
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
