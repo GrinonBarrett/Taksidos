@@ -7,8 +7,8 @@ Those bestowed powers by their dealings with hgiher powers, though some might co
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 1  |    +1    | Magical Art                                       |
-| 2nd   | 1  |    +2    | Pact                                     |
+| 1st   | 1  |    +1    | Magical Art, Pact                                 |
+| 2nd   | 1  |    +2    | Desperate Plea                                    |
 | 3rd   | 1  |    +3    | Attribute Improvement                             |
 | 4th   | 1  |    +4    | Magi's Focus, Resist Wands                        |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
@@ -20,7 +20,7 @@ Those bestowed powers by their dealings with hgiher powers, though some might co
 
 
 ### Magical Art
-You have learned a means of improving your magic that doesn't require the same dedicated training or study as some magical folks. Choose an attribute. Once chosen, it cannot be changed. Anytime you perform a spellcheck, you may choose to temporarily reduce you attribute by any amount to gain a bonus to your spell check equal to the result. This damage to your attributes is referred to as spellshock. You recover attribute points from spellshock at a rate of 1 per hour. A long rest recovers an additional point and a full rest recovers an additional 1d4+1 points. You also gain a skill based on which attribute you choose. If you already have that skill, you instead learn a language of your choice.  
+You have learned a means of improving your magic that doesn't require the same dedicated training or study as some magical folks. Choose an attribute. Once chosen, it cannot be changed. Anytime you perform a spellcheck, you may choose to temporarily reduce your attribute by any amount to gain a bonus to your spell check equal to the points of reduction. This damage to your attributes is referred to as spellshock. You recover attribute points from spellshock at a rate of 1 per hour. A long rest recovers an additional point and a full rest recovers an additional 1d4+1 points. You also gain a skill based on which attribute you choose. If you already have that skill, you instead learn a language of your choice.  
 * [Body] = Wrestling
 * [Fort] = Athletics
 * [Rflx] = Spellcraft
@@ -29,26 +29,14 @@ You have learned a means of improving your magic that doesn't require the same d
 * [Prcp] = Burglary
 * [Empy] = Carousing
 
-### Magicraft
-You are capable of tapping into the latent magics. When you perform a spell check, a skill check involving the nature of magic, or a save against a magical effect, you may spend a single spell point to gain a bonus equal to your [Will] bonus.  
-Additionally, when you perform a spell check, you may choose to roll 3d6 instead of 1d20.  
-When a spell references your [Magic] score/bonus, you may use your [Will] score/bonus.  
-Furthermore, you may add your [Will] bonus to your counterspell checks.
+### Pact
+You may choose to enter into a pact with a greater power. If you do, you lose your ability to perform wyrding and instead gain a new means of spellcasting as approriate to that patron. This is optional. If the mystic opts not to take a pact, they may make the choice anytime they gain a new level.
 
-### 2) Spell Weaving
-You can attempt to cast a spell by expending spell points in place of performing a typical spellcheck. You choose how many spell points you wish to invest into the spell. Then determine the spell's demand as indicated with the chart below. If your total spell point investment equals or exceeds the demand, the spell is cast. A failure provides a point of Spell Sickness. A spell cast this way is never a critical success or critical failure. The spell is always considered to have a check total equal to the minimum result required to cast the spell plus your [Will] bonus.
+2) ### Desperate Plea
+You can attempt to call upon a greater power by devoting 5 rounds to pleading for help. This requires you take no other actions or movement during this time. Roll a d6. If the result is greater than 2, your patron's assistance manifests in the form a spell whose tier is equal to half of the result. Each time you perform a plea, you receive a -1 penalty to future plea results. This penalty is reduced each time you complete a long or full rest.
 
-| Tier | Demand|
-| ---- | ------|
-|  1  | 1d3  |
-|  2  | 1d4+1  |
-|  3   | 1d6+1  |
-|  4   | 1d8+2 |
-|  5   | 1d10+2 |
-|  6   | 1d12+2 |
-|  7+  | 1d20 + Xd4|
-
-Where X is the total tier beyond 6th.
+### 3) Terrifying Power
+Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, everything within a number of yards equal to the spell's tier + the amount of spell sickness you gained this way must succeed [Will] save or become afraid of you and your magic for a number of rounds equal to the points of failure. Such a creature must use its turns to put distance between itself and you or otherwise premeptively establish some form of defense or cover against you. You may grant advantage on the save to a number of creature you can perceive up to your heroism bonus.
 
 ### 4) Magi's Focus
 When you perform a spell check, you may spend 2 spell points to simply use your [Will] in place of rolling the d20. If you would have had advantage on the check, you roll 1d6 and add the result. If you would have had disadvantage, you roll 1d6 and subtract it.
