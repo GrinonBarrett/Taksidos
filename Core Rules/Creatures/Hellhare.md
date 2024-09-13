@@ -1,5 +1,5 @@
 ### Hellhare
-Hailing from a nightmarish fringe of the planes, hellhares are known for their brutality in combat. The hellhare is a killer rabbit that will absolutely murder your crusading party. It will fight to the death.
+Hailing from a nightmarish fringe of the planes, hellhares are known for their brutality in combat. The hellhare is a killer rabbit that will absolutely murder your crusading party. It will fight to the death. Their collective noun is a Trick.
 
 **Creature Type**: Hellhares are fiends.
 
