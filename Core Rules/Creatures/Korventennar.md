@@ -1,5 +1,5 @@
 ### Korventennar
-Giants who make their home in cloud cities. Many are primitive creatures but that does not mean one should underestimate them. The plural is Korventannain.
+Giants who make their home in cloud cities. Many are primitive creatures but that does not mean one should underestimate them. The plural is Korventannain and their collective noun is a Clash.
 
 **Creature Type**: Korventennain are Humanoids.
 
@@ -70,26 +70,24 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 | Unlisted Weapons       | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 |                        |           |          |            |         |            |         |
 | Acid                   | 4 - 7     | 8 - 10   | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Biting                 | 3 - 6     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
-| Cold                   | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 11 - 13    | 14 - 17 |
+| Biting                 | 5 - 8     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
+| Cold                   | 7 - 10    | 11 - 13  | 13 - 15    | 15 - 17 | 14 - 16    | 16 - 19 |
 | Crushing               | 6 - 7     | 9 - 10   | 11 - 12    | 13 - 14 | 12 - 13    | 15 - 16 |
 | Cutting                | 4 - 7     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Electrical             | 5 - 8     | 9 - 11   | 10 - 12    | 12 - 14 | 11 - 13    | 14 - 17 |
-| Fire                   | 5 - 8     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
+| Electrical             | 7 - 10    | 11 - 13  | 13 - 15    | 15 - 17 | 14 - 16    | 16 - 19 |
+| Fire                   | 7 - 10    | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Force                  | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Ki                     | 6 - 9     | 8 - 10   | 10 - 12    | 11 - 13 | 12 - 14    | 14 - 17 |
-| Necrotic               | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
+| Necrotic               | 4 - 7     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
 | Piercing               | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Psychic                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Radiant                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
+| Sonic                  | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Toxic                  | 5 - 8     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 |                        |           |          |            |         |            |         |
 | Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
 |                        |           |          |            |         |            |         |
 | Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-
-{Alter attack chart}
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -118,20 +116,23 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 
 -----
 
+#### Variants
+Among the korventennain, there are a few standouts. 
 
+**Korventennar Mage**: Korventennar with the wyrding gift. They are capable of performing magic. They typically know the following spells: _Arc Lightning_, _Blast Lightning_, _Call Lightning_, _Frost Lance_, _Ice Breaker_, and two more spells. Its [Inte] is increased to 13, giving them a +4 bonus instead.
+
+**Korventennar Ruler**: Korventennar rulers lead their clash. The possess 10 [Inte], giving them a +3 bonus, and an [Empy] of 12 for a +4 bonus. They usually have speciailization in a weapon as well.
 
 -----
 
 #### Special Features
 
-**Show of Strength**: When the thursar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
+**Show of Strength**: When the korventennar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
-**Vile Smell**: Any checks made to detect a thursar by smell gains a 1d12 bonus.
+**Resist Wands**: Anytime the korventennar is attacked by a wand, it may use its reaction to impose disadvantage against the attack.
 
-**Thursaine Aura**: Any creature within 25 yards is subject to accrue a disease known as the Fetid Fever. After exposure for a number of minutes equal to 1d20 + the subjected creature's [Fort] score, it will contract the disease. A thursar is immune to this.
+**Unfreezing**: A korventennar cannot be frozen.
 
-**Toxic Aura**: After a full minute being within 25 yards of a thursar *a creature is subject to a toxic attack at the end of each round while within 25 yards of the thursar*. This is a magical diseas effect.
+**Storming Attacks**: Anytime the korventennar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *may treat it as a cold, electric, or sonic attack*.
 
-**Venomous Attacks**: Anytime the thursar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *inflicts a toxic attack*.
-
-**Poison Spreader**: If the thursar is affected by a poison, venom, or disease- it *will spread it in addition to the Fetid Fever of its Thursaine Aura feature*.
+**Storm Fist**: As a reaction to successfully hitting a foe with an unarmed attack, the korventennar may also inflict an electric or cold attack against that foe.
