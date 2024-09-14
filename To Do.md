@@ -13,7 +13,7 @@ For this update:
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
 * Create Chalcedon creature (Like pokemon's graveler but made of bnded gemstone. Acquires sustanance by tunneling into ore deposits).  
-* Give the jester the ability to roll exotic attacks into a ball they can juggle. Rewuires a move, action, or reaction to maintain. Lasts for a minute. Can benefit from ant warrior mastery possessed. Can have up to their [Rflx] bonus +1 at a time. Make it a level 2 fearure and shift Japenup to level 6? Or maybe it should be level 6 and Jape left untouched.
+* Give the jester the ability to roll exotic attacks into a ball they can juggle. Rewuires a move, action, or reaction to maintain. Lasts for a minute. Can benefit from ant warrior mastery possessed. Can have up to their [Rflx] bonus +1 at a time. Make it a level 2 fearure and shift Jape up to level 6? Or maybe it should be level 6 and Jape left untouched. Maybe if attack was a critical failure
 
 -----
 Add more alternatively sized weapons
