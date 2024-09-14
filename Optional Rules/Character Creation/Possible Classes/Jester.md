@@ -9,7 +9,7 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Buffoonery, Jesting, On-On, Tickle                |
 | 2nd   | 2  |    +2    | Flashback, Journeyman                             |
-| 3rd   | 2  |    +3    | Attribute Improvement, Jack of All Trades, Jape   |
+| 3rd   | 2  |    +3    | Jack of All Trades, Jape, Jugglier                |
 | 4th   | 2  |    +4    | Distraction, Shenanigans                          |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 3  |    +5    | Attribute Improvement, Hasty                      |
@@ -46,6 +46,9 @@ Anytime you perform a check involving a skill with which you are not proficient,
 ### 3) Jape
 As an action, you may express some witty retort or one-liner targeted at a creature which can hear you. It must succeed a [Will] save with a DV equal to your level + heroism  + an attribute bonus which the narrator deems appropriate to the particular jape or have its attention focused on a subject you dictate as appropriate to the jape. If it is a critical failure, it is also dazed until end of round. You are vulnerable until the end of the round. You may expend buffonery to do this as a reaction.  
 Mindless creatures are immune to this and any creature which does not understand the spoken language gets advantage on its save.
+
+### 3) Jugglier
+
 
 ### 4) Distraction
 When a creature which you can perceive, and which can perceive you, attempts to perform a skill check- you may expend buffonery to impose a d4 penalty to that check as an action or reaction. You may do so as many times as you wish to a single check.
