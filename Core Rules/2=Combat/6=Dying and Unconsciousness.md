@@ -1,6 +1,6 @@
 ### UNCONSCIOUSNESS AND DEATH
 
-A character may receive as many wounds as appropriate to their class and level. This total is referred to as hitpoints (or HP). Once they receive a wound while this pool is depleted, they must make a [Fort] or [Will] save with a DV of 10 + the number of wounds or immediately become incapacitated. If they succeed, they are still stable- but suffer a level of fatigue. A failure results in passing out (incapacitated). A critical success allows you to soldier on. A critical failure kills you.  
+A character may receive as many wounds as appropriate to their class and level. This total is referred to as hitpoints (or HP). Once they receive a wound while this pool is depleted, they must make a [Fort] or [Will] save with a DV of 10 + the number of wounds or immediately become incapacitated. If they succeed, they are still stable- but suffer a level of fatigue. A failure results in passing out (incapacitated). A critical success allows you to soldier on with no effect. A critical failure kills you.  
 A creature may also have hitpoints.
 
 This is ***the incapacitation save***.
