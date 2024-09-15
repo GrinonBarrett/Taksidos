@@ -49,7 +49,7 @@ Mindless creatures are immune to this and any creature which does not understand
 
 ### 3) Jugglier
 You gain training in one of the following weapons (thrown blades, brusgiata, chakram). You gain a +1 bonus to attacks rolls, checks, and saves involving hurlings.  
-Choose an exotic damage type. Anytime an attack of that type would be influcted against you and fail, you may use your reaction or expend buffoonery to harmlessly roll it into a palm shaped sphere you can juggle. This sphere lasts for 1 minute. You may use it to inflict a melee attack of the same type within your unarmed range or throw it up to a number of yards equal to the greatest of either your [Body] or [Rflx] score + level, with the optimal range baing a number of yards equal to your level.   
+Choose an exotic damage type. Anytime an attack of that type would be influcted against you and fail, you may use your reaction or expend buffoonery to harmlessly roll it into a palm shaped sphere you can juggle. This sphere lasts for 1 minute. You may use it to inflict a melee attack of the same type within your unarmed range or throw it up to a number of yards equal to the greatest of either your [Body] or [Rflx] score + level, with the optimal range being a number of yards equal to your level.   
 If an attack rolled into a sphere would have inflicted another effect other than wounding, it will apply that effect.  
 You must maintain some movement to keep juggling the items, requiring you forfeit an action during an action phase, a movement, or your reaction each round.  
 You may only juggle a number of spheres equal to 1+ your heroism.
