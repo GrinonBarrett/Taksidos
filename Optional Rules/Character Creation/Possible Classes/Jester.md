@@ -15,7 +15,7 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 | 6th   | 3  |    +5    | Hasty, Jugglist                                   |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
 | 8th   | 3  |    +7    | Attribute Improvement, Ungovernable               |
-| 9th   | 4  |    +8    | -                             |
+| 9th   | 4  |    +8    | Encore, Outrageous                       |
 | 10th  | 4  |    +8    | Splash or Specialize                              |
 
 
@@ -76,6 +76,12 @@ Anytime you perform a shenannigan, you may increase or reduce the spell-sickness
 ### 8) Ungovernable
 When you perform a save, you may expend buffoonery to gain a bonus equal to your heroism.
 
+### 9) Encore
+When you perform a reaction, you may expend buffoonery to be braced for the same type of reaction.
+
+### 9) Outrageous
+Anytime a creature's attack, check, or save is a success but not a critical success- you may use your reaction to expend buffonery to change that result to either a critical success or critical failure. You and that creature must be able to perceive each other for this to work.
+
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
 
@@ -128,7 +134,7 @@ You gain a language of your choice, training in a weapon of your choice, the She
  
 **• Smithy**: You cobble together some makeshift armor which functions for a number of minutes equal to your level. You need a number of pounds of material equal to 40 minus your [Inte] score + your heroism. At least one-third of this needs to be metal. Treat as cuirass, but attacks have advantage against one wearing it. This requires 1d4+6 rounds to put together.
    
-**• Spellcraft**: You attempt to counterspell a spell being cast which you do not recognize. This function as a normal counterspell-check.
+**• Spellcraft**: You attempt to counterspell a spell being cast which you do not recognize. This functions as a normal counterspell-check.
  
 **• Survival**: Perform a survival check. Divide the points of success by 5. This is how many portions of food or liquid you produce (of a nature determined by the narrator). You must explain why you had it and may or may not want to explain where you hid it. The narrator may change the exact nature of such items afterwards.
 
