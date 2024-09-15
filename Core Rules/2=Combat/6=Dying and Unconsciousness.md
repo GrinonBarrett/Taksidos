@@ -5,7 +5,7 @@ A creature may also have hitpoints.
 
 This is ***the incapacitation save***.
 
-If a combatant is incapacitated and an aggressor has no obstacles, they can simply kill their foe as an action if they have some means of inflicting damage other than an unarmed attack.
+If a combatant is incapacitated and an aggressor has no obstacles, they can simply kill their foe as an action if they have some means of inflicting damage other than a bare attack.
 
 If a creature ever has 10 wounds more than its maximum hitpoints, it dies. This is referred to as massive damage.
 
