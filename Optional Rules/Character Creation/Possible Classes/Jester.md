@@ -12,10 +12,10 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 | 3rd   | 2  |    +3    | Jack of All Trades, Jape, Jugglier                |
 | 4th   | 2  |    +4    | Distraction, Shenanigans                          |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 3  |    +5    | Attribute Improvement, Hasty                      |
+| 6th   | 3  |    +5    | Hasty, Jugglist                                   |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
-| 8th   | 3  |    +7    | Ungovernable                                      |
-| 9th   | 4  |    +8    | Attribute Improvement                             |
+| 8th   | 3  |    +7    | Attribute Improvement, Ungovernable               |
+| 9th   | 4  |    +8    | -                             |
 | 10th  | 4  |    +8    | Splash or Specialize                              |
 
 
@@ -48,9 +48,8 @@ As an action, you may express some witty retort or one-liner targeted at a creat
 Mindless creatures are immune to this and any creature which does not understand the spoken language gets advantage on its save.
 
 ### 3) Jugglier
-You gain training in one of the following weapons (thrown blades, brusgiatta, chakram). You gain a +1 bonus to attacks rolls, checks, and saves involving hurlings.  
-Choose an exotic damage type. Anytime an attack of that type would be influcted against you and fail, you may use your reaction or expend buffoonery to harmlessly roll it into a palm shaped sphere you can juggle. This sphere lasts for 1 minute. You may use it to inflict a melee attack of the same type within your unarmed range or throw it up to a number of yards equal to the greatest of either your [Body] or [Rflx] score + level, with the optimal range baing a number of yards equal to your level.  
-If you have warrior mastery with any weapons, you can apply it to your jugglier sphere.  
+You gain training in one of the following weapons (thrown blades, brusgiata, chakram). You gain a +1 bonus to attacks rolls, checks, and saves involving hurlings.  
+Choose an exotic damage type. Anytime an attack of that type would be influcted against you and fail, you may use your reaction or expend buffoonery to harmlessly roll it into a palm shaped sphere you can juggle. This sphere lasts for 1 minute. You may use it to inflict a melee attack of the same type within your unarmed range or throw it up to a number of yards equal to the greatest of either your [Body] or [Rflx] score + level, with the optimal range baing a number of yards equal to your level.   
 If an attack rolled into a sphere would have inflicted another effect other than wounding, it will apply that effect.  
 You must maintain some movement to keep juggling the items, requiring you forfeit an action during an action phase, a movement, or your reaction each round.  
 You may only juggle a number of spheres equal to 1+ your heroism.
@@ -63,6 +62,10 @@ You may expend buffonery to perform some special ability. You may use any shenan
 
 ### 6) Hasty
 You add your level to your initiative roll.
+
+### 6) Jugglist
+You can now juggle incoming thrown blades, chakram, and brusgiata with your juggling. It does not convert them into a sphere, but they can be hurled in the same manner as one of your spheres if thrown within a minute while being juggled.  
+If you have warrior mastery with any weapons, you can apply it to your jugglier sphere. You cannot apply an inappropriate warrior mastery to a weapon this way. 
 
 ### 7) Shennanigannery
 You may perform a shenanigan without expending buffonery. You must rest before doing so again.  
