@@ -3,7 +3,7 @@ The following special abilities may be used by any combatant unless otherwise no
 
 #### About Face
 Action  
-You rotate up to 180 degrees. If received a wound, you may about face as a reaction.
+You rotate up to 180 degrees. If you received a wound, you may about face as a reaction.
 
 #### Aim  
 Action  
