@@ -35,6 +35,13 @@ Additionally, when you perform a Feint against a creature, if it has fewer HP th
 ### 3) Tumble
 You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
 
+### 3) Dire Response
+If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If it was a melee attack, you may choose one of the following:
+* You gain advantage on this attack.
+* You may close the distance into a brawl, gaining advantage on either the [Body] or [Rflx] save.
+* You may slam the foe.
+* You may shove the foe.
+
 ### 4) Fell Hand
 If you successfully perform a sneak attack against a foe, roll a d12 and add your heroism. For a number of rounds equal to the result, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
 
