@@ -9,12 +9,10 @@ For this update:
 * Give Perdrine a crystal skull option.
 * Create a minotaur-esque legendary creature. He is undead. In a past life, he was a monstrous creature with a taste for human flesh. He now presides over his own new labyrynth where a god-like entity likes to send those that defile or make mockery of oferrings to the gods so he may chase them to exhaustion and eat them in a never ending cycle.
 * Recreate the old Barmpasow creature for this system.
-* Recreate the old Mountain Devil (dracnoic butrowing wyrms) for this system.
+* Recreate the old Mountain Devil (dracnoic burrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
 * Create Chalcedon creature (Like pokemon's graveler but made of bnded gemstone. Acquires sustanance by tunneling into ore deposits).  
-* Give the jester the ability to roll exotic attacks into a ball they can juggle. Rewuires a move, action, or reaction to maintain. Lasts for a minute. Can benefit from ant warrior mastery possessed. Can have up to their [Rflx] bonus +1 at a time. Make it a level 2 fearure and shift Jape up to level 6? Or maybe it should be level 6 and Jape left untouched. Maybe if attack was a critical failure
-
 -----
 Add more alternatively sized weapons
 
