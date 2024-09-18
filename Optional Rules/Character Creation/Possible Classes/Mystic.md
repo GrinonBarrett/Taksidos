@@ -1,4 +1,4 @@
-# Magi
+# Mystic
 Those bestowed powers by their dealings with hgiher powers, though some might consider them to be lower powers or demons. The mystic can accrue power that mere mortals could wish for, but always at a cost.
 
 **Class Skills**: Select one of the following (Alchemy, Cooking, Medicine).
@@ -8,11 +8,11 @@ Those bestowed powers by their dealings with hgiher powers, though some might co
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Magical Art, Pact                                 |
-| 2nd   | 1  |    +2    | Desperate Plea                                    |
-| 3rd   | 1  |    +3    | Attribute Improvement                             |
-| 4th   | 1  |    +4    | Magi's Focus, Resist Wands                        |
+| 2nd   | 1  |    +2    | Attribute Improvement, Desperate Plea             |
+| 3rd   | 1  |    +3    | Terrifying Power                                  |
+| 4th   | 1  |    +4    | Attribute Improvement, Creeping Power, Mystic Defense|
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 2  |    +5    | Attribute Improvement                             |
+| 6th   | 2  |    +5    | Attribute Improvement, Difficult Magics, Luminality |
 | 7th   | 2  |    +6    | Countersurge                                      |
 | 8th   | 2  |    +7    | Archmagi, Modify Strike                           |
 | 9th   | 3  |    +8    | Attribute Improvement                             |
@@ -38,12 +38,22 @@ You can attempt to call upon a greater power by devoting 5 rounds to pleading fo
 ### 3) Terrifying Power
 Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, everything within a number of yards equal to the spell's tier + the amount of spell sickness you gained this way must succeed [Will] save or become afraid of you and your magic for a number of rounds equal to the points of failure. Such a creature must use its turns to put distance between itself and you or otherwise premeptively establish some form of defense or cover against you. You may grant advantage on the save to a number of creature you can perceive up to your heroism bonus.
 
-### 4) Magi's Focus
-When you perform a spell check, you may spend 2 spell points to simply use your [Will] in place of rolling the d20. If you would have had advantage on the check, you roll 1d6 and add the result. If you would have had disadvantage, you roll 1d6 and subtract it.
+### 4) Creeping Power
+Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, you may up to a number of yourds equal to the spell sickness you receive this way towards the target or area of the spell. You must move closer to the target/are this way. If the spell has an area, you may move to a point within it so long as your movement this way is enough to get there.
 
-### 4) Resist Wands
-When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
+### 4) Mystic Defense
+When a magical attack from a spell you know would target you, you may impose disadvantage against that attack. You must rest before doing so again.
 
+### 6) Luminality
+When you cast a spell that affects a number of creatures or objects, you may use your reaction to take on at least 2 points of spell sickness. If you do, choose one of the following:  
+* You *may have those creatures/objects emit light like a torch*.
+* You *may have the light within 5 yards of that creature reduced by one level*.
+
+This lasts for a number of minutes equal to the spell sickness gained this way divided by the number of creatures/objects affected. As long as a creature is affected this way, you know how many hitpoints it has.
+
+### 6) Difficult Magics
+You gain a 1d4 bonus to counterspell checks.
+{resume}
 ### 7) Counter Surge
 When you are attacked by another creature, if you are not casting a spell or using your concentration, you may use your reaction to perform an attack against that creature by spending 2 spell points. The attack will be of the same range and type. If their attack was successful, your attack gains a bonus equal to your [Will] bonus.
 
