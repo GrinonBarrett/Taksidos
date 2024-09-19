@@ -77,4 +77,13 @@ If you specialize as a mystic, you gain the following:
 You gain access to a pact magic method of spellcasting. If you took one of them as a result of the Pact feature and lost your ability to perform Wyrding, you may alternative regain the ability to perform wyrding. 
 
 #### Splash
-If you splash mystic as a member of another class, you gain the same benefits as amystic which specializes. Additionally, you choose an attribute. It is increased by 1.
+If you splash mystic as a member of another class, you gain the same benefits as a mystic which specializes. Additionally, you choose an attribute. It is increased by 1.
+
+-----
+
+#### Pacts
+
+##### Pact of Blood
+You have a means of casting spells by making an offering of blood. To do so, you must sacrifice a hitpoint. You then perform a spellcheck (as normal) with a DV of 4 times the spell's tier. You may also choose to take on a wound, choosing any wound which is not a Glancing Blow. If you do, you may either add 1d10 to your result or add 1d4 + the bonus from the attribute selected for your Magical Art feature.  
+The spell sickness you recieve from critically failing a spell is reduced to one, but you roll a number of wound rolls equal to the tier of the spell -1. Any valid result is a wound you receive. If the result is not vaild, simply ignore that roll.  
+ANytime you receive a wound, you get a +1 bonus to your next spell check within the next minute. This is cumulative with multiple wounds.
