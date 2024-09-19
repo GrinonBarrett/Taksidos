@@ -1,13 +1,5 @@
 For this update:
-* ~~Create Mystic class~~. *Need a couple of pacts. Will do a pseudo-vancian spell slot method, shadow magic which is artially real, and a spirit magic which can incapacitate the caster potentially*.
-* Finish combat test characters.
-* Update Octo test character to reflect dagger change.
-* Implement the multihand rewording suggested in the discord server.
-* Give Perdrine a crystal skull option.
 
-
------
-For next update:
 * Create Asterian as a playable species.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
