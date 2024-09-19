@@ -1,5 +1,5 @@
 ### SHIELDS
-Shields provide some passive benefit. They can also grant a bonus to defense when used to block.
+Shields provide some passive benefit. They can also grant a bonus to defense when used to block. If a creature has multiple shields and use the Block reaction, they may block with multiple shields, but each shield must block a different attack.
 
 ##### Shield Classification  
 Name, Cost, Weight  
