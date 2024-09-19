@@ -1,5 +1,5 @@
 ### Korsikhor
-Bearing the frame and coat of a horse, an elongated head and toothy beak, the mane of a lion, furred wings, and a thagomizer, these creatures are known to instill fear. The males have horns like a bull, the females have horns like a goat. A korsikhor usually makes the first move by swooping in and attacking a foe before it is ready. When overwhelmed or caught off guard, it will use its breath weapon and roar to give it an opening. They will not typically fight below 2 hitpoints. They are known to be less aggressive to those that travel with great amounts of gold visible.
+Bearing the frame and coat of a horse, an elongated head and toothy beak, the mane of a lion, furred wings, and a thagomizer, these creatures are known to instill fear. The males have horns like a bull, the females have horns like a goat. A korsikhor usually makes the first move by swooping in and attacking a foe before it is ready. When overwhelmed or caught off guard, it will use its breath weapon and roar to give it an opening. They will not typically fight below 2 hitpoints. They are known to be less aggressive to those that travel with great amounts of gold visible. Their collective noun is a Flight.
 
 **Creature Type**: Korsikhors are Bigenerae.
 

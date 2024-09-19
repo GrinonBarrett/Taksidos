@@ -9,7 +9,7 @@ Lurking in shadows or in plain sight, assassins bring their targets to a swift e
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Sneak Attack, Tactical Step                       |
 | 2nd   | 1  |    +2    | Weapon Familiarity, False Swipe                   |
-| 3rd   | 1  |    +3    | Attribute Improvement, Tumble                     |
+| 3rd   | 1  |    +3    | Attribute Improvement, Dire Dispose, Tumble          |
 | 4th   | 1  |    +4    | Fell Hand, Pinpoint Strike                        |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | Attribute Improvement, Culling Blow               |
@@ -31,6 +31,13 @@ You gain a level of training in a weapon of your choice and have specialization 
 ### 2) False Swipe
 Once per round, when you perform a Feint, if a creature within 2 yards performs a reaction in response to it, it does not count against your reaction for the round.  
 Additionally, when you perform a Feint against a creature, if it has fewer HP than your level, you know how many hitpoints it currently has.
+
+### 3) Dire Dispose
+If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If it was a melee attack, you may choose one of the following:
+* You gain advantage on this attack.
+* You may close the distance into a brawl, gaining advantage on either the [Body] or [Rflx] save.
+* You may slam the foe.
+* You may shove the foe.
 
 ### 3) Tumble
 You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
@@ -64,7 +71,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as an assassin, you gain the following features;  
 Your sneak attack bonus, if undetected, is increased to 1d6. 
 Once per encounter, when you affect a creature with your fell hand ability, you may choose to roll 3d6 or 1d20 instead of 1d12.  
-When you perform a sneak attack against a foe, you may grant yourself advantage on the attack. You must rest before to do so again.
+When you perform a sneak attack against a foe, you may grant yourself advantage on the attack. You must rest before you do so again.
 
 #### Splash
 If you splash assassin as a member of another class, you gain the assassin's sneak attack ability.

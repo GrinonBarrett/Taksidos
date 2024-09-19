@@ -46,6 +46,8 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Marine Breathing**: Merfolk are equally capable of breathing normal air and breathing in untainted bodies of water.
 
+**Merfolk Form**: Armor suitable for a merfolk must be fashioned for that form specifically. This does not increase cost or weight, thoubutgh most armor is made of materials unsuitbale for the aquatic environments that they occupy.
+
 **Advantaged**: You gain one Edge of your choice (see Rogue class).
 
 **Waterborne**: You are treated as proficient in Athletics while submerged. If you become proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  

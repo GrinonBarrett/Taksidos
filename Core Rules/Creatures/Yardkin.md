@@ -1,5 +1,5 @@
 ### Yardkin
-Grandfolk of the plains. The nomadic grandfolk known as yardkin are easy to get along with compared to other grandfolk. They reside either in small hamlets or in caravans that move between them. The caravans are known for bringing and bartering in exotic items. When yardkin fight, they favor tactics which hamper a foe and and negotiating for their release.
+Grandfolk of the plains. The nomadic grandfolk known as yardkin are easy to get along with compared to other grandfolk. They reside either in small hamlets or in caravans that move between them. The caravans are known for bringing and bartering in exotic items. When yardkin fight, they favor tactics which hamper a foe and and negotiating for their release. Their collective noun is a Clash.
 
 **Creature Type**: Yardkin are Humanoids.
 

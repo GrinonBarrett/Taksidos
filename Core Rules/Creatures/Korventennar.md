@@ -1,36 +1,36 @@
-### Bogkin
-Grandfolk of the swamps. In their home environment, they are known to be greedy, paranoid, and difficult to deal with. Outside of their home, they are known for their ambition and secrecy. The collective noun is a Clash.
+### Korventennar
+Giants who make their home in cloud cities. Many are primitive creatures but that does not mean one should underestimate them. The plural is Korventannain and their collective noun is a Clash.
 
-**Creature Type**: Bogkin are Humanoids.
+**Creature Type**: Korventennain are Humanoids.
 
-**Size**: Bogkin stand between 8' and 9'6" tall. They can weigh between 400-650 pounds. They are large creatures.
+**Size**: Korventennain stand between 9' and 10' tall. They can weigh between 400-600 pounds. They are large creatures.
 
-**Hitpoints**: Bogkin have 3 Hitpoints.
+**Hitpoints**: Korventennain have 6 Hitpoints.
 
 **Attributes**:  
-[Body] 20 (+6)  
+[Body] 21 (+7)  
 [Fort] 12 (+4)  
-[Rflx] 10 (+3)  
+[Rflx] 12 (+4)  
 [Will] 10 (+3)  
-[Inte] 11 (+3)  
-[Prcp] 13 (+4)  
+[Inte] 7 (+2)  
+[Prcp] 12 (+4)  
 [Empy] 9 (+3)  
 
-**Languages**: Bogkin speak Jotine and another language as appropriate to where they operate.
+**Languages**: Korventennain speak Jotine.
 
-**Run Speed**: It may run up to 6 yards per move.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Climb Speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: It may climb up to 3 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
 
-**Weapon Attacks**: The bogkin is capable of using weapons. It even has proficiency in two weapons (usually sling and club).
+**Weapon Attacks**: The korventennar is capable of using weapons. It even has proficiency in five weapons (usually club, sling, javelin, spear, and bow).
 
-**Defenses**: A bogkin can use armor and a shield.
+**Defenses**: A korventennar can use armor and a shield.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The bogkin may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
+ • Unarmed Strike: The korventennar may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
 
 ---------------------
 
@@ -70,19 +70,19 @@ Grandfolk of the swamps. In their home environment, they are known to be greedy,
 | Unlisted Weapons       | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 |                        |           |          |            |         |            |         |
 | Acid                   | 4 - 7     | 8 - 10   | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Biting                 | 3 - 6     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
-| Cold                   | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 11 - 13    | 14 - 17 |
+| Biting                 | 5 - 8     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
+| Cold                   | 7 - 10    | 11 - 13  | 13 - 15    | 15 - 17 | 14 - 16    | 16 - 19 |
 | Crushing               | 6 - 7     | 9 - 10   | 11 - 12    | 13 - 14 | 12 - 13    | 15 - 16 |
 | Cutting                | 4 - 7     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Electrical             | 5 - 8     | 9 - 11   | 10 - 12    | 12 - 14 | 11 - 13    | 14 - 17 |
-| Fire                   | 5 - 8     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
+| Electrical             | 7 - 10    | 11 - 13  | 13 - 15    | 15 - 17 | 14 - 16    | 16 - 19 |
+| Fire                   | 7 - 10    | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Force                  | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Ki                     | 6 - 9     | 8 - 10   | 10 - 12    | 11 - 13 | 12 - 14    | 14 - 17 |
-| Necrotic               | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
+| Necrotic               | 4 - 7     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
 | Piercing               | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Psychic                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Radiant                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
+| Sonic                  | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Toxic                  | 5 - 8     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 |                        |           |          |            |         |            |         |
 | Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
@@ -114,18 +114,25 @@ Grandfolk of the swamps. In their home environment, they are known to be greedy,
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
----------------------
+-----
 
 #### Variants
-Among the bogkin people, there are a few standouts. 
+Among the korventennain, there are a few standouts. 
 
-**Bogkin Bogriner**: Some say they are witches, others say they are diviners, and some claim them mediators of magical contracts. Bogriners are capable of performing magic. They typically know the following spells: _Animation_, _Intoxify_, _Rotward_, _Silent Alarm_, _Wretched Ray_, and two more spells. They are also proficient with clubs, daggers, slings, and staves.  
-Bogriners are more apt to do business with adventurers than most bogkin, but can be tricky to deal with.
+**Korventennar Mage**: Korventennar with the wyrding gift. They are capable of performing magic. They typically know the following spells: _Arc Lightning_, _Blast Lightning_, _Call Lightning_, _Frost Lance_, _Ice Breaker_, and two more spells. Its [Inte] is increased to 13, giving them a +4 bonus instead.
 
--------------
+**Korventennar Ruler**: Korventennar rulers lead their clash. The possess 10 [Inte], giving them a +3 bonus, and an [Empy] of 12 for a +4 bonus. They usually have speciailization in a weapon as well.
+
+-----
 
 #### Special Features
 
-**Show of Strength**: When the bogkin would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
+**Show of Strength**: When the korventennar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
-**Bogkin Resilience**: Bogkin double their attribute bonus on all [Fort] and [Inte] saves against magical effects.
+**Resist Wands**: Anytime the korventennar is attacked by a wand, it may use its reaction to impose disadvantage against the attack.
+
+**Unfreezing**: A korventennar cannot be frozen.
+
+**Storming Attacks**: Anytime the korventennar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *may treat it as a cold, electric, or sonic attack*.
+
+**Storm Fist**: As a reaction to successfully hitting a foe with an unarmed attack, the korventennar may also inflict an electric or cold attack against that foe.

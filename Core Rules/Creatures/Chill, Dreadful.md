@@ -1,5 +1,5 @@
 ### Dreadful Chill
-A much more ferocious manner of chill. The melavolent energies exuded from the creation of frozen spectres will transform a chill into the fiendish dreadful chill. Such a creature is often accompanied by 2-5 frozen spectres.
+A much more ferocious manner of chill. The melavolent energies exuded from the creation of frozen spectres will transform a chill into the fiendish dreadful chill. Such a creature is often accompanied by 2-5 frozen spectres. Their collective noun is a Shiver.
 
 **Creature Type**: Dreadful Chills are Fiends.
 

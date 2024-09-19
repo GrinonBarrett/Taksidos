@@ -16,17 +16,19 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 [Prcp] 8 (+2)  
 [Empy] 6 (+2)  
 
+**Languages**: The ergenekrai does not speak, but understands the invoker.
+
 **Run Speed**: It may run up to 5 yards per move.
 
 **Climb speed**: It may swim up to 1 yard per move, presuming it is reasonable terrain to do so.
 
 **Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
+**Weapon Training**: The ergenekrai has no training in weapons, but can use them with no penalty.
+
 **Unarmed Attacks**;
 
- • Smack: The ergenekrai may use a limb or random object against a foe within 1 foot. This is a melee unarmed attack.
-
- • Weapon: The ergenekrai is capable of using a weapon.
+ • Smack: The ergenekrai may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 

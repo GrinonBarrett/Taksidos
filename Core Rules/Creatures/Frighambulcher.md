@@ -1,5 +1,5 @@
 ### Frighambulcher
-They appear as hairy mounds that scoot along the forest floor. When they attack prey or are frightened, they reveal their maw- which can open up to match their entirety. They do not attack other hairy creatures, likely a mechanism to prevent them from cannibalizing each other.
+They appear as hairy mounds that scoot along the forest floor. When they attack prey or are frightened, they reveal their maw- which can open up to match their entirety. They do not attack other hairy creatures, likely a mechanism to prevent them from cannibalizing each other. Their collective noun is a Crawl.
 
 **Creature Type**: Frighambulchers are Sylvan creatures.
 

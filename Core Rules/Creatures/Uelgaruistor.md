@@ -1,5 +1,5 @@
 ### Uelgaruistor
-This creature is covered in proto-feathers. Instead of traditional talons, it has 8 small webbed claws which tuck into the body, the fluff of which helps smooth out the body shape. The spikes of its thagomizer relax into the tail's sillhouette. Their necks sport unique color patterns for identification. These feathers get ruffled when startled or when trying to intimidate.
+This creature is covered in proto-feathers. Instead of traditional talons, it has 8 small webbed claws which tuck into the body, the fluff of which helps smooth out the body shape. The spikes of its thagomizer relax into the tail's sillhouette. Their necks sport unique color patterns for identification. These feathers get ruffled when startled or when trying to intimidate. Their collective noun is a Flock.
 
 **Creature Type**: Uelgaruistor are Avian creatures.
 

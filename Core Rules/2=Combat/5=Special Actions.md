@@ -1,6 +1,10 @@
 ## SPECIAL ACTIONS
 The following special abilities may be used by any combatant unless otherwise noted. Some may be used as action, some as reactions, and some as either.
 
+#### About Face
+Action  
+You rotate up to 180 degrees. If you received a wound, you may about face as a reaction.
+
 #### Aim  
 Action  
 You choose a creature (or object) within range. If your next attack before the end of the next round is made against it, you gain advantage on that attack.

@@ -9,13 +9,13 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Buffoonery, Jesting, On-On, Tickle                |
 | 2nd   | 2  |    +2    | Flashback, Journeyman                             |
-| 3rd   | 2  |    +3    | Attribute Improvement, Jack of All Trades, Jape   |
+| 3rd   | 2  |    +3    | Jack of All Trades, Jape, Jugglier                |
 | 4th   | 2  |    +4    | Distraction, Shenanigans                          |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 3  |    +5    | Attribute Improvement, Hasty                      |
+| 6th   | 3  |    +5    | Hasty, Jugglist                                   |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
-| 8th   | 3  |    +7    | Ungovernable                                      |
-| 9th   | 4  |    +8    | Attribute Improvement                             |
+| 8th   | 3  |    +7    | Attribute Improvement, Ungovernable               |
+| 9th   | 4  |    +8    | Encore, Outrageous                       |
 | 10th  | 4  |    +8    | Splash or Specialize                              |
 
 
@@ -47,6 +47,13 @@ Anytime you perform a check involving a skill with which you are not proficient,
 As an action, you may express some witty retort or one-liner targeted at a creature which can hear you. It must succeed a [Will] save with a DV equal to your level + heroism  + an attribute bonus which the narrator deems appropriate to the particular jape or have its attention focused on a subject you dictate as appropriate to the jape. If it is a critical failure, it is also dazed until end of round. You are vulnerable until the end of the round. You may expend buffonery to do this as a reaction.  
 Mindless creatures are immune to this and any creature which does not understand the spoken language gets advantage on its save.
 
+### 3) Jugglier
+You gain training in one of the following weapons (thrown blades, brusgiata, chakram). You gain a +1 bonus to attacks rolls, checks, and saves involving hurlings.  
+Choose an exotic damage type. Anytime an attack of that type would be inflicted against you and fail, you may use your reaction or expend buffoonery to harmlessly roll it into a palm shaped sphere you can juggle. This sphere lasts for 1 minute. You may use it to inflict a melee attack of the same type within your unarmed range or throw it up to a number of yards equal to the greatest of either your [Body] or [Rflx] score + level, with the optimal range being a number of yards equal to your level.   
+If an attack rolled into a sphere would have inflicted another effect other than wounding, it will apply that effect.  
+You must maintain some movement to keep juggling the items, requiring you forfeit an action during an action phase, a movement, or your reaction each round.  
+You may only juggle a number of spheres equal to 1+ your heroism.
+
 ### 4) Distraction
 When a creature which you can perceive, and which can perceive you, attempts to perform a skill check- you may expend buffonery to impose a d4 penalty to that check as an action or reaction. You may do so as many times as you wish to a single check.
 
@@ -56,6 +63,10 @@ You may expend buffonery to perform some special ability. You may use any shenan
 ### 6) Hasty
 You add your level to your initiative roll.
 
+### 6) Jugglist
+You can now juggle incoming thrown blades, chakram, and brusgiata with your juggling. It does not convert them into a sphere, but they can be hurled in the same manner as one of your spheres if thrown within a minute while being juggled.  
+If you have warrior mastery with any weapons, you can apply it to your jugglier sphere. You cannot apply an inappropriate warrior mastery to a weapon this way. 
+
 ### 7) Shennanigannery
 You may perform a shenanigan without expending buffonery. You must rest before doing so again.  
 
@@ -64,6 +75,12 @@ Anytime you perform a shenannigan, you may increase or reduce the spell-sickness
 
 ### 8) Ungovernable
 When you perform a save, you may expend buffoonery to gain a bonus equal to your heroism.
+
+### 9) Encore
+When you perform a reaction, you may expend buffoonery to be braced for the same type of reaction.
+
+### 9) Outrageous
+Anytime a creature's attack, check, or save is a success but not a critical success- you may use your reaction to expend buffonery to change that result to either a critical success or critical failure. You and that creature must be able to perceive each other for this to work.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -117,7 +134,7 @@ You gain a language of your choice, training in a weapon of your choice, the She
  
 **• Smithy**: You cobble together some makeshift armor which functions for a number of minutes equal to your level. You need a number of pounds of material equal to 40 minus your [Inte] score + your heroism. At least one-third of this needs to be metal. Treat as cuirass, but attacks have advantage against one wearing it. This requires 1d4+6 rounds to put together.
    
-**• Spellcraft**: You attempt to counterspell a spell being cast which you do not recognize. This function as a normal counterspell-check.
+**• Spellcraft**: You attempt to counterspell a spell being cast which you do not recognize. This functions as a normal counterspell-check.
  
 **• Survival**: Perform a survival check. Divide the points of success by 5. This is how many portions of food or liquid you produce (of a nature determined by the narrator). You must explain why you had it and may or may not want to explain where you hid it. The narrator may change the exact nature of such items afterwards.
 

@@ -1,5 +1,5 @@
 ### Mantispidon
-Oversized relatives of the mantids, mantispidons are an ecological pest in most civilized areas. They prey on insects and other vermin, but can also ruin crops. They possess a bipedal form, wings, and two raptoral strikers with which to strike prey. They are comonly preyed upon by larger creatures such as alashanasaurus, often driving them into agricultural settlements.
+Oversized relatives of the mantids, mantispidons are an ecological pest in most civilized areas. They prey on insects and other vermin, but can also ruin crops. They possess a bipedal form, wings, and two raptoral strikers with which to strike prey. They are comonly preyed upon by larger creatures such as alashanasaurus, often driving them into agricultural settlements. Their collective noun is a Brood.
 
 **Creature Type**: Mantispodons are Insects.
 

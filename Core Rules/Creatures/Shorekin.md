@@ -1,5 +1,5 @@
 ### Shorekin
-Grandfolk of the islands. Though their society is remote, their members are quite inquisitive and they have several centers of study within their own society. They can be abraisive in terms of personality. They prefer trickery and mentally debilitating effects to secure victory in battle, but can enjoy a good escape plan.
+Grandfolk of the islands. Though their society is remote, their members are quite inquisitive and they have several centers of study within their own society. They can be abraisive in terms of personality. They prefer trickery and mentally debilitating effects to secure victory in battle, but can enjoy a good escape plan. Their collective noun is a CLash.
 
 **Creature Type**: Shorekin are Humanoids.
 

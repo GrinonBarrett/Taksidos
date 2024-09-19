@@ -1,5 +1,5 @@
 ### Kentrosaurus
-An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found in the furthest reaches of the wilds. Kentrosaurs move in loose herds and will attempt to charge aggressors from multiple directions, pummeling them down to use their spikes. They will retreat if possible when brought down to 2 or fewer hitpoints.
+An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found in the furthest reaches of the wilds. Kentrosaurs move in loose herds and will attempt to charge aggressors from multiple directions, pummeling them down to use their spikes. They will retreat if possible when brought down to 2 or fewer hitpoints. Their collective noun is a Herd.
 
 **Creature Type**: Kentrosaurs are Beasts.
 

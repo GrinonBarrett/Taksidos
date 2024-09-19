@@ -1,5 +1,5 @@
 ### Inhaubulcher
-An amphibian, torn from the sea. They appear to be covered in turgid ticks crawling all over. From their mouth drools an oily substance, popular for use as flammable fluid. These creatures prefer to be far from any other living thing.
+An amphibian, torn from the sea. They appear to be covered in turgid ticks crawling all over. From their mouth drools an oily substance, popular for use as flammable fluid. These creatures prefer to be far from any other living thing. Their collective noun is a Surf.
 
 **Creature Type**: Inhaubulchers are Sylvan creatures.
 

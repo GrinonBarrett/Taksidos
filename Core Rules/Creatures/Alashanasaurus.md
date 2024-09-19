@@ -1,5 +1,5 @@
 ### Alashanasaurus
-Also called shaochilong, these predators have managed to find a home in Emeria. Though they operate in families of a mating pair or two and their young, adults tend to act as solitary hunters.
+Also called shaochilong, these predators have managed to find a home in Emeria. Though they operate in families of a mating pair or two and their young, adults tend to act as solitary hunters. Their collective noun is a family.
 
 **Creature Type**: Alashanasaurus are Beasts.
 
