@@ -1,6 +1,6 @@
 For this update:
 * Create Asterian as a playable species.
-* Create Mystic class.
+* ~~Create Mystic class~~. *Need a couple of pacts. Will do a pseudo-vancian spell slot method, shadow magic which is artially real, and a spirit magic which can incapacitate the caster potentially*.
 * Create ~~6~~ 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Finish combat test characters.
@@ -80,4 +80,3 @@ Possible traditional fantasy races to add:
 * Alderolves (singular is alderalv). A dark elf that lingers in the woods. Their woodland domain is a gateway to a dark bog-forest world. May simply make this a creature instead.  
 * Hulderveis (Singular Huldralf). A type of elf, the nymph-like beautiful and graceful sort.  
 * Nissen (singular Nisser). Fricken Gnomes.
-* Thursain (singular Thursar).  Giants which cause plague. Probably should be a creature instead.
