@@ -1,5 +1,4 @@
 For this update:
-* Create Asterian as a playable species.
 * ~~Create Mystic class~~. *Need a couple of pacts. Will do a pseudo-vancian spell slot method, shadow magic which is artially real, and a spirit magic which can incapacitate the caster potentially*.
 * Finish combat test characters.
 * Update Octo test character to reflect dagger change.
@@ -9,6 +8,7 @@ For this update:
 
 -----
 For next update:
+* Create Asterian as a playable species.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Create a minotaur-esque legendary creature. He is undead. In a past life, he was a monstrous creature with a taste for human flesh. He now presides over his own new labyrynth where a god-like entity likes to send those that defile or make mockery of oferrings to the gods so he may chase them to exhaustion and eat them in a never ending cycle.
