@@ -25,4 +25,4 @@ Requires 11 or greater [Body] to use.
 +0  
 Intended to provide as much cover from missiles as possible while also being practical in a melee, the tower shield is famously used in formation where its cover can be maximized.  
 Requires 13 or greater [Body] to use. Does not provide a set bonus when blocking, instead it provides cover. If the shield is used to block for someone that does not have cover, it provides half cover. If they already have cover, it instead provides an additional one-quarter cover.  
-WHen used to block for yourself, it is always treated as giving you an additional quarter of coverage.
+When used to block for yourself, it is always treated as giving you an additional quarter of coverage.
