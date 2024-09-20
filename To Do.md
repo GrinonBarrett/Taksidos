@@ -66,11 +66,11 @@ Classes, Done:
 Non-Canon Classes, Done:  
 **I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
+**M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
 
 ###### Non-Canon classes are intended to be fully fleshed out and balanced classes, but many will not want them in their campaigns.
 
 Possible classes to do:  
-**M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)  
 Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
 
