@@ -72,11 +72,11 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 
 **Casting Time**: 1 reaction, which you take in response to moving
 
-**Range**: 1 yard
+**Range**: 10 yards
 
 **Effect**: You instantly disappear. After 1d12 rounds, you move to a point in range of your choosing.
 
-**At Higher Tiers**: When cast beyond minimum tier, the range is increased by 1 yard for each tier beyond minimum.
+**At Higher Tiers**: When cast beyond minimum tier, the range is increased by 3 yards for each tier beyond minimum.
 
 **Critical Failure**: You appear in the opposite direction intended and are prone.
 
