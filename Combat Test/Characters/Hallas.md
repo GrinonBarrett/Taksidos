@@ -4,7 +4,7 @@ Once a street urchin with an uncommon talent for magical devices, he has managed
 -----
 
 ## LEVEL 0
-This represents Grisham before becoming a professional soldier.
+This represents Hallas as a young orphan.
 
 **Creature Type**: He is a humanoid.
 
