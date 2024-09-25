@@ -10,7 +10,7 @@ This represents Grisham before becoming a professional soldier.
 
 **Size**: He stands 5'10 and weighs 167 pounds. He is a medium creatures.
 
-**Hitpoints**: He has 1 hitpoint.
+**Hitpoints**: He has o hitpoints.
 
 **Attributes**:  
 [Body] 9  (+3)  
