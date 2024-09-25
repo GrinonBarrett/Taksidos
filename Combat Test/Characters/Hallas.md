@@ -13,15 +13,15 @@ This represents Grisham before becoming a professional soldier.
 **Hitpoints**: He has 1 hitpoint.
 
 **Attributes**:  
-[Body] 12 (+4)  
+[Body] 9  (+3)  
 [Fort] 10 (+3)  
-[Rflx] 11 (+3)  
-[Will] 10 (+3)  
-[Inte] 10 (+3)  
+[Rflx] 10 (+3)  
+[Will] 13 (+4)  
+[Inte] 11 (+3)  
 [Prcp] 10 (+3)  
 [Empy] 9  (+3)  
 
-**Languages**: He speaks Emerian and Lazine.
+**Languages**: He speaks Lazine and Common.
 
 **Run Speed**: He may run up to 5 yards per move.
 
@@ -43,6 +43,8 @@ Handaxe
 Buckler
 
 **Inventory**:
+Wand of Cold Ray (Use [Will])
+
 
 
 ---------------------
@@ -130,9 +132,9 @@ Buckler
 
 ---------------------
 
-**Skills**: He is competent in Athletics, Lore, Riding, and Wrestling skills.
+**Skills**: He is competent in Athletics, Burglery, Cooking, and Wrestling skills.
 
-**Advantaged**: Grisam has the Swole edge, which grants him his singular hitpoint.
+**Advantaged**: Hallas has the Jammy edge. When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must comple a long or full rest before doing so again.
 
 **Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
 
