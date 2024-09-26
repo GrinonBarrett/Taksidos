@@ -26,7 +26,7 @@ When you perform an attack against a foe within 15 yards, if it is concentrating
 Once per round, you may move 1 yard on land. This does not count as an action and does not count against your movement.
 
 ### 2) Weapon Familiarity
-You gain a level of training in a weapon of your choice and have specialization in a weapon of your choice.
+You gain a level of training in a weapon of your choice and have specialization in another weapon of your choice.
 
 ### 2) False Swipe
 Once per round, when you perform a Feint, if a creature within 2 yards performs a reaction in response to it, it does not count against your reaction for the round.  
