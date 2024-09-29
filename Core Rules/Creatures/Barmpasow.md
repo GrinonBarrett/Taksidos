@@ -1,23 +1,23 @@
 ### Barmpasow
-These creatures resemble massive scorpions with a few notable changes. Their collective noun is a Flight.
+These creatures resemble massive scorpions with a few notable changes. Their carapace is supplemented with additional scales that grow ovee. Their pincers are instead talons, much like an eagle. They have a proper tail, which ends in a barbed st8nger shrouded in a hairy mane. Their coloration varies by diet and environment. They are typically solitary hunters except during the mating season, which occurs during the rainiest season of every 2 or 3 years. Their collective noun is a Sowe.
 
-**Creature Type**: Korsikhors are Bigenerae.
+**Creature Type**: Barmpasow are Insects.
 
-**Size**: Korsikors tend to be about 8'-8'3" in length, with an additional yard for their tail. They weigh between 375-500 pounds. They are large creatures.
+**Size**: Barmpasow tend to be about 10'-12' in length, with an additional 2-3 yards for their tail. They weigh between 300-440 pounds. They are large? creatures.
 
-**Hitpoints**: A korsikhor has 4 hitpoints.
+**Hitpoints**: A barmpasow has 3 hitpoints.
 
 **Attributes**:  
-[Body] 12 (+4)  
-[Fort] 10 (+3)  
+[Body] 15 (+5)  
+[Fort] 16 (+5)  
 [Rflx] 18 (+6)  
 [Will] 9 (+3)  
-[Inte] 9 (+3)  
-[Prcp] 12 (+4)  
-[Empy] 8 (+2)  
+[Inte] 7 (+2)  
+[Prcp] 13 (+4)  
+[Empy] 6 (+2)  
 
-**Languages**: Korsikhors have been observed developing their own “dialect” using sounds made by other creatures and common phonemes in languages spoken around them, but do not speak an actual language.
-
+**Languages**: Barmpasow do not speak.
+{Resume}
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
