@@ -47,7 +47,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 
  • Claws: The barmpasow may use its claw to strike a foe within 2 yards. This is a melee cutting attack.
 
- • Stinger: The barmpasow may us its tail against any creature behind or to its sides within 3 yards. This is treated as a melee piercing attack.
+ • Stinger: The barmpasow may use its tail against any creature behind or to its sides within 3 yards. This is treated as a melee piercing attack.
 
 -----
 {Need to redo the attack table later}
