@@ -17,7 +17,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 [Empy] 6 (+2)  
 
 **Languages**: Barmpasow do not speak.
-{Resume}
+{Fix reaction table later. Lean towards hunger and hostility}
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
@@ -35,22 +35,22 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 
 -----
 
-**Run Speed**: It may run up to 6.5 yards per move.
+**Run Speed**: It may run up to 8 yards per move.
 
-**Swim speed**: You may swim up to 1 yard per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
 
-**Flying SPeed**: If it is not prone, it may fly up to 9.5 yards per move. If must fly at least 6 yards per round to remain airborne.
+**Climb Speed**: It may climb up to 5 yards per round, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Slam: The korsikhor may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Slam: The barmpasow may use any part of its body to strike a foe within 2 yards. This is a melee bare attack.
 
- • Claws: The korsikhor may use its claw to strike a foe within 1 yard. This is a melee cutting attack.
+ • Claws: The barmpasow may use its claw to strike a foe within 2 yards. This is a melee cutting attack.
 
- • Thagomizer: The korsikhor may us its tail against any creature behind or to its sides within 1.5 yards. This is treated as a melee piercing attack.
+ • Stinger: The barmpasow may us its tail against any creature behind or to its sides within 3 yards. This is treated as a melee piercing attack.
 
 -----
-
+{Need to redo the attack table later}
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
@@ -72,7 +72,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 | **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
-
+{Need to redo the wound table later}
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
@@ -100,9 +100,8 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 
 -----
 
-**Breath Weapon**: Korsikhors are capable of exhaling a line of caustic mist, as an action. The line is 15 yards in length and is a foot high and wide. Anything caught within the line suffers an Acid attack. Once the korsikhor has used this ability, it cannot do so again until it rests.
-Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to half of its usual length as it sweeps its head side to side.
+**Startling Speed**: Once per encounter, as an action or reaction, the barmpasow may perform a movement.
 
-**Roar**: The korsikhor looses a terrifying roar. All creatures within 15 yards must succeed a [Will] save with a DV of 11 or be frightened. A creature frightened this way must spend all of its movement points attempting to flee the korsikhor. All skill checks made by an affected creature have a -2 penalty. It may make a new save each round as an action to snap itself out of the fright, so long as it does not perceive the koriskhor.
+**Stinger Venom**: Anything struck by the barmpasow's stinger is also subject to a toxic attack as a result of the venom. If the toxic attack is successful, the struck creature must also succed a [Fort] save with a DV equal to the attack's total or find themselves slightly parlyzed by the venom. They become prone and have their movement halved while affected by it. At the end of every round, they make a new [Fort] save with a DV of 20 minus the number of rounds they have been affected to shake off the effects.
 
-**Magic Sense**: The korsikhor is capable of detecting any source of magic within 10 yards, or 5 if it is behind sufficient enclosure. Additionally, as an action, it may attempt to detect magic out a number of yards equal to double its [Prcp] score.
+**Color Pattern**: The barmpasow gets a +4 visually based bonus to its stealth in its home environment.
