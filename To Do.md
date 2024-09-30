@@ -4,7 +4,7 @@ For this update:
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Create a minotaur-esque legendary creature. He is undead. In a past life, he was a monstrous creature with a taste for human flesh. He now presides over his own new labyrynth where a god-like entity likes to send those that defile or make mockery of oferrings to the gods so he may chase them to exhaustion and eat them in a never ending cycle.
-* Recreate the old Barmpasow creature for this system.
+* Recreate the old Barmpasow creature for this system. *Just need to fix tables now*
 * Recreate the old Mountain Devil (dracnoic burrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
