@@ -675,7 +675,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Minimum Tier**: 1
 
-**Casting Time**: 1 reaction, which you take in response to a spell producing a ray or the ranged attack of a wand or staff
+**Casting Time**: 1 reaction, which you take in response to a spell producing a ray or the ranged attack of a wand or staff within range
 
 **Range**: 5 Yards
 
@@ -697,7 +697,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards.
 
-**Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of round equal to the points of failure or until an ally spends an action helping you come to your senses.
+**Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
 ### S (6
 
@@ -711,7 +711,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Effect**: You magically mark a set point, up to 1 square foot, or a single portal (such as a door, window, or the opening of a container) you touch to alert you psychically if disturbed. In the case of a specific point, it is disturbed if something comes in contact with it. In the case of a portal, it is disturbed if opened or closed. Alternatively, you may have the spell psychically connected to an arcane device instead of yourself.
 
-Once disturbed, if you are within the alarm's range, you will be alerted to the intrusion.
+Once disturbed, if you are within the alarm's range, you will be alerted to the intrusion (or the possessor of the arcane device).
 
 This spell last a day.
 
@@ -858,13 +858,13 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 **Casting Time**: 1 action or reaction
 
-**Range**: 1 foot
+**Range**: 5 yard.
 
 **Effect**: Instantly move to an unoccupied point of space within range. If you would still be in range of an attack made against you, you are still subject to the attack.
 
-**At Higher Tiers**: Each tier beyond minimum sees the range increase by 1 foot.
+**At Higher Tiers**: Each tier beyond minimum sees the range increase by 2 yards or allow you to tranpsort one additional willing creature you are touching.
 
-**Critical Failure**: You fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
+**Critical Failure**: You manage to get galfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
 
 #### Wretched Ray
 
