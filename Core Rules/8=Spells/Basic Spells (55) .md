@@ -282,7 +282,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Casting Time**: 2 actions
 
-**Effect**: You overload a wand in your possesion, casuing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
+**Effect**: You overload a wand in your possesion, causing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
 
 If the spellcheck was a critical success, you may gain a bonus to one of the attacks equal to the points of success for the purpose of determining if the attack is a critical hit.
 
@@ -342,7 +342,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **At Higher Tiers**: Each tier beyond minimum increases range by 2 yards and the sphere's size by 1 yard.
 
-**Critical Failure**: The sphere originates just beneath you, propelling your upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
+**Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
 ### F (5
 
@@ -354,7 +354,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Range**: 10 yards
 
-**Effect**: Target performs a [Prcp] save or becomes dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
+**Effect**: Target must succeed a [Prcp] save or become dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
 Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives to be equal to the spell's tier.
