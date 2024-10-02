@@ -714,7 +714,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (6
+### S (7
 
 #### Silent Alarm
 
@@ -793,6 +793,20 @@ The globe can stop at the directed point and hover in place. While active this w
 **At Higher Tiers**: Each tier beyond its minimum can either increase the range of the sphere's journey by 25 yards.
 
 **Critical Failure**: The sphere doesn't stablize as it forms, causing it to detonate in your grasp. The attacks from the spell gain a bonus against you equal to the spell's tier. Additionally, anything within range must succeed a DV 18 [Prcp] or [Rflx] save or be blinded for a number of minutes equal to the points of failure. You are instead blinded for a number of hours equal to the points of failure. Even if you succeed your save, you will be blind for a number of minutes equal to the spell's tier.
+
+#### Sunshower
+
+**Minimum Tier**: 2
+
+**Casting Time**: 15 actions
+
+**Effect**: You cause an unnatural form of rain to occur. It is just heavy enough to soak things and put out non-magical fires, but not enough to create any particular kind of storm or cloud. The area affected by stretch out up to a mile from the caster, or be as fine as a 1 yard circle adjacent to them. The water disappears almost as quickly as it appears, lasting a minute per spell tier. Attempts at collecting this water can only yield a single serving per spell tier.  
+In addition, counterspell checks made within the area of this rain suffer a penalty equal to this spell's tier.
+Cannot be cast at night.
+
+**At Higher Tiers**: These benefits are noted above.
+
+**Critical Failure**: You receive 1d4 points of spell sickness as things don't quite seem right. This die is icreased by one step for each tier beyond minimum it was cast, if applicable.
 
 #### Swift Bolt
 
