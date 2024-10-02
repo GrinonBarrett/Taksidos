@@ -913,7 +913,7 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 ### X
 
-### Y (1
+### Y (2
 
 #### Yellow Mark
 
@@ -929,9 +929,23 @@ This cannot affect Eldritch, Ephemera, Fiends, or Undead.
 
 If you know this spell, you can indentify marks made with it- even if you do not understand the meaning of the exact sigils formed by it.
 
-**At Higher Tiers**: Each tier beyond provides benefits as noted above.
+**At Higher Tiers**: Each tier beyond minimum provides benefits as noted above.
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
+
+#### Ygroapothy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 actions
+
+**Duration**: 1 hour
+
+**Effect**: A creature you touch becomes enchanted in such a way that it treats clouds, and thick vapourous substances (like a harsh fog or smoke) as a solid object. this cause it to be able to stand atop such a material and potential form it, but also causes it to function like a barrier to it. The narrator determines if a substance is considered as hard as wood, stone, or metal to them- but clouds are functionally as stone to the subject.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
+
+**Critical Failure**: You {resume}
 
 ### Z (2
 
