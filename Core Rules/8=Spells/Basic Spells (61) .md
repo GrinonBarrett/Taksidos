@@ -637,7 +637,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 ### O
 
-### P (2
+### P (3
 
 #### Phasic Wave
 
@@ -666,6 +666,21 @@ A creature may make a [Fort] save to avoid this if they wish.
 **At Higher Tiers**: If cast as second tier or beyond, you may lock/unlock any number of barres to the door. The spell can undo a magical lock of a spell whose tier is half or less of this spell's. Each tier beyond 1st also doubles the range of the spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier.
+
+#### Psychoburst
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 5 yards
+
+**Effect**: You produce an unstable portal connected to the psychic energy of a non-mindless creature within range. This inflicts a psychic attack against the target that does not wound them (though the effects of a critical hit still occur). Instead, an explosion of psychic energy which extends out a number of yards equal to the spell's tier, inflicting a psychic attack against anything in the explosion other than your target. The attacks gain a bonus equal to the target's [Inte] bonus divided by the number of creatures in the explosion radius other than the target. Attacks from the explosion have disadvantage against mindless creatures unless they are connected to the psychic plane.  
+Regardless of the spell's effect, if it is cast successfully, the caster knows the arget's exact [Inte] score.
+
+**At Higher Tiers**: FOr each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
+
+**Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic conncetion. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
 
 ### Q
 
