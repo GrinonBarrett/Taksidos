@@ -809,9 +809,26 @@ The globe can stop at the directed point and hover in place. While active this w
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
 
-### U
+### U (1
 
-### V 
+#### Unrest for Undeath
+
+**Minimum Tier**: 3
+
+**Casting Time**: 6 actions
+
+**Range**: 3 yards
+
+**Effect**: From you emits a circle of energy which distrubs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, raadiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
+Any undead creature first affected by the circle of the spell is subject to an undamaging attack. If it is a critical sucess, the creature is destroyed.
+
+You may concentrate on this spell when you cast it, forfeiting actions, reactions, and movement to do so. If you do, at the end of each action phase, the effects of the ciricle are applied again. Furthermore, you may use your reaction to inflict an additional attack against an undead or ephermal creature of a type not chosen from the options of the circle without breaking your concentration on the spell. Note that a creature is only affected by the undamaging attack the first time the casting of the spell affects it.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 1.5 yards.
+
+**Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
+
+### V
 
 ### W (4
 
