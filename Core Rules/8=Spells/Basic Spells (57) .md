@@ -828,7 +828,21 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V
+### V (1
+
+#### Volt Switch
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 2 yards
+
+**Effect**: You perform an electrical attack against a creature within range. If successful, you may switch turn order chits with that creature, as though you both agreed to a tag. You may choose not to wound a creature affected by this spell. If you do, it still applies the effect of a critical hit.
+
+**At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards.
+
+**Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
 ### W (4
 
