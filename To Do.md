@@ -12,6 +12,7 @@ For this update:
 * Create dough type monster.
 * Create the Wellarch, a well spirit.
 * Create the Jeep,a generic Ooze creature whose material can be used for alchemic materials.
+* Create the Skogsrå creature.
 * Create the Wekowyrd,an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a proper Terrasque, but still make it a deadly melee creature which is difficult to deal with by magic. Will have a softspot for non-combatants.
 * Make some Kaiju type monsters.
