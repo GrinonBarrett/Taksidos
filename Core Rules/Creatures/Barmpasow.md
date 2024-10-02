@@ -3,7 +3,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 
 **Creature Type**: Barmpasow are Insects.
 
-**Size**: Barmpasow tend to be about 10'-12' in length, with an additional 2-3 yards for their tail. They weigh between 300-440 pounds. They are large? creatures.
+**Size**: Barmpasow tend to be about 10'-12' in length, with an additional 2-3 yards for their tail. They weigh between 300-440 pounds. They are large creatures.
 
 **Hitpoints**: A barmpasow has 3 hitpoints.
 
