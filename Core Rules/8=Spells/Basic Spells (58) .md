@@ -945,7 +945,7 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
 
-**Critical Failure**: You {resume}
+**Critical Failure**: You have managed to reeally mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and your are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
 ### Z (2
 
