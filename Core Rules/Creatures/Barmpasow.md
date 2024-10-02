@@ -17,20 +17,19 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 [Empy] 6 (+2)  
 
 **Languages**: Barmpasow do not speak.
-{Fix reaction table later. Lean towards hunger and hostility}
+
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-3  | Curiosity (1) | The korsikhor is exploring the area. |
-|   4-6  | Amicability (1)  | The korsikhor is going about its business. |
-|   7    | Curiosity (2)   | The koriskhor is exploring the area. |
-|   8    | Fear (1)      | Something has startled the Korsikhor? |
-|  9-11  | Hostility (1) | It is keeping an eye on the adventurers. |
-|  12-14 | Hostility (2) | It seems a bit territorial. |
-|   15   | Hostility (3) | It is defending its territory. |
-|  16-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|    19  | Hunger (2)    | It would be willing to take a bruise for a meal. |
+|    1   | Curiosity (1) | The barmpasow is exploring the area. |
+|   2-4  | Curiosity (2) | The barmpasow is exploring the area. |
+|    5   | Curiosity (3) | The barmpasow is stalking the party until they leave its territory or it gets hungry. |
+|   6-7  | Hostility (1) | It is keeping an eye on the adventurers. |
+|   8-10 | Hostility (2) | It seems a bit territorial. |
+|  11-16 | Hostility (3) | It is defending its territory. |
+|   17   | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|  18-19 | Hunger (2)    | It would be willing to take a bruise for a meal. |
 |   20   | Hunger (3)    | It will attack and eat you in the middle of combat. |
 
 -----
@@ -50,29 +49,29 @@ These creatures resemble massive scorpions with a few notable changes. Their car
  • Stinger: The barmpasow may use its tail against any creature behind or to its sides within 3 yards. This is treated as a melee piercing attack.
 
 -----
-{Need to redo the attack table later}
+
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
-| **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Bare** |   20  |
+| **Club**                   | 16     | **Pole Axe**      | 10     | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 11     | **Greatsword**    | 10     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 11     | **Maul**          | 1    | **Bolt** | 11    |
+| **Spear**                  | 11     | **Pike**          | 9     | **Brusgiata** | 14     |
+| **Hand Axe**               | 11     | **Madu**          | 13    | **Chakram** | 14    |
+| **Katar**                  | 12     | **Javelin**       | 12    | **Arquebus** | 10    |
+| **Dagger**                 | 11     | **Throwing Blade** | 16   | **Musket** |  9    |
+| **Morningstar**            | 11     | **Sling**         | 16    | **Tronutonante** | 12    |
+| **Warpick**                | 11     |              |            |  **Bare** |   19  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
-| **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
-| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 13     |
-| **Cutting**                | 12     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
+| **Acid**                   | 10     | **Fire**          | 10     | **Psychic** | 12     |
+| **Cold**                   | 12     | **Force**         | 11     | **Toxic**  | 14     |
+| **Crushing**               | 12     | **Ki**            | 14     | **Radiant** | 12     |
+| **Cutting**                | 11     | **Necrotic**      | 12     | **Sonic** | 12    |
+| **Electrical**             | 11     | **Piercing**      | 10     | **Biting** | 12    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
-{Need to redo the wound table later}
+| **Unlisted Damage Type**   | 11     |              |             | **Undamaging** | 12 |
+
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
@@ -81,10 +80,10 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
-|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
+|   6    | Glancing Blow     | No ill effect. |
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Clipped WIngs     | Until this wound is healed, it cannot fly.     |
-|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   8    | Winded      | Until this wound is healed, it cannot use its stinger.     |
+|   9    | Muscle Damage     |  It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   10   | Glancing Blow     | No ill effect. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
@@ -93,7 +92,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Tail Shot         | Until this wound is healed, it cannot use its thagomizer. |
+|   18   | Tail Shot         | Until this wound is healed, it cannot use its stinger. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
