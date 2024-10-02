@@ -3,7 +3,6 @@ For this update:
 * Create Asterian as a playable species.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
-* Recreate the old Barmpasow creature for this system. *Just need to fix tables now*
 * Recreate the old Mountain Devil (dracnoic burrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
@@ -12,7 +11,6 @@ For this update:
 * Create dough type monster.
 * Create the Wellarch, a well spirit.
 * Create the Jeep,a generic Ooze creature whose material can be used for alchemic materials.
-* Create the Skogsrå creature.
 * Create the Wekowyrd,an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a proper Terrasque, but still make it a deadly melee creature which is difficult to deal with by magic. Will have a softspot for non-combatants.
 * Make some Kaiju type monsters.
@@ -27,7 +25,8 @@ Contemplate renaming Rogue to Venturer.
 
 Finish serviles.
 
-Flesh out bestiary.
+Flesh out bestiary.  
+* Create the Skogsrå creature.
 
 MORE SPELLS!  
 Havery? (makes one talk nonsensically)  
