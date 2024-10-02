@@ -344,7 +344,23 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (5
+### F (6
+
+#### Fetch
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 20 yards
+
+**Effect**: You call an object you have physically possessed before, which you are able to perceive, to come to you. It moves at a speed of 20 yards per move. If an obstacle comes between you and the object, it harmlessly bounces off the obstacle and falls instead of continuing. The object can fall at your feet, conveniently slip into the appropriate container on your p[erson, or enter you hand seamlessly once it arrives.
+
+If a creature has possessed the object since you did, the spell will not work and you will know that the item has been distrubed in some way.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
+
+**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not harmlessly bounce on impact.
 
 #### Feyding Gesture
 
