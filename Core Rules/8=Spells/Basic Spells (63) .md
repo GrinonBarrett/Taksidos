@@ -852,7 +852,30 @@ Cannot be cast at night.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
 
-### U (1
+### U (2
+
+#### Undying Globe
+
+**Minimum Tier**: 4
+
+**Casting Time**: 10 actions
+
+**Effect**: A sphere of necromantic energy expands out 10 yards from yourself. This globe is an incorporeal entity with points of undeah equal to 25 + [Magic] bonus per spell tier. Being incorporeal, others may occupy the same space it does. Any creature† which attempts to enter the space of the globe must succeed a [Will] save with a DV of triple the spell's tier + your [Magic] bonus or fail to do so. Additionally, if such a cretaure attempts to enter the globe, the caster may use their reaction to preven them from doing so.
+
+The globe can be destroyed as though it were a creature of undeath. Non-magical attacks must be made against the outer barrier of the globe itself to be effective. Magical atttacks passing through the barrier from outside are inflicted against the globe instead of their target. Other magical attacks against or through the space of the barrier function normally.
+
+At the end of each round, any creature† within the sphere is subject to a necrotic attack.  
+Any creature of undeath cannot recover points of undeath while inside the globe.  
+Anytime a creature performs an incapacitation roll while within the globe, the caster may provide a bonus or penalty up to the tier of the spell.
+
+You may concentrate on this spell when you cast it, forfeiting actions to do so. It lasts until your concentration fails, is ended by your own choice, or it is destroyed.
+
+†Excluding constructs, elementals, ephemera, and undead.
+
+**At Higher Tiers**: Each tier beyond minimum increases the spheres size, allowing it to reach out and yard from you.
+
+**Critical Failure**: You cast the circle around yourself. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot, keeping itself centered on you. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of fire attacks against you equal to the tier of the spell. An immunity to the harm of fire does not protect you from this, but instead has the attacks made with disadvantage.
+
 
 #### Unrest for Undeath
 
