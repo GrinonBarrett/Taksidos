@@ -7,7 +7,6 @@ For this update:
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
 * Create Chalcedon creature (Like pokemon's graveler but made of bnded gemstone. Acquires sustanance by tunneling into ore deposits).
-* Create Saltsingers (Saltflat roaming elf-sirens)
 * Create dough type monster.
 * Create the Wellarch, a well spirit.
 * Create the Jeel, a generic Ooze creature whose material can be used for alchemic materials.
