@@ -959,7 +959,7 @@ This spell is active as long as you concentrate on it. When casting or concentra
 
 **Effect**: You cause a 3 yard fan of necrotic energy to pulse out. Anything in the area suffers a necrotic attack. After a number of rounds has passed equal to the spell's tier, any afflicted creature is subject to an incapacitation save. A creature with no remaining hitpoints has disadvantage on this save.
 
-Undead creatures and those produced by the animation spell cannot be subject to the disadvantage for not having hitpoints.
+Construct, Ephemera, and Undead creatures, and those produced by the Animate spell, cannot be subject to the disadvantage for not having hitpoints.
 
 **At Higher Tiers**: Each tier beyond the minimum allows you pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
