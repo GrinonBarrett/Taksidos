@@ -3,7 +3,6 @@ For this update:
 * Create Asterian as a playable species.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
-* Recreate the old Mountain Devil (dracnoic burrowing wyrms) for this system.
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
 * Create Chalcedon creature (Like pokemon's graveler but made of bnded gemstone. Acquires sustanance by tunneling into ore deposits).
