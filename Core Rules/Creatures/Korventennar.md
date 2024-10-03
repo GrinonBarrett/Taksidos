@@ -121,7 +121,7 @@ Among the korventennain, there are a few standouts.
 
 **Korventennar Mage**: Korventennar with the wyrding gift. They are capable of performing magic. They typically know the following spells: _Arc Lightning_, _Blast Lightning_, _Call Lightning_, _Frost Lance_, _Ice Breaker_, _Synnefopothy_, and two more spells. Its [Inte] is increased to 13, giving them a +4 bonus instead.
 
-**Korventennar Ruler**: Korventennar rulers lead their clash. The possess 10 [Inte], giving them a +3 bonus, and an [Empy] of 12 for a +4 bonus. They usually have speciailization in a weapon as well.
+**Korventennar Ruler**: Korventennar rulers lead their clash. They possess 10 [Inte], giving them a +3 bonus, and an [Empy] of 12 for a +4 bonus. They usually have speciailization in a weapon as well.
 
 -----
 
