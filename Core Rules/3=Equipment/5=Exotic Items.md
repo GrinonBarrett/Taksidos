@@ -1,7 +1,7 @@
 ### EXOTIC ITEMS
 Here are some of the more magical items one may come across. 
 
-**Boutava's Beneficial Bourbon**, $225 per bottle, 3 lbs.  
+**Boutava's Beneficial Bourbon**, $275 per bottle, 3 lbs.  
 The bottle includes a paper adhered to its body, 
 > "When the eldritch horrors get rough with your body, reach for the smooth taste that replenishes your soul. With 17 essential vitamins and minerals and a proprietary blend of fine spirits and botanicals, our cask strength panacea can be used by adventurers of any experience with complete confidence. While others may sell you oil d'naga blends with subpar liquors, we have taken oaths to 3 different gods of festivities to ensure our employees never falter in delivering to you the premium product you demand for your active lifestle. When you are close to joining the spirits, choose the spirits more professionals reach for."
 
