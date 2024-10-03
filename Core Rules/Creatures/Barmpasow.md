@@ -56,7 +56,7 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 |                        |          |            |         |            |         |
 | **Club**                   | 16     | **Pole Axe**      | 10     | **Arrow, Bodkin Point**    | 12    |
 | **Longsword**              | 11     | **Greatsword**    | 10     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 11     | **Maul**          | 1    | **Bolt** | 11    |
+| **Mace**                   | 11     | **Maul**          | 10   | **Bolt** | 11    |
 | **Spear**                  | 11     | **Pike**          | 9     | **Brusgiata** | 14     |
 | **Hand Axe**               | 11     | **Madu**          | 13    | **Chakram** | 14    |
 | **Katar**                  | 12     | **Javelin**       | 12    | **Arquebus** | 10    |
