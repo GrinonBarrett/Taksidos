@@ -124,7 +124,7 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 
 **Thursaine Aura**: Any creature within 25 yards is subject to accrue a disease known as the Fetid Fever. After exposure for a number of minutes equal to 1d20 + the subjected creature's [Fort] score, it will contract the disease. A thursar is immune to this.
 
-**Toxic Aura**: After a full minute being within 25 yards of a thursar *a creature is subject to a toxic attack at the end of each round while within 25 yards of the thursar*. This is a magical diseas effect.
+**Toxic Aura**: After a full minute being within 25 yards of a thursar *a creature is subject to a toxic attack at the end of each round while within 25 yards of the thursar*. This is a magical disease effect.
 
 **Venomous Attacks**: Anytime the thursar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *inflicts a toxic attack*.
 
