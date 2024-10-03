@@ -56,12 +56,12 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 | **Club**                   | 12   | **Pole Axe** | 8     | **Arrow, Bodkin Point**    | 9    |
 | **Longsword**              | 9    | **Greatsword** | 8     | **Arrow, Broadhead**       | 9    |
 | **Mace**                   | 9    | **Maul** | 8     | **Bolt** | 9    |
-| **Spear**                  | 9     | **Pike** | 8     | **Brusgiata** | 9     |  |     |
+| **Spear**                  | 9     | **Pike** | 8     | **Brusgiata** | 9     |
 | **Hand Axe**               | 9     | **Madu** | 11     | **Chakram** | 8    |
 | **Katar**                  | 9     | **Javelin** | 10    | **Arquebus** | 6    |
 | **Dagger**                 | 10     | **Throwing Blade** |12    | **Musket** | 6    |
 | **Morningstar**            | 9     | **Sling** | 12    | **Tronutonante** | 7    |
-| **Warpick**                | 9     | **Bare** | 16   |  |     |
+| **Warpick**                | 9     |  |     | **Bare** | 16   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 12     | **Fire** | 10     | **Psychic** | 14     |
 | **Cold**                   | 12     | **Force** | 11     | **Toxic**  | 12     |
@@ -89,7 +89,7 @@ Large tunneling insects. They subsist on trace minerals found in the earth they 
 |   13   | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Distrubed Stomach Acids | The trillipede performs an acid attack against a creature within 1 yard and loses its reaction (if it stil has one) for the round. |
+|   16   | Disturbed Stomach Acids | The trillipede performs an acid attack against a creature within 1 yard and loses its reaction (if it stil has one) for the round. |
 |   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
