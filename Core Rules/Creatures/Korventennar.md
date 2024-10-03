@@ -119,7 +119,7 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 #### Variants
 Among the korventennain, there are a few standouts. 
 
-**Korventennar Mage**: Korventennar with the wyrding gift. They are capable of performing magic. They typically know the following spells: _Arc Lightning_, _Blast Lightning_, _Call Lightning_, _Frost Lance_, _Ice Breaker_, and two more spells. Its [Inte] is increased to 13, giving them a +4 bonus instead.
+**Korventennar Mage**: Korventennar with the wyrding gift. They are capable of performing magic. They typically know the following spells: _Arc Lightning_, _Blast Lightning_, _Call Lightning_, _Frost Lance_, _Ice Breaker_, _Synnefopothy_, and two more spells. Its [Inte] is increased to 13, giving them a +4 bonus instead.
 
 **Korventennar Ruler**: Korventennar rulers lead their clash. The possess 10 [Inte], giving them a +3 bonus, and an [Empy] of 12 for a +4 bonus. They usually have speciailization in a weapon as well.
 
@@ -128,6 +128,8 @@ Among the korventennain, there are a few standouts.
 #### Special Features
 
 **Show of Strength**: When the korventennar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
+
+**Cloud Living**: A korventennar is *always affected as though by a Synnefopothy spell*. If this magic would be dispelled, it takes 1d6+4 rounds for it to actually affect the korventennar's ability to interact with clouds specifically.
 
 **Resist Wands**: Anytime the korventennar is attacked by a wand, it may use its reaction to impose disadvantage against the attack.
 
