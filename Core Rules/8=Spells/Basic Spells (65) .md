@@ -984,13 +984,13 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 
 **Casting Time**: 1 action or reaction
 
-**Range**: 5 yard.
+**Range**: 5 yards
 
-**Effect**: Instantly move to an unoccupied point of space within range. If you would still be in range of an attack made against you, you are still subject to the attack.
+**Effect**: Instantly move to an unoccupied point of space within range. If you (or another creature affected by this spell) would still be in range of an attack made against you, you are still subject to the attack.
 
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 2 yards or allow you to tranpsort one additional willing creature you are touching.
 
-**Critical Failure**: You manage to get galfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
+**Critical Failure**: You manage to get halfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
 
 #### Wretched Ray
 
