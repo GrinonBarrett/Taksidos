@@ -700,7 +700,20 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 ### Q
 
-### R (2
+### R (3
+
+#### Regeneration
+
+**Minimum Tier**: 5
+
+**Casting Time**: 10 minutes
+
+**Effect**: You touch a creature which has remained within a yard of you the entire time you cast the spell. It performs an incapacitation save which gains a bonus equal to the number of remaining hitpoints it currently has divided by the number of wounds it currently has. If the check is succesful, you heal a wound of your choice from the creature. If it is a critical success, it also recovers a hitpoint or an instance of hemorhaging (your choice as caster).  
+Failure on the save does not harm the creature in anyway, but a critical failure prevents the creature from being affected by another Regeneration from the same caster of an equal or lower tier in the same day.
+
+**At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus and increases the casting time by 1 minute.
+
+**Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will receive a wound.
 
 #### Resend
 
