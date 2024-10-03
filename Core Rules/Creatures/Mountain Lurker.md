@@ -100,6 +100,8 @@ Though related, these creatures are often mistaken for dragons. They are sometim
 
 **Wrestler**: The mountain lurker is proficienct in the wrestling skill.
 
+**Breathless**: The mountain lurker does not need to breath.
+
 **Sharp Sniffer**: Mountain lurker's have a +3 to all checks and saves involving their keen sense of smell.
 
 **Breath Weapon**: Mountain lurkers are capable of exhaling a line of flames, as an action. The line is 9 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. It may do so once per encounter and an additional time between full rests.  
