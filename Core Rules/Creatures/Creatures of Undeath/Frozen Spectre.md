@@ -1,5 +1,5 @@
 ### Frozen Spectre
-Tormented souls created by chills, they accompany their former feller into battle until they are released from their service by destruction of their master or themselves. They will mindlessly pursue whatever disturbed them or whatever they are commanded to take on.
+Tormented souls created by chills, they accompany their former feller into battle until they are released from their service by destruction of their master or themselves. They will mindlessly pursue whatever disturbed them or whatever they are commanded to take on. Their collective noun is a haunt.
 
 **Creature Type**: Frozen spectres are ephemera.
 
