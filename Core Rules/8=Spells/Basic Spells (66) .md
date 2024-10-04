@@ -743,7 +743,36 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (7
+### S (8
+
+#### Sentinel
+
+**Minimum Tier**: 3
+
+**Casting Time**: 8 actions
+
+**Range**: 3 yards
+
+**Duration**: 1 minute or concentration (your choice when casting)
+
+**Effect**: You create a glowing sphere of energy and choose a damage type from the following (Acid, Cold, Cutting, Electric, Fire, Force, Piercing, Radiant, Necrotic) within range. The sphere is small enough to fit in one's hand and can levitate up to 2 yards into the air. While it is active, so long as you can perceive the intended target, you may use your bonus action to produce a ray attack against them of the chosen type. This is treated identically to a wand attack. The sphere puts out dim light for half a foot and does not move on its own. 
+
+If you can perceive it, you may use your action to guide it up to a number of feet equal to the spell's tier. You may also use your action to "set" it, causing it to fire on the next thing to enter its range or to move within its range (your choice). Such a thing must be illuminated in at least dim light to be visible to the sphere. It will ignore you for this purpose.
+
+If the spellcheck was a critical success, you may have the sentinel gain an additional effect depending on the damage type you chose.  
+* Acid: Anything below the sentinel is subjact to an acid attack at the end of each round as acid rythmically drips from the sphere. When the spell ends, you may have the sentinel explode, inflicting an acid attack against anyting within a number of half-feet equal to the spell's tier.
+* Cold: Instead of potentially damaging armor, the sentinel's attack freezes a foe for a number of phases equal to the spell's tier -1.
+* Cutting: The sphere can also attack in melee. When it does so, blades spin around it to inflict a cutting attack against everything within a number of half-feet equal to the spell's tier.
+* Electric: Instead of potentially damaging armo, the attack arcs, inflicting an electric attack against the nearst creature within a number of yards equal to the spell's tier- even if it is not illuminated. A creature struck by any attack from this sentinel, including an arced attack, cannot be struck by an arced attack in the same phase.
+* Fire: The sentinel puts out light like a torch. When the spell ends, you may have it explode. Anything within 1 foot must succeed a [Rflx] save with DV of 10+spell tier or be set ablaze as though by a critical hit from a fire attack.
+* Force: A struck creature is knocked back a number of half-feet equal to the spell's tier +1.
+* Piercing: The attacks of the sentinel can pierce through a struck foe in a straight line, potentially hitting other creatures.
+* Radiant: The sentinel produces bright or fairlight (your choice) out a number of yards equal to the spell's tier, fair light out for a number of yards beyond that equal to the spell's tier, and dim light beyond that for a number of yards equal to the spell's tier.
+* Necrotic: When the spell ends, you may have it explode, inflicting a necrotic attack against everything within a number of feet equal to the spell's tier -1.
+
+**At Higher Tiers**: As seen above, a higher tier provides several benefits.
+
+**Critical Failure**: The create the sentinel, but it seems to have a mind of its own. It will attempt to attack you during each action phase. In addition, it can attempt to attack the nearest creature to it at the end of each movement phase. A creature must be illuminated in at least dim light for the sphere to see it, but does not require that light to attack you. The sentinel always lasts for a minute this way.
 
 #### Silent Alarm
 
