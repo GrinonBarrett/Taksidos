@@ -27,8 +27,7 @@ Flesh out bestiary.
 * Create the Skogsrå creature.
 
 MORE SPELLS!  
-Havery? (makes one talk nonsensically)  
-Heeze (toss the target into the air at a speed you determine)  
+Havery? (makes one talk nonsensically)   
 Jander (makes sick and visibly unappealing)  
 Jolling (slows a creature's run speed by hindering limbs)
 
