@@ -1,5 +1,5 @@
 ### Spartoi
-Warriors returned from the grave. Though they are mindless, they retain some of the experience from their time in battle. The singular form is Spartai.
+Warriors returned from the grave. Though they are mindless, they retain some of the experience from their time in battle. The singular form is Spartai. Their collective know is a force.
 
 **Creature Type**: Spartoi are undead.
 
