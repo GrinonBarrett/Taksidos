@@ -23,7 +23,7 @@ When a critical hit occurs against a creature, it inflicts an additional effect 
 | Electrical             | Creature must succeed a [Rflx] save or receive an additional wound and have its armor damaged. |
 | Fire                   | The struck foe is lit ablaze. At the end of each round, the fire causes an additional fire attack roll against the struck creature (with none of the usual combat modifiers) to possibly inflict another wound. A struck creature may expend its reaction and an action to pat out or smother the flames by roll (uses reaction and movement). Multiple instances of fire critical hits are not cumulative. |
 | Force                  | Creature must succeed a [Body] save or be knocked prone and be knocked back a number feet equal to the points of failure. |
-| Ki                     | Struck foe loses a hitpoint if they have any remaining, otherwise it receives an additional wound. |
+| Ki                     | Struck foe loses a hitpoint if they have any remaining, otherwise it is vulnerable until the next time it is wounded before the end of the next round. |
 | Necrotic               | Creature loses the use of one of its limbs or appendages (randomly decided). This is treated as an additional wound. This wound lasts until healed. If caused by a magical means, a magical means is required to heal it. If no such limb is available, inflict an additional wound instead. |
 | Piercing               | Struck foe suffers an additional wound. |
 | Psychic                | Struck foe receives a point of Spell-Sickness. Additionally, it must succeed a [Will] or [Inte] save (their choice) or be dazed for a number of rounds equal to the points of failue. |
