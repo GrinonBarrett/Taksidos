@@ -1,5 +1,5 @@
 ### Scareton
-The result of dying of fright or being one of those occassional sods that suffers excessively of the horrors of death, scaretons are an uncommon foe.
+The result of dying of fright or being one of those occassional sods that suffers excessively of the horrors of death, scaretons are an uncommon foe. Their collective noun is a rattling.
 
 **Creature Type**: Scaretons are undead.
 
