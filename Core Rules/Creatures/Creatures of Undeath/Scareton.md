@@ -13,7 +13,7 @@ The result of dying of fright or being one of those occassional sods that suffer
 |        |                                                |                                   |
 |   1-4  | Fear (1) | The scareton is wandering about. |
 |   5-9  | Fear (2)  | The scareton is going about its business. |
-|  10-18 | Fear (3)  | The attack the most menacing thing until it seems to stop, then scream violently as it retreats. |
+|  10-18 | Fear (3)  | They attack the most menacing thing until it seems to stop, then scream violently as it retreats. |
 |   19   | Curiosity (2)  | The scareton is not sure what to make of the party. |
 |   20   | Hostility (3)  | The scareton is irrationally violent and will strike whatever is closest. |
 
