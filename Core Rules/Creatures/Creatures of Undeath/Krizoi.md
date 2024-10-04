@@ -1,5 +1,5 @@
 ### Krizoi
-Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum (and very rarely some other valuable material). They pursue treasure of the same nature as themselves. The singular is krizai. Sometimes the name used to refer to such a creature can vary by material such as Zimai for silver or Skotaqai for platinum.
+Caused by the greed of the vanquished, these unusual figures resemble extremely slender skeletons with additional limbs of a simple variety. They are composed entire of gold, electrum, silver, or platinum (and very rarely some other valuable material). They pursue treasure of the same nature as themselves. The singular is krizai. Sometimes the name used to refer to such a creature can vary by material such as Zimai for silver or Skotaqai for platinum. Their collective noun is horde.
 
 **Creature Type**: Krizoi are undead.
 
