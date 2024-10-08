@@ -1,7 +1,6 @@
 For this update:
 
 * Create proper rules for contracting disease.
-* Create Asterian as a playable species.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Recreate the T Rex and Brachiosaurus creatures for this system.
