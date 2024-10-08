@@ -30,6 +30,28 @@ Finish serviles.
 
 Flesh out bestiary.  
 * Create the Skogsrå creature.
+* Will add Slurposaurus
+* Will add Unikhairn
+* WIll add Agropelter
+* Will add Brachiosaurus
+* Will add Despy's Pet Bag?!
+* Will add Evronar
+* Will add Devrourk
+* Will add all the Blob creatures
+* Will add Arethreus
+* Will add Fenrith
+* Will add Raveur
+* Will add Ethereal Grazer
+* Will add Corvus
+* Will add Snake
+* Will add Bear
+* Will add Sun Bear
+* Will add Alligator
+* WIll add Preying Mantid
+* Will add a Koulaz (a hooded humanoid looking monster that steals disobedient children)
+* Will add a Grindylow (change the spelling possibly)
+* Will add Vodnik?!
+* Will add Mothman?!
 
 MORE SPELLS!  
 Havery? (makes one talk nonsensically)   
