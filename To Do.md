@@ -6,7 +6,6 @@ For this update:
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Recreate the old Etermi creature for this system.
 * Recreate the T Rex and Brachiosaurus creatures for this system.
-* Create Chalcedon creature (Like pokemon's graveler but made of bnded gemstone. Acquires sustanance by tunneling into ore deposits).
 * Create dough type monster.
 * Create the Wellarch, a well spirit.
 * Create the Jeel, a generic Ooze creature whose material can be used for alchemic materials.
