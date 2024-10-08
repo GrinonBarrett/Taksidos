@@ -95,6 +95,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 
 **Sphere Mode**: The chalcedon may ball up and roll around. When doing so, it has the follwing changes;  
 * It may sprint once per round without incurring exhasution.
+* Can trample as though it were a mount.
 * It gains a burrow speed of 3 yards.
 * Run speed increased to 9 yards.
 * Climb speed reduced to 2 yards.
