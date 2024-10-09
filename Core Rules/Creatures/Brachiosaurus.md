@@ -3,7 +3,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 
 **Creature Type**: Brachiosaurus are Beasts.
 
-**Size**: Brachiosaurus tend to be about 59-72 feet in length, frequently stand between 26-31 feet tall, and weigh between 64,400-103,400 pounds. They are large creatures.
+**Size**: Brachiosaurus tend to be about 59-72 feet in length, frequently stand between 26-31 feet tall, and weigh between 64,000-103,000 pounds. They are large creatures.
 
 **Hitpoints**: A brachiosaurus has at least 5 hitpoints.
 
