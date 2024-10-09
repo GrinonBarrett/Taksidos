@@ -3,9 +3,9 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 
 **Creature Type**: Brachiosaurus are Beasts.
 
-**Size**: Brachiosaurus tend to be about 20-24 yards in length, frequently stand between 26-31 feet tall, and weigh between {resume} 28,300-46,900 kilos. They are large creatures.
+**Size**: Brachiosaurus tend to be about 59-72 feet in length, frequently stand between 26-31 feet tall, and weigh between 64,400-103,400 pounds. They are large creatures.
 
-**Hitpoints**: An alashanasaurus has 5 hitpoints.
+**Hitpoints**: A brachiosaurus has at least 5 hitpoints.
 
 **Attributes**:  
 [Body] 34 (+11)  
@@ -80,5 +80,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 |        |                                                |                                   |
 
 -----
+
+**Massive**: For every 3 tons of weight, the brachiosaurus has an additional hitpoint. While it has hitpoints, if a wound roll die result is the same as or within 1 step of its current hitpoints, it does not receive a wound. The creature still loses its hitpoint.
 
 **Mighty Slam**: When the alashanasaurus successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the alashanasaurus knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the alashanasaurs' weight in stones divided by the foe's weight in stones. If the alashanasaurus had a critical success, the foe is also vulnerable while they are prone.
