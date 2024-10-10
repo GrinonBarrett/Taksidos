@@ -1,9 +1,9 @@
 ### Brachiosaurus
-Among the largest known creatures, brachiosaurus do not typically engage in combat. They are not territorial and have few natural predators capable of bringing them down. In combat, they will snap their massive tail at an offender, usually dictating the fight in that single act. They do not care for βlashy magic. If they notice something man sized and magical, they will attempt to trample it. Their collective noun is a herd.
+Among the largest known creatures, brachiosaurus do not typically engage in combat. They are not territorial and have few natural predators capable of bringing them down. In combat, they will snap their massive tail at an offender, usually dictating the fight in that single act. They do not care for flashy magic. If they notice something man sized and magical, they will attempt to trample it. Their collective noun is a herd.
 
 **Creature Type**: Brachiosaurus are Beasts.
 
-**Size**: Brachiosaurus tend to be about 59-72 feet in length, frequently stand between 26-31 feet tall, and weigh between 64,000-103,000 pounds. They are large creatures.
+**Size**: Brachiosaurus tend to be about 59-72 feet in length, frequently stand between 26-31 feet tall, and weigh between 64,000-103,000 pounds. They are huge creatures.
 
 **Hitpoints**: A brachiosaurus has at least 5 hitpoints.
 
@@ -16,9 +16,9 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 [Prcp] 9  (+3)  
 [Empy] 8  (+2)  
 
-**Languages**: Alashanasaurus don't speak.
+**Languages**: Brachiosaurus don't speak.
 
-**Run Speed**: It may run up to 8 yards per move.
+**Run Speed**: It may run up to 6 yards per move.
 
 **Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
