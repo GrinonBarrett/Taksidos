@@ -138,7 +138,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Range**: 1 foot + a number of feet equal to the spellcheck's points of success.
 
-**Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell.
+**Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell. You cannot target a creature of undeath unless you are also a creature of undeath.
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
@@ -894,7 +894,21 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (1
+### T (2
+
+#### Tell Undead
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You psychically give an undead creature you can perceive a missive or order, which can take the form of a single sentence, that is accompanied by a word or a gesture. It must succeed a [Will] save or follow through with it so long as it does not violate its own moral tenets. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. A mindless creature has disadvantage against this and clearly has no concerns with morlity or its own self preservation.
+
+**At Higher Tiers**: For each tier above minimum, you may target an additional creature within range.
+
+**Critical Failure**: You have managed to attract the attention of those creatures you sought to tell. For a number of days equal to the points of failure, they will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, they gain advantage on their attacks against you. Additionally, during this time, they will know the general direction towards you- butnot how far.
 
 #### Thornvalder
 
