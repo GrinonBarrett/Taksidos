@@ -24,7 +24,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 
  • Tail: The brachiosaurus may use its tail to strike a foe within 6 yards. This is a melee bare attack. If the foe is more than 2 size categories smaller, it may treat it as a force attack instead.
 
- • Slam: The alashanasaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Slam: The brachiosaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Bite: The brachiosaurus may perform a single bite against a foe within 7 yards yard. This is a melee bite attack. It is seldom to do so however.
 
