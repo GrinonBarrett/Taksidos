@@ -25,7 +25,12 @@ Club
 A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attacks inflicted is necrotic*.  
 Can be found in any size.
 
-**Undying Bane**  
+**Torch Of Dulzorn**  
+$1,000 , 4 lb.  
+Mace  
+The head of this mace demonstrates a glass bubble, caged in the wings of the mace. The bubble seems empty normally. As an action or reaction by any creature capable of performing wyrding, *it can be activated to emit fair light out 1 yard and dim light out 3 yards beyond that*. Deactivating it can be done the same way. It automatically ceases to produce light if not held by the one that activated it. These maces are the signature of the Wardens of Dulzorn, an order of warrior monks. Anyone possessing one is likely to have been a member or slain one.
+
+**Undying Bane** (*unique*)  
 $780, 3.5 lb.  
 Longsword  
 A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath ewual to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
