@@ -10,7 +10,7 @@ Special Notes
 **The Brazier** (*unique*)  
  $7,500, 3 lbs.  
  Flail  
- A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
+A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
  treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
 
  **Heart Stealer** (*unique*)  
@@ -23,7 +23,12 @@ Special Notes
 $500, 2 lb.  
 Club  
 A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attacks inflicted is necrotic*.  
-Can be found 8n any size.
+Can be found in any size.
+
+**Undying Bane**  
+$780, 3.5 lb.  
+Longsword  
+A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath ewual to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
 
 **Zerun's Eye**  
 $8,800, neg.  
