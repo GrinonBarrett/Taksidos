@@ -58,6 +58,12 @@ $1,950 , 6.5 lbs.
 Greatsword  
 This sword is never cold to the touch. As an action, *the user may have the blade ignite with flame. It puts out light like a torch and also inflicts a fire attack when inflicting any other attack*. The flames can be extinguished by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1.5 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with fire, inflicting a foe attack against that foe*.
 
+**Fleres** (*unique*)  
+$4,000 , 3 lbs.  
+Longsword  
+A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against fire attacks is lower than longsword, use its defense against fire*. It is always warm to the touch.  
+If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a fire attack*.
+
 **Galosle's Wrap** (*unique*)  
 $4,900 , neg.  
 Unarmed  
@@ -95,6 +101,12 @@ If the user knows the arrow's name, they may choose to influct the traditional c
 $1,000 , 4 lb.  
 Mace  
 The head of this mace demonstrates a glass bubble, caged in the wings of the mace. The bubble seems empty normally. As an action or reaction by any creature capable of performing wyrding, *it can be activated to emit fair light out 1 yard and dim light out 3 yards beyond that*. Deactivating it can be done the same way. It automatically ceases to produce light if not held by the one that activated it. These maces are the signature of the Wardens of Dulzorn, an order of warrior monks. Anyone possessing one is likely to have been a member or slain one.
+
+**Umars** (*unique*)  
+$4,000 , 3 lbs.  
+Longsword  
+A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against cold attacks is lower than longsword, use its defense against cold*.  
+If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a cold attack*.
 
 **Undying Bane** (*unique*)  
 $780, 3.5 lb.  
