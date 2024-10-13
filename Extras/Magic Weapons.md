@@ -7,16 +7,21 @@ Weapon Type
 Description  
 Special Notes
 
-**Cocomayal**  (*Unique*)  
-$14,000 , 5 lbs.  
-Flail  
-A haft and chain of silver match the skull whoch serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
+**Archeburn** (*unique*)  
+$12,000 , 5 lbs.  
+Longsword  
+A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
 
 **The Brazier** (*unique*)  
  $7,500, 3 lbs.  
  Flail  
 A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
  Treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
+
+**Cocomayal**  (*Unique*)  
+$14,000 , 5 lbs.  
+Flail  
+A haft and chain of silver match the skull whoch serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
 
  **Heart Stealer** (*unique*)  
  $3,400 , 3 lbs.  
