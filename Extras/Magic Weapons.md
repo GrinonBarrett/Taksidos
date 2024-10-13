@@ -23,6 +23,11 @@ $14,000 , 5 lbs.
 Flail  
 A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
 
+**Curious Katana** (*unique*)  
+$5,500 , 3.25 lbs.  
+Longsword  
+This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 9, the foe is dazed until the end of the next round.
+
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
