@@ -7,7 +7,7 @@ Weapon Type
 Description  
 Special Notes
 
-**Cocomayal**  (*Unique*)
+**Cocomayal**  (*Unique*)  
 $14,000 , 5 lbs.  
 Flail  
 A haft and chain of silver match the skull whoch serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
