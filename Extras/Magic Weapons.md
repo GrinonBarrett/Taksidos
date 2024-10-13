@@ -48,6 +48,11 @@ An enchanted weapon costs 3 times the base price and an additional $5,000. Depen
 * Reverberating: Sonic.
 * Nasty: Toxic.
 
+**Flaming Flamberge** (*unique*)  
+$1,950 , 6.5 lbs.  
+Greatsword  
+This sword is never cold to the touch. As an action, *the user may have the blade ignite with flame. It puts out light like a torch and also inflicts a fire attack when inflicting any other attack*. The flames can be extinguished by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1.5 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with fire, inflicting a foe attack against that foe*.
+
 **Galosle's Wrap** (*unique*)  
 $4,900 , neg.  
 Unarmed  
