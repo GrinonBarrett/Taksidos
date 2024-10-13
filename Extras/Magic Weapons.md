@@ -18,10 +18,30 @@ A longsword with a reach of 1.5 yards. It can be wielded with two hands to be tr
 A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
  Treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
 
-**Cocomayal**  (*Unique*)  
+**Cocomayal** (*Unique*)  
 $14,000 , 5 lbs.  
 Flail  
 A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
+
+**Enchanted Weapon**  
+varies, varies  
+Any melee  
+An enchanted weapon costs 3 times the base price and an additional $5,000. Depending on the type of enchantment, a critical hit is treated as *one of the associated attack type*. If the user presses their attack, they *may treat their attack as being of the associated type*. The Enchantments are as follows:  
+* Dissolving: Acid.
+* Crunching: Biting.
+* Frost: Cold.
+* Bold: Crushing.
+* Sharp: Cutting.
+* Shocking: Electric.
+* Searing: Fire.
+* Blunt: Force.
+* Mystical: Ki.
+* Pointed: Piercing.
+* Minded: Psychic.
+* Brilliant: Radiant.
+* Rotting: Necrotic.
+* Reverberating: Sonic.
+* Nasty: Toxic.
 
  **Heart Stealer** (*unique*)  
  $3,400 , 3 lbs.  
@@ -42,7 +62,7 @@ A yew bow which features silver dust in the grain and brass accents. It can be p
 **Ritual Femur**  
 $500, 2 lb.  
 Club  
-A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attacks inflicted is necrotic*.  
+A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attack inflicted is necrotic*.  
 Can be found in any size.
 
 **Torch Of Dulzorn**  
