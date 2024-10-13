@@ -26,7 +26,7 @@ A haft and chain of silver match the skull which serves as this flail's head. Th
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
 Longsword  
-This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 9, the foe is dazed until the end of the next round.
+This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 14, the foe is dazed until the end of the next round.
 
 **Enchanted Weapon**  
 varies, varies  
