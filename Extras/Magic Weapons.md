@@ -23,7 +23,7 @@ $2,000 , 6.75 lbs.
 Greatsword  
 The blade stretches out 10 feet on this massive weapon. As an action, the user may *have the blade explode into a 5 yard cone, inflicting a cutting attack against everything caught within*. The pieces of the sword blade can be collected after a number of minutes equal to 120 divided by your [Prcp] bonus. Ithers can aide you, adding their [Prcp] bonus to yours. Once all pieces have been found, *the pieces will join together to reforge the blade*.
 
-**Cocomayal** (*Unique*)  
+**Cocomayal** (*unique*)  
 $14,000 , 5 lbs.  
 Flail  
 A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
@@ -117,6 +117,11 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 $780, 3.5 lb.  
 Longsword  
 A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath ewual to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
+
+**Wicked Spike** (*unique*)  
+$5,700, 4 lbs.  
+Warpick  
+A gnarled warpick forged in curses against humanity. Anytime it infoucts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
 
 **Zerun's Eye**  
 $8,800, neg.  
