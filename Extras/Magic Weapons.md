@@ -86,10 +86,15 @@ Longbow
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
 
 **Ritual Femur**  
-$500, 2 lb.  
+$500, 2 lbs.  
 Club  
 A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attack inflicted is necrotic*.  
 Can be found in any size.
+
+**Syphoning Sabre** (*unique*)  
+$7,500 , 3 lbs.  
+Longsword  
+A light sword that never seems to stain. If the sabre inflicts the filling blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
 
 **Sormreir** (*unique*)  
 $1,225 , neg.  
