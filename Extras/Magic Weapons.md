@@ -18,10 +18,15 @@ A longsword with a reach of 1.5 yards. It can be wielded with two hands to be tr
 A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
  Treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
 
+**The Claymore** (*unique*)  
+$2,000 , 6.75 lbs.  
+Greatsword  
+The blade stretches out 10 feet on this massive weapon. As an action, the user may *have the blade explode into a 5 yard cone, inflicting a cutting attack against everything caught within*. The pieces of the sword blade can be collected after a number of minutes equal to 120 divided by your [Prcp] bonus. Ithers can aide you, adding their [Prcp] bonus to yours. Once all pieces have been found, *the pieces will join together to reforge the blade*.
+
 **Cocomayal** (*Unique*)  
 $14,000 , 5 lbs.  
 Flail  
-A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a neceotic or crushing attack (your choice)*.
+A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
