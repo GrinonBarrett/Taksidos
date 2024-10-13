@@ -24,6 +24,11 @@ $8,500, 4 lbs.
 Warpick  
 It appears to be made of altyprium but feels (and acts) like steel. When the weapon's attack roll would be a 7, 13, or 19- *it calls a bolt of lightning as though conjured by a 2nd tier Call Lightning spell*. This occurs regardless of the attack result, so long as it can be assumed the weapon came in contact with the foe.
 
+**The Light Caster** (*unique*)  
+$12,000 , 3.5 lbs.  
+Longbow  
+A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
+
 **Ritual Femur**  
 $500, 2 lb.  
 Club  
