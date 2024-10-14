@@ -33,6 +33,12 @@ $5,500 , 3.25 lbs.
 Longsword  
 This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 14, the foe is dazed until the end of the next round.
 
+**Datha** (*unique*)  
+$5,000 , 4 lbs.  
+Longsword  
+A curved sword reaching out 4 feet. If used with two hands, it gains a +1 bonus for the purpose of determining critical hits. It is a proper cavalry weapon.  
+If name is known, *it gains a +1 bonus to attack rolls*.
+
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
@@ -110,7 +116,7 @@ The head of this mace demonstrates a glass bubble, caged in the wings of the mac
 **Umars** (*unique*)  
 $4,000 , 3 lbs.  
 Longsword  
-A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against cold attacks is lower than longsword, use its defense against cold*.  
+A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against cold attacks is lower than longsword, use its defense against cold*. It is also cool to the touch.  
 If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a cold attack*.
 
 **Undying Bane** (*unique*)  
