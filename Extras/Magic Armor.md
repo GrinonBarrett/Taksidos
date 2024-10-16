@@ -1,3 +1,4 @@
+Rarer than magical weapons, magical armor can be a major advantage in battle. FInding someone to repair such armor is difficult, as they must be partnered with or themselves a master smith and a skilled mage.
 
 **Armor Classification**  
 Name  
@@ -38,6 +39,11 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 * Vital: Toxic.
 
 Cost to repair is triple the normal cost.
+
+**Keten's Weave**, $21,500, 37 lb. (*unique*)  
+2/4  
+Fine alder-dyed sliken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
+Cost to repair is $900 per point.  
 
 **Robe of the Nomad**  
 Unarmored  
