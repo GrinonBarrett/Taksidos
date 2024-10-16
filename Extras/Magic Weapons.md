@@ -21,7 +21,7 @@ A brazier as such is used in several religious ceremonies. These items are inten
 **The Claymore** (*unique*)  
 $2,000 , 6.75 lbs.  
 Greatsword  
-The blade stretches out 10 feet on this massive weapon. As an action, the user may *have the blade explode into a 5 yard cone, inflicting a cutting attack against everything caught within*. The pieces of the sword blade can be collected after a number of minutes equal to 120 divided by your [Prcp] bonus. Ithers can aide you, adding their [Prcp] bonus to yours. Once all pieces have been found, *the pieces will join together to reforge the blade*.
+The blade stretches out 10 feet on this massive weapon. As an action, the user may *have the blade explode into a 5 yard cone, inflicting a cutting attack against everything caught within*. The pieces of the sword blade can be collected after a number of minutes equal to 120 divided by your [Prcp] bonus. Others can aide you, adding their [Prcp] bonus to yours. Once all pieces have been found, *the pieces will join together to reforge the blade*.
 
 **Cocomayal** (*unique*)  
 $14,000 , 5 lbs.  
