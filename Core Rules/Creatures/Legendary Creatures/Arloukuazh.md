@@ -5,7 +5,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 
 **Size**: He is 87 feet in length, stands about 35 feet, and weighs about 33,000 pounds. He is a huge creature.
 
-**Hitpoints**: He has at least 3 hitpoints.
+**Hitpoints**: He has at least 5 hitpoints.
 
 **Attributes**:  
 [Body] 25 (+8)  
@@ -14,13 +14,13 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 [Will] 22 (+7)  
 [Inte] 18 (+6)  
 [Prcp] 12 (+4)  
-[Empy] 12 (+4)  
+[Empy] 12 (+4) 
 
 **Languages**: Arloukuazh speaks {7 languages}.
 
 **Run Speed**: He may run up to 25 yards per move.
 
-**CLimb Speed**: He may climb up to 20 yards per move, presuming it os reasonable terrain to do so.
+**CLimb Speed**: He may climb up to 20 yards per move, presuming it is reasonable terrain to do so.
 
 **Swim Speed**: He may swim up to 16 yards, presuming the water isn't too rough.
 
@@ -90,13 +90,13 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 -----
 
 **Dragon of Greed**: All dragons are empowered by thier core obsession. For Arloukazh, and many other dragons, that is wealth. Arloukazh has a horde somewhere in which his own personal wealth is stored. The greater the value, the more benefits he has. He gains the following benefits as appropriate to his horde;  
-* For every $500,000 he has, he gain +1 [Body].
-* For every $1,000,000 he has, he gains a hitpoint.
-* For every $1,250,000 he has, his [Will] increases by 1.
-* For every $2,500,000 he has, he gains a +1 bonus to spell checks and counterspell checks.
-* For every $3,500,000 he has, his [Fort] is increased by 1.
-* For every $5,000,000 he has, he gets a +1 bonus to defense.
-* For every $5,250,000 he has, his [Empy] is increased by 1.
+* For every $50,000 he has, he gain +1 [Body].
+* For every $100,000 he has, he gains a hitpoint.
+* For every $125,000 he has, his [Will] increases by 1.
+* For every $250,000 he has, he gains a +1 bonus to spell checks and counterspell checks.
+* For every $350,000 he has, his [Fort] is increased by 1.
+* For every $500,000 he has, he gets a +1 bonus to defense.
+* For every $525,000 he has, his [Empy] is increased by 1.
 
 These bonuses to attributes and hitpoints are included above.  
 Arloukazh's total bonus to spell checks and counter spell checks as a result of this feature is 
@@ -124,12 +124,20 @@ If somehow he is stripped of his wealth in its entirety, this is his attributes:
 [Prcp] 12 (+4)  
 [Empy] 12 (+4)  
 
-However, his horde includes the following:
-$3,000,000 in various coinage.
-$4,000,000 in copper.
-$3,575,000 in gold.
-$2,000,000 in silver.
-$6,500,000 in various gemstones.
-A single Orb of Anihilation.
+However, his horde includes the following:  
+$300,000 in various coinage.  
+$400,000 in copper.  
+$375,000 in gold.  
+$200,000 in silver.  
+$650,000 in various gemstones.  
+A Dissolving Dagger ($5,180).  
+Fleres *$4,000).  
+A Nasty Pole Axe ($5,660).  
+Ruined Lorica
+Khaleurthet ($12,000).
+Tempered Plate ($34,000).  
+A Torch of Dulzorn ($1,000).  
+Tainted Targe ($900).
+A single Orb of Anihilation ($500,000).
 
-Total: $24,075,000
+Total: $??????
