@@ -54,4 +54,4 @@ These robes feature segments of additional padding. As an action, *the user may 
 **Silversoul Plate**, $400,000, 60 lb.  
 2/4  
 A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
-Cost to repair is $870 per point.
+Cost to repair is $1,000 per point.
