@@ -50,3 +50,8 @@ Unarmored
 $24,500 , 4 lbs.  
 1/1.  
 These robes feature segments of additional padding. As an action, *the user may have it take a similar form to any non-magical armor they have seen. It is not a perfect copy, but it functions as the same class of armor. It does not gain the ability to sustain damage as that armor and is thus still ruined if damaged at all. Fire attacks have a +1 bonus against this armor this way. The uswr mist concentrate on the robes to maintain the form*.
+
+**Silversoul Plate**, $400,000, 60 lb.  
+2/4  
+A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
+Cost to repair is $860 per point.
