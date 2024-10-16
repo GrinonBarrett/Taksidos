@@ -22,7 +22,7 @@ varies
 varies  
 An enchanted armor costs 3 times the base price and an additional $4,000. Depending on the type of enchantment, attacks of the associated type have disadvantage against the wearer. The Enchantments are as follows:  
 * Insoluble: Acid.
-* Rdiged: Biting.
+* Ridged: Biting.
 * Warm: Cold.
 * Stalwart: Crushing.
 * Scratchless: Cutting.
