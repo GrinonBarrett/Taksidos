@@ -17,8 +17,9 @@ Made of the scales of dragons, this scalemail armor's value is derived from the 
 Costs $750 to repair.
 
 **Enchanted Armor**  
-varies, varies  
-Any melee  
+varies  
+varies  
+varies  
 An enchanted armor costs 3 times the base price and an additional $4,000. Depending on the type of enchantment, attacks of the associated type have disadvantage against the wearer. The Enchantments are as follows:  
 * Insoluble: Acid.
 * Rdiged: Biting.
@@ -35,6 +36,8 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 * Impervious: Necrotic.
 * Tuned: Sonic.
 * Vital: Toxic.
+
+Cost to repair is triple the normal cost.
 
 **Robe of the Nomad**  
 Unarmored  
