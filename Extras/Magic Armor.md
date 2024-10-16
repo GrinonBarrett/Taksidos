@@ -13,7 +13,7 @@ Special creatures which may use it
 Maile  
 $35,000 , 35 lbs.  
 2/4  
-Made of the scales of dragons, this scalemail armor's value is derived from the rarity of material and the skill demanded for its craftsmanship. The wearer gains a +1 bonus to defense against fire if not vulnerable *with an additional +3 bonus to defense against fire*. The wearer also sees a +1 bonus to defense against the attacks of spells so ling as they are not prone or vulnerable.  
+Made of the scales of dragons, this scalemail armor's value is derived from the rarity of material and the skill demanded for its craftsmanship. The wearer gains a +1 bonus to defense against fire if not vulnerable *with an additional +3 bonus to defense against fire*. The wearer also sees a +1 bonus to defense against the attacks of spells so long as they are not prone or vulnerable.  
 Costs $750 to repair.
 
 **Enchanted Armor**  
