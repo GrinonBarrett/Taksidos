@@ -75,11 +75,17 @@ $4,900 , neg.
 Unarmed  
 Technically, two of these exist, but they only function if both are adoned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also influcts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
- **Heart Stealer** (*unique*)  
- $3,400 , 3 lbs.  
- Handaxe  
- A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever the origin, it has been forgotten.  
- *The first attack made with this weapon each round gains a +2 bonus*.
+**Heart Stealer** (*unique*)  
+$3,400 , 3 lbs.  
+Handaxe  
+A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever the origin, it has been forgotten.  
+*The first attack made with this weapon each round gains a +2 bonus*.
+
+**Khaleurthet** (*unique*)  
+$12,000 , 5 lbs.  
+Pole Axe  
+A shorter head than is typical of poleaxes mounts he shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
+If name is known, a critical hit with this weapon may also *inflict a cold attack*.
 
 **Lightning Caller** (*unique*)  
 $8,500, 4 lbs.  
@@ -99,19 +105,19 @@ A mace made with a copious amount of platinum in its flanges. If its name is kno
 **Ritual Femur**  
 $500, 2 lbs.  
 Club  
-A femur which has arcane markings carved into it, ecplaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attack inflicted is necrotic*.  
-Can be found in any size.
+A femur which has arcane markings carved into it, explaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attack inflicted is necrotic*.  
+Can be found in any size, with each size category increasing the weight by half of its current weight.
 
 **Syphoning Sabre** (*unique*)  
 $7,500 , 3 lbs.  
 Longsword  
-A light sword that never seems to stain. If the sabre inflicts the filling blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
+A light sword that never seems to stain. If the sabre inflicts the killing blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
 
 **Sormreir** (*unique*)  
 $1,225 , neg.  
 Broadhead Arrow
-Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shadt is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is elsctric, if 4 it is piercing*.  
-If the user knows the arrow's name, they may choose to influct the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
+Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shadt is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
+If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
