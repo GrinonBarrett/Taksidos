@@ -138,7 +138,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Range**: 1 foot + a number of feet equal to the spellcheck's points of success.
 
-**Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell.
+**Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell. You cannot target a creature of undeath unless you are also a creature of undeath.
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
@@ -282,7 +282,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Casting Time**: 2 actions
 
-**Effect**: You overload a wand in your possesion, casuing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
+**Effect**: You overload a wand in your possesion, causing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
 
 If the spellcheck was a critical success, you may gain a bonus to one of the attacks equal to the points of success for the purpose of determining if the attack is a critical hit.
 
@@ -342,9 +342,25 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **At Higher Tiers**: Each tier beyond minimum increases range by 2 yards and the sphere's size by 1 yard.
 
-**Critical Failure**: The sphere originates just beneath you, propelling your upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
+**Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (5
+### F (6
+
+#### Fetch
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 20 yards
+
+**Effect**: You call an object you have physically possessed before, which you are able to perceive, to come to you. It moves at a speed of 20 yards per move. If an obstacle comes between you and the object, it harmlessly bounces off the obstacle and falls instead of continuing. The object can fall at your feet, conveniently slip into the appropriate container on your p[erson, or enter you hand seamlessly once it arrives.
+
+If a creature has possessed the object since you did, the spell will not work and you will know that the item has been distrubed in some way.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
+
+**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not harmlessly bounce on impact.
 
 #### Feyding Gesture
 
@@ -354,7 +370,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Range**: 10 yards
 
-**Effect**: Target performs a [Prcp] save or becomes dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
+**Effect**: Target must succeed a [Prcp] save or become dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
 Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives to be equal to the spell's tier.
@@ -637,7 +653,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 ### O
 
-### P (2
+### P (3
 
 #### Phasic Wave
 
@@ -667,15 +683,43 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier.
 
+#### Psychoburst
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 5 yards
+
+**Effect**: You produce an unstable portal connected to the psychic energy of a non-mindless creature within range. This inflicts a psychic attack against the target that does not wound them (though the effects of a critical hit still occur). Instead, an explosion of psychic energy which extends out a number of yards equal to the spell's tier, inflicting a psychic attack against anything in the explosion other than your target. The attacks gain a bonus equal to the target's [Inte] bonus divided by the number of creatures in the explosion radius other than the target. Attacks from the explosion have disadvantage against mindless creatures unless they are connected to the psychic plane.  
+Regardless of the spell's effect, if it is cast successfully, the caster knows the arget's exact [Inte] score.
+
+**At Higher Tiers**: FOr each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
+
+**Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic conncetion. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
+
 ### Q
 
-### R (2
+### R (3
+
+#### Regeneration
+
+**Minimum Tier**: 5
+
+**Casting Time**: 10 minutes
+
+**Effect**: You touch a creature which has remained within a yard of you the entire time you cast the spell. It performs an incapacitation save which gains a bonus equal to the number of remaining hitpoints it currently has divided by the number of wounds it currently has. If the check is succesful, you heal a wound of your choice from the creature. If it is a critical success, it also recovers a hitpoint or an instance of hemorhaging (your choice as caster).  
+Failure on the save does not harm the creature in anyway, but a critical failure prevents the creature from being affected by another Regeneration from the same caster of an equal or lower tier in the same day.
+
+**At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus and increases the casting time by 1 minute.
+
+**Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will receive a wound.
 
 #### Resend
 
 **Minimum Tier**: 1
 
-**Casting Time**: 1 reaction, which you take in response to a spell producing a ray or the ranged attack of a wand or staff
+**Casting Time**: 1 reaction, which you take in response to a spell producing a ray or the ranged attack of a wand or staff within range
 
 **Range**: 5 Yards
 
@@ -697,9 +741,38 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards.
 
-**Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of round equal to the points of failure or until an ally spends an action helping you come to your senses.
+**Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (6
+### S (8
+
+#### Sentinel
+
+**Minimum Tier**: 3
+
+**Casting Time**: 8 actions
+
+**Range**: 3 yards
+
+**Duration**: 1 minute or concentration (your choice when casting)
+
+**Effect**: You create a glowing sphere of energy and choose a damage type from the following (Acid, Cold, Cutting, Electric, Fire, Force, Piercing, Radiant, Necrotic) within range. The sphere is small enough to fit in one's hand and can levitate up to 2 yards into the air. While it is active, so long as you can perceive the intended target, you may use your bonus action to produce a ray attack against them of the chosen type. This is treated identically to a wand attack. The sphere puts out dim light for half a foot and does not move on its own. 
+
+If you can perceive it, you may use your action to guide it up to a number of feet equal to the spell's tier. You may also use your action to "set" it, causing it to fire on the next thing to enter its range or to move within its range (your choice). Such a thing must be illuminated in at least dim light to be visible to the sphere. It will ignore you for this purpose.
+
+If the spellcheck was a critical success, you may have the sentinel gain an additional effect depending on the damage type you chose.  
+* Acid: Anything below the sentinel is subjact to an acid attack at the end of each round as acid rythmically drips from the sphere. When the spell ends, you may have the sentinel explode, inflicting an acid attack against anyting within a number of half-feet equal to the spell's tier.
+* Cold: Instead of potentially damaging armor, the sentinel's attack freezes a foe for a number of phases equal to the spell's tier -1.
+* Cutting: The sphere can also attack in melee. When it does so, blades spin around it to inflict a cutting attack against everything within a number of half-feet equal to the spell's tier.
+* Electric: Instead of potentially damaging armo, the attack arcs, inflicting an electric attack against the nearst creature within a number of yards equal to the spell's tier- even if it is not illuminated. A creature struck by any attack from this sentinel, including an arced attack, cannot be struck by an arced attack in the same phase.
+* Fire: The sentinel puts out light like a torch. When the spell ends, you may have it explode. Anything within 1 foot must succeed a [Rflx] save with DV of 10+spell tier or be set ablaze as though by a critical hit from a fire attack.
+* Force: A struck creature is knocked back a number of half-feet equal to the spell's tier +1.
+* Piercing: The attacks of the sentinel can pierce through a struck foe in a straight line, potentially hitting other creatures.
+* Radiant: The sentinel produces bright or fairlight (your choice) out a number of yards equal to the spell's tier, fair light out for a number of yards beyond that equal to the spell's tier, and dim light beyond that for a number of yards equal to the spell's tier.
+* Necrotic: When the spell ends, you may have it explode, inflicting a necrotic attack against everything within a number of feet equal to the spell's tier -1.
+
+**At Higher Tiers**: As seen above, a higher tier provides several benefits.
+
+**Critical Failure**: The create the sentinel, but it seems to have a mind of its own. It will attempt to attack you during each action phase. In addition, it can attempt to attack the nearest creature to it at the end of each movement phase. A creature must be illuminated in at least dim light for the sphere to see it, but does not require that light to attack you. The sentinel always lasts for a minute this way.
 
 #### Silent Alarm
 
@@ -711,7 +784,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Effect**: You magically mark a set point, up to 1 square foot, or a single portal (such as a door, window, or the opening of a container) you touch to alert you psychically if disturbed. In the case of a specific point, it is disturbed if something comes in contact with it. In the case of a portal, it is disturbed if opened or closed. Alternatively, you may have the spell psychically connected to an arcane device instead of yourself.
 
-Once disturbed, if you are within the alarm's range, you will be alerted to the intrusion.
+Once disturbed, if you are within the alarm's range, you will be alerted to the intrusion (or the possessor of the arcane device).
 
 This spell last a day.
 
@@ -779,6 +852,20 @@ The globe can stop at the directed point and hover in place. While active this w
 
 **Critical Failure**: The sphere doesn't stablize as it forms, causing it to detonate in your grasp. The attacks from the spell gain a bonus against you equal to the spell's tier. Additionally, anything within range must succeed a DV 18 [Prcp] or [Rflx] save or be blinded for a number of minutes equal to the points of failure. You are instead blinded for a number of hours equal to the points of failure. Even if you succeed your save, you will be blind for a number of minutes equal to the spell's tier.
 
+#### Sunshower
+
+**Minimum Tier**: 2
+
+**Casting Time**: 15 actions
+
+**Effect**: You cause an unnatural form of rain to occur. It is just heavy enough to soak things and put out non-magical fires, but not enough to create any particular kind of storm or cloud. The area affected by stretch out up to a mile from the caster, or be as fine as a 1 yard circle adjacent to them. The water disappears almost as quickly as it appears, lasting a minute per spell tier. Attempts at collecting this water can only yield a single serving per spell tier.  
+In addition, counterspell checks made within the area of this rain suffer a penalty equal to this spell's tier.
+Cannot be cast at night.
+
+**At Higher Tiers**: These benefits are noted above.
+
+**Critical Failure**: You receive 1d4 points of spell sickness as things don't quite seem right. This die is icreased by one step for each tier beyond minimum it was cast, if applicable.
+
 #### Swift Bolt
 
 **Minimum Tier**: 2
@@ -793,7 +880,35 @@ The globe can stop at the directed point and hover in place. While active this w
 
 **Critical Failure**: You fail to ground yourself aginst the charge of the tether, causing yourself to be afflicted by the attack instead. The attack gains a +1 bonus against you for each tier beyond first.
 
-### T (1
+#### Synnefopothy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 actions
+
+**Duration**: 1 hour
+
+**Effect**: A creature you touch becomes enchanted in such a way that it treats clouds, and thick vapourous substances (like a harsh fog or smoke) as a solid object. this cause it to be able to stand atop such a material and potential form it, but also causes it to function like a barrier to it. The narrator determines if a substance is considered as hard as wood, stone, or metal to them- but clouds are functionally as stone to the subject.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
+
+**Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
+
+### T (2
+
+#### Tell Undead
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You psychically give an undead creature you can perceive a missive or order, which can take the form of a single sentence, that is accompanied by a word or a gesture. It must succeed a [Will] save or follow through with it so long as it does not violate its own moral tenets. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. A mindless creature has disadvantage against this and clearly has no concerns with morlity or its own self preservation.
+
+**At Higher Tiers**: For each tier above minimum, you may target an additional creature within range.
+
+**Critical Failure**: You have managed to attract the attention of those creatures you sought to tell. For a number of days equal to the points of failure, they will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, they gain advantage on their attacks against you. Additionally, during this time, they will know the general direction towards you- butnot how far.
 
 #### Thornvalder
 
@@ -809,9 +924,63 @@ The globe can stop at the directed point and hover in place. While active this w
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
 
-### U
+### U (2
 
-### V 
+#### Undying Globe
+
+**Minimum Tier**: 4
+
+**Casting Time**: 10 actions
+
+**Effect**: A sphere of necromantic energy expands out 10 yards from yourself. This globe is an incorporeal entity with points of undeah equal to 25 + [Magic] bonus per spell tier. Being incorporeal, others may occupy the same space it does. Any creature† which attempts to enter the space of the globe must succeed a [Will] save with a DV of triple the spell's tier + your [Magic] bonus or fail to do so. Additionally, if such a cretaure attempts to enter the globe, the caster may use their reaction to preven them from doing so.
+
+The globe can be destroyed as though it were a creature of undeath. Non-magical attacks must be made against the outer barrier of the globe itself to be effective. Magical atttacks passing through the barrier from outside are inflicted against the globe instead of their target. Other magical attacks against or through the space of the barrier function normally.
+
+At the end of each round, any creature† within the sphere is subject to a necrotic attack.  
+Any creature of undeath cannot recover points of undeath while inside the globe.  
+Anytime a creature performs an incapacitation roll while within the globe, the caster may provide a bonus or penalty up to the tier of the spell.
+
+You may concentrate on this spell when you cast it, forfeiting actions to do so. It lasts until your concentration fails, is ended by your own choice, or it is destroyed.
+
+†Excluding constructs, elementals, ephemera, and undead.
+
+**At Higher Tiers**: Each tier beyond minimum increases the spheres size, allowing it to reach out and yard from you.
+
+**Critical Failure**: You cast the circle around yourself. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot, keeping itself centered on you. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of fire attacks against you equal to the tier of the spell. An immunity to the harm of fire does not protect you from this, but instead has the attacks made with disadvantage.
+
+
+#### Unrest for Undeath
+
+**Minimum Tier**: 3
+
+**Casting Time**: 6 actions
+
+**Range**: 3 yards
+
+**Effect**: From you emits a circle of energy which distrubs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, raadiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
+Any undead creature first affected by the circle of the spell is subject to an undamaging attack. If it is a critical sucess, the creature is destroyed.
+
+You may concentrate on this spell when you cast it, forfeiting actions, reactions, and movement to do so. If you do, at the end of each action phase, the effects of the ciricle are applied again. Furthermore, you may use your reaction to inflict an additional attack against an undead or ephermal creature of a type not chosen from the options of the circle without breaking your concentration on the spell. Note that a creature is only affected by the undamaging attack the first time the casting of the spell affects it.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 1.5 yards.
+
+**Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
+
+### V (1
+
+#### Volt Switch
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 2 yards
+
+**Effect**: You perform an electrical attack against a creature within range. If successful, you may switch turn order chits with that creature, as though you both agreed to a tag. You may choose not to wound a creature affected by this spell. If you do, it still applies the effect of a critical hit.
+
+**At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards.
+
+**Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
 ### W (4
 
@@ -846,7 +1015,7 @@ This spell is active as long as you concentrate on it. When casting or concentra
 
 **Effect**: You cause a 3 yard fan of necrotic energy to pulse out. Anything in the area suffers a necrotic attack. After a number of rounds has passed equal to the spell's tier, any afflicted creature is subject to an incapacitation save. A creature with no remaining hitpoints has disadvantage on this save.
 
-Undead creatures and those produced by the animation spell cannot be subject to the disadvantage for not having hitpoints.
+Construct, Ephemera, and Undead creatures, and those produced by the Animate spell, cannot be subject to the disadvantage for not having hitpoints.
 
 **At Higher Tiers**: Each tier beyond the minimum allows you pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
@@ -858,13 +1027,13 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 **Casting Time**: 1 action or reaction
 
-**Range**: 1 foot
+**Range**: 5 yards
 
-**Effect**: Instantly move to an unoccupied point of space within range. If you would still be in range of an attack made against you, you are still subject to the attack.
+**Effect**: Instantly move to an unoccupied point of space within range. If you (or another creature affected by this spell) would still be in range of an attack made against you, you are still subject to the attack.
 
-**At Higher Tiers**: Each tier beyond minimum sees the range increase by 1 foot.
+**At Higher Tiers**: Each tier beyond minimum sees the range increase by 2 yards or allow you to tranpsort one additional willing creature you are touching.
 
-**Critical Failure**: You fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
+**Critical Failure**: You manage to get halfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
 
 #### Wretched Ray
 
@@ -882,7 +1051,7 @@ Undead creatures and those produced by the animation spell cannot be subject to 
 
 ### X
 
-### Y (1
+### Y (2
 
 #### Yellow Mark
 
@@ -898,9 +1067,23 @@ This cannot affect Eldritch, Ephemera, Fiends, or Undead.
 
 If you know this spell, you can indentify marks made with it- even if you do not understand the meaning of the exact sigils formed by it.
 
-**At Higher Tiers**: Each tier beyond provides benefits as noted above.
+**At Higher Tiers**: Each tier beyond minimum provides benefits as noted above.
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
+
+#### Ygroapothy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 actions
+
+**Duration**: 1 hour
+
+**Effect**: A creature you touch becomes enchanted in such a way that it treats liquids as a solid object. this cause it to be able to stand atop such a material and potential form it, but also causes it to function like a barrier to it. The narrator determines if a substance is considered as hard as wood, stone, or metal to them- but clouds are functionally as stone to the subject.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
+
+**Critical Failure**: You have managed to invert the enchantment. Yourself and the subject cannot swim in liquids and instead sinks to the bottom, having to walk along he surface at the bottom for the duration.
 
 ### Z (2
 

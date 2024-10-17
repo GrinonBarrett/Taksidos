@@ -1,36 +1,36 @@
-### Thursar
-Giants bent by malice and greed. Their very presence can sicken lesser creatures. Despite the commonly perceived association between them and bogkin, they actually possess a mutual hatred of each other. The plural is Thursain. Their collective noun is a Clash.
+### Saltsinger
+Elves of the eastern saltflats, they are known for their calling to wanderers and adventurers with various sound and song only to ambush them. They do not leave their homeland under any circumstance and have foiled attempts to establish operations in the flats. Their prefered combat tactic is to pelt foe from afar with missiles and screeches and begin a mass deep chant before the for can close in. An ambushed party will find themselves caught in a circle of deep chanting referred to as the "Saltsinger's Funeral Hymn". Their collective noun is a Chorus.
 
-**Creature Type**: Thursain are Humanoids.
+**Creature Type**: Saltsingers are Sylvan.
 
-**Size**: Thursain stand between 9' and 9'9" tall. They can weigh between 450-800 pounds. They are large creatures.
+**Size**: Saltsingers stand between 4' and 5,9" tall. They can weigh between 100-140 pounds. They are medium creatures.
 
-**Hitpoints**: Thursain have 5 Hitpoints.
+**Hitpoints**: Saltsingers have 2 Hitpoints.
 
 **Attributes**:  
-[Body] 21 (+7)  
-[Fort] 18 (+6)  
-[Rflx] 10 (+3)  
-[Will] 10 (+3)  
-[Inte] 10 (+3)  
-[Prcp] 12 (+4)  
-[Empy] 7 (+2)  
+[Body] 9  (+3)  
+[Fort] 14 (+4)  
+[Rflx] 11 (+3)  
+[Will] 14 (+4)  
+[Inte] 7  (+2)  
+[Prcp] 15 (+5)  
+[Empy] 9 (+3)  
 
-**Languages**: Thursain speak Jotine.
+**Languages**: Saltsingers speak their own langugage.
 
-**Run Speed**: It may run up to 6.5 yards per move.
+**Run Speed**: It may run up to 6 yards per move.
 
-**Climb Speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: It may climb up to 2.5 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 2 yards per move, presuming the water isn’t too rough.
 
-**Weapon Attacks**: The thursar is capable of using weapons. It even has proficiency in four weapons (usually club, mace, dagger, and thrown blades).
+**Weapon Attacks**: The saltsinger is capable of using weapons. It even has proficiency in two weapons (usually among clubs, slings, javelins, and spears).
 
-**Defenses**: A thursar can use armor and a shield.
+**Defenses**: A saltsinger can, hypothetically, use armor and a shield. They are seldom to as such items are rare for them.
 
 **Unarmed Attacks**;
 
- • Unarmed Strike: The thursar may use part of its body to strike a foe within 2 feet. This is a melee bare attack.
+ • Unarmed Strike: The saltsinger may use part of its body to strike a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
@@ -41,7 +41,7 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 | Bare                   | 11 - 15   | 13 - 16  | 15 - 18    | 16 - 19 | 16 - 19    | 19 - 22 |
 | Longsword              | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Mace                   | 7 - 10    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Spear                  | 6 - 9     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
+| Spear                  | 5 - 8     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Hand Axe               | 6 - 9     | 9 - 11   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Katar                  | 5 - 8     | 8 - 10   | 10 - 12    | 13 - 15 | 13 - 15    | 16 - 19 |
 | Dagger                 | 6 - 9     | 8 - 10   | 12 - 13    | 14 - 16 | 13 - 15    | 15 - 18 |
@@ -51,7 +51,7 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 | Pole Axe               | 5 - 8     | 8 - 10   | 9 - 11     | 12 - 14 | 12 - 14    | 16 - 19 |
 | Greatsword             | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
 | Maul                   | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
-| Pike                   | 5 - 8     | 7 - 9    | 9 - 11     | 12 - 14 | 12 - 14    | 16 - 19 |
+| Pike                   | 6 - 9     | 7 - 9    | 9 - 11     | 12 - 14 | 12 - 14    | 15 - 18 |
 | Club                   | 7 - 10    | 10 - 12  | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
 | Madu                   | 6 - 9     | 8 - 10   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
 |                        |           |          |            |         |            |         |
@@ -69,23 +69,23 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 |                        |           |          |            |         |            |         |
 | Unlisted Weapons       | 6 - 9     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 16 - 19 |
 |                        |           |          |            |         |            |         |
-| Acid                   | 4 - 7     | 8 - 10   | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Biting                 | 3 - 6     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
-| Cold                   | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 11 - 13    | 14 - 17 |
+| Acid                   | 5 - 8     | 8 - 10   | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
+| Biting                 | 5 - 8     | 7 - 9    | 10 - 12    | 13 - 15 | 12 - 14    | 16 - 19 |
+| Cold                   | 5 - 8     | 9 - 11   | 11 - 13    | 13 - 15 | 11 - 13    | 14 - 17 |
 | Crushing               | 6 - 7     | 9 - 10   | 11 - 12    | 13 - 14 | 12 - 13    | 15 - 16 |
-| Cutting                | 4 - 7     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
-| Electrical             | 5 - 8     | 9 - 11   | 10 - 12    | 12 - 14 | 11 - 13    | 14 - 17 |
+| Cutting                | 5 - 8     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
+| Electrical             | 4 - 7     | 9 - 11   | 10 - 12    | 12 - 14 | 11 - 13    | 14 - 17 |
 | Fire                   | 5 - 8     | 7 - 9    | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 | Force                  | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Ki                     | 6 - 9     | 8 - 10   | 10 - 12    | 11 - 13 | 12 - 14    | 14 - 17 |
-| Necrotic               | 3 - 6     | 9 - 11   | 11 - 13    | 13 - 15 | 13 - 15    | 17 - 20 |
+| Necrotic               | 2 - 5     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 16 - 19 |
 | Piercing               | 6 - 9     | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 14 - 17 |
 | Psychic                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 | Radiant                | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
-| Sonic                  | 4 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
-| Toxic                  | 12 - 15   | 13 - 15  | 13 - 15    | 14 - 16 | 14 - 16    | 16 - 19 |
+| Sonic                  | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
+| Toxic                  | 5 - 8     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 15 - 18 |
 |                        |           |          |            |         |            |         |
-| Undamaging*            | 7 - 10    | 9 - 11   | 10 - 12    | 11 - 13 | 11 - 13    | 13 - 16 |
+| Undamaging*            | 9 - 12    | 10 - 12  | 11 - 13    | 12 - 14 | 12 - 14    | 14 - 17 |
 |                        |           |          |            |         |            |         |
 | Unlisted Damage Type   | 5 - 7     | 8 - 10   | 10 - 12    | 12 - 14 | 12 - 14    | 14 - 17 |
 
@@ -114,18 +114,23 @@ Giants bent by malice and greed. Their very presence can sicken lesser creatures
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
--------------
+-----
+
+#### Variants
+Among the saltsingers, there are a few standouts. 
+
+**Archer**: Gaining specialty in the Bow, the archers are also equiped with gambeson and a buckler in addition to one of the weapons they have proficiency with.
+
+**Cave Dweller**: Seldom to leave the caverns in the center of the flats, these magically proficient individuals know severeal spells. These include; _Abaxiate_, _Behest_, _Calm_, _Feyding Gesture_, _Rotword_, and one other spell. They add their [Empy] bonus to their spellchecks and counterspell checks. They wear a crude form of maile which is completely ruined if damaged. They can quickly remove such damaged armor as an action. Cave Dwellers only have a single hitpoint.
+
+-----
 
 #### Special Features
 
-**Show of Strength**: When the thursar would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
+**Magical Resistance**: Saltsingers gain a +1 to defense against magical attacks and a 1d6 bonus to saves against magical effects.
 
-**Vile Smell**: Any checks made to detect a thursar by smell gains a 1d12 bonus.
+**Elfish Resistances**: Saltsingers cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
 
-**Thursaine Aura**: Any creature within 25 yards is subject to accrue a disease known as the Fetid Fever. After exposure for a number of minutes equal to 1d20 + the subjected creature's [Fort] score, it will contract the disease. A thursar is immune to this.
+**Targeted Screech**: Once per encounter, as an action, the saltsinger can loose a horrid screech. Treat as a *sonic attack against a foe within a number of yards equal to the target's [Prcp]*.
 
-**Toxic Aura**: After a full minute being within 25 yards of a thursar *a creature is subject to a toxic attack at the end of each round while within 25 yards of the thursar*. This is a magical disease effect.
-
-**Venomous Attacks**: Anytime the thursar inflicts a critical hit with an attack roll, whether it be an unarmed attack, weapon attack, or spell- it also *inflicts a toxic attack*.
-
-**Poison Spreader**: If the thursar is affected by a poison, venom, or disease- it *will spread it in addition to the Fetid Fever of its Thursaine Aura feature*.
+**Deep Chanting**: All saltsingers are capable of casting the *Deep Chant* spell and can choose to exclude other saltsingers from being affected by their spell.

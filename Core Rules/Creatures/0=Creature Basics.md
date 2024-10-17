@@ -38,6 +38,7 @@ Hunger
 **Avian**. Birds.  
 **Beast**. Land-dwelling warm-blooded creatures.  
 **Bigenerae**. Creatures which are themselves hybrids of two other manner of creature.  
+**Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.
 **Drakomadiae**. Mythical creatures.  
 **Eldritch**. Atemporal creatures.  
 **Elementals**. Manifestations of the native form of energy to a plane of existence.  
@@ -58,3 +59,6 @@ Hunger
 **Bulcher**: A miscellaneus creeping and/or crawling thing with a terrifying feature.  
 **Riner**: A witch-type creature. Something which dwells in a secluded place and can perform magic in exchange for favors or can harm trespassors.  
 **Valder**: A spirit of nature which appears rather spontaneously. Said that those attuned to nature can call upon them.
+
+## CREATURE SPELLCASTING
+If a creature knows one or more spells, but no spellcasting rules are provided, it is assumed to be wyrding for its spellcasting.

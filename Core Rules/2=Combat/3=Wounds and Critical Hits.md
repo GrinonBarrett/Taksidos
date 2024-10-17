@@ -23,12 +23,12 @@ When a critical hit occurs against a creature, it inflicts an additional effect 
 | Electrical             | Creature must succeed a [Rflx] save or receive an additional wound and have its armor damaged. |
 | Fire                   | The struck foe is lit ablaze. At the end of each round, the fire causes an additional fire attack roll against the struck creature (with none of the usual combat modifiers) to possibly inflict another wound. A struck creature may expend its reaction and an action to pat out or smother the flames by roll (uses reaction and movement). Multiple instances of fire critical hits are not cumulative. |
 | Force                  | Creature must succeed a [Body] save or be knocked prone and be knocked back a number feet equal to the points of failure. |
-| Ki                     | Struck foe loses a hitpoint if they have any remaining, otherwise it receives an additional wound. |
-| Necrotic               | Creature loses the use of one of its limbs or appendages (randomly decided). This is treated as an additional wound. This wound lasts until healed. If caused by a magical means, a magical means is required to heal it. |
+| Ki                     | Struck foe loses a hitpoint if they have any remaining, otherwise it is vulnerable until the next time it is wounded before the end of the next round. |
+| Necrotic               | Creature loses the use of one of its limbs or appendages (randomly decided). This is treated as an additional wound. This wound lasts until healed. If caused by a magical means, a magical means is required to heal it. If no such limb is available, inflict an additional wound instead. |
 | Piercing               | Struck foe suffers an additional wound. |
 | Psychic                | Struck foe receives a point of Spell-Sickness. Additionally, it must succeed a [Will] or [Inte] save (their choice) or be dazed for a number of rounds equal to the points of failue. |
 | Radiant                | Creature is dazed until the end of the next round. Creature must succeed a [Rflx] or [Prcp] save or have disadvantage on all [Prcp] checks and saves for a number of rounds equal to the points of failure. |
-| Sonic                  | Struck creature must succeed a [Fort] or [Will] save (their choice) or become incapacitated (but stable). |
+| Sonic                  | Struck creature must succeed a [Fort], [Will] or [Prcp] save (their choice) or become incapacitated (but stable). |
 | Toxic                  | The creature has acquired a sickness which causes a -1 to all saves and disadvantage on [Fort] checks. Until this sickness is cured or the creature completes a long or full rest, anytime the creature reveives a wound it must make a [Fort] save or be treated as having an additional wound. This faux wound is actually a posion or disease and is cured as such.|
 |                        |           |
 

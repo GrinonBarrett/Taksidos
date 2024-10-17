@@ -1,5 +1,5 @@
 ### Animate Skeleton
-Created by necromancy or some powerful dark magic, animate skeltons are not always malicious.
+Created by necromancy or some powerful dark magic, animate skeltons are not always malicious. Their collective noun is a rattling.
 
 **Creature Type**: Animate Skeletons are undead.
 

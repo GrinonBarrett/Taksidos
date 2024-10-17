@@ -5,7 +5,7 @@ Though it can vary in its coloration from specimen to specimen, it always takes 
 
 **Size**: Infectious puddings are about 5"-6" tall and less than a yard in length. They can weigh up to 15 pounds. They are diminutive creatures.
 
-**Languages**: Frighambulchers don't speak.
+**Languages**: Infectious Puddings don't speak.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes                                                        |

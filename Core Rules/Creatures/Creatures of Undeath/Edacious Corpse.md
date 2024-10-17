@@ -1,5 +1,5 @@
 ### Edacious Corpse
-Borne of the death of those that hunger, they have been known to form roaming herds during famine. Edacious corpses will always try to eat an adventurer when enountered.
+Borne of the death of those that hunger, they have been known to form roaming herds during famine. Edacious corpses will always try to eat an adventurer when enountered. Their collective noun is a shamble.
 
 **Creature Type**: Edacious Corpses are undead.
 

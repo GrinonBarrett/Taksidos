@@ -1,11 +1,11 @@
 ### EXOTIC ITEMS
 Here are some of the more magical items one may come across. 
 
-**Boutava's Beneficial Bourbon**, $125 per bottle, 3 lbs.  
+**Boutava's Beneficial Bourbon**, $275 per bottle, 3 lbs.  
 The bottle includes a paper adhered to its body, 
 > "When the eldritch horrors get rough with your body, reach for the smooth taste that replenishes your soul. With 17 essential vitamins and minerals and a proprietary blend of fine spirits and botanicals, our cask strength panacea can be used by adventurers of any experience with complete confidence. While others may sell you oil d'naga blends with subpar liquors, we have taken oaths to 3 different gods of festivities to ensure our employees never falter in delivering to you the premium product you demand for your active lifestle. When you are close to joining the spirits, choose the spirits more professionals reach for."
 
-A bottle contains 25 servings, which are each capable of giving a character 2 points of enebriation. A character gains no hydration from this and will infact require an additional serving of water for every 3 servings they partake in. Whether taken orally or topically, this can provide a 1d4 *(+1 as an effect of its latent magics)* bonus to a medicine check to the one it is administered. Additionally, *there is a % chance equal to the number of servings they take that they will recover a single hitpoint*.
+A bottle contains 25 servings, which are each capable of giving a character 2 points of enebriation. A character gains no hydration from this and will infact require an additional serving of water for every 3 servings they partake in. Whether taken orally or topically, this can provide a 1d4 *(and an additional +1 as an effect of its latent magics)* bonus to a medicine check to the one it is administered. Additionally, *there is a % chance equal to the number of servings they take that they will recover a single hitpoint*.
 
 **Coldon's Powdered Ale**, $200 per serving, neg.  
 _This powder can turn half a serving of water into a serving of ale by sprinkling it into the water and giving it the slightest stir_. We don't know how this works anymore than you, but we wish it wasn't so expensive. Roll a d20. The narrator secretly chooses a number. If the die result matches the number, the ale will taste awful. Otherwise, it is rather servicable.
@@ -63,7 +63,7 @@ For an hour after this potion's effect ends, the imbiber suffers a -1 penalty to
 **Potion of Stamina**, $160, .4 lb.  
 After imbibing this as an action, _you gain a +1 bonus to your next [Body] save made within 1d8+2 minutes. If you would take on a level of fatigue for any reason other than performing a speacial feature or a magical effect during this time, you perform a [Fort] save with DV of 22. If successful, the total fatigue you receive is reduced by 1 and the potion’s effect ends_.  
 
-**Resistance Potion**, $400, .2 kg.  
+**Resistance Potion**, $400, .45 lb.  
 A concoction which comes in a variety of equally awful flavors. These potions can be consumed in 3 whole rounds, though some may find 5 necessary to deal with the taste. The potion itself is designed with one of the below damage types. _For the next 1d3+3 hours, all attacks of the appropriate type against you have disadvantage. You suffer a -1 penalty to [Fort] checks and saves during this time and for an hour afterwards_.  
   • Acid, Cold, Fire, Electrical, Necrotic, Psychic, Radiant, Sonic, Toxic.
 

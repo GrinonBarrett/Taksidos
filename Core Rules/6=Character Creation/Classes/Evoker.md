@@ -27,7 +27,7 @@ When you perform a counterspell check, you may add your [Body] bonus.
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Will]. The optimal range is a minimum of 3 yards and a maximum number of yards equal to your [Body].
 
 ### Ki Step
-You may spend at least 2 points of ki to instantly move up to a number of feet equal the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled.
+You may spend at least 2 points of ki to instantly move up to a number of yards equal the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them.
 
 ### Super Techniques
 You are capable of learning special techniques which harness your ki in more powerful ways. You may learn a total number of super techniques equal to your heroism.
@@ -92,7 +92,7 @@ The user spends 2 ki to fire a ki blast against a foe, with its range doubled. O
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Fort].
 
 **Cruel Strike**  
-The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and then perfom a movement.
+The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack and then perfoms a movement.
 
 **Dragon Fist**  
 The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
