@@ -1,20 +1,20 @@
 ### Arloukuazh
-A true dragon of greed. He has conquered the ancient homeland of the Yasani, among its neighbors, and slain their king. His taxations and militant expansion have birthed a tyranical regime. He is cunning and among he few dragons to convince other dragons to serve under him.
+A true dragon of greed. He has conquered the ancient homeland of the Yasani, among its neighbors, and slain their king. His taxations and militant expansion have birthed a tyranical regime. He is cunning and among the few dragons to ever convince other dragons to serve under him.
 
 **Creature Type**: He is a drakomadeia.
 
 **Size**: He is 87 feet in length, stands about 35 feet, and weighs about 33,000 pounds. He is a huge creature.
 
-**Hitpoints**: He has at least 5 hitpoints.
+**Hitpoints**: He has at least 5 hitpoints. With his horde, it is 29.
 
 **Attributes**:  
-[Body] 25 (+8)  
-[Fort] 18 (+6)  
+[Body] 72 (+24)  
+[Fort] 25 (+8)  
 [Rflx] 15 (+5)  
-[Will] 22 (+7)  
+[Will] 41 (+13)  
 [Inte] 18 (+6)  
 [Prcp] 12 (+4)  
-[Empy] 12 (+4) 
+[Empy] 16 (+5) 
 
 **Languages**: Arloukuazh speaks {7 languages}.
 
@@ -38,7 +38,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 
 -----
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* - **His defense bonus granted by his horde is +4.**
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
@@ -59,8 +59,6 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 | **Electrical**             | 15     | **Piercing** | 13     | **Biting** | 15    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 15 |
-
-
 
 **Table**: *Wound Allocation* {Fix Later}
 | Result | **Name of Wound** | Effects                                                        |
@@ -99,7 +97,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, amo
 * For every $525,000 he has, his [Empy] is increased by 1.
 
 These bonuses to attributes and hitpoints are included above.  
-Arloukazh's total bonus to spell checks and counter spell checks as a result of this feature is 
+Arloukazh's total bonus to spell checks and counter spell checks as a result of this feature is +9
 
 **Massive**: For every 3 tons of weight, he has an additional hitpoint. While he has hitpoints, if a wound roll die result is the same as or within 1 step of its current hitpoints, he does not receive a wound. He still loses his hitpoint. When attacked by a weapon or unarmed attack by a smaller creature than himself while it has hipoints- if the attack roll result is equal to its current hitpoints or within a number of steps equal to the difference in size category, he does not receive the wound or lose a hitpoint. This bonus is included above.
 
@@ -109,8 +107,18 @@ Arloukazh's total bonus to spell checks and counter spell checks as a result of 
 Alternatively, he may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as he sweeps his head side to side.  
 So long as his horde is worth more than $20,000,000- the attacks from this are made with advantage.
 
-**Draconic Magic**: He is capable of casting spells. He adds his [Will] bonus to his spellchecks and counterspell checks. He knows the following spells;  
-
+**Draconic Magic**: He is capable of casting spells using wyrding and uses his [Will] as his [Magic]. He adds his [Will] bonus to his spellchecks and counterspell checks. He knows the following spells;  
+* Alarum
+* Blast Lightning
+* Decombustion
+* Deep Chant
+* Fetch
+* Sentinel (which he prefers casting as fire, piercing, or cold)
+* Silent Alarm
+* Spectral Burst
+* Tell Undead
+* Ygroapothy
+* Zenith
 
 -----
 
@@ -124,14 +132,14 @@ If somehow he is stripped of his wealth in its entirety, this is his attributes:
 [Prcp] 12 (+4)  
 [Empy] 12 (+4)  
 
-However, his horde includes the following:  
+However, his horde currently includes the following:  
 $300,000 in various coinage.  
 $400,000 in copper.  
 $375,000 in gold.  
 $200,000 in silver.  
 $650,000 in various gemstones.  
 A Dissolving Dagger ($5,180).  
-Fleres *$4,000).  
+Fleres ($4,000).  
 A Nasty Pole Axe ($5,660).  
 Ruined Lorica
 Khaleurthet ($12,000).
@@ -140,4 +148,4 @@ A Torch of Dulzorn ($1,000).
 Tainted Targe ($900).
 A single Orb of Anihilation ($500,000).
 
-Total: $??????
+Total: $2,487,740
