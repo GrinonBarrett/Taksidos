@@ -1,6 +1,7 @@
 For this update:
 
 * Finish our first true dragon.
+* Finish Languages.
 * Create rules for raising militias and armies.
 * Create the Jeel, a generic Ooze creature whose material can be used for alchemic materials.
 * Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
