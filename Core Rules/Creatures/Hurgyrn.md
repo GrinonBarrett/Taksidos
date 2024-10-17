@@ -1,5 +1,5 @@
 ### Hurgyrn
-Possessing the head of a panther, mane of a hyena, arms and torso of a gorilla, and the lower quarters like an owl were it covered in thick fur- these vaguely humanoid monsters can be appropriately called monsters. Though they form tribes, their behaviour within those structures is akin to wild dogs. THeir collective noun is Tribe. 
+Possessing the head of a panther, mane of a hyena, arms and torso of a gorilla, and the lower quarters like an owl were it covered in thick fur- these vaguely humanoid monsters can be appropriately called monsters. Though they form tribes, their behaviour within those structures is akin to wild dogs. Their collective noun is Tribe. 
 
 **Creature Type**: Hurgyrn are Humanoids.
 
