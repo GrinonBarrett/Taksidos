@@ -95,7 +95,7 @@ A scoundrel who isn't even considered any form of arcanist. He is a thief and a 
 
 You gain a bonus to the spell check while casting that spell equal to the tier you cast this spell as plus the highest tier you cast this spell as.
 
-**At Higher Tiers**: The duration of this spell is increased by 1 action for each tier beyond minimum.
+**At Higher Tiers**: These benefits are noted above.
 
 **Critical Failure**: For a number of days equal to this spell's tier, your spell-sickness penalty for trying to cast the spell contained in the staff is doubled. The staff is not destroyed.
 
