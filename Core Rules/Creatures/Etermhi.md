@@ -24,7 +24,7 @@ Also known as pool spirits, they are attached to natural bodies of water. They c
 
 **Unarmed Attacks**;
 
- • Slam: The etermhi may use any part of its body to strike a foe within 1 yard, inflicting a bare attack. If it is connected to its pool and striking a foe also within its poo, it may treat it as a force attack.
+ • Slam: The etermhi may use any part of its body to strike a foe within 1 yard, inflicting a bare attack. If it is connected to its pool and striking a foe also within its pool, it may treat it as a force attack.
 
 ---------------------
 
