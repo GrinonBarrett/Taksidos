@@ -15,6 +15,7 @@
 | Hydroglossa | Hydron | - | The language of water elementals and associated creatures. |
 | Auraglossa | Auric | - | The language of air elementals and associated creatures. |
 | Terraglossa | Terran | - | The language of earth elementals and associated creatures. |
+| Gobil | Cuniform | - | A rare language spoken b Cobals and a few other creatures. |
 | Lakhasi | Hydron | TBD | A common language among the east. |
 
 ###### Langugages still need some work. :/
