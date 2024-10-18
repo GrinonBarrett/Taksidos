@@ -1,6 +1,5 @@
 For this update:
 
-* Finish our first true dragon.
 * Finish Languages.
 * Create rules for raising militias and armies.
 * Create the Jeel, a generic Ooze creature whose material can be used for alchemic materials.
