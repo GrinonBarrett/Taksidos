@@ -31,6 +31,8 @@ Considered a nuisance by most, these creatures can ruin crops and household good
 
 **Run Speed**: It may run up to 2 yards per move.
 
+**Climb Speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to do so.
+
 **Unarmed Attacks**;
 
  • Venomous Touch: The jeel can attempt to digest a creature it is contact with. This is a melee acid attack made with disadavantage which may only be performed against a grappled foe.
