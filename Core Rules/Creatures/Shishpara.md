@@ -84,7 +84,7 @@ These six-winged creatures are capable of picking up goats and even children as 
 |   10   | Glancing Blow     | No ill effect. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Sieze Up          | **Biased wound**.  |
+|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
