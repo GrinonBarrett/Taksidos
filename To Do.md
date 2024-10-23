@@ -8,6 +8,8 @@ For this update:
 * Create a Lignafaguer. A six "legged" creature which feeds one wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw fool of short razor sharp teeth. If grappling a foe, it can bits to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
 * Create a Jangling Mound. A spirit of greed which is an animated horde of coins. Difficult to harm. Damage dealt to it frees coins from the horde. Each one manifests a unique coin which captures the image of the spirit's original form on one side and an engraving of incomprehensible writing on the other side along with its name.
 * Create the enthralling (tobacco?) plant creature that kills its minion by the same chemical agent it uses to gain their control that Da improvised.
+* Create the JP inspired pterasaur with a venomous bite. High intelligence and very fast. Short burst of flight.
+* Create Zersus, the figure garbed in a bold duster jacket with a large eyeball for a head and a mane of feathers. We have plans for this fella.
 
 For next update:
 
@@ -59,7 +61,6 @@ Flesh out bestiary.
 * Will add Bear
 * Will add Sun Bear :<)
 * Will add Alligator
-* WIll add Preying Mantid
 * Will add a Koulaz (a hooded humanoid looking monster that steals disobedient children)
 * Will add a Grindylow (change the spelling possibly)
 * Will add Vodnik?!
@@ -105,6 +106,6 @@ Non-Canon Classes, Done:
 ###### Non-Canon classes are intended to be fully fleshed out and balanced classes, but many will not want them in their campaigns.
 
 Possible classes to do:  
-**?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this)  
+**?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this or n alternative magic option for mystics)  
 Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
 *?**?**?* (A class inspired by old martial arts movie choreography, which gets certain benefits while disadvantaged)
