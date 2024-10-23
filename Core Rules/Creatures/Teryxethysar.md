@@ -95,12 +95,12 @@ Resembling an oversized azhdarchiforme, these creatures are apex predators. They
 
 -----
 
-**Full Body Jump**: The leap distance of the teryxethysar is multiplied by its body.
+**Full Body Jump**: The leap distance of the teryxethysar is multiplied by its [Body] bonus.
 
 **Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
 
 **Venomous Bite**: When the teryxethysar successfully completes a biting attack against a foe, it also inflicts a toxic attack. If the toxic attack is successful, the creature will be subject to a necrotic attack after one minute and another toxic attack a minute after that. This occurs for each initial toxic attack which is successful.
 
-**See Magic**: The teryxethysar can see magical fileds, auras, etc. They can also see creatures that possess spell sickness and know when a creature they can see is casting a spell.
+**See Magic**: The teryxethysar can see magical fields, auras, etc. They can also see creatures that possess spell sickness and know when a creature they can see is casting a spell.
 
 **Dive**: If the teryxethysar flies at least 50 yards in the previous round, it gets a bonus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-fifth of the total yards moved since the beginning of the previous round.
