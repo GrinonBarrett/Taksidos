@@ -73,7 +73,7 @@ Spices which simply cannot be obtained locally and are more difficult to to grow
 **Silver**			$1,000 per lb.  
 Prized primarily for use in jewelry and arcane devices. The oxide is used particularly for arcane devices and some supernatural creatures seem to be warded by it.
 
-**Sudokahest**			$1,400 per lb.
+**Sudokahest**			$1,400 per lb.  
 A pint of this versatile solvent. Typically sold by the gallon or barrel.
 
 **Very Exotic Spice**	$2,300 per lb.  
@@ -91,5 +91,5 @@ Its amazing qualities include being malleable, highly conductive, immune to corr
 **Platinum**		$100,000 per lb.  
 Rare, conductive, and perfect for arcane devices. Compound this with extreme scarcity and you have an extremely valuable material.
 
-**Alkahest**			$650,000 per lb.
+**Alkahest**			$650,000 per lb.  
 10 ounces of the universal solvent. It must be kept at tempratures between -280 and -99, making it extremely difficult to store and use. Typically sold by the gallon or barrel.
