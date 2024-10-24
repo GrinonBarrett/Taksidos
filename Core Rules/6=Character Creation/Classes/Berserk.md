@@ -48,8 +48,8 @@ If in your battlerage trance, you also gain a bonus for the purpose of inflictin
 ### 4) Brutal Momentum
 When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
-### 6) Reckless
-If you are vulnerable, but not prone, your follow up attacks do not have disadvantage.
+### 6) Savagery
+The first time you inflict a critical hit against a foe in a round, you may perform a follow-up without requiring your reaction. If this follow-up attack is a critical failure, you are vulnerable until the end of the next round.
 
 ### 7) Relentless Strike
 Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
@@ -77,4 +77,4 @@ You are now affected by your Warcry ability.
 You may now use your War Cry ability an additional time per encounter, so long as it is the first round and you do not have all of your hitpoints.
 
 #### Splash
-If you splash berserk as a member of another class, you gain the ability to enter a battlerage trance, gain the Brutal Momentum feature, and gain the Reckless feature.
+If you splash berserk as a member of another class, you gain the ability to enter a battlerage trance, gain the Brutal Momentum feature, and gain the Relentless Strike feature.
