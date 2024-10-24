@@ -93,7 +93,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Morningstar            | You gain a +2 bonus to your attack.|
 | Warpick                | If you damage the foe's armor or inflict a critical hit, you may have the weapon get stuck in the foe- causing it to suffer a -2 penalty to all checks and a -1 penalty to Attack Rolls and Saves until it is removed with a [Body] Check of 12. Against an unarmord foe, you instead inflict an additional wound.|
 | Club                   | On a critical hit, you may shift the wound result an additional step. |
-| Madu                   | You gain a +3 bonus to parries made with your main hand and a +2 bonus to parries made with your off hand. You may actually use multiple Madu to parry, gaining the bonus for one and a +1 for each additional madu, so long as the additional madu are not used for attacks during this phase. |
+| Madu                   | You gain a +3 bonus to parries made with madu your main hand and a +2 bonus to parries made with madu in your off hand. You may actually use multiple Madu to parry, gaining the bonus for one and a +1 for each additional madu, so long as the additional madu are not used for attacks during this phase. |
 | Flail                  | If the weapon is wound properly, you may ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit. |
 |                        |           |
 | Pole Axe               | You may choose to incur a penalty to your attack up to -4. If you do, for the purpose of inflicting a critical hit, the attack is treated as having a +2 for each point of penalty incurred this way so long as the attack hits. |
@@ -110,7 +110,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Sling                  | If your sling is readied and you aimed this round, you gain a +6 bonus to your attack for the purpose of inflicting a critical hit. When being used for attacks or hurlings, its range is increased by half if it has been wound at least twice this round. |
 | Arquebus               | If you aimed your attack, the foe loses 1d2 hitpoints if the attack is successful, after inflicting a wound. |
 | Musket           | You gain a 1d8 bonus to the attack for the purpose of determining if the successful attack is a critical hit. If the attack was aimed, 1d12 bonus instead. |
-| Tronutonante           | If the foe is not brawling and is within 2 yards, you gain a 1d4-1 bonus to your attack roll. |
+| Tronutonante           | If the foe is not brawling and is within 2 yards, you gain a 1d4-1 bonus to your attack roll. Your penalty for firing multiple tronutonante simultaneously is reduced by 1. |
 |                        |           |
 | Wand                   | You may treat a wand as a melee weapon with a range of 2 yards for all purposes. In place of comparing your [Body] to the foe's [Body] for the +1 bonus, you may compare the wand's attribute to their [Body]. |
 | Staves                   | For the purpose of inflicting a critical hit with this weapon, regardless of how it is used, you may apply your bonus of the required attribute to your result. When performing a ranged attack with this weapon, if your required attribute is greater then the foe's, you gain a +1 bonus to the attack. |
