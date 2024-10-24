@@ -7,7 +7,6 @@ Each day of training can be as little as 3 hours or as much as 10 hours.
 | Weapon | Minimum Hours | Notes |
 |-|-|-|
 | Arquebus               | 5D6+5   | Every hour costs 1d6+9 rounds of ammunition. Similar to musket, allowing half of this training to be applied to musket as well.  |
-| Unarmed                | 5D8+60  | If trainer does not have similar body parts for unarmed attacks. |
 | Bow                    | 3D10+80 | Every hour of training loses 1d12 arrows. |
 | Brusgiata              | 6D12+30 | |
 | Chakram                | 6D12+30 | |
@@ -34,4 +33,5 @@ Each day of training can be as little as 3 hours or as much as 10 hours.
 | Tronutonante           |  10D10  | Every hour of training costs 1d6+9 rounds of ammunition. |
 | Warpick                | 6D10+40 | |
 | Wands                  | 7D20+60 | |
+| Unarmed                | 5D8+60  | If trainer does not have similar body parts for unarmed attacks, only half of training time counts. |
 
