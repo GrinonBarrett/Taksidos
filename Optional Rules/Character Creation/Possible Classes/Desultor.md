@@ -24,5 +24,5 @@ When an attack against you is successful, you may use your reaction to lower the
 ### 4) Woozy Way
 When you are obtunded, you have the following features;  
 * When you are attacked, roll a d4. If the result is even, it is a bonus to your defense. If it is odd, it is a penalty.
-* When you perform a check, attack roll, or [Rflx] save, roll a d8. If it is even, i is a bonus. If it is odd, its a penalty.
+* When you perform a check, attack roll, or [Rflx] save, roll a d8. If it is even, it is a bonus. If it is odd, its a penalty.
 
