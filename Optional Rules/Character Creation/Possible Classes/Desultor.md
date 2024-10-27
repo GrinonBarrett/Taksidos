@@ -26,3 +26,6 @@ When you are obtunded, you have the following features;
 * When you are attacked, roll a d4. If the result is even, it is a bonus to your defense. If it is odd, it is a penalty.
 * When you perform a check, attack roll, or [Rflx] save, roll a d8. If it is even, it is a bonus. If it is odd, its a penalty.
 
+### 4) Pain that you're used to
+When you receive a wound roll result that is the same as one you have, which is no longer valid, you do not reroll the result. Instead you receive a wound with no effect.  
+If you are a species that does not receive effects of wounds,you inatead gain a +1 to defense against the next attack of the same type as what caused the wound.
