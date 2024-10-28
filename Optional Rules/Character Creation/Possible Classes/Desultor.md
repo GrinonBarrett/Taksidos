@@ -29,3 +29,6 @@ When you are obtunded, you have the following features;
 ### 4) Pain that you're used to
 When you receive a wound roll result that is the same as one you have, which is no longer valid, you do not reroll the result. Instead you receive a wound with no effect.  
 If you are a species that does not receive effects of wounds,you inatead gain a +1 to defense against the next attack of the same type as what caused the wound.
+
+### 4) Defense in Guess
+When an attack is inflicted against you, you may call a number. If the attack roll result is the number you called, you gain a +3 bonus to defense against that attack.
