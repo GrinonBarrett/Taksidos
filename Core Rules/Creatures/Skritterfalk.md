@@ -95,7 +95,7 @@ Also known as the catbat, for its resemblences to the two. They have the general
 
 -----
 
-**Winged Lunge**: ] bonus.
+**Winged Lunge**: As an action or reaction, a skritterfalkh may push itself away from a surface or object capable of bearing its weight and perform a small burst of flight. It is treated as performing a jump, with the maximum height and distance doubled. This movement does not count against its limitation on flying in the round.
 
 **Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
 
