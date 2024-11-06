@@ -1,9 +1,9 @@
-### Skritterfallh
+### Skritterfalkh
 Also known as the catbat, for its resemblences to the two. They have the general frame, back legs, tail, and face of a cat. They posses the wings and ears of a bat. They also have a snout pointed upwards. Their walking stance is much like that of a pteranadon. These creatures have been elusive until late, as adventurong parties an surveyers venture further into the woods have come acorss them more and more. Plural is Skritterfalm. Their collective noun is a scratch.
 
 **Creature Type**: Skritterfalm are Avian.
 
-**Size**: Skritterfalm are bteween 1 to 2 feet in length, with a 6-8" tail. Their wingspan is 20% larger than their length. They weigh between 15-23 pounds. They are small creatures.
+**Size**: Skritterfalm are between 1 to 2 feet in length, with a 6-8" tail. Their wingspan is 20% larger than their length. They weigh between 15-23 pounds. They are small creatures.
 
 **Hitpoints**: A skritterfalkh has no hitpoints.
 
@@ -103,4 +103,4 @@ Also known as the catbat, for its resemblences to the two. They have the general
 
 **Fleet Foot**: During the first round of an encounter, the skritterfalkh may use its action to perform a move.
 
-**Swift Step**: If the skritter fallh would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
+**Swift Step**: If the skritterfalkh would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
