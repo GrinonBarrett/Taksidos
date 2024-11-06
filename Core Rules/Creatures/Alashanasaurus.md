@@ -20,7 +20,7 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 
 **Run Speed**: It may run up to 8 yards per move.
 
-**Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
