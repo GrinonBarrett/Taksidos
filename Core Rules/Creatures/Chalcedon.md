@@ -86,7 +86,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 **Elemental Nature**: Chalcedons are natural earthen creatures. As such they;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Are immune to diseases, poisons and venom.  
- • Immune to the effects of bloodloss.
+ • Immune to the effects of bloodloss.  
  • Are not affected by spells which would affect flesh.  
 
 **Simple Limbs**: The chalcedon hos four arms with primitive three fingered hands. Each is treated as an offhand. Any checks made using those hands, other than brawling, are made with disadvantage.
