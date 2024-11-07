@@ -3,7 +3,7 @@ An extremely rare sight among the eastern saltflats, a salriner is a sort of wit
 
 **Creature Type**: Salriners are Sylvan.
 
-**Size**: Saltsingers stand between 4'6" and 5'2" tall. They can weigh between 85-120 pounds. They are medium creatures.
+**Size**: Salriners stand between 4'6" and 5'2" tall. They can weigh between 85-120 pounds. They are medium creatures.
 
 **Hitpoints**: Salriners have 3 Hitpoints.
 
