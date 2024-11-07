@@ -131,4 +131,4 @@ Among the yardkin people, there are a few standouts.
 
 **Show of Strength**: When the gladekin would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
-**Yardkin Resilieince**: Yardkin double their attribute bonus on all [Fort] and [Rflx] saves against magical effects.
+**Gladekin Resilieince**: Gladekin double their attribute bonus on all [Fort] and [Rflx] saves against magical effects.
