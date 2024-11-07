@@ -3,7 +3,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 
 **Creature Type**: Chalcedons are Elemental creatures.
 
-**Size**: Chalcedons about 3'9"-4'1" and 400-500 pounds. They are medium creatures.
+**Size**: Chalcedons are about 3'9"-4'1" and 400-500 pounds. They are medium creatures.
 
 **Languages**: Chalcedons don't speak, but they understand some terraglossa.
 
@@ -24,9 +24,9 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 
 **Unarmed Attacks**;
 
- • Tackle: The chalcedon may use any part of its body to strike a foe within 1 foot.
+ • Tackle: The chalcedon may use any part of its body to strike a foe within 1 foot. Treat as a force or maul attack.
 
- • Fist: The chalcedon may use its arms to strike a foe within 1 yard.
+ • Fist: The chalcedon may use its arms to strike a foe within 1 yard, treat as a mace attack.
 
 ---------------------
 
@@ -89,7 +89,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
  • Immune to the effects of bloodloss.
  • Are not affected by spells which would affect flesh.  
 
-**Simple Limbs**: The chalcedon hos four arms with primitive three fingered hands. Each is treated as an offhand.
+**Simple Limbs**: The chalcedon hos four arms with primitive three fingered hands. Each is treated as an offhand. Any checks made using those hands, other than brawling, are made with disadvantage.
 
 **Crumble**: In place of rolling a d20 when performing an incapacitation save, this creature rolls a d12.
 
