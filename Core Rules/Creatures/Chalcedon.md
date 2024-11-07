@@ -89,7 +89,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
  • Immune to the effects of bloodloss.  
  • Are not affected by spells which would affect flesh.  
 
-**Simple Limbs**: The chalcedon hos four arms with primitive three fingered hands. Each is treated as an offhand. Any checks made using those hands, other than brawling, are made with disadvantage.
+**Simple Limbs**: The chalcedon has four arms with primitive three fingered hands. Each is treated as an offhand. Any checks made using those hands, other than brawling, are made with disadvantage.
 
 **Crumble**: In place of rolling a d20 when performing an incapacitation save, this creature rolls a d12.
 
