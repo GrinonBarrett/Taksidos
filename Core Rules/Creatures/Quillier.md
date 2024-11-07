@@ -3,7 +3,7 @@ The remnants of the Quilled Lizards, an endangered species that was wiped out by
 
 **Creature Type**: Quilliers are Fiends.
 
-**Size**: Quulliers are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
+**Size**: Quilliers are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
 
 **Hitpoints**: A quillier has 1 hitpoint.
 
