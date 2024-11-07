@@ -16,7 +16,7 @@ Also known as the catbat, for its resemblences to the two. They have the general
 [Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
-**Languages**: Skritterhaukhs don't speak, but can mew at subsonic frequencies with each other.
+**Languages**: Skritterfalm don't speak, but can mew at subsonic frequencies with each other.
 
 **Table**: *Creature's Reaction* {Need to redo}
 | Result | **Emotion and Intensity** | Notes        |
@@ -40,9 +40,9 @@ Also known as the catbat, for its resemblences to the two. They have the general
 
 **Unarmed Attacks**;
 
- • Venomous Bite: The teryxethysar may use its beak to bite or peck a foe it is brawling. This is a melee biting attack. Instead of inflicting a wound, it has managed to affect the foe with its psychoactive venom. A ceitical hit is treated as a toxic attack.
+ • Venomous Bite: The skritterfalk may use its beak to bite or peck a foe it is brawling. This is a melee biting attack. Instead of inflicting a wound, it has managed to affect the foe with its psychoactive venom. A ceitical hit is treated as a toxic attack.
 
- • Claws: The teryxethysar may use a claw to strike a foe within 1 foot. This is a melee cutting attack. A foe gains a bonus to their defense against the attack equal to their current hitpoints.
+ • Claws: The skritterfalk may use a claw to strike a foe within 1 foot. This is a melee cutting attack. A foe gains a bonus to their defense against the attack equal to their current hitpoints.
 
 -----
 
