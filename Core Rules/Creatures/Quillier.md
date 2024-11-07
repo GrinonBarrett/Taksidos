@@ -5,7 +5,7 @@ The remnants of the Quilled Lizards, an endangered species that was wiped out by
 
 **Size**: Quulliers are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
 
-**Hitpoints**: A quillier 1 hitpoint.
+**Hitpoints**: A quillier has 1 hitpoint.
 
 **Attributes**:  
 [Body] 6 (+2)  
