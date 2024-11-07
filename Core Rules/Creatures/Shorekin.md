@@ -1,9 +1,9 @@
 ### Shorekin
-Grandfolk of the islands. Though their society is remote, their members are quite inquisitive and they have several centers of study within their own society. They can be abraisive in terms of personality. They prefer trickery and mentally debilitating effects to secure victory in battle, but can enjoy a good escape plan. Their collective noun is a CLash.
+Grandfolk of the islands. Though their society is remote, their members are quite inquisitive and they have several centers of study within their own society. They can be abraisive in terms of personality. They prefer trickery and mentally debilitating effects to secure victory in battle, but can enjoy a good escape plan. Their collective noun is a Clash.
 
 **Creature Type**: Shorekin are Humanoids.
 
-**Size**: Yardkin stand between 7'9" and 9'3" tall. They can weigh between 400-620 pounds. They are large creatures.
+**Size**: Shorekin stand between 7'9" and 9'3" tall. They can weigh between 400-620 pounds. They are large creatures.
 
 **Hitpoints**: Shorekin have 3 Hitpoints.
 
