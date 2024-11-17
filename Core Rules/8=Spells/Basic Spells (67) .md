@@ -290,6 +290,21 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Critical Failure**: You instead are subject to a number of the wand's attacks equal to the spell's tier. The wand is still destroyed.
 
+#### Disenchant
+
+**Minimum Tier**: 2
+
+**Casting Time**: 9 actions
+
+**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check with a vouple of exceptions.  
+* You have disadvantage on the check unless it was caused by a spell you know.
+* If the caster of that effect can perceive the afflicted creature, it has advantage on its check.
+* You gain a bonus equal to the the tier of the spell.
+
+**At Higher Tiers**: For each tier beyond minimum, you may have the spell reach out 1 yard to affect a creature or reduce the casting time by 1 action.
+
+**Critical Failure**: You accidentally cuase yourself to be afflicted bu the same effect for a nummber of rounds equal to the spell's tier.
+
 #### Disimpress
 
 **Minimum Tier**: 2
