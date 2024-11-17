@@ -75,4 +75,4 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 
 **Limited Senses**: The jangling mound is devoid of organs to sense, but can sense the vibrations in each coin just as well as any human ear- essentially giving it a sense of hearing and touch. It is also *capable of seeing from the facing of each of its coins, essentially giving it a sphere of vision*.
 
-**Reviving a Krizai**: *After a number of rounds equal to 1d20 + the $ value of the missing loot, the jangling mound will reconstitute with a number of points of undeath equal to the rounds it requires to reconstitute*.
+**Destroying a Jangling Mound**: The jangling mound does not cease to exist when brought to 0 points of undeath, but does become inert. *After a number of rounds equal to 1d20 + the $ value of the missing loot, the jangling mound will reconstitute with a number of points of undeath equal to the rounds it requires to reconstitute*. A jangling mound is not properly destroyed until its horde has been restored or completely destroyed.
