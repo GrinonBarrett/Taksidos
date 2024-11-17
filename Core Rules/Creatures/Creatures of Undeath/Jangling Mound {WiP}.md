@@ -1,5 +1,5 @@
 ### Jangling Mound
-A vengeful spirit of greed created when one robs the grave of a greedy soul. The coins can roll, leap, and float around. Each coin is made of a material appropriate to the horde and bears an impression of its former owner. Their collective noun is a horde.
+A vengeful spirit of greed created when one robs the grave of a greedy soul. The coins can roll, leap, and float around. Each coin is made of a material appropriate to the horde and bears an impression of its former owner. So long as one of its coins exist, which can be removed from the mound forcibly or otherwise, it still exists. Such a coin will cease to exist when the mound ceases to exist.
 
 **Creature Type**: Jangling Mounds are undead.
 
@@ -69,14 +69,10 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 
 **Treasure Reclamation**: When the jangling mound gains possession of a treasure which was taken from its loot, it gains it value. The jangling mound can make use of any weapon, shield, or magic item it has reclaimed this way.
 
-**Unnatural Scoring**: When the jangling mound influcts a critical hit with its unarmed attack, *it may treat it as any attack type*.
+**Unnatural Scoring**: When the jangling mound inflicts a critical hit with its unarmed attack, *it may treat it as any attack type*.
 
-**Mindlessly Greedy**: Animate skeletons do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects. If an object of the same material as their composition is presented, their focus will shift to it.
+**Single Minded**: The jangling mound's focus on its mission is so strong it is unaffected by mind-influencing affects and fear-based effects. If an object of their horde is presented, their focus will shift to it. Oncethe mound has acquired all missing loot, it will return it to the horde where it will cease to exist.
 
-**Limited Senses**: The krizai is devoid of organs to sense, but can sense the vibrations in its frame- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight. This sight can only see reflective surfaces, but may do so in dim or bright light as though it were fair light.
+**Limited Senses**: The jangling mound is devoid of organs to sense, but can sense the vibrations in each coin just as well as any human ear- essentially giving it a sense of hearing and touch. It is also *capable of seeing from the facing of each of its coins, essentially giving it a sphere of vision*.
 
-**Reviving a Krizai**: If even $1 of like material comes in contact with a krizai, it is restored to a single point of undeath. This can include part of the krizai's form being completely removed and reincorporated into the krizai.
-
------
-
-***Creating Krizoi***: Adventurers, nobles, and others afflicted by greed can become a krizai. If the slain materialist is buried with their treasure and a 3rd tier or greater Animate is cast upon the corpse, the treasure will begin to meld with the corpse (as though by the Treasure Melding feature), this will include treasure buried with it even if it was not the slain's or the proper material. Once the melding completes, the krizai is animated. On a critical success, the creator may choose what material the krizai will favor from among the treasures buried with them so long as. On a critical failure, the krizai is animated, but seeks to destroy its creator and process their corpse. It instinctively knows if a creature it perceives is its creator. If it successfully processes the corpse of its creator when made in this fashion, it ceases to be animat and simply a from of its material composition.
+**Reviving a Krizai**: *After a number of rounds equal to 1d20 + the $ value of the missing loot, the jangling mound will reconstitute with a number of points of undeath equal to the rounds it requires to reconstitute*.
