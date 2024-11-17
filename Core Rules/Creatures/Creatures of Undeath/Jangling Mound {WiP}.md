@@ -65,6 +65,16 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
+**Amorphous**: Jangling mounds don’t retain a single cohesive shape but are instead in the form of a cluster of rolling and floating coins. This confers some strange properties to it.  
+ • Immunity to falling and knockback damage.  
+ • Obstacles that would reduce the speed of it have only half of their normal effect unless they specifically affect amorphous creatures as well.  
+ • All forms of non-magical attack against it have disadvantage.  
+ • Anytime a spell would be cast against it that would affect its form, shape, composition, or mental state- it gains a d8 bonus to its saves against that effect.  
+ • It cannot be grappled.  
+ • While the it has a creature grappled, it can treat that creature as being unarmored for the purpose of attacking it.  
+ • It is capable of traveling through any opening small enough to stick one’s fist.  
+ • Cannot use armor, shields, or any item other than its own loot.
+
 **Unwounding**: A jangling mound never receives wounds, it only loses points of undeath.
 
 **Treasure Reclamation**: When the jangling mound gains possession of a treasure which was taken from its loot, it gains it value. The jangling mound can make use of any weapon, shield, or magic item it has reclaimed this way.
@@ -74,5 +84,9 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 **Single Minded**: The jangling mound's focus on its mission is so strong it is unaffected by mind-influencing affects and fear-based effects. If an object of their horde is presented, their focus will shift to it. Oncethe mound has acquired all missing loot, it will return it to the horde where it will cease to exist.
 
 **Limited Senses**: The jangling mound is devoid of organs to sense, but can sense the vibrations in each coin just as well as any human ear- essentially giving it a sense of hearing and touch. It is also *capable of seeing from the facing of each of its coins, essentially giving it a sphere of vision*.
+
+**Great Leap**: Its jump distance is doubled.
+
+**Roll along**: The jangling mound does not brawl but tramples instead. Against a foe of greater size, it suffers an instance of disadvantage for each step of difference in size category. Trampling attacks made against the jangling mound have disdvantage.
 
 **Destroying a Jangling Mound**: The jangling mound does not cease to exist when brought to 0 points of undeath, but does become inert. *After a number of rounds equal to 1d20 + the $ value of the missing loot, the jangling mound will reconstitute with a number of points of undeath equal to the rounds it requires to reconstitute*. A jangling mound is not properly destroyed until its horde has been restored or completely destroyed.
