@@ -236,7 +236,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (4
+### D (5
 
 #### Decombustion
 
@@ -289,6 +289,24 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 **At Higher Tiers**: For each tier beyond minimum, an additional such ray is fired.
 
 **Critical Failure**: You instead are subject to a number of the wand's attacks equal to the spell's tier. The wand is still destroyed.
+
+#### Disimpress
+
+**Minimum Tier**: 2
+
+**Casting Time**: 25 actions
+
+**Duration**: 5 + [Magic] bonus minutes
+
+**Effect**: You touch a weapon, piece of ammunition, piece of armor, or some other object.
+
+If it has been affected by a 1st tier spell, or a source determined to be equivalent by the narrator, the effect is supressed for this spell's duration. 
+
+If such a magic's tier would be less than half of this spell's, there is also a percentage chance that the magic is disrupted to the point that it no longer functions (though can be "repaired" by certain means). This is equal to this spell's tier plus the points of success on the spellcheck.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the time it is surpressed by 1d4 minutes or have the spell sffect a magic of one tier higher.
+
+**Critical Failure**: You accidentally disrupt your own magical connection gaining spell sickness equal to the tier of this spell.
 
 #### Dragon's Breath
 
