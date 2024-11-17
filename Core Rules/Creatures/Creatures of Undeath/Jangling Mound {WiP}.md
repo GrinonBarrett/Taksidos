@@ -44,11 +44,11 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 |                            |        |                    |        |
 | **Acid**                   | 15     | **Fire**           | 14     | **Psychic**                | 21    |
 | **Cold**                   | 17     | **Force**          | 17     | **Toxic**                  | 26    |
-| **Crushing**               | 17     | **Ki**             | 16     | **Radiant**                | 15    |
+| **Crushing**               | 17     | **Ki**             | 16     | **Radiant**                | 16    |
 | **Cutting**                | 17     | **Necrotic**       | 20     | **Sonic**                  | 16    |
 | **Electrical**             | 15     | **Piercing**       | 17     | **Biting**                 | 18    |
 |                            |        |                    |        |                            |       |
-| **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 15    |
+| **Unlisted Damage Type**   | 17     |                    |        | **Undamaging**             | 15    |
 
 
 
