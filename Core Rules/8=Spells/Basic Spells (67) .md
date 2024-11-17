@@ -236,7 +236,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (5
+### D (6
 
 #### Decombustion
 
