@@ -32,23 +32,23 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |       |
-| **Club**                   | 13     | **Pole Axe**       | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 13     | **Greatsword**     | 12     | **Arrow, Broadhead**       | 13    |
-| **Mace**                   | 13     | **Maul**           | 12     | **Bolt**                   | 13    |
-| **Spear**                  | 13     | **Pike**           | 12     | **Brusgiata**              | 13    |
-| **Hand Axe**               | 13     | **Madu**           | 13     | **Chakram**                | 14    |
-| **Katar**                  | 13     | **Javelin**        | 13     | **Arquebus**               | 12    |
-| **Dagger**                 | 14     | **Throwing Blade** | 15     | **Musket**                 | 11    |
-| **Morningstar**            | 13     | **Sling**          | 13     | **Tronutonante**           | 13    |
-| **Warpick**                | 13     |                    |        | **Bare**                   | 18    |
+| **Club**                   | 17     | **Pole Axe**       | 17     | **Arrow, Bodkin Point**    | 17    |
+| **Longsword**              | 17     | **Greatsword**     | 17     | **Arrow, Broadhead**       | 17    |
+| **Mace**                   | 17     | **Maul**           | 17     | **Bolt**                   | 17    |
+| **Spear**                  | 17     | **Pike**           | 17     | **Brusgiata**              | 17    |
+| **Hand Axe**               | 17     | **Madu**           | 17.    | **Chakram**                | 17    |
+| **Katar**                  | 17     | **Javelin**        | 17     | **Arquebus**               | 17    |
+| **Dagger**                 | 17     | **Throwing Blade** | 17     | **Musket**                 | 17    |
+| **Morningstar**            | 17     | **Sling**          | 17     | **Tronutonante**           | 17    |
+| **Warpick**                | 17     |                    |        | **Bare**                   | 18    |
 |                            |        |                    |        |
-| **Acid**                   | 11     | **Fire**           | 11     | **Psychic**                | 19    |
-| **Cold**                   | 17     | **Force**          | 12     | **Toxic**                  | 26    |
-| **Crushing**               | 15     | **Ki**             | 11     | **Radiant**                | 14    |
-| **Cutting**                | 16     | **Necrotic**       | 19     | **Sonic**                  | 13    |
-| **Electrical**             | 11     | **Piercing**       | 13     | **Biting**                 | 14    |
+| **Acid**                   | 15     | **Fire**           | 14     | **Psychic**                | 21    |
+| **Cold**                   | 17     | **Force**          | 17     | **Toxic**                  | 26    |
+| **Crushing**               | 17     | **Ki**             | 16     | **Radiant**                | 15    |
+| **Cutting**                | 17     | **Necrotic**       | 20     | **Sonic**                  | 16    |
+| **Electrical**             | 15     | **Piercing**       | 17     | **Biting**                 | 18    |
 |                            |        |                    |        |                            |       |
-| **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 13    |
+| **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 15    |
 
 
 
