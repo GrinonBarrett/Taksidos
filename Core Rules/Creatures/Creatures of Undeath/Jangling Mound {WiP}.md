@@ -1,9 +1,9 @@
-### Jangling
+### Jangling Mound
 A vengeful spirit of greed created when one robs the grave of a greedy soul. The coins can roll, leap, and float around. Each coin is made of a material appropriate to the horde and bears an impression of its former owner. Their collective noun is a horde.
 
-**Creature Type**: Jangling Mounds are monsters.
+**Creature Type**: Jangling Mounds are undead.
 
-**Size**: A jangling mound can be any size. They can weigh between 1 and 750 pounds. They can be any size which is great or smaller.
+**Size**: A jangling mound's size can vary greatly. They can weigh between 1 and 750 pounds. They can be any size which is great or smaller.
 
 **Undeath**: A jangling mound has a number of points of undeath equal to 20 + the $ value of the loot stolen.
 
@@ -50,36 +50,13 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 |                            |        |                    |        |                            |       |
 | **Unlisted Damage Type**   | 13     |                    |        | **Undamaging**             | 13    |
 
-**Table**: *Wound Allocation*
-| Result | **Name of Wound** | Effects                                                        |
-|--------|-------------------|----------------------------------------------------------------|
-|   1    | Attacker's Choice |                                                                |
-|   2    | Chipped           | A piece of the krizai worth d12 $ is chipped off of the krizoi.     |
-|   3    | Glancing Blow     | No ill effects. |
-|   4    | Rattle            | The krizai is prone until end of round. |
-|   5    | Broken Limb       | The krizai is prone until the end of the next round. |
-|   6    | Glancing Blow     | No ill effects. |
-|   7    | Chipped           | **Biased wound**. A piece of the krizai worth d12 $ is chipped off of the krizai. |
-|   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Chunk Lost        | A pound of material breaks off of the krizai. |
-|   10   | Destructive Blow  | Krizai loses 1d12+3 points of undeath. |
-|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
-|   12   | Stumbled          | It is prone until the end of the round. If already prone, its movement is halved. |
-|   13   | Destructive Blow  | **Biased wound**. Krizai loses 1d12+3 points of undeath. |
-|   14   | Chipped           | A piece of the krizai worth d12 $ is chipped off of the krizoi.     |
-|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Destructive Blow  | **Biased wound**. Krizai loses 1d12+3 points of undeath. |
-|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   20   | Defender's choice |                                   |
-|        |                                                |                                   |
+
 
 ---------------------
 
 #### Special Features
 
-**Undead Nature**: As an undead creature, krizoi have a few advantages:  
+**Undead Nature**: As an undead creature, jangling mounds have a few advantages:  
 **-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
 **-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
@@ -88,9 +65,11 @@ A vengeful spirit of greed created when one robs the grave of a greedy soul. The
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Treasure Melding**: When the krizai gains possession of a treasure of its like material, it may begin to incorporate it into its body. It can absorb 1 pound of material per minute. The material appears to liquify and melds into the krizai's form. A magic item instead become embedded into the form, permanently entreating to the will of the krizai.
+**Unwounding**: A jangling mound never receives wounds, it only loses points of undeath.
 
-**Corpse Processing**: When the krizai kills a creature in the pursuit of treasure, it is capable of stripping its body in an attempt to rearrange the components it receives on a molecular level to produce the desired element. For 100 pounds of material it processes this way, it gains an ounce of material. The processed corpse is no longer recognizable. It can , and will only attempt to, process one of its own victims this way.
+**Treasure Reclamation**: When the jangling mound gains possession of a treasure which was taken from its loot, it gains it value. The jangling mound can make use of any weapon, shield, or magic item it has reclaimed this way.
+
+**Unnatural Scoring**: When the jangling mound influcts a critical hit with its unarmed attack, *it may treat it as any attack type*.
 
 **Mindlessly Greedy**: Animate skeletons do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects. If an object of the same material as their composition is presented, their focus will shift to it.
 
