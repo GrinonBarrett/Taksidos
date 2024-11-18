@@ -45,7 +45,7 @@ Cost to repair is triple the normal cost.
 Fine alder-dyed sliken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
 Cost to repair is $900 per point.  
 
-**Obsidion Plate**, $400,000, 55 lb.  
+**Obsidian Plate**, $400,000, 55 lb.  
 2/4  
 A full suit of plate armor made with volcanic glass in addition to the standard materials. *The wearer is affected as though by a molten form spell while worn, though it is still considered to wear plate. The suit cannot be safely removed unless the armor is supressed by a Disimpress spell of 3rd tier or greater or some other magic nullifying effect*.
 Cost to repair is $1,000 per point.
