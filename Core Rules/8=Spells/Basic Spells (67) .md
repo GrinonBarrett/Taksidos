@@ -377,7 +377,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (6
+### F (7
 
 #### Fetch
 
@@ -467,6 +467,25 @@ You may choose to treat the piercing attack as a spear attack or pike attack ins
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
 **Critical Failure**: You forfeit your turn on the next movement phase and the next action phase as the chilling cold wraps you.
+
+#### Fugalism
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: You attempt to recall a spell that was cast, which you could perceive, of a lower level than this spell. You then begin casting that spell as usual, with the following exceptions;  
+* You have disadvantage on counterspell checks.
+* Any attacks dealt by the spell become another type of your choice. An exotic damage type must become another exotic damage type and a non-exotic damage type must become another non-exotic damage type.
+* The caster of the original spell has advantage on counterspell checks against your spell.
+* If you critically fail the spell, you gain spell sickness equal to this spell's tier.
+* You gain spell sickness equal to the tier of that spell unless it is less than half of this spell's tier.
+
+A spell duplicated this way cannot be duplicated again by a spell of equal or lower level. Fugalism cannot be duplicated.
+
+**At Higher Tiers**: The benefits of higher tiers are presented above.
+
+**Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
 
 ### G (2
 
