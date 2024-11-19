@@ -1,7 +1,21 @@
 Legendary spells are named for their creator. These spells are listed by creator rather than letter. Legendary spells cannot simply be learned by a character. The creators' notes are often lost or buried and require deciphering. Alternatively, if such a magician is still alive, direct tutalege could allow a character to learn such a spell.
 
-### Alekard (1
+### Alekard (2
 A blood sucking priest from another world which gained divinity. His original name was corrupted into its current form in the process.
+
+#### Alekard's Blood Barrage
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 25 yards
+
+**Effect**: You inflict a necrotic attack against a foe within range, opening up some form of wound in their flesh if successful. In place of damaging armor, this attack inflicts hemorrhaging. Instead of rolling for the wound's effect, it lowers the maximum hitpoints of the creature by 1 until it is healed. If the foe is hemorrhaging (either as a result of this spell or a preexisting condition), you manipulate some of their blood and transmute it into up to 3 projectiles which may be hurled at a different target within a number of yards equal to the tier of this spell to inflict a club attack. Each of these attacks, if a critical hit, can be treated as one of the following attack types (acid, cold, fire, necrotic).
+
+**At Higher Tiers**: Each tier beyond its minimum can grant one of the club attacks attack a +1 bonus or increase the number of club attacks by 1, in addition to the benefits noted above.
+
+**Critical Failure**: You seem to cast the spell, but afflict yourself instead. You may still direct the club attacks as normal.
 
 #### Alekard's Radiant Smite
 
