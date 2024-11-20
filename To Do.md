@@ -1,6 +1,6 @@
 For this update:
 
-* Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
+* Create an Ajhas. A large squid like creature from the psychic plane. The tentacles end in eyballs. It breathes an acidic mist, to which its is immune, that it can use as a smokescreen. It floats and swims with a 12 yard speed and can interact with non-mindless creatures on the ethereal plane. Each eye can force a [Prcp] or [Rflx] save, foe's choice, or daze the creature. Has a -1 penalty to incap saves for each tentacle lost. Can swallow prey whole, melting it in its acid.
 * Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw full of short razor sharp teeth. If grappling a foe, it can bits to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
 
 For next update:
@@ -12,7 +12,7 @@ For next update:
 * Recreate the T Rex for this system.
 * Create dough type monster.
 * Create a proper Terrasque, but still make it a deadly melee creature which is difficult to deal with by magic. Will have a softspot for non-combatants.
-* Create an Ajhas. A large squid like creature from the psychic plane. The tentacles end in eyballs. It breathes an acidic mist, to which its is immune, that it can use as a smokescreen. It floats and swims with a 12 yard speed and can interact with non-mindless creatures on the ethereal plane. Each eye can force a [Prcp] or [Rflx] save, foe's choice, or daze the creature. Has a -1 penalty to incap saves for each tentacle lost. Can swallow prey whole, melting it in its acid.
+* Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water evwn if you can breath underwater, casting a spell known by the knemui, or are within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday, a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
 
