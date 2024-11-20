@@ -1,12 +1,11 @@
 For this update:
 
-* Finish Languages.
-* Create rules for raising militias and armies.
 * Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw fool of short razor sharp teeth. If grappling a foe, it can bits to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
 
 For next update:
 
+* Finish Languages.
 * Create proper rules for contracting disease.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
