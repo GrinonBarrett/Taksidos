@@ -28,11 +28,11 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
  • Slam: The ajhas may use one of its appendages to strike a foe within 5 yard. This is a melee bare attack.
 
- • Bite: The alashanasaurus may perform a single bite against a foe it is grappling. This is a melee bite attack.
+ • Bite: The ajhas may perform a single bite against a foe it is grappling. This is a melee bite attack.
 
 -----
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* {Need to fix}
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
@@ -56,7 +56,7 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
 
 
-**Table**: *Wound Allocation*
+**Table**: *Wound Allocation* {Need to fix}
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
