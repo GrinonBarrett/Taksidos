@@ -103,3 +103,10 @@ Possible classes to do:
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this or n alternative magic option for mystics)  
 Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
 *?**?**?* (A class inspired by old martial arts movie choreography, which gets certain benefits while disadvantaged)
+
+##### What is the difference between a playable species and a non-playable creature?
+To be playable, the creature (or rather species) must meet the following criteria.  
+* It must not be mindless.
+* It must seem distinctive from other species.
+* It must be able to be somewhat balanced coompared to other species.
+* Members of the species must be capable of being cognisent of the difference between instincts and morality and able to create and operate by morality systems other than its own innate instincts.
