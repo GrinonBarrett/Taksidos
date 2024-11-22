@@ -91,6 +91,8 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
 **Psychic Vision**: Each of these eys can see into the psychic plane, allowing them to see the presence of any non-mindless creature even through material cover. They can also see the transmission of telepathic commands and other forms of telepathic communication- though they do not understand it directly.
 
+**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capaisty as a result (including illusory effects).
+
 **Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
 
 **Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. Additionally, all [Prcp] checks involving scent or vision through the bland colored mist have disadvantage. Light going through the mist will always seem dim. An ajhas is unaffected by this feature to any degree.
