@@ -50,7 +50,7 @@ Hunger
 **Insect**. Arthopods and similar creatures.  
 **Monster**. The product of curses and other magics.  
 **Plant**. Creatures which possess cell walls like plants.  
-**Reptile**. Cold-blooded land-dwellers.  
+**Reptile**. Cold-blooded and protothermic land-dwellers.  
 **Sylvan**. Creatures having a strong association with the natural world.  
 **Undead**. The corporeal remnants of once living creatures animated by some means.  
 
