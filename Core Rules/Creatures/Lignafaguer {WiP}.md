@@ -20,19 +20,19 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 **Run Speed**: It may run up to 7 yards per move.
 
-**Swim Speed**: It may swim up to 12 yards per move, presuming the water isn’t too rough.
+**Swim Speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough.
 
-**CLimb Speed**: It may climb up to 6 yards per round, presuming it is reasonable terrain to do so.
+**Climb Speed**: It may climb up to 5 yards per round, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Slam: The ajhas may use one of its appendages to strike a foe within 5 yard. This is a melee bare attack.
+ • Strike: The lignafaguer may use one of its strikers to strike a foe within 1.5 yards in any direction. This is a melee piercing attack.
 
- • Bite: The ajhas may perform a single bite against a foe it is grappling. This is a melee bite attack.
+ • Bite: It may perform a single bite against a foe it is grappling. This is a melee bite attack. If it is a critical hit, it does not inflict the typical critical hit affect. Instead, it inflicts an additional cutting attack and an addition acid attack.
 
 -----
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* {Need to fix}
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
@@ -56,7 +56,7 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 
 
-**Table**: *Wound Allocation* 
+**Table**: *Wound Allocation* {Need to fix}
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
@@ -83,19 +83,7 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 -----
 
-**Breathless**: The Ajhas does not need to breathe.
-
-**Enkefalophage**: An ajhas' hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The ajhas does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately  gains those points of inebriataion.
-
-**Decappurtenant**: It has ten appendages which it can use as arms. It does not have mannipulators on the end, instead having sensory organs, so it cannot use items unless otherwise noted. Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage. Tragai can rotate their vision as a result. This occurs when rotations would during the round. The tragai can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase. Each appendage can move independantly. If the ajhas has more than 2 eye stalks focusing on something, it gains a +1 bonus to [Prcp] chacks/saves for each additionaly appendage looking at the subject of the check/save. 
-
-**Psychic Vision**: Each of these eys can see into the psychic plane, allowing them to see the presence of any non-mindless creature even through material cover. They can also see the transmission of telepathic commands and other forms of telepathic communication- though they do not understand it directly.
-
-**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capaisty as a result (including illusory effects).
-
-**Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
-
-**Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. Additionally, all [Prcp] checks involving scent or vision through the bland colored mist have disadvantage. Light going through the mist will always seem dim. An ajhas is unaffected by this feature to any degree.
+**Decappurtenant**: 
 
 **Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
 
