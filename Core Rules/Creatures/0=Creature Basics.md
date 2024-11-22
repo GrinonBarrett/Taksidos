@@ -38,7 +38,7 @@ Hunger
 **Avian**. Birds.  
 **Beast**. Land-dwelling warm-blooded creatures.  
 **Bigenerae**. Creatures which are themselves hybrids of two other manner of creature.  
-**Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.
+**Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.  
 **Drakomadiae**. Mythical creatures.  
 **Eldritch**. Atemporal creatures.  
 **Elementals**. Manifestations of the native form of energy to a plane of existence.  
