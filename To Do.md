@@ -1,6 +1,5 @@
 For this update:
 
-* Create an Ajhas. A large squid like creature from the psychic plane. The tentacles end in eyballs. It breathes an acidic mist, to which its is immune, that it can use as a smokescreen. It floats and swims with a 12 yard speed and can interact with non-mindless creatures on the ethereal plane. Each eye can force a [Prcp] or [Rflx] save, foe's choice, or daze the creature. Has a -1 penalty to incap saves for each tentacle lost. Can swallow prey whole, melting it in its acid.
 * Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw full of short razor sharp teeth. If grappling a foe, it can bits to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
 
 For next update:
