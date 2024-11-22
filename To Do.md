@@ -1,6 +1,7 @@
 For this update:
 
-* Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw full of short razor sharp teeth. If grappling a foe, it can bits to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
+* Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw full of short razor sharp teeth. If grappling a foe, it can bite to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
+* Will add Mothman?!
 
 For next update:
 
@@ -56,7 +57,7 @@ Flesh out bestiary.
 * Will add a Koulaz (a hooded humanoid looking monster that steals disobedient children)
 * Will add a Grindylow (change the spelling possibly)
 * Will add Vodnik?!
-* Will add Mothman?!
+
 * Create Zersus, the figure garbed in a bold duster jacket with a large eyeball for a head and a mane of feathers. We have plans for this fella.
 
 MORE SPELLS!  
