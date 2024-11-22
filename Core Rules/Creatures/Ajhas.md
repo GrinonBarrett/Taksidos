@@ -60,7 +60,7 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | It's swim speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Concussion      | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
@@ -85,7 +85,7 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
 **Breathless**: The Ajhas does not need to breathe.
 
-**Enkefalophage**: An ajhas' hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The ajhas does not 
+**Enkefalophage**: An ajhas' hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The ajhas does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately  gains those points of inebriataion.
 
 **Decappurtenant**: It has ten appendages which it can use as arms. It does not have mannipulators on the end, instead having sensory organs, so it cannot use items unless otherwise noted. Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage. Tragai can rotate their vision as a result. This occurs when rotations would during the round. The tragai can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase. Each appendage can move independantly. If the ajhas has more than 2 eye stalks focusing on something, it gains a +1 bonus to [Prcp] chacks/saves for each additionaly appendage looking at the subject of the check/save. 
 
@@ -93,4 +93,14 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
 **Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
 
-**Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. An ajhas is unaffected by this feature.
+**Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. Additionally, all [Prcp] checks involving scent or vision through the bland colored mist have disadvantage. Light going through the mist will always seem dim. An ajhas is unaffected by this feature to any degree.
+
+**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
+
+**Acid Maw**: Any critical hit inflicted by the ajhas' bite attack is also treated as an acid attack. If the ajhas is grappling a great or smaller creature, and it successfully inflicts a bite attack, it may use its reaction to also inflict an acid attack. If the acid attack is a critical hit, it may inflict another bite attack.
+
+**Swallow Whole**: If the ajhas successfully grapples a creature of small or smaller size, it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
+
+**Stomach Acid**: Anything in the ajhas' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
+
+**Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
