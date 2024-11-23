@@ -83,14 +83,6 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 -----
 
-**Decappurtenant**: 
-
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
-
-**Acid Maw**: Any critical hit inflicted by the ajhas' bite attack is also treated as an acid attack. If the ajhas is grappling a great or smaller creature, and it successfully inflicts a bite attack, it may use its reaction to also inflict an acid attack. If the acid attack is a critical hit, it may inflict another bite attack.
-
-**Swallow Whole**: If the ajhas successfully grapples a creature of small or smaller size, it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
-
-**Stomach Acid**: Anything in the ajhas' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
+**Hustle**: Anytime it accrues fatigue as a result of sprinting, it may use its reaction to recover that level of fatigue.
 
 **Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
