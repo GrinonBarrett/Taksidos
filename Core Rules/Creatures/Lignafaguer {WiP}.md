@@ -85,4 +85,6 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 **Hustle**: Anytime it accrues fatigue as a result of sprinting, it may use its reaction to recover that level of fatigue.
 
+**Hexelstride**: It run and climb speeds are each increased by 1 foot for each free striker it uses. If it has only 1 striker, its speeds are each reduced to 2 feet. If it has no strikers remaining, it cannot run or climb.
+
 **Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
