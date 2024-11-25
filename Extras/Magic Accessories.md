@@ -11,7 +11,7 @@ Special creatures which may use it
 Unique
 Neg.
 A ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
-* Weight. The creature's weight is increased by 1/3.
+* *Weight*. The creature's weight is increased by 1/3.
 * *Thermal Resistance*. The form of Ironside provided by this ring does not grant Advantage/Disadvantage to fire or cold attacks against the wearer.
 * *Weight Capacity*. The wearer's weight load limits are increased by half at each level.
 * *Conductivity*. Electric attacks against the user have advantage.
