@@ -57,8 +57,8 @@ Tormented souls created by chills, they accompany their former feller into battl
  • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
  • Are not affected by spells which would affect flesh or physically manipulate them.  
- • Are not subject to incapacitation saves.
- • Cannot be healed except through rest.
+ • Are not subject to incapacitation saves.  
+ • Cannot be healed except through rest.  
  • Have advantage on saves against effects which would grapple, restrain, or make the forzen spectre prone unless it specifies that they affect ephemera.
 
  **Ethereal**: The manifest energy used by Frozen Spectres exists primarily in the ethereal plane, but is phased into the material plane to some extent. This makes them unaffected by physical matter and bestows a few advantages.  
