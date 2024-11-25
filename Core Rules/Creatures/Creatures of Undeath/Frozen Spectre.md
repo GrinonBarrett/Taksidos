@@ -61,7 +61,7 @@ Tormented souls created by chills, they accompany their former feller into battl
  • Cannot be healed except through rest.
  • Have advantage on saves against effects which would grapple, restrain, or make the forzen spectre prone unless it specifies that they affect ephemera.
 
- **Ethereal**: The manifest energy used by Frozen Spectres exists primarily in the ethereal plane, but is phased into the material plane to some extent. This makes them unaffected by physical matter and bestows a few advantages.
+ **Ethereal**: The manifest energy used by Frozen Spectres exists primarily in the ethereal plane, but is phased into the material plane to some extent. This makes them unaffected by physical matter and bestows a few advantages.  
     • Physical objects on the material plane are completely passable by the Frozen Spectre.
     • The spectre is not subject to the whims of gravity and can retain its position (relatively speaking) or move in any direction, so long as it is not hindered, using its full movement speed.
     • Non-magical forms of damage have no effect on the Frozen Spectre unless sourced from the ethereal plane.
