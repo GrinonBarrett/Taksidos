@@ -98,7 +98,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 
 -----
 
-***Creating an Edacious Corpse***: It is possible for one to use the Animate spell to create an edacious from the corpse of one who starved to death if it is cast as a 2nd tier or greater. On a critical success, the caster may modify how many rounds it will requireto animate by an amount up to the points of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator. Once its creator is dead and it has tasted its flesh, it will cease to be animate about 2d20+30 minutes later.  
+***Creating an Edacious Corpse***: It is possible for one to use the Animate spell to create an edacious from the corpse of one who starved to death if it is cast as a 2nd tier or greater. On a critical success, the caster may modify how many rounds it will require to animate by an amount up to the points of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator. Once its creator is dead and it has tasted its flesh,if it was animated by a critical failure, it will cease to be animate about 2d20+30 minutes later.  
 The corpse is fully animate 1d10+1d20 rounds after the spell completes.  
 
 Occasionally, one simply occurs if one starves to death.  No magic needed.
