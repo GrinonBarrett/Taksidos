@@ -1,10 +1,10 @@
 A number of various magical items that can be found in the world 
 
-**Name**, Cost
-Unique?
-Weight
-Description
-Special features
+**Name**, Cost  
+Unique?  
+Weight  
+Description  
+Special features  
 Special creatures which may use it
 
 **The Iron Band**, $75,000
