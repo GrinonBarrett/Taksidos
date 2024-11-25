@@ -41,7 +41,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 | **Hand Axe**               | 16     | **Madu**           | 16     | **Chakram** | 17    |
 | **Katar**                  | 16     | **Javelin**        | 16     | **Arquebus** | 14    |
 | **Dagger**                 | 16     | **Throwing Blade** | 19     | **Musket** | 13    |
-| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante** | 137    |
+| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante** | 17    |
 | **Warpick**                | 14     |                    |        | **Bare** |  24 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 16     | **Fire**           | 21     | **Psychic** | 16     |
