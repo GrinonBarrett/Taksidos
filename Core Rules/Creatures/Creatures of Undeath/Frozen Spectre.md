@@ -62,12 +62,12 @@ Tormented souls created by chills, they accompany their former feller into battl
  • Have advantage on saves against effects which would grapple, restrain, or make the forzen spectre prone unless it specifies that they affect ephemera.
 
  **Ethereal**: The manifest energy used by Frozen Spectres exists primarily in the ethereal plane, but is phased into the material plane to some extent. This makes them unaffected by physical matter and bestows a few advantages.  
-    • Physical objects on the material plane are completely passable by the Frozen Spectre.
-    • The spectre is not subject to the whims of gravity and can retain its position (relatively speaking) or move in any direction, so long as it is not hindered, using its full movement speed.
-    • Non-magical forms of damage have no effect on the Frozen Spectre unless sourced from the ethereal plane.
-    • The spectre cannot be grappled, restrained, or made prone by any non-magical means from the material plane.
-    • Spectre ignores all defenses from material armor when attacking a creature and ignores a target’s cover from material objects when performing its ghastly touch. If a foe is armored, this allows it to use the lowest defense against that attack from the foe's armored value and unarmored value.
-    • Spectre can interact with the ethereal plane normally.
+    • Physical objects on the material plane are completely passable by the Frozen Spectre.  
+    • The spectre is not subject to the whims of gravity and can retain its position (relatively speaking) or move in any direction, so long as it is not hindered, using its full movement speed.  
+    • Non-magical forms of damage have no effect on the Frozen Spectre unless sourced from the ethereal plane.  
+    • The spectre cannot be grappled, restrained, or made prone by any non-magical means from the material plane.  
+    • Spectre ignores all defenses from material armor when attacking a creature and ignores a target’s cover from material objects when performing its ghastly touch. If a foe is armored, this allows it to use the lowest defense against that attack from the foe's armored value and unarmored value.  
+    • Spectre can interact with the ethereal plane normally.  
 
 **Mindless**: Frozen spectres do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
