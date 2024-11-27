@@ -2,11 +2,12 @@ For this update:
 
 * Create a Lignafaguer. A six "legged" creature which feeds on wood. The legs are actually strikers it uses to strike creatures or climb. They are connected to a center body which possess a maw full of short razor sharp teeth. If grappling a foe, it can bite to deal biting cutting and acid attacks all at once. On the body between each legs are one of its six eyes. It does not eat meat or technically attack creatures, but anything disturbing its meal or the pursuit of it will be attacked.
 * Finish the Skritterfalkh, including renaming the file.
-* Will add Mothman?!
-* Convert all references from Lazine at Meolas and Meolasine to avoid confusing Lithen and Lazine.
+
+
 
 For next update:
 
+* Convert all references from Lazine at Meolas and Meolasine to avoid confusing Lithen and Lazine.
 * Finish Languages.
 * Create proper rules for contracting disease.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
@@ -17,6 +18,7 @@ For next update:
 * Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water evwn if you can breath underwater, casting a spell known by the knemui, or are within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday, a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
+* Will add Mothman?!
 
 Make the failed alchemical cycle:  
 * Massaconfusar. A being composed of jet black solids linked by a thick smoke. It consumes matter.
