@@ -1,5 +1,5 @@
 ### Barmpasow
-These creatures resemble massive scorpions with a few notable changes. Their carapace is supplemented with additional scales that grow ovee. Their pincers are instead talons, much like an eagle. They have a proper tail, which ends in a barbed stinger shrouded in a hairy mane. Their coloration varies by diet and environment. They are typically solitary hunters except during the mating season, which occurs during the rainiest season of every 2 or 3 years. Their collective noun is a Sowe.
+These creatures resemble massive scorpions with a few notable changes. Their carapace is supplemented with additional scales that grow over. Their pincers are instead talons, much like an eagle. They have a proper tail, which ends in a barbed stinger shrouded in a hairy mane. Their coloration varies by diet and environment. They are typically solitary hunters except during the mating season, which occurs during the rainiest season of every 2 or 3 years. Their collective noun is a Sowe.
 
 **Creature Type**: Barmpasow are Insects.
 

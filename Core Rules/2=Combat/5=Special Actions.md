@@ -39,7 +39,7 @@ If an attack is made this way within less than half of the weapon's range, that 
 
 #### Counter Attack
 Reaction  
-If a creature attempted an attack against you and it was a critical failure, you peform a melee attack against them.
+If a creature attempted an attack against you and it was a critical failure, you peform a melee or thrown attack against them.
 
 #### Counterspell
 Reaction  
@@ -47,7 +47,7 @@ You attempt to counter a spell which specifially targets you or which is being c
 
 #### Dive for Cover
 Reaction  
-In response to potentially being affected by an effect which would affect an area, a character may dive for cover by immediately moving to a position which is within a jump's distance. If they do, they are prone and vulnerable until the end of the next round. They then perform a [Rflx] save to determine if they even avoid the effect. This cannot be done if already prone. The DV is 21.  
+In response to potentially being affected by an effect which would affect an area, a character may dive for cover by immediately moving to a position which is within a jump's distance. If they do, they are prone and vulnerable until the end of the next round. They then perform a [Rflx] save to determine if they even avoid the effect. This cannot be done if already prone. The DV is 20.  
 A narrator may opt to simply allow a character to dive this way when not avoiding an effect, but we recommend reserving this for those particular occasions.  
 If the effect would be an attack roll, the DV is instead the attack roll result.
 
@@ -62,7 +62,7 @@ If no creature performed a reaction in response to it, you attack is resolved as
 
 #### Follow-Up
 Reaction  
-If you successfully attack a creature, you may perform an additional melee attack against them with disadvantage. If the attack was one-handed, the attack must be made with a different hand/weapon. A two-handed attack can be repeated this way.
+If you successfully attack a creature or beat their weapon, you may perform an additional melee attack against them with disadvantage. If the attack was one-handed, the attack must be made with a different hand/weapon. A two-handed attack can be repeated this way. You cannot follow up an attack if you attacked with multiple weapons simultaneously.
 
 #### Parry
 Reaction  

@@ -2,8 +2,8 @@ Here are listed various deities of each pantheon.
 
 ###### Please forgive as this one will take time to move from one section of notes.
 
-## Lazine
-Lazine deities are shared with outside cultures and are not exactly a trademark of the lazine culture. Likewise, deities of other cultures may also see some tributes from the lazine peoples. This pantheon represents the core of deities which the state supports publicly.
+## Meolasine
+Meolasine deities are shared with outside cultures and are not exactly a trademark of the lmeolasine culture. Likewise, deities of other cultures may also see some tributes from the meolas peoples. This pantheon represents the core of deities which the state supports publicly.
 
 #### Othmazdo
 A god of life, death, and vengeance.

@@ -40,18 +40,29 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 
 Cost to repair is triple the normal cost.
 
-**Keten's Weave**, $21,500, 37 lb. (*unique*)  
+**Keten's Weave** (*unique*)  
+Maile  
+$21,500, 37 lb.  
 2/4  
 Fine alder-dyed sliken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
 Cost to repair is $900 per point.  
 
+**Obsidian Plate**  
+Plate  
+$400,000, 55 lb.  
+2/4  
+A full suit of plate armor made with volcanic glass in addition to the standard materials. *The wearer is affected as though by a molten form spell while worn, though it is still considered to wear plate. The suit cannot be safely removed unless the armor is supressed by a Disimpress spell of 3rd tier or greater or some other magic nullifying effect*.
+Cost to repair is $1,000 per point.
+
 **Robe of the Nomad**  
 Unarmored  
 $24,500 , 4 lbs.  
-1/1.  
+1/1  
 These robes feature segments of additional padding. As an action, *the user may have it take a similar form to any non-magical armor they have seen. It is not a perfect copy, but it functions as the same class of armor. It does not gain the ability to sustain damage as that armor and is thus still ruined if damaged at all. Fire attacks have a +1 bonus against this armor this way. The user must concentrate on the robes to maintain the form*.
 
-**Silversoul Plate**, $400,000, 60 lb.  
+**Silversoul Plate**  
+Plate  
+$400,000, 60 lb.  
 2/4  
 A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
 Cost to repair is $1,000 per point.

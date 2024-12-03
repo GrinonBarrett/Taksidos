@@ -3,7 +3,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 
 **Creature Type**: Chalcedons are Elemental creatures.
 
-**Size**: Chalcedons about 3'9"-4'1" and 400-500 pounds. They are medium creatures.
+**Size**: Chalcedons are about 3'9"-4'1" and 400-500 pounds. They are medium creatures.
 
 **Languages**: Chalcedons don't speak, but they understand some terraglossa.
 
@@ -24,9 +24,9 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 
 **Unarmed Attacks**;
 
- • Tackle: The chalcedon may use any part of its body to strike a foe within 1 foot.
+ • Tackle: The chalcedon may use any part of its body to strike a foe within 1 foot. Treat as a force or maul attack.
 
- • Fist: The chalcedon may use its arms to strike a foe within 1 yard.
+ • Fist: The chalcedon may use its arms to strike a foe within 1 yard, treat as a mace attack.
 
 ---------------------
 
@@ -41,7 +41,7 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 | **Hand Axe**               | 16     | **Madu**           | 16     | **Chakram** | 17    |
 | **Katar**                  | 16     | **Javelin**        | 16     | **Arquebus** | 14    |
 | **Dagger**                 | 16     | **Throwing Blade** | 19     | **Musket** | 13    |
-| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante** | 137    |
+| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante** | 17    |
 | **Warpick**                | 14     |                    |        | **Bare** |  24 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 16     | **Fire**           | 21     | **Psychic** | 16     |
@@ -86,10 +86,10 @@ Appearing like an orb of banded gemstone with four crude arms, these creatures s
 **Elemental Nature**: Chalcedons are natural earthen creatures. As such they;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Are immune to diseases, poisons and venom.  
- • Immune to the effects of bloodloss.
+ • Immune to the effects of bloodloss.  
  • Are not affected by spells which would affect flesh.  
 
-**Simple Limbs**: The chalcedon hos four arms with primitive three fingered hands. Each is treated as an offhand.
+**Simple Limbs**: The chalcedon has four arms with primitive three fingered hands. Each is treated as an offhand. Any checks made using those hands, other than brawling, are made with disadvantage.
 
 **Crumble**: In place of rolling a d20 when performing an incapacitation save, this creature rolls a d12.
 

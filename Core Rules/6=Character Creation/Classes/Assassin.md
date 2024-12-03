@@ -46,7 +46,8 @@ You may grant yourself an advantage to a [Rflx] save or an Athletics check which
 If you successfully perform a sneak attack against a foe, roll a d12 and add your heroism. For a number of rounds equal to the result, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
 
 ### 4) Pinpoint Strike
-When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critcal hit and may modify the rolled wound by one step. If you were not detected by the foe, you may roll your sneak attack die and add that as an additional bonus for the purposes if determining if it is a critical hit.
+When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critcal hit and may modify the rolled wound by one step.  
+If you were not detected by the foe, and took at least a -2 penalty this way,you may roll your sneak attack die and add that as an additional bonus for the purposes if determining if it is a critical hit.
 
 ### 6) Culling Blow
 When you attack a creature afflicted by a Fell Hand, you may choose to modify the wound result by an additional 2 steps.

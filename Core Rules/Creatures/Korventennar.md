@@ -3,7 +3,7 @@ Giants who make their home in cloud cities. Many are primitive creatures but tha
 
 **Creature Type**: Korventennain are Humanoids.
 
-**Size**: Korventennain stand between 9' and 10' tall. They can weigh between 400-600 pounds. They are large creatures.
+**Size**: Korventennain stand between 9' and 10' tall. They can weigh between 400-600 pounds. They are great creatures.
 
 **Hitpoints**: Korventennain have 6 Hitpoints.
 

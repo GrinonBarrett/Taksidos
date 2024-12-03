@@ -1,11 +1,11 @@
 ### Quillier
-The remnants of the Quilled Lizards, an endangered species that was wiped out by the collapse of the Vridanth Sphere. They were corrupted by it and infused with malicious energy, causing them to become a menace to the local eco system. They are mortal dangers to most that come across their path, but some consider it a right of passage to slay one. They are seldom encountered alone. Their collective nounn is a Prickle.
+The remnants of the Quilled Lizards, an endangered species that was wiped out by the collapse of the Vridanth Sphere. They were corrupted by it and infused with malicious energy, causing them to become a menace to the local eco system. They are mortal dangers to most that come across their path, but some consider it a right of passage to slay one. They are seldom encountered alone. Their collective noun is a Prickle.
 
 **Creature Type**: Quilliers are Fiends.
 
-**Size**: Mantispidons are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
+**Size**: Quilliers are between 3-4 feet in length. They can weigh between 30 and 35 pounds. They are medium creatures.
 
-**Hitpoints**: A quillier 1 hitpoint.
+**Hitpoints**: A quillier has 1 hitpoint.
 
 **Attributes**:  
 [Body] 6 (+2)  
@@ -81,10 +81,10 @@ The remnants of the Quilled Lizards, an endangered species that was wiped out by
 
 #### Special Features
 
-**Prickly**: Any creature which brawls with the quillier or inflicts an attack against it as a result of trampling, is subject to a piercing attack. If the attack is a critical hit, it is treated as atoxic attack.
+**Prickly**: Any creature which brawls with the quillier or inflicts an attack against it as a result of trampling, is subject to a piercing attack. If the attack is a critical hit, it is treated as a toxic attack.
 
 **Dash**: The quillier may sprint twice in a round without incurring fatigue if it did not sprint during the previous round.
 
 **Puncturing Quill**: As a reaction, the quillier may fire a quill at a creature in its rear facing. This is treated as a piercing attack.
 
-**Toxin Laced Quills**: Anytime the quillier's quill attack is a critical hit, it is treated as a toxic attack.
+**Toxin Laced Quills**: Anytime the quillier's quill or pincturing quill attack is a critical hit, it is treated as a toxic attack.

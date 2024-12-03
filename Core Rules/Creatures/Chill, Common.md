@@ -99,9 +99,9 @@ Created when malicious extra planar energy mixes with native planar energies. Ch
 * A d12 is rolled instead of a d20.
 * The Chill gains a bonus equal to its [Empy] bonus to the attack roll.
 
-**Cold Unrest**: Humanoids and Fey, when destroyed by the cold damage of a chill, have their consciousness transformed into a Frozen Spectre. It generally will not cast spells if it already has spell-sickness.
+**Cold Unrest**: Humanoids and Fey, when destroyed by the cold damage of a chill, have their consciousness transformed into a Frozen Spectre. 
 
-**Wyrdings**: A chill may cast wyrdings. It knows the following spells,
+**Wyrdings**: A chill may cast wyrdings. It generally will not cast spells if it already has spell-sickness. It knows the following spells,
 * Frost Lance
 * Frostbite
 * Sphere of Oppressive Cold

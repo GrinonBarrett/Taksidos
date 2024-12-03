@@ -18,7 +18,7 @@ A simple shield. The rondache finds success in the hands of many adventurers.
 
 **Parmula**, $250, 7.5 lb.  
 +2  
-Shield of choice for the Lazine military, the parmula is a reliable source of cover.
+Shield of choice for the Meolasine military, the parmula is a reliable source of cover.
 Requires 11 or greater [Body] to use.  
 
 **Tower**, $400, 13 lb.  

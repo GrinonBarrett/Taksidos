@@ -10,12 +10,12 @@ A much more ferocious manner of chill. The melavolent energies exuded from the c
 **Hitpoints**: A dreadful chill has 3 hitpoints.
 
 **Attributes**:  
-[Body] 12(+4)  
-[Fort] 10(+3)  
-[Rflx] 10(+3)  
-[Will] 10(+3)  
+[Body] 12 (+4)  
+[Fort] 10 (+3)  
+[Rflx] 10 (+3)  
+[Will] 10 (+3)  
 [Inte] 7 (+2)  
-[Prcp] 10(+3)  
+[Prcp] 10 (+3)  
 [Empy] 6 (+2)  
 
 **Run Speed**: It may run up to 4.5 yards per move.
@@ -108,5 +108,6 @@ A much more ferocious manner of chill. The melavolent energies exuded from the c
 * Exploding Sphere
 * Frost Lance
 * Frostbite
-* Sphere of Oppressive Cold  
+* Sphere of Oppressive Cold
+
 The first time it casts a spell whose tier is equal to or lower than its [Empy] bonus during an encounter, it does not receive spell-sickness for a success.

@@ -236,7 +236,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (4
+### D (6
 
 #### Decombustion
 
@@ -289,6 +289,39 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 **At Higher Tiers**: For each tier beyond minimum, an additional such ray is fired.
 
 **Critical Failure**: You instead are subject to a number of the wand's attacks equal to the spell's tier. The wand is still destroyed.
+
+#### Disenchant
+
+**Minimum Tier**: 2
+
+**Casting Time**: 9 actions
+
+**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check with a vouple of exceptions.  
+* You have disadvantage on the check unless it was caused by a spell you know.
+* If the caster of that effect can perceive the afflicted creature, it has advantage on its check.
+* You gain a bonus equal to the the tier of the spell.
+
+**At Higher Tiers**: For each tier beyond minimum, you may have the spell reach out 1 yard to affect a creature or reduce the casting time by 1 action.
+
+**Critical Failure**: You accidentally cuase yourself to be afflicted bu the same effect for a nummber of rounds equal to the spell's tier.
+
+#### Disimpress
+
+**Minimum Tier**: 2
+
+**Casting Time**: 25 actions
+
+**Duration**: 5 + [Magic] bonus minutes
+
+**Effect**: You touch a weapon, piece of ammunition, piece of armor, or some other object.
+
+If it has been affected by a 1st tier spell, or a source determined to be equivalent by the narrator, the effect is supressed for this spell's duration. 
+
+If such a magic's tier would be less than half of this spell's, there is also a percentage chance that the magic is disrupted to the point that it no longer functions (though can be "repaired" by certain means). This is equal to this spell's tier plus the points of success on the spellcheck.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the time it is surpressed by 1d4 minutes or have the spell sffect a magic of one tier higher.
+
+**Critical Failure**: You accidentally disrupt your own magical connection gaining spell sickness equal to the tier of this spell.
 
 #### Dragon's Breath
 
@@ -344,7 +377,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (6
+### F (7
 
 #### Fetch
 
@@ -434,6 +467,25 @@ You may choose to treat the piercing attack as a spear attack or pike attack ins
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
 **Critical Failure**: You forfeit your turn on the next movement phase and the next action phase as the chilling cold wraps you.
+
+#### Fugalism
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: You attempt to recall a spell that was cast, which you could perceive, of a lower level than this spell. You then begin casting that spell as usual, with the following exceptions;  
+* You have disadvantage on counterspell checks.
+* Any attacks dealt by the spell become another type of your choice. An exotic damage type must become another exotic damage type and a non-exotic damage type must become another non-exotic damage type.
+* The caster of the original spell has advantage on counterspell checks against your spell.
+* If you critically fail the spell, you gain spell sickness equal to this spell's tier.
+* You gain spell sickness equal to the tier of that spell unless it is less than half of this spell's tier.
+
+A spell duplicated this way cannot be duplicated again by a spell of equal or lower level. Fugalism cannot be duplicated.
+
+**At Higher Tiers**: The benefits of higher tiers are presented above.
+
+**Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
 
 ### G (2
 

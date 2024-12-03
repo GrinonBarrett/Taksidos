@@ -16,7 +16,7 @@ If this dust is mixed into another magical dust or powder, it will likely render
 Not recommended to handle without protection, but not harmful to the touch.
 
 **Paetur's Stew Jar**, $250 , 1.75 lb.  
-An amber colored jar, sealed with grey-green wax. The contents look like broth with shreds of some disintegrating material. Opening the jar _instead reveals its true contents to be a hot and hardy stew with plenty of veggies, beef, and venison_. The stew is fresh upon opening but is only good for a day. Provides a servings of fluid, a serving of protein, and a serving of vegetables.
+An amber colored jar, sealed with grey-green wax. The contents look like broth with shreds of some disintegrating material. Opening the jar _instead reveals its true contents to be a hot and hardy stew with plenty of veggies, beef, and venison_. The stew is fresh upon opening but is only good for a day. Provides a servings of fluid, a serving of protein, and a serving of vegetables. If opened in a area wherein magic cannot function, you will instead be treated to the sort of contents you observed and it will make you sick.
 
 **Pill of Delution**, $150, .neg  
 This can be dissolved into a beverage to reduce its overall points of inebriation by 1. A single pill per serving will not noticably affect the beverage otherwise. A second pill could potentially be detected. A third such application is most certain to be noticed.

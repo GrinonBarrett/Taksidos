@@ -97,7 +97,7 @@ Hypothetically, krizoi can have any number of limbs but is functionally the same
 
 **Mindlessly Greedy**: Animate skeletons do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects. If an object of the same material as their composition is presented, their focus will shift to it.
 
-**Limited Senses**: The krizai is devoid of organs to sense, but can sense the vibrations in its frame- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight. This sight can only see reflective surfaces, but may do so in dim or bright light as though it were fair light.
+**Limited Senses**: The krizai is devoid of organs to sense, but can sense the vibrations in its frame- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight. This sight can only see reflective surfaces and its like material, but may do so in dim or bright light as though it were fair light.
 
 **Reviving a Krizai**: If even $1 of like material comes in contact with a krizai, it is restored to a single point of undeath. This can include part of the krizai's form being completely removed and reincorporated into the krizai.
 

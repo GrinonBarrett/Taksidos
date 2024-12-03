@@ -50,7 +50,7 @@ Choose two attributes. Each are increased by 1.
 
 **Limbless Form**: Tragoi do not have arms, legs, or other appendages. They may only hold something with their mouth, allowing it to function as a hand.
 
-**Eye Stalks**: Tragoi can rotate their vision. This occurs when rotations would during the round. The helicidai can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase.
+**Eye Stalks**: Tragai can rotate their vision. This occurs when rotations would during the round. The tragai can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase.
 
 **Acidic Body**: The acidic body of the tragai provides the following;  
  • You cannot wear or benefit from armor.  

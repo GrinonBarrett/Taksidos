@@ -69,7 +69,7 @@ Range increased to 8 yards. Because this is a pike with such great range, you su
 
 **Pikaxe**, $180, 4 lb.  
 Pole Axe  
-*A common weapon used by the shock troops of the Lazine empire.*  
+*A common weapon used by the shock troops of the Meolasine empire.*  
 Range is extended to 3 yards. Attacks made against foes within 1 yard have disadvantage.
 
 **Xyston**, $180, 4 lb.  

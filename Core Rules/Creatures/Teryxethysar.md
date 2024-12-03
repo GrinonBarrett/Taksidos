@@ -1,49 +1,48 @@
-### Shishpara
-These six-winged creatures are capable of picking up goats and even children as prey with their four talons. The shishpara prefers to attack from above, taking its dive action to open an encounter. It will pick off the most meager creature in a group, but prefers to hunt single targets and pairs of targets. Their collective noun is a Clutch.
+### Teryxethysar
+Resembling an oversized azhdarchiforme, these creatures are apex predators. They typically avoid confronting sources of magic unless defending their territory or extremely hungry. It is a common tactic to swoop in and deliver their venomous bite, only to resort to stalking their prey afterwards. The plural is Teryxethysain. Their collective noun is a Flight.
 
-**Creature Type**: Shishpara are Avian.
+**Creature Type**: Teryxethysain are Avian.
 
-**Size**: Shishpara tend to be between 11'5" to 14'9" in length, and frequently stand between 4'1" to 5'9" meters. They have a wing span 15% greater than their length. The average male will weigh only 130 pounds, while the average female will weigh about 165 pounds. They are medium creatures.
+**Size**: Teryxethysain have a wingspan between 10-12 yards. Their length is 90% of their wingspan. Their 2.5 foot long skull is connected to their body by a 5 foot neck. They weigh between 400 and 550 pounds. They are great creatures.
 
-**Hitpoints**: A shishpara has 2 hitpoints.
+**Hitpoints**: A Teryxethysar has 4 hitpoints.
 
 **Attributes**:  
-[Body] 12 (+4)  
-[Fort] 9 (+3)  
+[Body] 17 (+5)  
+[Fort] 10 (+3)  
 [Rflx] 12 (+4)  
 [Will] 9 (+3)  
 [Inte] 9 (+3)  
-[Prcp] 16 (+5)  
+[Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
-**Languages**: Shishpara don't speak.
+**Languages**: Teryxethysar don't speak, but can convey the most basic of information to each other by shrieking.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-3  | Curiosity (1) | The shishpara is exploring the area. |
-|   4-6  | Amicability (1)  | The shishpara is going about its business. |
-|   7    | Hostility (3) | The shishpara is agitated by mating season. |
-|   8    | Fear (1)      | Something has startled it. |
-|  9-11  | Hostility (1) | It is keeping an eye on the adventurers. |
-|  12-14 | Hostility (2) | It seems a bit territorial. |
-|   15   | Hostility (3) | It is defending its territory. |
-|  16-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|    19  | Hunger (2)    | It would prefer to snag a small animal. |
-|   20   | Hunger (3)    | The shishpara will try to rip something apart to eat. |
+|   1-3  | Curiosity (1) | It is exploring the area. |
+|   4-5  | Curiosity (2) | It is going about its business. |
+|    6   | Curiosity (3) | It is unsure of the nature of the party. |
+|   7-9  | Hostility (1) | It is keeping an eye on the adventurers. |
+|  10-12 | Hostility (2) | It seems a bit territorial. |
+|  13-15 | Hostility (3) | It is defending its territory. |
+|  16-17 | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|   18   | Hunger (2)    | It would prefer to snag a small or medium creature. |
+|  19-20 | Hunger (3)    | It will try to rip something apart to eat. |
 
 -----
 
-**Run Speed**: It may run up to 2.5 yards per move.
+**Run Speed**: It may run up to 4 yards per move.
 
-**Flying Speed**: If it is not prone, it may fly up to 11 yards per move. If must fly at least 6 yards per round to remain airborne. If it is not prone, it may hover.
+**Flying Speed**: If it is not prone, it may fly up to 40 yards per move. If must fly at least 25 yards per round to remain airborne.
 
 **Unarmed Attacks**;
 
- • Beak: The shishpara may use its beak to bite a foe within 1 foot. This is a melee piercing or biting attack.
+ • Beak: The teryxethysar may use its beak to bite or peck a foe within 2 yards. This is a melee piercing or biting attack.
 
- • Claws: The shishpara may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
+ • Claws: The teryxethysar may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
 
 -----
 
@@ -51,15 +50,15 @@ These six-winged creatures are capable of picking up goats and even children as 
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
-| **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Bare** |   20  |
+| **Club**                   | 18     | **Pole Axe**         | 12     | **Arrow, Bodkin Point**    | 13    |
+| **Longsword**              | 12     | **Greatsword**       | 12     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 13     | **Maul**             | 12    | **Bolt** | 12    |
+| **Spear**                  | 12     | **Pike**             | 11     | **Brusgiata** | 14     |
+| **Hand Axe**               | 13     | **Madu**             | 15     | **Chakram** | 14    |
+| **Katar**                  | 14     | **Javelin**          | 12    | **Arquebus** | 10    |
+| **Dagger**                 | 12     | **Throwing Blade**   | 16   | **Musket** |  9    |
+| **Morningstar**            | 13     | **Sling**            | 16    | **Tronutonante** | 12    |
+| **Warpick**                | 13     |              |         |  **Bare** |   20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
 | **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
@@ -84,7 +83,7 @@ These six-winged creatures are capable of picking up goats and even children as 
 |   10   | Glancing Blow     | No ill effect. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
+|   13   | Glancing Wound    | **Biased wound**. No effect. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
@@ -96,14 +95,12 @@ These six-winged creatures are capable of picking up goats and even children as 
 
 -----
 
-**Nimble Flight**: While flying, the shishpara adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
+**Full Body Jump**: The leap distance of the teryxethysar is multiplied by its [Body] bonus.
 
-**Peck**: As an additional option upon a critical success while brawling, the shishpara may try to strike the foe with its beak to inflict a piercing attack.
+**Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
 
-**Tear**: As an additional option upon a crtical success while brawling with a creature at least two sizes smaller than itself, the shishpara may inflict a biting attack and a cutting attack.
+**Venomous Bite**: When the teryxethysar successfully completes a biting attack against a foe, it also inflicts a toxic attack. If the toxic attack is successful, the creature will be subject to a necrotic attack after one minute and another toxic attack a minute after that. This occurs for each initial toxic attack which is successful.
 
-**Keen Eyes**: The shishpara gets a +2 to all [Prcp] checks and saves involving sight.
+**See Magic**: The teryxethysar can see magical fields, auras, etc. They can also see creatures that possess spell sickness and know when a creature they can see is casting a spell.
 
-**Keen Nose**: The shishpara gets a +2 to all [Prcp] checks and saves involving scent.
-
-**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the teryxethysar flies at least 50 yards in the previous round, it gets a bonus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-fifth of the total yards moved since the beginning of the previous round.

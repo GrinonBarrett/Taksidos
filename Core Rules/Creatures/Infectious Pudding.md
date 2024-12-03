@@ -43,12 +43,12 @@ Though it can vary in its coloration from specimen to specimen, it always takes 
 | **Club**                   | 12   | **Pole Axe** | 10     | **Arrow, Bodkin Point**    | 12    |
 | **Longsword**              | 10    | **Greatsword** | 10     | **Arrow, Broadhead**    | 12    |
 | **Mace**                   | 10    | **Maul** | 10     | **Bolt** | 12    |
-| **Spear**                  | 10     | **Pike** | 10     | **Brusgiata** | 10     |  |     |
+| **Spear**                  | 10     | **Pike** | 10     | **Brusgiata** | 10     |
 | **Hand Axe**               | 10     | **Madu** | 10     | **Chakram** | 10    |
 | **Katar**                  | 10     | **Javelin** | 10    | **Arquebus** | 12    |
 | **Dagger**                 | 10     | **Throwing Blade** |14    | **Musket** | 11    |
 | **Morningstar**            | 10     | **Sling** | 11    | **Tronutonante** | 12    |
-| **Warpick**                | 10     | **Bare** |     |  |     |
+| **Warpick**                | 10     |          |         |  **Bare** |   13   |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 11     | **Psychic** | 16     |
 | **Cold**                   | 15     | **Force** | 17     | **Toxic**  | 14     |

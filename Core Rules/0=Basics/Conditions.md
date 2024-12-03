@@ -34,7 +34,7 @@ Also called bleeding. A hemorrhaging character has suffered terrible bleeding ex
  * 3: Character stumbles, becoming prone. If they were already prone, they instead are made vulnerable.
  * 4: They lose a hitpoint. If they have no hitpoints remaining, they are dazed for a number of rounds equal to the points of failure. This is cumulative with future results.
 
-3 critical successes will end the condition, as can proper medical care. An affect which could restore a wound can remove this conditition instead.
+3 critical successes will end the condition, as can proper medical care. An effect which could restore a wound can remove this conditition instead.
 
 Multiple instances of hemorrhage can be applied to the same creature.
 
