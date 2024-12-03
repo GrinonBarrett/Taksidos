@@ -56,7 +56,7 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
 
 
-**Table**: *Wound Allocation* {Need to fix}
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
