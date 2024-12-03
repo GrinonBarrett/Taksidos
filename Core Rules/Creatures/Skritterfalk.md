@@ -18,19 +18,19 @@ Also known as the catbat, for its resemblences to the two. They have the general
 
 **Languages**: Skritterfalm don't speak, but can mew at subsonic frequencies with each other.
 
-**Table**: *Creature's Reaction* {Need to redo}
+**Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-3  | Curiosity (1) | It is exploring the area. |
-|   4-5  | Curiosity (2) | It is going about its business. |
-|    6   | Curiosity (3) | It is unsure of the nature of the party. |
-|   7-9  | Hostility (1) | It is keeping an eye on the adventurers. |
-|  10-12 | Hostility (2) | It seems a bit territorial. |
-|  13-15 | Hostility (3) | It is defending its territory. |
-|  16-17 | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|   18   | Hunger (2)    | It would prefer to snag a small or medium creature. |
-|  19-20 | Hunger (3)    | It will try to rip something apart to eat. |
+|   1-9  | Curiosity (1) | It is exploring the area. |
+|  10-12 | Curiosity (2) | It is going about its business. |
+|   13   | Curiosity (3) | It is unsure of the nature of the party. |
+|   14   | Hostility (1) | It is keeping an eye on the adventurers. |
+|   15   | Hostility (2) | It seems a bit territorial. |
+|   16   | Hostility (3) | It is defending its territory. |
+|  17-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|   19   | Hunger (2)    | It would prefer to snag a diminutive creature. |
+|   20   | Hunger (3)    | It is actively hunting and you have distrubed it. It will settle for a bite of you. |
 
 -----
 
@@ -46,27 +46,27 @@ Also known as the catbat, for its resemblences to the two. They have the general
 
 -----
 
-**Table**: *Attack versus Creature* {Fix later}
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 18     | **Pole Axe**         | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 12     | **Greatsword**       | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 13     | **Maul**             | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike**             | 11     | **Brusgiata** | 14     |
-| **Hand Axe**               | 13     | **Madu**             | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin**          | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade**   | 16   | **Musket** |  9    |
-| **Morningstar**            | 13     | **Sling**            | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |              |         |  **Bare** |   20  |
+| **Club**                   | 11     | **Pole Axe**         | 9     | **Arrow, Bodkin Point**    | 9    |
+| **Longsword**              | 9     | **Greatsword**       | 9     | **Arrow, Broadhead**       | 8    |
+| **Mace**                   | 9     | **Maul**             | 9    | **Bolt** | 8    |
+| **Spear**                  | 9     | **Pike**             | 9     | **Brusgiata** | 10     |
+| **Hand Axe**               | 9     | **Madu**             | 9     | **Chakram** | 9    |
+| **Katar**                  | 9     | **Javelin**          | 10   | **Arquebus** | 6    |
+| **Dagger**                 | 9     | **Throwing Blade**   | 10   | **Musket** |  6    |
+| **Morningstar**            | 9     | **Sling**            | 10    | **Tronutonante** | 7    |
+| **Warpick**                | 9     |              |         |  **Bare** |   12  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
-| **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
-| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 13     |
-| **Cutting**                | 12     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
+| **Acid**                   | 3     | **Fire** | 7     | **Psychic** | 10     |
+| **Cold**                   | 5     | **Force** | 8     | **Toxic**  | 5     |
+| **Crushing**               | 8     | **Ki** | 7     | **Radiant** | 9     |
+| **Cutting**                | 8     | **Necrotic** | 5     | **Sonic** | 9    |
+| **Electrical**             | 8     | **Piercing** | 8     | **Biting** | 9    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 9 |    |     | **Undamaging** | 11 |
 
 **Table**: *Wound Allocation* {Fix Later}
 | Result | **Name of Wound** | Effects                                                        |
@@ -78,17 +78,17 @@ Also known as the catbat, for its resemblences to the two. They have the general
 |   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
 |   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Wing Shot         | Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
+|   8    | Tail Shot         | Until this wound is healed, it has disadvantage on checks and saves involving balance. |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Glancing Blow     | No ill effect. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Glancing Wound    | **Biased wound**. No effect. |
+|   13   | Mortal Wound    | **Biased wound**. It must immediately perform an incapacitation save. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
+|   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, it cannot fly. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Glancing Wound    | No effect. |
+|   18   | Stumble           | Until the end of the next round, it is prone. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
