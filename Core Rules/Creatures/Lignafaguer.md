@@ -28,31 +28,31 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 
  • Strike: The lignafaguer may use one of its strikers to strike a foe within 1.5 yards in any direction. This is a melee piercing attack.
 
- • Bite: It may perform a single bite against a foe it is grappling. This is a melee bite attack. If it is a critical hit, it does not inflict the typical critical hit affect. Instead, it inflicts an additional cutting attack and an addition acid attack.
+ • Bite: It may perform a single bite against a foe it is grappling. This is a melee bite attack. If it is a critical hit, it does not inflict the typical critical hit affect. Instead, it inflicts an additional cutting attack and an additional acid attack.
 
 -----
 
-**Table**: *Attack versus Creature* {Need to fix}
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 14     | **Maul** | 13     | **Bolt** | 14    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 15     |
-| **Hand Axe**               | 14     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 14  | **Arquebus** | 13    |
-| **Dagger**                 | 15     | **Throwing Blade** |  16  | **Musket** | 12    |
-| **Morningstar**            | 14     | **Sling** | 16    | **Tronutonante** | 14    |
-| **Warpick**                | 14     |          |          |   **Bare** |  20  |
+| **Club**                   | 15     | **Pole Axe** | 11     | **Arrow, Bodkin Point**    | 13    |
+| **Longsword**              | 12     | **Greatsword** | 11     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 12     | **Maul** | 11     | **Bolt** | 12    |
+| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |
+| **Hand Axe**               | 12     | **Madu** | 13     | **Chakram** | 13    |
+| **Katar**                  | 12     | **Javelin** | 13  | **Arquebus** | 10    |
+| **Dagger**                 | 12     | **Throwing Blade** |  14  | **Musket** | 9    |
+| **Morningstar**            | 12     | **Sling** | 14    | **Tronutonante** | 12    |
+| **Warpick**                | 12     |          |          |   **Bare** |  18  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 14     | **Fire** | 15     | **Psychic** | 17     |
-| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
-| **Crushing**               | 15     | **Ki** | 15     | **Radiant** | 15     |
-| **Cutting**                | 14     | **Necrotic** | 14     | **Sonic** | 15    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 14    |
+| **Acid**                   | 15     | **Fire** | 11     | **Psychic** | 18     |
+| **Cold**                   | 16     | **Force** | 13     | **Toxic**  | 12     |
+| **Crushing**               | 13     | **Ki** | 10     | **Radiant** | 14     |
+| **Cutting**                | 13     | **Necrotic** | 11     | **Sonic** | 13    |
+| **Electrical**             | 14     | **Piercing** | 13     | **Biting** | 11    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
 
 
 
@@ -64,19 +64,19 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Concussion      | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   6    | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
+|   6    | Glancing Blow     | **Biased wound**. No effect. |
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects _this time_.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Appendage         | Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
+|   10   | Appendage         | Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 3 times. |
 |   11   | Glancing Blow     | No ill effect. |
-|   12   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
-|   13   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
+|   12   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   13   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 3 times. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   15   | Internal Bleeding | It is hemorhaging.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   18   | Mistsack Rupture  | If the source of the wound is within 5 yards, it is subject to an acid attack. |
+|   17   | Stagger           | It has its movement halved until the end of the round. |
+|   18   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -88,3 +88,5 @@ A rare creature found in dungeons and in some eastern ruins. Such a creature sus
 **Hexelstride**: It run and climb speeds are each increased by 1 foot for each free striker it uses. If it has only 1 striker, its speeds are each reduced to 2 feet. If it has no strikers remaining, it cannot run or climb.
 
 **Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
+
+**Terrifying Leap**: Once per encounter, the lignafaguer may quadruple its leap distance.
