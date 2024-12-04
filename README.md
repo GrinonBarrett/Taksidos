@@ -5,3 +5,6 @@ End folders represent chapters, with each section being numbered in the recommen
 > Not to be confused with this particular format.
 
 Though this is a work in progress, all rights are reserved.
+
+
+Anytime something is written in *Italics like this, it is a magical effect which can be ignored if an effect supresses magic in the area occupied by the effect or some other means of magical supression*.
