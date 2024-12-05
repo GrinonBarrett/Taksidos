@@ -1,32 +1,34 @@
-### Alashanasaurus
-Also called shaochilong, these predators have managed to find a home in Emeria. Though they operate in families of a mating pair or two and their young, adults tend to act as solitary hunters. Their collective noun is a family.
+### Taraskar
+A man eating monster which can be made timid by a pure maiden. A taraskar will hide in a cave or along a river and venture out to eat a humanoid. They are known for their low profile and incredible reaction speed, among other features. Their plural is Taraskain. Their collective noun is a provence.
 
-**Creature Type**: Alashanasaurus are Beasts.
+**Creature Type**: Taraskain are Beasts.
 
-**Size**: Alashanasaurus stand about 6 feet tall. They are 16-20 feet in length. They can weigh between 1,000 and 1,100 pounds. They are large creatures.
+**Size**: Taraskain stand about 2 feet tall. They are 18-22 feet in length. They can weigh between 940 and 1,200 pounds. They are large creatures.
 
-**Hitpoints**: An alashanasaurus has 5 hitpoints.
+**Hitpoints**: A taraskar has 3 hitpoints.
 
 **Attributes**:  
-[Body] 21 (+7)  
-[Fort] 14 (+4)  
+[Body] 24 (+8)  
+[Fort] 12 (+4)  
 [Rflx] 15 (+5)  
-[Will] 15 (+5)  
+[Will] 12 (+4)  
 [Inte] 11 (+3)  
-[Prcp] 14 (+4)  
-[Empy] 10 (+3)  
+[Prcp] 11 (+3)  
+[Empy] 6  (+2)  
 
-**Languages**: Alashanasaurus don't speak.
+**Languages**: Taraskain don't speak.
 
-**Run Speed**: It may run up to 8 yards per move.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: It may climb up to 2 yards per move presuming it is reasonable terrain to do so.
+
+**Swim speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Slam: The alashanasaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Slam: The taraskar may use any part of its body to strike a foe within 2 yards. This is a melee bare attack.
 
- • Bite: The alashanasaurus may perform a single bite against a foe within 1 yard. This is a melee bite attack.
+ • Bite: The taraskar may perform a single bite against a foe within 1 yard. This is a melee bite attack. {resume}
 
 -----
 
