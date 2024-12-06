@@ -6,6 +6,7 @@ For this update:
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
 * Recreate the T Rex for this system.
+* Create a serpentine ooze creature.
 * Create dough type monster.
 * Create a proper Terrasque, but still make it a deadly melee creature which is difficult to deal with by magic. Will have a softspot for non-combatants.
 * Create a Peluda?
