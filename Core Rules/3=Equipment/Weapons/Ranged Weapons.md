@@ -42,3 +42,8 @@ An arquebus designed for smaller creatures. It can also be used by a younger mem
 **Lanciator**, $485  
 Musket  
 A musket designed for smaller creatures. It fires an arquebus bullet, has a total range of 200 Yards, and and optimal range of 3-100 yards. The weight is down to 9 pounds. Treat as an arquebus attack.
+
+**Repeating Crossbow**, $200  
+Crossbow  
+A home defense weapon. This crossbow fires two proprietary bolt when attacking, inflicting a single thrown blade attack against a foe. The maximum range is only 120 yards with an optimal range of between 2 and 50 yards.If it is somehow fired with only one bolt, it suffers a -2 to its attack. Anytime the user performs an attack action with this weapon, if they have an additional limb available, they may perform two attacks. Each of these attacks consume ammunition. They may be against the same or different foes so long as they are in the same facing from the user.  
+Uses repeating bolts as the ammunition.
