@@ -89,4 +89,7 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 
 **Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty. It gets an additional +1 against magical attacks this way.
 
+**Immagical**: The taraskar cannot lose its last hitpoint as a result of a magical effect nor can it be instantly killed by the effect of magic or a spell.
+
 **Toxic Breath**: The taraskar constantly exhudes.a fog of poisonous vapor. Any creature whoch breathes whilst within 2 yards of the taraskar must succeed a [Fort] save with a DV of 16 or lose 1 hitpoint. If it has no hitpoints, it must instead perform an incapacitation save.
+
