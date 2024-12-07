@@ -85,6 +85,6 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 
 -----
 
-**Mighty Slam**: When the alashanasaurus successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the alashanasaurus knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the alashanasaurs' weight in stones divided by the foe's weight in stones. If the alashanasaurus had a critical success, the foe is also vulnerable while they are prone.
+**Magic Resistance**: When the taraskar would perform a save against a magical effect, it rolls an additional d12 and applies it as a bonus.
 
-**Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty.
+**Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty. It gets an additional +1 against magical attacks this way.
