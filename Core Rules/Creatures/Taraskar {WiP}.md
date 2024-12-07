@@ -28,7 +28,9 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 
  • Slam: The taraskar may use any part of its body to strike a foe within 2 yards. This is a melee bare attack.
 
- • Bite: The taraskar may perform a single bite against a foe within 1 yard. This is a melee bite attack. {resume}
+ • Bite: The taraskar may perform a single bite against a foe within 1 yard. This is a melee bite attack.
+
+ • Claw: The taraskar may perform use one of its claws to slash a foe within 1.5 yards. This is a melee cutting attack.
 
 -----
 
@@ -36,21 +38,21 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 21   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 16    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 15    |
-| **Mace**                   | 15    | **Maul** | 14     | **Bolt** | 15    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 17     |  |     |
-| **Hand Axe**               | 15     | **Madu** | 16     | **Chakram** | 17    |
-| **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
-| **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
-| **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     |    |  |   **Bare** |  22  |
+| **Club**                | 17   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
+| **Longsword**              | 13     | **Greatsword** | 12     | **Arrow, Broadhead**       | 13    |
+| **Mace**                   | 13    | **Maul** | 12     | **Bolt** | 13    |
+| **Spear**                  | 13     | **Pike** | 12     | **Brusgiata** | 13     |  |     |
+| **Hand Axe**               | 13     | **Madu** | 13     | **Chakram** | 13    |
+| **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 11    |
+| **Dagger**                 | 13     | **Throwing Blade** |15    | **Musket** | 10    |
+| **Morningstar**            | 13     | **Sling** | 15    | **Tronutonante** | 13    |
+| **Warpick**                | 13     |    |  |   **Bare** |  20  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
-| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
-| **Crushing**               | 15     | **Ki** | 16     | **Radiant** | 16     |
-| **Cutting**                | 13     | **Necrotic** | 13     | **Sonic** | 15    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 13    |
+| **Acid**                   | 12     | **Fire** | 12     | **Psychic** | 13     |
+| **Cold**                   | 12     | **Force** | 12     | **Toxic**  | 14     |
+| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 14     |
+| **Cutting**                | 13     | **Necrotic** | 10     | **Sonic** | 11    |
+| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 13    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
 
@@ -71,7 +73,7 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 |   10   | Snout Shot        | It suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
+|   13   | Shell Shot        | **Biased wound**. It loses the benefit of its Taraskine Shell feature. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
@@ -84,3 +86,5 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 -----
 
 **Mighty Slam**: When the alashanasaurus successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the alashanasaurus knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the alashanasaurs' weight in stones divided by the foe's weight in stones. If the alashanasaurus had a critical success, the foe is also vulnerable while they are prone.
+
+**Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty.
