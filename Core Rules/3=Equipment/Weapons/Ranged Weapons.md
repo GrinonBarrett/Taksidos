@@ -46,4 +46,8 @@ A musket designed for smaller creatures. It fires an arquebus bullet, has a tota
 **Repeating Crossbow**, $200  
 Crossbow  
 A home defense weapon. This crossbow fires two proprietary bolt when attacking, inflicting a single thrown blade attack against a foe. The maximum range is only 120 yards with an optimal range of between 2 and 50 yards.If it is somehow fired with only one bolt, it suffers a -2 to its attack. Anytime the user performs an attack action with this weapon, if they have an additional limb available, they may perform two attacks. Each of these attacks consume ammunition. They may be against the same or different foes so long as they are in the same facing from the user.  
+Cannot damage armor.  
 Uses repeating bolts as the ammunition.
+
+Repeating Bolt (per 20 bolts), $30, .7 lb.  
+Used for repeating crossbows. Each can be set to hold a dose of venom or poison which it can inflict against a foe on a critical hit or when the attack would qualify for damaging armor (even though it does not damage armor). If foe is unarmored, it can auomatically apply such a toxin upon a successful wound.
