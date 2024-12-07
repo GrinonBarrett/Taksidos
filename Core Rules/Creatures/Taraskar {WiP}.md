@@ -88,3 +88,5 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 **Magic Resistance**: When the taraskar would perform a save against a magical effect, it rolls an additional d12 and applies it as a bonus.
 
 **Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty. It gets an additional +1 against magical attacks this way.
+
+**Toxic Breath**: The taraskar constantly exhudes.a fog of poisonous vapor. Any creature whoch breathes whilst within 2 yards of the taraskar must succeed a [Fort] save with a DV of 16 or lose 1 hitpoint. If it has no hitpoints, it must instead perform an incapacitation save.
