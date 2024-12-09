@@ -28,6 +28,12 @@ $14,000 , 5 lbs.
 Flail  
 A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
+**Coolsong** (*unique*)  
+$10,400, 3.5 lbs.  
+Longsword  
+The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath 9n a successful git equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Afditionally, critical hits *may be treated as they were cold attacks*.  
+If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
+
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
 Longsword  
