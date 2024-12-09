@@ -42,7 +42,7 @@ Cost to repair is triple the normal cost.
 
 **Explosive Plates**  
 Cuirass  
-$5,000
+$10,000
 1/3  
 An unusual set of plate maile. Each piece is covered in an alchemical substance. When damaged, *the armor explodes, inflicting a fire attack against anything within 1 yard in the direction of the attack*. Fire attacks have advantage against this armor. Fire and electric attacks can also trigger the explosion *on an attack roll of 7 or 13*.
 
