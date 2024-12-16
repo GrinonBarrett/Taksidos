@@ -89,7 +89,9 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 
 **Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty. It gets an additional +1 against magical attacks this way.
 
-**Immagical**: The taraskar cannot lose its last hitpoint as a result of a magical effect nor can it be instantly killed by the effect of magic or a spell.
+**Immagical**: The taraskar cannot lose its last hitpoint as a result of a magical effect nor can it be instantly killed by the effect of magic or a spell. A magical weapon inflicting a wound can still inflict a wound as normal.
 
-**Toxic Breath**: The taraskar constantly exhudes.a fog of poisonous vapor. Any creature whoch breathes whilst within 2 yards of the taraskar must succeed a [Fort] save with a DV of 16 or lose 1 hitpoint. If it has no hitpoints, it must instead perform an incapacitation save.
+**Toxic Breath**: The taraskar constantly exhudes a fog of poisonous vapor. Any creature which breathes whilst within 2 yards of the taraskar must succeed a [Fort] save with a DV of 16 or lose 1 hitpoint. If it has no hitpoints, it must instead perform an incapacitation save.
 
+**Breath Weapon**: The taraskar may exhude a concentrated blast of its toxic breath, as an action. This is a line 9 yards in length and is half a foot high and wide. Anything caught within the line suffers a Toxic attack. A creature which does not need to breathe is immune to this. It may do so once per encounter and an additional time between full rests.
+Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as it sweeps its head side to side.
