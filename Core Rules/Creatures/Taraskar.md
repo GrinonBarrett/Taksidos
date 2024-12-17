@@ -1,5 +1,5 @@
 ### Taraskar
-A man eating monster which can be made timid by a pure maiden. A taraskar will hide in a cave or along a river and venture out to eat a humanoid. They are known for their low profile and incredible reaction speed, among other features. Their plural is Taraskain. Their collective noun is a provence.
+A man eating monster which can be made timid by a pure maiden. A taraskar will hide in a cave or along a river and venture out to eat a humanoid. They are known for their low profile and incredible reaction speed, among other features. It is known they are docile towards those of pure heart who have never commit violance against another. Their plural is Taraskain. Their collective noun is a provence.
 
 **Creature Type**: Taraskain are Beasts.
 
@@ -28,7 +28,7 @@ A man eating monster which can be made timid by a pure maiden. A taraskar will h
 
  • Slam: The taraskar may use any part of its body to strike a foe within 2 yards. This is a melee bare attack.
 
- • Bite: The taraskar may perform a single bite against a foe within 1 yard. This is a melee bite attack.
+ • Bite: The taraskar may perform a single bite against a foe within 1 yard. This is a melee bite attack. If it is a critical hit, it also inflicts a toxic attack.
 
  • Claw: The taraskar may perform use one of its claws to slash a foe within 1.5 yards. This is a melee cutting attack.
 
