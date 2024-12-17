@@ -89,11 +89,9 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 
 **Venomous Quills**: Anytime the peludar is grappled or trampled, that creature makes contact with the toxins secreted theough quills hidden in the peludars fur, inflicting a toxic attack
 
-**Taraskine Shell**: Attacks made against this creature from behind suffer a 1d4 penalty. It gets an additional +1 against magical attacks this way.
-
 **Unsettling Crawl**: In place of swimming, the peludar may running along the surface below and use its run movement. It must be in contact with the ground to opt tk do so.
 
 **Held Breath**: The peludar may hold its breath for an hour.
 
-**Breath Weapon**: The taraskar may exhude a concentrated blast of its toxic breath, as an action. This is a line 9 yards in length and is half a foot high and wide. Anything caught within the line suffers a Toxic attack. A creature which does not need to breathe is immune to this. It may do so once per encounter and an additional time between full rests.
+**Breath Weapon**: The peludar may exhale a lengthy blast of flaming chemicals. This is a line 9 yards in length and is half a foot high and wide. Anything caught within the line suffers a Toxic attack. A creature which does not need to breathe is immune to this. It may do so once per encounter and an additional time between full rests.
 Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as it sweeps its head side to side.
