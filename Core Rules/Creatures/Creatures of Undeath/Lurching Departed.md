@@ -1,5 +1,5 @@
 ### Lurching Departed
-An easily made form of undead created by those that believe necromancy to be a means of acquiring power, this form is often seen being used as minions for an intelligent creature. Their collective noun is a shamble.
+An easily made form of undead created by those that believe necromancy to be a means of acquiring power, this form is often seen being used as minions for an intelligent creature. Unlike many forms of undead, these can be skeltal or retain almost all of the original fleshy dressings of its former corpse. Their collective noun is a shamble.
 
 **Creature Type**: Lurching departed are undead.
 
@@ -33,12 +33,12 @@ An easily made form of undead created by those that believe necromancy to be a m
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
 | **Club**                   | 16     | **Pole Axe**       | 14     | **Arrow, Bodkin Point**    | 17    |
-| **Longsword**              | 14     | **Greatsword**     | 14     | **Arrow, Broadhead**       | 17    |
-| **Mace**                   | 15     | **Maul**           | 13     | **Bolt**                   | 17    |
+| **Longsword**              | 15     | **Greatsword**     | 14     | **Arrow, Broadhead**       | 17    |
+| **Mace**                   | 15     | **Maul**           | 14     | **Bolt**                   | 17    |
 | **Spear**                  | 15     | **Pike**           | 15     | **Brusgiata**              | 18    |
-| **Hand Axe**               | 14     | **Madu**           | 15     | **Chakram**                | 19    |
+| **Hand Axe**               | 15     | **Madu**           | 15     | **Chakram**                | 19    |
 | **Katar**                  | 15     | **Javelin**        | 15     | **Arquebus**               | 17    |
-| **Dagger**                 | 17     | **Throwing Blade** | 19     | **Musket**                 | 17    |
+| **Dagger**                 | 17     | **Throwing Blade** | 20     | **Musket**                 | 16    |
 | **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante**           | 17    |
 | **Warpick**                | 14     |                    |        | **Bare**                   | 21    |
 |                            |        |                    |        |
@@ -58,21 +58,21 @@ An easily made form of undead created by those that believe necromancy to be a m
 |   1    | Attacker's Choice |                                                                |
 |   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
-|   4    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
-|   5    | Broken Bone       | The edacious corpse is prone until the end of the next round. |
+|   4    | Smashed Limb      | The lurching departed loses one of its arms (or equivalent limb). |
+|   5    | Broken Bone       | The lurching departed is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Play Dead         | **Biased wound**. The edacious corpse falls to the ground for 1d12 round, at which point it will get back up. It is vulnerable during this time it is downed. |
+|   7    | Premature Redeath | **Biased wound**. The lurching departed is destroyed. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
-|   10   | Destructive Blow  | Edacious corpse loses 1d20 points of undeath. |
+|   10   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Glancing Blow     | No ill effects. |
-|   13   | Memory            | **Biased wound**. The edacious corpse is stunned as it endures a flashback of its life. Until the end of the next round, so long as nothing attacks or comes in contact with the edacious corpse, it does nothing. If something does disturb it, it becomes the center of its attention. |
-|   14   | Broken Bone       | The edacious corpse is prone until the end of the next round. |
+|   13   | Stumble           | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   14   | Broken Bone       | It is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Broken Bone       | The edacious corpse is prone until the end of the next round. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone. |
+|   18   | Broken Bone       | It is prone until the end of the next round. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -94,7 +94,5 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 -----
 
-***Creating an Edacious Corpse***: It is possible for one to use the Animate spell to create an edacious from the corpse of one who starved to death if it is cast as a 2nd tier or greater. On a critical success, the caster may modify how many rounds it will require to animate by an amount up to the points of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator. Once its creator is dead and it has tasted its flesh,if it was animated by a critical failure, it will cease to be animate about 2d20+30 minutes later.  
-The corpse is fully animate 1d10+1d20 rounds after the spell completes.  
-
-Occasionally, one simply occurs if one starves to death.  No magic needed.
+***Creating a Lurching Departed***: It is possible for one to use the Animate spell to create a lurching departed from a corpse, regardless of its condition, if it is cast as a 2nd tier or greater. On a critical success, the lurching dead will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for either 1d4-1 hours per point of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+It is fully animate 1d6+4 rounds after the spell completes.
