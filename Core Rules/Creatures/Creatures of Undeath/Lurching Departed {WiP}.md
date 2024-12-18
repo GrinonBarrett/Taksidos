@@ -8,15 +8,15 @@ An easily made form of undead created by those that believe necromancy to be a m
 **Undeath**: A lurching departed has 20 points of undeath.
 
 **Attributes**:  
-[Body] 12 (+4)  
-[Fort] 10 (+3)  
-[Rflx] 11 (+3)  
-[Will] 9 (+3)  
-[Inte] 7 (+2)  
-[Prcp] 11 (+3)  
+[Body] 11 (+3)  
+[Fort] 8 (+2)  
+[Rflx] 8 (+2)  
+[Will] 8 (+2)  
+[Inte] 6 (+2)  
+[Prcp] 8 (+2)  
 [Empy] 6 (+2)  
 
-**Languages**: Edaciou corpses don't speak.
+**Languages**: Lurching departed don't speak.
 
 **Run Speed**: It may run up to 4 yards per move.
 
