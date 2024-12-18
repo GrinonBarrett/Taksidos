@@ -20,17 +20,15 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 **Run Speed**: It may run up to 4 yards per move.
 
-**Climb speed**: You may swim up to .5 yard per move, presuming it is reasonable terrain to do so.
-
-**Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
+**Climb speed**: You may swim up to 1 foot per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Smack: The edacious corpse may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
+ • Smack: The lurching departed may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* {Need to review}
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
@@ -54,7 +52,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 
 
-**Table**: *Wound Allocation*
+**Table**: *Wound Allocation* {Need to edit}
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
@@ -83,7 +81,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 #### Special Features
 
-**Undead Nature**: As an undead creature, the edacious corpse has a few advantages:  
+**Undead Nature**: As an undead creature, the lurching departed has a few advantages:  
 **-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
 **-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
@@ -92,9 +90,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Mindless**: Edacious corpses do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
-
-**Unnecessary Hunger**: The edacious corpse does not need to eat, but is driven to do so. If it must choose betwwen a fighting foe, a fleeing foe, or a dead creature which is nearer to it than a foe- it will go for the corpse first and remain focused on it so long as it is not distrubed. It can restore points of undeath as it eats, regaining 1 per pound of creature consumed. If it has a flashback and is undisturbed, there is a 1 in 12 chance that it may instead find an alternative food source that matches something it ate while alive.
+**Mindless**: Lurching departed do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
 -----
 
