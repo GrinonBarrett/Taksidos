@@ -75,7 +75,7 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 |   10   | Snout Shot        | It suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Shell Shot        | **Biased wound**. It loses the benefit of its Taraskine Shell feature. |
+|   13   | Lost Spade        | **Biased wound**. The peludar's spade has been damaged or removed by the attack, preventing it from using its spade attack until this wound is healed. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
@@ -89,11 +89,11 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 
 **Venomous Quills**: Anytime the peludar is grappled or trampled, that creature makes contact with the toxins secreted theough quills hidden in the peludars fur, inflicting a toxic attack
 
-**Unsettling Crawl**: In place of swimming, the peludar may running along the surface below and use its run movement. It must be in contact with the ground to opt tk do so.
+**Unsettling Crawl**: In place of swimming, the peludar may running along the surface below and use its run movement. It must be in contact with the ground to opt to do so.
 
 **Held Breath**: The peludar may hold its breath for an hour.
 
 **Breath Weapon**: The peludar may exhale a lengthy blast of flaming chemicals. This is a line 12 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. The critical hit inflicted by the attack is treated as a necrotic attack. It must rest before doing so.
 Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as it sweeps its head side to side.
 
-**Controlled Burst**: The peludar may loose a small blast using the same 
+**Controlled Burst**: The peludar may loose a small blast using the same mechanism as its breath weapon. This is a ranged attack against a foe within 18 yards. Optimal range is 12 yards or less. This inflicts both a fire and a necrotic attack. It may do this once per encounter and an additional time between rests.
