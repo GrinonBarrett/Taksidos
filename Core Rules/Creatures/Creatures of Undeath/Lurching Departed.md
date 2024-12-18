@@ -28,7 +28,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 ---------------------
 
-**Table**: *Attack versus Creature* {Need to review}
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
@@ -52,7 +52,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 
 
-**Table**: *Wound Allocation* {Need to edit}
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
