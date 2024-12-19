@@ -996,9 +996,9 @@ You may concentrate on this spell when you cast it, forfeiting actions to do so.
 
 †Excluding constructs, elementals, ephemera, and undead.
 
-**At Higher Tiers**: Each tier beyond minimum increases the spheres size, allowing it to reach out and yard from you.
+**At Higher Tiers**: Each tier beyond minimum increases the spheres size, allowing it to reach out an additional yard from you.
 
-**Critical Failure**: You cast the circle around yourself. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot, keeping itself centered on you. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of fire attacks against you equal to the tier of the spell. An immunity to the harm of fire does not protect you from this, but instead has the attacks made with disadvantage.
+**Critical Failure**: The sphere forms as normal, but does not move with you. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of necrotic attacks against you equal to the tier of the spell. An immunity to the harm of necrotic damage does not protect you from this, but instead has the attacks made with disadvantage.
 
 
 #### Unrest for Undeath
