@@ -119,17 +119,19 @@ Elves of the realm known as the Alnuskogs. They are the keepers and defenders of
 #### Variants
 Among the alderolvs, there are a few standouts. 
 
-**Rangers**: Gaining specialty in the Bow, the archers are also equiped with gambeson and a buckler in addition to one of the weapons they have proficiency with.
+**Rangers**: Gaining expertise in the Bow and specialization in hand axes and javelins, in addition to their normal proficiencies. Rangers are often equipped with some form of Gambeson.
 
-{}
+**Mist Walker**: Those that take great strides within the Alnuskogs to journey from here and there. If a party bargains for passage through the domain, they will be escorted by mist walkers. Mist walkers can sprint once each round while in the alnuskogs without incurring fatigue. They are also capable of wyrding, and know the following spells: *Absenting*, *Disenchant*, *Fetch*, *Green Ward*, *Intoxify*, *Wisp Away* and one other spell. They have specialization with hand axes and bows in addition to their usual proficiencies.
+
+**Alnus Guard**: Those that keep at the edge of the domain to protect it. These warriors have an additional hitpoint, specialization in bows and javelins, and expertise in another weapon in addition to their usual proficiencies. Their [Body] is improved to 12, granting it a bonus of +4 instead. If an alderalv is adorned by some form of cuirass- it is an alnus guard.
 
 -----
 
 #### Special Features
 
-**Magical Resistance**: Saltsingers gain a +1 to defense against magical attacks and a 1d6 bonus to saves against magical effects.
+**Elfish Resistances**: Alderolves cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
 
-**Elfish Resistances**: Saltsingers cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
+{resume}
 
 **Targeted Screech**: Once per encounter, as an action, the saltsinger can loose a horrid screech. Treat as a *sonic attack against a foe within a number of yards equal to the target's [Prcp]*.
 
