@@ -180,7 +180,7 @@ Alternatively, the caster may use the bullet of a firearm with the gunpowder inc
 
 **Effect**: You smash together magical particles to produce a great icosohedron small enough to fit in your hand, which can then be directed in a straight line to a point you designate within range. Upon impact, it explodes causing anything within 5 yards to be subject to the explosion. The explosion will inflict a force attack. For a number of rounds equal to the spell's tier, as long as you concentrate on the spell, you may choose to use your reaction to cause an identical explosion in the same point as the original. You may only do so once.
 
-When the spell explodes, you may choose to inflict knockback up to the spell's points of success + your [Magic] bonus. This is divded by the weight in stones of anything affected.
+When the spell explodes, you may choose to inflict knockback (in feet) up to the spell's points of success + your [Magic] bonus. This is divded by the weight in stones of anything affected.
 
 On a critical success, you may have the shape of the explosion change to become a cone with a length equal to the spell's typical radius. It is pointed in a direction of your choice.
 
