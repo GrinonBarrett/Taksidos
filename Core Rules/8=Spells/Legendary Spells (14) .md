@@ -96,7 +96,7 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 
 **Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
 
-### Liston (2
+### Liston (3
 A scoundrel who isn't even considered any form of arcanist. He is a thief and a reckless one at that.
 
 #### Liston's Fallback
@@ -112,6 +112,20 @@ You gain a bonus to the spell check while casting that spell equal to the tier y
 **At Higher Tiers**: These benefits are noted above.
 
 **Critical Failure**: For a number of days equal to this spell's tier, your spell-sickness penalty for trying to cast the spell contained in the staff is doubled. The staff is not destroyed.
+
+#### Liston's Party Trick
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 12 yards
+
+**Effect**: You propel a number of thrown blades from your grasp towards different targets within range equal to 2 + spell tier. These are standard thrown attacks.
+
+**At Higher Tiers**: In additon to the benefit above, each tier above minimum can provide one of the following benefits; range is increased by 4 yards, one of the attacks gains a +1 bonus, you propel an additional thrown blade.
+
+**Critical Failure**: You manage to send each of the blades in various directions such that no one is harmed. In the process of attempting to dodge them however, you are made prone and vulnerable until the end of the next round.
 
 #### Liston's Pry
 
