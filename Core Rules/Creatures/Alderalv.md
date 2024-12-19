@@ -129,10 +129,8 @@ Among the alderolvs, there are a few standouts.
 
 #### Special Features
 
+**Skill Proficiencies**: An alderalv is proficient in Survival and Zoology (Sylvan). It is also proficient in either medicine or another Zoology skill.
+
 **Elfish Resistances**: Alderolves cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
 
-{resume}
-
-**Targeted Screech**: Once per encounter, as an action, the saltsinger can loose a horrid screech. Treat as a *sonic attack against a foe within a number of yards equal to the target's [Prcp]*.
-
-**Deep Chanting**: All saltsingers are capable of casting the *Deep Chant* spell and can choose to exclude other saltsingers from being affected by their spell.
+**Unseen Step**: Once per encounter, as an action, the alderalv may *become completely invisible* so long as nothing is looking at it. This lasts until the end of the next round and does not count as an action or reaction.
