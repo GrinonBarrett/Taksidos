@@ -393,7 +393,7 @@ If a creature has possessed the object since you did, the spell will not work an
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
 
-**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not harmlessly bounce on impact.
+**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not "harmlessly" bounce on impact.
 
 #### Feyding Gesture
 
@@ -487,7 +487,27 @@ A spell duplicated this way cannot be duplicated again by a spell of equal or lo
 
 **Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
 
-### G (2
+### G (3
+
+#### Grasp
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 actions
+
+**Range**: 15 yards
+
+**Effect**: You create a magical force to take hold of a creature or object. Once grasped this way you may attempt one of the following; throw, slam, or hold.
+
+If throwing a creature or object, treat as a shove with the following exceptions. Your value is equal to the spell check result + spell tier + [magic] bonus. An object does not add a [Body] score it does not have. If you throw it into yourself, you may make a [Rflx] save (with a DV equal to the DV of this spell's spell check) to have it safely sent to your grasp. A critical failure's effects are determined by the narrator.
+
+If slamming a foe, treat as a normal slam with the following exceptions. Your value is equal to the spell check result + spell tier + [magic] bonus.
+
+If holding, treat as a normal grapple with the following exceptions. Your value is equal to the spell check result + spell tier + [magic] bonus. The grappled target cannot use [Rflx]. You must concentrate for the entirety of the hold for it to continue. The grappled target gets a +1 bonus for every whole round that passes while held. A critical success breaks the grasp of the spell, ending it.
+
+**At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, can increase the range by 10 yards or reduce the casting time by 1 action (to aminimum of 2).
+
+**Critical Failure**: The force you create instead surrounds yourself, making you prone and vulnerable for a number of rounds equal o the spell's tier. Your movement speeds are reduced by half during this time.
 
 #### Gravitic Disruption
 
