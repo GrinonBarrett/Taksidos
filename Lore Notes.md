@@ -1,7 +1,7 @@
 ## Places
 
 ### Alnuskogs
-A place between places. A world primarily dominated by alder forest, though there do seem to be some carrs. It is perpetually dusk and fog shrouds the view of the distance. A few creatures live here, but is primarily inhabited and guarded by the Alderolves. The realm itself can function as a through space between other wooded lands in other worlds.
+A place between places. A world primarily dominated by alder forest, though there do seem to be some carrs. It is perpetually dusk and fog shrouds the view of the distance. A few creatures live here, but is mostly inhabited and guarded by the Alderolves. The realm itself can function as a through space between wooded lands in other worlds.
 
 ## Notes for running various creatures
 
