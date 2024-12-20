@@ -32,3 +32,9 @@ If you are a species that does not receive effects of wounds,you inatead gain a 
 
 ### 4) Defense in Guess
 When an attack is inflicted against you, you may call a number. If the attack roll result is the number you called, you gain a +3 bonus to defense against that attack.
+
+### -) -
+Your follow up attacks and counter attacks gain a bonus equal to the level of training you have with the appropriate weapon for the purpose of 8nflucting a critical hit.
+
+### -) -
+When you perform an attack, you may roll a d4. The if the result is a 4, your attack is automatically a critical failure with a total attack result of 1. Otherwise, you gain a bonus to the attack equal to the result.

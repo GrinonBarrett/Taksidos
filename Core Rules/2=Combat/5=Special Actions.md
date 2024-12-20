@@ -7,7 +7,7 @@ You rotate up to 180 degrees. If you received a wound, you may about face as a r
 
 #### Aim  
 Action  
-You choose a creature (or object) within range. If your next attack before the end of the next round is made against it, you gain advantage on that attack.
+You choose a creature (or object) within range. If your next attack before the end of the next round is made against it, you gain advantage on that attack. You may also modify the wound result by 1. If you already had advantage on the attack, you may modify the wound result by 2 instead.
 
 #### Attack
 Action  
@@ -34,8 +34,6 @@ You choose a reaction. During the next round, you may perform that reaction once
 Reaction  
 Used in response to your own melee weapon attack. You cleave with your attack, causing an attack against each creature in a 180 degree arc in front of you extending out to the maximum range of the weapon beginning with the leftmost or rightmost foe first and proceeding onward. Each such attack is made with a -1 penalty and any attack within half of the weapon's range is made with disadvantage.  
 If an attack is parried, a critical failure, your weapon is successfully beat, or you are successfully struck by an attack which was a response to this cleaving attack- the cleave ends and you are vulnerable until the end of the next round. You cannot perform a follow up attack to an attack this way.
-
-If an attack is made this way within less than half of the weapon's range, that attack has disadvantage.
 
 #### Counter Attack
 Reaction  

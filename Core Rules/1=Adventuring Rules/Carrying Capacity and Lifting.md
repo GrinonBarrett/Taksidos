@@ -4,6 +4,9 @@ Carrying capacity reflects how much weight you can wear for travel. You have 3 w
 ### Burdensome Loads
 You may carry up to 4 times your [Body] in weight, but will suffer a level of exhaustion after 4 hours and are prone for the entire time your bear that load.
 
+### Marching Loads
+A character may carry up to 10 times their [Body] in weight, but suffer all of the effects of a burdensome load and are considered vulnerable for that time and will incur their fatigue every 3 hours their movement speed is also reduced by a sixth (or .5 feet for every yard).
+
 ### Lifting
 If attempting to lift an object as a skill check, the DV is 1 per 1.5 pounds of weight the object is. Certain difficult to manage items could be up to 4 per pound. Multiple individuals can contribute to this.
 

@@ -28,6 +28,12 @@ $14,000 , 5 lbs.
 Flail  
 A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
+**Coolsong** (*unique*)  
+$10,400, 3.5 lbs.  
+Longsword  
+The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath 9n a successful git equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Afditionally, critical hits *may be treated as they were cold attacks*.  
+If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
+
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
 Longsword  
@@ -60,7 +66,7 @@ An enchanted weapon costs 3 times the base price and an additional $5,000. Depen
 * Nasty: Toxic.
 
 **Flaming Flamberge** (*unique*)  
-$1,950 , 6.5 lbs.  
+$5,950 , 6.5 lbs.  
 Greatsword  
 This sword is never cold to the touch. As an action, *the user may have the blade ignite with flame. It puts out light like a torch and also inflicts a fire attack when inflicting any other attack*. The flames can be extinguished by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1.5 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with fire, inflicting a foe attack against that foe*.
 
@@ -73,7 +79,7 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 **Galosle's Wrap** (*unique*)  
 $4,900 , neg.  
 Unarmed  
-Technically, two of these exist, but they only function if both are adoned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also influcts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
+Technically, two of these exist, but they only function if both are adoned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
 **Heart Stealer** (*unique*)  
 $3,400 , 3 lbs.  
@@ -84,16 +90,16 @@ A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
 Pole Axe  
-A shorter head than is typical of poleaxes mounts he shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
+A shorter head than is typical of poleaxes mounts the shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
 If name is known, a critical hit with this weapon may also *inflict a cold attack*.
 
 **Lightning Caller** (*unique*)  
 $8,500, 4 lbs.  
 Warpick  
-It appears to be made of altyprium but feels (and acts) like steel. When the weapon's attack roll would be a 7, 13, or 19- *it calls a bolt of lightning as though conjured by a 2nd tier Call Lightning spell*. This occurs regardless of the attack result, so long as it can be assumed the weapon came in contact with the foe.
+It appears to be made of altyprium but feels (and acts) like steel. When the weapon's attack roll would be a 7, 13, or 19- *it calls a bolt of lightning as though conjured by a 2nd tier Call Lightning spell*. This occurs regardless of the attack result, so long as it can be assumed the weapon came in contact with the foe or its armor.
 
 **The Light Caster** (*unique*)  
-$12,000 , 3.5 lbs.  
+$16,000 , 3.5 lbs.  
 Longbow  
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
 
@@ -109,7 +115,7 @@ A femur which has arcane markings carved into it, explaining some ritual. On a c
 Can be found in any size, with each size category increasing the weight by half of its current weight.
 
 **Syphoning Sabre** (*unique*)  
-$7,500 , 3 lbs.  
+$8,500 , 3 lbs.  
 Longsword  
 A light sword that never seems to stain. If the sabre inflicts the killing blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
 
@@ -138,10 +144,10 @@ A sword which may have been finely made, but has seen many damaging battles. Whe
 **Wicked Spike** (*unique*)  
 $5,700, 4 lbs.  
 Warpick  
-A gnarled warpick forged in curses against humanity. Anytime it infoucts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
+A gnarled warpick forged in curses against humanity. Anytime it inflicts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
 
 **Zerun's Eye**  
-$8,800, neg.  
+$9,990, neg.  
 None (see below)  
 A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
 The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces and thrown blades may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.

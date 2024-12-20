@@ -96,7 +96,7 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 
 **Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
 
-### Liston (2
+### Liston (3
 A scoundrel who isn't even considered any form of arcanist. He is a thief and a reckless one at that.
 
 #### Liston's Fallback
@@ -112,6 +112,20 @@ You gain a bonus to the spell check while casting that spell equal to the tier y
 **At Higher Tiers**: These benefits are noted above.
 
 **Critical Failure**: For a number of days equal to this spell's tier, your spell-sickness penalty for trying to cast the spell contained in the staff is doubled. The staff is not destroyed.
+
+#### Liston's Party Trick
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 12 yards
+
+**Effect**: You propel a number of thrown blades from your grasp towards different targets within range equal to 2 + spell tier. These are standard thrown attacks.
+
+**At Higher Tiers**: In additon to the benefit above, each tier above minimum can provide one of the following benefits; range is increased by 4 yards, one of the attacks gains a +1 bonus, you propel an additional thrown blade.
+
+**Critical Failure**: You manage to send each of the blades in various directions such that no one is harmed. In the process of attempting to dodge them however, you are made prone and vulnerable until the end of the next round.
 
 #### Liston's Pry
 
@@ -129,7 +143,7 @@ Where X is the tier of this spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier. Additionally, you have set off any magical alarms set to the portal. To make things worse, you seem to be effected as though an identical alarm (or alarms) had been set to you. Have fun getting out of trouble.
 
-### Tinto (1
+### Tinto (2
 An ancient magi who managed to illustrate uses of magic in ageiculture, medicine, and war.
 
 #### Tinto's Circle
@@ -149,6 +163,21 @@ You may use your reaction to inflict a crushing attack against a creature within
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and increases the duration by 1 minute.
 
 **Critical Failure**: You cast the circle around yourself. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot, keeping itself centered on you. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of fire attacks against you equal to the tier of the spell. An immunity to the harm of fire does not protect you from this, but instead has the attacks made with disadvantage.
+
+#### Tinto's Healing
+
+**Minimum Tier**: 6
+
+**Casting Time**: 1 minute
+
+**Range**: 1 yard
+
+**Effect**: A creature of your choice within range performs an incapacitation save. If the check is succesful, you heal a wound of your choice or an instance of hemorhaging (your choice as caster) from the creature. If it is a critical success, it also recovers a hitpoint.
+Failure on the save does not harm the creature in anyway, but a critical failure prevents the creature from having its hitpoints or wounds restored by spells from the same caster of an equal or lower tier in the same day.
+
+**At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus.
+
+**Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will instead receive spell sickness equal to the points of failure.
 
 
 ### Vehemente (2
@@ -180,10 +209,26 @@ Alternatively, the caster may use the bullet of a firearm with the gunpowder inc
 
 **Effect**: You smash together magical particles to produce a great icosohedron small enough to fit in your hand, which can then be directed in a straight line to a point you designate within range. Upon impact, it explodes causing anything within 5 yards to be subject to the explosion. The explosion will inflict a force attack. For a number of rounds equal to the spell's tier, as long as you concentrate on the spell, you may choose to use your reaction to cause an identical explosion in the same point as the original. You may only do so once.
 
-When the spell explodes, you may choose to inflict knockback up to the spell's points of success + your [Magic] bonus. This is divded by the weight in stones of anything affected.
+When the spell explodes, you may choose to inflict knockback (in feet) up to the spell's points of success + your [Magic] bonus. This is divded by the weight in stones of anything affected.
 
 On a critical success, you may have the shape of the explosion change to become a cone with a length equal to the spell's typical radius. It is pointed in a direction of your choice.
 
 **At Higher Tiers**: Each tier beyond its minimum can grant the secondary explosion a +1 bonus to the attack or increase the explosion radius (or cone length) by 1 yard.
 
 **Critical Failure**: You fail to form a stable shape with the spell, causing it to explode with you at the center, which can inflict knockback (you are knocked backwards). Additionally, for a number of rounds equal to the spell's tier, you are subject to residual particuls- inflicting a force attack with disadvantage against you at the end of each such round.
+
+### Zorne (1
+
+#### Zorne's Ball Lightning
+
+**Minimum Tier**: 4
+
+**Casting Time**: 7 actions
+
+**Range**: 10 yards
+
+**Effect**: You produce a glowing ball of energy from which elctricity arc and lashes out, 1 foot in diameter, which hovers towards a direction of your choosinbg at a speed of up to 4 yards per move. Anyone casting a Call Lightning or Swift Bolt spell while the ball lightning is within range of that spell may designate the ball as the point of origin for it. Upon impact, the sphere explodes causing anything within 4 yards to be subject to the explosion. The explosion will inflict a lightning attack aginst whatever it impacted with and the resulting explosion will inflict an electrical attack against anything within the blast. The ball continues to exist for 8 rounds beyond the round it was created, or until impact, whichever is first.
+
+**At Higher Tiers**: Each tier beyond its minimum can either increase the speed by 1 yard, lifespan by 2 rounds, or the explosion radius by 1 yard.
+
+**Critical Failure**: You attempt to form the ball lightning, but succeed only in electricuting yourself. Inflict two electrical attacks against yourself, with the first gaining a bonus equal to the spell's tier. If both attacks against you were a critical hit, treat the second as a fire attack.

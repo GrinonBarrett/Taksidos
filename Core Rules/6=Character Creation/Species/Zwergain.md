@@ -1,5 +1,5 @@
 ## ZWERGAIN
-Hailing from mountains far west, the zwergain have evolved in a realm dominated by monsters and dragons. They are sublime adventurers in the depths of a dungeon but may not be the warmest of allies. They have a distinct disdain of giants and anything big and flying. They are know for living longer than humans, but much of this is spent in their declining years. The singular is zwergar. Zwergar characters get the following features;
+Hailing from mountains far west, the zwergain have evolved in a realm dominated by monsters and dragons. They are sublime adventurers in the depths of a dungeon but may not be the warmest of allies. They have a distinct disdain of giants and anything big and flying. They are known for living longer than humans, but much of this is spent in their declining years. The singular is zwergar. Zwergar characters get the following features;
 
 **Creature Type**: Zwergain are humanoids.
 
