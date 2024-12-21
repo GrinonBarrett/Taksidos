@@ -1,6 +1,7 @@
 For this update:
 
 * Convert all references from Lazine at Meolas and Meolasine to avoid confusing Lithen and Lazine.
+* Add scatterguns.
 * Finish Languages.
 * Create proper rules for contracting disease.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
@@ -22,8 +23,6 @@ Make the failed alchemical cycle:
 -----
 Other To-Do notes
 -----
-
-Contemplate scatterguns...
 
 Add more alternatively sized weapons
 
