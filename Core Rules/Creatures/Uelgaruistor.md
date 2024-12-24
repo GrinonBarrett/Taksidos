@@ -57,7 +57,7 @@ This creature is covered in proto-feathers. Instead of traditional talons, it ha
 | **Club**                   | 14    | **Pole Axe**      | 9     | **Arrow, Bodkin Point**  | 9 |
 | **Longsword**              | 10    | **Greatsword**    | 9     | **Arrow, Broadhead**     | 9 |
 | **Mace**                   | 10    | **Maul**          | 9     | **Bolt**                 | 8 |
-| **Spear**                  | 10    | **Pike**          | 9     | **Brusgiata** | 8     |  |     |
+| **Spear**                  | 10    | **Pike**          | 9     | **Brusgiata** | 8     |
 | **Hand Axe**               | 10    | **Madu** | 11    | **Chakram** | 10    |
 | **Katar**                  | 10    | **Javelin**       | 10    | **Arquebus** | 7    |
 | **Dagger**                 | 11    | **Throwing Blade** | 14   | **Musket** | 6    |
