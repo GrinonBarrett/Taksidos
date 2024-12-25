@@ -1,6 +1,5 @@
 For this update:
 
-* Add scatterguns in two forms. A lighter Blunderbuss form, and a heavier design which uses self contained thin cloth cartdridges.
 * Finish Languages.
 * Create proper rules for contracting disease.
 * Create a serpentine ooze creature.
