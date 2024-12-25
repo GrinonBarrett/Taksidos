@@ -1,5 +1,5 @@
 ## ETRID
-A reptilian species which was instrumental in the founding of the Lazine Empire. Etrids are known for their passionate personalities. Etrid characters get the following features;
+A reptilian species which was instrumental in the founding of the Meolasine Empire. Etrids are known for their passionate personalities. Etrid characters get the following features;
 
 **Creature Type**: Etrids are humanoids.
 
@@ -10,7 +10,7 @@ A reptilian species which was instrumental in the founding of the Lazine Empire.
  +1 [Body]  
  Choose an attribute. It is increased by 1.
 
-**Languages**: You gain competency in the Common Tongue, Lazine, and one other language of your choice.
+**Languages**: You gain competency in the Common Tongue, Meolas, and one other language of your choice.
 
 **Run Speed**: You may run up to 4.5 yards per move.
 
