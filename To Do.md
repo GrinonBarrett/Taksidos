@@ -4,17 +4,18 @@ For this update:
 * Add scatterguns in two forms. A lighter Blunderbuss form, and a heavier design which uses self contained thin cloth cartdridges.
 * Finish Languages.
 * Create proper rules for contracting disease.
+* Create a serpentine ooze creature.
+
+Next update:  
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
 * Create 2 more greater serviles (One is a knight, and another is a clay golem like entity)
-* Recreate the T Rex for this system.
-* Create a serpentine ooze creature.
 * Create dough type monster.
 * Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
-* Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water evwn if you can breath underwater, casting a spell known by the knemui, or are within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday, a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
+* Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday, a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
 * Will add Mothman?!
 
-Make the failed alchemical cycle:  
+Also, at some point soon, make the failed alchemical cycle:  
 * Massaconfusar. A being composed of jet black solids linked by a thick smoke. It consumes matter.
 * Ablutior. A vaporous white entity which affeccs those around it psychically.
 * Citrinitar. An ooze of bright yellow which glows dimly. It can transmute metals. It is attracted to sources of magic, but is highly resistant to them. It is toxic to life.
@@ -37,6 +38,7 @@ Flesh out bestiary.
 * Will add Slurposaurus
 * Will add Unikhairn
 * WIll add Agropelter
+* Will add T Rex
 * Will add Despy's Pet Bag?!
 * Will add Evronar
 * Will add Devrourk
@@ -103,5 +105,5 @@ Ranger? (Lots of folks like the idea of the ranger but trying to balance it righ
 To be playable, the creature (or rather species) must meet the following criteria.  
 * It must not be mindless.
 * It must seem distinctive from other species.
-* It must be able to be somewhat balanced coompared to other species.
+* It must be able to be "somewhat balanced" compared to other species.
 * Members of the species must be capable of being cognisent of the difference between instincts and morality and able to create and operate by morality systems other than its own innate instincts.
