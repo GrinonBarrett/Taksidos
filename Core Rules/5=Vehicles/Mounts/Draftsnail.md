@@ -1,5 +1,5 @@
 ### Draftsnail
-An extremely uncommon sight anywhere else, draftsnails are a vital part of the Lazine empire. They are more docile than horses, require less feed, and are fairly stout for their size. Unlike most snails, draftsnails do not have eyestalks but two pairs of eyes, one forward and the other to the sides. This technically gives them a wide field of view, but does not grant any benefit to the actual detail of vision itself.
+An extremely uncommon sight anywhere else, draftsnails are a vital part of the Meolasine empire. They are more docile than horses, require less feed, and are fairly stout for their size. Unlike most snails, draftsnails do not have eyestalks but two pairs of eyes, one forward and the other to the sides. This technically gives them a wide field of view, but does not grant any benefit to the actual detail of vision itself.
 
 **Creature Type**: Draftsnails are Infigura creatures. 
 
