@@ -1,6 +1,5 @@
 For this update:
 
-* Convert all references from Lazine at Meolas and Meolasine to avoid confusing Lithen and Lazine.
 * Add scatterguns in two forms. A lighter Blunderbuss form, and a heavier design which uses self contained thin cloth cartdridges.
 * Finish Languages.
 * Create proper rules for contracting disease.
