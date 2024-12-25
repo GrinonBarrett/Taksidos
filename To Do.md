@@ -5,7 +5,7 @@ For this update:
 * Finish Languages.
 * Create proper rules for contracting disease.
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
-* Create 3 more greater serviles (One is a knight, another is a griffin, and another is a clay golem like entity)
+* Create 2 more greater serviles (One is a knight, and another is a clay golem like entity)
 * Recreate the T Rex for this system.
 * Create a serpentine ooze creature.
 * Create dough type monster.
