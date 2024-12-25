@@ -72,7 +72,7 @@ The price of fruit may be higher if they are not grown locally.
 They last 1d3+2 days and offer 2 servings to the pound.
 
 **Blueberries**, $4.75 per lb.  
-These little guys last 1d3 days. A pound provides 2 servings. They are a popular choice for the production of wine in the lazine empire.
+These little guys last 1d3 days. A pound provides 2 servings. They are a popular choice for the production of wine in the Meolasine empire.
 
 **Cane Berries**, $8 per lb.  
 Includes the likes of blackberries, raspberries, and so on. Lasts 1d2 days. A pound provides 2 servings.
