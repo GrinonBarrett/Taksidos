@@ -107,7 +107,7 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 
 **Split Spell**: When you begin casting a spell, you may command the bone-mage to also attempt to focus its actions as though it were casting the spell as well. Upon completing the spell, you may use your reaction to treat it as the origin of the spell instead of yourself. You are still the one casting the spell.
 
-**Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+**Dominion Benefits**: The bone-mage gains the benefit as appropriate to your domain.  
 * **The Earth**. Immune to damage from knockback and falling.
 * **The Flame**. Anytime its magic blast against a foe would qualify to damage armor or is a critical hit, the invoker may use their reaction to take on 1d4+3 points of spell sickness. If they do, *the magic blast impacts with a fiery explosion, inflicting a fire attack against against everything within 3 yards*.
 * **The Grave**. Whenever one of your serviles is destroyed while the bone-mage has no remaining hitpoints, you may use your reaction to gain an amount of spell sickness equal to the current number of serviles you control.
