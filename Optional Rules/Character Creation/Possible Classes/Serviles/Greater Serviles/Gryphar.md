@@ -26,7 +26,7 @@ Possessing the frame of a horse, the head of a rooster, the claws of an owl, and
 
  • Slam: The gryphar may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
- • Stomp: The hippalectryon can attempt to stomp a foe, dealing a crushing attack. It has a -2 penalty to its attack, but has a +5 bonus for the purpose of determining if the attack is a critical hit.
+ • Claw: The gryphar can attempt to slash at a foe within 1 yard, inflicting a cutting attack. It has advantage against a foe it is grappling.
 
 ---------------------
 
@@ -47,7 +47,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 |                        |           |          |            |         |            |
 | **Acid**                   | 5-9   | **Fire** | 6-10   | **Psychic** | 7-10  |
 | **Cold**                   | 6-10  | **Force** | 6-9   | **Toxic**  | 8-11   |
-| **Crushing**               | 6-9   | **Ki** | 6-10  | **Radiant** | 7-10  |
+| **Crushing**               | 6-9   | **Ki** | 7-11  | **Radiant** | 6-9  |
 | **Cutting**                | 6-11  | **Necrotic** | 5-9  | **Sonic** | 7-10 |
 | **Electrical**             | 6-10  | **Piercing** | 6-9   | **Biting** | 5-8  |
 |                        |           |          |            |         |            |
@@ -71,7 +71,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 |   13   | Vital Organ | **Biased Wound**. A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. Until this wound is healed, yit must perform an incapacitation save at the end of any round it did not perform such a save. Additionally, it must perform an incapacitation save at the end of each round it does not do so.  |
 |   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage. |
-|   16   | Clipped Wing | **Biased wound**. Until this wound is healed, it cannot fly. |
+|   16   | Glancing Blow | **Biased wound**. No ill effect. |
 |   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone. |
 |   18   | Major Damage | **Biased wound**. Until this wound is healed, it is prone. |
 |   19   | Disrupted Spirit | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
@@ -80,6 +80,28 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 
 -----
 
-**Limited Flight Capacity**: A hippalectryon can only fly for a number of minutes equal to 5 + [Fort] bonus between rests. Flying with a medium load counts as double the time. Flying with a heavy load counts as quadruple the load.
+**Great Leap**: Its jumping distance is doubled.
 
-**Flyby Trample**: If the hippalectryon tramples a foe while flying, they may choose to inflict a cutting attack in place of a crushing attack.
+**Limited Flight Capacity**: A falling or leaping gryphar may treat itself as having a flying speed equal 7 yards plus a number of feet equal to the invoker's level, until the end of the round. This incurs a level of fatigue on the gryphar's part and cannot be done during consecutive rounds.
+
+**Winged Lunge**: As an action or reaction, a gryphar may push itself away from a surface or object capable of bearing its weight and perform a small burst of flight. It is treated as performing a jump, with the maximum height and distance doubled.
+
+**Limited Trample**: A gryphar can trample as though it were a mount, in place of brawling, if it makes contact as a result of sprinting or other means of intentional movement. Additionally, if it slams a foe, it inflicts an unarmed attack against that foe.
+
+**Flyby Trample**: If the gryphar tramples a foe while flying, they may choose to inflict a cutting attack in place of a crushing attack.
+
+**Dominion Benefits**: The gryphar gains the benefit as appropriate to your domain.  
+* **The Earth**. Immune to damage from knockback and falling so long as it is not prone.
+* **The Flame**. Fire and electric attacks made against the gryphar have disadvantage.
+* **The Grave**. If the grypher attacks a foe with its claw, it *may use its reaction to inflict a necrotic attack against that foe*. Necrotic attacks against the gryphar have disadvantage.
+* **The Light**. Once per encounter, the invoker may use its reaction to have the gryphar inflict a radiant attack against a foe as though by a wand. Radiant attacks against the gryphar have disadvantage.
+* **Nobility** All unarmed attacks against the Gryphar have disadvantage.
+* **The Sea**. The gryphar gains a Swim speed of 4 yards.
+* **The Sky**. The gryphar may use its Limited Flight Capacity without incurring fatigue, but must rest before doing so again. The distance of its Limited Flight Ability is increased by 3 yards.
+* **Valdercaller**. Immune to the effects of inebriation. Toxic attacks against the Gryphar have disadvantage.
+
+-----
+
+#### Gaining a Gryphar Servile
+
+Gryphars typically are found by an invoker by chance, but will only allow themselves to be entreated by an invoker who acts with nobility. It must be treated respectfully when encountered to enter the invoker's service.
