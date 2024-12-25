@@ -94,7 +94,7 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 |   | The Earth | The Flame | The Grave | The Light | The Sea | The Sky | Nobility |  Valdercaller |
 |---|-----------|-----------|-----------|-----------|---------|---------|----------|---------------|
 |   |           |           |           |           |         |         |          |               |
-| 1 |   Acid    |  Radiant  |  Radiant  |  Radiant  | Electric| Electric|   Cold   |   Piercing    |
+| 1 |   Acid    |  Radiant  |  Radiant  |  Radiant  | Electric| Cutting |   Cold   |   Piercing    |
 | 2 | Crushing  |   Fire    |    Cold   |   Fire    |   Cold  | Electric|Electrical|     Acid      |
 | 3 | Crushing  |   Fire    |    Cold   |  Radiant  |   Cold  | Electric|   Fire   |     Cold      |
 | 4 |   Force   |   Fire    |   Toxic   | Electric  |   Acid  |   Cold  |    Ki    |     Fire      |
