@@ -18,5 +18,8 @@ A line extends directly from the point of origin. A line always has its length, 
 ##### Semifan
 Like a fan, but the width of any point is always half of the length from the point of origin.
 
+#### Mikrofan
+Like a fan, but the width of any point is always one-third of its length.
+
 ##### Sphere
 A sphere extends from the point of origin in all directions out to the distance dictated by the effect.
