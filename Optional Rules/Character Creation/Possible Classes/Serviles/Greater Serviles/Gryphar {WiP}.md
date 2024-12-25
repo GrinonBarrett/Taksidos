@@ -5,7 +5,7 @@ Possessing the frame of a horse, the head of a rooster, the claws of an owl, and
 
 **Size**: Gryphain are between 4'1" to 4'5" at the withers. They can weigh between 425 and 550 pounds. They are medium creatures.
 
-**Hitpoints**: A hippalectryon has 1 hitpoint.
+**Hitpoints**: A gryphar has 1 hitpoint.
 
 **Attributes**:  
 [Body] 14 (+4)  
@@ -22,11 +22,9 @@ Possessing the frame of a horse, the head of a rooster, the claws of an owl, and
 
 **Swim Speed**: It may swim up to 2 yards per move, presuming the water isn't too rough.
 
-**Flight Speed**: It may fly up to 7 yards per move, but must fly at least 1 yard per move and 3 yards in a round to remain aloft.
-
 **Unarmed Attacks**;
 
- • Slam: The hippalectryon may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Slam: The gryphar may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Stomp: The hippalectryon can attempt to stomp a foe, dealing a crushing attack. It has a -2 penalty to its attack, but has a +5 bonus for the purpose of determining if the attack is a critical hit.
 
