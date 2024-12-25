@@ -109,7 +109,7 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 
 **Dominion Benefits**: The bone-mage gains the benefit as appropriate to your domain.  
 * **The Earth**. Immune to damage from knockback and falling.
-* **The Flame**. Anytime its magic blast against a foe would qualify to damage armor or is a critical hit, the invoker may use their reaction to take on 1d4+3 points of spell sickness. If they do, *the magic blast impacts with a fiery explosion, inflicting a fire attack against against everything within 3 yards*.
+* **The Flame**. Anytime its magic blast against a foe would qualify to damage armor or is a critical hit, the invoker may use their reaction to take on 1d4+3 points of spell sickness. If they do, *the magic blast impacts with a fiery explosion, inflicting a fire attack against everything within 3 yards*.
 * **The Grave**. Whenever one of your serviles is destroyed while the bone-mage has no remaining hitpoints, you may use your reaction to gain an amount of spell sickness equal to the current number of serviles you control.
 * **The Light**. Anytime the bone-mage's attack is successful and the result is odd, you may have the struck creature produce light like a torch until the end of the next round. Radiant and Necrotic attacks against the bone-mage have disadvantage.
 * **Nobility**. Anytime you use your reaction, you can see everything the bone-mage sees so long as you can perceive the bone-mage. The bone-mage may treat its magic blast's attack as *any nromal weapon attack for the purpose of the foe's defense as the magic blast's energy projectile forms to the shape of the weapon*.
