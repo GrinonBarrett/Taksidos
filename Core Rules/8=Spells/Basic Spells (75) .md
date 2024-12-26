@@ -705,7 +705,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: The axe explodes infront of you, inflicting the effect against you instead.
 
-### M (1
+### M (2
 
 #### Molten Form
 
@@ -735,19 +735,21 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You fail to transfer the transmutation properly. Yourself and any affected creature is set ablaze, as though a fire attack inflicted a critical hit. The save DV will be equal to the DV of the spell check.
 
-#### Mortal Masque {}
+#### Mortal Masque
 
-**Minimum Tier**: 1
+**Minimum Tier**: 2
 
 **Casting Time**: 1 minute
 
-**Range**: 5 yards
+**Range**: 1 yard
 
-**Effect**: You inflict a psychic attack against a creature within range. In place of inflicting a wound, it receives points of inebriation equal to the spell's tier. The attack still inflicts a critical hit's effect as normal.
+**Duration**: 1 hour
 
-**At Higher Tiers**: For each tier beyond minimum, the range is increased by 5 yards.
+**Effect**: You magically reform the flesh of a corpse to appear as though it did in life. This can be applied to a reanimated corpse of some nature, but it must be able to cooperate for this.
 
-**Critical Failure**: You become stuporous so long as you have spell-sickness.
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by an hour. Alternatively, if cast as a 3rd tier or higher spell, you may halve the total duration to have the corpse formed to appear as any member of the same species so long as your are familiar with that subject or have a detailed reference.
+
+**Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
 
 ### N
 
