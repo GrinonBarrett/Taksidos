@@ -815,7 +815,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (8
+### S (9
 
 #### Sentinel
 
@@ -845,6 +845,20 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
 **Critical Failure**: The create the sentinel, but it seems to have a mind of its own. It will attempt to attack you during each action phase. In addition, it can attempt to attack the nearest creature to it at the end of each movement phase. A creature must be illuminated in at least dim light for the sphere to see it, but does not require that light to attack you. The sentinel always lasts for a minute this way.
+
+#### Set Breath
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 actions
+
+**Range**: 5 yards
+
+**Effect**: You manage to bestow up to two creatures in range an extended reserve of air. For a number of rounds equal to 2d8 plus double the Spell Tier, the creature need not breathe normally. This is rolled for each creature individually. A creature will know this effect is to expire at the start of the final round.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the time for each creature by 1d12 + spell tier or affect an additional creature.
+
+**Critical Failure**: You struggle to breathe properly for a number of rounds equal to double the spell's tier- making you vulnerable during that time. If you do not breathe normally, you instead gain 1d4 points of spell sickness.
 
 #### Silent Alarm
 
