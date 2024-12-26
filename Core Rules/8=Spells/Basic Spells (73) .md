@@ -547,7 +547,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (2
+### H (3
 
 #### Habroism
 
@@ -564,6 +564,20 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
 
 **Critical Failure**: You seem to have succeeded, however the spell only lasts for a number of rounds equal to the spell's tier. Additionally, you feel a strange ache in your body which causes you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
+#### Hydravidity
+
+**Minimum Tier**: 1
+
+**Casting Time**: 7 actions
+
+**Range**: 7 yards
+
+**Effect**: A creature you target within range gains an unquenchable thirst. It is considered to have lost hydration equal to the spell's tier. For a number of hours equal to the spell's tier, there is a 1 in 4 chance that a serving of liquids consumed will not hydrate as it would normally. A creature which does not suffer from thirst will instead be dazed for a number rounds equal to the spell's tier as it contends with a new sensation.
+
+**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier.
+
+**Critical Failure**: You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
 
 #### Hypoaftepathy
 
