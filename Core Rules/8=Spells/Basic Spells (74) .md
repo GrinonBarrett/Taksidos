@@ -735,6 +735,20 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You fail to transfer the transmutation properly. Yourself and any affected creature is set ablaze, as though a fire attack inflicted a critical hit. The save DV will be equal to the DV of the spell check.
 
+#### Mortal Masque {}
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 minute
+
+**Range**: 5 yards
+
+**Effect**: You inflict a psychic attack against a creature within range. In place of inflicting a wound, it receives points of inebriation equal to the spell's tier. The attack still inflicts a critical hit's effect as normal.
+
+**At Higher Tiers**: For each tier beyond minimum, the range is increased by 5 yards.
+
+**Critical Failure**: You become stuporous so long as you have spell-sickness.
+
 ### N
 
 ### O
