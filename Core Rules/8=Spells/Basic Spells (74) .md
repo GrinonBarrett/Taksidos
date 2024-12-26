@@ -569,7 +569,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Minimum Tier**: 1
 
-**Casting Time**: 7 actions
+**Casting Time**: 5 actions
 
 **Range**: 7 yards
 
@@ -577,7 +577,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier.
 
-**Critical Failure**: You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
+**Critical Failure**: You feel an immediate need. Your whole body aches for refreshment. You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you still have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
 
 #### Hypoaftepathy
 
@@ -786,7 +786,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 ### Q
 
-### R (3
+### R (4
 
 #### Regeneration
 
@@ -800,6 +800,22 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 **At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus and increases the casting time by 1 minute.
 
 **Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will receive a wound.
+
+#### Remit
+
+**Minimum Tier**: 2
+
+**Casting Time**: 7 actions
+
+**Range**: 10 yards
+
+**Duration**: 2 hours divided by the spell's tier.
+
+**Effect**: You cause the effect of gravity on the mass of a creature/object you target within range, cause ings effective weight to be divided by up to half of the spell's tier. It functions in all other respects that same. A critical success from the spellcheck can grant the benefits of an additional spell tier.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by half an hour (before dividing per the spell tier) or have the range is increased by 5 yards.
+
+**Critical Failure**: You accidentally effect yourself, but suffer a level of fatigue in the process.
 
 #### Resend
 
