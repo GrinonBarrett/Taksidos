@@ -377,7 +377,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (7
+### F (8
 
 #### Fetch
 
@@ -486,6 +486,24 @@ A spell duplicated this way cannot be duplicated again by a spell of equal or lo
 **At Higher Tiers**: The benefits of higher tiers are presented above.
 
 **Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
+
+#### Fyrvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a flaming serpentine spirit of nature to strike a foe within range, treat as a biting attack. You may treat a critical hit as though it were a fire attack. If the attack would qualify to damage the foe's armor or be a critical hit, it wraps around the foe causing them to be prone. The creature may attempt a save as an action to remove it (exact nature is at Narrator's discretion) with a DV equal to double the spell's tier + caster's [Magic] bonus. At the end of each round, if it is wrapped around a foe or object, it inflicts a fire attack against it.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+The caster may use their reaction to redirect the spirit to attack another, inflicting the biting attack as usual.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
 
 ### G (3
 
