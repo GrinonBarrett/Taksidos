@@ -895,7 +895,25 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (9
+### S (10
+
+#### Seclusion Circle
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 minutes
+
+**Effect**: You produce a magical circle, filled with some incomprehensible fomrulae, which stretches out between 1 and 5 yards- either on the ground or the ceiling. The circle lasts for a number of days equal to the spell's tier.
+
+Anything inside of the circle is incapable of influencing anything outside of the circle. This includes cast spells, using wands or other magic items, or the magical aspects of some feature. This circle can affect something regardless of how high or low from the circle it is, so long as no structure exists between them.
+
+You may use your reaction to knockback a creature in the circle by 1d6 + spell tier feet. If it was trying to leave, you may choose to prevent the knockback from causing it to leave the circle. 
+
+You may designate a material. A creature may use this material to dispel the circle by entering with it.
+
+**At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, allows you to increase the circle by up to 2 yards.
+
+**Critical Failure**: You find yourself trapped in the circle, unable to leave it.
 
 #### Sentinel
 
