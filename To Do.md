@@ -72,7 +72,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 * Create seclusive circle spell, which produces a circle preventing those inside from expressing magic which has effect outside of the circle. Can use reaction when a creature attempts to leave it to try to puch them down back into the circle. Can be dispelled by many means, including the caster entering the circle.
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
-* Create Fanijin's? Fyrvalder. Summons a flaming snake spirit that can bite a foe, then potentially bind them and inflict fire damage while doing so.
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
