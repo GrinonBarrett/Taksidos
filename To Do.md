@@ -69,7 +69,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 * A spell that sends a telpathic message to any number of knkon creatures within range.
 * Create Flameward Spell. Protects from non-magical fire, imposes disadvantage on fire attacks against target, and make target immune to the effects of a fiery critical hit.
 * Create Empathic Ward spell. Touched creature adds its [Empy] its defense, but loses this the moment it is harmed or itself attempts to inflict an attack including an attack from a spell other than a Non-Damaging attack.
-* Create seclusive circle spell, which produces a circle preventing those inside from expressing magic which has effect outside of the circle. Can use reaction when a creature attempts to leave it to try to puch them down back into the circle. Can be dispelled by many means, including the caster entering the circle.
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
