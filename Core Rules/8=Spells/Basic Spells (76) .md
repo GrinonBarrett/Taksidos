@@ -503,7 +503,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
-**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
 ### G (3
 
@@ -702,6 +702,22 @@ A creature may make a [Fort] save to avoid this if they wish.
 **At Higher Tiers**: For each tier beyond minimum, the duration in minutes is increased. The total duration will be the tier squared.
 
 **Critical Failure**: You fail to transfer the transmutation properly. You gain the benefits of the spell normally until the end of the next round, at which point the metal skin then begins to corrode. At the start of each round, for the remainder of the duration, you must succeed a [Fort] save or become prone for the rest of the spell's duration. Once rusted, it provides protection only like maile.
+
+#### Isevalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 6 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a mist tailed spirit of nature to strike a foe within range, treat as a biting attack. If the attack would qualify to damage the foe's armor, it instead freezes the foe for half as many rounds as the spell's tier. As a reaction, it can be directed against another foe, inflicting the biting attack. Each round, during the primary action phase, it will attack the creature it was last designated to target with a cold attack.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
 ### J
 
