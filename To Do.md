@@ -2,10 +2,7 @@ For this update:
 
 * Finish Languages.
 * Create a serpentine ooze creature.
-* Add a thought capture spell?
-* Add a spell that summons a shadowy minion. The minion is like a mindless ephemeral bear which inflicts necrotic attacks, resists certain attacks (bare, necrotic, toxic, acid, and cold), is weak against certain damage types (ki, radiant, and psychic), and can receive telpathic commands from the summoner.
-* Create Everwarmth spell.
-* Create a spell that allows warding of a specified creature type from an area.
+
 
 Next update:  
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
@@ -64,6 +61,18 @@ MORE SPELLS!
 Havery? (makes one talk nonsensically)   
 Jander (makes sick and visibly unappealing)  
 Jolling (slows a creature's run speed by hindering limbs)
+* Add a thought capture spell?
+* Add a spell that summons a shadowy minion. The minion is like a mindless ephemeral bear which inflicts necrotic attacks, resists certain attacks (bare, necrotic, toxic, acid, and cold), is weak against certain damage types (ki, radiant, and psychic), and can receive telpathic commands from the summoner.
+* Create Everwarmth spell.
+* Create a spell that allows warding of a specified creature type from an area.
+* A spell that sends a telpathic message to  a recipient, but can allow a conversation at higher levels.
+* A spell that sends a telpathic message to any number of knkon creatures within range.
+* Create Flameward Spell. Protects from non-magical fire, imposes disadvantage on fire attacks against target, and make target immune to the effects of a fiery critical hit.
+* Create Empathic Ward spell. Touched creature adds its [Empy] its defense, but loses this the moment it is harmed or itself attempts to inflict an attack including an attack from a spell other than a Non-Damaging attack.
+* Create seclusive circle spell, which produces a circle preventing those inside from expressing magic which has effect outside of the circle. Can use reaction when a creature attempts to leave it to try to puch them down back into the circle. Can be dispelled by many means, including the caster entering the circle.
+* Create a spell to help cure a creature of a diease.
+* Create a spell where the caster conjures shooting stars to be directed each round.
+* Create Fanijin's? Fyrvalder. Summons a flaming snake spirit that can bite a foe, then potentially bind them and inflict fire damage while doing so.
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
