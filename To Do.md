@@ -1,7 +1,7 @@
 For this update:
 
 * Finish Languages.
-* Create a serpentine ooze creature as a greater servile.
+* Create a serpentine ooze creature.
 
 
 Next update:  
