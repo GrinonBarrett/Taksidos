@@ -2,6 +2,10 @@ For this update:
 
 * Finish Languages.
 * Create a serpentine ooze creature.
+* Add a thought capture spell?
+* Add a spell that summons a shadowy minion. The minion is like a mindless ephemeral bear which inflicts necrotic attacks, resists certain attacks (bare, necrotic, toxic, acid, and cold), is weak against certain damage types (ki, radiant, and psychic), and can receive telpathic commands from the summoner.
+* Create Everwarmth spell.
+* Create a spell that allows warding of a specified creature type from an area.
 
 Next update:  
 * Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
