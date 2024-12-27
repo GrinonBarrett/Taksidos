@@ -1,11 +1,11 @@
 For this update:
 
 * Finish Languages.
-* Create a serpentine ooze creature.
+* Create a serpentine ooze creature as a greater servile.
 
 
 Next update:  
-* Create 4 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon).
+* Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
 * Create 2 more greater serviles (One is a knight, and another is a clay golem like entity)
 * Create dough type monster.
 * Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
