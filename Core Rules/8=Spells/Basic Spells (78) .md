@@ -335,7 +335,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (3
+### E (4
 
 #### Edify
 
@@ -348,6 +348,24 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 **At Higher Tiers**: For each tier beyond minimum, the total capacity for learning the creature gains is increased to the tier of the spell.
 
 **Critical Failure**: You cause the creature to become overwhlemed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
+
+#### Ertvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a sand tailed spirit of nature to strike a foe within range, treat as a biting attack. If the attack would qualify to damage the foe's armor, it instead constricts the foe. As a reaction, it can be directed against another foe, inflicting the biting attack. Each round, during the primary action phase, it will attack the creature it is constricting with a crushing attack.
+
+While constricting a foe, treat as a graplle with the following exception. Your value is equal to the spell check result + spell tier. The grappled target cannot use [Rflx]. A critical success breaks the grasp of the ertvalder, preventing it from constrictung the target for the remainder of the round.
+
+The spirit is capable of moving through sand, dirt, and stone unimpeded. The spirit ceases to be after a number of rounds equal to the spell's tier +1.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a ccrushing attack. You are prone during this time.
 
 #### Exploding Sphere
 
