@@ -2,7 +2,7 @@ For this update:
 
 * Finish Languages.
 * Create a serpentine ooze creature.
-
+* Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
