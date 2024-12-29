@@ -15,11 +15,11 @@ A much larger version of the blunderbuss, it uses a small paper and pine caniste
 * Area is increased to a 15 yard mikrofan.
 * The number of attacks are increased to 1d4+6.
 * It cannot fire an arquebus bullet.
-* THe cannister used for ammunition often includes an additional effect.
+* The cannister used for ammunition often includes an additional effect.
 * If an attack roll result is exactly a 9, the weapon becomes unuasable as the canister mucks up the barrel due to improper ignition.
 
 Blunderbuss Shot (per), $9.5, .25 lb.  
 Not too dissimilar from the same paper cartridge of most firearms, though it contains multiple smaller bullets within the shot.
 
-Standard Tromoor Cannister (per shot), $156, .6 lb.  
+Standard Trommor Cannister (per shot), $156, .6 lb.  
 A paper drum shaped cartidge with boning of pine. It is burnt almost completely in the process of firing. It contains various sized pieces of muniton inside. Anything successfully wounded by the trommor is also subject to a sling attack.
