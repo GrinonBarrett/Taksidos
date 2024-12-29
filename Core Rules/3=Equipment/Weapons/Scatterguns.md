@@ -1,5 +1,5 @@
 ## SCATTERGUNS
-Scatterguns function differently than most personal eapns and come in two flavors, at least for the handheld variety. These are the Blunderbuss, a weapon intended for self defense primarily, and the much larger Trommor.
+Scatterguns function differently than most personal weapns and come in two flavors, at least for the handheld variety. These are the Blunderbuss, a weapon intended for self defense primarily, and the much larger Trommor.
 
 ###### While these weapons are included in the basic rules, it is reasonable for a narrator to wish to ignore them as they can complicate combat to an extant.
 
@@ -21,5 +21,5 @@ A much larger version of the blunderbuss, it uses a small paper and pine caniste
 Blunderbuss Shot (per), $9.5, .25 lb.  
 Not too dissimilar from the same paper cartridge of most firearms, though it contains multiple smaller bullets within the shot.
 
-Standard Trommor Cannister (per shot), $156, .6 lb.  
+Standard Trommor Cannister (per shot), $16, .6 lb.  
 A paper drum shaped cartidge with boning of pine. It is burnt almost completely in the process of firing. It contains various sized pieces of muniton inside. Anything successfully wounded by the trommor is also subject to a sling attack.
