@@ -335,7 +335,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (4
+### E (5
 
 #### Edify
 
@@ -366,6 +366,20 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a ccrushing attack. You are prone during this time.
+
+#### Everwarmth
+
+**Minimum Tier**: 1
+
+**Casting Time**: 6 actions
+
+**Duration**: 4 hours
+
+**Effect**: Your touch bestows a creature the ability to maintain a body temperature which is most comfortable to them. This allows them to ignore any temperature change which is not so extreme as to inflict attacks. It also grants a +1 bonus to defense against fire and cold attacks so long as they creature wishes to have that bonus against such an attack.
+
+**At Higher Tiers**: For each tier beyond minimum, you may either affect an additional creature which is touching yourself or another affected by the spell or you may extend the duration by 2 hours.
+
+**Critical Failure**: You have failed to create the magical filed that properly balances thermal regulation. Roll an attack roll against yourself. If odd, it is a crushing attack. If even, it is a cold attack.
 
 #### Exploding Sphere
 
