@@ -1198,7 +1198,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
-### W (4
+### W (5
 
 #### Waterworking
 
@@ -1264,6 +1264,24 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 **At Higher Tiers**: Each tier beyond minimum sees the toxic attack gain a +1 bonus.
 
 **Critical Failure**: You appear to fire the ray as normal, but some unknown force repels it back- causing you to be subject to the attack instead.
+
+#### Wurmvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a serpentine spirit of nature to strike a foe within range, treat as a biting attack. You may treat a critical hit as though it were a toxic attack. If the attack would qualify to damage the foe's armor or be a critical hit, it explodes out 4 yards to inflict an acid attack against anything within the explosion.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+The caster may use their reaction to redirect the spirit to attack another, inflicting the biting attack as usual.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards or the explosion radius by 1 yard.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a acid attack. You are prone during this time.
 
 ### X
 
