@@ -72,6 +72,40 @@ Jolling (slows a creature's run speed by hindering limbs)
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
+
+Hydroform  
+Caster becomes a liquid.
+
+Soul Sear  
+Like the old highwall spell.
+
+Telekinesis  
+A means of moving objects like a sling, but more powerful depending on tier.
+
+Wall of Denial  
+A wall which can stop ranged missiles and attacks from spells if cast at half or lower tier. Can also potentially stop other magical effects from bypassing. If cast high enough, it can stop siege weapons.
+
+Deathly Foil  
+You create a zone where healing effects do not function properly. Instead, of hitpoints being restored, there is an entire round which passes only for an incapacitation save to be made. If a wound was to be restored, it appears to be restored, but is returned to its former state after one round.
+Anytime a creature performs an incapacitation save and the die roll result is odd, they lose 1 hitpoint.
+Restoration to points of undeath is halved in this zone.
+
+Curation  
+A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
+
+Wyrmvalder  
+You summon a spirit of the earth which attacks foes. Upon damaging a foe's armor or a critical hit, it explodes dealing acid and force damage to everything within a radius.
+
+Aldervalder  
+You summon a spirit capable of attacking foes with a biting attack that can help recover a hitpoint from a creature if need be.
+
+Faux Fos  
+Creates a colored flame that emits light like a torch, deals cold damage if it attacks a creature.
+
+Temporalysis  
+Makes time pass by 1d6+spell tier time units (minutes, hours, or days as caster desires) for the caster. Can potentially include extra members. Time passes around them but not for them. Additional tiers can modify the die level.
+
+
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
 Expand the magical services. Expand services in general to include messengers, assassins, and scouts.
