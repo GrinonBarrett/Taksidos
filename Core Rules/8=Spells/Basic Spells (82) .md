@@ -423,7 +423,25 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (8
+### F (9
+
+#### Faux Fos
+
+**Minimum Tier**: 1
+
+**Casting Time**: 6 actions
+
+**Range**: 5 yards
+
+**Effect**: You produce a a floating amorphous blue-violet flame within range that exists by feeding on the ambient thermal energy. It provides fair light for a number of yards up to the spell's tier, and fair light for an equal number of yards beyond that. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you or cease to exist.
+
+The flame is not automatically snuffed out by water or other liquids so long as it does not spend two consecutive rounds engulfed by it. It will flicker (causing it to only produce dim light for the entirety of its range). It cannot move while engulfed by the liquid.
+
+If the flame is directed into an object or creature, it inflicts a cold attack which treats a critical hit like a fire attack, and is snuffed out.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: You fail to ignite the flame properly, inflicting an attack roll against yourself. If the attack roll is odd, its a fire attack. If even, cold.
 
 #### Fetch
 
