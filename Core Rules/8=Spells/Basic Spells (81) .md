@@ -335,7 +335,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (5
+### E (6
 
 #### Edify
 
@@ -348,6 +348,20 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 **At Higher Tiers**: For each tier beyond minimum, the total capacity for learning the creature gains is increased to the tier of the spell.
 
 **Critical Failure**: You cause the creature to become overwhlemed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
+
+#### Empathic Ward
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 actions
+
+**Duration**: 30 Minutes
+
+**Effect**: You touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
+
+**Critical Failure**: You havefailed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
 
 #### Ertvalder
 
