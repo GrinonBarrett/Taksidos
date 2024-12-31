@@ -63,12 +63,10 @@ Jander (makes sick and visibly unappealing)
 Jolling (slows a creature's run speed by hindering limbs)
 * Add a thought capture spell?
 * Add a spell that summons a shadowy minion. The minion is like a mindless ephemeral bear which inflicts necrotic attacks, resists certain attacks (bare, necrotic, toxic, acid, and cold), is weak against certain damage types (ki, radiant, and psychic), and can receive telpathic commands from the summoner.
-* Create Everwarmth spell.
 * Create a spell that allows warding of a specified creature type from an area.
 * A spell that sends a telpathic message to  a recipient, but can allow a conversation at higher levels.
 * A spell that sends a telpathic message to any number of knkon creatures within range.
 * Create Flameward Spell. Protects from non-magical fire, imposes disadvantage on fire attacks against target, and make target immune to the effects of a fiery critical hit.
-* Create Empathic Ward spell. Touched creature adds its [Empy] its defense, but loses this the moment it is harmed or itself attempts to inflict an attack including an attack from a spell other than a Non-Damaging attack.
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
@@ -98,9 +96,6 @@ You summon a spirit of the earth which attacks foes. Upon damaging a foe's armor
 
 Aldervalder  
 You summon a spirit capable of attacking foes with a biting attack that can help recover a hitpoint from a creature if need be.
-
-Faux Fos  
-Creates a colored flame that emits light like a torch, deals cold damage if it attacks a creature.
 
 Temporalysis  
 Makes time pass by 1d6+spell tier time units (minutes, hours, or days as caster desires) for the caster. Can potentially include extra members. Time passes around them but not for them. Additional tiers can modify the die level.
