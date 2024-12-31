@@ -91,12 +91,6 @@ Restoration to points of undeath is halved in this zone.
 Curation  
 A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
 
-Wyrmvalder  
-You summon a spirit of the earth which attacks foes. Upon damaging a foe's armor or a critical hit, it explodes dealing acid and force damage to everything within a radius.
-
-Aldervalder  
-You summon a spirit capable of attacking foes with a biting attack that can help recover a hitpoint from a creature if need be.
-
 Temporalysis  
 Makes time pass by 1d6+spell tier time units (minutes, hours, or days as caster desires) for the caster. Can potentially include extra members. Time passes around them but not for them. Additional tiers can modify the die level.
 
