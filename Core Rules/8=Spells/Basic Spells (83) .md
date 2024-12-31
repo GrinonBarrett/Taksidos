@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (8
+### A (9
 
 #### Abatis
 
@@ -99,6 +99,22 @@ Once the alarum has been triggered, you may return it to its passive state as an
 **At Higher Tiers**: If cast as second tier or beyond, may produce stimuli of mulitple basic senses up to the tier of the spell, but the range is divided by the total number of senses for which stimuli is produced. Each tier beyond 1st also increases the range of the spell by 10 yards.
 
 **Critical Failure**: You seem to have set the alarum just fine. The alarum is just as likely to randomly trigger as it is not to trigger when disturbed at all.
+
+#### Aldervalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as areaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
+
+As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirt ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. You are prone during this time.
 
 #### Animation
 
