@@ -1246,7 +1246,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
-### W (5
+### W (6
 
 #### Waterworking
 
@@ -1284,6 +1284,22 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 **At Higher Tiers**: Each tier beyond the minimum allows you pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
 **Critical Failure**: You lose hitpoints equal to the tier of this spell. If you do not have enough hitpoints, you must succeed a number of incapacitation saves equal to the difference. Then you and any non-undead creature within 3 yards suffer a necrotic attack.
+
+#### Wengevalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase. If it inflicts a critical hit, that foe receives 1d4 points of spell sickness.
+
+As a reaction, if the spirit attacks a foe casting a spell, you may attempt to counterspell as though you knew that spell. Perform the check as normal. THe spirit's energy is lost once the attempt is made, causing it to cease existing.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary phase, you incur 1d2-1 points of spell sickness. You are prone during this time.
 
 #### Wisp Away
 
