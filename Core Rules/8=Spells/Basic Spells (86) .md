@@ -665,7 +665,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (3
+### H (4
 
 #### Habroism
 
@@ -682,6 +682,20 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
 
 **Critical Failure**: You seem to have succeeded, however the spell only lasts for a number of rounds equal to the spell's tier. Additionally, you feel a strange ache in your body which causes you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
+#### Havery
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Range**: 10 yards
+
+**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is, speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy.
+
+**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
+
+**Critical Failure**: The spell instead afflicts you with the inability to silence your noise hole(s). You are dazed for a number of minutes equal to the spell's tier as you partake in such a fit. If you are incapable of speech, you seem instead to have been afflicted by tremors but suffer the same dazed condition for the same time regardless.
 
 #### Hydravidity
 
@@ -776,7 +790,7 @@ Any item touched by this is considered magical for all intents and purposes. It 
 
 **Effect**: You touch a creature (which could be yourself), transmuting its skin (or surface material) to be a thick metal coating. This confers a few changes to the creature  
 
- • Do not need to breathe, but will be dazed if they would normally need to do so and can't.  
+ • Do not need to breathe, but will be dazed if they would normally need to do so and can't. This is due to the unusual sensation that occurs from their muscle memory when the body is denied the opportunity.  
  • Are immune to diseases, poisons and venom from external sources.  
  • Are not affected by spells which would affect flesh.   
  • Do not benefit from armor. They are treated as wearing plate.  
