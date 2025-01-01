@@ -252,7 +252,27 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (6
+### D (7
+
+#### Deathly Foil
+
+**Minimum Tier**: 4
+
+**Casting Time**: 10 rounds or more
+
+**Range**: 20 yards
+
+**Effect**: You create a field where healing magics cannot function properly extending out from yourself or a point in space you touch. This field exists as long as you concentrate on it and a number of rounds afterwards equal to the spell's tier. Any magical effect which would restore a hitpoint appears not to have an effect. During the same phase of the following round, if a creature had their hitpoint recovery prevented this way, it must make an incapacitation save.
+
+A magical effect which would heal a wound appears to heal the wound, until the same phase of the following round.
+
+If a creature performs an incapacitation save and the die result is odd, it loses 1 hitpoint if it has any.
+
+Effects that restore points of undeath from within the field or affecting a target within the field have the total points recovered halved (round down).
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the field by up to 2 yards or increase the duration of it by 1 round.
+
+**Critical Failure**: You have attempted to interfere with the cycle of life and death, disturbing something incomprehensible. Every minute, for a number of hours equal to the spell's tier, perform an incapacitation save- even if you would normally ignore such saves. You cannot have hitpoints, wounds, or points of undeath restored so long as you still have spell sickness.
 
 #### Decombustion
 
