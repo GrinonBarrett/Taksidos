@@ -57,8 +57,7 @@ Flesh out bestiary.
 
 * Create Zersus, the figure garbed in a bold duster jacket with a large eyeball for a head and a mane of feathers. We have plans for this fella.
 
-MORE SPELLS!  
-Havery? (makes one talk nonsensically)   
+MORE SPELLS!   
 Jander (makes sick and visibly unappealing)  
 Jolling (slows a creature's run speed by hindering limbs)
 * Add a thought capture spell?
@@ -82,11 +81,6 @@ A means of moving objects like a sling, but more powerful depending on tier.
 
 Wall of Denial  
 A wall which can stop ranged missiles and attacks from spells if cast at half or lower tier. Can also potentially stop other magical effects from bypassing. If cast high enough, it can stop siege weapons.
-
-Deathly Foil  
-You create a zone where healing effects do not function properly. Instead, of hitpoints being restored, there is an entire round which passes only for an incapacitation save to be made. If a wound was to be restored, it appears to be restored, but is returned to its former state after one round.
-Anytime a creature performs an incapacitation save and the die roll result is odd, they lose 1 hitpoint.
-Restoration to points of undeath is halved in this zone.
 
 Curation  
 A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
