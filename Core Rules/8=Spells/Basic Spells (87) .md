@@ -1009,7 +1009,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (10
+### S (11
 
 #### Seclusion Circle
 
@@ -1089,6 +1089,20 @@ This spell last a day.
 **At Higher Tiers**: If cast as second tier or beyond, the alarm can last a number of days equal to the points of success. Each tier beyond 1st also increases the area you may have alarmed. The total area is a number of square feet equal to the spell's tier squared.
 
 **Critical Failure**: You seem to have set the alarm just fine. The alarm does nothing when disturbed though.
+
+#### Soul Sear
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 Actions
+
+**Effect**: You project a wave of phantasmal energy 10 yards in a line. It is up to .5 foot wide and 1 yard tall. Everything in the line is subject to a necrotic attack, which is resolved in the order of nearest (to point of origin) to farthest. For each creature other than one of an exlcuded type mentioned below which has been successfully wounded by this spell, the attack gains a +1 bonus. A creature killed as a result of this spell (including a failed incapacitation save caused by the spell) provides a further +1 to further attacks in the same instance of this spell. A creature of undeath successfully struck by this spell loses additional points of undeath equal to the spell's tier.
+
+Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead. These creatures still suffer an attack (with any accrued bonuses) but do not contribute any additional bonus to further attacks from the spell, even if destroyed this way.
+
+**At Higher Tiers**: Each tier beyond the minimum allows you to send the wave 1 yard further.
+
+**Critical Failure**: You have tapped into something you shouldn't. Inflict a number of necrotic attacks against yourself equal to half of this spell's tier and a nectrotic attack against every creature (including yourself) within 3 yards of a non-excluded type. The attacks against you gain a bonus for the purpose of determining a critical hit equal to the spell's tier.
 
 #### Spectral Burst
 
