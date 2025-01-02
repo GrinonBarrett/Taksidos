@@ -393,7 +393,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Duration**: 30 Minutes
 
-**Effect**: You touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
+**Effect**: Your touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
@@ -459,7 +459,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (9
+### F (10
 
 #### Faux Fos
 
@@ -509,6 +509,20 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives to be equal to the spell's tier.
 
 **Critical Failure**: You find your senses distort for just a moment as your headspace changes. You gain points of inebriation equal to the tier of the spell and are dazed for a number of rounds equal to the points of failure.
+
+#### Flameward
+
+**Minimum Tier**: 1
+
+**Casting Time**: 7 actions
+
+**Duration**: 15 Minutes
+
+**Effect**: You touch a creature or object to grant it protection against fire. Fire attacks against the warded creature have disadvantage. Additionally, it cannot be set ablaze- even by the effects of a fire attack's critical hit. This does not prevent molten material from melting a warded creature.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 15 minutes.
+
+**Critical Failure**: You touch the creature and a flash of flame jets from them, inflicting a fire attack against you.
 
 #### Flash Cannon
 
