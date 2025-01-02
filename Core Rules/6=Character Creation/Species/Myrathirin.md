@@ -1,5 +1,5 @@
 ## MYRATHIRIN
-Sentient arachnids which have played a prominent role in the Lazine Empire, the myrathirin have a few advantages. They are known for their speed and climbing ability. They lack manipulators on their hands, thus are known for being less capable with certain tasks. They do have fairly powerful innate psychic abilities compared to other creatures. Their telepathy typically leads them to xenophobia as they find themselves more easily capable of utilizing it with others of their kind, though it does not completely replace speech in their communities. Myrathirin characters get the following features;
+Sentient arachnids which have played a prominent role in the Meolasine Empire, the myrathirin have a few advantages. They are known for their speed and climbing ability. They lack manipulators on their hands, thus are known for being less capable with certain tasks. They do have fairly powerful innate psychic abilities compared to other creatures. Their telepathy typically leads them to xenophobia as they find themselves more easily capable of utilizing it with others of their kind, though it does not completely replace speech in their communities. Myrathirin characters get the following features;
 
 **Creature Type**: Myrathirin are insects.
 
@@ -9,7 +9,7 @@ Sentient arachnids which have played a prominent role in the Lazine Empire, the 
 -1 [Empy]  
 Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not already chosen. They are increased by 1 each.
 
-**Languages**: You gain competency in the Common Tongue, Fithirin, and Lazine languages.
+**Languages**: You gain competency in the Common Tongue, Fithirin, and Meolas languages.
 
 **Run Speed**: You may run up to 4 yards per move.
 

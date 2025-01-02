@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (8
+### A (9
 
 #### Abatis
 
@@ -99,6 +99,22 @@ Once the alarum has been triggered, you may return it to its passive state as an
 **At Higher Tiers**: If cast as second tier or beyond, may produce stimuli of mulitple basic senses up to the tier of the spell, but the range is divided by the total number of senses for which stimuli is produced. Each tier beyond 1st also increases the range of the spell by 10 yards.
 
 **Critical Failure**: You seem to have set the alarum just fine. The alarum is just as likely to randomly trigger as it is not to trigger when disturbed at all.
+
+#### Aldervalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as areaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
+
+As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirt ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. You are prone during this time.
 
 #### Animation
 
@@ -236,7 +252,27 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (6
+### D (7
+
+#### Deathly Foil
+
+**Minimum Tier**: 4
+
+**Casting Time**: 10 rounds or more
+
+**Range**: 20 yards
+
+**Effect**: You create a field where healing magics cannot function properly extending out from yourself or a point in space you touch. This field exists as long as you concentrate on it and a number of rounds afterwards equal to the spell's tier. Any magical effect which would restore a hitpoint appears not to have an effect. During the same phase of the following round, if a creature had their hitpoint recovery prevented this way, it must make an incapacitation save.
+
+A magical effect which would heal a wound appears to heal the wound, until the same phase of the following round.
+
+If a creature performs an incapacitation save and the die result is odd, it loses 1 hitpoint if it has any.
+
+Effects that restore points of undeath from within the field or affecting a target within the field have the total points recovered halved (round down).
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the field by up to 2 yards or increase the duration of it by 1 round.
+
+**Critical Failure**: You have attempted to interfere with the cycle of life and death, disturbing something incomprehensible. Every minute, for a number of hours equal to the spell's tier, perform an incapacitation save- even if you would normally ignore such saves. You cannot have hitpoints, wounds, or points of undeath restored so long as you still have spell sickness.
 
 #### Decombustion
 
@@ -335,7 +371,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (3
+### E (6
 
 #### Edify
 
@@ -348,6 +384,52 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 **At Higher Tiers**: For each tier beyond minimum, the total capacity for learning the creature gains is increased to the tier of the spell.
 
 **Critical Failure**: You cause the creature to become overwhlemed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
+
+#### Empathic Ward
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 actions
+
+**Duration**: 30 Minutes
+
+**Effect**: Your touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
+
+**Critical Failure**: You havefailed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
+
+#### Ertvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a sand tailed spirit of nature to strike a foe within range, treat as a biting attack. If the attack would qualify to damage the foe's armor, it instead constricts the foe. As a reaction, it can be directed against another foe, inflicting the biting attack. Each round, during the primary action phase, it will attack the creature it is constricting with a crushing attack.
+
+While constricting a foe, treat as a graplle with the following exception. Your value is equal to the spell check result + spell tier. The grappled target cannot use [Rflx]. A critical success breaks the grasp of the ertvalder, preventing it from constrictung the target for the remainder of the round.
+
+The spirit is capable of moving through sand, dirt, and stone unimpeded. The spirit ceases to be after a number of rounds equal to the spell's tier +1.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a ccrushing attack. You are prone during this time.
+
+#### Everwarmth
+
+**Minimum Tier**: 1
+
+**Casting Time**: 6 actions
+
+**Duration**: 4 hours
+
+**Effect**: Your touch bestows a creature the ability to maintain a body temperature which is most comfortable to them. This allows them to ignore any temperature change which is not so extreme as to inflict attacks. It also grants a +1 bonus to defense against fire and cold attacks so long as they creature wishes to have that bonus against such an attack.
+
+**At Higher Tiers**: For each tier beyond minimum, you may either affect an additional creature which is touching yourself or another affected by the spell or you may extend the duration by 2 hours.
+
+**Critical Failure**: You have failed to create the magical filed that properly balances thermal regulation. Roll an attack roll against yourself. If odd, it is a crushing attack. If even, it is a cold attack.
 
 #### Exploding Sphere
 
@@ -377,7 +459,25 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (7
+### F (11
+
+#### Faux Fos
+
+**Minimum Tier**: 1
+
+**Casting Time**: 6 actions
+
+**Range**: 5 yards
+
+**Effect**: You produce a floating amorphous blue-violet flame within range that exists by feeding on the ambient thermal energy. It provides fair light for a number of yards up to the spell's tier, and dim light for an equal number of yards beyond that. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you or cease to exist.
+
+The flame is not automatically snuffed out by water or other liquids so long as it does not spend two consecutive rounds engulfed by it. It will flicker (causing it to only produce dim light for the entirety of its range). It cannot move while engulfed by the liquid.
+
+If the flame is directed into an object or creature, it inflicts a cold attack which treats a critical hit like a fire attack, and is snuffed out.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: You fail to ignite the flame properly, inflicting an attack roll against yourself. If the attack roll is odd, its a fire attack. If even, cold.
 
 #### Fetch
 
@@ -410,6 +510,20 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **Critical Failure**: You find your senses distort for just a moment as your headspace changes. You gain points of inebriation equal to the tier of the spell and are dazed for a number of rounds equal to the points of failure.
 
+#### Flameward
+
+**Minimum Tier**: 1
+
+**Casting Time**: 7 actions
+
+**Duration**: 15 Minutes
+
+**Effect**: You touch a creature or object to grant it protection against fire. Fire attacks against the warded creature have disadvantage. Additionally, it cannot be set ablaze- even by the effects of a fire attack's critical hit. This does not prevent molten material from melting a warded creature.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 15 minutes.
+
+**Critical Failure**: You touch the creature and a flash of flame jets from them, inflicting a fire attack against you.
+
 #### Flash Cannon
 
 **Minimum Tier**: 2
@@ -437,6 +551,20 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
 
 **Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
+
+#### Fortify
+
+**Minimum Tier**: 1
+
+**Casting Time**: 20 minutes
+
+**Duration**: 1 day
+
+**Effect**: You touch a creature or object to bolster its recovery against foreign agents. It gains advantage on saves against diseases.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 1 day and the casting time by 10 minutes.
+
+**Critical Failure**: You have managed to compromise your own health in the process. The spell is completed as normal, but you have disadvantage on saves against diseases and poisons and the attacks of such things gain advantage against you for the duration of the spell.
 
 #### Frost Lance
 
@@ -486,6 +614,24 @@ A spell duplicated this way cannot be duplicated again by a spell of equal or lo
 **At Higher Tiers**: The benefits of higher tiers are presented above.
 
 **Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
+
+#### Fyrvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a flaming serpentine spirit of nature to strike a foe within range, treat as a biting attack. You may treat a critical hit as though it were a fire attack. If the attack would qualify to damage the foe's armor or be a critical hit, it wraps around the foe causing them to be prone. The creature may attempt a save as an action to remove it (exact nature is at Narrator's discretion) with a DV equal to double the spell's tier + caster's [Magic] bonus. At the end of each round, if it is wrapped around a foe or object, it inflicts a fire attack against it.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+The caster may use their reaction to redirect the spirit to attack another, inflicting the biting attack as usual.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
 ### G (3
 
@@ -547,7 +693,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (2
+### H (4
 
 #### Habroism
 
@@ -564,6 +710,34 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
 
 **Critical Failure**: You seem to have succeeded, however the spell only lasts for a number of rounds equal to the spell's tier. Additionally, you feel a strange ache in your body which causes you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
+#### Havery
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Range**: 10 yards
+
+**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is, speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy.
+
+**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
+
+**Critical Failure**: The spell instead afflicts you with the inability to silence your noise hole(s). You are dazed for a number of minutes equal to the spell's tier as you partake in such a fit. If you are incapable of speech, you seem instead to have been afflicted by tremors but suffer the same dazed condition for the same time regardless.
+
+#### Hydravidity
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 actions
+
+**Range**: 7 yards
+
+**Effect**: A creature you target within range gains an unquenchable thirst. It is considered to have lost hydration equal to the spell's tier. For a number of hours equal to the spell's tier, there is a 1 in 4 chance that a serving of liquids consumed will not hydrate as it would normally. A creature which does not suffer from thirst will instead be dazed for a number rounds equal to the spell's tier as it contends with a new sensation.
+
+**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier.
+
+**Critical Failure**: You feel an immediate need. Your whole body aches for refreshment. You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you still have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
 
 #### Hypoaftepathy
 
@@ -586,7 +760,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (4
+### I (5
 
 #### Icebreaker
 
@@ -601,6 +775,20 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
 **Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it with a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
+
+#### Illproofing
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 minutes
+
+**Duration**: 1 hour
+
+**Effect**: You touch a creature or object to grant it protection against sickness and disease. The warded creature is immune to the effects of a toxic attack's critical hit and there is a percentage chance that any point of contact, for the purpose of contracting a disease or other illness, will be ignored equal to the spell's tier squard. The entire duration of such a contact must be during the spell's duration to provide protection this way. Additionally, non-magical toxic attacks against the warded creature have disadvantage, as do any toxic attacks as a result of a poison or disease.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
+
+**Critical Failure**: You gain 1d4-1 points of spell sickness and appear ill so long as you have spell sickness.
 
 #### Imbue
 
@@ -644,7 +832,7 @@ Any item touched by this is considered magical for all intents and purposes. It 
 
 **Effect**: You touch a creature (which could be yourself), transmuting its skin (or surface material) to be a thick metal coating. This confers a few changes to the creature  
 
- • Do not need to breathe, but will be dazed if they would normally need to do so and can't.  
+ • Do not need to breathe, but will be dazed if they would normally need to do so and can't. This is due to the unusual sensation that occurs from their muscle memory when the body is denied the opportunity.  
  • Are immune to diseases, poisons and venom from external sources.  
  • Are not affected by spells which would affect flesh.   
  • Do not benefit from armor. They are treated as wearing plate.  
@@ -671,6 +859,22 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You fail to transfer the transmutation properly. You gain the benefits of the spell normally until the end of the next round, at which point the metal skin then begins to corrode. At the start of each round, for the remainder of the duration, you must succeed a [Fort] save or become prone for the rest of the spell's duration. Once rusted, it provides protection only like maile.
 
+#### Isevalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 6 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a mist tailed spirit of nature to strike a foe within range, treat as a biting attack. If the attack would qualify to damage the foe's armor, it instead freezes the foe for half as many rounds as the spell's tier. As a reaction, it can be directed against another foe, inflicting the biting attack. Each round, during the primary action phase, it will attack the creature it was last designated to target with a cold attack.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
+
 ### J
 
 ### K
@@ -691,7 +895,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: The axe explodes infront of you, inflicting the effect against you instead.
 
-### M (1
+### M (2
 
 #### Molten Form
 
@@ -720,6 +924,22 @@ A creature may make a [Fort] save to avoid this if they wish.
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature and the range is increased to a number of yards equal to the spell's tier.
 
 **Critical Failure**: You fail to transfer the transmutation properly. Yourself and any affected creature is set ablaze, as though a fire attack inflicted a critical hit. The save DV will be equal to the DV of the spell check.
+
+#### Mortal Masque
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 minute
+
+**Range**: 1 yard
+
+**Duration**: 1 hour
+
+**Effect**: You magically reform the flesh of a corpse to appear as though it did in life. This can be applied to a reanimated corpse of some nature, but it must be able to cooperate for this.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by an hour. Alternatively, if cast as a 3rd tier or higher spell, you may halve the total duration to have the corpse formed to appear as any member of the same species so long as your are familiar with that subject or have a detailed reference.
+
+**Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
 
 ### N
 
@@ -772,7 +992,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 ### Q
 
-### R (3
+### R (4
 
 #### Regeneration
 
@@ -786,6 +1006,22 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 **At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus and increases the casting time by 1 minute.
 
 **Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will receive a wound.
+
+#### Remit
+
+**Minimum Tier**: 2
+
+**Casting Time**: 7 actions
+
+**Range**: 10 yards
+
+**Duration**: 2 hours divided by the spell's tier.
+
+**Effect**: You cause the effect of gravity on the mass of a creature/object you target within range, cause ings effective weight to be divided by up to half of the spell's tier. It functions in all other respects that same. A critical success from the spellcheck can grant the benefits of an additional spell tier.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by half an hour (before dividing per the spell tier) or have the range is increased by 5 yards.
+
+**Critical Failure**: You accidentally effect yourself, but suffer a level of fatigue in the process.
 
 #### Resend
 
@@ -815,7 +1051,25 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (8
+### S (11
+
+#### Seclusion Circle
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 minutes
+
+**Effect**: You produce a magical circle, filled with some incomprehensible fomrulae, which stretches out between 1 and 5 yards- either on the ground or the ceiling. The circle lasts for a number of days equal to the spell's tier.
+
+Anything inside of the circle is incapable of influencing anything outside of the circle. This includes cast spells, using wands or other magic items, or the magical aspects of some feature. This circle can affect something regardless of how high or low from the circle it is, so long as no structure exists between them.
+
+You may use your reaction to knockback a creature in the circle by 1d6 + spell tier feet. If it was trying to leave, you may choose to prevent the knockback from causing it to leave the circle. 
+
+You may designate a material. A creature may use this material to dispel the circle by entering with it.
+
+**At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, allows you to increase the circle by up to 2 yards.
+
+**Critical Failure**: You find yourself trapped in the circle, unable to leave it.
 
 #### Sentinel
 
@@ -846,6 +1100,20 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 
 **Critical Failure**: The create the sentinel, but it seems to have a mind of its own. It will attempt to attack you during each action phase. In addition, it can attempt to attack the nearest creature to it at the end of each movement phase. A creature must be illuminated in at least dim light for the sphere to see it, but does not require that light to attack you. The sentinel always lasts for a minute this way.
 
+#### Set Breath
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 actions
+
+**Range**: 5 yards
+
+**Effect**: You manage to bestow up to two creatures in range an extended reserve of air. For a number of rounds equal to 2d8 plus double the Spell Tier, the creature need not breathe normally. This is rolled for each creature individually. A creature will know this effect is to expire at the start of the final round.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the time for each creature by 1d12 + spell tier or affect an additional creature.
+
+**Critical Failure**: You struggle to breathe properly for a number of rounds equal to double the spell's tier- making you vulnerable during that time. If you do not breathe normally, you instead gain 1d4 points of spell sickness.
+
 #### Silent Alarm
 
 **Minimum Tier**: 1
@@ -863,6 +1131,20 @@ This spell last a day.
 **At Higher Tiers**: If cast as second tier or beyond, the alarm can last a number of days equal to the points of success. Each tier beyond 1st also increases the area you may have alarmed. The total area is a number of square feet equal to the spell's tier squared.
 
 **Critical Failure**: You seem to have set the alarm just fine. The alarm does nothing when disturbed though.
+
+#### Soul Sear
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 Actions
+
+**Effect**: You project a wave of phantasmal energy 10 yards in a line. It is up to .5 foot wide and 1 yard tall. Everything in the line is subject to a necrotic attack, which is resolved in the order of nearest (to point of origin) to farthest. For each creature other than one of an exlcuded type mentioned below which has been successfully wounded by this spell, the attack gains a +1 bonus. A creature killed as a result of this spell (including a failed incapacitation save caused by the spell) provides a further +1 to further attacks in the same instance of this spell. A creature of undeath successfully struck by this spell loses additional points of undeath equal to the spell's tier.
+
+Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead. These creatures still suffer an attack (with any accrued bonuses) but do not contribute any additional bonus to further attacks from the spell, even if destroyed this way.
+
+**At Higher Tiers**: Each tier beyond the minimum allows you to send the wave 1 yard further.
+
+**Critical Failure**: You have tapped into something you shouldn't. Inflict a number of necrotic attacks against yourself equal to half of this spell's tier and a nectrotic attack against every creature (including yourself) within 3 yards of a non-excluded type. The attacks against you gain a bonus for the purpose of determining a critical hit equal to the spell's tier.
 
 #### Spectral Burst
 
@@ -1054,7 +1336,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
-### W (4
+### W (6
 
 #### Waterworking
 
@@ -1093,6 +1375,22 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 
 **Critical Failure**: You lose hitpoints equal to the tier of this spell. If you do not have enough hitpoints, you must succeed a number of incapacitation saves equal to the difference. Then you and any non-undead creature within 3 yards suffer a necrotic attack.
 
+#### Wengevalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase. If it inflicts a critical hit, that foe receives 1d4 points of spell sickness.
+
+As a reaction, if the spirit attacks a foe casting a spell, you may attempt to counterspell as though you knew that spell. Perform the check as normal. THe spirit's energy is lost once the attempt is made, causing it to cease existing.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary phase, you incur 1d2-1 points of spell sickness. You are prone during this time.
+
 #### Wisp Away
 
 **Minimum Tier**: 1
@@ -1120,6 +1418,24 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 **At Higher Tiers**: Each tier beyond minimum sees the toxic attack gain a +1 bonus.
 
 **Critical Failure**: You appear to fire the ray as normal, but some unknown force repels it back- causing you to be subject to the attack instead.
+
+#### Wurmvalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a serpentine spirit of nature to strike a foe within range, treat as a biting attack. You may treat a critical hit as though it were a toxic attack. If the attack would qualify to damage the foe's armor or be a critical hit, it explodes out 4 yards to inflict an acid attack against anything within the explosion.
+
+The spirit ceases to be after a number of rounds equal to the spell's tier.
+
+The caster may use their reaction to redirect the spirit to attack another, inflicting the biting attack as usual.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards or the explosion radius by 1 yard.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a acid attack. You are prone during this time.
 
 ### X
 

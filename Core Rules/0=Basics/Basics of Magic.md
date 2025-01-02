@@ -25,7 +25,7 @@ A character that is familiar with a spell gets a +1 bonus to their defense again
 Each character is capable of casting a spell through a technique called "wyrding" without the use of an item or class feature. All characters operated by players are capable of doing this regardless of class. This uses all the standard rules as listed here.
 
 #### Alternative Spellcasting Methods
-Some classess are capable of casting spells using alternative methods. Those methods follow the same rules here except where noted by that method's rules text.
+Some classes are capable of casting spells using alternative methods. Those methods follow the same rules here except where noted by that method's rules text.
 
 ### Counterspell
 A character may use their reaction to begin the counter spell process. If they do, the casting time of the spell is immediately increased by 1 action† and the two will be locked in a battle of magical proficiency. Each side attempts an opposed counter-spell check. This check does not benefit from any specific attribute unless a feature dictates otherwise. If the caster has a success, they are not further affected by the counterspell. If the caster has a failure, their remaining casting time is increased by half (minimum of 1 action) and they endure a point of Spell-Sickness. If the caster has a critical success, they completely ignore any further effects of the counterspell attempt and imposes Spell-Sickness against the one attempting to counterspell equal to the spell's tier. If the caster has a critical failure, their spell is completely lost and they receive a point of Spell-Sickness.  

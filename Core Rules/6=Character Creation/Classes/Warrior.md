@@ -112,5 +112,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Musket           | You gain a 1d8 bonus to the attack for the purpose of determining if the successful attack is a critical hit. If the attack was aimed, 1d12 bonus instead. |
 | Tronutonante           | If the foe is not brawling and is within 2 yards, you gain a 1d4-1 bonus to your attack roll. Your penalty for firing multiple tronutonante simultaneously is reduced by 1. |
 |                        |           |
+| Scattergun             | The first attack your scattergun inflicts against each target gets a +1 bonus for the purpose of determining a critical hit if within half of the weapon's maximum range.          |
+|                        |           |
 | Wand                   | You may treat a wand as a melee weapon with a range of 2 yards for all purposes. In place of comparing your [Body] to the foe's [Body] for the +1 bonus, you may compare the wand's attribute to their [Body]. |
 | Staves                   | For the purpose of inflicting a critical hit with this weapon, regardless of how it is used, you may apply your bonus of the required attribute to your result. When performing a ranged attack with this weapon, if your required attribute is greater then the foe's, you gain a +1 bonus to the attack. |

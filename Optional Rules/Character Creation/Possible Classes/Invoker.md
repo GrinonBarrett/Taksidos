@@ -131,5 +131,3 @@ You have been chosen by nature to defend its peace. You gain the following:
 • Your maximum hitpoints are increased by 1.
 • You may take on 10 points of spell-sickness as an action to call forth a flurry of whipping vines and thorny missiles. This inflicts a piercing attack and either a cutting attack or another piercing attack (your choice) against each creature in a 7 yard cone extending out from your hand. You must comple a long or full rest before doing so again.
 • Choose an exotic damage type, all attacks of that manner have disadvantage against you. Once this decision is made, you must complete 7 full rests to change it.
-
-###### Will also have an invoker for each of the four classical elements and a warlord.

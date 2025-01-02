@@ -1,5 +1,5 @@
 ## NAGHAI
-A serpentine creature with use of a pair of forelimbs. They have been a minority in the Lazine Empire, but have founded small states of their own in the surrounding regions. Naghai characters get the following features;
+A serpentine creature with use of a pair of forelimbs. They have been a minority in the Meolasine Empire, but have founded small states of their own in the surrounding regions. Naghai characters get the following features;
 
 **Creature Type**: Naghai are humanoids.
 
@@ -13,7 +13,7 @@ A serpentine creature with use of a pair of forelimbs. They have been a minority
 +1 [Prcp]  
 Choose an attribute. It is increased by a single level.
 
-**Languages**: You gain competency in the Common Tongue and Lazine.
+**Languages**: You gain competency in the Common Tongue and Meolas.
 
 **Run Speed**: You may run up to 5 yards per move.
 
