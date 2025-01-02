@@ -73,9 +73,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 Hydroform  
 Caster becomes a liquid.
 
-Soul Sear  
-Like the old highwall spell.
-
 Telekinesis  
 A means of moving objects like a sling, but more powerful depending on tier.
 
