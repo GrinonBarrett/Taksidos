@@ -459,7 +459,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (10
+### F (11
 
 #### Faux Fos
 
@@ -469,7 +469,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Range**: 5 yards
 
-**Effect**: You produce a a floating amorphous blue-violet flame within range that exists by feeding on the ambient thermal energy. It provides fair light for a number of yards up to the spell's tier, and fair light for an equal number of yards beyond that. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you or cease to exist.
+**Effect**: You produce a floating amorphous blue-violet flame within range that exists by feeding on the ambient thermal energy. It provides fair light for a number of yards up to the spell's tier, and dim light for an equal number of yards beyond that. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you or cease to exist.
 
 The flame is not automatically snuffed out by water or other liquids so long as it does not spend two consecutive rounds engulfed by it. It will flicker (causing it to only produce dim light for the entirety of its range). It cannot move while engulfed by the liquid.
 
@@ -551,6 +551,20 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
 
 **Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
+
+#### Fortify
+
+**Minimum Tier**: 1
+
+**Casting Time**: 20 minutes
+
+**Duration**: 1 day
+
+**Effect**: You touch a creature or object to bolster its recovery against foreign agents. It gains advantage on saves against diseases.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 1 day and the casting time by 10 minutes.
+
+**Critical Failure**: You have managed to compromise your own health in the process. The spell is completed as normal, but you have disadvantage on saves against diseases and poisons and the attacks of such things gain advantage against you for the duration of the spell.
 
 #### Frost Lance
 
