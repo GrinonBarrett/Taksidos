@@ -746,7 +746,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (4
+### I (5
 
 #### Icebreaker
 
@@ -761,6 +761,20 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
 **Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it with a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
+
+#### Illproofing
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 minutes
+
+**Duration**: 1 hour
+
+**Effect**: You touch a creature or object to grant it protection against sickness and disease. The warded creature is immune to the effects of a toxic attack's critical hit and there is a percentage chance that any point of contact, for the purpose of contracting a disease or other illness, will be ignored equal to the spell's tier squard. The entire duration of such a contact must be during the spell's duration to provide protection this way. Additionally, non-magical toxic attacks against the warded creature have disadvantage, as do any toxic attacks as a result of a poison or disease.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
+
+**Critical Failure**: You gain 1d4-1 points of spell sickness and appear ill so long as you have spell sickness.
 
 #### Imbue
 
