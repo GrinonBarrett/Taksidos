@@ -7,7 +7,13 @@ Description
 Special features  
 Special creatures which may use it
 
-**The Iron Band**, $75,000
+**False Torch**, $20,000  
+Unique  
+Neg.  
+A silver ring with a small pink topaz nested in its clutch.  
+**The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink*.
+
+**The Iron Band**, $75,000  
 Unique
 Neg.
 A ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
@@ -22,5 +28,5 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 
 **Ring of Wondernaming**, $9,500  
 Neg.  
-A ring of modest quality. Not too gaudy, but not so plain.
+A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
