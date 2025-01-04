@@ -31,7 +31,7 @@ A haft and chain of silver match the skull which serves as this flail's head. Th
 **Coolsong** (*unique*)  
 $10,400, 3.5 lbs.  
 Longsword  
-The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath 9n a successful git equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Afditionally, critical hits *may be treated as they were cold attacks*.  
+The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
 If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
 
 **Curious Katana** (*unique*)  
