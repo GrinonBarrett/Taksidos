@@ -11,7 +11,7 @@ Special creatures which may use it
 Unique  
 Neg.  
 A silver ring with a small pink topaz nested in its clutch.  
-**The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink*.
+*The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink. If the wearer already knew the spell, their casting time is reduced by 1 action*.
 
 **The Iron Band**, $75,000  
 Unique
