@@ -13,6 +13,12 @@ Neg.
 A silver ring with a small pink topaz nested in its clutch.  
 *The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink. If the wearer already knew the spell, their casting time is reduced by 1 action*.
 
+**Green Giant's Band**, $18,000  
+Unique  
+Neg.  
+Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
+*For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, during the first round of any combat, the user's defense is increased by 1*.
+
 **The Iron Band**, $75,000  
 Unique
 Neg.
