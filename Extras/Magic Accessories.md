@@ -19,3 +19,8 @@ A ring of iron. If first worn while wearing armor, it doesn't seem to do anythin
 * If the spell Ironside would be cast on the wearer from another source while wearing the ring, it overides the effects of the ring's spell while the new spell lasts. Additionally, the ring cannot be removed during this time.
 
 A creature which has worn the ring to benefit finds the rust has stained their skin permanently. They will also appear to bear harmless patches of rust when affected by an Ironside spell from other sources.
+
+**Ring of Wondernaming**, $9,500  
+Neg.  
+A ring of modest quality. Not too gaudy, but not so plain.
+*The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
