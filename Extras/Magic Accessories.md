@@ -44,6 +44,12 @@ When the user successfully hits a foe with an attack, including the attack of a 
 
 Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
+**Ring of Lorylean**,$50,000  
+Unique.  
+Neg.  
+A silver ring clutching a very small blue diamond.
+**After completing a full rest while wearing the ring, the wearer has an addirional hitpoint which may only be applied against magical effects (such as vosts for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+
 **Ring of Wondernaming**, $9,500  
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
