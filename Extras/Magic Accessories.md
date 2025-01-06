@@ -32,6 +32,18 @@ A ring of iron. If first worn while wearing armor, it doesn't seem to do anythin
 
 A creature which has worn the ring to benefit finds the rust has stained their skin permanently. They will also appear to bear harmless patches of rust when affected by an Ironside spell from other sources.
 
+**Ring of Oppressive Force**, $28,000  
+Neg.  
+This thick banded ring features an intricate design and an inscritption in a dead tongue.  
+When the user successfully hits a foe with an attack, including the attack of a spell, they may use their reaction to *impose one of the following:  
+* Inflict a force attack againt the foe.
+* Inflict a cruching attack against the foe.
+* Inflict a force and a crushing attack against the foe.
+* Impose 1 yard of knockback against the foe.
+* Impose knockback against the foe a number of feet equal to the points of success of that attack.
+
+Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
+
 **Ring of Wondernaming**, $9,500  
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
