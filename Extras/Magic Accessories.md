@@ -48,3 +48,9 @@ Once an option has been used, the wearer must perform a long rest while maintain
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
+
+**Zerun's Girdle**, $48,000  
+Unique  
+2 pounds  
+A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
+*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and pupropses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus.
