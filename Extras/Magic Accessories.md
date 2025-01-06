@@ -53,4 +53,4 @@ A ring of modest quality. Not too gaudy, but not so plain.
 Unique  
 2 pounds  
 A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
-*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and pupropses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus.
+*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and pupropses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.
