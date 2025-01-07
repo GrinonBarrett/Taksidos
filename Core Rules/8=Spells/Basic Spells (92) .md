@@ -941,7 +941,19 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 ### N
 
-### O
+### O (1
+
+#### Oscillating Wave
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 Actions
+
+**Effect**: You project a serious of nearly resonant waves out in a 3 yard cone. Anything within the cone is subject to a sonic attack
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard and the casting time by 1 action.
+
+**Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
 ### P (3
 
