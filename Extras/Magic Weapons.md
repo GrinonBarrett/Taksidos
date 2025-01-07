@@ -81,6 +81,11 @@ $4,900 , neg.
 Unarmed  
 Technically, two of these exist, but they only function if both are adoned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
+**Grim Raveler** (*unique*)  
+$5,000  
+Poleaxe  
+Technically, a scythe. This weapon inflicts attacks like a warpick. Upon a critical hit *the foe must perform an incapacitation save*. When performing a cleave attack, you may treat the attacks as cutting attacks if you have at least proficiency with poleaxes or spears.
+
 **Heart Stealer** (*unique*)  
 $3,400 , 3 lbs.  
 Handaxe  
