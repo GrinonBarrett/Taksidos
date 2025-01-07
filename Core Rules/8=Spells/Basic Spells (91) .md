@@ -877,7 +877,19 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 ### J
 
-### K
+### K (1
+
+#### Kiss of Death
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Effect**: You transfer to the victim of your touch a surge of deathly menace. You are prone and vulnerable while casting this spell. Upon kissing the target, it must perform an incapacitation save. 
+
+**At Higher Tiers**: Each tier beyond the minimum increases the DV of the incapacitation save by 1 and the casting time by one action.
+
+**Critical Failure**: You find yourself subject to the forces of the kiss instead, even if you are normally unaffected by incapacitation saves.
 
 ### L (1
 
