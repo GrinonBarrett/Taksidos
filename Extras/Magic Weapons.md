@@ -130,6 +130,12 @@ Broadhead Arrow
 Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shadt is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
+**Talavaste** (*unique*)  
+$2,000 , 4 lb.  
+Longsword  
+A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
+*Gains a 1d8 bonus to attacks against creatures of undeath*.
+
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
 Mace  
