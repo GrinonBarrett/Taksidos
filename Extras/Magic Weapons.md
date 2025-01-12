@@ -45,6 +45,13 @@ Longsword
 A curved sword reaching out 4 feet. If used with two hands, it gains a +1 bonus for the purpose of determining critical hits. It is a proper cavalry weapon.  
 If name is known, *it gains a +1 bonus to attack rolls*.
 
+**Dimaye** (*unique*)  
+$2,600, 3 lbs.  
+Longsword  
+A finely made sword, somehwat lighter than would be expected. User gains *a +1 bonus for the purpose of inflicting a critical hit*.
+
+If name is knon, bonus is instead a standard bonus to attack roll.
+
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
