@@ -26,12 +26,12 @@ The blade stretches out 10 feet on this massive weapon. As an action, the user m
 **Cocomayal** (*unique*)  
 $14,000 , 5 lbs.  
 Flail  
-A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
+A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also inflicted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winding, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
 **Coolsong** (*unique*)  
 $10,400, 3.5 lbs.  
 Longsword  
-The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
+The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additional points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
 If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
 
 **Curious Katana** (*unique*)  
@@ -104,6 +104,13 @@ $12,000 , 5 lbs.
 Pole Axe  
 A shorter head than is typical of poleaxes mounts the shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
 If name is known, a critical hit with this weapon may also *inflict a cold attack*.
+
+**Kuluzh** (*unique*)  
+$10,000 , 6 lbs
+Greatsword
+Reach is 2.5 yards. This blade is wide in form compared to traditional proportions. Attacks made with the sword have a *+1 bonus*.
+
+If name is known, this bonus is *increased to 1d4 against a foe with no remaining hitpoints. This does not affect a creature of undeath*.
 
 **Lightning Caller** (*unique*)  
 $8,500, 4 lbs.  
