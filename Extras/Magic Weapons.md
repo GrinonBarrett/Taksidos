@@ -122,6 +122,11 @@ $16,000 , 3.5 lbs.
 Longbow  
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
 
+**The Malachite Mace** (*unique*)  
+$12,800 , 4.25 lbs.  
+Mace
+An eathern handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
+
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
 Mace  
