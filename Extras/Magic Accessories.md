@@ -44,16 +44,21 @@ When the user successfully hits a foe with an attack, including the attack of a 
 
 Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
-**Ring of Lorylean**,$50,000  
+**Ring of Lorylean**, $50,000  
 Unique.  
 Neg.  
 A silver ring clutching a very small blue diamond.
-**After completing a full rest while wearing the ring, the wearer has an addirional hitpoint which may only be applied against magical effects (such as vosts for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+**After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
 
 **Ring of Wondernaming**, $9,500  
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
+
+**Yoni's Promise**, $5,000  
+Unique.  
+Neg.  
+A humble golden ring which appears to be worth only a tenth of its value at first. It was once the mark of an engagement which never came to be. The wearer gains a +1 to defense against magical attacks and *an additional +1 to defense against necrotic attacks*. When taken to the peak of the Udras mountain, a blessing is sure to follow.
 
 **Zerun's Girdle**, $48,000  
 Unique  
