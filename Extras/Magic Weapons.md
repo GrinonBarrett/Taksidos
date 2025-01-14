@@ -150,7 +150,7 @@ Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. It
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
 **Talavaste** (*unique*)  
-$2,000 , 4 lb.  
+$2,200 , 4 lb.  
 Longsword  
 A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
 *Gains a 1d8 bonus to attacks against creatures of undeath*.
