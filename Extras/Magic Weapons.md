@@ -26,12 +26,12 @@ The blade stretches out 10 feet on this massive weapon. As an action, the user m
 **Cocomayal** (*unique*)  
 $14,000 , 5 lbs.  
 Flail  
-A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also influcted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winidng, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
+A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also inflicted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winding, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
 **Coolsong** (*unique*)  
 $10,400, 3.5 lbs.  
 Longsword  
-The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additiknal points of undeath 9n a successful git equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Afditionally, critical hits *may be treated as they were cold attacks*.  
+The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additional points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
 If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
 
 **Curious Katana** (*unique*)  
@@ -44,6 +44,13 @@ $5,000 , 4 lbs.
 Longsword  
 A curved sword reaching out 4 feet. If used with two hands, it gains a +1 bonus for the purpose of determining critical hits. It is a proper cavalry weapon.  
 If name is known, *it gains a +1 bonus to attack rolls*.
+
+**Dimaye** (*unique*)  
+$2,600, 3 lbs.  
+Longsword  
+A finely made sword, somehwat lighter than would be expected. User gains *a +1 bonus for the purpose of inflicting a critical hit*.
+
+If name is knon, bonus is instead a standard bonus to attack roll.
 
 **Enchanted Weapon**  
 varies, varies  
@@ -65,6 +72,11 @@ An enchanted weapon costs 3 times the base price and an additional $5,000. Depen
 * Reverberating: Sonic.
 * Nasty: Toxic.
 
+**Elderfist** (*unique*)  
+$3,500 , 4.5 lbs.  
+Morningstar  
+This spiked weapon is capable of *projecting its protusions out in a hemisphere out 1.5 yards, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
+
 **Flaming Flamberge** (*unique*)  
 $5,950 , 6.5 lbs.  
 Greatsword  
@@ -81,17 +93,34 @@ $4,900 , neg.
 Unarmed  
 Technically, two of these exist, but they only function if both are adoned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
+**Grim Raveler** (*unique*)  
+$5,000  
+Poleaxe  
+Technically, a scythe. This weapon inflicts attacks like a warpick. Upon a critical hit *the foe must perform an incapacitation save*. When performing a cleave attack, you may treat the attacks as cutting attacks if you have at least proficiency with poleaxes or spears.
+
 **Heart Stealer** (*unique*)  
 $3,400 , 3 lbs.  
 Handaxe  
 A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever the origin, it has been forgotten.  
 *The first attack made with this weapon each round gains a +2 bonus*.
 
+**Hehan's Heart** (*unique*)  
+$7,7500 , 2.5 lbs.  
+Flail  
+A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious signifigance.
+
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
 Pole Axe  
 A shorter head than is typical of poleaxes mounts the shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
 If name is known, a critical hit with this weapon may also *inflict a cold attack*.
+
+**Kuluzh** (*unique*)  
+$10,000 , 6 lbs
+Greatsword
+Reach is 2.5 yards. This blade is wide in form compared to traditional proportions. Attacks made with the sword have a *+1 bonus*.
+
+If name is known, this bonus is *increased to 1d4 against a foe with no remaining hitpoints. This does not affect a creature of undeath*.
 
 **Lightning Caller** (*unique*)  
 $8,500, 4 lbs.  
@@ -102,6 +131,11 @@ It appears to be made of altyprium but feels (and acts) like steel. When the wea
 $16,000 , 3.5 lbs.  
 Longbow  
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
+
+**The Malachite Mace** (*unique*)  
+$12,800 , 4.25 lbs.  
+Mace
+An eathern handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
 
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
@@ -124,6 +158,12 @@ $1,225 , neg.
 Broadhead Arrow
 Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shadt is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
+
+**Talavaste** (*unique*)  
+$2,200 , 4 lb.  
+Longsword  
+A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
+*Gains a 1d8 bonus to attacks against creatures of undeath*.
 
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  

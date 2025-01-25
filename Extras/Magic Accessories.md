@@ -7,7 +7,19 @@ Description
 Special features  
 Special creatures which may use it
 
-**The Iron Band**, $75,000
+**False Torch**, $20,000  
+Unique  
+Neg.  
+A silver ring with a small pink topaz nested in its clutch.  
+*The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink. If the wearer already knew the spell, their casting time is reduced by 1 action*.
+
+**Green Giant's Bands**, $18,000  
+Unique  
+Neg.  
+Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
+*For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer us of great size, during the first round of any combat, the user's defense is increased by 1*.
+
+**The Iron Band**, $75,000  
 Unique
 Neg.
 A ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
@@ -19,3 +31,37 @@ A ring of iron. If first worn while wearing armor, it doesn't seem to do anythin
 * If the spell Ironside would be cast on the wearer from another source while wearing the ring, it overides the effects of the ring's spell while the new spell lasts. Additionally, the ring cannot be removed during this time.
 
 A creature which has worn the ring to benefit finds the rust has stained their skin permanently. They will also appear to bear harmless patches of rust when affected by an Ironside spell from other sources.
+
+**Ring of Oppressive Force**, $28,000  
+Neg.  
+This thick banded ring features an intricate design and an inscritption in a dead tongue.  
+When the user successfully hits a foe with an attack, including the attack of a spell, they may use their reaction to *impose one of the following:  
+* Inflict a force attack againt the foe.
+* Inflict a cruching attack against the foe.
+* Inflict a force and a crushing attack against the foe.
+* Impose 1 yard of knockback against the foe.
+* Impose knockback against the foe a number of feet equal to the points of success of that attack.
+
+Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
+
+**Ring of Lorylean**, $50,000  
+Unique.  
+Neg.  
+A silver ring clutching a very small blue diamond.
+**After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+
+**Ring of Wondernaming**, $9,500  
+Neg.  
+A ring of modest quality. Not too gaudy, but not so plain.  
+*The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
+
+**Yoni's Promise**, $5,000  
+Unique.  
+Neg.  
+A humble golden ring which appears to be worth only a tenth of its value at first. It was once the mark of an engagement which never came to be. The wearer gains a +1 to defense against magical attacks and *an additional +1 to defense against necrotic attacks*. When taken to the peak of the Udras mountain, a blessing is sure to follow.
+
+**Zerun's Girdle**, $48,000  
+Unique  
+2 pounds  
+A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
+*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and pupropses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.

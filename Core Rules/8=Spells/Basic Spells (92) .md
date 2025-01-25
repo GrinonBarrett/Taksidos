@@ -196,7 +196,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
 
-### C (4
+### C (3
 
 #### Call Lightning
 
@@ -211,20 +211,6 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is tripled.
 
 **Critical Failure**: The spell instead targets the closest creature to you. If no creature is within half of the range of this spell, it instead attacks you.
-
-#### Calm
-
-**Minimum Tier**: 1
-
-**Casting Time**: 3 actions
-
-**Range**: 3 yards
-
-**Effect**: You manage to ease some of a creature's excitment or meloncholy through seemingly intangible means. The intensity of its emotions are reduced by 1 degree. This lasts for a number of rounds equal to the spell's tier + your [Magic] score.
-
-**At Higher Tiers**: For each tier beyond minimum, the range is increased by 1 yard and you may target an additional creature.
-
-**Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
 #### Conjure Water
 
@@ -877,7 +863,19 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 ### J
 
-### K
+### K (1
+
+#### Kiss of Death
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Effect**: You transfer to the victim of your touch a surge of deathly menace. You are prone and vulnerable while casting this spell. Upon kissing the target, it must perform an incapacitation save. 
+
+**At Higher Tiers**: Each tier beyond the minimum increases the DV of the incapacitation save by 1 and the casting time by one action.
+
+**Critical Failure**: You find yourself subject to the forces of the kiss instead, even if you are normally unaffected by incapacitation saves.
 
 ### L (1
 
@@ -943,7 +941,19 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 ### N
 
-### O
+### O (1
+
+#### Oscillating Wave
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 Actions
+
+**Effect**: You project a serious of nearly resonant waves out in a 3 yard cone. Anything within the cone is subject to a sonic attack
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard and the casting time by 1 action.
+
+**Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
 ### P (3
 
@@ -986,11 +996,25 @@ A creature may make a [Fort] save to avoid this if they wish.
 **Effect**: You produce an unstable portal connected to the psychic energy of a non-mindless creature within range. This inflicts a psychic attack against the target that does not wound them (though the effects of a critical hit still occur). Instead, an explosion of psychic energy which extends out a number of yards equal to the spell's tier, inflicting a psychic attack against anything in the explosion other than your target. The attacks gain a bonus equal to the target's [Inte] bonus divided by the number of creatures in the explosion radius other than the target. Attacks from the explosion have disadvantage against mindless creatures unless they are connected to the psychic plane.  
 Regardless of the spell's effect, if it is cast successfully, the caster knows the arget's exact [Inte] score.
 
-**At Higher Tiers**: FOr each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
 
 **Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic conncetion. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
 
-### Q
+### Q (1
+
+#### Quell
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions
+
+**Range**: 3 yards
+
+**Effect**: You manage to ease some of a creature's excitment or meloncholy through seemingly intangible means. The intensity of its emotions are reduced by 1 degree. This lasts for a number of rounds equal to the spell's tier + your [Magic] score.
+
+**At Higher Tiers**: For each tier beyond minimum, the range is increased by 1 yard and you may target an additional creature.
+
+**Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
 ### R (4
 
@@ -1437,11 +1461,9 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a acid attack. You are prone during this time.
 
-### X
+### X (1
 
-### Y (2
-
-#### Yellow Mark
+#### Xanthic Sign
 
 **Minimum Tier**: 4
 
@@ -1458,6 +1480,9 @@ If you know this spell, you can indentify marks made with it- even if you do not
 **At Higher Tiers**: Each tier beyond minimum provides benefits as noted above.
 
 **Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
+
+
+### Y (1
 
 #### Ygroapothy
 
