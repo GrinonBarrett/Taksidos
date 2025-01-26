@@ -30,7 +30,7 @@ You gain a level of training in a weapon of your choice and have specialization 
 
 ### 2) False Swipe
 Once per round, when you perform a Feint, if a creature within 2 yards performs a reaction in response to it, it does not count against your reaction for the round.  
-Additionally, when you perform a Feint against a creature, if it has fewer HP than your level, you know how many hitpoints it currently has.
+Additionally, when you perform a Feint against a creature (whether or not it was successful), if it has fewer HP than your level, you know how many hitpoints it currently has.
 
 ### 3) Dire Dispose
 If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If it was a melee attack, you may choose one of the following:
@@ -56,14 +56,14 @@ When you attack a creature afflicted by a Fell Hand, you may choose to modify th
 You gain training in two weapons of your choice.
 
 ### 7) Relentless Striker
-If a foe would dodge your attack, you may use your reaction to ignore the effects of that dodge. If you do, you gain a +1 bonus to the attack if your [Body] or [Rflx] is greater than the foe's and the attack would not be considered a sneak attack.
+If a foe would dodge your attack, you may use your reaction to ignore the effects of that dodge. If you do, you gain a +1 bonus to the attack if the attack would not be considered a sneak attack.
 
 ### 8) Riposte
 Once per round, if you parry an attack and that attack would have been a critical failure, you may perform a melee attack against that foe.  
 Additionally, each level of training in your weapon grants you a +1 to your Parry attempts.
 
 ### 9) Reaper's Answer
-When you attack a creature you may use your reaction to push it towards death. If it has 0 hitpoints remaining, the DV of its incapacitation save is increased by the points of your attack's success. You must complete a long rest before doing so again.
+When you attack a creature you may use your reaction to push it towards death. If it has 0 hitpoints remaining, the DV of its incapacitation save is increased by the points of your attack's success. You must complete a long rest before doing so again. This cannot affect a creature of undeath.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
