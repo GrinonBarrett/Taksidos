@@ -33,8 +33,8 @@ Alternatively, anytime another creature within 2 yards attempts a Lore or Spellc
 ### 2) Resist Wands
 When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
 
-### 2) Uncanny Fellow
-Anytime you make a save, you may choose to roll with intensity. If you do, and the die result is below 10, you gain a +1 bonus to your result. If you already had this feature due to your species, you instead learn a new language.
+### 2) Called Defense
+When an attack is inflicted against you that you are aware of, you may call a number. If the attack roll die result is the number you called, you gain a +3 bonus to defense against that attack. You may also expened your reaction while you do so if it is a magical attack. If you do, and you call it correctly, you ignore the attack altogether.
 
 ### 3) Warsong
 Your power of Oratory is incredible. So much so, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). While doing so, you may use your reaction to grant an attack or save a +4 bonus for the purpose of determining if it is a critical success. The creature must be able to hear your performance to be affected, but need not truly understand the words.
