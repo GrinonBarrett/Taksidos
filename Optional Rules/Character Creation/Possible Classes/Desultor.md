@@ -1,4 +1,5 @@
-
+### 2) Wriggly
+When you recoil, you may modify the wound by 1 additional step.
 
 ### 2) Reckless
 If you are vulnerable, but not prone, your follow up attacks do not have disadvantage.
