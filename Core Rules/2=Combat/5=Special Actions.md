@@ -7,7 +7,7 @@ You rotate up to 180 degrees. If you received a wound, you may about face as a r
 
 #### Aim  
 Action  
-You choose a creature (or object) within range. If your next attack before the end of the next round is made against it, you gain advantage on that attack. You may also modify the wound result by 1. If you already had advantage on the attack, you may modify the wound result by 2 instead.
+You choose a creature (or object) within range. If your next attack before the end of the next round is made against it, you gain advantage on that attack. You may also modify the wound result by 1. If you already had advantage on the attack, you may modify the wound result by 3 instead.
 
 #### Attack
 Action  
