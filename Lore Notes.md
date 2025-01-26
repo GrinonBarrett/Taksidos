@@ -3,6 +3,9 @@
 ### Alnuskogs
 A place between places. A world primarily dominated by alder forest, though there do seem to be some carrs. It is perpetually dusk and fog shrouds the view of the distance. A few creatures live here, but is mostly inhabited and guarded by the Alderolves. The realm itself can function as a through space between wooded lands in other worlds.
 
+### Vindherveil
+A land of snow. It seems to have been a place of valleys, hills, and mountain at some point. Occsional abandoned stone castle and ghost towns can be discovered for those that brave the world long enugh, although something almost always takes those who linger for such time. A gatway to this realm is not a predictable thing.
+
 ## Notes for running various creatures
 
 ### Alderalv
