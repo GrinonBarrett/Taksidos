@@ -18,6 +18,9 @@ When you are knocked back while prone for a set period of time, you may reduce t
 ### 2) -
 When you recoil, you may instead shift the wound result a number of steps equal to your heroism. If you are a species which does not receive the effect of wounds, you instead get an additional +1 bonus to defense when you dodge.
 
+### 2) Uncanny Fellow
+Anytime you make a save, you may choose to roll with intensity. If you do, and the die result is below 10, you gain a +1 bonus to your result. If you already had this feature due to your species, you instead learn a new language.
+
 ### 3) Bear It
 When an attack against you is successful, you may use your reaction to lower the points of success by an amount equal to your heroism for the purpose of determinng if it is a critical hit.
 
