@@ -8,7 +8,7 @@ Possessed of rage and fury, you are a formidable foe to any and all that step fo
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 2  |    +1    | Wild One                                          |
-| 2nd   | 2  |    +2    | Furious Blow                                      |
+| 2nd   | 2  |    +2    | Furious Blow, Wrathful Strike                     |
 | 3rd   | 3  |    +3    | Attribute Improvement, Panicked Frenzy, Shout     |
 | 4th   | 3  |    +4    | Bash, Brutal Momentum                             |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
@@ -27,10 +27,13 @@ Additionally, you may enter a battle-rage as an action or reaction. While in thi
 * You gain advantage on opposed [Body] checks.
 * If you are unarmored, you gain a +1 bonus to defense against non-melee attacks.  
 
-This trance ends at the end of any round you do not inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1d4 + double the number of rounds the trance lasted.
+This trance ends at the end of any 2nd consecutive round you do not inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1d4 + double the number of rounds the trance lasted.
 
 ### 2) Furious Blow
 The first attack you make each round while in your battle rage gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
+
+### 2) Wrathful Strike
+If you are successfully wounded by a creature you can perceive while vulnerable, you may use your reaction to face that foe and perform either a melee or thrown attack against them with disadvantage. If your attack roll total is greater than theirs, this does not count against the use of your reaction for the round.
 
 ### 3) Panicked Frenzy
 When you fail a save against a fear effect, but not critically fail, you may use your action to into Panicked Frenzy. This frenzy funtions identically to your battlerage trance, but is not cumulative with it. If you are already in your battlerage trance, it is replaced by the panicked frenzy (thus you are not afflicted by the battlerage trance ending). Any features which benefit your battlerage trance also affect your panicked frenzy. This frenzy lasts as long as you are affected by the fear.
