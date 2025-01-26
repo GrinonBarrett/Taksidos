@@ -8,7 +8,7 @@ Enriched in culture and capable of fighting- you are the warsingers, skalds, and
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Warrior-Poet, Odd, Random Piece of Knowledge      |
-| 2nd   | 1  |    +2    | Resist Wands, Uncanny Fellow                      |
+| 2nd   | 1  |    +2    | Resist Wands, Called Defense                      |
 | 3rd   | 1  |    +3    | Attribute Improvement, Warsong                    |
 | 4th   | 2  |    +4    | Soften Spell, Weapon Training                     |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
