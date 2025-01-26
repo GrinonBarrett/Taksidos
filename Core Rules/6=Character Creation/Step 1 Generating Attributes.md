@@ -29,5 +29,5 @@ For each attribute, roll 4d4. Select three of your attributes, they are increase
 ###### Like the Moderate Swing method, but with higher averages.
 
 ##### Custom Build
-You have 80 points to distribute among your ability scores as you choose. To improve any attribute beyond 12, 2 points must be spent per per point of ability score. For example, to have an ability score of 15 costs 21 points.
+You have 80 points to distribute among your ability scores as you choose. To improve any attribute beyond 12, 2 points must be spent per per point of ability score. For example, to have an ability score of 15 costs 18 points.
 ###### A good measure to help bring balance to each player’s ability score spread while also cutting out the possibility of lady luck’s displeasure.
