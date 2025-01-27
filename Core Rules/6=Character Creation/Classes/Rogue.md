@@ -27,7 +27,7 @@ If you ever make an opposed check involving the skill, you may replace the bonus
 You have an intangible ability of achieving success even when the odds are against you. This is represented by the very tangible pool of luck points. Anytime you roll any number of dice, you may spend any number of luck points. For each point spent this way, you may modify a die's result by 1. You regain 1 on a short rest, half of your maximum on a long rest, and all luck on a full rest.
 
 ### Unorthodox Learning
-You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may chooe to gain a skill of your choice instead of getting any training in weapons or languages.
+You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may choose to gain a skill of your choice instead of getting any training in weapons or languages.
 
 ### 2) Journeyman
 The number of items you may learn from individual learning is doubled.
@@ -45,8 +45,8 @@ You gain training in two weapons of your choice. You may choose to learn a langu
 You are able to acquire a paticular set of abilities not available to the common folk. Choose an edge. You gain the selected edge.
 
 ### 7) Hecking Awesome
-If you make a skill check with your kecking good skill, you may choose to add your heroism bonus to your check. You must finish a long or full rest before doing so again.  
-When you replace the bonus d6 of your hecking good skill during an opposed check, you now roll a d20 instead.
+If you make a skill check with your hecking good skill, you may choose to add your heroism bonus to your check. You must finish a long or full rest before doing so again.  
+When you replace the bonus d6 of your hecking good skill during an opposed check, you now roll a d20 instead of the d12.
 
 ### Splash or Specialize
 At levels 5, 8, and 10- you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -82,21 +82,21 @@ You may select this multiple times, choosing a new weapon type each time.
 
 • **Tongue and Cheek**. Select two languages. You learn both.
 
-• **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per [Body] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per [Rflc] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Great Constitution**. You gain a +2 bonus to all [Fort] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Great Constitution**. You gain a +2 bonus to all [Fort] saves. Once per [Fort] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Indomitable Will**. You gain a +2 bonus to all [Will] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Indomitable Will**. You gain a +2 bonus to all [Will] saves. Once per [Will] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Passive Awareness**. You gain a +2 to all [Prcp] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Passive Awareness**. You gain a +2 to all [Prcp] saves. Once per [Prcp] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Calculated Response**. You gain a +2 to all [Inte] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Calculated Response**. You gain a +2 to all [Inte] saves. Once per [Inte] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Regulated Emotion**. You gain a +2 to all [Empy] saves. Once per save, you may spend a luck point to grant an additional +2 bonus.
+• **Regulated Emotion**. You gain a +2 to all [Empy] saves. Once per [Empy] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Hecking Versatile**. Choose two skills. They are now included in your Hecking feature.
+• **Hecking Versatile**. Choose two skills. They are now included in your Hecking Good feature.
 
 • **Phased Strike**. When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
 
