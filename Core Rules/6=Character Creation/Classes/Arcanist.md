@@ -8,12 +8,12 @@ Students of arcane magic. Arcanists are capable of memorizing spells broken into
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Arcane Proficiency, Arcane Study                  |
-| 2nd   | 1  |    +2    | Arcanae                                           |
-| 3rd   | 1  |    +3    | Attribute Improvement, Magic Press                |
-| 4th   | 1  |    +4    | Arcane Deflection, Disruptive Strike              |
+| 2nd   | 1  |    +2    | Arcanae, Magic Press                              |
+| 3rd   | 1  |    +3    | Attribute Improvement, Phased Strike              |
+| 4th   | 1  |    +4    | Disruptive Strike, Spell Leack                    |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | Attribute Improvement, Improved Studies           |
-| 7th   | 2  |    +6    | Phased Strike                                     |
+| 7th   | 2  |    +6    | Arcane Deflection                                 |
 | 8th   | 2  |    +7    | Prepared Spell                                    |
 | 9th   | 3  |    +8    | Attribute Improvement, Modify Magic               |
 | 10th  | 3  |    +8    | Splash or Specialize                              |
@@ -28,14 +28,17 @@ Furthermore, when performing a counter-spell check, you may add your [Inte] bonu
 
 ### 2) Arcanae
 You can commit arcane formulas to memory, allowing you to easily cast spells at a later time without enduring the effects of spell sickness. This requires time and puts strain on the arcanist's mind. The time required is a number of minutes equal to 15 minutes plus 12 minutes per spell tier. Additionally, your [Inte] is temporarily reduced as a result of the strain on your mind. This reduction is 1 + double the tier of the spell. When the spell is cast, you do not roll 1d20 for the spellcheck but instead use your [Inte] score at the time the spell was memorized. Once the spell is cast, it no longer burdens the arcanist's mind.  
-You may choose to let a memorized arcana go, losing it from your mind and freeing it of the burden, but suffer Spell Sickness equal to the spell's tier if you do.
+You may choose to let a memorized arcana go, loosing it from your mind and freeing it of the burden, but suffer Spell Sickness equal to the spell's tier if you do.
 
-### 3) Magic Press
+### 2) Magic Press
 The bonus to spell checks you gain from staves for spells you know is increased by 1.
 When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack.
 
-### 4) Arcane Deflection
-If you do not have any arcanae memorized and are subject to an attack from a magical effect, you may use your reaction to grant yourself a bonus to your defense against it equal to your [Inte] bonus. If you do, and the attack is not a critical failure, you accrue a point of Spell Sickness.
+### 3) Phased Strike
+When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
+
+### 4) Spell Leak
+If you any arcanae memorized and are subject to an attack from a magical effect, *you may use choose to loose one of those memorized arcanae to gain a bonus to defense against that attack equal to the tier of its spell*. If you do, and the attack is not a critical failure, you still suffer the effects of prematurely loosing the arcanae.
 
 ### 4) Disruptive Strike
 When you successfully perform a melee attack against a creature which is casting a spell or afflicted by Spell Sickness, it incurs a point of Spell Sickness.
@@ -45,8 +48,8 @@ The time to memorize spells is reduced to 12 minutes plus 10 minutes per spell t
 You do not suffer a point of Spell Sickness as a result of using your reaction for Reflexive Casting.
 You gain a bonus to your saves against magical effects equal to your [Inte] bonus.
 
-### 7) Phased Strike
-When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
+### 7) Arcane Deflection
+If you do not have any arcanae memorized and are subject to an attack from a magical effect, you may use your reaction to grant yourself a bonus to your defense against it equal to your [Inte] bonus. If you do, and the attack is not a critical failure, you accrue a point of Spell Sickness.
 
 ### 8) Prepared Spell  
 When you finish a full rest, choose a spell you know and a tier up to your current [Inte] bonus. You may cast that spell at the selected tier, without having to make a spellcheck. For all intents and purposes, the spellcheck is considered a success and your points of success are equal to your current [Inte] score. Once cast, you must complete a number full rests equal to the tier of spell prepared this way before doing so again. You may only have a single spell prepared this way and cannot prepare a spell at a tier higher than you have cast it already.
@@ -60,7 +63,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as an arcanist, you gain the following:  
 The time to study a new spell is reduced by half, so long as the minimum tier is less than your level.
-when you make a save against a spell you know, you gain a bonus equal to its tier.  
+When you make a save against a spell you know, you gain a bonus equal to its tier.  
 When you cast a spell without using reflexive casting, you gain a bonus to your spellcheck equal to your current [Inte] bonus.
 
 #### Splash
