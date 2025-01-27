@@ -1,4 +1,4 @@
-#### GENERATING ABILITY SCORES
+#### GENERATING ATTRIBUTE SCORES
 There are a few methods to generate ability scores.
 
 ##### Standard
