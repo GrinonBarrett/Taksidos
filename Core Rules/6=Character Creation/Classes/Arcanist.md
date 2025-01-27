@@ -37,11 +37,11 @@ When you perform an attack with a wand, staff, or spell, you may use your reacti
 ### 3) Phased Strike
 When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
 
-### 4) Spell Leak
-If you any arcanae memorized and are subject to an attack from a magical effect, *you may use choose to loose one of those memorized arcanae to gain a bonus to defense against that attack equal to the tier of its spell*. If you do, and the attack is not a critical failure, you still suffer the effects of prematurely loosing the arcanae.
-
 ### 4) Disruptive Strike
 When you successfully perform a melee attack against a creature which is casting a spell or afflicted by Spell Sickness, it incurs a point of Spell Sickness.
+
+### 4) Spell Leak
+If you any arcanae memorized and are subject to an attack from a magical effect, *you may use choose to loose one of those memorized arcanae to gain a bonus to defense against that attack equal to the tier of its spell*. If you do, and the attack is not a critical failure, you still suffer the effects of prematurely loosing the arcanae.
 
 ### 6) Improved Studies
 The time to memorize spells is reduced to 12 minutes plus 10 minutes per spell tier.  
