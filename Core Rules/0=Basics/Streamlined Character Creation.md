@@ -2,7 +2,7 @@
 While more advanced rules are included, this method should be used for a player's first character. It is always good for a narrator to help a player make their character. 
 
 #### GENERATING ABILITY SCORES
-You have 80 points to distribute among your attributes scores as you choose. To improve any attribute beyond 12, 2 points must be spent per per point of ability score. For example, to have an ability score of 15 costs 21 points.
+You have 80 points to distribute among your attributes scores as you choose. To improve any attribute beyond 12, 2 points must be spent per per point of ability score. For example, to have an ability score of 13 costs 14 points whilst an 18 costs 24.
 
 After you have assinged those points, choose two of your attributes. Both are increased by 1.
 
