@@ -97,4 +97,4 @@ Considered a nuisance by most, these creatures can ruin crops and household good
 -----
 
 #### Distilling a Jeel
-It is possible for an alchemist to distill the material of a jeel (living or dead). This requires 24 hours and produces 1 ounce of Sudokahest for every 10 pounds of material, a component of many alchemic agents such as alkahest. More can be made in the same time with enough space and equipment. This can be difficult to ensure as the jeel evaportaes into onert vapor a a rate of 1 pount every 1d12+12 hours.
+It is possible for an alchemist to distill the material of a jeel (living or dead). This requires 24 hours and produces 1 ounce of Sudokahest for every 10 pounds of material, a component of many alchemic agents such as alkahest. More can be made in the same time with enough space and equipment. This can be difficult to ensure as the jeel evaportaes into innert vapor at a rate of 1 pount every 1d12+12 hours.
