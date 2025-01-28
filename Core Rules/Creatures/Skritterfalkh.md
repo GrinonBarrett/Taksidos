@@ -68,7 +68,7 @@ Also known as the catbat, for its resemblences to the two. They have the general
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 9 |    |     | **Undamaging** | 11 |
 
-**Table**: *Wound Allocation* {Fix Later}
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
