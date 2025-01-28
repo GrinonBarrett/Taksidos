@@ -16,6 +16,7 @@ Next update:
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday or a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
 * Will add Mothman?!
+* Make a Tessarifterotoi, a four winged dragon like creature.
 * Add a few real diseases.
 
 Also, at some point soon, make the failed alchemical cycle:  
