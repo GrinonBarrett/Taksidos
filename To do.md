@@ -5,7 +5,6 @@ For this update:
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 * Add a spell beginning with J
 * Add a spell beginning with N
-* Create that dreamed up flying creature.
 * Create the Nekroktonai, a creature of undeath. Made of 8 spines and a skull connected to a custom made clay joint. It can crawl across surfaces well and fights by wrestling and grappling its foe, tearing them apart with the spine tentacles.
 
 Next update:  
