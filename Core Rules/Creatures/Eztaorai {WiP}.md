@@ -1,22 +1,22 @@
-### Eptaorai
-These four winged monsters appear to have a frame like a pteransaur. They possess seven slender tails which each bear a small plume of colorful feathers to adorn their otherwise drap coloration. They are opptunist predators that aren't above scavenging a corpse from another's hunt. They are rarely seen in groups larger than 5. Their collective noun is a Spry.
+### Eztaorai
+These four winged monsters appear to have a frame like a pteransaur. They possess seven slender tails which each bear a small plume of colorful feathers to adorn their otherwise drap coloration. They are opptunist predators that aren't above scavenging a corpse from another's hunt. They are rarely seen in groups larger than 5 but are equally likely to be solitary hunters. The plural is Eptaoroi. Their collective noun is a Spry.
 
-**Creature Type**: Shishpara are Avian.
+**Creature Type**: Eztaoroi are Avian.
 
-**Size**: Shishpara tend to be between 11'5" to 14'9" in length, and frequently stand between 4'1" to 5'9" meters. They have a wing span 15% greater than their length. The average male will weigh only 130 pounds, while the average female will weigh about 165 pounds. They are medium creatures.
+**Size**: Eztaoroi tend to be between 7' to 8' in length, not including an additional yard for their tails. Their wingspan is 20-22.5 feet. They are medium creatures.
 
-**Hitpoints**: A shishpara has 2 hitpoints.
+**Hitpoints**: An eztaorai has a single hitpoint.
 
 **Attributes**:  
-[Body] 12 (+4)  
+[Body] 9 (+3)  
 [Fort] 9 (+3)  
-[Rflx] 12 (+4)  
+[Rflx] 13 (+4)  
 [Will] 9 (+3)  
-[Inte] 9 (+3)  
+[Inte] 11 (+3)  
 [Prcp] 16 (+5)  
 [Empy] 7 (+2)  
 
-**Languages**: Shishpara don't speak.
+**Languages**: Extaoroi don't speak, but can perform trilled calls to communicate in the most basic manner to others.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
