@@ -1,22 +1,22 @@
-### Animate Skeleton
+### Nekroktonai
 Created by necromancy or some powerful dark magic, animate skeltons are not always malicious. Their collective noun is a rattling.
 
 **Creature Type**: Animate Skeletons are undead.
 
 **Size**: Animate Skeletons stand between 4 and 6 feet. They can weigh between 50 and 90 pounds. They are medium creatures.
 
-**Undeath**: An animate skeleton has 90 points of undeath.
+**Undeath**: A nekroktonai has 45 points of undeath.
 
 **Attributes**:  
 [Body] 9 (+3)  
 [Fort] 12 (+4)  
-[Rflx] 15 (+5)  
+[Rflx] 18 (+6)  
 [Will] 9 (+3)  
 [Inte] 10 (+3)  
 [Prcp] 11 (+3)  
 [Empy] 6 (+2)  
 
-**Languages**: Animate Skeletons don't speak.
+**Languages**: Nekroktonai don't speak.
 
 **Run Speed**: It may run up to 5 yards per move.
 
@@ -95,6 +95,8 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 **Mindless**: Animate skeletons do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
 **Barebone Senses**: The skeleton is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch.
+
+**Tentaculi**: It has eight tentacles which it can use as arms. All of them are off hands. It cannot gain any benefit from using more hands than a manfolk would (for example being able to use more than two hands on a sword) unless otherwise noted. This can allow it to wield up to four two-handed weapons. It will typically use at least two for motive power. It cannot use more of them as limbs at a time than its [Rflx] bonus (minimum of 1). Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage.
 
 -----
 
