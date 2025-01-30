@@ -3,7 +3,7 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 
 **Creature Type**: Nekroktonai are undead.
 
-**Size**: Nekroktonai stand between 2-3 feet tall depending on the spines used. They can weigh between 520 and 30 pounds. They are small creatures.
+**Size**: Nekroktonai stand between 2-3 feet tall depending on the spines used. They can weigh between 20 and 30 pounds. They are small creatures.
 
 **Undeath**: A nekroktonai has 45 points of undeath.
 
