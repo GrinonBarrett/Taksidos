@@ -20,7 +20,7 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 
 **Run Speed**: It may run up to 4 yards per move.
 
-**Climb speed**: It may swim up to 2 yard per move, presuming it is reasonable terrain to do so.
+**Climb speed**: It may climb up to 2 yard per move, presuming it is reasonable terrain to do so.
 
 **Swim speed**: It may swim up to 2 yard per move, presuming the water isn’t too rough.
 
