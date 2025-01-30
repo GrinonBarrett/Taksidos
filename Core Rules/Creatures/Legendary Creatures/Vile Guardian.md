@@ -96,7 +96,7 @@ Created by the necromancer Mokxiros himself to guard his resting place, this is 
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Barebone Senses**: It is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch.
+**Barebone Senses**: It is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. *It is capable of sight out to 25 yards, but only on its left and right sides*.
 
 **Twisted Detection**: During any encounter involving the Vile Guardian, it *knows the exact location of any non-mindless creature with a lower turn order than itself and the location of any undead creature*.
 
