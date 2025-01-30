@@ -32,7 +32,7 @@ Created by the necromancer Mokxiros himself to guard his resting place, this is 
 
  • Powerful Bones: While brawling with a foe; the limbs of a nekroktonai may inflict cutting, piercing, or crushing attacks instead.
 
- • Bite: It may bite a foe within 1 yard to inflict a biting attack.
+ • Bite: It may bite a foe within 1 yard to inflict a biting attack with advantage.
 
 ---------------------
 
