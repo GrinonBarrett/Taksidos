@@ -1,5 +1,5 @@
 ### Nekroktonai
-A monstrosity invented by a demented necromancer. These things are constructed by taking the spines of eight similarly sized spinal columns, a skull of the crafter's artistic choice, and a joint for which they can all connect. Their collective noun is a rattling.
+A monstrosity invented by a demented necromancer. These things are constructed by taking the spines of eight similarly sized spinal columns, a skull of the crafter's artistic choice, and a joint for which they can all connect. They are known for being sprightly and aggressive. They are terrifying groups. The plural is Nekroktonoi. Their collective noun is a puticulum.
 
 **Creature Type**: Nekroktonai are undead.
 
@@ -9,14 +9,14 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 
 **Attributes**:  
 [Body] 9 (+3)  
-[Fort] 12 (+4)  
+[Fort] 15 (+5)  
 [Rflx] 18 (+6)  
 [Will] 9 (+3)  
 [Inte] 10 (+3)  
 [Prcp] 11 (+3)  
 [Empy] 6 (+2)  
 
-**Languages**: Nekroktonai don't speak.
+**Languages**: Nekroktonai don't speak, but might make gnashing or clicking sounds.
 
 **Run Speed**: It may run up to 4 yards per move.
 
@@ -26,7 +26,13 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 
 **Unarmed Attacks**;
 
- • Smack: The skeleton may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
+ • Smack: It may use a limb or random object against a foe within 2 feet. This is a melee bare attack.
+
+ • Scratch: It may use a limb to inflict a melee cutting attack with disadvantage against a foe within 1 foot.
+
+ • Sharp Bones: While brawling with a foe, the limbs of a nekroktonai may inflict cutting, piercing, or dagger attacks instead.
+
+ • Bite: It may bite a foe within 1 foot to inflict a biting attack.
 
 ---------------------
 
@@ -46,13 +52,11 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 |                            |        |                    |        |                            |       |
 | **Acid**                   | 15     | **Fire**           | 14     | **Psychic**                | 18    |
 | **Cold**                   | 22     | **Force**          | 12     | **Toxic**                  | 26    |
-| **Crushing**               | 13     | **Ki**             | 14     | **Radiant**                | 13    |
-| **Cutting**                | 16     | **Necrotic**       | 16     | **Sonic**                  | 15    |
+| **Crushing**               | 13     | **Ki**             | 13     | **Radiant**                | 13    |
+| **Cutting**                | 16     | **Necrotic**       | 20     | **Sonic**                  | 15    |
 | **Electrical**             | 14     | **Piercing**       | 18     | **Biting**                 | 16    |
 |                            |        |                    |        |                            |       |
 | **Unlisted Damage Type**   | 16     |                    |        | **Undamaging**             | 14    |
-
-
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -96,13 +100,19 @@ A monstrosity invented by a demented necromancer. These things are constructed b
 
 **Barebone Senses**: The nekroktonai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch.
 
-**Unnatural Detection**: The nekroktonai *knows the exact location of any non-mindless creature with a higher turn order than itself*.
+**Unnatural Detection**: During any encounter involving the nekroktonai, it *knows the exact location of any non-mindless creature with a higher turn order than itself*.
+
+**Wrestler**: The nekroktonai is proficienct in the wrestling skill.
 
 **Tentaculi**: It has eight tentacles which it can use as arms. All of them are off hands. It cannot gain any benefit from using more hands than a manfolk would (for example being able to use more than two hands on a sword) unless otherwise noted. This can allow it to wield up to four two-handed weapons. It will typically use at least two for motive power. It cannot use more of them as limbs at a time than its [Rflx] bonus (minimum of 1). Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage.
 
 **Wrapping Limbs**: The nekroktonai gains a +2 bonus to parry attempts it performs. It also ignores shields with its melee attacks.
 
+**Octopacing**: The nekroktonai needs two of its limbs for movement. For each additional limb it devotes to the task, it run speed is increased by 1 yard, its climb speed is increased by 1 foot, and its swim speed is increased by half a foot.
+
+**Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
+
 -----
 
-***Creating an Animate Skeleton***: It is possible for one to use the Animate spell to create an animate skeleton from a reletively fleshless skeleton if it is cast as a 3rd tier or greater. On a critical success, the animate skeleton will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for 1d4-1 hours per point of success. On a critical failure, the skeleton is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
-The skeleton is fully animate 1d12 rounds after the spell completes.
+***Creating an Animate Skeleton***: It is possible for one to use the Animate spell to create a nekroktonai if it is cast as a 2nd tier or greater. This requires the caster have the proper items gathered. This includes the joint, which must either be crafted by the caster or well studied. On a critical success, it will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in- but this only lasts for 1d4 hours, multiplied by the spell tier, per point of success. On a critical failure, it is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+It is is fully animate 1d4+1 rounds after the spell completes.
