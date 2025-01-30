@@ -87,7 +87,7 @@ Created by the necromancer Mokxiros himself to guard his resting place, this is 
 
 #### Special Features
 
-**Undead Nature**: As an undead creature, tit has a few advantages:  
+**Undead Nature**: As an undead creature, the vile guardian has a few advantages:  
 **-** It does not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
 **-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
