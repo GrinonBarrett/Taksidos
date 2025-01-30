@@ -56,7 +56,7 @@ Created by the necromancer Mokxiros himself to guard his resting place, this is 
 | **Cutting**                | 16     | **Necrotic**       | 20     | **Sonic**                  | 15    |
 | **Electrical**             | 14     | **Piercing**       | 18     | **Biting**                 | 16    |
 |                            |        |                    |        |                            |       |
-| **Unlisted Damage Type**   | 16     |                    |        | **Undamaging**             | 14    |
+| **Unlisted Damage Type**   | 16     |                    |        | **Undamaging**             | 15    |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
