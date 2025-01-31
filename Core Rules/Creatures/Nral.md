@@ -1,11 +1,11 @@
-### Bear, Common
-Borne of a world of shadows, these creatures only exist in our world when summoned by a mage. The knowledge of how to conjure and control these beings seems to only ever pass through the hands of suspicious magicians.
+### Nral
+Borne of a world of shadows, these creatures only exist in our world when summoned by a mage. The knowledge of how to conjure and control these beings seems to only ever pass through the hands of suspicious magicians. Though there is little detail to make out in their body, each of them possesses a unique silhouette. Their collective noun is a conjurum.
 
-**Creature Type**: Bears are Ephemera.
+**Creature Type**: Nrals are Ephemera.
 
-**Size**: Bears stand 4'11" to 9'10" tall toe-to-head, standing between 2'5" and 3'3" at the shoulder. They can weigh between 330 and 440 pounds. They are medium creatures.
+**Size**: Nrals stand 4' to 7' tall. Theyhave no actual weight, but weigh 25 pounds for the purpose of magical effects. They are medium creatures.
 
-**Hitpoints**: A bear has 3 hitpoints.
+**Hitpoints**: A nral has 3 hitpoints.
 
 **Attributes**:  
 [Body] 15 (+5)  
@@ -16,17 +16,21 @@ Borne of a world of shadows, these creatures only exist in our world when summon
 [Prcp] 10 (+3)  
 [Empy] 9  (+3)  
 
-**Languages**: Bears don't speak.
+**Languages**: Nrals don't speak.
 
 **Run Speed**: It may run up to 4 yards per move.
+
+**Climb Speed**: It may climb up to 2.5 yards, presuming it is reasonable terrain to do so.
 
 **Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Claw: The bear may use its claws to strike a foe within 1 yard. This is a melee cutting attack.
+ • Claw: It may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
 
- • Bite: The bear may perform a single bite against a foe within 1 foot. This is a melee bite attack.
+ • Bite: It may perform a single bite against a foe within 1 yard. This is a melee bite attack.
+
+ • Grasp: It may reach out through the shadows against a foe not in bright light within 1 foot. This is a melee necrotic attack. If a critical success, it does not inflict the traditional critical effect and is instead is considered to have that creature grappled. It can grapple ephemera.
 
 -----
 
@@ -54,7 +58,7 @@ Borne of a world of shadows, these creatures only exist in our world when summon
 
 -----
 
-**Ephemeral Nature**: Frozen spectres do not have a phsyical form. As such they   
+**Ephemeral Nature**: Nrals do not have a phsyical form. As such they   
  • Do not need to eat, sleep, or breathe.  
  • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
@@ -62,7 +66,7 @@ Borne of a world of shadows, these creatures only exist in our world when summon
  • Cannot be healed except through rest.  
  • Have advantage on saves against effects which would grapple, restrain, or make them prone unless it specifies that they affect ephemera.
 
-**Shadowy**: ??? are creatures of shadow and as a result possess a few traits which make them difficult to deal with;    
+**Shadowy**: Nrals are creatures of shadow and as a result possess a few traits which make them difficult to deal with;    
 The exist in a plane of existence outside of traditionally visible wavelengths, this means they may only exist in a constant state of darkness.  
  • It is unaffected by lighting and always sees as though it were fair light.  
  • Non-magical forms of damage have no effect on it.  
@@ -78,3 +82,6 @@ The exist in a plane of existence outside of traditionally visible wavelengths, 
  • Immunity to incapacitation. Instead, it is destroyed by a magical attack received when it has no hitpoints.   
  • It recieves wounds but no effect from them.
 
+ **Screeching Pursuit**: When the nral performs a sprint to close the distance with another creature, it may use its reaction to loose a haunting scream. Anything which can hear the scream must succeed a DV 15 [Will] save or flee in terror from the Nral.
+
+ **Dark Stride**: If the nral is not in bright light, it has a flight speed of 9 yards. It cannot enter bright light using this movement.
