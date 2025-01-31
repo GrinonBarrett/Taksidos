@@ -939,7 +939,21 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
 
-### N
+### N (1 
+
+#### Nralling
+
+**Minimum Tier**: 3
+
+**Casting Time**: 15 rounds
+
+**Range**: 3 yards
+
+**Effect**: You conjure an entity from a shadowy realm known as a Nral. It materializes within range. You may command it psychically for 3 minutes. Afterwards, it will no longer be bound by the spell and becomes hostile. It ceases to be after 3 minutes or when it would be destroyed normally.
+
+**At Higher Tiers**: For each tier beyond minimum, the Nral's hitpoints are increased by 1. Additionally the time it exists under your purview and the time it exists afterwards is increased by a minute each. The casting time is increased by 2 rounds for each tier beyond minimum.
+
+**Critical Failure**: The spell seems to function as normal, but it only remains subservient to you for a number of rounds equal to your [Magic] bonus minus the spell's tier (minimum of 1 round).
 
 ### O (1
 
@@ -1325,7 +1339,6 @@ You may concentrate on this spell when you cast it, forfeiting actions to do so.
 **At Higher Tiers**: Each tier beyond minimum increases the spheres size, allowing it to reach out an additional yard from you.
 
 **Critical Failure**: The sphere forms as normal, but does not move with you. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of necrotic attacks against you equal to the tier of the spell. An immunity to the harm of necrotic damage does not protect you from this, but instead has the attacks made with disadvantage.
-
 
 #### Unrest for Undeath
 
