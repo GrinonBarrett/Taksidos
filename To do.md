@@ -64,7 +64,6 @@ MORE SPELLS!
 Jander (makes sick and visibly unappealing)  
 Jolling (slows a creature's run speed by hindering limbs)
 * Add a thought capture spell?
-* Add a spell that summons a shadowy minion. The minion is like a mindless ephemeral bear which inflicts necrotic attacks, resists certain attacks (bare, necrotic, toxic, acid, and cold), is weak against certain damage types (ki, radiant, and psychic), and can receive telpathic commands from the summoner.
 * Create a spell that allows warding of a specified creature type from an area.
 * A spell that sends a telpathic message to  a recipient, but can allow a conversation at higher levels.
 * A spell that sends a telpathic message to any number of knkon creatures within range.
