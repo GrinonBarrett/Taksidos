@@ -3,7 +3,7 @@ Borne of a world of shadows, these creatures only exist in our world when summon
 
 **Creature Type**: Nrals are Ephemera.
 
-**Size**: Nrals stand 4' to 7' tall. Theyhave no actual weight, but weigh 25 pounds for the purpose of magical effects. They are medium creatures.
+**Size**: Nrals stand 4' to 7' tall. They have no actual weight, but weigh 25 pounds for the purpose of magical effects. They are medium creatures.
 
 **Hitpoints**: A nral has 3 hitpoints.
 
@@ -82,6 +82,6 @@ The exist in a plane of existence outside of traditionally visible wavelengths, 
  • Immunity to incapacitation. Instead, it is destroyed by a magical attack received when it has no hitpoints.   
  • It recieves wounds but no effect from them.
 
- **Screeching Pursuit**: When the nral performs a sprint to close the distance with another creature, it may use its reaction to loose a haunting scream. Anything which can hear the scream must succeed a DV 15 [Will] save or flee in terror from the Nral.
+ **Screeching Pursuit**: When the nral performs a sprint to close the distance with another creature, it may use its reaction to loose a haunting scream. Anything which can hear the scream must succeed a DV 15 [Will] save or flee in terror from the Nral. Other Nrals are immune to this.
 
  **Dark Stride**: If the nral is not in bright light, it has a flight speed of 9 yards. It cannot enter bright light using this movement.
