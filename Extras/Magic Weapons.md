@@ -141,7 +141,7 @@ If name is known, *it can also inflict an additional acid attack when the user p
 
 **The Malachite Mace** (*unique*)  
 $12,800 , 4.25 lbs.  
-Mace
+Mace  
 An eathern handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
 
 **Palladius** (*unique*)  
