@@ -109,6 +109,13 @@ $7,7500 , 2.5 lbs.
 Flail  
 A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious signifigance.
 
+**Kalavurne** (*unique*)  
+$15,800 , 4 lbs.  
+Morningstar  
+A morning star notable for the twisted base of its spikes. When the user presses attack and the attack is a critical hit, *it also inflicts the effect of a critical sonic attack*.
+
+If name is the user may also sinply choose to apply this to a single attack they make each round.
+
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
 Pole Axe  
