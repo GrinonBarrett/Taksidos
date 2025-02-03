@@ -16,6 +16,7 @@ Next update:
 * Will add Mothman?!
 * Make a Tessarifterotoi, a four winged dragon like creature.
 * Add a few real diseases.
+* Add the insects which infect people's minds. May use it as an introduction to the concept of diseases that exist on the paychic plane.
 
 Also, at some point soon, make the failed alchemical cycle:  
 * Massaconfusar. A being composed of jet black solids linked by a thick smoke. It consumes matter.
