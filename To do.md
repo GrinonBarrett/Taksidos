@@ -4,7 +4,6 @@ For this update:
 * Create a serpentine ooze creature.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 * Add a spell beginning with J
-* Add a magic sword that turns slain creatures into a simple slime creature.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
