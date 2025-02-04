@@ -22,7 +22,7 @@ Though related, these creatures are often mistaken for dragons. They are sometim
 
 -----
 
-**Hitpoints**: A mountain lurker has 2 hitpoints.
+**Hitpoints**: A mountain lurker has 3 hitpoints.
 
 **Attributes**:  
 [Body] 17 (+5)  
