@@ -30,7 +30,7 @@ Also known as the catbat, for its resemblences to the two. They have the general
 |   16   | Hostility (3) | It is defending its territory. |
 |  17-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
 |   19   | Hunger (2)    | It would prefer to snag a diminutive creature. |
-|   20   | Hunger (3)    | It is actively hunting and you have distrubed it. It will settle for a bite of you. |
+|   20   | Hunger (3)    | It is actively hunting and you have disturbed it. It will settle for a bite of you. |
 
 -----
 
@@ -68,7 +68,7 @@ Also known as the catbat, for its resemblences to the two. They have the general
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 9 |    |     | **Undamaging** | 11 |
 
-**Table**: *Wound Allocation* {Fix Later}
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |

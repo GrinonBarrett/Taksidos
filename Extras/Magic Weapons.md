@@ -109,6 +109,13 @@ $7,7500 , 2.5 lbs.
 Flail  
 A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious signifigance.
 
+**Kalavurne** (*unique*)  
+$15,800 , 4 lbs.  
+Morningstar  
+A morning star notable for the twisted base of its spikes. When the user presses attack and the attack is a critical hit, *it also inflicts the effect of a critical sonic attack*.
+
+If name is the user may also sinply choose to apply this to a single attack they make each round.
+
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
 Pole Axe  
@@ -132,9 +139,16 @@ $16,000 , 3.5 lbs.
 Longbow  
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
 
+**Matridha** (*unique*)  
+$34,000 , 3.5 lbs.  
+Longsword  
+A fairly well made sword with a sinister aura about it. Anytime it inflicts a critical hit *it also inflicts the effect of a critical acid attack. Any creature other than an ephemera, elemental, or infigura which is slain by the sword or its acidic effects is consumed by the acids and broken down into a creature which functions as a Jeel with two exceptions. Firstly that it weighs half as much as whatever the slain creature weighed. Secondly, it cannot be distilled into the same compound*.
+
+If name is known, *it can also inflict an additional acid attack when the user presses attack*.
+
 **The Malachite Mace** (*unique*)  
 $12,800 , 4.25 lbs.  
-Mace
+Mace  
 An eathern handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
 
 **Palladius** (*unique*)  
