@@ -7,4 +7,4 @@ Yuvran (radiant war mage type role)
 Abriar (druid)  
 Nekromanteir  
 Night Champion (Luncerun equivalent to Yuvran but nomadic)  
-Madness Reaver (I(llusionists that lose their sanity but become much better at their trade as a result)
+Madness Reaver (Illusionists that lose their sanity but become much better at their trade as a result)
