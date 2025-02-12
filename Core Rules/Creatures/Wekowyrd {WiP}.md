@@ -38,68 +38,68 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 14     | **Maul** | 13     | **Bolt** | 14    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 15     |
-| **Hand Axe**               | 14     | **Madu** | 14     | **Chakram** | 15    |
-| **Katar**                  | 14     | **Javelin** | 14  | **Arquebus** | 13    |
+| **Club**                   | 16     | **Pole Axe**       | 13     | **Arrow, Bodkin Point**    | 14    |
+| **Longsword**              | 14     | **Greatsword**     | 13     | **Arrow, Broadhead**       | 14    |
+| **Mace**                   | 14     | **Maul**           | 13     | **Bolt** | 14    |
+| **Spear**                  | 14     | **Pike**           | 13     | **Brusgiata** | 15     |
+| **Hand Axe**               | 14     | **Madu**           | 14     | **Chakram** | 15    |
+| **Katar**                  | 14     | **Javelin**        | 14  | **Arquebus** | 13    |
 | **Dagger**                 | 14     | **Throwing Blade** |  16  | **Musket** | 12    |
-| **Morningstar**            | 14     | **Sling** | 16    | **Tronutonante** | 14    |
+| **Morningstar**            | 14     | **Sling**          | 16    | **Tronutonante** | 14    |
 | **Warpick**                | 14     |          |          |   **Bare** |  21  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 14     | **Fire** | 14     | **Psychic** | 19     |
-| **Cold**                   | 14     | **Force** | 14     | **Toxic**  | 145     |
-| **Crushing**               | 14     | **Ki** | 15     | **Radiant** | 14     |
-| **Cutting**                | 14     | **Necrotic** | 13     | **Sonic** | 14    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 14    |
+| **Acid**                   | 14     | **Fire**           | 14     | **Psychic** | 19     |
+| **Cold**                   | 14     | **Force**          | 14     | **Toxic**  | 145     |
+| **Crushing**               | 14     | **Ki**             | 15     | **Radiant** | 14     |
+| **Cutting**                | 14     | **Necrotic**       | 13     | **Sonic** | 14    |
+| **Electrical**             | 14     | **Piercing**       | 14     | **Biting** | 14    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 14 |                          |     | **Undamaging** | 14 |
 
 
 
 **Table**: *Mutation Chart* 
-| Result | **Name of Wound** | Effects                                                        |
+| Result | **Description** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
-|   2    | Crippled          | It's swim speed is halved until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Concussion      | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   6    | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Glancing Blow     | No ill effects _this time_.                                     |
-|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Appendage         | Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
-|   11   | Glancing Blow     | No ill effect. |
-|   12   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
-|   13   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
-|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   18   | Mistsack Rupture  | If the source of the wound is within 5 yards, it is subject to an acid attack. |
-|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   20   | Defender's choice |                                   |
-|   21   | Glancing Blow     | No ill effect. |
-|   22   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
-|   23   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
-|   24   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   25   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   26   | Glancing Blow     | **Biased wound**. No effect. |
-|   27   | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   28   | Mistsack Rupture  | If the source of the wound is within 5 yards, it is subject to an acid attack. |
-|   29   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   30   | Defender's choice |                                   |
-|   31   | Glancing Blow     | No ill effect. |
-|   32   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
-|   33   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
-|   34   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   35   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   36   | Glancing Blow     | **Biased wound**. No effect. |
-|   37   | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   38   | Mistsack Rupture  | If the source of the wound is within 5 yards, it is subject to an acid attack. |
-|   39   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   40   | Defender's choice |                                   |
+|   2    | Voidbeing         | The wekowyrd's current and maximum hitpoints are tripled. When the wekowyrd is destroyed, it will become a Voidar. All space within a number of miles equal to its maximum hitpoints cease to exist as a result of the matter collapsing inwards to create the new being.      |
+|   3    |      | All magic within a number of miles equal to the wekowyrds maximum health multiplied by its current health ceases to function for 1 minute. |
+|   4    |       |  |
+|   5    |      |  |
+|   6    |   |  |
+|   7    |     |  |
+|   8    |      |                                     |
+|   9    |      |  |
+|   10   |        |  |
+|   11   |    |  |
+|   12   |  |  |
+|   13   |         |  |
+|   14   |        |  |
+|   15   |         |  |
+|   16   |    |  |
+|   17   |    |  |
+|   18   |   |  |
+|   19   |   |  |
+|   20   |  |                                   |
+|   21   |   | |
+|   22   |  | |
+|   23   |         |  |
+|   24   |      |  |
+|   25   |     |   |
+|   26   |   |  |
+|   27   |      |  |
+|   28   |  | |
+|   29   |   |  |
+|   30   |  |                                   |
+|   31   |    |  |
+|   32   |  |  |
+|   33   |         |  |
+|   34   |       |  |
+|   35   |      |   |
+|   36   |     |  |
+|   37   |     |  |
+|   38   |   |  |
+|   39   |  |  |
+|   40   |  |                                   |
 |        |                                                |                                   |
 
 -----
@@ -114,7 +114,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Reactionary Mutation**: Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation.
 
-**Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 10 miles.
+**Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles.
 
 It may levitate up to 5 yards per move so long as it is not dazed.
 
