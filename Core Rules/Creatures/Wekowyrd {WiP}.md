@@ -67,7 +67,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   5    |      |  |
 |   6    |   |  |
 |   7    |     |  |
-|   8    |      |                                     |
+|   8    |      |      |
 |   9    |      |  |
 |   10   |        |  |
 |   11   |    |  |
@@ -79,7 +79,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   17   |    |  |
 |   18   |   |  |
 |   19   |   |  |
-|   20   |  |                                   |
+|   20   | Grow Limb | The wekowyrd develops a new limb. This limb can be used to strike a foe within 7 yards to inflict a bare attack. If it strikes a smaller foe, it may treat it as a club attack instead. |
 |   21   |   | |
 |   22   |  | |
 |   23   |         |  |
@@ -98,8 +98,8 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   36   |     |  |
 |   37   |     |  |
 |   38   |   |  |
-|   39   |  |  |
-|   40   |  |                                   |
+|   39   |  | The wekowyrd's maximum hitpoints are 8ncreased by 5 and it restores 1d4. |
+|   40   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations. The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. Have fun. |
 |        |                                                |                                   |
 
 -----
