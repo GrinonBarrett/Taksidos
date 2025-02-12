@@ -2,7 +2,6 @@
 For this update:
 
 * Finish Languages.
-* Create a serpentine ooze creature.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 * Add a spell beginning with J
 
@@ -10,7 +9,6 @@ Next update:
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
 * Create 2 more greater serviles (One is a knight, and another is a clay golem like entity)
 * Create dough type monster.
-* Create the Wekowyrd, an Everforming Eldritch Horror capable of mutating or regenerating in battle. Doing so will force counterspell checks out to a great distance against anyone casting a spell. Its counterspell bonus is equal to its current HP and its current wounds. A possible mutation of it is to increase HP.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday or a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
 * Will add Mothman?!
