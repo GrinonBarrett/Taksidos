@@ -7,7 +7,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Size**: The form of a wekowyrd is an unsual mass of bodily components. The exact dimensions of it varies from each, as does their weight. They weigh between 400-1500 pounds. They are great creatures.
 
-**Hitpoints**: A wekowyrd has 6 hitpoints.
+**Hitpoints**: A wekowyrd has 16 hitpoints.
 
 **Attributes**:  
 [Body] 16 (+5)  
