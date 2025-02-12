@@ -78,9 +78,9 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   16   |    |  |
 |   17   |    |  |
 |   18   |   |  |
-|   19   |   |  |
+|   19   | Muscular Growth | The wekowyrd's [Body] score is increased by 1. Adjust the bonus if appropriate.  |
 |   20   | Grow Limb | The wekowyrd develops a new limb. This limb can be used to strike a foe within 7 yards to inflict a bare attack. If it strikes a smaller foe, it may treat it as a club attack instead. |
-|   21   |   | |
+|   21   |   | The wekowyrd recovers a single hitpoint. |
 |   22   |  | |
 |   23   |         |  |
 |   24   |      |  |
@@ -98,7 +98,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   36   |     |  |
 |   37   |     |  |
 |   38   |   |  |
-|   39   |  | The wekowyrd's maximum hitpoints are 8ncreased by 5 and it restores 1d4. |
+|   39   |  | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
 |   40   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations. The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. Have fun. |
 |        |                                                |                                   |
 
@@ -112,7 +112,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
 
-**Reactionary Mutation**: Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation.
+**Reactionary Mutation**: Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times.
 
 **Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles.
 
