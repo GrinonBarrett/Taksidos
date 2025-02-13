@@ -1,49 +1,34 @@
 ### Nakasidh
-A flying serpent which electricutes foes it grapples so it can rip them apart.
+A flying serpent which electricutes foes it grapples so it can rip them apart. Plural is nakasidin.
 
-**Creature Type**: Shishpara are Avian.
+**Creature Type**: Nakasidin are Insects
 
-**Size**: Shishpara tend to be between 11'5" to 14'9" in length, and frequently stand between 4'1" to 5'9" meters. They have a wing span 15% greater than their length. The average male will weigh only 130 pounds, while the average female will weigh about 165 pounds. They are medium creatures.
+**Size**: Nakasidin are between 3-4' in length with a wingspan of 2 yards. They weigh about 25 pounds. They are small creatures.
 
 **Hitpoints**: A shishpara has 2 hitpoints.
 
 **Attributes**:  
-[Body] 12 (+4)  
+[Body] 8 (+2)  
 [Fort] 9 (+3)  
-[Rflx] 12 (+4)  
+[Rflx] 13 (+4)  
 [Will] 9 (+3)  
 [Inte] 9 (+3)  
-[Prcp] 16 (+5)  
-[Empy] 7 (+2)  
+[Prcp] 9 (+3)  
+[Empy] 5 (+1)  
 
-**Languages**: Shishpara don't speak.
-
-**Table**: *Creature's Reaction*
-| Result | **Emotion and Intensity** | Notes        |
-|--------|-------------------|----------------------------------------------------------------|
-|        |                                                |                                   |
-|   1-3  | Curiosity (1) | The shishpara is exploring the area. |
-|   4-6  | Amicability (1)  | The shishpara is going about its business. |
-|   7    | Hostility (3) | The shishpara is agitated by mating season. |
-|   8    | Fear (1)      | Something has startled it. |
-|  9-11  | Hostility (1) | It is keeping an eye on the adventurers. |
-|  12-14 | Hostility (2) | It seems a bit territorial. |
-|   15   | Hostility (3) | It is defending its territory. |
-|  16-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|    19  | Hunger (2)    | It would prefer to snag a small animal. |
-|   20   | Hunger (3)    | The shishpara will try to rip something apart to eat. |
+**Languages**: Nakasidin don't speak.
 
 -----
 
-**Run Speed**: It may run up to 2.5 yards per move.
+**Run Speed**: It may run up to 1 yard per move.
 
-**Flying Speed**: If it is not prone, it may fly up to 11 yards per move. If must fly at least 6 yards per round to remain airborne. If it is not prone, it may hover.
+**Flying Speed**: If it is not prone, it may fly up to 10 yards per move. If must fly at least 3 yards per round to remain airborne.
 
 **Unarmed Attacks**;
 
- • Beak: The shishpara may use its beak to bite a foe within 1 foot. This is a melee piercing or biting attack.
+ • Claws: The nakasidh may use a claw to strike a foe it is grappling. This is a melee cutting attack.
 
- • Claws: The shishpara may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
+ • Shock: The nakasidh may perform a single shock per ound against a foe it is grappling.This is a melee electric attack.
 
 -----
 
@@ -52,14 +37,14 @@ A flying serpent which electricutes foes it grapples so it can rip them apart.
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
 | **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
-| **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Bare** |   20  |
+| **Longsword**              | 8     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 8     | **Maul** | 12    | **Bolt** | 12    |
+| **Spear**                  | 8     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
+| **Hand Axe**               | 8     | **Madu** | 15     | **Chakram** | 14    |
+| **Katar**                  | 8     | **Javelin** | 12    | **Arquebus** | 10    |
+| **Dagger**                 | 8     | **Throwing Blade** | 16   | **Musket** |  9    |
+| **Morningstar**            | 8     | **Sling** | 16    | **Tronutonante** | 12    |
+| **Warpick**                | 8{}     |  |  |  **Bare** |   20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
 | **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
