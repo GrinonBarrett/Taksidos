@@ -1288,6 +1288,20 @@ Cannot be cast at night.
 
 ### T (2
 
+#### Telekinesis {WiP}
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You magically grasp an object weighing no more than 1 stone (14 pounds) within range. You can move it up to a number of feet equal to the spellcheck's points of success.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
+
+**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not "harmlessly" bounce on impact.
+
 #### Tell Undead
 
 **Minimum Tier**: 3
