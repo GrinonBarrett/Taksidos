@@ -3,9 +3,9 @@ A flying serpent which electricutes foes it grapples so it can rip them apart. P
 
 **Creature Type**: Nakasidin are Insects
 
-**Size**: Nakasidin are between 3-4' in length with a wingspan of 2 yards. They weigh about 25 pounds. They are small creatures.
+**Size**: Nakasidin are between 3-4' in length with a wingspan of 1.5-2 yards. They weigh about 25 pounds. They are small creatures.
 
-**Hitpoints**: A shishpara has 2 hitpoints.
+**Hitpoints**: A nakasidh has no hitpoints.
 
 **Attributes**:  
 [Body] 8 (+2)  
@@ -26,9 +26,9 @@ A flying serpent which electricutes foes it grapples so it can rip them apart. P
 
 **Unarmed Attacks**;
 
- • Claws: The nakasidh may use a claw to strike a foe it is grappling. This is a melee cutting attack.
+ • Claws: The nakasidh may use a claw to strike a foe it is grappling. This is a melee cutting attack. It may only do so twice a round.
 
- • Shock: The nakasidh may perform a single shock per ound against a foe it is grappling.This is a melee electric attack.
+ • Shock: The nakasidh may perform a single shock per ound against a foe it is grappling. This is a melee electric attack.
 
 -----
 
@@ -36,23 +36,23 @@ A flying serpent which electricutes foes it grapples so it can rip them apart. P
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 8     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 8     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 8     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
-| **Hand Axe**               | 8     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 8     | **Javelin** | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 8     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 8     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 8{}     |  |  |  **Bare** |   20  |
+| **Club**                | 10   | **Pole Axe** | 7     | **Arrow, Bodkin Point**    | 10    |
+| **Longsword**              | 8     | **Greatsword** | 7     | **Arrow, Broadhead**       | 10    |
+| **Mace**                   | 8     | **Maul** | 7    | **Bolt** | 10    |
+| **Spear**                  | 8     | **Pike** | 8     | **Brusgiata** | 11     |
+| **Hand Axe**               | 8     | **Madu** | 9     | **Chakram** | 11    |
+| **Katar**                  | 8     | **Javelin** | 7    | **Arquebus** | 10    |
+| **Dagger**                 | 8     | **Throwing Blade** | 10   | **Musket** |  10    |
+| **Morningstar**            | 8     | **Sling** | 11    | **Tronutonante** | 10    |
+| **Warpick**                | 8     |  |  |  **Bare** |   14  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
-| **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
-| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 13     |
-| **Cutting**                | 12     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
+| **Acid**                   | 6     | **Fire** | 7     | **Psychic** | 11     |
+| **Cold**                   | 7     | **Force** | 8     | **Toxic**  | 9     |
+| **Crushing**               | 8     | **Ki** | 8     | **Radiant** | 0     |
+| **Cutting**                | 7     | **Necrotic** | 6     | **Sonic** | 9    |
+| **Electrical**             | 14     | **Piercing** | 9     | **Biting** | 8    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 128 |    |     | **Undamaging** | 11 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -61,34 +61,30 @@ A flying serpent which electricutes foes it grapples so it can rip them apart. P
 |   2    | Crippled          | It's run speed is halved until this wound is healed. Additionally, it cannot use its Tear feature until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
+|   5    | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.     |
 |   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Wing Shot         | Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Glancing Blow     | No ill effect. |
+|   10   | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
-|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   12   | Glancing Blow     | No ill effects. |
 |   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
-|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   14   | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   15   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Glancing Wound    | No effect. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.     |
+|   18   | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
 -----
 
-**Nimble Flight**: While flying, the shishpara adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
+**Nimble Flight**: While flying, the nakasidh adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
 
-**Peck**: As an additional option upon a critical success while brawling, the shishpara may try to strike the foe with its beak to inflict a piercing attack.
+**Four Claws**: The nakasidh has four claws, each is considered an off hand.
 
-**Tear**: As an additional option upon a crtical success while brawling with a creature at least two sizes smaller than itself, the shishpara may inflict a biting attack and a cutting attack.
+**Shocking Grasp**: As an additional option upon a crtical success while brawling with a creature, the nakasidh may loose a surge of electricity against the foe to inflict an electric attack with advantage.
 
-**Keen Eyes**: The shishpara gets a +2 to all [Prcp] checks and saves involving sight.
-
-**Keen Nose**: The shishpara gets a +2 to all [Prcp] checks and saves involving scent.
-
-**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Winged Lunge**: As an action or reaction, a nakasidh may push itself away from a surface or object capable of bearing its weight and perform a small burst of flight. It is treated as performing a jump, with the maximum height and distance doubled. This movement does not count against its limitation on flying in the round.
