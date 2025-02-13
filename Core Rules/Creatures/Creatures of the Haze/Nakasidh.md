@@ -1,20 +1,20 @@
 ### Nakasidh
-A flying serpent which electricutes foes it grapples so it can rip them apart. Plural is nakasidin.
+Small creatures which are only seen in flying swarms that proceed aranidin. These things will fly at a foe, tear at them, and shock them. Plural is nakasidin.
 
-**Creature Type**: Nakasidin are Insects
+**Creature Type**: Nakasidin are Insects.
 
 **Size**: Nakasidin are between 3-4' in length with a wingspan of 1.5-2 yards. They weigh about 25 pounds. They are small creatures.
 
 **Hitpoints**: A nakasidh has no hitpoints.
 
 **Attributes**:  
-[Body] 8 (+2)  
-[Fort] 9 (+3)  
+[Body] 8  (+2)  
+[Fort] 9  (+3)  
 [Rflx] 13 (+4)  
-[Will] 9 (+3)  
-[Inte] 9 (+3)  
-[Prcp] 9 (+3)  
-[Empy] 5 (+1)  
+[Will] 9  (+3)  
+[Inte] 9  (+3)  
+[Prcp] 9  (+3)  
+[Empy] 5  (+1)  
 
 **Languages**: Nakasidin don't speak.
 
@@ -22,7 +22,7 @@ A flying serpent which electricutes foes it grapples so it can rip them apart. P
 
 **Run Speed**: It may run up to 1 yard per move.
 
-**Flying Speed**: If it is not prone, it may fly up to 10 yards per move. If must fly at least 3 yards per round to remain airborne.
+**Flying Speed**: If it is not prone, it may fly up to 13 yards per move. If must fly at least 3 yards per round to remain airborne.
 
 **Unarmed Attacks**;
 
