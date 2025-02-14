@@ -1288,7 +1288,7 @@ Cannot be cast at night.
 
 ### T (3
 
-#### Telekinesis
+#### Telekinesis 
 
 **Minimum Tier**: 3
 
