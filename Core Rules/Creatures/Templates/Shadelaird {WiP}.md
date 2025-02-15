@@ -3,7 +3,7 @@ A being that exists long beyond whatever life they have earned. These creatures 
 
 **Creature Type**: Shadelairds are undead.
 
-**Size**: Tromochtikoi stand between 6'6" and 10' feet. They can weigh between 100 and 400 pounds. They can be medium or large creatures.
+**Size**: Shadelairds stand between 6'6" and 10' feet. They can weigh between 100 and 400 pounds. They can be medium or large creatures.
 
 **Undeath**: A shadelaird has at least 700 points of undeath.
 
@@ -95,6 +95,8 @@ A being that exists long beyond whatever life they have earned. These creatures 
 **Terrifying Presence**: When initiative is rolled, anything else rolling for initiative must succeed a [Will] save with a DV equal to the shadelairds's [Will] score + [Empy] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. A creature which can directly percieve the shadelaird, has no remaining hitpoints, and a [Will] score below the shadelaird is killed by the fear.  
 
 **Menace**: As an action, anything which can perceive the shadelaird must succeed a [Will] save with a DV equal to the shadelairds's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. The shadelaird may use its reaction to impose disadvantage on the save of a creature it can perceive.
+
+**
 
 -----
 
