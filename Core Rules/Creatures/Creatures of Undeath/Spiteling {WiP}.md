@@ -1,32 +1,36 @@
 ### Spiteling
-Phantasms that appear briefly in service to other dark forces. Their exact origin is unknown, but it is claimed they are born of the unresolved spite of the fallen. Their collective noun is a haunt.
+Phantasms that appear briefly in service to other dark forces. Their exact origin is unknown, but it is claimed they are born of the unresolved spite of the fallen and those abandoned by the light. Their collective noun is a haunt.
 
 **Creature Type**: Spitelings are fiends.
 
-**Size**: Frozen spectres appear as they did in life but are weightless.
+**Size**: Spitelings are between 4 and 7 feet. They have no weight. They are medium creatures.
 
-**Undeath**: A frozen spectre has 100 points of undeath.
+**Undeath**: A spitling has 25 points of undeath.
 
 **Attributes**:  
-[Body] 9 (+3)  
-[Fort] 9 (+3)  
+[Body] 8 (+2)  
+[Fort] 8 (+2)  
 [Rflx] 9 (+3)  
-[Will] 9 (+3)  
-[Inte] 4 (+1)  
-[Prcp] 7 (+2)  
-[Empy] 5 (+1)  
+[Will] 8 (+2)  
+[Inte] 5 (+1)  
+[Prcp] 8 (+2)  
+[Empy] 6 (+2)  
 
-**Languages**: Frozen spectres don't speak, but they can moan and wail.
+**Languages**: Spitelings don't speak.
 
-**Hover Speed**: It may float up to 4.5 yards per move.
+**Run Speed**: It my run up to 5 yards per move.
+
+**Climb Speed**: It may float up to 3 yards per move.
 
 **Unarmed Attacks**;
 
- • Ghastly Touch: Any part of the frozen spectre which comes in contact with another creature deals psychic damage. It can reach out to a foe within 1 yard this way.
+ • Slam: The spiteling may strike a foe within 1 yard with a limb, inflicting a bare attack.
+
+• Ghastly Strike: The spiteling may strike a foe it is brawling with, *inflicting a necrotic attack*.
 
 ---------------------
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* 
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
