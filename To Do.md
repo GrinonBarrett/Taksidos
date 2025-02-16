@@ -72,9 +72,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 Hydroform  
 Caster becomes a liquid.
 
-Telekinesis  
-A means of moving objects like a sling, but more powerful depending on tier.
-
 Wall of Denial  
 A wall which can stop ranged missiles and attacks from spells if cast at half or lower tier. Can also potentially stop other magical effects from bypassing. If cast high enough, it can stop siege weapons.
 
