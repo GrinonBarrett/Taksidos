@@ -89,5 +89,6 @@ A sperentine beast which trades a traditional head for a large eye. The tail fea
 * +1 bonus on all [Prcp] checks and saves involving sight.
 * +1 to attack rolls using its ray attack.
 * +1 bonus to its counterspell checks against foe casting a spell.
+* +1 to initiative rolls.
 
 
