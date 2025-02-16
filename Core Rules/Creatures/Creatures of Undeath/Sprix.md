@@ -94,5 +94,6 @@ The ghost of a witch scorned. They haunt an area which may be as small as a home
 
 **Ending a Sprix**: For all of their horror, there are many ways to put one to rest, in addition to reducing its points of undeath to 0.  
 * If the amount of spell sickness it has is equal to its remaining points of undeath, it is destroyed.
+* Destroying the tools and altar, and any other accessories it operated with, to perform magic in its rituals in its life.
 * If it critically fails a counterspell and is afflicted by a ki, necrotic, or radiant attack in the same round.
 * If the source of its spite and hatred has been resolved, with proof presented to it while in its demiethereal form, it will peacefully disintigrate.
