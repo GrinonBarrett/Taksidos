@@ -96,27 +96,34 @@ A being that exists long beyond whatever life they have earned. These creatures 
 
 **Menace**: As an action, anything which can perceive the shadelaird must succeed a [Will] save with a DV equal to the shadelairds's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. The shadelaird may use its reaction to impose disadvantage on the save of a creature it can perceive.
 
-**
+**Grave Magic**: The shadelaird is capable of casting magic using the very power of undeath that animates it. It functions like wyrding with the following exceptions: 
+* It rolls a d20 and adds its horrorism to its roll to determine the check result.
+* On a success, it loses points of undeath equal to the spell's tier instead of gaining spell sickness.
+* On a failue, it loses points of sucess equal to the points of failure or spell's tier (whichevever is higher).
+* On a critical failure, it loses points of undeath equal to the points of failure multiplied by the tier of the spell.
+* When completing the spell, it may roll any number of d8s. It loses points of undeath equal to the result, but gains a +1 bonus to its check for die rolled this way.  
 
------
+This is in addition to any other spellcasting methods it has.
 
-**Breath Weapon**: The tromochtikai can exhude a devastating breath weapon as an action. This has two primary effects.  
-1) It prodocus a neon green flame which extends in a 40 yard line, which is .5 yards high and wide. It can sweep its head back and forth to instead produce a 30 yard cone. Anything caught within is subject to a fire attack and then a necrotic attack.
-2) *A noxious gas is emitted in a 40 yard cone which lasts for 1d4+4 rounds*. Anything in the area at the time the breath weapon is exhaled and anything which starts and ends a round in it is subject to a necrotic attack. Additionally, if a creature with no hitpoints started and ended its turn in the area, it is subject to a toxic attack.  
-The tromochtikai may opt to spend any number of phases continuing to exhale the breath weapon, expending any actions during appropriate phases and being unable to perform any reactions while doing so. It can still move during the appropriate phases.  
+**Horrorism**: THe shadelaird has a bonus to certain features. THis functions exactly as Heroism for player characters, though the value is determined by the manner in which this template is used.
 
-Once finished with it, the tromochtikai rolls a number of d12s to datermine how long must pass before it may perform its breath weapon again equal to the number of phases it used the breath weapon. Each odd result is measured in hours, while each even result is measured in minutes.
+**Nercrotic Magics**: Anytime the shadelaird inflicts an attack as a result of a spell, it may alter it to be a necrotic attack. If it was already a necrotic attack, it may alter it to be one of the following attcks instead (Handaxe, Mace, Biting, Acid, Cold, Electric, FIre, Toxic). If it does so while possessing spell sickness, it must use its reaction to do so or accrue an additional point of spell sickness.
 
-**Flare Burst**: *Once per encounter, the tromochtikai may loose a small burst of energy akin to its breath weapon. It spews a foot in diameter sphere out to a target within 50 yards. Everything within 2 yards of the impact point is subject to the attack type chosen by the tromochtikai from the following (Fire, Necrotic, Radiant). If the flare impacts against a creature, it is also subject to a Toxic attack*.
-
-**Spell-like Ability**: The tromochtikai has a single spell *it may cast once per encounter. Its tier cannot exceed the [Will] bonus of the tromochtikai. The tromochtikai does not need to make a check and is sonsidered to have a number of points of success equal to its [Will] score + 1d6, which may produce a critical success*.
+**Dark Shield**: Anytime the shadelaird is attacked, it may use its reaction to take on 1d4 points of spell sickness. If it does, it gains a bonus to defense against that attack equal to the result and loses an equal number of points of undeath.
 
 -----
 
 #### Shadelairds as Creatures
 The shadelaird gains an additional 100 points of undeath for every hitpoint the base creature would have had.  
-They are also treated as being 5th level in a class of the your choice. Count the total hitpoints from the base creature AND the class combined for determining the extra points of undeath. It even retains the heroisim feature, though this should be renamed to Horrorism.
+They are also treated as being 5th level in a class of the your choice. Count the total hitpoints from the base creature AND the class combined for determining the extra points of undeath. It exchanges its Heroism for Horrorism, but the values are the same as a fifth level character of the chosen class. A shadelaird jester would lower their Horroism in place of their Heroism for example. THey also gain the following:
 
-#### SHadelairds as Characters
-Not recommended at all.  
-The character still progresses
+**Magical Knowledge**: A shadelaird knows 9 basic spells and 2 legendary spells. This is in addition to any spells learned from other methods.
+
+**Skills**: The shadelaird knows a number of skills it possessed in life, plus its [Inte] bonus.
+
+**Weapon training**: The shadelaird retains all weapon training it had in life, and has a total number of additional levels of training to distribute as it wishes equal to the greater of its [Rflx] bonus or [Body] bonus.
+
+#### Shadelairds as Characters
+>***Not* recommended at all**<  
+The character still progresses as normal. When they would receive extra hitpoints for leveling, they are converted to additional points of undeath as noted above. It exchanges its Heroism for Horrorism, but the values are the same as the heroism for its level. A shadelaird jester would lower their Horroism in place of their Heroism for example.  
+The wound chart is replaced with that of a shadelaird, even if it did not previously use one. All Biased attacks of the previous wound chart overwrite the entires on the new chart to produce a new wound chart for the character.
