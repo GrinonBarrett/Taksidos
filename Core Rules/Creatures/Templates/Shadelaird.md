@@ -124,6 +124,6 @@ They are also treated as being 5th level in a class of the your choice. Count th
 **Weapon training**: The shadelaird retains all weapon training it had in life, and has a total number of additional levels of training to distribute as it wishes equal to the greater of its [Rflx] bonus or [Body] bonus.
 
 #### Shadelairds as Characters
->***Not* recommended at all**<  
+***Not* recommended at all**  
 The character still progresses as normal. When they would receive extra hitpoints for leveling, they are converted to additional points of undeath as noted above. It exchanges its Heroism for Horrorism, but the values are the same as the heroism for its level. A shadelaird jester would lower their Horroism in place of their Heroism for example.  
 The wound chart is replaced with that of a shadelaird, even if it did not previously use one. All Biased attacks of the previous wound chart overwrite the entires on the new chart to produce a new wound chart for the character.
