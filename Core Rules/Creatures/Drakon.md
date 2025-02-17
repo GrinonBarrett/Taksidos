@@ -60,13 +60,13 @@ A sperentine beast which trades a traditional head for a large eye. The tail fea
 |   1    | Attacker's Choice |                                                                |
 |   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   4    | Lost Head         | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   4    | Lost Head         | Drakon loses a head. |
 |   5    | Glancing Blow     | No ill effect. |
 |   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects _this time_.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Beat Up           | It loses an additional hitpoint. |
+|   10   | Glancing Blow     | No ill effects.                                         |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
@@ -74,7 +74,7 @@ A sperentine beast which trades a traditional head for a large eye. The tail fea
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Tail Shot         | Until this wound is healed, it suffers a -1 to all checks and saves involving balance. |
+|   18   | Tail Shot         | It loses 1d4-1 hitpoints. Until this wound is healed, it cannot use its Fire Jet ability. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -85,10 +85,24 @@ A sperentine beast which trades a traditional head for a large eye. The tail fea
 
 **Replacing Heads**: If the drakon's head is removed- it does not perish. Instead, it will grow 2 new heads. These finish forming 1d6+1 rounds after the head is lost (roll sepertely for each). If the stump is scarred by acid, fire, or necrotic damage (or some other means of shaping flesh) before a new head can grow, it can prevent this.
 
+**Super Eyes**: Each of the eyes is capable of moving independently. Each eye is capable of detecting magic with its gaze. It is also capable of seeing a broader spectrum than the human eye (330-870 nm) due to their pentachroma, allowing it to see into the infrared. Furthermore, it is capable of seeing into the psychic and ethereal planes. Additionally, each eye is capable of two attacks, a toxic spurt and a ray.
+
+**Toxic Spurt**: The fluid used to keep the eye moist can be propelled from the fluid sack once per encounter. This is an unarmed ranged acid attack.
+
+**Ray**: Once per encounter, for each eye, it can produce a ray attack. In place of rolling a d20, it rolls 1d8+1d10. The attack type is determined by the d8 result;
+1. Force
+2. Fire
+3. Radiant
+4. Ki
+5. Electrical
+6. Ki
+7. Sonic
+8. Ki
+
 **Multiple Heads**: The drakon gets the following benefits for each head beyond the first it possesses  
 * +1 bonus on all [Prcp] checks and saves involving sight.
 * +1 to attack rolls using its ray attack.
 * +1 bonus to its counterspell checks against foe casting a spell.
 * +1 to initiative rolls.
 
-
+**Fire Jet**: Drakons are capable of propelling a line of flames, as an action, from their tail. The line is 5 yards long and is a quarter foot high and wide. Anything caught within the line suffers a Fire attack. Once it has used this ability, it cannot do so again until if finishes a long or full rest.
