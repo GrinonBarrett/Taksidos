@@ -26,7 +26,7 @@ A sperentine beast which trades a traditional head for a large eye. The tail fea
 
  • Tail: The drakon may use its tail to strike a foe within 5 yards. This is a melee bare attack. If the foe is more than 2 size categories smaller, it may treat it as a force attack instead.
 
- • Slam: The brachiosaurus may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
+ • Slam: It may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
 
 -----
 
