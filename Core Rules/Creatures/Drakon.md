@@ -1,5 +1,5 @@
 ### Drakon
-A sperentine beast which trades a traditional head for a large eye. The tail features a tiny mouth and can breath fire. It can potentially shoot a venomous liquid from its eye ducts. The "heads" are really just glorified eyestalks. It consumes its food using the tail. Its center of mass contains all vital organs including its central brain, but each of its heads contains a small brain-like organ that aids the processing of visual information. Their collective noun is a stare.
+A serpentine beast which trades a traditional head for a large eye. The tail features a tiny mouth and can breath fire. It can potentially shoot a venomous liquid from its eye ducts. The "heads" are really just glorified eyestalks. It consumes its food using the tail. Its center of mass contains all vital organs including its central brain, but each of its heads contains a small brain-like organ that aids the processing of visual information. Their collective noun is a stare.
 
 **Creature Type**: A drakon is a drakomadeia.
 
