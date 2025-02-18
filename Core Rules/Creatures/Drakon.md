@@ -3,7 +3,7 @@ A serpentine beast which trades a traditional head for a large eye. The tail fea
 
 **Creature Type**: A drakon is a drakomadeia.
 
-**Size**: Drakons tend to be about 30-50 feet in length, stand about two-thirds as high, and weigh between in excess of 500 pounds. They are great creatures.
+**Size**: Drakons tend to be about 30-50 feet in length, stand about two-thirds as high, and weigh in excess of 500 pounds. They are great creatures.
 
 **Hitpoints**: A drakon has 5 hitpoints.
 
