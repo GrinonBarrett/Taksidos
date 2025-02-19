@@ -26,27 +26,27 @@ A phantasm created by one intense dread and worry over a lifetime, released when
 
 ---------------------
 
-**Table**: *Attack versus Creature* {Fix later}
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 13     | **Pole Axe**       | 13     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 13     | **Greatsword**     | 13     | **Arrow, Broadhead**    | 13    |
-| **Mace**                   | 13     | **Maul**           | 13     | **Bolt** | 13    |
-| **Spear**                  | 13     | **Pike**           | 13     | **Brusgiata** | 13     |
-| **Hand Axe**               | 13     | **Madu**           | 13     | **Chakram** | 13    |
-| **Katar**                  | 13     | **Javelin**        | 13     | **Arquebus** | 13    |
-| **Dagger**                 | 13     | **Throwing Blade** | 13     | **Musket** | 13    |
-| **Morningstar**            | 13     | **Sling**          | 13     | **Tronutonante** | 13    |
-| **Warpick**                | 13     |                    |        | **Bare** |  18 |
+| **Club**                   | 12     | **Pole Axe**       | 12     | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 12     | **Greatsword**     | 12     | **Arrow, Broadhead**    | 12    |
+| **Mace**                   | 12     | **Maul**           | 12     | **Bolt** | 12    |
+| **Spear**                  | 12     | **Pike**           | 12     | **Brusgiata** | 12     |
+| **Hand Axe**               | 12     | **Madu**           | 12     | **Chakram** | 12    |
+| **Katar**                  | 12     | **Javelin**        | 12     | **Arquebus** | 12    |
+| **Dagger**                 | 12     | **Throwing Blade** | 12     | **Musket** | 12    |
+| **Morningstar**            | 12     | **Sling**          | 12     | **Tronutonante** | 12    |
+| **Warpick**                | 12     |                    |        | **Bare** |  17 |
 |                            |           |          |            |         |            |
-| **Acid**                   | 13     | **Fire** | 13     | **Psychic** | 12     |
-| **Cold**                   | 13     | **Force** | 13     | **Toxic**  | 13     |
-| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 12     |
-| **Cutting**                | 13     | **Necrotic** | 15     | **Sonic** | 13    |
-| **Electrical**             | 13     | **Piercing** | 13     | **Biting** | 13    |
+| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 14     |
+| **Cold**                   | 11     | **Force** | 11     | **Toxic**  | 12     |
+| **Crushing**               | 11     | **Ki** | 11     | **Radiant** | 10     |
+| **Cutting**                | 11     | **Necrotic** |  9     | **Sonic** | 11    |
+| **Electrical**             | 11     | **Piercing** | 11     | **Biting** | 11    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 13 |   |    | **Undamaging** | 15 |
+| **Unlisted Damage Type** | 12 |   |    | **Undamaging** | 16 |
 
 
 ### Special Features
