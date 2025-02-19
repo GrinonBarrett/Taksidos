@@ -22,7 +22,7 @@ A phantasm created by one intense dread and worry over a lifetime, released when
 
 **Unarmed Attacks**;
 
- • Ghastly Touch: Any part of the anisconai which comes in contact with another creature inflicts a psychic. It can reach out to a foe within 1 yard this way.
+ • Ghastly Touch: Any part of the anisconai which comes in contact with another creature inflicts a psychic attack. It can reach out to a foe within 1 yard this way.
 
 ---------------------
 
