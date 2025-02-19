@@ -85,7 +85,7 @@ A serpentine beast which trades a traditional head for a large eye. The tail fea
 
 **Replacing Heads**: If the drakon's head is removed- it does not perish. Instead, it will grow 2 new heads. These finish forming 1d6+1 rounds after the head is lost (roll sepertely for each). If the stump is scarred by acid, fire, or necrotic damage (or some other means of shaping flesh) before a new head can grow, it can prevent this.
 
-**Super Eyes**: Each of the eyes is capable of moving independently. Each eye is capable of detecting magic with its gaze. It is also capable of seeing a broader spectrum than the human eye (330-870 nm) due to their pentachroma, allowing it to see into the infrared. Furthermore, it is capable of seeing into the psychic and ethereal planes. Additionally, each eye is capable of two attacks, a toxic spurt and a ray.
+**Super Eyes**: Each of the eyes is capable of moving independently, allowing them to rotate their vision. This occurs when rotations would during the round. The drakon can rotate their vision during the same or different phases that they rotate their body. Their eyes may each only rotate up to 90 degrees left or right per phase. Each eye is capable of detecting magic with its gaze. It is also capable of seeing a broader spectrum than the human eye (330-870 nm) due to their pentachroma, allowing it to see into the infrared. Furthermore, it is capable of seeing into the psychic and ethereal planes. Additionally, each eye is capable of two attacks, a toxic spurt and a ray.
 
 **Toxic Spurt**: The fluid used to keep the eye moist can be propelled from the fluid sack once per encounter. This is an unarmed ranged acid attack.
 
