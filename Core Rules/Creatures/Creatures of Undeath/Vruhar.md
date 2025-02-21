@@ -5,7 +5,7 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
 
 **Size**: Vruhain can take many phantasmal forms, but often appear like capes of shadow adorned with lengthy clawed arms and glowing eyes in their mass. They are small creatures of no weight.
 
-**Undeath**: An anisconai has 40 points of undeath.
+**Undeath**: A vruhar has at least 40 points of undeath.
 
 **Attributes**:  
 [Body] 8  (+2)  
@@ -58,12 +58,18 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
  • Are not affected by spells which would affect flesh or physically manipulate them.  
  • Are not subject to incapacitation saves.  
  • Cannot be healed except through rest.  
- • Have advantage on saves against effects which would grapple, restrain, or make the anisconai prone unless it specifies that they affect ephemera.
- • Physical objects are completely passable by the ???, but consume three times as much movement.  
- • The Anisconai is not subject to the whims of gravity and can retain its position (relatively speaking).   
- • Non-magical forms of damage have no effect on the ???.  
- • The Anisconai cannot be grappled, restrained, or made prone by any non-magical means.  
+ • Have advantage on saves against effects which would grapple, restrain, or make the Vruhar prone unless it specifies that they affect ephemera.
+ • Physical objects are completely passable by the Vruhar but consume three times as much movement.  
+ • The Vruhar is not subject to the whims of gravity and can retain its position (relatively speaking).   
+ • Non-magical forms of damage have no effect on the Vruhar.  
+ • The Vruhar cannot be grappled, restrained, or made prone by any non-magical means.  
 
-**Depress Minds**: Anytime the Anisconai rolls for initiative, each non-mindless creature which also rolls for initiative *is subject to a psychic attack. In place of inflicting a wound, it inflicts 1d4+1 points of inebriation and leaves the subject sad as long as they possess points of inebriation*.
+**Vruhar's Grasp**: Anytime the vruhar attacks a foe with spell-sickness with its ghastly touch, it gains a 2d4 bonus against that foe with its psychic attack. If it gains this benefit and the attack is successful against the foe, that foe loses a point of spell sickness. It also ignores the penalty to attacking a creature it is grappling.
 
-**Sweeping Grasp**: When attacking with its ghastly touch attack, the anisconai cleave. It will do so if multiple creatures are within range for it. This is the only time it uses its reaction.
+**Sweeping Grasp**: When attacking with its ghastly touch attack, the vruhar may cleave. It will do so if multiple creatures are within range for it. It does not inflict a neceotic attack as a result of the cleave, only a psychic attack against each applicable foe.
+
+**Dreadspell"*: Anytime the vruhar would be targeted by a spell, its caster gains a point of spell sickness. Additionally, the vruhar is capable of identifying a spell by any creature it can perceive. It can also counterspell a spell cast by a creature which it can perceive.
+
+**Archeon**: Anytime a creature with 100 yards receives any spell sickness, the Vruhar recovers an equal number of points of undeath. If a creature is killed while grappled by the Vruhar, it increases the Vruhar's maximum points of undeath by an amount equal to the points of spell sickness possessed by the slain creature.
+
+**Light Vulberability**: In bright and fair light, the vruhar loses its ability to pass through material objects. Furthermore, non-magical forms of damage can afflict a vruhar in bright light but have disadvantage. It also loses benefit of its Archeon feature.
