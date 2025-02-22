@@ -123,8 +123,8 @@ A shorter head than is typical of poleaxes mounts the shaft of his weapon. Follo
 If name is known, a critical hit with this weapon may also *inflict a cold attack*.
 
 **Kuluzh** (*unique*)  
-$10,000 , 6 lbs
-Greatsword
+$10,000 , 6 lbs  
+Greatsword  
 Reach is 2.5 yards. This blade is wide in form compared to traditional proportions. Attacks made with the sword have a *+1 bonus*.
 
 If name is known, this bonus is *increased to 1d4 against a foe with no remaining hitpoints. This does not affect a creature of undeath*.
@@ -139,8 +139,8 @@ $16,000 , 3.5 lbs.
 Longbow  
 A yew bow which features silver dust in the grain and brass accents. It can be pulled back by a user capable of casting wyrdings to *produce a missile of light it can loose just as it would an arrow. This is a radiant attack. The missile can be held by the bow so long as the user keeps the string pulled back, but this can strain the user's muscles of course. The missile emits dim light out for 1 yard. The user may also ease the tension to safely make the missile disappear from existence*.
 
-**Maladictor*" (*unique*)  
-$100,000 , 5.5 lbs.  
+**Maladictor** (*unique*)  
+$90,780 , 5.5 lbs.  
 Pole Axe  
 A bardiche which once belonged to a vile soul. *Any humanoid creature or playable species other than an elemental, fiend, infigura, or undead slain by the weapon will produce a Spiteling which obeys the possessor of the weapon. Once the weapon leaves their possession, the spiteling(s) will turn on their creator*.
 
