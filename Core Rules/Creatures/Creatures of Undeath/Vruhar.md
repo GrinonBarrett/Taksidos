@@ -72,4 +72,10 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
 
 **Archeon**: Anytime a creature with 100 yards receives any spell sickness, the Vruhar recovers an equal number of points of undeath. If a creature is killed while grappled by the Vruhar, it increases the Vruhar's maximum points of undeath by an amount equal to the points of spell sickness possessed by the slain creature.
 
-**Light Vulberability**: In bright and fair light, the vruhar loses its ability to pass through material objects. Furthermore, non-magical forms of damage can afflict a vruhar in bright light but have disadvantage. It also loses benefit of its Archeon feature.
+**Light Vulberability**: In bright and fair light, the vruhar loses its ability to pass through material objects. Furthermore, non-magical forms of damage can afflict a vruhar in bright light but have disadvantage. It also loses benefit of its Archeon feature. The vruhar sees in bright light as though it were darkness.
+
+**Darkvision**: The vruhar can see in dim light and dark ess as though they were vright light.
+
+**Shadow Stride**: So long as it is in darkness, its movement speed is trupled  In dimlight, its movement speed is instead doubled.
+
+**Startling Speed**: Once per encounter, as an action or reaction, the barmpasow may perform a movement.
