@@ -51,7 +51,7 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
 
 ### Special Features
 
-**Ephemeral Nature**: Anisconoi do not have a phsyical form. As such they   
+**Ephemeral Nature**: Vruhain do not have a phsyical form. As such they   
  • Do not need to eat, sleep, or breathe.  
  • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
@@ -64,7 +64,7 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
  • Non-magical forms of damage have no effect on the Vruhar.  
  • The Vruhar cannot be grappled, restrained, or made prone by any non-magical means.  
 
-**Vruhar's Grasp**: Anytime the vruhar attacks a foe with spell-sickness with its ghastly touch, it gains a 2d4 bonus against that foe with its psychic attack. If it gains this benefit and the attack is successful against the foe, that foe loses a point of spell sickness. It also ignores the penalty to attacking a creature it is grappling.
+**Vruhar's Grasp**: Anytime the vruhar attacks a foe with spell-sickness with its ghastly touch, it gains a 1d4 bonus against that foe with its psychic attack. If it gains this benefit and the attack is successful against the foe, that foe loses a point of spell sickness. It also ignores the penalty to attacking a creature it is grappling.
 
 **Sweeping Grasp**: When attacking with its ghastly touch attack, the vruhar may cleave. It will do so if multiple creatures are within range for it. It does not inflict a neceotic attack as a result of the cleave, only a psychic attack against each applicable foe.
 
