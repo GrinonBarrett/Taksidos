@@ -60,6 +60,13 @@ $400,000, 55 lb.
 A full suit of plate armor made with volcanic glass in addition to the standard materials. *The wearer is affected as though by a molten form spell while worn, though it is still considered to wear plate. The suit cannot be safely removed unless the armor is supressed by a Disimpress spell of 3rd tier or greater or some other magic nullifying effect*.
 Cost to repair is $1,000 per point.
 
+**Planar Plates**, $125,000, 40 lb.  
+Plate  
+3/5  
+A full suit of plate armor made of materials which cannot be wholly gathered on the material plane. The armor itself is not bypassed by *ephemeral creatures* or by the innate ability of creatures from the ethereal and/or psychich planes to ignore material forms of protection, as this armor also partially exists on the those planes and has been affixed with proper warding sigils. Additionally, it provides a +4 bonus to defense against psychic attacks.  
+On the ethereal and psychic planes, the armor is considered to be half of its weight.  
+Cost to repair is $625 per point and can only be done by one with a very special set of tools.
+
 **Robe of the Nomad**  
 Unarmored  
 $24,500 , 4 lbs.  
