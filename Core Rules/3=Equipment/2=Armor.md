@@ -16,7 +16,7 @@ Anytime an attack result is the exact result required to strike the wearer, the 
 Impaired armor is damaged in such a manner as to cause lessor harm and great discomfort to the wearer. One donning impaired armor has a -1 penalty to attack rolls, skill checks, and saves. Once the armor has become impaired, it may only receive so much more damage before it is also rendered useless.
 
 ##### Useless Armor
-When wearing armor which is useless, an attacker may choose whether to treat you as being unarmored or gain a +2 bonus to their attack against you. Armor rendered useless cannot be repaired and can be sold as scrap for 10% of its value to an armorer if you are lucky.
+When wearing armor which is useless, an attacker may choose whether to treat you as being unarmored or gain a +2 bonus to their attack against you using the armor's default defense. Armor rendered useless cannot be repaired and can be sold as scrap for 10% of its value to an armorer if you are lucky.
 
 **Armor Classification**  
 Name, Cost, Weight  
