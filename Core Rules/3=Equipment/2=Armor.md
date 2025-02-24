@@ -73,7 +73,7 @@ Cost to repair is $100 per point.
 **Drakon's Plate**  
 $39,800 , 32 lbs.  
 2/4  
-Using tanned dragon hide, stegosaurus plates, membrane of the the eztaorai, silk of the upersu, and scales of a drakon- this armor's value is derived from the rarity of material and the skill demanded for its craftsmanship. The wearer gains a +1 bonus to defense against exotic damage types if not vulnerable.
+Using tanned dragon hide, stegosaurus plates, membrane of the the eztaorai, silk of the upersu, and scales of a drakon- this armor's value is derived from the rarity of material and the skill demanded for its craftsmanship. The wearer gains a +1 bonus to defense against exotic damage types if not vulnerable.  
 Costs $775 to repair.
 
 ### Plate
