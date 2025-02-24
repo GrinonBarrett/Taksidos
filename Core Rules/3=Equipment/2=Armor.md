@@ -9,7 +9,6 @@ Armor, for the sake of this game is divided into 6 classifications:
 -**C**uirass. This represents partial forms of plate armor, proper cuirass, and similar segmented armors of rigid material- like the lorica.  
 -**P**late. A full suit of plate armor or other wholly protective designs. It is not uncommon to incorporate portions of mail and/or gambeson in its form.
 
-
 #### Damage to Armor
 Anytime an attack result is the exact result required to strike the wearer, the exact result required to inflict a critical hit, or within a single point of such, it will damage the armor. When the armor has been damaged a certain number of times (dictated by the armor itself), it is impaired. Damage can be repaired.
 
@@ -27,7 +26,6 @@ Repair cost
 Special features  
 Special creatures which may use it  
 
-
 ### Gambeson
 
 **Paltock**, $250, 11 lb  
@@ -39,7 +37,6 @@ Cost to repair is $50. Someone with experience in textiles could repair it thems
 2/3  
 Made of hardened leather, it usually is worn with thick clothing underneath. It also includes a vest. It is expensive to repair as whole pieces of the armor have to be replaced.  
 Cost to repair is $85.  
-
 
 ### Brigandine
 
@@ -72,6 +69,12 @@ Cost to repair is $90 per point.
 2/4  
 Functioning as a sort of light plate suit which extends only to cover the most vital areas. the entire suit can be easily stored for its mass.  
 Cost to repair is $100 per point.
+
+**Drakon's Plate**  
+$39,800 , 32 lbs.  
+2/4  
+Using tanned dragon hide, stegosaurus plates, membrane of the the eztaorai, silk of the upersu, and scales of a drakon- this armor's value is derived from the rarity of material and the skill demanded for its craftsmanship. The wearer gains a +1 bonus to defense against exotic damage types if not vulnerable.
+Costs $775 to repair.
 
 ### Plate
 
