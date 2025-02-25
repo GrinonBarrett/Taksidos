@@ -1,5 +1,5 @@
 ### MOUNTAIN LURKER
-Though related, these creatures are often mistaken for dragons. They are sometimes called mountain devils. They subsist on gold ores, but will glady eat the pure stuff. They need only an ounce of gold a day, but often fill their diets with a combination of gemstone ores and proteins. They produce large netwroks of caverns in the mountains and below, filling them with chambers as they mine. A mountain lurker does not need to breathe, but is capable of smelling and detecting oxygen, which is needed for its breath weapon. Their collective noun is a Hive.
+Though related, these creatures are often mistaken for dragons. They are sometimes called mountain devils. They subsist on gold ores, but will glady eat the pure stuff. They need only an ounce of gold a day, but often fill their diets with a combination of gemstone ores and proteins. They produce large networks of caverns in the mountains and below, filling them with chambers as they mine. A mountain lurker does not need to breathe, but is capable of smelling and detecting oxygen, which is needed for its breath weapon. Their collective noun is a Hive.
 
 **Creature Type**: Mountain Lurkers are Darkomadiea.
 
