@@ -8,7 +8,7 @@ A somewhat slender body features a fore pair and aft pair of wings. Its claws ca
 **Hitpoints**: A Tessariftoraoi has 2 hitpoints.
 
 **Attributes**:  
-[Body] 13 (+3)  
+[Body] 13 (+4)  
 [Fort] 11 (+3)  
 [Rflx] 12 (+4)  
 [Will] 10 (+3)  
