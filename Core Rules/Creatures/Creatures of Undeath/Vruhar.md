@@ -58,7 +58,7 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
  • Are not affected by spells which would affect flesh or physically manipulate them.  
  • Are not subject to incapacitation saves.  
  • Cannot be healed except through rest.  
- • Have advantage on saves against effects which would grapple, restrain, or make the Vruhar prone unless it specifies that they affect ephemera.
+ • Have advantage on saves against effects which would grapple, restrain, or make the Vruhar prone unless it specifies that they affect ephemera.  
  • Physical objects are completely passable by the Vruhar but consume three times as much movement.  
  • The Vruhar is not subject to the whims of gravity and can retain its position (relatively speaking).   
  • Non-magical forms of damage have no effect on the Vruhar.  
