@@ -5,6 +5,7 @@ For this update:
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 * Add a spell beginning with J
 * Create a Grigori, a fiendish giant creature.
+* Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
