@@ -68,14 +68,14 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
 
 **Sweeping Grasp**: When attacking with its ghastly touch attack, the vruhar may cleave. It will do so if multiple creatures are within range for it. It does not inflict a neceotic attack as a result of the cleave, only a psychic attack against each applicable foe.
 
-**Dreadspell"*: Anytime the vruhar would be targeted by a spell, its caster gains a point of spell sickness. Additionally, the vruhar is capable of identifying a spell by any creature it can perceive. It can also counterspell a spell cast by a creature which it can perceive.
+**Dreadspell**: Anytime the vruhar would be targeted by a spell, its caster gains a point of spell sickness. Additionally, the vruhar is capable of identifying a spell by any creature it can perceive. It can also counterspell a spell cast by a creature which it can perceive.
 
-**Archeon**: Anytime a creature with 100 yards receives any spell sickness, the Vruhar recovers an equal number of points of undeath. If a creature is killed while grappled by the Vruhar, it increases the Vruhar's maximum points of undeath by an amount equal to the points of spell sickness possessed by the slain creature.
+**Archeon**: Anytime a creature within 100 yards receives any spell sickness, the Vruhar recovers an equal number of points of undeath. If a creature is killed while grappled by the Vruhar, it increases the Vruhar's maximum points of undeath by an amount equal to the points of spell sickness possessed by the slain creature.
 
-**Light Vulnerability**: In bright and fair light, the vruhar loses its ability to pass through material objects. Furthermore, non-magical forms of damage can afflict a vruhar in bright light but have disadvantage. It also loses benefit of its Archeon feature. The vruhar sees in bright light as though it were darkness.
+**Light Vulnerability**: In bright and fair light, the vruhar loses its ability to pass through material objects. It also loses benefit of its Archeon feature. Furthermore, non-magical forms of damage can afflict a vruhar in bright light but have disadvantage. The vruhar sees in bright light as though it were darkness.
 
 **Darkvision**: The vruhar can see in dim light and darkness as though they were bright light.
 
 **Shadow Stride**: So long as it is in darkness, its movement speed is trupled  In dimlight, its movement speed is instead doubled.
 
-**Startling Speed**: Once per encounter, as an action or reaction, the barmpasow may perform a movement.
+**Startling Speed**: Once per encounter, as an action or reaction, the vruhar may perform a movement.
