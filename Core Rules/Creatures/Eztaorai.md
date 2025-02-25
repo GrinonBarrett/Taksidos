@@ -1,9 +1,9 @@
 ### Eztaorai
-These four winged monsters appear to have a frame like a pteransaurid. They possess seven slender tails which each bear a small plume of colorful feathers to adorn their otherwise drab coloration. They are opptunist predators that aren't above scavenging a corpse from another's hunt. The plume of their tails hides a paralytic venom they use to escape from predators, but not for hunting. They are rarely seen in groups larger than 5 but are equally likely to be solitary hunters. The plural is Eptaoroi. Their collective noun is a Spry.
+These four winged monsters appear to have a frame like a pteransaurid. They possess seven slender tails which each bear a small plume of colorful feathers to adorn their otherwise drab coloration. They are opportunist predators that aren't above scavenging a corpse from another's hunt. The plume of their tails hides a paralytic venom they use to escape from predators, but not for hunting. They are rarely seen in groups larger than 5 but are equally likely to be solitary hunters. The plural is Eztaoroi. Their collective noun is a Spry.
 
 **Creature Type**: Eztaoroi are Avian.
 
-**Size**: Eztaoroi tend to be between 7' to 8' in length, not including an additional yard for their tails. Their wingspan is 20-22.5 feet. They stand about 15' tall when standing on their wings as strikers, but spend most of their time on the ground laying down and resting. They weight 55-68 pounds. They are medium creatures.
+**Size**: Eztaoroi tend to be between 7' to 8' in length, not including an additional yard for their tails. Their wingspan is 20-22.5 feet. They stand about 15' tall when standing on their wings as strikers, but spend most of their time on the ground laying down and resting. They weigh 55-68 pounds. They are medium creatures.
 
 **Hitpoints**: An eztaorai has a single hitpoint.
 
