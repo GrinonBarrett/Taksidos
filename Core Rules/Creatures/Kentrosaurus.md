@@ -26,7 +26,7 @@ An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found
 
  • Slam: The kentrosaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
- • Thagomizer: The kentrosaurus may us its tail against any creature behing or two its sides within 2 yards. This is treated as either a melee bare attack or melee piercing attack.
+ • Thagomizer: The kentrosaurus may us its tail against any creature behind or among one of two its sides within 2 yards. This is treated as either a melee bare attack or melee piercing attack.
 
 -----
 
@@ -82,4 +82,4 @@ An evolutionary off-shoot of the stegosaurus, these smaller cousins can be found
 **Thagomizer Precision**: Presuming it is not prone, if a kentrosaurus strikes a foe with its Thagomizer attack, it may use its reaction to inflict an additional piercing attack against the foe.
 
 **Spiked Defense**: If a melee attack is made against the kentrosaurus within 1 yard of the kentrosaurus, it may use its reaction to inflict a piercing attack against that creature. If foe's attack was a critical failure, it gains advantage on its attack.  
-Additionally, a creature of equal or greature size which attempts to brawl or trample the kntrosaurus is subject to a piercing attack.
+Additionally, a creature of equal or greater size which attempts to brawl or trample the kentrosaurus is subject to a piercing attack.
