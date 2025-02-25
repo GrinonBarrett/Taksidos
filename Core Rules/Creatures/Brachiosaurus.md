@@ -24,7 +24,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 
  • Tail: The brachiosaurus may use its tail to strike a foe within 6 yards. This is a melee bare attack. If the foe is more than 2 size categories smaller, it may treat it as a force attack instead.
 
- • Slam: The brachiosaurus may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Slam: The brachiosaurus may use any part of its body to strike a foe within 1 yard. This is a melee force attack.
 
  • Bite: The brachiosaurus may perform a single bite against a foe within 7 yards yard. This is a melee bite attack. It is seldom to do so however.
 
@@ -84,5 +84,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 **Massive**: For every 3 tons of weight, the brachiosaurus has an additional hitpoint. While it has hitpoints, if a wound roll die result is the same as or within 1 step of its current hitpoints, it does not receive a wound. The creature still loses its hitpoint. When attacked by a weapon or unarmed attack by a smaller creature than iself while it has hipoints- if the attack roll result is equal to its current hitpoints or within a number of steps equal to the difference in size category, it does not receive the wound or lose a hitpoint.
 
 **Mighty Slam**: When the brachiosaurus successfully strikes a foe with its slam or tail attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the brachiosaurus knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the brachiosaurus' weight in stones divided by the foe's weight in stones. If the brachiosaurus had a critical success, the foe is also vulnerable while they are prone.
+
+**Show of Strength**: When the brachiosaurus would gain a bonus to their melee attack due to having a higher [Body] score, they may choose to replace their +1 bonus to the attack with a bonus equal to their [Body] bonus. If they do, their foe adds their [Body] bonus to their defense.
 
 **Dense gait**: The brachiosaurus is too dense to swim and instead walks along the surface below. If the brachiosaurus is ever prone and vulnerable, it remains both until it can spend an hour righting itself.
