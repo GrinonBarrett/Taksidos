@@ -133,4 +133,4 @@ Among the alderolvs, there are a few standouts.
 
 **Elfish Resistances**: Alderolves cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
 
-**Unseen Step**: Once per encounter, as an action, the alderalv may *become completely invisible* so long as nothing is looking at it. This lasts until the end of the next round and does not count as an action or reaction.
+**Unseen Step**: Once per encounter, as an action, the alderalv may *become completely invisible* so long as no creature is looking at it when it does so. This lasts until the end of the next round and does not count as an action or reaction.
