@@ -1,5 +1,5 @@
 ### Taraskar
-A man eating monster which can be made timid by a pure maiden. A taraskar will hide in a cave or along a river and venture out to eat a humanoid. They are known for their low profile and incredible reaction speed, among other features. It is known they are docile towards those of pure heart who have never commit violance against another. Their plural is Taraskain. Their collective noun is a provence.
+A man eating monster which can be made timid by a pure maiden. A taraskar will hide in a cave or along a river and venture out to eat a humanoid. They are known for their low profile and incredible reaction speed, among other features. It is known they are docile towards those of pure heart who have never commit violence against another. Their plural is Taraskain. Their collective noun is a provence.
 
 **Creature Type**: Taraskain are Beasts.
 
