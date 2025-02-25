@@ -101,7 +101,7 @@ A somewhat slender body features a fore pair and aft pair of wings. Its claws ca
 
 -----
 
-**Nimble Flight**: While flying, the eztaoraitessariftorai adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
+**Nimble Flight**: While flying, the tessariftorai adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
 
 **Quadrachroma**: Tessariftoroi have 4 chroma in their eyes. As a result they gain a +3 to all [Prcp] checks involving sight.
 
