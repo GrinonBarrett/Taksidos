@@ -1,5 +1,5 @@
 ### Chalcedon
-Appearing like an orb of banded gemstone with four crude arms, these creatures spend their time boring out tunnels in seach of raw ores to consume. Though they do not need to consume to survive, they expand in size by consuming their ores. They can hybernate for up to 100 years. Not typically aggressive, it is possible for them to be territorial on occasion. If a party features large amounts of visible gemstones, there is a 50% chance the chalcedon will be hostile. Their collective noun is a Band.
+Appearing like an orb of banded gemstone with four crude arms (two of which function as legs), these creatures spend their time boring out tunnels in seach of raw ores to consume. Though they do not need to consume to survive, they expand in size by consuming their ores. They can hybernate for up to 100 years. Not typically aggressive, it is possible for them to be territorial on occasion. If a party features large amounts of visible gemstones, there is a 50% chance the chalcedon will be hostile. Their collective noun is a Band.
 
 **Creature Type**: Chalcedons are Elemental creatures.
 
