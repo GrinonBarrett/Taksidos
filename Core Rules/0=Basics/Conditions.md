@@ -25,7 +25,7 @@ A frozen creature can only be so by the effect of magic. The creature is encased
 
   • Does not lose hitpoints as a result of attacks.
 
-  • Is vulnerable.
+  • Is also Immobile.
 
 ##### Hemorrhage
 Also called bleeding. A hemorrhaging character has suffered terrible bleeding externally or internally. At the end of each round, a [Fort] or [Will] save (whichever is lower) must be made with a DV equal to 5 + the number of rounds the character has been hemorrhaging. A success yields no effect. A failure causes the player to immediately incur a point of inebriation. A critical failure causes the player to roll a d4 and apply the result
@@ -37,6 +37,19 @@ Also called bleeding. A hemorrhaging character has suffered terrible bleeding ex
 3 critical successes will end the condition, as can proper medical care. An effect which could restore a wound can remove this conditition instead.
 
 Multiple instances of hemorrhage can be applied to the same creature.
+
+#### Immobile
+An immobilized creature is not capable of any form of movement.
+
+  • Cannot use movement.
+
+  • Cannot perform actions, except for telpathic features.
+
+  • Is also Prone AND Vulnerable.
+
+  • Interactes with all rules of the game as though they had 0 [Rflx].
+
+  • Cannot speak.
 
 ##### Obtunded
 Obtunded creatures are affected by substances or magical effects. It is somewhat impaired and may be a bit sluggish. It suffers several disadvantages: 
@@ -79,7 +92,7 @@ A petrified creature can only be so by the effect of magic. The creature has bec
 
   • Does not lose hitpoints as a result of attacks.
 
-  • Is vulnerable.
+  • Is also Immobile.
 
 ##### Prone
 A prone creature is in a physically disadvantaged position. If it is not prone for a set amount of time, it may use its action or reaction during any action phase to recover if it was able to move during the previous movement phase and chose not to. It suffers several disadvantages: 

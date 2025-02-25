@@ -51,7 +51,7 @@ This concoction requires a whole round to quaff.  During the next round, and for
 For an hour after this potion's effect ends, the imbiber suffers a -1 to all [Fort] checks and saves.
 
 **Panacea**, $18,000, .7 lb.  
-This concoction requires 3 whole rounds to finish. _It recovers your most recent wound immediately. For the next 6 hours, at the end of each hour, the imbiber may make a [Fort] check with a DV equal 20 + the number of current wounds to recover their most recent wound. Additionally, during this time, the imbiber gains a +1 bonus to all [Fort] saves and all forms of toxic attack against the imbiber have disadvantage_.
+This concoction requires 3 whole rounds to finish. _It recovers your most recent wound immediately. For the next 6 hours, at the end of each hour, the imbiber may make a [Fort] check with a DV equal to 16 + the number of current wounds to recover their most recent wound. Additionally, during this time, the imbiber gains a +1 bonus to all [Fort] saves and all forms of toxic attack against the imbiber have disadvantage_.
 
 **Potion of Greatness**, $1,000, .5 lb.  
 This concoction requires 2 whole rounds to drink. Once consumed, the user gains the following benefits for the next hour;  

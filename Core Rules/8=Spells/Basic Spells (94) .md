@@ -1008,7 +1008,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 **Range**: 5 yards
 
 **Effect**: You produce an unstable portal connected to the psychic energy of a non-mindless creature within range. This inflicts a psychic attack against the target that does not wound them (though the effects of a critical hit still occur). Instead, an explosion of psychic energy which extends out a number of yards equal to the spell's tier, inflicting a psychic attack against anything in the explosion other than your target. The attacks gain a bonus equal to the target's [Inte] bonus divided by the number of creatures in the explosion radius other than the target. Attacks from the explosion have disadvantage against mindless creatures unless they are connected to the psychic plane.  
-Regardless of the spell's effect, if it is cast successfully, the caster knows the arget's exact [Inte] score.
+Regardless of the spell's effect, if it is cast successfully, the caster knows the target's exact [Inte] score.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
 
@@ -1286,7 +1286,28 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (2
+### T (3
+
+#### Telekinesis 
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You magically grasp an object weighing no more than 2 stones (28 pounds) within range. You can move it up to a number of feet equal to the spellcheck's points of success.
+
+You may concentrate on the spell, This allows you to move it on movement phases so long as you perform no other actions and maintain concentration. If an object is capable of moving or being moved this way, subtract the macimum distance you can move the object by an amount equal to that movemnt, but the other movement is not applied. If the other movement would be greater than the maximum movement you can move the object- your grasp is broken and you have no affect on the object.
+
+A creature can be moved this way but counts as triple its weight.
+
+**At Higher Tiers**: Each tier beyond minimum can either increase the range, increase the distance the object can be moved, or increase the weight.  
+If increase range, it is increased by a number of yards equal to the spellcheck's point of success.  
+If increasing the distance the object is moved, it is increased by a number of feet equal to the spellcheck's points of success.  
+If increasing the maximum weight of the object moved, the new weight maximum (measured in stones) is equal to 1 + additional tiers devoted this way, squared.
+
+**Critical Failure**: You knockback yourself in the direction you intended to move the object. This is a number of yards equal to the points of failure. You are also subject to a crishing attack with a bonus equal to the spell's tier.
 
 #### Tell Undead
 

@@ -1,5 +1,5 @@
 ### Tessariftorai
-A somewhat slender body features a fore pair and aft pair of wings. Its claws can tuck underneath the wings for a streamlined fomr in the air. Their settlement usually spells doom for local livestock. The plural is Tessariftoroi. Their collective noun is a Den.
+A somewhat slender body features a fore pair and aft pair of wings. Its claws can tuck underneath the wings for a streamlined form in the air. Their settlement usually spells doom for local livestock. The plural is Tessariftoroi. Their collective noun is a Den.
 
 **Creature Type**: Tessariftoroi are drakomadeia.
 
@@ -8,7 +8,7 @@ A somewhat slender body features a fore pair and aft pair of wings. Its claws ca
 **Hitpoints**: A Tessariftoraoi has 2 hitpoints.
 
 **Attributes**:  
-[Body] 13 (+34)  
+[Body] 13 (+4)  
 [Fort] 11 (+3)  
 [Rflx] 12 (+4)  
 [Will] 10 (+3)  
@@ -101,7 +101,7 @@ A somewhat slender body features a fore pair and aft pair of wings. Its claws ca
 
 -----
 
-**Nimble Flight**: While flying, the eztaoraitessariftorai adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
+**Nimble Flight**: While flying, the tessariftorai adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
 
 **Quadrachroma**: Tessariftoroi have 4 chroma in their eyes. As a result they gain a +3 to all [Prcp] checks involving sight.
 

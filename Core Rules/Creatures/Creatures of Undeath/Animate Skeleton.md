@@ -42,7 +42,7 @@ Created by necromancy or some powerful dark magic, animate skeltons are not alwa
 | **Katar**                  | 16     | **Javelin**        | 15     | **Arquebus**               | 16    |
 | **Dagger**                 | 20     | **Throwing Blade** | 21     | **Musket**                 | 15    |
 | **Morningstar**            | 11     | **Sling**          | 21     | **Tronutonante**           | 17    |
-| **Warpick**                | 12     |                    |        | **Bare**        | 21    |   |      |
+| **Warpick**                | 12     |                    |        | **Bare**                   | 21    |
 |                            |        |                    |        |
 | **Acid**                   | 15     | **Fire**           | 13     | **Psychic**                | 18     |
 | **Cold**                   | 22     | **Force**          | 12     | **Toxic**                  | 26     |

@@ -33,7 +33,7 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
-### Hencor (2
+### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
 
 #### Hencor's Needles
@@ -62,7 +62,21 @@ A war wizard of some renown in old texts. Little is known about him and the reco
 
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
-**Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + **x** rounds. Where **x** is the tier of the spell.
+**Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + **x** rounds. Where **x** is the tier of the spell. 
+
+#### Hencor's Ward
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 minute
+
+**Duration**: Minutes equal to the spell check's points of success
+
+**Effect**: You produce a protective field around yoursef. Your minimum defense against attacks is now equal to 3 + double the tier of this spell. If you have armor or another protective feature which would provide a higher defense against an attack than this, use that value instead.
+
+**At higher tiers**: As noted above, increases the minimum defense provided.
+
+**Critical Failure**: You have imprisoned yourself for a number of rounds equal to the points of failure. This leaves you completely Immobile for a number of rounds equal to the points of failure. You still benefit from the spell's protection during this time.
 
 ### Jinora (1
 A diviner of astrological events. Their work is an important study for anyone seeking to provide prophetic capacities to their institution.
@@ -81,7 +95,7 @@ A diviner of astrological events. Their work is an important study for anyone se
 
 **Critical Failure**: The meteor instead targets you. You swear you can see a panicked smile in the flames.
 
-### Kostas (1
+### Kostas (2
 An alchemist and a master of conjury. His influence can be seen in many an chemister's treatise.
 
 #### Kostas' Caustic Cast
@@ -95,6 +109,18 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 **At Higher Tiers**: Each tier beyond its minimum provides a +1 bonus to each attack made by the spell.
 
 **Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
+
+#### Kostas' Insulating Spray
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 Actions
+
+**Effect**: You project a strange faming fluid in a 3 yard cone by flicking out your hands, touching together. Anything within the cone is covered in an insulating material for an hour. Cold, electric, and fire against anything covered in this spray have disadvantage. Additionally, the effect of a creature's Mucous feature is negated while coated this way. Furthermore, a creature affected by this spells suffers a penalty to all [Rflx] checks and saves equal to half of the spell's tier (minimum of -1). The coating can be negated by an acid attack with a value of 13 or greater. Time spent in soapy water dissolves the foam twice as quick.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
+
+**Critical Failure**: You stick together your two limbs used (or one if cast with a single limb) in a concentrated and hardened form of the foam, binding them together until it breaks apart. This lasts for a number of rounds equal to 1 + the spell's tier. You may attempt a [Body] check to break the binding with a DV equal to the spell's tier plus the spell check's points of failure.
 
 ### Liston (3
 A scoundrel who isn't even considered any form of arcanist. He is a thief and a reckless one at that.

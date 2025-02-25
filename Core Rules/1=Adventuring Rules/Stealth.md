@@ -16,7 +16,7 @@ Has not bathed in a month, -3
 Has not bathed in 1-3 weeks, +1  
 Has bathed within the week, +2  
 Has bathed in last couple of days, +4  
-Just cleaned, +6
+Just cleaned, +6  
 Has similar diet to tracker, +2
 
 **Sound**  
