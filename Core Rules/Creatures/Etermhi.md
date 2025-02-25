@@ -64,7 +64,7 @@ Also known as pool spirits, they are attached to natural bodies of water. They c
  • Obstacles that would reduce the speed of it have only half of their normal effect unless they specifically affect amorphous creatures as well.  
  • Anytime a spell would be cast against it that would affect its form, shape, composition, or mental state- it gains a d12 bonus to its saves against that effect.  
  • It cannot be grappled.  
- • While the it has a creature grappled, it can treat that creature as being unarmored for the purpose of attacking it.  
+ • While it has a creature grappled, it can treat that creature as being unarmored for the purpose of attacking it.  
  • It is capable of traveling through any opening small enough to stick one’s fist.  
  • Cannot use armor, shields, or any item.   
  • Receives wounds, but no effect from them.
@@ -73,7 +73,7 @@ Also known as pool spirits, they are attached to natural bodies of water. They c
 
 **Spirit's Pool**: While within its own pool, an etermhi has several benefits;  
  • Swim Speed is tripled.   
- • Can cast the Waterworking spell as awyrding with a +1 bonus to its spell check and counterspell checks equal to +1 per 650 gallons in its pool.  
+ • Can cast the Waterworking spell as a wyrding with a +1 bonus to its spell check and counterspell checks equal to +1 per 650 gallons in its pool.  
  • +2 bonus to all saves against magical effects.
 
 **Water Jet**: The etermhi can use an action or reaction to create a jet of water using water it is touching. This can reach out a number of yards equal to the creature's current hitpoints, with the optimal range being half as far. Treat as a club attack. If using water from the etermhi's pool, treat as a force attack instead.
@@ -85,9 +85,9 @@ Also known as pool spirits, they are attached to natural bodies of water. They c
 * Cure a non-magical disease.
 * Improve Swim speeds by 2 yards for an hour.
 * Cure a magical poison.
-* Inflict a toxic wound.
-* Inflict a ki wound.
-* Inflict a cold wound.
+* Inflict a toxic attack.
+* Inflict a ki attack.
+* Inflict a cold attack.
 * Inflict an acid attack.
 * The creature must perform a [Fort] save with a DV equal to half of the Etermhi’s current hitpoints or be afflicted by the critical hit of an acid attack.
 
