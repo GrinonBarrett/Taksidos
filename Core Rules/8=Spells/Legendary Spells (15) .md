@@ -81,7 +81,7 @@ A diviner of astrological events. Their work is an important study for anyone se
 
 **Critical Failure**: The meteor instead targets you. You swear you can see a panicked smile in the flames.
 
-### Kostas (1
+### Kostas (2
 An alchemist and a master of conjury. His influence can be seen in many an chemister's treatise.
 
 #### Kostas' Caustic Cast
@@ -95,6 +95,18 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 **At Higher Tiers**: Each tier beyond its minimum provides a +1 bonus to each attack made by the spell.
 
 **Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
+
+#### Kostas' Insulating Spray
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 Actions
+
+**Effect**: You project a strange faming fluid in a 3 yard cone by flicking out your hands, touching together. Anything within the cone is covered in an insulating material for an hour. Cold, electric, and fire against anything covered in this spray have disadvantage. Additionally, the effect of a creature's Mucous feature is negated while coated this way. Furthermore, a creature affected by this spells suffers a penalty to all [Rflx] checks and saves equal to half of the spell's tier (minimum of -1). The coating can be negated by an acid attack with a value of 13 or greater. Time spent in soapy water dissolves the foam twice as quick.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
+
+**Critical Failure**: You stick together your two limbs used (or one if cast with a single limb) in a concentrated and hardened form of the foam, binding them together until it breaks apart. This lasts for a number of rounds equal to 1 + the spell's tier. You may attempt a [Body] check to break the binding with a DV equal to the spell's tier plus the spell check's points of failure.
 
 ### Liston (3
 A scoundrel who isn't even considered any form of arcanist. He is a thief and a reckless one at that.
