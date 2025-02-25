@@ -62,7 +62,7 @@ A war wizard of some renown in old texts. Little is known about him and the reco
 
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
-**Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + **x** rounds. Where **x** is the tier of the spell.
+**Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + **x** rounds. Where **x** is the tier of the spell. 
 
 #### Hencor's Ward
 
