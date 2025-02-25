@@ -14,7 +14,7 @@ Described as giant hummingbirds, these creatures are preceded by a deep buzzing 
 |   1-4  | Amicable (1) | The horrornitheus is going about its business. |
 |   5-7  | Curious (1)  | THe horrornitheus is going about its business. |
 |  8-9   | Curiosity (2)     | A rare instance with a horronitheus. |
-|   10   | Amicability (1)  | THe horronitheus is going about its business. |
+|   10   | Amicability (1)  | The horronitheus is going about its business. |
 |  11-13 | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
 |  14-16 | Hostility (2) | It seems a bit territorial. |
 |   17   | Hostility (3) | It is defending its territory. |
