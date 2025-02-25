@@ -20,7 +20,7 @@ Appearing like an orb of banded gemstone with four crude arms (two of which func
 
 **Run Speed**: It may run up to 4 yards per move.
 
-**Climb speed**: It may climb up to 6 yards per move, presuming it is reasonable terrin to do so.
+**Climb speed**: It may climb up to 6 yards per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
