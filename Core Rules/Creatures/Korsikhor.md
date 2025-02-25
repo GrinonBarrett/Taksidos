@@ -39,7 +39,7 @@ Bearing the frame and coat of a horse, an elongated head and toothy beak, the ma
 
 **Swim speed**: You may swim up to 1 yard per move, presuming the water isn’t too rough.
 
-**Flying SPeed**: If it is not prone, it may fly up to 9.5 yards per move. If must fly at least 6 yards per round to remain airborne.
+**Flying Speed**: If it is not prone, it may fly up to 9.5 yards per move. If must fly at least 6 yards per round to remain airborne.
 
 **Unarmed Attacks**;
 
@@ -58,7 +58,7 @@ Bearing the frame and coat of a horse, an elongated head and toothy beak, the ma
 | **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
 | **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
 | **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
+| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |
 | **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
 | **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
 | **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
