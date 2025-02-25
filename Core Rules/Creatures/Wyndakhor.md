@@ -71,3 +71,7 @@ It gains no such benfits of killing Constructs, Elementals, Ephemera, Eldritches
 **Attribute Changes**: The attributes of the wyndakhor is shaped by what it consumes. It loses a number of points in each attribute equal to its current bonus, but gains points equal to the consumed creature's bonus for each attribute appropriately.
 
 **Shapeshifting**: The wyndakhor can transform into a creature it has fully consumed. This require a whole minute. It is vulnerable during this time. While in the form, it functions identically to a member of that creature's stat block. If a wyndakhor in an alternative form would fail an incapacitation save in any degree, it will begin changing into its natural form immediately, which will take a number of rounds equal to 20 minus its [Fort] score. It is vulnerable during this time. If the wyndakhor is made to revert to its natural form this way, it cannot shapeshift until it completes a full rest. If it is not engaged in battle, it can spend an entire minute vulnerable to return to its natural form without penalty.
+
+**Fearless**: The Wyndakhor does not process the emotion of fear and thus is not affected by fear based effects.
+
+**Immunity**: The Wyndakhor cannot be frozen and is not damaged by cold attacks.
