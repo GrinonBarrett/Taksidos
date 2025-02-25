@@ -4,7 +4,7 @@ They are considered the violent defenders of nature- Not something to be reasone
 
 **Creature Type**: Thorons are Plant creatures.
 
-**Size**: Thorons are between 6-9 feet tall (though only 5-6 feet at the shoulders), about 20% longer than their height length, and feature thick legs which could alomst stretch out as wide as their length. They can weigh between 1,000 and 1,200 pounds. They are large creatures.
+**Size**: Thorons are between 6-9 feet tall (though only 5-6 feet at the shoulders), about 20% longer than their height length, and feature thick legs which could almost stretch out as wide as their length. They can weigh between 1,000 and 1,200 pounds. They are large creatures.
 
 **Languages**: Thorons don't speak. They understand other creatures that speak the Fair Tongue.
 
