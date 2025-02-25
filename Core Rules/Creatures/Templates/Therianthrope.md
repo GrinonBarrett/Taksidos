@@ -10,3 +10,5 @@ What exactly causes the transformation varies by curse, though some may even be 
 **Attribute Changes**: The attribute scores of each the base form and the beast form is modified, with each calculated individually. The base form loses a number of points in each attribute equal to its current bonus, but gains points equal to the beast's bonus for each attribute appropriately. Likewise, its beast form loses points in each attribute equal to its bonus but gains points equal to the unmodified bonus of its base form. Once determined, they are applied and cannot be reversed.
 
 **Material Vulnerability**: Often times, this curse is accompanied by a vulnerability to a particular metal, mineral, or other material. Thi varies by curse. Contact with the material will be uncomfortable and any attack from a weapon of that material gets advantage against the therianthrope.
+
+**Reverting Forms**: If a therianthrope in its beast form would fail an incapacitation save in any degree, regardless of whether it dies or any other effect- it will begin changing into its base form immediately if its incapacitation save result was an odd number.
