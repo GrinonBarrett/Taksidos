@@ -1,5 +1,5 @@
 ### Saltsinger
-Elves of the eastern saltflats, they are known for their calling to wanderers and adventurers with various sound and song only to ambush them. They do not leave their homeland under any circumstance and have foiled attempts to establish operations in the flats. Their prefered combat tactic is to pelt foe from afar with missiles and screeches and begin a mass deep chant before the for can close in. An ambushed party will find themselves caught in a circle of deep chanting referred to as the "Saltsinger's Funeral Hymn". Their collective noun is a Chorus.
+Elves of the eastern saltflats, they are known for their calling to wanderers and adventurers with various sound and song only to ambush them. They do not leave their homeland under any circumstance and have foiled attempts to establish operations in the flats. Their prefered combat tactic is to pelt foes from afar with missiles and screeches and begin a mass deep chant before the foe can close in. An ambushed party will find themselves caught in a circle of deep chanting referred to as the "Saltsinger's Funeral Hymn". Their collective noun is a Chorus.
 
 **Creature Type**: Saltsingers are Sylvan.
 
