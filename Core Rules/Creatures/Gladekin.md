@@ -121,9 +121,7 @@ Among the yardkin people, there are a few standouts.
 
 **Gladekin Rangers**: Gladekin rangers have additional training in weapons. Their normal weapon proficiencies are supplemented by proficiency in bows, clubs, spears, pikes, javelins, brusgiata, and slings.
 
-**Gladekin Wardens**: Keepers of the wood. Wardens are capable of performing magic. They typically know the following spells: _Expulsion Sphere_, _Green Ward_, _Thornvalder_, _Oakvalder_, and two more spells. They are also proficient with bows, brusgiata, and clubs in addition to their normal proficiencies.
-
-###### Create the Oakvalder spell. Will be a nature spirit which can be used to potentially heal a creature as a reaction or be used to impose disavantage on an attack by an elemenal, fey, sylvan
+**Gladekin Wardens**: Keepers of the wood. Wardens are capable of performing magic. They typically know the following spells: _Aldervalder_, _Expulsion Sphere_, _Green Ward_, _Thornvalder_, and two more spells. They are also proficient with bows, brusgiata, and clubs in addition to their normal proficiencies.
 
 --------
 
