@@ -1,5 +1,5 @@
 ### Tessariftorai
-A somewhat slender body features a fore pair and aft pair of wings. Its claws can tuck underneath the wings for a streamlined fomr in the air. Their settlement usually spells doom for local livestock. The plural is Tessariftoroi. Their collective noun is a Den.
+A somewhat slender body features a fore pair and aft pair of wings. Its claws can tuck underneath the wings for a streamlined form in the air. Their settlement usually spells doom for local livestock. The plural is Tessariftoroi. Their collective noun is a Den.
 
 **Creature Type**: Tessariftoroi are drakomadeia.
 
