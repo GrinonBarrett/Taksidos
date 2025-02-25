@@ -33,7 +33,7 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
-### Hencor (2
+### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
 
 #### Hencor's Needles
@@ -63,6 +63,20 @@ A war wizard of some renown in old texts. Little is known about him and the reco
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
 **Critical Failure**: You find the force attempts to befall you instead. You are knocked prone for a 1d4 + **x** rounds. Where **x** is the tier of the spell.
+
+#### Hencor's Ward
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 minute
+
+**Duration**: Minutes equal to the spell check's points of success
+
+**Effect**: You produce a protective field around yoursef. Your minimum defense against attacks is now equal to 3 + double the tier of this spell. If you have armor or another protective feature which would provide a higher defense against an attack than this, use that value instead.
+
+**At higher tiers**: As noted above, increases the minimum defense provided.
+
+**Critical Failure**: You have imprisoned yourself for a number of rounds equal to the points of failure. This leaves you completely Immobile for a number of rounds equal to the points of failure. You still benefit from the spell's protection during this time.
 
 ### Jinora (1
 A diviner of astrological events. Their work is an important study for anyone seeking to provide prophetic capacities to their institution.
