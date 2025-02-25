@@ -84,7 +84,7 @@ Created when malicious extra planar energy mixes with native planar energies. Ch
 **Elemental Nature**: Chills are animated manifestations of wild, natural, forms of energy. As such they;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Are immune to diseases, poisons and venom.  
- • Immune to the effects of bloodloss.
+ • Immune to the effects of bloodloss.  
  • Are not affected by spells which would affect flesh.  
 
 **Immunities**: The chill cannot be damaged by cold attacks or effects.
