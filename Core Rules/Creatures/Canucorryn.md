@@ -90,7 +90,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 
 **Wrestler**: The canucorryn has the Wrestling skill.
 
-**Web**: The canucorryn is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .15 per yard and strength 315. The web itself can burn, but is not easily deteiorated by fire. The web can burn for 1d20+d12 minutes before it starts to degrade, at which point it loses 10 strength per minute. Once extinguished, the web can only continue to resist fire if it is ignited by the canucorryn. The web is resistant to natural degradation.
+**Web**: The canucorryn is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .15 per yard and strength 315. The web itself can burn, but is not easily deteriorated by fire. The web can burn for 1d20+d12 minutes before it starts to degrade, at which point it loses 10 strength per minute. Once extinguished, the web can only continue to resist fire if it is ignited by the canucorryn. The web is resistant to natural degradation.
 
 **Set Ablaze**: As an action or reaction, the canucorryn can ignite its web, venom, or any other flammable material/surface it is touching ablaze.
 
@@ -98,4 +98,4 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 
 **Venom**: Once per encounter, the canucorryn may spew venom against a foe within 1 yard as an action. This is a toxic attack. Additionally, the venom itself is flammable for half an hour.
 
-**Return Fire**: Once per encounter, when the canucorryn is targeted by a spell, it may use its reaction to fire a small projectile of flaming web at that spell caster if they are within 9 yards.
+**Return Fire**: Once per encounter, when the canucorryn is targeted by a spell, it may use its reaction to fire a small projectile of flaming web at that spell caster if they are within 9 yards. This is a fire attack.
