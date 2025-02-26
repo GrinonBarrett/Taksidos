@@ -71,10 +71,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
-
-Hydroform  
-Caster becomes a liquid.
-
 Wall of Denial  
 A wall which can stop ranged missiles and attacks from spells if cast at half or lower tier. Can also potentially stop other magical effects from bypassing. If cast high enough, it can stop siege weapons.
 
