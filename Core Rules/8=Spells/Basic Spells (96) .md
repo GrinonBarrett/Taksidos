@@ -705,7 +705,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Range**: 10 yards
 
-**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is, speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy.
+**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is- speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
 
@@ -735,6 +735,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself  
 
+ • You do not need to breathe.
  • You and all you are carrying melds into you in your new form. This new form can fit into a space of 1 liquid ounce per pound of your being. Your size category is reduced by 2 if possible.   
  • Your defense against all attacks becomes 9 + this spell's tier
  • You do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
@@ -998,7 +999,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (3
+### P (4
 
 #### Phasic Wave
 
@@ -1027,6 +1028,24 @@ A creature may make a [Fort] save to avoid this if they wish.
 **At Higher Tiers**: If cast as second tier or beyond, you may lock/unlock any number of barres to the door. The spell can undo a magical lock of a spell whose tier is half or less of this spell's. Each tier beyond 1st also doubles the range of the spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier.
+
+#### Psychilysis
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 15 yards
+
+**Effect**: You attempt the difficult task of seperating a creature's very consciousness temporarily, an art not easily mastered nor ever recommended. Target must succeed an [Inte] save or become dazed for a number of rounds equal to half of the points of failure. On a critical failure, the creature becomes Mindless° for a number of rounds equal to the spell's tier before becoming dazed.  
+
+You may cast this on a creature that is already mindless. If it critically fails the save, it forgets any orders it had received and cannot receive any for a number of rounds equal to the spell's tier.
+
+° They do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing effects and fear-based effects.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the range by 10 or the duration of the daze by 1d6 rounds
+
+**Critical Failure**: So long as you have spell sickness, you are mindless.
 
 #### Psychoburst
 
