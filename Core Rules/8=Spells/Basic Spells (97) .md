@@ -891,7 +891,21 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J
+### J (1
+
+#### Jinx
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 1 yard
+
+**Effect**: You have influenced some force affecting the target, giving them the worst luck possible. Inflict an undamaging attack against the foe. If successful, the suffer a penalty to all saves, checks, and attack rolls for the purpose of determining if any failure is actually a critical failure equal to the tier of this spell. This lasts for an hour. Each time this causes a critical failure, the penalty is reduced by 1.
+
+**At Higher Tiers**: Each tier beyond the minimum can eiter increases the range by 3 yards or the duration by 1 hour, in addition to the benefit noted above.
+
+**Critical Failure**: You find yourself the subject of misfortune, as the spell affects you instead.
 
 ### K (1
 
