@@ -735,7 +735,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself  
 
- • You and all you are carrying melds into you in your new form.    
+ • You and all you are carrying melds into you in your new form. This new form can fit into a space of 1 liquid ounce per pound of your being. Your size category is reduced by 2 if possible.   
  • Your defense against all attacks becomes 9 + this spell's tier
  • You do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
  • Cold attacks against them have disadvantage and cause them to be prone for a number of rounds equal to the attack total. This is cumulative.  
