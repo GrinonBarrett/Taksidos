@@ -679,7 +679,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (4
+### H (5
 
 #### Habroism
 
@@ -724,6 +724,35 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier.
 
 **Critical Failure**: You feel an immediate need. Your whole body aches for refreshment. You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you still have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
+
+#### Hydromorphy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Duration**: 1 minute
+
+**Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself  
+
+ • You and all you are carrying melds into you in your new form.    
+ • Your defense against all attacks becomes 9 + this spell's tier
+ • You do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
+ • Cold attacks against them have disadvantage and cause them to be prone for a number of rounds equal to the attack total. This is cumulative.  
+ • Critical hits of Cold and Electric attacks leave the subject vulnerable until the end of the round, even if the subject would not be wounded by it.   
+ • Other than noted above, you are immune to critical hits.
+ • You cannot speak in this form.  
+ • Your run speed is 5 yards.  
+ • Your swim speed is 13 yards.
+ • You ignore any form of non-magical Acid, Fire, or Toxic damage whose total is less than half of your level.  
+ • You understand Hydroglossa, even if you do not speak it.  
+ • Any effect which would heal you has a 3 in 8 chance not to.    
+
+If you are damaged more than once, fail an incapacitation save in any degree, or would be divided while in this form- you will immediately reconstitute into your previous form. If you revert as a result of damage, you must immediately perform an incapcitation save.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
+
+**Critical Failure**: You transform successfully, but have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
 #### Hypoaftepathy
 
