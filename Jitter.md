@@ -1,5 +1,5 @@
-### Skritterfalkh
-Small fairies which can cause one to become quite excitable. They live deep in forests and have been responsible for many an adventurer's disorienting experience. Not typically malicious or benevolent, they remain out of sight. If someone catches their attention they are likely to bewilder them to guage their reaction. Some are winged and some are not. This does not impact their ability to fly, but rather their tendency.
+### Jitter
+Small fairies which can cause one to become quite excitable. They live deep in forests and have been responsible for many an adventurer's disorienting experience. Not typically malicious or benevolent, they remain out of sight. If someone catches their attention they are likely to bewilder them to guage their reaction. Some are winged and some are not. This does not impact their ability to fly, but rather their tendency. Their collective noun is a fit.
 
 **Creature Type**: Jitters are Fey.
 
