@@ -1,9 +1,9 @@
 ### Skritterfalkh
-Small fairies which can cause one to become quite excitable. They live deep in forests and have been responsible for many an adventurer's disorienting experience. Not typically malicious or benevolent, they remain out of sight. If someone catches their attention they are likely to bewilder them to guage their reaction.
+Small fairies which can cause one to become quite excitable. They live deep in forests and have been responsible for many an adventurer's disorienting experience. Not typically malicious or benevolent, they remain out of sight. If someone catches their attention they are likely to bewilder them to guage their reaction. Some are winged and some are not. This does not impact their ability to fly, but rather their tendency.
 
-**Creature Type**: Jitters are Fey. {Continue}
+**Creature Type**: Jitters are Fey.
 
-**Size**: Skritterfalm are between 1 to 2 feet in length, with a 6-8" tail. Their wingspan is 20% larger than their length. They weigh between 15-23 pounds. They are small creatures.
+**Size**: Jitters are between 9"-13" tail. They weigh between 5-8 pounds. They are small creatures.
 
 **Hitpoints**: A skritterfalkh has no hitpoints.
 
