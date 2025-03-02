@@ -28,3 +28,13 @@ Epithets:
 A figure who seeks to control all by way of his Xanthic Sigil- for which the spell mimics. He is patient enough not to be overly aggressive in his methods, but dislikes those that interfere with them. He operates primarily through the use of his avatar (the humanoid form which possess a large eyeball for a head and has a mane composed of colorful feathers, draped in a deep yellow duster). His overall power exceeds that of Blancocha and any of Blancocha's lessors, a fact which Blancocha despises. Despite this, he takes more gratification in operating through his avatar form. Once killed, he will take note of whatever killed the avatar form and begin to manipulate events around them before sending a regenerated avatar against them.
 
 Most of his power is actually held in keeping the many extraplanar god-like entities occupied by one means or another. On a very rare instance, he might aide or rewards those who have managed to root out a cult revolved around an eldeitch god- and might even forgive them for killing one of his avatar incarnations if they do.
+
+### Blancocha
+Epithets:  
+* Bringer of lights
+* The sickening radiance
+* Tempter of the bright
+* Bane of Luncerun
+* The dragon in silver
+
+A fiendish being that seeks to corrupt moral beings and institutions. It operates by contacting the faithful during times of doubt and by elevating the selfish. It prefers its agents to each act alone, using their isolation to make its communication (and thus grasp) easier. Though not as powerful as an eldritch deity, it seeks to rival them eventually. It is not as powerful as it thinks, but is not afraid to elevate lower beings to nearly godlike status.
