@@ -6,6 +6,8 @@ For this update:
 * Add a spell beginning with J
 * Create a Grigori, a fiendish giant creature.
 * Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
+* Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
+* Create the Kzugar, a fire vampire which serves the Fzugah- a god of knowledge, consumption, dedication, destruction, rebirth, and the eternal cycle.
 * Finish the Wekowyrd.
 
 Next update:  
@@ -58,8 +60,6 @@ Flesh out bestiary.
 * Will add a Koulaz (a hooded humanoid looking monster that steals disobedient children)
 * Will add a Grindylow (change the spelling possibly)
 * Will add Vodnik?!
-
-* Create Zersus, the figure garbed in a bold duster jacket with a large eyeball for a head and a mane of feathers. We have plans for this fella.
 
 MORE SPELLS!   
 Jander (makes sick and visibly unappealing)  
