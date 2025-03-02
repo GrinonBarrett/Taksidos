@@ -3,7 +3,7 @@ Small fairies which can cause one to become quite excitable. They live deep in f
 
 **Creature Type**: Jitters are Fey.
 
-**Size**: Jitters are between 9"-13" tail. They weigh between 5-8 pounds. They are small creatures.
+**Size**: Jitters are between 9"-13" tall. They weigh between 2-5 pounds. They are small creatures.
 
 **Hitpoints**: A jitter has no hitpoints.
 
@@ -33,11 +33,11 @@ Small fairies which can cause one to become quite excitable. They live deep in f
 
 **Run Speed**: It may run up to 1 foot per move.
 
-**Flying Speed**: If it is not prone, it may fly up to 10 yards per move. If it is not prone, it can hover
+**Flying Speed**: It may fly up to 10 yards per move. If it is not prone, it can hover.
 
 **Unarmed Attacks**;
 
- • Venomous Bite: It meagre frame is only sufficent in harming a diminutive creature it is brawling with or grappled. This is a bare attack.
+ • Weak Strike: It meagre frame is only sufficent in harming a creature it is brawling with or grappled of the same size or smaller. This is a melee bare attack.
 
 -----
 
@@ -90,10 +90,16 @@ Small fairies which can cause one to become quite excitable. They live deep in f
 
 -----
 
-**Winged Lunge**: As an action, the Jitter *may induce an adrenal phase in a creature other than one of the following types (Construct, Eldritch, Elemental, Ephemera, Fey, Fiends, Infigura, and Undead)
+**Jittering**: As an action, the Jitter *may induce an adrenal response in a creature other than one of the following types (Construct, Eldritch, Elemental, Ephemera, Fey, Fiends, Infigura, and Undead). Such a creature must succeed a [Fort] save or be afflicted for a number of rounds equal to the points of failure. The afflicted creature may perform an additional reaction during any round, though suffers a level of fatigue at the end of any round it does so. If it does not do so, it suffers a point of inebriation which immediately comes into effect at the end of the round. If a creature suffered a critical failure against its save, it also receives 1d4-1 points of inebriation. If a creature critically succeeded its save, it knows exactly what the jitter attempted to do and can perform a reaction in response without counting against their reaction for the round*. A creature so affected is prone from its tremors during the duration of the effects.
 
-**Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
+**Mythical Defense**: The jitter gains a bonus to defense against the attacks of a creature made against it (including spell attacks) equal to that creature's current points of inebriation.
 
-**Venomous Bite**: When the skritterfalkh has successfully afflicted a creature with its venomous bite, that creature is subject to a psychic attack. For a number of minutes equal to 100 divided by the foe's [Fort] score, the venom will inflict a psychic attack at the end of each minute. Additionally, the afflicted creature is considered vulnerable to all other psychoc attacks during this time.
+**Hiding Fey**: THe jitter cannot be seen, felt, or tasted by anything which does not possess points of inebriation.
 
-**Fleet Foot**: During the first round of an encounter, the skritterfalkh may use its action to perform a move.
+**Limited Spell**: The jitter is capable of attempting a single wyrding once per encounter. They may cast one of the following (Absend, Absenting, Empathic Ward, Feyding Gesture, Habroism, Havery, Stupify, Wisp Away).
+
+**Fleeting**: During the first round of an encounter, the jitter may use its actions and/or reaction to perform a move.
+
+**Illusory Capacity**: As an action, *the jitter may force a creature it can perceive to make a [Prcp] save. If it fails, it is afflicted for a number of rounds equal to the points of failure. While affected, the jitter can create illusory objects and beings in a manner identical to the Hypoaftepathy spell, but only perceivable to said creature. It can create a number of such entities equal to the afflicted creature's points of inebriation. If the foe critically fails its save, it is dazed during this time*. If it critcally succeeds, it has seen through the Jitter's methods and cannot be so affected by any Jitter again until it rests or the inciting Jitter has rested.
+
+**Hallucinatory Attack**: The jitter *may inflict a psychic attack against a creature it can perceive within 20 yards. If the attack roll result was even, the jitter may use its reaction to inflict points of inebriation against it equal to half of the points of success*. The jitter cannot do so if it already has inflicted such an attack during the same or previous round.
