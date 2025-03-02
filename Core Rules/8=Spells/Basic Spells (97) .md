@@ -318,7 +318,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Casting Time**: 9 actions
 
-**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check with a vouple of exceptions.  
+**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check with a couple of exceptions.  
 * You have disadvantage on the check unless it was caused by a spell you know.
 * If the caster of that effect can perceive the afflicted creature, it has advantage on its check.
 * You gain a bonus equal to the the tier of the spell.
@@ -379,7 +379,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Duration**: 30 Minutes
 
-**Effect**: Your touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
+**Effect**: You touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
@@ -735,16 +735,16 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself  
 
- • You do not need to breathe.
+ • You do not need to breathe.  
  • You and all you are carrying melds into you in your new form. This new form can fit into a space of 1 liquid ounce per pound of your being. Your size category is reduced by 2 if possible.   
- • Your defense against all attacks becomes 9 + this spell's tier
+ • Your defense against all attacks becomes 9 + this spell's tier.  
  • You do not receive damage from being crushed (including crushing attacks), falling, or knockback- but instead become dazed and prone for a number of rounds equal to the attack(s) total.  
  • Cold attacks against them have disadvantage and cause them to be prone for a number of rounds equal to the attack total. This is cumulative.  
  • Critical hits of Cold and Electric attacks leave the subject vulnerable until the end of the round, even if the subject would not be wounded by it.   
- • Other than noted above, you are immune to critical hits.
+ • Other than noted above, you are immune to critical hits.  
  • You cannot speak in this form.  
  • Your run speed is 5 yards.  
- • Your swim speed is 13 yards.
+ • Your swim speed is 13 yards.  
  • You ignore any form of non-magical Acid, Fire, or Toxic damage whose total is less than half of your level.  
  • You understand Hydroglossa, even if you do not speak it.  
  • Any effect which would heal you has a 3 in 8 chance not to.    
