@@ -993,7 +993,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Range**: 3 yards
 
-**Effect**: You conjure an entity from a shadowy realm known as a Nral. It materializes within range. You may command it psychically for 3 minutes. Afterwards, it will no longer be bound by the spell and becomes hostile. It ceases to be after 3 minutes or when it would be destroyed normally.
+**Effect**: You conjure an entity from a shadowy realm known as a Nral. It materializes within range. You may command it psychically for 3 minutes. Afterwards, it will no longer be bound by the spell and becomes hostile. It ceases to be after 6 minutes or when it would be destroyed normally.
 
 **At Higher Tiers**: For each tier beyond minimum, the Nral's hitpoints are increased by 1. Additionally the time it exists under your purview and the time it exists afterwards is increased by a minute each. The casting time is increased by 2 rounds for each tier beyond minimum.
 
