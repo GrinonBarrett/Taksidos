@@ -35,6 +35,7 @@ Epithets:
 * The sickening radiance
 * Tempter of the bright
 * Bane of Luncerun
+* Consuming light
 * The dragon in silver
 
 A fiendish being that seeks to corrupt moral beings and institutions. It operates by contacting the faithful during times of doubt and by elevating the selfish. It prefers its agents to each act alone, using their isolation to make its communication (and thus grasp) easier. Though not as powerful as an eldritch deity, it seeks to rival them eventually. It is not as powerful as it thinks, but is not afraid to elevate lower beings to nearly godlike status.
