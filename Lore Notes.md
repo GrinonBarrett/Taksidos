@@ -29,6 +29,20 @@ A figure who seeks to control all by way of his Xanthic Sigil- for which the spe
 
 Most of his power is actually held in keeping the many extraplanar god-like entities occupied by one means or another. On a very rare instance, he might aide or rewards those who have managed to root out a cult revolved around an eldeitch god- and might even forgive them for killing one of his avatar incarnations if they do.
 
+Those that choose to worship him seek to have their bodies transformed by his mark, to transcend their humanity in an attempt to be closer to him and love forever.
+
+### Arazazulh
+Epithets:  
+* Breath of the Haze
+* The blue eye
+* The watching mirror
+* Crawling lord
+* Consumer of the deep
+* Invoker of monstrocities
+* Lord of the Haze
+
+A hive-mind which has acended to the point of being an eldritch god. It consumes planets with its haze, feeding the armies of its mutated servants whose form is hand shaped into one of its "ideal forms". It does not ditectly interact with others, instead allowing its servants the opportunity to overcome each would through their haze and portals.
+
 ### Blancocha
 Epithets:  
 * Bringer of lights
