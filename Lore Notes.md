@@ -31,7 +31,7 @@ Most of his power is actually held in keeping the many extraplanar god-like enti
 
 Those that choose to worship him seek to have their bodies transformed by his mark, to transcend their humanity in an attempt to be closer to him and love forever.
 
-### Arazazudh
+### Arazazulh
 Epithets:  
 * Breath of the Haze
 * The blue eye
