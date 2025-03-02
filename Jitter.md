@@ -3,7 +3,7 @@ Small fairies which can cause one to become quite excitable. They live deep in f
 
 **Creature Type**: Jitters are Fey.
 
-**Size**: Jitters are between 9"-13" tall. They weigh between 2-5 pounds. They are small creatures.
+**Size**: Jitters are between 9"-13" tall. They weigh between 2-5 pounds. They are diminutive creatures.
 
 **Hitpoints**: A jitter has no hitpoints.
 
