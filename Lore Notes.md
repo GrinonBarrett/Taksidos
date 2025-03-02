@@ -26,3 +26,5 @@ Epithets:
 * Culler of the Eldritch
 
 A figure who seeks to control all by way of his Xanthic Sigil- for which the spell mimics. He is patient enough not to be overly aggressive in his methods, but dislikes those that interfere with them. He operates primarily through the use of his avatar (the humanoid form which possess a large eyeball for a head and has a mane composed of colorful feathers, draped in a deep yellow duster). His overall power exceeds that of Blancocha and any of Blancocha's lessors, a fact which Blancocha despises. Despite this, he takes more gratification in operating through his avatar form. Once killed, he will take note of whatever killed the avatar form and begin to manipulate events around them before sending a regenerated avatar against them.
+
+Most of his power is actually held in keeping the many extraplanar god-like entities occupied by one means or another.
