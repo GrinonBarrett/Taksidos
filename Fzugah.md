@@ -1,0 +1,89 @@
+### Fzugah, Avatar
+The devouring flame. This avatar is a manifestation of Fzugah's power. 
+
+**Creature Type**: Fzugah is an Eldritch creature.
+
+**Size**: Fzugah is a sphere 100 yards in diameter. It is weightless. It is a Big creature.
+
+**Languages**: Fzugah doesn't speak, but knows 5d6 languages.
+
+**Undeath**: Fzugah has 1000 points of undeath.
+
+**Attributes**:  
+[Body] 20 (+6)  
+[Fort] 20 (+6)  
+[Rflx] 18 (+6)  
+[Will] 30 (+10)  
+[Inte] 40 (+13)  
+[Prcp] 20 (+6)  
+[Empy] 12 (+4)  
+
+**Levitation speed**: It may levitate up to 35 yards per move. It can hover.
+
+**Unarmed Attacks**;
+
+ • Strike Mind: The kzugar may reach out to a foe within 20 yards to inflict a ranged psychic, fire, or electric attack. An electric attack inflicted this way treats a critical hit like that of a fire attack or psychic attack, the kzugar's choice.
+
+  • Fireball: THe kzugar looses a ball of flame, inflicting a fire *and psychic* attack against a foe within 100 yards. Upon impact, the fireball explodes to inflict a fire attack against everything within 25 yards (including the original target).
+
+---------------------
+
+**Table**: *Attack versus Creature* {Fix Later}
+| Weapon                 |          |            |         |            |         |
+|------------------------|-----------|----------|------------|---------|------------|
+|                        |          |            |         |            |         |
+| **Club**                   | 17   | **Pole Axe**          | 17     | **Arrow, Bodkin Point**    | 17    |
+| **Longsword**              | 17    | **Greatsword**       | 17     | **Arrow, Broadhead**       | 17    |
+| **Mace**                   | 17    | **Maul**             | 17     | **Bolt** | 17    |
+| **Spear**                  | 17     | **Pike**            | 17     | **Brusgiata** | 17     |
+| **Hand Axe**               | 17     | **Madu**            | 17     | **Chakram** | 17    |
+| **Katar**                  | 17     | **Javelin**         | 17    | **Arquebus** | 17    |
+| **Dagger**                 | 17     | **Throwing Blade**  | 17   | **Musket** | 17    |
+| **Morningstar**            | 17     | **Sling**           | 17    | **Tronutonante** | 17    |
+| **Warpick**                | 17     |               |             | **Bare** |  21 |
+|                        |           |          |            |         |            |
+| **Acid**                   | 17     | **Fire**           | 24    | **Psychic** | 14     |
+| **Cold**                   | 24     | **Force**          | 17     | **Toxic**  | 17     |
+| **Crushing**               | 17     | **Ki**             | 20     | **Radiant** | 20     |
+| **Cutting**                | 17     | **Necrotic**       | 17     | **Sonic** | 17    |
+| **Electrical**             | 18     | **Piercing**       | 17     | **Biting** | 17    |
+|                        |           |          |            |         |            |
+| **Unlisted Damage Type** | 17 |                |                  | **Undamaging** | 17 |
+
+---------------------
+
+#### Special Features
+
+**Ephemeral Nature**: This avatar does not have a phsyical form. As such it   
+ • Do not need to eat, sleep, or breathe.  
+ • Have disadvantage on [Body] checks.  
+ • Are immune to diseases, poisons and venom including toxic damage.  
+ • Are not affected by spells which would affect flesh or physically manipulate them.  
+ • Are not subject to incapacitation saves.  
+ • Cannot be healed except through rest.  
+ • Have advantage on saves against effects which would grapple, restrain, or make the kzugar prone unless it specifies that they affect ephemera.
+
+**Kzugaine Phase**: The avatar exists in a sliver of reality between the material and psychic planes. This bestows a few features:    
+ • Physical objects on the material or psychic plane are completely passable by the avatar if it uses its reaction in response to moving into that space.  
+ • It is not subject to the whims of gravity and can retain its position (relatively speaking). It can also move in conformity to gravity.  
+ • Non-magical forms of attack have disadvantage on the avatarr.  
+ • The avatar cannot be grappled, restrained, or made prone by any non-magical means from the material or psychic plane.  
+ • The avatar knows the location of any non-mindless creature within a number of yards equal to its [Prcp] score, even through material obstruction.  
+ • It can occupy the same space on the material or psychic plane as another creature.  
+ • Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
+
+**Ungodly Defenses**: The avatar ignores the effects (such as loss of points of undeath) of the first non-magical attack made against it each round. It gains a 1d12 bonus to defense against the first magical attack made against it each round. THe first time it performs a save each round, it gains a 1d20 bonus.
+
+**Consuming Being**: When a phase ends, if the avatar occupies the same space as another creature, it inflicts a psychic attack and fire attack against that creature. *It then also inflicts a fire and psychic attack against that creature*. A creature reduced below 0 hitpoints this way, other than a creature of undeath, is immediately consumed by the flaming being. All of its knowledge (memories, languages known, etc.) is absorbed by the avatar. Nothing remains of the destroyed creature.
+
+**Globocclusion**: It can see in a complete globe around itself instead of a single direction.
+
+**Glow**: It produces bright light for 5 yards, fair light for 5 yards beyond that, and dim light out for 40 yards beyond that. This glow exists on the material plane and the psychic plane.
+
+**Resist Mundanity**: Non-magical attacks against the kzugar cannot be critical hits.
+
+**Eldritch Initiative**: The avatar gains a d20 bonus to initiative rolls. Additionally, if the avatar destroys another creature, it may replace its turn order chit with the destroyed creature.
+
+**Hurl Flame**: Once per round, as an action or reaction, the avatar may loose flames in a 25 yard line. This line is 3 yards high and 1 yard wide. Anything caught in the line is subject to a fire attack *and a fire attack*. This line remains as a wall of flame for an hour (or until dismissed by the will of the avatar) which inflicts a fire attack against anything which passes through the wall and a fire attack with a 1d4 bonus at the end of any phase a creature occupies the space.
+
+**Fzugah's Cry**: Once per encounter, the avatar may inflict a psychic attack *a sonic attack, and an additional psychic attack* against everything within a mile.
