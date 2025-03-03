@@ -56,7 +56,7 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 
 #### Special Features
 
-**Ephemeral Nature**: Kzugain do not have a phsyical form. As such they   
+**Demiphemeral Nature**: Kzugain do not have a phsyical form. As such they   
  • Do not need to sleep or breathe.  
  • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
