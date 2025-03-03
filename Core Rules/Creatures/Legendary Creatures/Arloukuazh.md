@@ -20,7 +20,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, alo
 
 **Run Speed**: He may run up to 25 yards per move.
 
-**CLimb Speed**: He may climb up to 20 yards per move, presuming it is reasonable terrain to do so.
+**Climb Speed**: He may climb up to 20 yards per move, presuming it is reasonable terrain to do so.
 
 **Swim Speed**: He may swim up to 16 yards, presuming the water isn't too rough.
 
@@ -60,7 +60,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, alo
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 15 |
 
-**Table**: *Wound Allocation* {Fix Later}
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
@@ -74,7 +74,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, alo
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Beat Up           | It loses an additional hitpoint. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
-|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   12   | Glacing Blow      | No effects. |
 |   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
@@ -88,7 +88,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, alo
 -----
 
 **Dragon of Greed**: All dragons are empowered by thier core obsession. For Arloukazh, and many other dragons, that is wealth. Arloukazh has a horde somewhere in which his own personal wealth is stored. The greater the value, the more benefits he has. He gains the following benefits as appropriate to his horde;  
-* For every $50,000 he has, he gain +1 [Body].
+* For every $50,000 he has, he gains +1 [Body].
 * For every $100,000 he has, he gains a hitpoint.
 * For every $125,000 he has, his [Will] increases by 1.
 * For every $250,000 he has, he gains a +1 bonus to spell checks and counterspell checks.
