@@ -84,6 +84,8 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
 **Eldritch Initiative**: The avatar gains a d20 bonus to initiative rolls. Additionally, if the avatar destroys another creature, it may replace its turn order chit with the destroyed creature.
 
+**Tireless Stride**: Sprinting does not incur exhaustion for the avatar.
+
 **Hurl Flame**: Once per round, as an action or reaction, the avatar may loose flames in a 25 yard line. This line is 3 yards high and 1 yard wide. Anything caught in the line is subject to a fire attack *and a fire attack*. This line remains as a wall of flame for an hour (or until dismissed by the will of the avatar) which inflicts a fire attack against anything which passes through the wall and a fire attack with a 1d4 bonus at the end of any phase a creature occupies the space.
 
 **Fzugah's Cry**: Once per encounter, the avatar may inflict a psychic attack *a sonic attack, and an additional psychic attack,* against everything within a mile.
