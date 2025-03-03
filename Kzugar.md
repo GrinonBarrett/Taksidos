@@ -26,7 +26,7 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 
 **Unarmed Attacks**;
 
- • Strike Mind: The kzugar may reach out to a foe within 4 yards to inflict a ranged psychic, fire, or electric attack. AN electric attack inflicted this way treats a critical hit like that of a fire attack or psychic attack, the kzugar's choice.
+ • Strike Mind: The kzugar may reach out to a foe within 4 yards to inflict a ranged psychic, fire, or electric attack. An electric attack inflicted this way treats a critical hit like that of a fire attack or psychic attack, the kzugar's choice.
 
 ---------------------
 
