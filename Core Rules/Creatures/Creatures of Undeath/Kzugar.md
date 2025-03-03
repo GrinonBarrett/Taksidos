@@ -1,9 +1,9 @@
 ### Kzugar
-They appear as a flame of vibrant color. They move like a dancing flame. Their eminence betrays perception, being an indescribeably colorless glow which flickers unlike any known flame and creeps around any corner and portal it passes. They consume no air in their stride, yet make hard the breathing of any witness. No motive can be possessed in observence of their being, no emotion, no certainty other than the way they descend upon their target. Once they occupy the space of a creature, they will not leave it be. They all serve Fzugarah. The plural is Kzugain. Their collective noun is a storm.
+They appear as a flame of vibrant color. They move like a dancing flame. Their eminence betrays perception, being an indescribeably colorless glow which flickers unlike any known flame and creeps around any corner and portal it passes. They consume no air in their stride, yet make hard the breathing of any witness. No motive can be possessed in observence of their being, no emotion, no certainty other than the way they descend upon their target. Once they occupy the space of a creature, they will not leave it be. They all serve Fzugah. The plural is Kzugain. Their collective noun is a storm.
 
 **Creature Type**: Kzugain are Eldritch creatures.
 
-**Size**: Kzugain are between 3-4 feet in height. They are medium creatures.
+**Size**: Kzugain are between 3-4 feet in height. The space they occupy measures out 1 yard from their center. They are medium creatures.
 
 **Languages**: Kzugain don't speak, but they may know up to 1d12 languages.
 
@@ -48,7 +48,7 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 | **Cold**                   | 24     | **Force**          | 17     | **Toxic**  | 17     |
 | **Crushing**               | 17     | **Ki**             | 20     | **Radiant** | 20     |
 | **Cutting**                | 17     | **Necrotic**       | 17     | **Sonic** | 17    |
-| **Electrical**             | 17     | **Piercing**       | 17     | **Biting** | 17    |
+| **Electrical**             | 18     | **Piercing**       | 17     | **Biting** | 17    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 17 |                |                  | **Undamaging** | 17 |
 
@@ -76,7 +76,7 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 
 **Enkefalophage**: A kzugar's hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The kzugar does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately gains those points of inebriataion.
 
-**Unusual Dietary Features**: THe Kzugar requires only half as much food as a creature of its size and is immune to inebriation other than that which it obtains through eating.
+**Unusual Dietary Features**: The Kzugar requires only half as much food as a creature of its size and is immune to inebriation other than that which it obtains through eating.
 
 **Consuming Being**: When a movement phase ends, if the kzugar occupies the same space as another creature, it inflicts a psychic attack and fire attack against that creature. *It then also inflicts a fire attack against that creature*. A creature reduced below 0 hitpoints this way, other than a creature of undeath, is immediately consumed by the flaming being. All of its knowledge (memories, languages known, etc.) is absorbed by the Kzugar. Nothing remains of the destroyed creature.
 
