@@ -74,7 +74,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power.
 
 **Ungodly Defenses**: The avatar ignores the effects (such as loss of points of undeath) of the first non-magical attack made against it each round. It gains a 1d12 bonus to defense against the first magical attack made against it each round. The first time it performs a save each round, it gains a 1d20 bonus.
 
-**Consuming Being**: When a phase ends, if the avatar occupies the same space as another creature, it inflicts a psychic attack and fire attack against that creature. *It then also inflicts a fire and psychic attack against that creature*. A creature reduced below 0 hitpoints this way, other than a creature of undeath, is immediately consumed by the flaming being. All of its knowledge (memories, languages known, etc.) is absorbed by the avatar. Nothing remains of the destroyed creature.
+**Consuming Being**: When a phase ends, if the avatar occupies the same space as another creature, it inflicts a psychic attack and fire attack against that creature. *It then also inflicts a fire and psychic attack against that creature*. A creature reduced below 0 hitpoints this way, or a creature of undeath reduced to 0 such points, is immediately consumed by the flaming being. All of its knowledge (memories, languages known, etc.) is absorbed by the avatar. Nothing remains of the destroyed creature.
 
 **Globocclusion**: It can see in a complete globe around itself instead of a single direction.
 
