@@ -1,5 +1,5 @@
 ### Kzugar
-They appear as a flame of vibrant color. They move like a dancing flame. Their eminence betrays their perception, being an indescribeably colorless glow which flickers unlike any known flame and creeps around any corner and portal it passes. THhy consume no air in their stride, yet make hard the breathing of any witness. No motive can be possessed in observence of their being, no emotion, no certainty other than the way they descend upon their target. Once they occupy the space of a creature, they will not leave it be. They all serve Fzugah. The plural is Kzugain. Their collective noun is a storm.
+They appear as a flame of vibrant color. They move like a dancing flame. Their eminence betrays perception, being an indescribeably colorless glow which flickers unlike any known flame and creeps around any corner and portal it passes. They consume no air in their stride, yet make hard the breathing of any witness. No motive can be possessed in observence of their being, no emotion, no certainty other than the way they descend upon their target. Once they occupy the space of a creature, they will not leave it be. They all serve Fzugah. The plural is Kzugain. Their collective noun is a storm.
 
 **Creature Type**: Kzugain are Eldritch creatures.
 
@@ -73,6 +73,10 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
  • The Kzugar knows the location of any non-mindless creature within a number of yards equal to its [Prcp] score, even through material obstruction.
  • It can occupy the same space on the material or psychic plane as another creature.
  • Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
+
+**Enkefalophage**: A kzugar's hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The kzugar does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately gains those points of inebriataion.
+
+**Unusual Dietary Features**: THe Kzugar requires only half as much food as a creature of its size and is immune to inebriation other than that which it obtains through eating.
 
 **Globocclusion**: It can see in a complete globe around itself instead of a single direction.
 
