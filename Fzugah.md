@@ -1,5 +1,5 @@
 ### Fzugah, Avatar
-The devouring flame. This avatar is a manifestation of Fzugah's power. 
+The devouring flame. This avatar is a manifestation of Fzugah's power. A giant blaze of flame displaying every color known to every eye, radiating and pulsating as they continually transition.
 
 **Creature Type**: Fzugah is an Eldritch creature.
 
@@ -80,7 +80,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power.
 
 **Glow**: It produces bright light for 5 yards, fair light for 5 yards beyond that, and dim light out for 40 yards beyond that. This glow exists on the material plane and the psychic plane.
 
-**Resist Mundanity**: Non-magical attacks against the kzugar cannot be critical hits.
+**Resist Mundanity**: Non-magical attacks against the avatar cannot be critical hits.
 
 **Eldritch Initiative**: The avatar gains a d20 bonus to initiative rolls. Additionally, if the avatar destroys another creature, it may replace its turn order chit with the destroyed creature.
 
@@ -91,3 +91,5 @@ The devouring flame. This avatar is a manifestation of Fzugah's power.
 **Fzugah's Presence**: At the end of every round, each non-mindless creature within 250 yards has its [Inte] lowered by 1. Once a creature's [Inte] is lowered to 0 this way, it becomes mindless and walks towards the avatar until it occupies the same space. If a creature is removed from the effect of the presence, it can make a [Will] save with a DV of 10 + its missing [Inte] to recover a single point of [Inte]. It does this for a number of hours equal to the [Inte] lost this way. A critical failure grants disadvantage on the next save.
 
 **Mighty Presence**: Before initiative is rolled, and at the end of each round, each creature within 250 yards or that can perceive the avatar must succeed a [Will] save with a DV of 17 or become filled with dread and fear. While afraid this way, it has disadvantage on all checks, saves, attacks rolls, rolls for initiative, and is dazed. It must continue to make saves at the end of each round. It has disadvantage on these saves if it is within 250 yards of the avatar and can perceive it. If it is not within 250 yards and cannot perceive it, it gains advantage on the save. A critical failure forces the creature to also make an incapcitation save. A critical success ends the effect. A week without perceiving the avatar reduces the DV by 5.
+
+**Fzugah's Face**: The avatar cannot be seen by any creature unless it is dazed or has [Prcp]/ined riation of 15 or higher. Its glow can still be seen. A dazed or obtunded creature can see a silhouette of a face in the flames composed by flames of a mismatched color.
