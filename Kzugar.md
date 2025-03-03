@@ -78,10 +78,10 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 
 **Unusual Dietary Features**: THe Kzugar requires only half as much food as a creature of its size and is immune to inebriation other than that which it obtains through eating.
 
-**Globocclusion**: It can see in a complete globe around itself instead of a single direction.
-
 **Consuming Being**: When a movement phase ends, if the kzugar occupies the same space as another creature, it inflicts a psychic attack and fire attack against that creature. *It then also inflicts a fire attack against that creature*. A creature reduced below 0 hitpoints this way, other than a creature of undeath, is immediately consumed by the flaming being. All of its knowledge (memories, languages known, etc.) is absorbed by the Kzugar. Nothing remains of the destroyed creature.
 
-**Glow**: It produces dim light out for 5 yards. This glow exist on the material plane and the psychic plane.
+**Globocclusion**: It can see in a complete globe around itself instead of a single direction.
+
+**Glow**: It produces dim light out for 5 yards. This glow exists on the material plane and the psychic plane.
 
 **Resist Mundanity**: Non-magical attacks against the kzugar cannot be critical hits.
