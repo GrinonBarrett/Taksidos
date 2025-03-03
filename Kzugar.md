@@ -70,8 +70,8 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
  • It is not subject to the whims of gravity and can retain its position (relatively speaking). It can also move in conformity to gravity.  
  • Non-magical forms of attack have disadvantage on the Kzugar.  
  • The Kzugar cannot be grappled, restrained, or made prone by any non-magical means from the material or psychic plane.  
- • The Kzugar knows the location of any non-mindless creature within a number of yards equal to its [Prcp] score, even through material obstruction.
- • It can occupy the same space on the material or psychic plane as another creature.
+ • The Kzugar knows the location of any non-mindless creature within a number of yards equal to its [Prcp] score, even through material obstruction.  
+ • It can occupy the same space on the material or psychic plane as another creature.  
  • Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
 **Enkefalophage**: A kzugar's hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The kzugar does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately gains those points of inebriataion.
