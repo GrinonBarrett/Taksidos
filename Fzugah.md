@@ -22,9 +22,9 @@ The devouring flame. This avatar is a manifestation of Fzugah's power.
 
 **Unarmed Attacks**;
 
- • Strike Mind: The kzugar may reach out to a foe within 20 yards to inflict a ranged psychic, fire, or electric attack. An electric attack inflicted this way treats a critical hit like that of a fire attack or psychic attack, the kzugar's choice.
+ • Strike Mind: The avatar may reach out to a foe within 20 yards to inflict a ranged electric, fire, psychic, or radiant attack. An attack inflicted this way treats a critical hit like that of a fire attack and a psychic attack.
 
-  • Fireball: THe kzugar looses a ball of flame, inflicting a fire *and psychic* attack against a foe within 100 yards. Upon impact, the fireball explodes to inflict a fire attack against everything within 25 yards (including the original target).
+  • Fireball: The avatar looses a ball of flame, inflicting a fire *and psychic* attack against a foe within 100 yards. Upon impact, the fireball explodes to inflict a fire attack against everything within 25 yards (including the original target).
 
 ---------------------
 
