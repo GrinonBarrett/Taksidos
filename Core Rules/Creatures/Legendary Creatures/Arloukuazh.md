@@ -1,5 +1,5 @@
 ### Arloukuazh
-A true dragon of greed. He has conquered the ancient homeland of the Yasani, among its neighbors, and slain their king. His taxations and militant expansion have birthed a tyranical regime. He is cunning and among the few dragons to ever convince other dragons to serve under him.
+A true dragon of greed. He has conquered the ancient homeland of the Yasani, along with its neighbors, and slain their king. His taxations and militant expansion have birthed a tyranical regime. He is cunning and among the few dragons to ever convince other dragons to serve under him.
 
 **Creature Type**: He is a drakomadeia.
 
