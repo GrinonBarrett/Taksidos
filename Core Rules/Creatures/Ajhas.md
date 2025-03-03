@@ -91,7 +91,7 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 
 **Psychic Vision**: Each of these eyes can see into the psychic plane, allowing them to see the presence of any non-mindless creature even through material cover. They can also see the transmission of telepathic commands and other forms of telepathic communication- though they do not understand it directly.
 
-**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capaisty as a result (including illusory effects).
+**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capacity as a result (including illusory effects).
 
 **Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
 
