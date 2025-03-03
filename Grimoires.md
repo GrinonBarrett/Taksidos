@@ -5,3 +5,12 @@ A grimoire is sufficient material to study in learning a spell. Each spell is re
 **Generic Grimoires**  
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
+
+**Tome of Voices**  
+$9,000, 2.5 lbs.  
+One in possession of this grimoire could swear they hear whispers and distant callouts, particularly when alone. This grimoire contains the following spells at the indicated tiers;  
+* Behest, 3rd
+* Deep Chant, 3rd
+* Fugalism, 5th
+* Havery, 2nd
+* Rotword, 3rd
