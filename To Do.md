@@ -8,6 +8,7 @@ For this update:
 * Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
+* Create a vampire template that represents those that come to follow the commands of Alekard.
 * Finish the Wekowyrd.
 
 Next update:  
