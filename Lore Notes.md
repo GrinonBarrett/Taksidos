@@ -11,8 +11,8 @@ A land of snow. It seems to have been a place of valleys, hills, and mountain at
 ### Alderalv
 The primary reason behind having the alderolves as creatures and not playable species is to give you access to a mysterious wild people that have no vested interest in the affairs of others in your setting. They can get most everything they want or need in the Alnuskogs. Their primary motivation behind operating outside of their realm is to investigate only the immediate areas connected to their realm and to protect it. They will never adventure or go beyond their current course because they don't need to. That said, if you were to run an adventure revolving around an intrusion into the Alnuskogs, you could give them a more human treatment.
 
-
-## Entities
+## Godlike Entities
+Many godlike entities are unable to personally enter several planes of existence, as their power is so great that it could rip apart the plane itself, especially if multiple were to directly enter it. Therefore, they will send an avatar. A being composed of a fraction of their power (which will return when destroyed) to do their bidding and better serve as their eyes and ears. This is why some cults or servants of a deity will exist in a realm, to function on behalf of their patron and report back through prayer.
 
 ### Zersus
 Epithets:  
@@ -42,6 +42,23 @@ Epithets:
 * Lord of the Haze
 
 A hive-mind which has acended to the point of being an eldritch god. It consumes planets with its haze, feeding the armies of its mutated servants whose form is hand shaped into one of its "ideal forms". It does not ditectly interact with others, instead allowing its servants the opportunity to overcome each would through their haze and portals.
+
+### Fzugah
+Epithets:  
+* The all consuming flame
+* Cleansor of forgotton worlds
+* Eater of minds
+* Consumer of the light
+* Burning one
+* The light of a million shadows
+* The hope of destruction
+* Demand of rebirth
+* Bane of the old
+* The one who thirsts of wisdom
+* Drinker of knowledge
+* The elder sun
+
+A brilliant ball of fire made sentient, it was once the sun of the only galaxy. When the other gods were birthed, splitting existence into countless planes and expanding the universe an a near nstantaneous flash, it become spiteful of the new order of things. Upon realizing there was an infinite existence beyond itself, it hungered to know all it could about this new paradigm. He cares little for the stability or welfare of anything else, but is no fool as to the fragility of the planes and will not personally appear where it could cause further damage.
 
 ### Blancocha
 Epithets:  
