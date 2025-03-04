@@ -7,7 +7,6 @@ For this update:
 * Create a Grigori, a fiendish giant creature.
 * Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
-* Create the Kzugar, a fire vampire which serves the Fzugah- a god of knowledge, consumption, dedication, destruction, rebirth, and the eternal cycle.
 * Finish the Wekowyrd.
 
 Next update:  
