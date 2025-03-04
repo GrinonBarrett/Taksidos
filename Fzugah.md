@@ -24,7 +24,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
  • Strike Mind: The avatar may reach out to a foe within 20 yards to inflict a ranged electric, fire, psychic, or radiant attack. An attack inflicted this way treats a critical hit like that of a fire attack and a psychic attack.
 
-  • Fireball: The avatar looses a ball of flame, inflicting a fire *and psychic* attack against a foe within 100 yards. Upon impact, the fireball explodes to inflict a fire attack against everything within 25 yards (including the original target).
+ • Fireball: The avatar looses a ball of flame, inflicting a fire *and psychic* attack against a foe within 100 yards. Upon impact, the fireball explodes to inflict a fire attack against everything within 25 yards (including the original target).
 
 ---------------------
 
@@ -78,7 +78,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
 **Globocclusion**: It can see in a complete globe around itself instead of a single direction.
 
-**Glow**: It produces bright light for 5 yards, fair light for 5 yards beyond that, and dim light out for 40 yards beyond that. This glow exists on the material plane and the psychic plane.
+**Glow**: It produces bright light for 5 yards, fair light for 25 yards beyond that, and dim light out for 70 yards beyond that. This glow exists on the material plane and the psychic plane.
 
 **Resist Mundanity**: Non-magical attacks against the avatar cannot be critical hits.
 
@@ -86,7 +86,9 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
 **Tireless Stride**: Sprinting does not incur exhaustion for the avatar.
 
-**Hurl Flame**: Once per round, as an action or reaction, the avatar may loose flames in a 25 yard line. This line is 3 yards high and 1 yard wide. Anything caught in the line is subject to a fire attack *and a fire attack*. This line remains as a wall of flame for an hour (or until dismissed by the will of the avatar) which inflicts a fire attack against anything which passes through the wall and a fire attack with a 1d4 bonus at the end of any phase a creature occupies the space.
+**Hurl Flame**: Once per round, as an action or reaction, the avatar may loose flames in a 25 yard line from itself. This line is 3 yards high and 1 yard wide. Anything caught in the line is subject to a fire attack *and a fire attack*. This line remains as a wall of flame for an hour (or until dismissed by the will of the avatar) which inflicts a fire attack against anything which passes through the wall and a fire attack with a 1d4 bonus at the end of any phase a creature occupies the space.
+
+**WHole Mind**: The avatar is immune to effects which affect the mind.
 
 **Fzugah's Cry**: Once per encounter, the avatar may inflict a psychic attack *a sonic attack, and an additional psychic attack,* against everything within a mile.
 
