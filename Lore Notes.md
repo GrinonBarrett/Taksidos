@@ -41,7 +41,7 @@ Epithets:
 * Invoker of monstrocities
 * Lord of the Haze
 
-A hive-mind which has acended to the point of being an eldritch god. It consumes planets with its haze, feeding the armies of its mutated servants whose form is hand shaped into one of its "ideal forms". It does not ditectly interact with others, instead allowing its servants the opportunity to overcome each would through their haze and portals.
+A hive-mind which has acended to the point of being an eldritch god. It consumes planets with its haze, feeding the armies of its mutated servants whose form is hand shaped into one of its "ideal forms". It does not directly interact with others, instead allowing its servants the opportunity to overcome each world through their haze and portals. Its home realm, which contains its haze, was created by other gods as a way to 0lacate it from consuming everything.
 
 ### Fzugah
 Epithets:  
