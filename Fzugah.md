@@ -1,5 +1,5 @@
 ### Fzugah, Avatar
-The devouring flame. This avatar is a manifestation of Fzugah's power. A giant blaze of flame displaying every color known to every eye, radiating and pulsating as they continually transition.
+The devouring flame. This avatar is a manifestation of Fzugah's power. A giant blaze of flame displaying every color known to every eye, radiating and pulsating as they continually transition in tint.
 
 **Creature Type**: Fzugah is an Eldritch creature.
 
@@ -32,36 +32,36 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 17   | **Pole Axe**          | 17     | **Arrow, Bodkin Point**    | 17    |
-| **Longsword**              | 17    | **Greatsword**       | 17     | **Arrow, Broadhead**       | 17    |
-| **Mace**                   | 17    | **Maul**             | 17     | **Bolt** | 17    |
-| **Spear**                  | 17     | **Pike**            | 17     | **Brusgiata** | 17     |
-| **Hand Axe**               | 17     | **Madu**            | 17     | **Chakram** | 17    |
-| **Katar**                  | 17     | **Javelin**         | 17    | **Arquebus** | 17    |
-| **Dagger**                 | 17     | **Throwing Blade**  | 17   | **Musket** | 17    |
-| **Morningstar**            | 17     | **Sling**           | 17    | **Tronutonante** | 17    |
-| **Warpick**                | 17     |               |             | **Bare** |  21 |
+| **Club**                   | 20     | **Pole Axe**        | 18     | **Arrow, Bodkin Point**    | 19    |
+| **Longsword**              | 19     | **Greatsword**      | 18     | **Arrow, Broadhead**       | 19    |
+| **Mace**                   | 19     | **Maul**            | 18     | **Bolt** | 19    |
+| **Spear**                  | 19     | **Pike**            | 18     | **Brusgiata** | 19     |
+| **Hand Axe**               | 19     | **Madu**            | 18     | **Chakram** | 19    |
+| **Katar**                  | 19     | **Javelin**         | 18    | **Arquebus** | 19    |
+| **Dagger**                 | 19     | **Throwing Blade**  | 19   | **Musket** | 19    |
+| **Morningstar**            | 19     | **Sling**           | 18    | **Tronutonante** | 19    |
+| **Warpick**                | 19     |               |             | **Bare** |  24 |
 |                        |           |          |            |         |            |
-| **Acid**                   | 17     | **Fire**           | 24    | **Psychic** | 14     |
-| **Cold**                   | 24     | **Force**          | 17     | **Toxic**  | 17     |
-| **Crushing**               | 17     | **Ki**             | 20     | **Radiant** | 20     |
-| **Cutting**                | 17     | **Necrotic**       | 17     | **Sonic** | 17    |
-| **Electrical**             | 18     | **Piercing**       | 17     | **Biting** | 17    |
+| **Acid**                   | 19     | **Fire**           | 24    | **Psychic** | 17     |
+| **Cold**                   | 24     | **Force**          | 19     | **Toxic**  | 19     |
+| **Crushing**               | 19     | **Ki**             | 21     | **Radiant** | 24     |
+| **Cutting**                | 19     | **Necrotic**       | 19     | **Sonic** | 19    |
+| **Electrical**             | 19     | **Piercing**       | 19     | **Biting** | 19    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 17 |                |                  | **Undamaging** | 17 |
+| **Unlisted Damage Type** | 19 |                |                  | **Undamaging** | 19 |
 
 ---------------------
 
 #### Special Features
 
 **Demiphemeral Nature**: This avatar does not have a phsyical form. As such it   
- • Do not need to eat, sleep, or breathe.  
- • Have disadvantage on [Body] checks.  
- • Are immune to diseases, poisons and venom including toxic damage.  
- • Are not affected by spells which would affect flesh or physically manipulate them.  
- • Are not subject to incapacitation saves.  
+ • Does not need to eat, sleep, or breathe.  
+ • Has disadvantage on [Body] checks.  
+ • Is immune to diseases, poisons and venom including toxic damage.  
+ • Is not affected by spells which would affect flesh or physically manipulate them.  
+ • Is not subject to incapacitation saves.  
  • Cannot be healed except through rest.  
- • Have advantage on saves against effects which would grapple, restrain, or make the kzugar prone unless it specifies that they affect ephemera.
+ • Has advantage on saves against effects which would grapple, restrain, or make the avatar prone unless it specifies that they affect ephemera.
 
 **Kzugaine Phase**: The avatar exists in a sliver of reality between the material and psychic planes. This bestows a few features:    
  • Physical objects on the material or psychic plane are completely passable by the avatar if it uses its reaction in response to moving into that space.  
