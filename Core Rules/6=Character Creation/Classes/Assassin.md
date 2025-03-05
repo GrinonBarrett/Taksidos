@@ -46,7 +46,7 @@ You may grant yourself an advantage to a [Rflx] save or an Athletics check which
 If you successfully perform a sneak attack against a foe, roll a d12 and add your heroism. For a number of rounds equal to the result, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
 
 ### 4) Pinpoint Strike
-When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critcal hit and may modify the rolled wound by one step.  
+When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critical hit and may modify the rolled wound by one step.  
 If you were not detected by the foe, and took at least a -2 penalty this way,you may roll your sneak attack die and add that as an additional bonus for the purposes if determining if it is a critical hit.
 
 ### 6) Culling Blow
@@ -72,7 +72,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as an assassin, you gain the following features;  
 Your sneak attack bonus, if undetected, is increased to 1d6. 
 Once per encounter, when you affect a creature with your fell hand ability, you may choose to roll 3d6 or 1d20 instead of 1d12.  
-When you perform a sneak attack against a foe, you may grant yourself advantage on the attack. You must rest before you do so again.
+When you press attack against a prone or vulnerable foe, you may choose to gain a bonus to the attack equal to your heroism for the prupose of determining if it is a critical hit. You must rest before you do so again.
 
 #### Splash
-If you splash assassin as a member of another class, you gain the assassin's sneak attack ability.
+If you splash assassin as a member of another class, you gain the assassin's sneak attack ability and training with a weapon of your choice.
