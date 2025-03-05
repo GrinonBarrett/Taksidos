@@ -36,10 +36,10 @@ You may choose to enter into a pact with a greater power. If you do, you lose yo
 You can attempt to call upon a greater power by devoting 5 rounds to pleading for help. This requires you take no other actions or movement during this time. Roll a d6. If the result is greater than 2, your patron's assistance manifests in the form a spell whose tier is equal to half of the result. Each time you perform a plea, you receive a -1 penalty to future plea results. This penalty is reduced each time you complete a long or full rest.
 
 ### 3) Terrifying Power
-Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, everything within a number of yards equal to the spell's tier + the amount of spell sickness you gained this way must succeed [Will] save or become afraid of you and your magic for a number of rounds equal to the points of failure. Such a creature must use its turns to put distance between itself and you or otherwise premeptively establish some form of defense or cover against you. You may grant advantage on the save to a number of creature you can perceive up to your heroism bonus.
+Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, everything within a number of yards equal to the spell's tier + the amount of spell sickness you gained this way must succeed [Will] save or become afraid of you and your magic for a number of rounds equal to the points of failure. Such a creature must use its turns to put distance between itself and you or otherwise premeptively establish some form of defense or cover against you. You may grant advantage on the save to a number of creatures you can perceive up to your heroism bonus.
 
 ### 4) Creeping Power
-Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, you may up to a number of yourds equal to the spell sickness you receive this way towards the target or area of the spell. You must move closer to the target/are this way. If the spell has an area, you may move to a point within it so long as your movement this way is enough to get there.
+Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, you may move up to a number of yards equal to the spell sickness you receive this way towards the target or area of the spell. You must move closer to the target/are this way. If the spell has an area, you may move to a point within it so long as your movement this way is enough to get there.
 
 ### 4) Mystic Defense
 When a magical attack from a spell you know would target you, you may impose disadvantage against that attack. You must rest before doing so again.
@@ -64,7 +64,7 @@ So long as a creature is affected by one of your spells, and for 1 minute afterw
 ### 8) Pessimystical
 You gain a bonus to your spell checks equal to your tension.  
 Anytime you lose hitpoints, you gain a bonus to your next counterspell check equal to the number of hitpoints lost this way.  
-Anytime ou gain tension, your spell sickness is reduced by 1.
+Anytime you gain tension, your spell sickness is reduced by 1.
 
 ### 9) Expanded Magical Art
 You may now reduce attributes other than what you chose for your Magical Art feature to gain the benefits of the spellburn, but must reduce such an attribute by 2 for every +1 benefit to be gained this way.
