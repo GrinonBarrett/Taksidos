@@ -55,7 +55,7 @@ At levels 5, 8, and 10- you may choose to splash another class into your trainin
 Your maximum pool of luck increases by 2.  
 You learn a language of your choice.  
 You gain training in a weapon of your choice.  
-You gain an advantage of your choice.
+You gain an edge of your choice.
 
 #### Splash
 If you splash rogue as a member of another class, you gain the following:  
@@ -80,7 +80,7 @@ You gain an Edge of your choice.
 • **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
 
-• **Tongue and Cheek**. Select two languages. You learn both.
+• **Tongue and Cheek**. Select two languages. You learn both instantly. This does not count against your items learned.
 
 • **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per [Body] save, you may spend a luck point to grant an additional +2 bonus.
 
@@ -119,5 +119,5 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 
 • **Bob and Weave**. When an attack against you fails, you may use your reaction to spend any number of luck points. You may move a number of feet equal to the luck spent this way +1. This movement does not have to cause brawling/trampling.
 
-• **Grand Feat**. When performing a check or save, you may choose to roll 2d8 + your heroism + your attribute bonus. You must perform a rest before doing so again.
+• **Grand Feat**. When performing a check or save, you may choose to roll 2d8 + your heroism in place of the 3d6. You must perform a rest before doing so again.
 
