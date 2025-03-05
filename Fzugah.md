@@ -88,7 +88,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
 **Hurl Flame**: Once per round, as an action or reaction, the avatar may loose flames in a 25 yard line from itself. This line is 3 yards high and 1 yard wide. Anything caught in the line is subject to a fire attack *and a fire attack*. This line remains as a wall of flame for an hour (or until dismissed by the will of the avatar) which inflicts a fire attack against anything which passes through the wall and a fire attack with a 1d4 bonus at the end of any phase a creature occupies the space.
 
-**WHole Mind**: The avatar is immune to effects which affect the mind.
+**Whole Mind**: The avatar is immune to effects which affect the mind.
 
 **Fzugah's Cry**: Once per encounter, the avatar may inflict a psychic attack *a sonic attack, and an additional psychic attack,* against everything within a mile.
 
@@ -97,5 +97,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 **Mighty Presence**: Before initiative is rolled, and at the end of each round, each creature within 250 yards or that can perceive the avatar must succeed a [Will] save with a DV of 17 or become filled with dread and fear. While afraid this way, it has disadvantage on all checks, saves, attacks rolls, rolls for initiative, and is dazed. It must continue to make saves at the end of each round. It has disadvantage on these saves if it is within 250 yards of the avatar and can perceive it. If it is not within 250 yards and cannot perceive it, it gains advantage on the save. A critical failure forces the creature to also make an incapcitation save. A critical success ends the effect. A week without perceiving the avatar reduces the DV by 5.
 
 **Fzugah's Face**: The avatar cannot be seen by any creature unless it is dazed, has [Prcp] 15 or greater, or inebriation of 12 or higher. Its glow can still be seen. A dazed, obtunded, or stuporous creature can see a silhouette of a face in the flames composed by flames of a mismatched color.
+
+**Immolate**: Once per round, the avatar may choose a non-mindless creature which it can perceives, as an action or reaction. *It musts succeed an [Inte] save with a DV of 20 or be beset by a burning mind, suffering inebriation equal to half of the points of failure. It is set ablaze, like a fiery critical hit, for a number of rounds equal to the points of failure. It is obtunded during this time. If the save was a critical failure, it is also subject to a psychic and fire attack*.
 
 **Retake Warmth**: Anytime the avater has inflicted a fire attack against a creature successfully, *it may use its reaction to also inflict a cold attack*. If the cold attack qualified to damage armor or was a critical hit, it does not count against the avater's use of their reaction for the round.
