@@ -10,6 +10,7 @@ For this update:
 * Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
 * Create a vampire template that represents those that come to follow the commands of Alekard.
 * Finish the Wekowyrd.
+* Add twin-headed snake deity for Lithen pantheon, Aqazos. Defender of the natural worlds and its laws. Occasional helpful, occasionally antagonistic.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
