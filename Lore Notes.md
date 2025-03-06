@@ -4,7 +4,7 @@
 A place between places. A world primarily dominated by alder forest, though there do seem to be some carrs. It is perpetually dusk and fog shrouds the view of the distance. A few creatures live here, but is mostly inhabited and guarded by the Alderolves. The realm itself can function as a through space between wooded lands in other worlds.
 
 ### Vindherveil
-A land of snow. It seems to have been a place of valleys, hills, and mountain at some point. Occsional abandoned stone castle and ghost towns can be discovered for those that brave the world long enugh, although something almost always takes those who linger for such time. A gatway to this realm is not a predictable thing.
+A land of snow. It seems to have been a place of valleys, hills, and mountain at some point. Occasional abandoned stone castles and ghost towns can be discovered for those that brave the world long enugh, although something almost always takes those who linger for such time. A gateway to this realm is not a predictable thing.
 
 [Running Creatures]: # " Notes for running various creatures "
 
@@ -59,7 +59,7 @@ The Elder Sun "
 
 [Tertiary Gods]: # " The third highest order of gods. Too powerful to exist on the more fragile planes in their proper form. They can, and will, safely send an avatar on their behald to represent themselves. They may also have powerful servants of their own. Most of the relevent gods of religious pantheons will fall into this category."
 
-[Blancocha]: # " A fiendish being that seeks to corrupt moral beings and institutions. It operates by contacting the faithful during times of doubt and by elevating the selfish. It prefers its agents to each act alone, using their isolation to make its communication (and thus grasp) easier. Though not as powerful as an eldritch deity, it seeks to rival them eventually. It is not as powerful as it thinks, but is not afraid to elevate lower beings to nearly godlike status.
+[Blancocha]: # " A fiendish being that seeks to corrupt moral beings and institutions. It operates by contacting the faithful during times of doubt and by elevating the selfish. It prefers its agents to each act alone, using their isolation to make its communication (and thus grasp) easier. Though not as powerful as an eldritch deity, it seeks to rival them eventually. It is not as powerful as it thinks, but is not afraid to elevate lower beings to subscended status.
 Epithets;  
 Bringer of lights
 The sickening radiance
