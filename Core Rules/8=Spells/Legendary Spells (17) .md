@@ -95,8 +95,22 @@ A diviner of astrological events. Their work is an important study for anyone se
 
 **Critical Failure**: The meteor instead targets you. You swear you can see a panicked smile in the flames.
 
-### Kostas (2
+### Kostas (3
 An alchemist and a master of conjury. His influence can be seen in many an chemister's treatise.
+
+#### Kostas' Antitoxin
+
+**Minimum Tier**: 2
+
+**Casting Time:** 2 actions
+
+**Duration**: 1 hour
+
+**Effect**: You project a strange dust in a 3 yard cone by snapping outward with your hands. You perform a toxic attack against a creature of your choice within the cone, focusing much of the magical dust on it. If the attack is successful, it does not inflict a wound or the effect of a critical hit. Instead, the dust is absorbed into the form of the afflicted creature, making its minimum possible defense against toxic attacks that of the spell attack's result for the duration.
+
+**At Higher Tiers**: Each tier beyond can either increase the number of creatures which may be affected, increse the duration by 1 hour divided by the number of targets, or provide a single attack from the spell a +1 bonus.
+
+**Critical Failures**: A critical failure sees the caster accidentally attack themselves with a toxic attack and their intended targets with a traditional toxic attack. These attacks inflict wounds and critical hits as normal.
 
 #### Kostas' Caustic Cast
 
@@ -116,7 +130,7 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 
 **Casting Time**: 4 Actions
 
-**Effect**: You project a strange faming fluid in a 3 yard cone by flicking out your hands, touching together. Anything within the cone is covered in an insulating material for an hour. Cold, electric, and fire against anything covered in this spray have disadvantage. Additionally, the effect of a creature's Mucous feature is negated while coated this way. Furthermore, a creature affected by this spells suffers a penalty to all [Rflx] checks and saves equal to half of the spell's tier (minimum of -1). The coating can be negated by an acid attack with a value of 13 or greater. Time spent in soapy water dissolves the foam twice as quick.
+**Effect**: You project a strange foaming fluid in a 3 yard cone by flicking out your hands, touching together. Anything within the cone is covered in an insulating material for an hour. Cold, electric, and fire against anything covered in this spray have disadvantage. Additionally, the effect of a creature's Mucous feature is negated while coated this way. Furthermore, a creature affected by this spells suffers a penalty to all [Rflx] checks and saves equal to half of the spell's tier (minimum of -1). The coating can be negated by an acid attack with a value of 13 or greater. Time spent in soapy water dissolves the foam twice as quick.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
 
