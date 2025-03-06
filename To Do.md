@@ -106,7 +106,7 @@ Classes, Done:
 **W**arrior  (Full blown fighter)  
 
 Non-Canon Classes, Done:  
-**D**esultor  (Inspired by old kung-fu movies where the choreography stresses awkward fighting. For those that want to play a drunken master, though the class should not be played while drunk)
+**D**esultor  (Inspired by old kung-fu movies where the choreography stresses awkward fighting. For those that want to play a drunken master, though the class should not be played while drunk)  
 **I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
 **M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
