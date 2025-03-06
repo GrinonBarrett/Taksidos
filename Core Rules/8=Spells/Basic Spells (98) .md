@@ -1456,7 +1456,30 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
 
-### W (6
+### W (7
+
+#### Wall of Denial
+
+**Minimum Tier**: 4
+
+**Casting Time**: 6 actions
+
+**Range**: 5 yards
+
+**Effect**: You produce a barrier as thin as 1 inch or as thick as 1 foot which is 40 contiguous square feet. The barrier does not impose itself into or through any object which was already in place when the wall materializes. The barrier exists as long as you concentrate on it and remain within range. A critical success with the spell check lets it last for a number of rounds equal to half of the points of success.
+
+Non-magical projectiles (including any loose object which is thrown or otherwise propelled but not carried by a creature) which are not larger than the surface of the barrier cannot pass through it, nor can the rays of wands and staves. Projectiles and rays from spells whose total tier is less than half of this spell's tier cannot bypass the wall.  Magical items (including magical munitions of a weapon) passing through the barriar have their total movement/range reduced by a number of yards equal to the spell's tier. In the case of those carried by a creature, there is no effect unless it is armor. A creature attempting to pass through the barrier in magical armor has that movement reduced by a number of feet equal to the spell's tier. Note that the given falling speed of a creature is likely to exceed the loss caused by the barrier, making this ineffective to use as a bridge for those donning magic armor.
+
+Something like the Creeping Death spell could move around the barrier if it does not seal of the only passage way. This spell does not prevent creatures from moving within nor the items carried by said creature.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, choose one of the below benefits;  
+* Range is increased by 15 yards, this is cumulative
+* Area of spell is increased by 10 square feet, this is cumulative
+* Spell lasts for a number of rounds after the concentration is broken equal to [Magic] bonus, this is cumulative
+* Spell also manifest on the ethereal plane
+* Spell also manifests on the psychic plane
+
+**Critical Failure**: You have managed to paralyze yourself in a form fitting forcefield that appears to only affect yourself. You accrue spell sickness equal to half the points of failure. You are immobile for a number of rounds equal to half the points of failure.
 
 #### Waterworking
 
