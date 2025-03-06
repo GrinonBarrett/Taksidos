@@ -101,3 +101,5 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 **Immolate**: Once per round, the avatar may choose a non-mindless creature which it can perceives, as an action or reaction. *It musts succeed an [Inte] save with a DV of 20 or be beset by a burning mind, suffering inebriation equal to half of the points of failure. It is set ablaze, like a fiery critical hit, for a number of rounds equal to the points of failure. It is obtunded during this time. If the save was a critical failure, it is also subject to a psychic and fire attack*.
 
 **Retake Warmth**: Anytime the avater has inflicted a fire attack against a creature successfully, *it may use its reaction to also inflict a cold attack*. If the cold attack qualified to damage armor or was a critical hit, it does not count against the avater's use of their reaction for the round.
+
+[Secret Notes]: # " To make the avatar appropriately durable, let it recover 1d20 points of undeath for every point of [Inte] lost by any creature as a result of its features. "
