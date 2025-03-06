@@ -56,6 +56,7 @@ Hunger
 
 #### Common Creature Terms
 
+**Avatar**: A manifestation of a godlike entity that is under the direct operation of said entity even if it does not occupy the same plane of existence.  
 **Bulcher**: A miscellaneus creeping and/or crawling thing with a terrifying feature.  
 **Riner**: A witch-type creature. Something which dwells in a secluded place and can perform magic in exchange for favors or can harm trespassors.  
 **Valder**: A spirit of nature which appears rather spontaneously. Said that those attuned to nature can call upon them.
