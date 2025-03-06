@@ -3,7 +3,6 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Add a spell beginning with J
 * Create a Grigori, a fiendish giant creature.
 * Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
@@ -73,9 +72,6 @@ Jolling (slows a creature's run speed by hindering limbs)
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
-Wall of Denial  
-A wall which can stop ranged missiles and attacks from spells if cast at half or lower tier. Can also potentially stop other magical effects from bypassing. If cast high enough, it can stop siege weapons.
-
 Curation  
 A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
 
@@ -110,6 +106,7 @@ Classes, Done:
 **W**arrior  (Full blown fighter)  
 
 Non-Canon Classes, Done:  
+**D**esultor  (Inspired by old kung-fu movies where the choreography stresses awkward fighting. For those that want to play a drunken master, though the class should not be played while drunk)
 **I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)  
 **J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
 **M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.)  
