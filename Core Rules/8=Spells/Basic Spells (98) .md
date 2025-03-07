@@ -395,13 +395,13 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **Effect**: You conjure a sand tailed spirit of nature to strike a foe within range, treat as a biting attack. If the attack would qualify to damage the foe's armor, it instead constricts the foe. As a reaction, it can be directed against another foe, inflicting the biting attack. Each round, during the primary action phase, it will attack the creature it is constricting with a crushing attack.
 
-While constricting a foe, treat as a graplle with the following exception. Your value is equal to the spell check result + spell tier. The grappled target cannot use [Rflx]. A critical success breaks the grasp of the ertvalder, preventing it from constrictung the target for the remainder of the round.
+While constricting a foe, treat as a grapple with the following exception. Your value is equal to the spell check result + spell tier. The grappled target cannot use [Rflx] to escape. A critical success breaks the grasp of the ertvalder, preventing it from constricting the target for the remainder of the round.
 
 The spirit is capable of moving through sand, dirt, and stone unimpeded. The spirit ceases to be after a number of rounds equal to the spell's tier +1.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
-**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a ccrushing attack. You are prone during this time.
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a crushing attack. You are prone during this time.
 
 #### Everwarmth
 
