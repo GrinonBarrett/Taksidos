@@ -257,7 +257,7 @@ On a critical success, you may have the shape of the explosion change to become 
 
 **Critical Failure**: You fail to form a stable shape with the spell, causing it to explode with you at the center, which can inflict knockback (you are knocked backwards). Additionally, for a number of rounds equal to the spell's tier, you are subject to residual particuls- inflicting a force attack with disadvantage against you at the end of each such round.
 
-### Zorne (2
+### Zorne (3
 
 #### Zorne's Ball Lightning
 
@@ -272,6 +272,18 @@ On a critical success, you may have the shape of the explosion change to become 
 **At Higher Tiers**: Each tier beyond its minimum can either increase the speed by 1 yard, lifespan by 2 rounds, or the explosion radius by 1 yard.
 
 **Critical Failure**: You attempt to form the ball lightning, but succeed only in electricuting yourself. Inflict two electrical attacks against yourself, with the first gaining a bonus equal to the spell's tier. If both attacks against you were a critical hit, treat the second as a fire attack.
+
+#### Zorne's Shield
+
+**Minimum Tier**: 1
+
+**Casting TIme**: 1 reaction, which you take in response to a magical attack against yourself
+
+**Effect**: You gain a bonus to defense against that attack equal to the lowest of your [Body] bonus or [Fort] bonus. If the spellcheck was a critical success, you may instead use your [Magic] bonus.
+
+**At Higher Tiers**: For every 2 tiers beyond minimum, you gain an additional +1 to defense against that attack.
+
+**Critical Failure**: You gain 1d2 points of spell sickness.
 
 #### Zorne's Sparks
 
