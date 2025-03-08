@@ -1440,7 +1440,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (1
+### V (2
 
 #### Volt Switch
 
@@ -1455,6 +1455,24 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards.
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
+
+#### Voice of Familiarity
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Effect**: You send a telpathic message to any number of creatures you are personally familiar with on the same plane of existence. The length of the message is a number of words equal to the spell's tier divided by the number of creatures you choose to communicate with. This spell does not allow you to know if a creature received your message or if it is even on the same plane of existence.
+
+When you cast this, you may choose for recipients to understand the message to be of your voice or as an unknown voice.
+
+A critical success with the spell allows you to do one of the following;  
+Increase the word count to increase to spell tier + [Magic] bonus divided by number of intended recipients, or  
+Treat the "voice" of the spell as being one of another creature you are familiar with.
+
+**At Higher TIers**: The benefits are noted above.
+
+**Critical Failure**: The message fails to reach anything.
 
 ### W (7
 
