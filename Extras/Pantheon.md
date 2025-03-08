@@ -13,6 +13,9 @@ A god of life, death, and vengeance.
 ## Lithenic
 The exact origin of Lithenic deities is heavily debated. Some argue that they are actually stolen from lessor known pantheons belonging to now forgotten peoples. Others claim they are actually exaggerations of historical characters. Regardless, if one is to communicate within the lithen communities, they should be learned of the pantheon to make sense of many of its expressions. In Lithenic theology, children are considered to be expressions of more minute forms of the parent's symbol. Thus the children of Zerun, when referred to as such, are functionally narrowed aspects of Zerun himself.
 
+#### Aqazos
+The serpent that marks the barrier of this realm for those beyond. Both ends of its body terminates in a head. It watches over the natural world. It is also a messenger for the gods beyond our realms, where each head may communicate independently. Aqazos is noted as the least emotional, yet no less furious, of the gods.
+
 #### Azderion
 Guardian of the island of the river of the afterlife, where souls may land before going a drift towards their final destination. He is a skeletal figure with the skull of something between a man and a bull. If one chose to break a vow to a god or defile their sacrifice to their god in some way (such as fraud of desecration) he will lock them in his cavern labyrinth to chase down as food later.
 Sometimes, those in the mortal world that get lost in caves will find themselves in his labyrinth. He has been known to come out of such caves to seek out one who has profaned a divine sacrificial offering to eat them.
