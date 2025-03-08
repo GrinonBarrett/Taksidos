@@ -36,8 +36,18 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 **Haldre's Tome**  
 *Unique*  
 $7,800, 3 lbs.  
-The personal tome of Haldre, writ before his untimely demise nearly a decade ago. This grimoire contains the following spells at the indicated tiers;  
+The personal tome of Haldre, writ before his untimely demise nearly a decade ago. Unfortunately, it doesn't seem he developed any unique spells in his life. This grimoire contains the following spells at the indicated tiers;  
 * Alarum, 1st
 * Faux Fos, 1st
 * Frost Lance, 3rd
 * Grasp, 2nd
+
+**Zorne's Tome**  
+*Unique*  
+$ 10,350, 5 lbs.  
+This tome functions as both instructional material on combat oriented spells and personal recollections of intense battles. If it is ever returned to Zorne, he might just buy you a drink. This grimoire contains the following spells at the indicated tiers;  
+* Blast Lightning, 4th
+* Sentinel, 4th
+* Zorne's Ball Lightning, 4th
+* Zorne's Shield, 2nd
+* Zorne's Sparks, 1st
