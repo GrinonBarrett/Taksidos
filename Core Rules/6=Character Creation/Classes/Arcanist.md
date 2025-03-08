@@ -32,7 +32,7 @@ You may choose to let a memorized arcana go, loosing it from your mind and freei
 
 ### 2) Magic Press
 The bonus to spell checks you gain from staves for spells you know is increased by 1.
-When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack.
+When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack. Alternatively, when you inflict a single attack against a creature with a spell, you may use your reaction to Press Attack with it.
 
 ### 3) Phased Strike
 When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
