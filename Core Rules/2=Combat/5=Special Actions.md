@@ -72,7 +72,7 @@ Take something within reach of your hand (or appropriate limb) and place it in a
 
 #### Press Attack
 Reaction  
-Declared when you make an attack, you gain advantage on the attack. You also become vulnerable until the end of the round.
+Declared when you make an unarmed or weapon attack, you gain advantage on the attack. You also become vulnerable until the end of the round.
 
 #### Push
 Reaction  
