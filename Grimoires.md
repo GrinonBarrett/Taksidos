@@ -33,7 +33,7 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 
 **Haldre's Tome**  
 *Unique*  
-$7,800, 3 lbs.
+$7,800, 3 lbs.  
 The personal tome of Haldre, writ before his untimely demise nearly a decade ago. This grimoire contains the following spells at the indicated tiers;  
 * Alarum, 1st
 * Faux Fos, 1st
