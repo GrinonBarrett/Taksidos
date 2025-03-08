@@ -257,7 +257,7 @@ On a critical success, you may have the shape of the explosion change to become 
 
 **Critical Failure**: You fail to form a stable shape with the spell, causing it to explode with you at the center, which can inflict knockback (you are knocked backwards). Additionally, for a number of rounds equal to the spell's tier, you are subject to residual particuls- inflicting a force attack with disadvantage against you at the end of each such round.
 
-### Zorne (1
+### Zorne (2
 
 #### Zorne's Ball Lightning
 
