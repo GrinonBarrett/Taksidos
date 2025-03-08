@@ -267,9 +267,9 @@ On a critical success, you may have the shape of the explosion change to become 
 
 **Range**: 10 yards
 
-**Effect**: You produce a glowing ball of energy from which elctricity arc and lashes out, 1 foot in diameter, which hovers towards a direction of your choosinbg at a speed of up to 4 yards per move. Anyone casting a Call Lightning or Swift Bolt spell while the ball lightning is within range of that spell may designate the ball as the point of origin for it. Upon impact, the sphere explodes causing anything within 4 yards to be subject to the explosion. The explosion will inflict a lightning attack aginst whatever it impacted with and the resulting explosion will inflict an electrical attack against anything within the blast. The ball continues to exist for 8 rounds beyond the round it was created, or until impact, whichever is first.
+**Effect**: You produce a glowing ball of energy from which electricity arcs and lashes out, 1 foot in diameter, which hovers towards a direction of your choosing at a speed of up to 4 yards per move. Anyone casting a Call Lightning or Swift Bolt spell while the ball lightning is within range of that spell may designate the ball as the point of origin for it. Upon impact, the sphere explodes causing anything within 4 yards to be subject to the explosion. The explosion will inflict an electric attack aginst whatever it impacted with and the resulting explosion will inflict an electrical attack against anything within the blast (including what it impacted with). The ball continues to exist for 8 rounds beyond the round it was created, or until impact, whichever is first.
 
-**At Higher Tiers**: Each tier beyond its minimum can either increase the speed by 1 yard, lifespan by 2 rounds, or the explosion radius by 1 yard.
+**At Higher Tiers**: Each tier beyond its minimum can either increase the speed by 1 yard, lifespan by 2 rounds, or the explosion radius by 1 yard- caster's choice.
 
 **Critical Failure**: You attempt to form the ball lightning, but succeed only in electricuting yourself. Inflict two electrical attacks against yourself, with the first gaining a bonus equal to the spell's tier. If both attacks against you were a critical hit, treat the second as a fire attack.
 
@@ -291,7 +291,7 @@ On a critical success, you may have the shape of the explosion change to become 
 
 **Casting Time:** 2 actions
 
-**Effect**: You cast flittering electrical figments in a 5 yard cone in front of you. A single creature (or object) of your choice within that cone has an electrical attack inflicted against it. If the attack is a critical hit, it is treated as that of a fire attack.
+**Effect**: You cast flittering electrical figments in a 5 yard cone in front of you. A single creature (or object) of your choice within that cone has an electrical attack inflicted against it. If the attack is a critical hit, it is treated as that of a fire attack.  If a Zorne's Ball Lightning is within a number of yards equal to or less than your [Magic] score, you may have that as the point of origin for the cone.
 
 **At Higher Tiers**: Each tier beyond its minimum will either increase the cone size by 1 yard or increase the number of targets you may attack within the cone by 1 (your choice).
 
