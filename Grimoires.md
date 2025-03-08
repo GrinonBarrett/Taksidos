@@ -2,7 +2,7 @@ Grimoires are tomes filled with the details of magical processes. Each tome cont
 
 A grimoire is sufficient material to study in learning a spell. Each spell is recorded with a set tier, which must be at least the minimum tier of the spell. This affects the learning time of the spell (some arcanists have been known to express more advanced versions of their spells, being those of a higher tier than minimum, specifically to keep inexperienced studiers from fully understanding them). The grimoire may include spells at a tier higher than their minimum. If they do, and one learns the spell from the grimoire, they may cast it at its minimum tier or higher as they would be able to had they earned any other way.
 
-If a tome is written in a language the reader does not understand, they may require a check to understand the nature of any spell contained. A character capable of casting a spell can identify ig the grimoire possesses it, but still cannot benefit from the tome until they can understand the written language.
+If a tome is written in a language the reader does not understand, they may require a check to understand the nature of any spell contained. A character capable of casting a spell can identify if the grimoire possesses it, but still cannot benefit from the tome until they can understand the written language.
 
 **Generic Grimoires**  
 $6,000, 2.5 lbs.  
