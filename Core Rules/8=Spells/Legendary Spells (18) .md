@@ -272,3 +272,15 @@ On a critical success, you may have the shape of the explosion change to become 
 **At Higher Tiers**: Each tier beyond its minimum can either increase the speed by 1 yard, lifespan by 2 rounds, or the explosion radius by 1 yard.
 
 **Critical Failure**: You attempt to form the ball lightning, but succeed only in electricuting yourself. Inflict two electrical attacks against yourself, with the first gaining a bonus equal to the spell's tier. If both attacks against you were a critical hit, treat the second as a fire attack.
+
+#### Zorne's Sparks
+
+**Minimum Tier**: 1
+
+**Casting Time:** 2 actions
+
+**Effect**: You cast flittering electrical figments in a 5 yard cone in front of you. A single creature (or object) of your choice within that cone has an electrical attack inflicted against it. If the attack is a critical hit, it is treated as that of a fire attack.
+
+**At Higher Tiers**: Each tier beyond its minimum will either increase the cone size by 1 yard or increase the number of targets you may attack within the cone by 1 (your choice).
+
+**Critical Failures**: The sparks fizzle as they leave you body, before you are visibly elctrocuted in an animated manner. The electrical attack is inflicted against you, with a bonus equal to the spell tier for the purpose of determining if it is a critical hit.
