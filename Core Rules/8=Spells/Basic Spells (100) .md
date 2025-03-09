@@ -1348,7 +1348,7 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (3
+### T (4
 
 #### Telekinesis 
 
@@ -1384,6 +1384,20 @@ If increasing the maximum weight of the object moved, the new weight maximum (me
 **At Higher Tiers**: For each tier above minimum, you may target an additional creature within range.
 
 **Critical Failure**: You have managed to attract the attention of those creatures you sought to tell. For a number of days equal to the points of failure, they will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, they gain advantage on their attacks against you. Additionally, during this time, they will know the general direction towards you- but not how far exactly.
+
+#### Temporialysis
+
+**Minimum Tier**: 4
+
+**Casting time** 5 + spell tier actions
+
+**Effect**: The caster chooses rounds, minutes, hours, or days. The caster disappears from space and time for a number of selected time units equal to 1d6 + spell tier. They return as close to their original relative position as phsyically possible. THe caster (and any other thing affected by this spell)is completely unaffected by the passage of time. THe spell seems to cause an instant change to their perception.
+
+**At Higher Tiers**: Each tier beyond minimum, other than the above benefits, can do one of the following;  
+Improve the die level of the d6 by one.  
+THe caster may affect an additional creature through touch. The total time passed this way is divided by 1 + the total number of creatures affected this way.
+
+**Critical Failure**: The time that passess is multiplied by the points of failure. Additionally, you gain spell sickness eqal to the points of failure.
 
 #### Thornvalder
 
