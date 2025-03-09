@@ -40,6 +40,10 @@ Contains the spell *Dragon's Breath*.
 Uses [Will]. Produces an undamaging attack. A foe struck with it falls asleep at the end of the round. The exact nature of this is up to the narrator.  
 Contains the spell *Feyding Gesture*.
 
+**Staff of Kreancy**, $4,800
+Uses [Fort]. Can produce a necrotic attack.  
+Contains the spell *Zenith*.
+
 **Staff of Gravomancy**, $4,800
 Uses [Inte]. Can produce a crushing attack.  
 Contains the spell *Gravitic Disruption*.
