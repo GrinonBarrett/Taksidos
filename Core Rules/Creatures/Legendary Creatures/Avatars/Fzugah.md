@@ -28,7 +28,7 @@ The devouring flame. This avatar is a manifestation of Fzugah's power. A giant b
 
 ---------------------
 
-**Table**: *Attack versus Creature* {Fix Later}
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
