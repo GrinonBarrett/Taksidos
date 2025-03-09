@@ -33,6 +33,15 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 * Havery, 2nd
 * Rotword, 3rd
 
+**Tome of the Warmage**  
+$10,000, 2.5 lbs.  
+A manual written to teach the most important spells for one caught on the battlefield without weapon. Many a warmage has sworn by the neccesity of the spells contained within. This grimoire contains the following spells at the indicated tiers;  
+* Abatis, 2nd
+* Imbue, 1st
+* Resend, 1st
+* Seclusion Circle, 3rd
+* Swift Bolt, 2nd
+
 **Tome of the Ygruigist**  
 $10,000, 3 lbs.  
 A scholarly tome which is directed at magics involving liquids. It's kind has been invaluable in a number of applications.
