@@ -17,6 +17,15 @@ A tome written by a mage with an unusual talent. This grimoire contains the foll
 * Synnefopothy, 3rd
 * Venting Burst, 2nd
 
+**Tome of a Forgotten Magi**  
+$10,000, 3 lbs.  
+A tome written by some nameless arcane practioner. THis grimoire contains the following spells at the indicated tiers;  
+* Alarum, 1st
+* Destructive Volley, 1st
+* Disimpress, 2nd
+* Imbue, 1st
+* Silent Alarm, 2nd
+
 **Tome of the Pyromancer**  
 $8,000, 2.5 lbs.  
 One of a number of tomes written by one who has become obssessed with fire magic. This grimoire contains the following spells at the indicated tiers;  
