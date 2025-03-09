@@ -52,6 +52,10 @@ Contains the spell *Venting Burst*.
 Uses [Prcp]. Can produce a cutting attack.  
 Contains the spell *Flechette*.
 
-**Staff of the Storm Mage**, $4,800
+**Staff of the Storm Mage**, $4,800  
 Uses [Will]. Can produce a cold attack.  
 Contains the spell *Arc Lighting*.
+
+**Staff of Wardant**, $4,800
+Uses [Will]. Can produce a radiant attack.  
+Contains the spell *Seclusion Circle*.
