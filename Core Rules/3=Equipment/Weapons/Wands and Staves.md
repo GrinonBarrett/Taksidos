@@ -32,25 +32,29 @@ Staves are two handed weapons which can function like wands (including the produ
 Uses [Inte]. Can produce an electrical attack.  
 Contains the spell *Arc Lightning*.
 
-**Staff of Dragon's Fire**, $4,800
+**Staff of Dragon's Fire**, $4,800  
 Uses [Fort]. Can produce a fire attack.  
 Contains the spell *Dragon's Breath*.
 
-**Staff of the Dream Weaver**, $5,000
+**Staff of the Dream Weaver**, $5,000  
 Uses [Will]. Produces an undamaging attack. A foe struck with it falls asleep at the end of the round. The exact nature of this is up to the narrator.  
 Contains the spell *Feyding Gesture*.
 
-**Staff of Kreancy**, $4,800
+**Staff of Kreancy**, $4,800  
 Uses [Fort]. Can produce a necrotic attack.  
 Contains the spell *Zenith*.
 
-**Staff of Gravomancy**, $4,800
+**Staff of Gravomancy**, $4,800  
 Uses [Inte]. Can produce a crushing attack.  
 Contains the spell *Gravitic Disruption*.
 
-**Staff of Gusts**, $4,800
+**Staff of Gusts**, $4,800  
 Uses [Will]. Can produce a force attack.  
 Contains the spell *Venting Burst*.
+
+**Staff of Illspoke**, $4,800  
+Uses [Empy]. Can produce a toxic attack.  
+Contains the spell *Rotword*.
 
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
@@ -60,6 +64,6 @@ Contains the spell *Flechette*.
 Uses [Will]. Can produce a cold attack.  
 Contains the spell *Arc Lighting*.
 
-**Staff of Wardant**, $4,800
+**Staff of the Wardant**, $4,800  
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Seclusion Circle*.
