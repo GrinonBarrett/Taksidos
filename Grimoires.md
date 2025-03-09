@@ -34,7 +34,7 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 * Rotword, 3rd
 
 **Tome of the Ygruigist**  
-$10,000, 2.5 lbs.  
+$10,000, 3 lbs.  
 A scholarly tome which is directed at magics involving liquids. It's kind has been invaluable in a number of applications.
 * Conjure Water, 2nd
 * Hydravidity, 1st
