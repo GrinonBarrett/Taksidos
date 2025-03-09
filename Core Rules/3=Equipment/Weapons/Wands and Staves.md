@@ -26,24 +26,32 @@ Uses [Will]. When used, it produces a bolt of electricity towards the foe.
 Uses [Empy]. When used, performs an undamaging attack which knocks the foe prone instead of inflicting a wound. A critical hit also confers a -1 penalty to all attacks they make before the end of the next round. Many describe the sensation of being struck by this wand as unpleasent and mildy confusing.
 
 ### Staves
-Staves are two handed weapons which can function like wands (including the producing of a ray) or clubs. Each staff also possess a spell. The wielder of the staff may cast the possessed spell as though they knew it. Furthermore, if they do know the spell- they gain a +1 bonus to spellchecks when casting that spell and a +1 to saves against that spell.
-
-**Staff of Shrapnel**, $4,800  
-Uses [Prcp]. Can produce a slashing attack.  
-Contains the spell *Flechette*.
+Staves are two handed weapons which can function like wands (including the producing of a ray) or clubs. Each staff also possesses a spell. The wielder of the staff may cast the possessed spell as though they knew it, so long as they have a means of casting spells. Furthermore, if they do know the spell- they gain a +1 bonus to spellchecks when casting that spell and a +1 to saves against that spell.
 
 **Staff of the Arcaster**, $4,800  
 Uses [Inte]. Can produce an electrical attack.  
 Contains the spell *Arc Lightning*.
 
+**Staff of Dragon's Fire**, $4,800
+Uses [Fort]. Can produce a fire attack.  
+Contains the spell *Dragon's Breath*.
+
+**Staff of the Dream Weaver**, $5,000
+Uses [Will]. Produces an undamaging attack. A foe struck with it falls asleep at the end of the round. The exact nature of this is up to the narrator.  
+Contains the spell *Feyding Gesture*.
+
 **Staff of Gravomancy**, $4,800
 Uses [Inte]. Can produce a crushing attack.  
 Contains the spell *Gravitic Disruption*.
 
+**Staff of Gusts**, $4,800
+Uses [Will]. Can produce a force attack.  
+Contains the spell *Venting Burst*.
+
+**Staff of Shrapnel**, $4,800  
+Uses [Prcp]. Can produce a cutting attack.  
+Contains the spell *Flechette*.
+
 **Staff of the Storm Mage**, $4,800
 Uses [Will]. Can produce a cold attack.  
 Contains the spell *Arc Lighting*.
-
-**Staff of Dragon's Fire**, $4,800
-Uses [Fort]. Can produce a fire attack.  
-Contains the spell *Dragon's Breath*.
