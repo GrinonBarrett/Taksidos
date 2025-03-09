@@ -705,7 +705,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Range**: 10 yards
 
-**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is- speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy.
+**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is- speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy. A creature rambling this way is dazed during this time.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
 
@@ -1454,7 +1454,23 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (2
+### V (3
+
+#### Venting Burst
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 1 yard
+
+**Effect**: You produce a line up to 6 yards long and up to 1 yard high and wide. Everything in the way of this line is pushed back a number of feet equal to the spell check result + + spel tier + [Magic] score divided by their weight in stones. Alternatively, you may have the shap of the effect by a cone. If so, the range is reduced to a third of its length. Furthermore, you may opt to have the shape changed to a fan or semifan, but this halves the length.
+
+This can blow away gasses and vapors, including those of a magical nature.
+
+**At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
+
+**Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
 
 #### Volt Switch
 
