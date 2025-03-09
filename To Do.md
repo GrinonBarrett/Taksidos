@@ -4,7 +4,7 @@ For this update:
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
 * Create a Grigori, a fiendish giant creature.
-* Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. WIll be weak.
+* Create Coxal Flyer, a skeletal creature composed of the pelvis and spine of a humanoid. The hips grow large and become wings for it. It uses the spine tail as a club weapon as it flies by. Will be weak.
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
 * Create a vampire template that represents those that come to follow the commands of Alekard.
@@ -66,17 +66,12 @@ Jander (makes sick and visibly unappealing)
 Jolling (slows a creature's run speed by hindering limbs)
 * Add a thought capture spell?
 * Create a spell that allows warding of a specified creature type from an area.
-* A spell that sends a telpathic message to  a recipient, but can allow a conversation at higher levels.
-* A spell that sends a telpathic message to any number of knkon creatures within range.
+* A spell that sends a telpathic message to a recipient, but can allow a conversation at higher levels.
 * Create a spell to help cure a creature of a diease.
 * Create a spell where the caster conjures shooting stars to be directed each round.
 
 Curation  
 A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
-
-Temporalysis  
-Makes time pass by 1d6+spell tier time units (minutes, hours, or days as caster desires) for the caster. Can potentially include extra members. Time passes around them but not for them. Additional tiers can modify the die level.
-
 
 Create the Alchemy system in which potions and powders can be created with effect varying depending on their ingredients.
 
