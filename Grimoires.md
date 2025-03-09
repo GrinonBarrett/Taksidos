@@ -33,6 +33,15 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 * Havery, 2nd
 * Rotword, 3rd
 
+**Tome of the Ygruigist**  
+$10,000, 2.5 lbs.  
+A scholarly tome which is directed at magics involving liquids. It's kind has been invaluable in a number of applications.
+* Conjure Water, 2nd
+* Hydravidity, 1st
+* Hydromorphy, 3rd
+* Waterworking, 1st
+* Ygroapathy, 3rd
+
 **Haldre's Tome**  
 *Unique*  
 $7,800, 3 lbs.  
