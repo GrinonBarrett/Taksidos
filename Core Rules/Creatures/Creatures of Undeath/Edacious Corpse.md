@@ -16,7 +16,7 @@ Borne of the death of those that hunger, they have been known to form roaming he
 [Prcp] 11 (+3)  
 [Empy] 6 (+2)  
 
-**Languages**: Edaciou corpses don't speak.
+**Languages**: Edacious corpses don't speak.
 
 **Run Speed**: It may run up to 4 yards per move.
 
