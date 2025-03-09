@@ -1530,9 +1530,9 @@ This spell is active as long as you concentrate on it. When casting or concentra
 
 **Effect**: You cause a 3 yard fan of necrotic energy to pulse out. Anything in the area suffers a necrotic attack. After a number of rounds has passed equal to the spell's tier, any afflicted creature is subject to an incapacitation save. A creature with no remaining hitpoints has disadvantage on this save.
 
-Construct, Ephemera, and Undead creatures, and those produced by the Animate spell, cannot be subject to the disadvantage for not having hitpoints.
+Construct, Ephemera, and Undead creatures, creatures of undeath, and those produced by the Animate spell cannot be subject to the disadvantage for not having hitpoints.
 
-**At Higher Tiers**: Each tier beyond the minimum allows you pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
+**At Higher Tiers**: Each tier beyond the minimum allows you to pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
 **Critical Failure**: You lose hitpoints equal to the tier of this spell. If you do not have enough hitpoints, you must succeed a number of incapacitation saves equal to the difference. Then you and any non-undead creature within 3 yards suffer a necrotic attack.
 
@@ -1546,7 +1546,7 @@ Construct, Ephemera, and Undead creatures, and those produced by the Animate spe
 
 **Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase. If it inflicts a critical hit, that foe receives 1d4 points of spell sickness.
 
-As a reaction, if the spirit attacks a foe casting a spell, you may attempt to counterspell as though you knew that spell. Perform the check as normal. THe spirit's energy is lost once the attempt is made, causing it to cease existing.
+As a reaction, if the spirit attacks a foe casting a spell, you may attempt to counterspell as though you knew that spell. Perform the check as normal. The spirit's energy is lost once the attempt is made, causing it to cease existing.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
@@ -1608,7 +1608,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Range**: 1 yard
 
-**Effect**: Target performs a [Empy] save or becomes odunted for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for a foot and possesses an eerie wave to it. Upon a critcal success with your spell check or a critical failure on the target's save, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
+**Effect**: Target performs a [Empy] save or becomes obtunded for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for half a foot and possesses an eerie wave to it. Upon a critcal success with your spell check or a critical failure on the target's save, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
 
 This cannot affect Eldritch, Ephemera, Fiends, or Undead.
 
@@ -1643,9 +1643,9 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Casting Time**: 2 actions
 
-**Effect**: You touch a creature, selecting an attribute, and enhance it for 2d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck double's the spell tier bonus to the duration.
+**Effect**: You touch a creature, selecting an attribute, and enhance it for 2d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck doubles the spell's tier bonus to the duration.
 
-**At Higher Tiers**: In additional to the benefits listed above, each tier beyond minimum increases the casting time by 1 action.
+**At Higher Tiers**: In addition to the benefits listed above, each tier beyond minimum increases the casting time by 1 action.
 
 **Critical Failure**: You have inverted the spell completely causing it to instead inflict a penalty to the attribute against you for the proper duration.
 
