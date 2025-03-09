@@ -8,6 +8,15 @@ If a tome is written in a language the reader does not understand, they may requ
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
 
+**Tome of the Cloud Shaper**  
+$10,000, 2.5 lbs.  
+A tome written by a mage with an unusual talent. This grimoire contains the following spells at the indicated tiers;  
+* Call Lightning, 1st
+* Set Breath, 1st
+* Sunshower, 2nd
+* Synnefopothy, 3rd
+* Venting Burst, 2nd
+
 **Tome of the Pyromancer**  
 $8,000, 2.5 lbs.  
 One of a number of tomes written by one who has become obssessed with fire magic. This grimoire contains the following spells at the indicated tiers;  
