@@ -101,3 +101,5 @@ A massive corpse of a once hearty, barrel chested, man. The flesh of its forward
 **Swallow Whole**: As an additional option when it gets a critical success while brawling, it can attempt to swallow anything of a smaller size than itself into eats rib-bone lined lower maw of a torso. This inflicts a biting attack, necrotic attack, and an acid attack. For each of these attacks which is succesdful, it recoves 2 points of undeath. If a creature dies as a result, it will immediately begin to consume it- consuming 1d10+5 pounds automatically.
 
 **Infectious Bite**: Any beast, humanoid, or sylvan which suffered a biting or necrotic attack from the vile eater that dies before that wound is fully healed has a 15% chance to become an edacious corpse. *This is actually a 35% chance*.
+
+[Origin of Vile Eater]: # " Another monster taken from a dream. The dream seemed like it was supposed to be a movie though, unlike the others from dreams. This would be the 4th such creature. "
