@@ -109,7 +109,7 @@ Non-Canon Classes, Done:
 
 Possible classes to do:  
 **?**?*?* (A class which can potentially induce tension upon itself and others as a result of their unorthodox or unnatural method of performing magic. Might instead make a species which does this or n alternative magic option for mystics)  
-Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)
+Ranger? (Lots of folks like the idea of the ranger but trying to balance it right could be tough, at least to balance it without stepping on the toes of other classess)  
 *?**?**?* (A class inspired by old martial arts movie choreography, which gets certain benefits while disadvantaged)
 
 ##### What is the difference between a playable species and a non-playable creature?
