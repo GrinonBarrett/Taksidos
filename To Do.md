@@ -86,24 +86,24 @@ Possible traditional fantasy races to add:
 -----
 
 Classes, Done:  
-**A**canist  (Intelligence caster)  
-**A**ssassin (Backstab)  
-**B**ard (Informed folks with bonuses against certain creatures and spell types, does not add new spell casting method but does provide some protection against spells)  
-**B**erserk (rage wielders)  
-**C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)  
-**E**voker  (ki blast pew pew) *although more Super Techniques need to be developed*  
-**M**agi (can use spell points to cast spells, uses Will for casting)  
-**M**onk (has auras and can be either a martial artist or a support class. Will have an aura or two, but gains features based on monastic order.) *Could still use a few more orders*  
-**P**aragon  (gives commands to allies)  
-**R**ogue  (has some skill bonuses and luck. A customizable class.)  
-**S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)  
-**W**arrior  (Full blown fighter)  
+* **A**canist  (Intelligence caster)
+* **A**ssassin (Backstab)
+* **B**ard (Informed folks with bonuses against certain creatures, does not add new spell casting method but does provide some protection against spells)
+* **B**erserk (rage wielders)
+* **C**leric  (preistly sort that uses ritual magic and prayer, uses [Empy] for casting)
+* **E**voker  (ki blast pew pew) *although more Super Techniques need to be developed*
+* **M**agi (can use spell points to cast spells, uses Will for casting)
+* **M**onk (has auras and can be either a martial artist or a support class. Will have an aura or two, but gains features based on monastic order.) *Could still use a few more orders*
+* **P**aragon  (gives commands to allies)
+* **R**ogue  (has some skill bonuses and luck. A customizable class.)
+* **S**orcerer (A Fort based spellcaster who takes on exhaustion for increased spell casting and or spell power)
+* **W**arrior  (Full blown fighter)  
 
 Non-Canon Classes, Done:  
-**D**esultor  (Inspired by old kung-fu movies where the choreography stresses awkward fighting. For those that want to play a drunken master, though the class should not be played while drunk)  
-**I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)  
-**J**ester  (a sort of buff and debuff support role that can use skills in new ways)  
-**M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.) *although more pact magic styles should be developed*  
+* **D**esultor  (Inspired by old kung-fu movies where the choreography stresses awkward fighting. For those that want to play a drunken master, though the class should not be played while drunk)
+* **I**nvoker  (Akin to how d2 handled summoning for Druid and Necromancer, a support class that brings their battle buddies. Good for solo adventures. Potentially able to break the game and bog down combat.)
+* **J**ester  (a sort of buff and debuff support role that can use skills in new ways)
+* **M**ystic  (Has a set of evolving powers from their patron, chooses casting attribute but has an altered feature based on this. Can "burn" attributes to boost spell checks.) *although more pact magic styles should be developed*  
 
 ###### Non-Canon classes are intended to be fully fleshed out and balanced classes, but many will not want them in their campaigns.
 
