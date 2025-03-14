@@ -19,7 +19,7 @@ A tome written by a mage with an unusual talent. This grimoire contains the foll
 
 **Tome of a Forgotten Magi**  
 $10,000, 3 lbs.  
-A tome written by some nameless arcane practioner. THis grimoire contains the following spells at the indicated tiers;  
+A tome written by some nameless arcane practioner. This grimoire contains the following spells at the indicated tiers;  
 * Alarum, 1st
 * Destructive Volley, 1st
 * Disimpress, 2nd
@@ -78,9 +78,19 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 * Frost Lance, 3rd
 * Grasp, 2nd
 
+**Codex Valder**  
+*Unique*  
+$11,000, 3 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Aldervalder, 4th
+* Ertvalder, 4th
+* Isevalder, 4th
+* Wengvalder, 4th
+* Wurmvalder, 4th
+
 **Zorne's Tome**  
 *Unique*  
-$ 10,350, 5 lbs.  
+$10,350, 5 lbs.  
 This tome functions as both instructional material on combat oriented spells and personal recollections of intense battles. If it is ever returned to Zorne, he might just buy you a drink. This grimoire contains the following spells at the indicated tiers;  
 * Blast Lightning, 4th
 * Sentinel, 4th
