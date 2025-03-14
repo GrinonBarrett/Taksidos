@@ -69,6 +69,16 @@ A scholarly tome which is directed at magics involving liquids. It's kind has be
 * Waterworking, 1st
 * Ygroapathy, 3rd
 
+**Codex Valder**  
+*Unique*  
+$10,000, 3 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Aldervalder, 4th
+* Ertvalder, 4th
+* Isevalder, 4th
+* Wengvalder, 4th
+* Wurmvalder, 4th
+
 **Haldre's Tome**  
 *Unique*  
 $7,800, 3 lbs.  
@@ -77,16 +87,6 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 * Faux Fos, 1st
 * Frost Lance, 3rd
 * Grasp, 2nd
-
-**Codex Valder**  
-*Unique*  
-$11,000, 3 lbs  
-An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
-* Aldervalder, 4th
-* Ertvalder, 4th
-* Isevalder, 4th
-* Wengvalder, 4th
-* Wurmvalder, 4th
 
 **Zorne's Tome**  
 *Unique*  
