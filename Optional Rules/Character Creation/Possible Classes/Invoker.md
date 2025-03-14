@@ -100,7 +100,7 @@ Your path has been illuminated by some higher power. You gain the following:
 ##### Nobility
 Your right to rule has gathered your power to advance. You gain the following:  
 • During the first round of any encounter, you are considered to have a braced action of your choice from the following; Block, Dodge, your Engage feature or Tag.  
-• When you Engage one of your serviles, it gains a bonus to saves until the end of the next round equal to your heroism.
+• When you Engage one of your serviles, it gains a bonus to saves until the end of the next round equal to your heroism.  
 • **Bravery**: Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.  
 ##### Greater Dominion of Nobility
 • You may use your reaction grant a bonus to defense against a psychic or undamaging attack equal to your Heroism to either yourself or one of your serviles you can perceive.  
@@ -109,7 +109,7 @@ Your right to rule has gathered your power to advance. You gain the following:
 
 ##### The Sea
 Your power comes from the roaring seas. You gain the following:  
-• As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of feet equal to the attack roll total*. Distance traveled in water does not count towards kockback distance for the purpose of damage on impact and impacts against water as a a surface prevent damage from the impact.  
+• As a reaction, when you are struck by a non-magical attack, when an attack against you would be successful, *instead of being wounded, you are knocked back a number of feet equal to the attack roll total*. Distance traveled in water does not count towards knockback distance for the purpose of damage on impact and impacts against water as a surface prevent damage from the impact.  
 • Once per hour, you may perform an athletics check as an action to swim a number of yards equal to the result. You may also do so as a reaction to your performing a swim to increase your swim move by the number of yards equal to the result. You may perform this movement regardless of how rough the water is.  
 ##### Greater Dominion of The Sea
 • You can breathe normally in air and water and are now capable of drinking sea water and fresh water without ill effect.  
@@ -118,10 +118,10 @@ Your power comes from the roaring seas. You gain the following:
 ##### The Sky
 Your power comes from the great above. You gain the following:  
 • Once per encounter, when you recieve a wound, you may use your reaction to move up to a number of yards equal to your level + heroism.  
-• As an additional option when getting a critical hit against a foe while brawling, you may inflict an electrical, cold, or sonic attack against that brawling foe.
-##### Greater Dominion of The Grave
+• As an additional option when getting a critical hit against a foe while brawling, you may inflict an electrical, cold, or sonic attack against that brawling foe.  
+##### Greater Dominion of The Sky
 • Cold and electric attacks against you have disadvantage.  
-• When one of your serviles inflicts a critical hit or thier attack roll is within 1 point of the minimum to succeed against a foe, and that foe is within a number of yards equal to your [Prcp], you may use your reaction to *take on a point of spell sickness and influct an electric attack against the foe as a bolt of lighting arcs towards the foe*.
+• When one of your serviles inflicts a critical hit or thier attack roll is within 1 point of the minimum to succeed against a foe, and that foe is within a number of yards equal to your [Prcp], you may use your reaction to *take on a point of spell sickness and inflict an electric attack against the foe as a bolt of lighting arcs towards the foe*.
 
 ##### Valdercaller
 You have been chosen by nature to defend its peace. You gain the following:  
