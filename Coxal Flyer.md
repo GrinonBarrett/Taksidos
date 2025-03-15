@@ -50,39 +50,20 @@ An unsusual undead creature which composes a greatly enlarged and flexible pelvi
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 9 |    |     | **Undamaging** | 11 |
 
-**Table**: *Wound Allocation*
-| Result | **Name of Wound** | Effects                                                        |
-|--------|-------------------|----------------------------------------------------------------|
-|   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's run speed is halved until this wound is healed. Additionally, it cannot use its Tear feature until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
-|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
-|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Tail Shot         | Until this wound is healed, it has disadvantage on checks and saves involving balance. |
-|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Glancing Blow     | No ill effect. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
-|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Mortal Wound    | **Biased wound**. It must immediately perform an incapacitation save. |
-|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, it cannot fly. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Stumble           | Until the end of the next round, it is prone. |
-|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   20   | Defender's choice |                                   |
-|        |                                                |                                   |
-
 -----
 
-**Winged Lunge**: As an action or reaction, a skritterfalkh may push itself away from a surface or object capable of bearing its weight and perform a small burst of flight. It is treated as performing a jump, with the maximum height and distance doubled. This movement does not count against its limitation on flying in the round.
+**Undead Nature**: As an undead creature, the coxal flyer has a few advantages:  
+**-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
+**-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
+**-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
+**-** Cannot be healed by an effect unless it specifically affects undead.  
+**-** Cannot be destroyed by massive damage.  
+**-** Does not produce warmth.  
+**-** Does not receive wounds.  
+**-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Terrifying Leap**: Once per encounter, it may quadruple its leap distance.
+**Mindless**: Coxal Flyers do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
-**Venomous Bite**: When the skritterfalkh has successfully afflicted a creature with its venomous bite, that creature is subject to a psychic attack. For a number of minutes equal to 100 divided by the foe's [Fort] score, the venom will inflict a psychic attack at the end of each minute. Additionally, the afflicted creature is considered vulnerable to all other psychoc attacks during this time.
+**Strange Sense**: The Coxal flyer has no sensory organs. It has a sense of touch and a limited capacity to hear as the vibrations of sound reach it, but imposing disadvantage on any such related [Prcp] checks or saves. *It can see and feel out a number of yards in every direction equal to its [Prcp] score*.
 
-**Fleet Foot**: During the first round of an encounter, the skritterfalkh may use its action to perform a move.
-
-**Swift Step**: If the skritterfalkh would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
+**Fragile Necromancy**: At the end of each phase the Coxal Flyer spends in an area or otherwise affected by a source which supresses magic, it loses 1 points of undeath.
