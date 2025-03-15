@@ -1,5 +1,5 @@
 ### Coxal Flyer
-An unsusual undead creature which composes a greatly enlarged and flexible pelvis connected to a spine which operates as a tail. Their collective noun is a smattering.
+An unsusual undead creature which composes a greatly enlarged and flexible pelvis connected to a spine which operates as a tail. The hips of the pelvis flap as wings. Their collective noun is a smattering.
 
 **Creature Type**: Coxal Flyers are undead.
 
@@ -28,25 +28,25 @@ An unsusual undead creature which composes a greatly enlarged and flexible pelvi
 
 -----
 
-**Table**: *Attack versus Creature* {fix later}
+**Table**: *Attack versus Creature* 
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 11     | **Pole Axe**         | 9     | **Arrow, Bodkin Point**    | 9    |
-| **Longsword**              | 9     | **Greatsword**       | 9     | **Arrow, Broadhead**       | 8    |
-| **Mace**                   | 9     | **Maul**             | 9    | **Bolt** | 8    |
-| **Spear**                  | 9     | **Pike**             | 9     | **Brusgiata** | 10     |
-| **Hand Axe**               | 9     | **Madu**             | 9     | **Chakram** | 9    |
-| **Katar**                  | 9     | **Javelin**          | 10   | **Arquebus** | 6    |
+| **Club**                   | 11    | **Pole Axe**         | 8     | **Arrow, Bodkin Point**    | 9    |
+| **Longsword**              | 9     | **Greatsword**       | 8     | **Arrow, Broadhead**       | 8    |
+| **Mace**                   | 8     | **Maul**             | 7    | **Bolt** | 8    |
+| **Spear**                  | 9     | **Pike**             | 8     | **Brusgiata** | 9     |
+| **Hand Axe**               | 9     | **Madu**             | 8     | **Chakram** | 10   |
+| **Katar**                  | 9     | **Javelin**          | 9   | **Arquebus** | 6    |
 | **Dagger**                 | 9     | **Throwing Blade**   | 10   | **Musket** |  6    |
-| **Morningstar**            | 9     | **Sling**            | 10    | **Tronutonante** | 7    |
-| **Warpick**                | 9     |              |         |  **Bare** |   12  |
+| **Morningstar**            | 8     | **Sling**            | 10    | **Tronutonante** | 7    |
+| **Warpick**                | 9     |              |         |  **Bare** |   14  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 3     | **Fire** | 7     | **Psychic** | 10     |
-| **Cold**                   | 5     | **Force** | 8     | **Toxic**  | 5     |
-| **Crushing**               | 8     | **Ki** | 7     | **Radiant** | 9     |
-| **Cutting**                | 8     | **Necrotic** | 5     | **Sonic** | 9    |
-| **Electrical**             | 8     | **Piercing** | 8     | **Biting** | 9    |
+| **Acid**                   | 5     | **Fire** | 8         | **Psychic** | 13     |
+| **Cold**                   | 13    | **Force** | 8        | **Toxic**  | 25     |
+| **Crushing**               | 7     | **Ki** | 7           | **Radiant** | 9     |
+| **Cutting**                | 10    | **Necrotic** | 9     | **Sonic** | 9    |
+| **Electrical**             | 7     | **Piercing** | 9     | **Biting** | 9    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 9 |    |     | **Undamaging** | 11 |
 
@@ -64,6 +64,6 @@ An unsusual undead creature which composes a greatly enlarged and flexible pelvi
 
 **Mindless**: Coxal Flyers do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
-**Strange Sense**: The Coxal flyer has no sensory organs. It has a sense of touch and a limited capacity to hear as the vibrations of sound reach it, but imposing disadvantage on any such related [Prcp] checks or saves. *It can see and feel out a number of yards in every direction equal to its [Prcp] score*.
+**Strange Sense**: The Coxal Flyer has no sensory organs. It has a sense of touch and a limited capacity to hear as the vibrations of sound reach it, but imposing disadvantage on any such related [Prcp] checks or saves. *It can see and feel out a number of yards in every direction equal to its [Prcp] score*.
 
 **Fragile Necromancy**: At the end of each phase the Coxal Flyer spends in an area or otherwise affected by a source which supresses magic, it loses 1 points of undeath.
