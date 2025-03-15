@@ -33,13 +33,13 @@ An unsusual undead creature which composes a greatly enlarged and flexible pelvi
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
 | **Club**                   | 11    | **Pole Axe**         | 8     | **Arrow, Bodkin Point**    | 9    |
-| **Longsword**              | 9     | **Greatsword**       | 8     | **Arrow, Broadhead**       | 8    |
+| **Longsword**              | 9     | **Greatsword**       | 8     | **Arrow, Broadhead**       | 9    |
 | **Mace**                   | 8     | **Maul**             | 7    | **Bolt** | 8    |
 | **Spear**                  | 9     | **Pike**             | 8     | **Brusgiata** | 9     |
 | **Hand Axe**               | 9     | **Madu**             | 8     | **Chakram** | 10   |
-| **Katar**                  | 9     | **Javelin**          | 9   | **Arquebus** | 6    |
-| **Dagger**                 | 9     | **Throwing Blade**   | 10   | **Musket** |  6    |
-| **Morningstar**            | 8     | **Sling**            | 10    | **Tronutonante** | 7    |
+| **Katar**                  | 9     | **Javelin**          | 9   | **Arquebus** | 7    |
+| **Dagger**                 | 9     | **Throwing Blade**   | 10   | **Musket** |  7    |
+| **Morningstar**            | 8     | **Sling**            | 10    | **Tronutonante** | 8    |
 | **Warpick**                | 9     |              |         |  **Bare** |   14  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 5     | **Fire** | 8         | **Psychic** | 13     |
