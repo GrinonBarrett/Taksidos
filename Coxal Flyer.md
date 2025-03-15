@@ -1,22 +1,22 @@
 ### Coxal Flyer
-Their collective noun is a smattering.
+An unsusual undead creature which composes a greatly enlarged and flexible pelvis connected to a spine which operates as a tail. Their collective noun is a smattering.
 
-**Creature Type**: Skritterfalm are Avian.
+**Creature Type**: Coxal Flyers are undead.
 
-**Size**: Skritterfalm are between 1 to 2 feet in length, with a 6-8" tail. Their wingspan is 20% larger than their length. They weigh between 15-23 pounds. They are small creatures.
+**Size**: A coxal flyer is between 8"-1'3" and a tail between 2-3 feet in length. Their "wingspan" is 40% larger than their length without the tail. They weigh between 4-7 pounds. They are small creatures.
 
-**Hitpoints**: A skritterfalkh has no hitpoints.
+**Undeath**: A coxal flyer has 25 points of undeath.
 
 **Attributes**:  
-[Body] 8 (+2)  
-[Fort] 7 (+2)  
-[Rflx] 10 (+3)  
-[Will] 9 (+3)  
-[Inte] 9 (+3)  
-[Prcp] 12 (+4)  
-[Empy] 7 (+2)  
+[Body] 7  (+2)  
+[Fort] 7  (+2)  
+[Rflx] 12 (+4)  
+[Will] 7  (+2)  
+[Inte] 5  (+1)  
+[Prcp] 7  (+2)  
+[Empy] 7  (+2)  
 
-**Languages**: Skritterfalm don't speak, but can mew at subsonic frequencies with each other.
+**Languages**: Coxal flyers don't speak.
 
 -----
 
