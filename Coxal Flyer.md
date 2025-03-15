@@ -1,5 +1,5 @@
 ### Coxal Flyer
-Also known as the catbat, for its resemblences to the two. They have the general frame, back legs, tail, and face of a cat. They posses the wings and ears of a bat. They also have a snout pointed upwards. Their walking stance is much like that of a pteranadon. These creatures have been elusive until late, as adventurong parties an surveyers venture further into the woods have come acorss them more and more. Plural is Skritterfalm. Their collective noun is a scratch.
+Their collective noun is a smattering.
 
 **Creature Type**: Skritterfalm are Avian.
 
