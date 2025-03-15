@@ -20,19 +20,15 @@ An unsusual undead creature which composes a greatly enlarged and flexible pelvi
 
 -----
 
-**Run Speed**: It may run up to 3.5 yards per move.
-
-**Flying Speed**: If it is not prone, it may fly up to 11 yards per move. If must fly at least 5 yards per round to remain airborne.
+**Flying Speed**: If it is not prone, it may fly up to 10 yards per move. If must fly at least 3 yards per round to remain airborne.
 
 **Unarmed Attacks**;
 
- • Venomous Bite: The skritterfalk may bite a foe within 1 foot. This is a melee biting attack. A critical hit is treated as a toxic attack.
-
- • Claws: The skritterfalk may use a claw to strike a foe within 1 foot. This is a melee cutting attack. A foe gains a bonus to their defense against the attack equal to their current hitpoints.
+ • Tail Whip: The coxal flyer may use its tail to whip at a foe within 1 yard. This is a melee club attack. If the attack is a critical hit, it is treated as a cutting attack.
 
 -----
 
-**Table**: *Attack versus Creature*
+**Table**: *Attack versus Creature* {fix later}
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
