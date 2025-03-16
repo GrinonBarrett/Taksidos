@@ -22,3 +22,27 @@ For playtesting an adventure, use the following characters.
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| | | | | | | | | | | | | | |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
