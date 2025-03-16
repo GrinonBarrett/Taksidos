@@ -16,3 +16,9 @@ Redo Wounds per Round math, as the Oddu dagger only takes a single dagger attack
 Low level melee weapons test went well.
 
 Still need to test longer reaching melee weapons, ranged weapons, and combat spells. Lethalility of combat spells is not looking to really compete with weapons and so the tiers and/or casting times could be reduced.
+
+For playtesting an adventure, use the following characters.
+
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear |
