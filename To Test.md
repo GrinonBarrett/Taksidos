@@ -22,7 +22,7 @@ For playtesting an adventure, use the following characters. Start them at level 
 | Name | Species/Class | Personality and Playstyle | Hp | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | Idameau | Alicursine Arcanist | Playful but dry of humor, he is reverent of the natural world and seeks to find as much natural magica as possible. He cares for his team but dislikes anyone that uses magic for hostility, including allies. | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Everwarmth, Greenward, Venting Burst |
-| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
+| Aghgleguglou | Oddu Assassin | A simple man, er squid thing? He enjoys a good fight and has sold his talents more than a few times. He enjoys using daggers as his approach to combat is to wrap around a foe and stab them as frequently as possible. Not afraid to run if need be. He doesn't wear armor as it is expensive and uncomfortable to him. | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | - |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
