@@ -19,9 +19,9 @@ Still need to test longer reaching melee weapons, ranged weapons, and combat spe
 
 For playtesting an adventure, use the following characters. Start them at level 3.
 
-| Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
+| Name | Species/Class | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Idameau | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
+| Idameau | Alicursine Arcanist | Playful but dry of humor, he is reverent of the natural world and seeks to find as much natural magica as possible. He cares for his team but dislikes anyone that uses magic for hostility, including allies. | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Everwarmth, Greenward, Venting Burst |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
