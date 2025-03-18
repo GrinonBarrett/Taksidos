@@ -229,7 +229,7 @@ Arguably the most intelligent arcanist of his world, he claims to hail from a wo
 
 **Casting Time**: 2 actions
 
-**Effect**: You animate a number of ball bearings, marbles, or bullets, which have been coated in grease. You may animate a number up to the spell's tier so long as they fit in your hand. The spheres can levitate and move up to a number of yards equal to 5 + [Magic] bonus.
+**Effect**: You animate a number of ball bearings, marbles, or bullets, which have been coated in grease. You may animate a number up to the spell's tier so long as they fit in your hand. The spheres can levitate and move up to a number of yards equal to 5 + [Magic] bonus. They Are animated so long as you concentrate on the spell.
 
 The spheres must remain within 15 yards of you or they become inert. As an action or reaction you may direct the orbs to move. When an orb comes in contact with a creature, you may have it inflict a force or fire attack. On a critical hit, it is treated as a fire attack regardless. In place of damaging armor, you may choose to have the orb explode. If you do, the attack gains a bonus for the purpose of inlicting a critical hit equal to the spell's tier. The orb is then destroyed.
 
