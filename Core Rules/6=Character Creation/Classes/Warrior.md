@@ -92,7 +92,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Dagger                 | If you are brawling with a foe, you get a bonus on your attack against them equal to either your [Body] or [Rflx] bonus.|
 | Morningstar            | You gain a +2 bonus to your attack.|
 | Warpick                | If you damage the foe's armor or inflict a critical hit, you may have the weapon get stuck in the foe- causing it to suffer a -2 penalty to all checks and a -1 penalty to Attack Rolls and Saves until it is removed with a [Body] Check of 12. Against an unarmord foe, you instead inflict an additional wound.|
-| Club                   | On a critical hit, you may shift the wound result an additional step. |
+| Club                   | You gain a +1 to beats, parries, and attacks with this weapon. You may shift the wound result an additional step. On a critical hit, it is two steps. |
 | Madu                   | You gain a +3 bonus to parries made with madu your main hand and a +2 bonus to parries made with madu in your off hand. You may actually use multiple Madu to parry, gaining the bonus for one and a +1 for each additional madu, so long as the additional madu are not used for attacks during this phase. |
 | Flail                  | If the weapon is wound properly, you may ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit. |
 |                        |           |
