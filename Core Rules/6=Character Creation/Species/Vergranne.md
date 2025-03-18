@@ -3,7 +3,7 @@ Unpleasant mountain dwellers. They get along well enough with other mountain dwe
 
 **Creature Type**: Vergranne are humanoids.
 
-**Size**: Zwergain stand between 4'9" to 5'9" tall. They can weigh between 120-205 pounds. They are medium creatures.
+**Size**: Vergranna stand between 4'9" to 5'9" tall. They can weigh between 120-205 pounds. They are medium creatures.
 
 **Ability Score Modification**: Vergranne have he following changes to their attributes   
 +1 [Body]  
