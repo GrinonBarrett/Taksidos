@@ -34,6 +34,8 @@ For playtesting an adventure, use the following characters. Start them at level 
 | **Name** | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | **Name** | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | | | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | | |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
 | Name | Species | Personality and Playstyle | Skills | [Body] | [Fort] | [Rflx] | [Will] | [Inte] | [Pecp] | [Empy] | Skills | Wepon Training | Gear | Spells |
