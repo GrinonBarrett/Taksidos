@@ -13,7 +13,8 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 3 lbs  of spoiling cabbage  
 3 lbs. iron scrap  
 
-10 Barrels of Ale
+10 Barrels of Ale  
+3 Barrels cheap wine  
 1 Barrel of powdered water  
 3 Barrels of black powder  
 
