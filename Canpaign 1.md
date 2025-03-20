@@ -22,12 +22,29 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 2 Potions of Stamina in glass  
 10 Paeter's Stew Jars  
 
+10 Torches + 3 per player
 2 Broth Biscuits per player  
 1 Blanket per player  
 1 Cheap pillow per player  
 1 Tatami per player  
+1 Waterskin per player, full of clean water  
 2 Firebows
 2 Flints  
 2 spools of rope, each 50 yards  
 2 large tents  
 2 medium tents  
+2 Water compasses  
+
+60 bolts  
+40 broadhead arrows  
+40 bodkin point arrows  
+30 shots for arquebus  
+16 shots for trunotonante
+
+3 Poltocks for medium humanoids  
+3 Breastplate for medium humanoids  
+2 bucklers  
+2 Rondaches  
+2 arquebus  
+1 Javelin per player  
+1 trunotonante  
