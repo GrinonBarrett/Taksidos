@@ -1,26 +1,28 @@
-## Pizye
-;
+## Pixalkh
+Also known as Fine-folk or bernfey, the plural is pixalm. They are fairies that occasionally amuse themselves with the company of others. Pixalm are often neither malicious nor truly benevolent, but seem to be quite naive or uncaring of the fragility of people and their sensibilities.
 
 **Creature Type**: Sprite-kin are fey.
 
-**Size**: Sylphes are between 6-9 inches in length. Their wingspan is between 60-120% of their length. They can weigh between 6.5-15 pounds. They are diminutive creatures.
+**Size**: Pixalm are between 5-8 inches tall. Their wingspan is between 65-75% of their height. They can weigh between 5-7 pounds. They are diminutive creatures.
 
 **Ability Score Modification**: As a sylphe, you have the following adjustments to your attributes  
--1 [Body]  
+-2 [Body]  
+-1 [Inte]  
+-1 [Prcp]  
 -1 [Empy]  
-Choose three attributes. Each are increased by 1.
+Choose two attributes. One is increased by 1, the other by 2.
 
-**Languages**: You gain competency in the Common Tongue, the Wild Tongue, and Auroglossa.
+**Languages**: You gain competency in the Common Tongue and the Wild Tongue.
 
 **Run Speed**: You may run up to .5 yard per move.
 
-**Climb Speed**: You may climb up to 1 yard per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: You may climb up to .5 yard per move, presuming it is reasonable terrain to climb.
 
 **Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
 
-**Fly speed**: You can fly at a speed of 10 yards per move. You must move at least 2 yards per round to remain aloft. If you are not prone, you may hover instead.
+**Fly speed**: You can fly at a speed of 12 yards per move. You must move at least 5 yards per round to remain aloft. If you are not prone, you may hover instead.
 
-**Unarmed Attacks**: Have no effect unless affected by another feature.
+**Unarmed Attacks**: Inflicts a bare attack as normal, but not against any creature larger than 1 category above yourself.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -49,9 +51,10 @@ Choose three attributes. Each are increased by 1.
 
 ### Special Features
 
-**Some Education**: You gain proficiency in a skill of your choice.
+**Sylphen Knowledge**: You gain proficiency in two skills of your choice.
 
-**Magical Resistance**: Anytime you would perform a save against a magical effect, you roll 2d6 and add it to your result.
+**Unusual Form**: Any armor crafted for a Pixalk would have to be made by a fine jeweler and expert of the craft of armory. This cause any armor to cost 1d4+3 times the normal cost despite only requiring a tenth of the material (and thus weighing a tenth as much). 
 
-**Mischievous Charm**: When a creature you can perceive would perform a check, save, or attack roll; if it is a success or failure, you may instead treat it as a critical success or critical failure (with a total number of points of success/failure equal to your level). You must complete a full rest before doing so again.  
-You cannot affect yourself with this.
+**Nimble Flight**: So long as you are airborne, not prone, and aware of an attack being made against you- you may roll a d6 and add it to your defense against that attack. This bonus cannot exceed your total movement in yards since the previous action phase.
+
+**Bewildery**: When a creature you can perceive would perform a check, save, or attack roll; if it is a critical success or critical failure, you may use your reaction *to inflict or remove 1d4-1 points of inebriation, you choose before rolling*. You cannot affect another fey with this ability.
