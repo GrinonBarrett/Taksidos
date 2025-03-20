@@ -1,11 +1,11 @@
-## Pixalkh
-Also known as Fine-folk or bernfey, the plural is pixalm. They are fairies that occasionally amuse themselves with the company of others. Pixalm are often neither malicious nor truly benevolent, but seem to be quite naive or uncaring of the fragility of people and their sensibilities.
+## Pixall
+Also known as Fine-folk or bernfey. They are fairies that occasionally amuse themselves with the company of others. Pixalls are often neither malicious nor truly benevolent, but seem to be quite naive or uncaring of the fragility of people and their sensibilities.
 
-**Creature Type**: Sprite-kin are fey.
+**Creature Type**: Pixalls are fey.
 
-**Size**: Pixalm are between 5-8 inches tall. Their wingspan is between 65-75% of their height. They can weigh between 5-7 pounds. They are diminutive creatures.
+**Size**: Pixalls are between 5-8 inches tall. Their wingspan is between 65-75% of their height. They can weigh between 5-7 pounds. They are diminutive creatures.
 
-**Ability Score Modification**: As a sylphe, you have the following adjustments to your attributes  
+**Ability Score Modification**: As a pixall, you have the following adjustments to your attributes  
 -2 [Body]  
 -1 [Inte]  
 -1 [Prcp]  
@@ -22,7 +22,7 @@ Choose two attributes. One is increased by 1, the other by 2.
 
 **Fly speed**: You can fly at a speed of 12 yards per move. You must move at least 5 yards per round to remain aloft. If you are not prone, you may hover instead.
 
-**Unarmed Attacks**: Inflicts a bare attack as normal, but not against any creature larger than 1 category above yourself.
+**Unarmed Attacks**: Inflicts a bare attack as normal, but not against any creature larger than yourself.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -51,10 +51,10 @@ Choose two attributes. One is increased by 1, the other by 2.
 
 ### Special Features
 
-**Sylphen Knowledge**: You gain proficiency in two skills of your choice.
+**Pixall Knowledge**: Choose either Athletics, Spellcraft, or Wrestling. You gain proficiency with it and another skill of your choice.
 
-**Unusual Form**: Any armor crafted for a Pixalk would have to be made by a fine jeweler and expert of the craft of armory. This cause any armor to cost 1d4+3 times the normal cost despite only requiring a tenth of the material (and thus weighing a tenth as much). 
+**Unusual Form**: Any armor crafted for a Pixall would have to be made by a fine jeweler and expert of the craft of armory. This causes the comission of any armor to cost 1d4+3 times the normal cost despite only requiring a tenth of the material (and thus weighing a tenth as much). The repair cost of the armor is not increased per the armor cost, but is instead a flat **seven times the normal cost**.
 
-**Nimble Flight**: So long as you are airborne, not prone, and aware of an attack being made against you- you may roll a d6 and add it to your defense against that attack. This bonus cannot exceed your total movement in yards since the previous action phase.
+**Nimble Flight**: So long as you are airborne, not prone or vulnerable, and aware of an attack being made against you- you may roll a d4 and add it to your defense against that attack. This bonus cannot exceed your total movement in yards since the previous action phase. If you are unarmored, this is increased to a d8.
 
 **Bewildery**: When a creature you can perceive would perform a check, save, or attack roll; if it is a critical success or critical failure, you may use your reaction *to inflict or remove 1d4-1 points of inebriation, you choose before rolling*. You cannot affect another fey with this ability.
