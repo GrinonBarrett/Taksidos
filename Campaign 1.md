@@ -28,7 +28,7 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 1 Cheap pillow per player  
 1 Tatami per player  
 1 Waterskin per player, full of clean water  
-2 Firebows
+2 Firebows  
 2 Flints  
 2 spools of rope, each 50 yards  
 2 large tents  
