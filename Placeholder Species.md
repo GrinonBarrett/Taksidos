@@ -1,25 +1,26 @@
-## SPRITE-KIN
-Faeries more comfortable with both civilization and adventure than most, sprite-kin are nimble folks with a penchant for mischief. Sprite-kin characters get the following features;
+## Pizye
+;
 
 **Creature Type**: Sprite-kin are fey.
 
-**Size**: Sprite-kin stand between 3-4 feet tall. They can weigh between 84-132 pounds. They are medium creatures.
+**Size**: Sylphes are between 6-9 inches in length. Their wingspan is between 60-120% of their length. They can weigh between 6.5-15 pounds. They are diminutive creatures.
 
-**Ability Score Modification**: As a Sprite-Kin, you have the following adjustments to your attributes  
+**Ability Score Modification**: As a sylphe, you have the following adjustments to your attributes  
 -1 [Body]  
-+1 [Rflx]  
-+1 [Will]  
-Choose an attribute. It is increased by a single level.
+-1 [Empy]  
+Choose three attributes. Each are increased by 1.
 
-**Languages**: You gain competency in the Common Tongue and one other language of your choice.
+**Languages**: You gain competency in the Common Tongue, the Wild Tongue, and Auroglossa.
 
-**Run Speed**: You may run up to 4 yards per move.
+**Run Speed**: You may run up to .5 yard per move.
 
-**Climb Speed**: You may climb up to 1.5 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: You may climb up to 1 yard per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
 
-**Fly speed**: You can fly at a speed of 3 yards per move.
+**Fly speed**: You can fly at a speed of 10 yards per move. You must move at least 2 yards per round to remain aloft. If you are not prone, you may hover instead.
+
+**Unarmed Attacks**: Have no effect unless affected by another feature.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
