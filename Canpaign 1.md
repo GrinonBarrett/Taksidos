@@ -21,3 +21,13 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 3 Healing tonics + 1 per player in glass  
 2 Potions of Stamina in glass  
 10 Paeter's Stew Jars  
+
+2 Broth Biscuits per player  
+1 Blanket per player  
+1 Cheap pillow per player  
+1 Tatami per player  
+2 Firebows
+2 Flints  
+2 spools of rope, each 50 yards  
+2 large tents  
+2 medium tents  
