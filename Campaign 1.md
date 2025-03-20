@@ -3,7 +3,6 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 
 #### Supplies the party has access to
 
-
 50 lbs. of legumes  
 40 lbs. of potatoes  
 35 lbs. of cured meat  
@@ -22,7 +21,7 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 2 Potions of Stamina in glass  
 10 Paeter's Stew Jars  
 
-10 Torches + 3 per player
+10 Torches + 3 per player  
 2 Broth Biscuits per player  
 1 Blanket per player  
 1 Cheap pillow per player  
