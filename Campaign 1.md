@@ -39,7 +39,7 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 40 broadhead arrows  
 40 bodkin point arrows  
 30 shots for arquebus  
-16 shots for trunotonante
+16 shots for tronutonante
 
 3 Poltocks for medium humanoids  
 3 Breastplate for medium humanoids  
@@ -47,4 +47,4 @@ Party is part of a subgroup moving across the country to make a pickup of copper
 2 Rondaches  
 2 arquebus  
 1 Javelin per player  
-1 trunotonante  
+1 Tronutonante  
