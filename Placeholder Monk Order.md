@@ -20,3 +20,28 @@ You gain a level of training in unarmed attacks.
 You retain your weapon training in your spirit form.
 Choose a valder spell. (nce this decision is made it cannot be changed. While in your spiritform you may cast it as a wyrding with a bonus equal to your level, but must complete a fullrest before doing so again.
 When you recoil, you may shift the wound result a number of steps equal to your spirit form's remaining hitpoints.
+
+### Ashen Circle
+Also known as the Circle Joined by the Bond of Ash, the Ashen Circle teaches the importance of survival and passivity throughtout tone's daily routine and intense bursts of passionate expression.
+
+#### Skill and Weapon
+You gain either the Survival, Cooking, or Medicine skill. You gain training in either the Hand Axe, Sling, or Unarmed attacks.
+
+#### Aura: Explosive Aura
+Anytime a creature affected by your aura would be successfully attacked by a source which is also within your aura, *they may use their reaction to inflict a fire attack against that source*.
+
+#### Initiate: A Handful of Embers
+You have a bonus to defense against Fire attacks equal to your heroism. Your heroism bonus to saves against fire-related effects is doubled.
+You may use your reaction to _inflict a fire attack against a creature within 3 yards. A critical failure with that attack prevent you from attacking the foe this way again for one day_.
+
+#### Apprentice: The Eyes of Ash
+If a magical effect would bring you down to 0 hitpoints or cause you to make an incapacitation save, you may choose to explode with fire- inflicting a _Fire attack against everything within a 5 yards. If you successfully wound at least one creature this way, you regain a hitpoint_.  
+In place of using your heroism bonus when performing an incapcitation save, you may use your level. If you do, any modifier which contributes to your save that would be based on or affect your herosim bonus to the save now uses your level.
+
+#### Journeyman: Voice of Smoke
+Any creature affected by one of your auras gains a +2 bonus to defense against Fire and Necrotic attacks.  
+When a creature affected by your aura would be subject to a Fire, Necrotic, or Toxic attack, you may choose to impose disadvantage on that attack. You must complete a full rest before doing so again.  
+Anytime one of your wounds would be healed by any means, you may instead choose one of the following:  
+ 1) Choose another creature affected by your aura. It regains 2 hitpoints instead. This does not remove any wounds it received.
+ 2) Choose a creature affected by your aura. It has its most recent wound healed.
+ 3) Inflict a fire attack against a creature affected by your aura.
