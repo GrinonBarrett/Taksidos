@@ -123,8 +123,6 @@ Among the yardkin people, there are a few standouts.
 
 **Yardkin Helmists**: Chaplains and key members of society. Helmists are capable of performing magic. They typically know the following spells: _Expulsion Sphere_, _Gravitic Disruption_, _Shackling Order_, _Spectral Burst_, and two more spells. They are also proficient with staves and shields in addition to their normal proficiencies.
 
-###### {Create the Shackling Order spell}
-
 --------
 
 #### Special Features
