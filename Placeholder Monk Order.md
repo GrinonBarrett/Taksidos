@@ -21,8 +21,9 @@ You may spend a whole round to transform into your spirit form. Treat as a bear'
 * The creature type is Sylvan.
 * You retain your skills in the spirit form.
 * Your aura(s) are still active in the spirit form.
+
 Transforming back requires a whole round.  
-If you are wounded in that form while it has no hitpoints, you will immediately transform back and receive the wound in your natural form and receive a point of fatigue. Damage dealt to your spirit form is retained when you transform back, but is recovered normally by resting (even in your natural form). Transforming more than twice between rests incurs a level of fatigue each time.
+If you are wounded in that spirit form while it has no hitpoints, you will immediately transform back and receive the wound in your natural form and receive a point of fatigue. Damage dealt to your spirit form is retained when you transform back, but is recovered normally by resting (even in your natural form). Transforming more than twice between rests incurs a level of fatigue each time.
 
 #### Journeyman:
 You may treat the follow up attacks of your standard or spirit form as biting attacks.
