@@ -2,13 +2,13 @@ A monk order based around spirit animals. Spirit animal primarily protects the m
 
 
 ### Spirit Guided
-You may or may not be a member of a particular order or fiath, but you follow a spirit animal or totem which.
+You may or may not be a member of a particular order or fiath, but you follow a spirit animal or totem which guides you to a greater form of being and atunement with the world.
 
 #### Skill and Weapon
 You gain either the Athletics, Lore, or Survival skill. You gain training in either the Clubs, Thrown Blades, or Unarmed attacks.
 
 #### Aura: Vicious Aura
-Anytime a creature within your aura is successfully wounded by a creature also within your aura, you may use your reaction to inflict a *magical* biting attack with a bonus to determining if it is a critical hit equal to heroism against that attacking creature.
+Anytime a creature within your aura is successfully wounded by a creature also within your aura, you may use your reaction to inflict a *magical* biting attack against that attacking creature with a bonus to determining if it is a critical hit equal to your heroism.
 
 #### Initiate: The Spirit's Watch
 When an attack against you is a critical hit, you instead ignore the attack entirely as your spirit guide wards away the attack. You must complete a long or full rest before doing so again.  
