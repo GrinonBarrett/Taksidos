@@ -26,13 +26,14 @@ Transforming back requires a whole round.
 If you are wounded in that spirit form while it has no hitpoints, you will immediately transform back and receive the wound in your natural form and receive a point of fatigue. Damage dealt to your spirit form is retained when you transform back, but is recovered normally by resting (even in your natural form). Transforming more than twice between rests incurs a level of fatigue each time.
 
 #### Journeyman: The Spirit's Gift
-You may treat the follow up attacks of your standard or spirit form as biting attacks.
-When you perform an incapacitation save, if your other form still has all of its hitpoints, you add your heroism to your save. You must complete a full rest before doing so again.
-Your spirit form's hitpoints increase by 1. 
+Your spirit guide has brought you to the cusp of your pinnacle being!  
+You may treat the follow up attacks of your standard or spirit form as biting attacks.  
+When you perform an incapacitation save, if your other form still has all of its hitpoints, you add your heroism to your save. You must complete a full rest before doing so again.  
+Your spirit form's hitpoints increase by 1.  
 You gain a level of training in unarmed attacks.  
 You retain your weapon training in your spirit form.  
 When you recoil, you may shift the wound result a number of steps equal to your spirit form's remaining hitpoints.  
-You also gain one of the following benefits as apprpiate to the creature represented by your spirit guide. Once the decision is made, it cannot be changed.
+You also gain one of the following benefits as apprpiate to the creature represented by your spirit guide. Once the decision is made, it cannot be changed.  
 * Choose one of the following spells (Aldervlader, Ertvalder, Isevalder, Wengevalder, Wurmvalder). Once this decision is made it cannot be changed. While in your spirit form you may cast it as a wyrding with a bonus equal to your level, but must complete a full rest before doing so again.
 * Choose one of the five basic senses. You can detect magic with it in both your standard and spirit form. Additionally, while in your spirit form, you gain a +3 bonus to all [Prcp] checks and saves involving that sense.
 * Your leaping distance in both standard and spirit form is doubled. Each of your attributes in spirit form are increased by 2.
