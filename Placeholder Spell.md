@@ -1,15 +1,13 @@
 #### Shackling Order
 
-**Minimum Tier**: 3?
+**Minimum Tier**: 2
 
-**Casting Time**: 5 actions?
+**Casting Time**: 2 actions
 
-**Range**: 10 yards?
+**Range**: 10 yards
 
-**Effect**: You conjure a magical binding at a foe within range, treat as an unarmed attack. If successful, the creature is prone and grappled by the bindings. The creature may attempt a [Body] check with a DV equal to the spellcheck's points of success The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as areaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
+**Effect**: You conjure a magical binding at a foe within range, treat as an unarmed attack. If successful, the creature is prone and grappled by the bindings. The creature may attempt a [Body] check with a DV equal to the spellcheck's points of success plus the spell's tier. A success breaks the grappling effect of the bindings, but still leaves them prone as some of it remains intact. A critical success breaks the spell completely. A critical failure causes them to suffer a -4 penalty to further such checks until the end of the next round. A failure yields no result. Each round, the DV of the check required is reduced by 1 until it reach 0, at which point the bindings cease to exist.
 
-As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirt ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 3 yards.
 
-**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
-
-**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. You are prone during this time.
+**Critical Failure**: You fumble with the bindings and bind yourself with this spell instead. The DV becomes the points of failure plus the spell's tier.
