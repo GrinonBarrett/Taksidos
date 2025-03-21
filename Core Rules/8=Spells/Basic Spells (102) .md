@@ -1151,7 +1151,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (11
+### S (12
 
 #### Seclusion Circle
 
@@ -1213,6 +1213,22 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 **At Higher Tiers**: For each tier beyond minimum, you may increase the time for each creature by 1d12 + spell tier or affect an additional creature.
 
 **Critical Failure**: You struggle to breathe properly for a number of rounds equal to double the spell's tier- making you vulnerable during that time. If you do not breathe normally, you instead gain 1d4 points of spell sickness.
+
+#### Shackling Order
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a magical binding at a foe within range, treat as an undamaging attack. If successful, the creature is prone and grappled by the bindings. The creature may attempt a [Body] check with a DV equal to the spellcheck's points of success plus the spell's tier. A success breaks the grappling effect of the bindings, but still leaves them prone as some of it remains intact. A critical success breaks the spell completely. A critical failure causes them to suffer a -4 penalty to further such checks until the end of the next round. A failure yields no result. Each round, the DV of the check required is reduced by 1 until it reach 0, at which point the bindings cease to exist.
+
+A critical success with the undamaging attack disallows the attempts to break free during the same round.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 3 yards.
+
+**Critical Failure**: You fumble with the bindings and bind yourself with this spell instead, pending the undamaging attack of course. The DV becomes the points of failure plus the spell's tier.
 
 #### Silent Alarm
 
