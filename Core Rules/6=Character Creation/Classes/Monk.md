@@ -71,7 +71,7 @@ You gain the Aura, Monastic Initiate, and Monastic Apprentice features. Your aur
 ## Monastic Orders
 
 ### Ashen Circle
-Also known as the Circle Joined by the Bond of Ash, the Ashen Circle teaches the importance of survival and passivity throughtout tone's daily routine and intense bursts of passionate expression.
+Also known as the Circle Joined by the Bond of Ash, the Ashen Circle teaches the importance of survival and passivity throughout one's daily routine and intense bursts of passionate expression.
 
 #### Skill and Weapon
 You gain either the Survival, Cooking, or Medicine skill. You gain training in either the Hand Axe, Sling, or Unarmed attacks.
@@ -121,6 +121,30 @@ If you perform a feint or parry during the primary action phase, it does not cou
 Anytime you succesfully perform an attack against a foe, you may use your reaction to perform an unarmed attack against them if they are within range. If you do, you may choose to treat it as a Ki attack.  
 When you would receive a wound from an unarmed attack, you may use your reaction to choose the wound you receive.  
 You may take on a level of fatigue as an action to emit an expanding globe of energy from yourself as an action. Choose a creature type. All creatures of that type within a number of yards equal to your level suffers a Ki attack. If the attack roll result against a creature was odd, that creature is knocked prone. You must complete a long or full rest before doing so again.
+
+### Athan Order
+An order dedcated to chivalric tenets, members of the Athan order establish rookeries where they may operate from, preserving the peace and vanquishing monsters.
+
+#### Skill and Weapon
+You gain either the Athletics, Lore, or Wrestling skill. You gain training in either the Longsword, Greatsword, or Flail.
+
+#### Aura: Flashing Aura
+Anytime a creature affected by your aura is attacked by a source which is also within your aura and that attack is a critical failure, *they may use their reaction to inflict a radiant attack against that source*.
+
+#### Initiate: Athani Light
+As long as you are not prone, *you are considered to have a shield for the purpose of passive defense*. if you already had a shield, you instead *gain +1 defense*.
+You may use your action to _inflict a radiant attack against a creature within 5 yards. A critical failure with that attack prevent you from attacking the foe this way again for one day_.  
+If you are wielding a shield or a greatsword, *you may have it emit light like a torch*.
+
+#### Apprentice: Athani Training
+You gain training in four weapons of your choice.  
+In place of using your heroism bonus when performing an incapcitation save, you may use your level. If you do, any modifier which contributes to your save that would be based on or affect your herosim bonus to the save now uses your level.
+
+#### Journeyman: Athani Prowess
+Anytime a creature affected by your aura would be attacked by a creature with less [Will] than itself or you, that creature gains a +1 bonus to defense against the attack.
+If you press attack with the first melee attack you perform in the round, you may treat it as a radiant attack.  
+Anytime you perform a follow-up attack or attack of opportunity with an item which emits light, you may treat it as a radiant attack.  
+You gain training in two weapons of your choice.
 
 ### Imon
 An order of reclusive monks. They hope to balance the terror of the world by having their members achieve enlightenment so they might meditate at key points on the leylines. Part of this enlightenment requires experiencing the world through adventures.
@@ -224,26 +248,47 @@ You maximum hitpoints increase by 1.
 A creature attacking you or anyone affected by your aura rolls 2d8 in place of 1d20 when performing an attack roll.  
 You may take on a level of fatigue to cure a wound of another creature with your touch as a full round action. This does not restore any hitpoints.
 
-### Athan Order
-An order dedcated to chivalric tenets, members of the Athan order establish rookeries where they may operate from, preserving the peace and vanquishing monsters.
+### Spirit Guided
+You may or may not be a member of a particular order or fiath, but you follow a spirit animal or totem which guides you to a greater form of being and atunement with the world.
 
 #### Skill and Weapon
-You gain either the Athletics, Lore, or Wrestling skill. You gain training in either the Longsword, Greatsword, or Flail.
+You gain either the Athletics, Lore, or Survival skill. You gain training in either the Clubs, Thrown Blades, or Unarmed attacks.
 
-#### Aura: Flashing Aura
-Anytime a creature affected by your aura is attacked by a source which is also within your aura and that attack is a critical failure, *they may use their reaction to inflict a radiant attack against that source*.
+#### Aura: Vicious Aura
+Anytime a creature within your aura is successfully wounded by a creature also within your aura, you may use your reaction to inflict a *magical* biting attack against that attacking creature with a bonus to determining if it is a critical hit equal to your heroism.
 
-#### Initiate: Athani Light
-As long as you are not prone, *you are considered to have a shield for the purpose of passive defense*. if you already had a shield, you instead *gain +1 defense*.
-You may use your action to _inflict a radiant attack against a creature within 5 yards. A critical failure with that attack prevent you from attacking the foe this way again for one day_.  
-If you are wielding a shield or a greatsword, *you may have it emit light like a torch*.
+#### Initiate: The Spirit's Watch
+When an attack against you is a critical hit, you instead ignore the attack entirely as your spirit guide wards away the attack. You must complete a long or full rest before doing so again.  
+When you perform an unarmed attack, you may treat it as a biting attack.
 
-#### Apprentice: Athani Training
-You gain training in four weapons of your choice.  
-In place of using your heroism bonus when performing an incapcitation save, you may use your level. If you do, any modifier which contributes to your save that would be based on or affect your herosim bonus to the save now uses your level.
+#### Apprentice: The Spirit's Form
+You may spend a whole round to transform into your spirit form, the exact appearance of this form is unique to your character. Treat as a common bear's stats with the following exceptions;  
+* Your unarmed attacks are considered magical.  
+* The size of the spirit form may be small, medium, or large as appropriate to the creature.
+* The creature type is Sylvan.
+* You retain your skills in the spirit form.
+* Your aura(s) are still active in the spirit form.
 
-#### Journeyman: Athani Prowess
-Anytime a creature affected by your aura would be attacked by a creature with less [Will] than itself or you, that creature gains a +1 bonus to defense against the attack.
-If you press attack with the first melee attack you perform in the round, you may treat it as a radiant attack.  
-Anytime you perform a follow-up attack or attack of opportunity with an item which emits light, you may treat it as a radiant attack.  
-You gain training in two weapons of your choice.
+Transforming back requires a whole round.  
+If you are wounded in that spirit form while it has no hitpoints, you will immediately transform back and receive the wound in your natural form and receive a point of fatigue. Damage dealt to your spirit form is retained when you transform back, but is recovered normally by resting (even in your natural form). Transforming more than twice between rests incurs a level of fatigue each time.
+
+#### Journeyman: The Spirit's Gift
+Your spirit guide has brought you to the cusp of your pinnacle being!  
+You may treat the follow up attacks of your standard or spirit form as biting attacks.  
+When you perform an incapacitation save, if your other form still has all of its hitpoints, you add your heroism to your save. You must complete a full rest before doing so again.  
+Your spirit form's hitpoints increase by 1.  
+You gain a level of training in unarmed attacks.  
+You retain your weapon training in your spirit form.  
+When you recoil, you may shift the wound result a number of steps equal to your spirit form's remaining hitpoints.  
+You also gain one of the following benefits as apprpiate to the creature represented by your spirit guide. Once the decision is made, it cannot be changed.  
+* Choose one of the following spells (Aldervlader, Ertvalder, Isevalder, Wengevalder, Wurmvalder). Once this decision is made it cannot be changed. While in your spirit form you may cast it as a wyrding with a bonus equal to your level, but must complete a full rest before doing so again.
+* Choose one of the five basic senses. You can detect magic with it in both your standard and spirit form. Additionally, while in your spirit form, you gain a +3 bonus to all [Prcp] checks and saves involving that sense.
+* Your leaping distance in both standard and spirit form is doubled. Each of your attributes in spirit form are increased by 2.
+* In standard or spirit form, if your other form still has hitpoints remaining, you gain a +1 bonus to defense. In your spirit form, you gain an additional +1 bonus to defense against magical attacks.
+* You gain a fly speed of 7 yards.
+* You gain a swim speed of 9 yards.
+* Your run speed is increased to 8 yards.
+* You gain a climb speed of 8.5 yards.
+* You gain a burrow speed of 6 yards.
+* Your standard form's hitpoints are increased by 1.
+* Choose an attribute. It is increased by 3 for both your standard form and your spirit form.
