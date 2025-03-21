@@ -33,6 +33,23 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
+### Alekora (1
+Right hand to alekard.
+
+#### Alekora's Rebuke
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which is taken in response to an attack against you from within range
+
+**Range**: 4 yards
+
+**Effect**: You fire a beam of radioactive energy in response to a violent slight against you. Inflict an attack against that source. If your attack roll is odd, it is fire. If it is even, it is radiant. A critical hit is always treated as a fire, radiant, and toxic attack.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range by 2 yards.
+
+**Critical Failure**: You fail to produce the blast, suffering spells sickness equal to the spell's tier -1.
+
 ### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
 
