@@ -70,31 +70,6 @@ You gain the Aura, Monastic Initiate, and Monastic Apprentice features. Your aur
 
 ## Monastic Orders
 
-### Ashen Circle
-Also known as the Circle Joined by the Bond of Ash, the Ashen Circle teaches the importance of survival and passivity throughout one's daily routine and intense bursts of passionate expression.
-
-#### Skill and Weapon
-You gain either the Survival, Cooking, or Medicine skill. You gain training in either the Hand Axe, Sling, or Unarmed attacks.
-
-#### Aura: Explosive Aura
-Anytime a creature affected by your aura would be successfully attacked by a source which is also within your aura, *they may use their reaction to inflict a fire attack against that source*.
-
-#### Initiate: A Handful of Embers
-You have a bonus to defense against Fire attacks equal to your heroism. Your heroism bonus to saves against fire-related effects is doubled.
-You may use your reaction to _inflict a fire attack against a creature within 3 yards. A critical failure with that attack prevent you from attacking the foe this way again for one day_.
-
-#### Apprentice: The Eyes of Ash
-If a magical effect would bring you down to 0 hitpoints or cause you to make an incapacitation save, you may choose to explode with fire- inflicting a _Fire attack against everything within a 5 yards. If you successfully wound at least one creature this way, you regain a hitpoint_.  
-In place of using your heroism bonus when performing an incapcitation save, you may use your level. If you do, any modifier which contributes to your save that would be based on or affect your herosim bonus to the save now uses your level.
-
-#### Journeyman: Voice of Smoke
-Any creature affected by one of your auras gains a +2 bonus to defense against Fire and Necrotic attacks.  
-When a creature affected by your aura would be subject to a Fire, Necrotic, or Toxic attack, you may choose to impose disadvantage on that attack. You must complete a full rest before doing so again.  
-Anytime one of your wounds would be healed by any means, you may instead choose one of the following:  
- 1) Choose another creature affected by your aura. It regains 2 hitpoints instead. This does not remove any wounds it received.
- 2) Choose a creature affected by your aura. It has its most recent wound healed.
- 3) Inflict a fire attack against a creature affected by your aura.
-
 ### Argyrkrinos
 Also known as the Order of the Silver Lily. These monks hone their mind and body to become champions against monsters, plants, and the undead.
 
@@ -121,6 +96,31 @@ If you perform a feint or parry during the primary action phase, it does not cou
 Anytime you succesfully perform an attack against a foe, you may use your reaction to perform an unarmed attack against them if they are within range. If you do, you may choose to treat it as a Ki attack.  
 When you would receive a wound from an unarmed attack, you may use your reaction to choose the wound you receive.  
 You may take on a level of fatigue as an action to emit an expanding globe of energy from yourself as an action. Choose a creature type. All creatures of that type within a number of yards equal to your level suffers a Ki attack. If the attack roll result against a creature was odd, that creature is knocked prone. You must complete a long or full rest before doing so again.
+
+### Ashen Circle
+Also known as the Circle Joined by the Bond of Ash, the Ashen Circle teaches the importance of survival and passivity throughout one's daily routine and intense bursts of passionate expression.
+
+#### Skill and Weapon
+You gain either the Survival, Cooking, or Medicine skill. You gain training in either the Hand Axe, Sling, or Unarmed attacks.
+
+#### Aura: Explosive Aura
+Anytime a creature affected by your aura would be successfully attacked by a source which is also within your aura, *they may use their reaction to inflict a fire attack against that source*.
+
+#### Initiate: A Handful of Embers
+You have a bonus to defense against Fire attacks equal to your heroism. Your heroism bonus to saves against fire-related effects is doubled.
+You may use your reaction to _inflict a fire attack against a creature within 3 yards. A critical failure with that attack prevent you from attacking the foe this way again for one day_.
+
+#### Apprentice: The Eyes of Ash
+If a magical effect would bring you down to 0 hitpoints or cause you to make an incapacitation save, you may choose to explode with fire- inflicting a _Fire attack against everything within a 5 yards. If you successfully wound at least one creature this way, you regain a hitpoint_.  
+In place of using your heroism bonus when performing an incapcitation save, you may use your level. If you do, any modifier which contributes to your save that would be based on or affect your herosim bonus to the save now uses your level.
+
+#### Journeyman: Voice of Smoke
+Any creature affected by one of your auras gains a +2 bonus to defense against Fire and Necrotic attacks.  
+When a creature affected by your aura would be subject to a Fire, Necrotic, or Toxic attack, you may choose to impose disadvantage on that attack. You must complete a full rest before doing so again.  
+Anytime one of your wounds would be healed by any means, you may instead choose one of the following:  
+ 1) Choose another creature affected by your aura. It regains 2 hitpoints instead. This does not remove any wounds it received.
+ 2) Choose a creature affected by your aura. It has its most recent wound healed.
+ 3) Inflict a fire attack against a creature affected by your aura.
 
 ### Athan Order
 An order dedcated to chivalric tenets, members of the Athan order establish rookeries where they may operate from, preserving the peace and vanquishing monsters.
