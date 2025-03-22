@@ -7,6 +7,7 @@ For this update:
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
 * Create a vampire template that represents those that come to follow the commands of Alekard.
+* Create a Moritith creature, as it would work well. Honestly, probably better than a player species.
 * Finish the Wekowyrd.
 
 Next update:  
