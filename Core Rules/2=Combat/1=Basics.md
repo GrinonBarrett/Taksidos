@@ -6,7 +6,7 @@ When a combatant is to move, follow these steps:
 
  **•** Rotation, The combatant performs any rotation desired, up to 90 degrees.
  
- **•** Move, The combatant may move up to their appropriate movement (run or sprint) in a straight line.
+ **•** Move, The combatant may move up to their appropriate movement (using a listed mode of movement) in a straight line.
 
 ##### Multiple forms of movement
 Unless otherwise noted, a combatant may perform different modes of movement during a round, so long as the following conditions are satisfied:  
