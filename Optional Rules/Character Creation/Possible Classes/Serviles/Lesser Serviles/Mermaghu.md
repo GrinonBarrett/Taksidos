@@ -1,7 +1,7 @@
 ### Mermaghu
 An archaic term for merfolk. This represents a merfolk who has pledged themselves to the service of an Invoker.
 
-**Creature Type**: Lupausants are humanoids.
+**Creature Type**: Mermaghu are humanoids.
 
 **Size**: They are between 5 and 7 feet in length. They can weigh between 130 and 220 pounds. They are medium creatures.
 
@@ -127,6 +127,7 @@ An archaic term for merfolk. This represents a merfolk who has pledged themselve
 **Bravery**: Anytime the mermaghu makes a save against a fear effect, you may roll a d6 and add the result to your total.
 
 **Dominion Benefits**: The mermaghu gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. It learns an additional skill.
 * **The Earth**. Run speed is increased by .5 yard.
 * **The Flame**. While submerged, fire attacks against the mermaghu have disadvantage.
 * **The Grave**. It gains a bonus to saves against the effects of liquids (such as potion or other fluids) equal to the evoker's heroism.
