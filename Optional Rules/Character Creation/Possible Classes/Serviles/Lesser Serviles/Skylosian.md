@@ -92,7 +92,7 @@ Cannid creatures that might resemble a dog, fox, wolf, or hyena.
 **Tireless Stride**: If it did not sprint during the current round, and is performing a run movement, it does not incur fatigue.
 
 **Dominion Benefits**: The skylosian gains the benefit as appropriate to your domain.  
-* **Chosen Spirit**. When the servile would lose any number of hitpoints, the invoker may choose to lose a hitpoint.
+* **Chosen Spirit**. When the servile would lose any number of hitpoints, *the invoker may choose to lose a hitpoint. If the do, the hitpoints lost by the skylosian is reduced by 1*.
 * **The Earth**. Its run speed is increased by 1 yard.
 * **The Flame**. Fire and cold attacks against the skylosian have disadvantage.
 * **The Grave**. When the Skylosian dies, you recover 1d3 points of spell sickness and are aware of the creature's death even if you are not on the same plane of existence.
