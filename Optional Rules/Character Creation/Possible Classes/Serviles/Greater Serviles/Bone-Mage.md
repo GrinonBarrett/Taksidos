@@ -91,28 +91,29 @@ The reanimation of a former wyrding one. They can be quite useful to an invoker 
 
 **Magic Blaster**: Each bone-mage bears a glowing, flaring, aura around its fists and in its eye sockets. When it is created, the type of damage dealt by the magic blast is determined by rolling a d8 and comparing to the chart below.
 
-|   | The Earth | The Flame | The Grave | The Light | The Sea | The Sky | Nobility |  Valdercaller |
-|---|-----------|-----------|-----------|-----------|---------|---------|----------|---------------|
-|   |           |           |           |           |         |         |          |               |
-| 1 |   Acid    |  Radiant  |  Radiant  |  Radiant  | Electric| Cutting |   Cold   |   Piercing    |
-| 2 | Crushing  |   Fire    |    Cold   |   Fire    |   Cold  | Electric|Electrical|     Acid      |
-| 3 | Crushing  |   Fire    |    Cold   |  Radiant  |   Cold  | Electric|   Fire   |     Cold      |
-| 4 |   Force   |   Fire    |   Toxic   | Electric  |   Acid  |   Cold  |    Ki    |     Fire      |
-| 5 |   Force   |   Fire    |   Toxic   |  Radiant  |   Force |  Sonic  |  Psychic |    Biting     |
-| 6 |   Force   |   Fire    |  Psychic  |  Psychic  |   Force |  Sonic  |  Radiant |   Radiant     |
-| 7 |    Fire   |   Cold    | Necrotic  |  Radiant  |  Toxic  | Crushing|   Sonic  |   Electric    |
-| 8 | Necrotic  | Necrotic  | Necrotic  | Necrotic  | Necrotic | Necrotic | Necrotic | Necrotic    |
+|   | Chosen Spirit | The Earth | The Flame | The Grave | The Light | The Sea | The Sky | Nobility |  Valdercaller |
+|---|---------------|-----------|-----------|-----------|-----------|---------|---------|----------|---------------|
+|   |               |           |           |           |           |         |         |          |               |
+| 1 |    Radiant    |   Acid    |  Radiant  |  Radiant  |  Radiant  | Electric| Cutting |   Cold   |   Piercing    |
+| 2 |       Ki      | Crushing  |   Fire    |    Cold   |   Fire    |   Cold  | Electric| Electric |     Acid      |
+| 3 |   Crushing    | Crushing  |   Fire    |    Cold   |  Radiant  |   Cold  | Electric|   Fire   |     Cold      |
+| 4 |     Biting    |   Force   |   Fire    |   Toxic   | Electric  |   Acid  |   Cold  |    Ki    |     Fire      |
+| 5 |     Biting    |   Force   |   Fire    |   Toxic   |  Radiant  |   Force |  Sonic  |  Psychic |    Biting     |
+| 6 |    Cutting    |   Force   |   Fire    |  Psychic  |  Psychic  |   Force |  Sonic  |  Radiant |   Radiant     |
+| 7 |       Ki      |    Fire   |   Cold    | Necrotic  |  Radiant  |  Toxic  | Crushing|   Sonic  |   Electric    |
+| 8 |   Necrotic    | Necrotic  | Necrotic  | Necrotic  | Necrotic  | Necrotic| Necrotic| Necrotic |   Necrotic    |
 
 **Limited Senses**: The bone-mage is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It is also capable of seeing through 3 cones of effect, the eye sockets and nose hole- which each have the same effectiveness as a human's eyes for sight.
 
 **Split Spell**: When you begin casting a spell, you may command the bone-mage to also attempt to focus its actions as though it were casting the spell as well. Upon completing the spell, you may use your reaction to treat it as the origin of the spell instead of yourself. You are still the one casting the spell.
 
 **Dominion Benefits**: The bone-mage gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. You may use your reaction to have the bone-mage *teleport up to 1d4 yards from its current location*.
 * **The Earth**. Immune to damage from knockback and falling.
 * **The Flame**. Anytime its magic blast against a foe would qualify to damage armor or is a critical hit, the invoker may use their reaction to take on 1d4+3 points of spell sickness. If they do, *the magic blast impacts with a fiery explosion, inflicting a fire attack against everything within 3 yards*.
 * **The Grave**. Whenever one of your serviles is destroyed while the bone-mage has no remaining hitpoints, you may use your reaction to gain an amount of spell sickness equal to the current number of serviles you control. If you do, restore a hitpoint to this servile.
 * **The Light**. Anytime the bone-mage's attack is successful and the result is odd, you may have the struck creature produce light like a torch until the end of the next round. Radiant and Necrotic attacks against the bone-mage have disadvantage.
-* **Nobility**. Anytime you use your reaction, you can see everything the bone-mage sees so long as you can perceive the bone-mage. The bone-mage may treat its magic blast's attack as *any nromal weapon attack for the purpose of the foe's defense as the magic blast's energy projectile forms to the shape of the weapon*.
+* **Nobility**. Anytime you use your reaction, you can see everything the bone-mage sees so long as you can perceive the bone-mage. The bone-mage may treat its magic blast's attack as *any normal weapon attack for the purpose of the foe's defense as the magic blast's energy projectile forms to the shape of the weapon*.
 * **The Sea**. Swim speed is increased by 4 yards.
 * **The Sky**. Gains a levitation speed of .5 yards when not prone.
 * **Valdercaller**. The bone-mage may treat its Magic Blast as being toxic regardless of its actual damage type. As an additional option when getting a critical success while brawling, the bone-mage may inflict a toxic attack against the brawling foe *and an additional attack of the Magic Blast's type*.
