@@ -5,9 +5,9 @@ When a character attempts to hide or move without being detected, they describe 
 Lighting conditions should not be ignored.  
 Plain sight, +1  
 One quarter-cover, +3  
-Half cover, +6
-Three-quarters cover, +10
-You possess clothing which blends well, +3
+Half cover, +6  
+Three-quarters cover, +10  
+You possess clothing which blends well, +3  
 You possess clothes which clash with environament, -3  
 Shadowy Envirnoment, +2
 
