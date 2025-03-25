@@ -85,9 +85,9 @@ Cannid creatures that might resemble a dog, fox, wolf, or hyena.
 
 **Long Jump**: When this creature jumps, it may use its reaaction to triple its leap distance.
 
-**Fleet Foot**: During the first round of an encounter, the skritterfalkh may use its action to perform a move.
+**Fleet Foot**: During the first round of an encounter, the servile may use its action to perform a move.
 
-**Swift Step**: If the skritterfalkh would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
+**Swift Step**: If the skylosian would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
 
 **Tireless Stride**: If it did not sprint during the current round, and is performing a run movement, it does not incur fatigue.
 
