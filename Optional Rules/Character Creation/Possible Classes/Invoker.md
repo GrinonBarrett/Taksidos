@@ -63,6 +63,15 @@ You also gain the Invocation feature.
 
 #### Dominions
 
+##### Chosen Spirit
+A spirit guide calls to you and shapes your instincts. You gain the following:  
+• For the purpose of magical effects, you may choose to treat yourself as a sylvan creature. If you already were a sylvan creature, you may choose to treat tourself as a beast instead.  
+• As a reaction, when you have been wounded, you may take on a point of spell-sickness to *call upon your spirit guide to attack a foe you can perceive to inflict a biting or cutting attack as appropriate*.
+##### Greater Dominion of the Chosen Spirit 
+• When an attack against you would be a critical hit, *your spirit animal becomes visible for a brief moment*. You ignore that attack altogether. You must complete a full rest to do so again.  
+• You may take on 1d6+6 points of spell-sickness as an action to call forth the spirits against your foes in a 20 yard line which is half a yard high and wide. Anything caught within it is subject to a *magical* biting attack and crushing attack. You must comple a long or full rest before doing so again.  
+• Choose an exotic damage type, all attacks of that manner have disadvantage against you. Once this decision is made, you must complete 7 full rests to change it.
+
 ##### The Earth
 Your power comes from the land itself. You gain the following:  
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
