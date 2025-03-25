@@ -65,6 +65,7 @@ The oulops does not have a substantial enough body to physically harm anything. 
 It must perform a full rest before doing so.
 
 **Dominion Benefits**: The oulops gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. Anytime it tramples, the Oulops may treat it as a Ki attack.
 * **The Earth**. The oulops has an aura extending out 1 foot of dust carried on its gentle swirling breeze. Any ranged attack passing through the aura suffers a -1 to the attack roll. This extends to its aura when using its change size feature.
 * **The Flame**. The oulops emits an aura of dry heat. Anytime it knocks a foe back, fire attacks gain advantage against that foe until the end of the next round.
 * **The Grave**. Movement speed increased by 1 yard.
