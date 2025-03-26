@@ -16,6 +16,9 @@ A staple of life. Used for everything from cooking, preserving meat, and even so
 **Polvaralicia**			$14 per lb.  
 A powder composed of sawdust, ground nutshells, and milled tumbleweed. It is a common component in arcane operations and is often used in absorbing alchemic agents to make cleaning an affected area easier.
 
+**Simple Linen**			$22 per lb.  
+The actual length of the linen varies by fiber type and weave.
+
 **Pistachios**		$23 per per lb.  
 A popular treat for those with the wealth to spend and the time to shell. A pound already shelled is just over twice as expensive.
 
@@ -40,6 +43,9 @@ Spices which are common to the area and can be kept for sometime. May also be a 
 **Polveralicia**		$82 per lb.  
 A powder composed of fine charcoal, grey tin, and silver which has been soaked in a simple ether. It is used for potent alchemic products and used to produce smoked powder, an alternative to black powder.
 
+**Leather**    $86 per lb.  
+It can be found cheaper, but this is the minimum quality for armor.
+
 **Copper**		$100 per lb.  
 A versatile metal which can be more easily worked than iron. It uses range from jewelry, cookware, to arcane devices. The value goes up significantly in any economy in which electrical engineering becomes a dominant force.
 
@@ -49,7 +55,7 @@ A powder propellant which is used for firearm muntions.
 **White Tin**    $270 per lb.  
 A soft and workable metal with resistance to corrosion by water. Its price is driven due to a combination of limited supply and great demand. Avoid a cold climate.
 
-**Linen**			$330 per lb.  
+**Fine Linen**			$330 per lb.  
 The actual length of the linen varies by fiber type and weave.
 
 **Fair Spice**		$350 per lb.  
