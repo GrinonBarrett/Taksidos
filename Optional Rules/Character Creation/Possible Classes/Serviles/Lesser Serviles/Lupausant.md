@@ -120,7 +120,7 @@ An old term for a pledged warrior. Lupausants have pledged themselves to serve t
 
 **Skilled**: The lupausant has proficiency in one of the following skills (athletics, lore, riding, roping, survival, wrestling). Additionally, it either knows an additional skill (of any sort) or an additional language.
 
-**Bravery**: Anytime the lupausant makes a save against a fear effect, you may roll a d6 and add the result to your total.
+**Bravery**: Anytime the lupausant makes a save against a fear effect, it gains a d6 bonus to its result.
 
 **Dominion Benefits**: The lupausant gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. It learns an additional skill.
