@@ -8,13 +8,13 @@ An old term for a pledged warrior. Lupausants have pledged themselves to serve t
 **Hitpoints**: A lupausant has 2 hitpoints.
 
 **Attributes**:  
-[Body] 12 (+3)  
-[Fort] 11 (+2)  
-[Rflx] 12 (+3)  
-[Will] 12 (+3)  
-[Inte] 10 (+2)  
-[Prcp] 10 (+2)  
-[Empy] 10 (+2)  
+[Body] 12 (+4)  
+[Fort] 11 (+3)  
+[Rflx] 12 (+4)  
+[Will] 12 (+4)  
+[Inte] 10 (+3)  
+[Prcp] 10 (+3)  
+[Empy] 10 (+3)  
 
 **Languages**: The Lupausant will know one language, which would be one also known by the invoker.
 
