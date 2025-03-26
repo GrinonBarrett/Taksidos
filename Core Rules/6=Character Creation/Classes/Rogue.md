@@ -67,15 +67,15 @@ You gain an Edge of your choice.
 
 • **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per [Body] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per [Rflc] save, you may spend a luck point to grant an additional +2 bonus.
-
 • **Great Constitution**. You gain a +2 bonus to all [Fort] saves. Once per [Fort] save, you may spend a luck point to grant an additional +2 bonus.
+
+• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per [Rflc] save, you may spend a luck point to grant an additional +2 bonus.
 
 • **Indomitable Will**. You gain a +2 bonus to all [Will] saves. Once per [Will] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Passive Awareness**. You gain a +2 to all [Prcp] saves. Once per [Prcp] save, you may spend a luck point to grant an additional +2 bonus.
-
 • **Calculated Response**. You gain a +2 to all [Inte] saves. Once per [Inte] save, you may spend a luck point to grant an additional +2 bonus.
+
+• **Passive Awareness**. You gain a +2 to all [Prcp] saves. Once per [Prcp] save, you may spend a luck point to grant an additional +2 bonus.
 
 • **Regulated Emotion**. You gain a +2 to all [Empy] saves. Once per [Empy] save, you may spend a luck point to grant an additional +2 bonus.
 
