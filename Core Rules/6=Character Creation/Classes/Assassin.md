@@ -23,7 +23,7 @@ Lurking in shadows or in plain sight, assassins bring their targets to a swift e
 When you perform an attack against a foe within 15 yards, if it is concentrating on a spell or otherwise distracted in such a way as to not focus on you (like when it is brawling), you gain a +1 bonus to that attack. If that creature was unaware of you, it becomes a 1d4 bonus instead. If it is vulnerable, any bonus you gain from this feature is doubled.
 
 ### Tactical Step
-Once per round, you may move 1 yard on land. This does not count as an action and does not count against your movement.
+Once per round, you may move 1 yard on land. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
 
 ### 2) Weapon Familiarity
 You gain a level of training in a weapon of your choice and have specialization in another weapon of your choice.
