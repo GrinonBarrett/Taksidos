@@ -30,7 +30,7 @@ Additionally, you may enter a battle-rage as an action or reaction. While in thi
 This trance ends at the end of any 2nd consecutive round you do not inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1d4 + double the number of rounds the trance lasted.
 
 ### 2) Furious Blow
-The first attack you make each round while in your battle rage gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
+The first attack you make each round while in your battle-rage trance gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
 
 ### 2) Wrathful Strike
 If you are successfully wounded by a creature you can perceive while vulnerable, you may use your reaction to face that foe and perform either a melee or thrown attack against them with disadvantage. If your attack roll total is greater than theirs, this does not count against the use of your reaction for the round.
