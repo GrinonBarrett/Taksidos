@@ -6,4 +6,4 @@ Bright, Fair, Dim, and Darkness.
     • **Dim light** is barely enough light for most diurnal creatures to operate by, causing a -2 penalty to all checks relying on sight and attack rolls made in it.  
     • **Darkness** puts a creature at disadvantage on all rolls relying on sight in addition to a -2 penalty.
 
-    Some creatures react to light differently.
+Some creatures react to light differently.

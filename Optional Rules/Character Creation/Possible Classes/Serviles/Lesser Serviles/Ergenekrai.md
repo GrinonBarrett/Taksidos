@@ -98,6 +98,7 @@ A skeletal servant. It is not very competent on its own. The plural is ergenekro
 **Barebone Senses**: The ergenekrai is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It can always see its invoker with its eye holes if nothing lies between them and will always understand the voice of its invoker.
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. If the servile has no hitpoints remaining and the invoker can perceive it, *they may use their reaction to destroy the erenekrai to inflict a biting and ki attack against a foe they can perceive*.
 * **The Earth**. Immune to damage from knockback (but not falling).
 * **The Flame**. When destroyed while being perceived by the invoker, *a small explosion can be directed at a foe within 1 yard, inflicting a fire attack*.
 * **The Grave**. Ki, Necrotic, and Radiant attacks each have disadvantage against the ergenekrai.

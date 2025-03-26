@@ -91,6 +91,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 **Flyby Trample**: If the gryphar tramples a foe while flying, they may choose to inflict a cutting attack in place of a crushing attack.
 
 **Dominion Benefits**: The gryphar gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. Unarmed attacks against the gryphar have disadvantage.
 * **The Earth**. Immune to damage from knockback and falling so long as it is not prone.
 * **The Flame**. Fire and electric attacks made against the gryphar have disadvantage.
 * **The Grave**. If the grypher attacks a foe with its claw, it *may use its reaction to inflict a necrotic attack against that foe*. Necrotic attacks against the gryphar have disadvantage.

@@ -8,13 +8,13 @@ An old term for a pledged warrior. Lupausants have pledged themselves to serve t
 **Hitpoints**: A lupausant has 2 hitpoints.
 
 **Attributes**:  
-[Body] 12 (+3)  
-[Fort] 11 (+2)  
-[Rflx] 12 (+3)  
-[Will] 12 (+3)  
-[Inte] 10 (+2)  
-[Prcp] 10 (+2)  
-[Empy] 10 (+2)  
+[Body] 12 (+4)  
+[Fort] 11 (+3)  
+[Rflx] 12 (+4)  
+[Will] 12 (+4)  
+[Inte] 10 (+3)  
+[Prcp] 10 (+3)  
+[Empy] 10 (+3)  
 
 **Languages**: The Lupausant will know one language, which would be one also known by the invoker.
 
@@ -120,9 +120,10 @@ An old term for a pledged warrior. Lupausants have pledged themselves to serve t
 
 **Skilled**: The lupausant has proficiency in one of the following skills (athletics, lore, riding, roping, survival, wrestling). Additionally, it either knows an additional skill (of any sort) or an additional language.
 
-**Bravery**: Anytime the lupausant makes a save against a fear effect, you may roll a d6 and add the result to your total.
+**Bravery**: Anytime the lupausant makes a save against a fear effect, it gains a d6 bonus to its result.
 
 **Dominion Benefits**: The lupausant gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. It learns an additional skill.
 * **The Earth**. It gains a bonus to defense against electric attacks equal to the invoker's heroism. It is fluent in terraglossa in addition to any other languages.
 * **The Flame**. It gains a bonus to defense against cold attacks equal to the invoker's heroism. It is fluent in pyroglossa in addition to any other languages.
 * **The Grave**. It gains a bonus to defense against necrotic attacks equal to the invoker's heroism. It is fluent in either Modi or Loholstich in addition to any other languages.

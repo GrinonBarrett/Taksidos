@@ -35,7 +35,7 @@ At the beginning of any encounter, you may choose one of the following:
 Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
 
 ### 2) Tactical Step
-Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement.
+Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
 
 ### 2) Weight Bearer
 Your load limits are increased by a number of pounds equal to your level.

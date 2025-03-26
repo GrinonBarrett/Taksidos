@@ -66,6 +66,7 @@ A radiant member of the porbs. Lamporbs are mild tempered creatures that prefer 
 **Wrestler**: The lamporb has the wrestler skill.
 
 **Dominion Benefits**: The lamporb gains the benefit as appropriate to your domain.  
+* **Chosen Spirit**. Unarmed attacks against the lamporb have disadvantage.
 * **The Earth**. Gains a burrow speed of 2 yards.
 * **The Flame**. Immunity to fire damage.
 * **The Grave**. Immunity to necrotic damage.
