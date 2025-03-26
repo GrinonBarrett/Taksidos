@@ -104,4 +104,4 @@ Large beasts in contact with a spiritual plane. They can take many forms, but th
 
 #### Gaining a Krazur Servile
 
-.
+A krazer is the manifestation of a spirit guide's energy. An invoker need only ensure they have followed its path and meditate for a week.
