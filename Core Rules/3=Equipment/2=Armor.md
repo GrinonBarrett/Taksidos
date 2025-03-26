@@ -28,19 +28,19 @@ Special creatures which may use it
 
 ### Gambeson
 
-**Paltock**, $250, 11 lb  
+**Paltock**, $450, 11 lb  
 2/2  
 A quilted jacket which provides warmth and protection. Many forms of protection include a similar item as part of the kit.  
 Cost to repair is $50. Someone with experience in textiles could repair it themsleves with materials worth half the repair cost.  
 
-**Leather Armor**, $1,000, 14 lb.  
+**Leather Armor**, $3,000, 14 lb.  
 2/3  
 Made of hardened leather, it usually is worn with thick clothing underneath. It also includes a vest. It is expensive to repair as whole pieces of the armor have to be replaced.  
 Cost to repair is $85.  
 
 ### Brigandine
 
-**Brigindine**, $2,000, 23 lb.  
+**Brigindine**, $4,000, 23 lb.  
 2/5  
 Featuring multiple forms of defense, this suit includes padding and incorporates small plates of various materials to provide ultimate protection on the battlefield.  
 Cost to repair is $100 per point.  
