@@ -12,7 +12,7 @@ This cloth bag features a leather spacer to keep 20 arrows held and separated fo
 **Astrolabe, $230, 6 lb.**  
 A device used to track current position by measuring the horizon and position of the stars.
 
-**Backpack, $60, 9 lb.**  
+**Backpack, $80, 6 lb.**  
 A lightly reinforced sack which can be tied closed. It features straps to be worn by an adventurer or to be easily attached to a vehicle. Holds about 40 pounds of gear.
 
 **Bar Soap, $9.5, .5 lb.**  
