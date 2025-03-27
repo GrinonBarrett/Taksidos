@@ -76,6 +76,6 @@ A phantasm which happens to haunt magical places. Vruhain is the plural. Their c
 
 **Darkvision**: The vruhar can see in dim light and darkness as though they were bright light.
 
-**Shadow Stride**: So long as it is in darkness, its movement speed is trupled  In dimlight, its movement speed is instead doubled.
+**Shadow Stride**: So long as it is in darkness, its movement speed is tripled. In dimlight, its movement speed is instead doubled.
 
 **Startling Speed**: Once per encounter, as an action or reaction, the vruhar may perform a movement.
