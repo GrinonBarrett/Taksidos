@@ -54,8 +54,6 @@ Flesh out bestiary.
 * Will add Ethereal Grazer
 * Will add Corvus
 * Will add Snake
-* Will add Bear
-* Will add Sun Bear :<)
 * Will add Alligator
 * Will add a Koulaz (a hooded humanoid looking monster that steals disobedient children)
 * Will add a Grindylow (change the spelling possibly)
