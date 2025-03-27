@@ -88,6 +88,16 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 * Frost Lance, 3rd
 * Grasp, 2nd
 
+**Grelald's Tome**  
+*Unique*  
+$7,000, 6 lbs.  
+This tome is filled with more rambling than anything else.
+* Behest, 2nd
+* Edify, 1st
+* Psychilysis, 4th
+* Xanthic Sign, 4th
+* A psychodetection spell{}
+
 **Zorne's Tome**  
 *Unique*  
 $10,350, 5 lbs.  
@@ -97,3 +107,4 @@ This tome functions as both instructional material on combat oriented spells and
 * Zorne's Ball Lightning, 4th
 * Zorne's Shield, 2nd
 * Zorne's Sparks, 1st
+
