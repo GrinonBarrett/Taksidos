@@ -11,6 +11,7 @@ For this update:
 * Finish the Wekowyrd.
 * Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
 * Make a Thought Clutch spell which can bring the final thoughts from an area.
+* Make a spell that detects the number of non-mindless creatures in range.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
