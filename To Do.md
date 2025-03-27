@@ -9,6 +9,8 @@ For this update:
 * Create a vampire template that represents those that come to follow the commands of Alekard.
 * Create a Moritith creature, as it would work well. Honestly, probably better than a player species.
 * Finish the Wekowyrd.
+* Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
+* Make a Thought Clutch spell which can bring the final thoughts from an area.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey).
