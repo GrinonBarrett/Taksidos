@@ -55,10 +55,10 @@ If name is knon, bonus is instead a standard bonus to attack roll.
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
-An enchanted weapon costs 3 times the base price and an additional $5,000. Depending on the type of enchantment, a critical hit is treated as *one of the associated attack type*. If the user presses their attack, they *may treat their attack as being of the associated type*. The Enchantments are as follows:  
+An enchanted weapon costs 3 times the base price and an additional $5,000. Depending on the type of enchantment, a critical hit is treated as also *one of the associated attack type*. If the user presses their attack, they *may treat their attack as being of the associated type*. The Enchantments are as follows:  
 * Dissolving: Acid.
 * Crunching: Biting.
-* Frost: Cold.
+* Frosty: Cold.
 * Bold: Crushing.
 * Sharp: Cutting.
 * Shocking: Electric.
@@ -154,7 +154,12 @@ If name is known, *it can also inflict an additional acid attack when the user p
 **The Malachite Mace** (*unique*)  
 $12,800 , 4.25 lbs.  
 Mace  
-An eathern handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
+An earthen handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
+
+**Olm** (*unique*)  
+$3,000 , 3.5 lbs.    
+Longsword  
+A rather normal longsword with a vaguely magical aura. *If name is known, the sword also inflicts a cutting attack against a foe if the original attack roll result is a 13 or 17*.
 
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
@@ -198,7 +203,7 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 **Undying Bane** (*unique*)  
 $780, 3.5 lb.  
 Longsword  
-A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath ewual to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
+A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath equal to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
 
 **Wicked Spike** (*unique*)  
 $5,700, 4 lbs.  
