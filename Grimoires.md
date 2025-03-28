@@ -90,13 +90,13 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 
 **Grelald's Tome**  
 *Unique*  
-$7,000, 6 lbs.  
-This tome is filled with more rambling than anything else.
+$9,400 , 6 lbs.  
+This tome is filled with more rambling than anything else. *Anyone marked by a Xanthic Sign will seem to see secret messages within the texts that encourages them to perform malicious tasks*. This grimoire contains the following spells at the indicated tiers;  
 * Behest, 2nd
 * Edify, 1st
 * Psychilysis, 4th
+* Sapiafi, 3rd
 * Xanthic Sign, 4th
-* A psychodetection spell{}
 
 **Zorne's Tome**  
 *Unique*  
