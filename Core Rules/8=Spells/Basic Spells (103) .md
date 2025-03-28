@@ -1151,7 +1151,21 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (12
+### S (13
+
+#### Sapiafi
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 actions
+
+**Range**: 4 yards
+
+**Effect**: You reach out into the psychic plane, getting a sense of every mind within range. You know the exact location of every non-mindless creature within range (even on the psychic and ethereal planes). You also know how many of those creatures have an [Inte] score of 10 (but not the exact score). You know all of this until the end of the next round.
+
+**At Higher Tiers**: For each tier beyond minimum, the time you possess this knowledge is increased by an additional round and the range of the spell is increased by 1.5 yards.
+
+**Critical Failure**: You have reached into the psychic plane and found something you cannot understand. You are dazed as long as you have spell sickness and are subject to a psychic attack with bonus equal to the tier of the spell.
 
 #### Seclusion Circle
 
