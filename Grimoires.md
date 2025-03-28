@@ -55,9 +55,9 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 $10,000, 2.5 lbs.  
 A manual written to teach the most important spells for one caught on the battlefield. Many a warmage has sworn by the neccesity of the spells contained within. This grimoire contains the following spells at the indicated tiers;  
 * Abatis, 2nd
+* Ablataive Guard, 3rd
 * Imbue, 1st
 * Resend, 1st
-* Seclusion Circle, 3rd
 * Swift Bolt, 2nd
 
 **Tome of the Ygruigist**  
