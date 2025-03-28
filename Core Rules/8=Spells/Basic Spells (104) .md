@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list. 
 
-### A (9
+### A (10
 
 #### Abatis
 
@@ -36,6 +36,18 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 round.
 
 **Critical Failure**: You instead affect yourself with the spell. If you had already targeted yourself, you instead fail to move.
+
+#### Ablative Guard
+
+**Minimum Tier**: 2
+
+**Casting TIme**: 1 reaction, which you take in response to a non-magical attack against yourself
+
+**Effect**: You gain a bonus to defense against that attack equal to the lowest of the spell's tier or your [Magic] bonus as a magical field of force projects from yourself and covering the entirety of the direction. The forcefield then continues to exist for a total number of phases equal to the spell's tier. Magical attacks bypass the barrier completely and reduce its lifespan by 1 phase. Critical hits cause the forcefield to dissipate automatically. Fire attacks of any nature will destroy the barrier before affecting the caster.
+
+**At Higher Tiers**: The benefits for higher tiers are noted above.
+
+**Critical Failure**: You gain 1d4 points of spell sickness.
 
 #### Abnegate
 
