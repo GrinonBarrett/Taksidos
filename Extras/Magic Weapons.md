@@ -156,6 +156,11 @@ $12,800 , 4.25 lbs.
 Mace  
 An earthen handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
 
+**Needle** (*unique*)  
+$7,000 , .33 lbs.  
+Wand  
+A strange, thin, little wand. It can be used so long as any attribute is 13 or above. It produces piercing attacks with its ray. While in one's possession, when attempting a spell check, roll a d6 and increase the difficulty of that check by an equal amount. The tier of the spell is increased, but the difficulty of the check does not match this increase. After a week of active use, the user experience an instance of Archblight. After another 3d6+10 days of use, they will experience another such instance. This will continue every 1d12 days afterwards. If the Archblight kills the user this way, their remains will become withered and skeletal- holding up the wand for another to take. One's first thought upon inspecting it will be "What a funny little name".
+
 **Olm** (*unique*)  
 $3,000 , 3.5 lbs.    
 Longsword  
