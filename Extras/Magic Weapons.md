@@ -188,6 +188,11 @@ Broadhead Arrow
 Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shadt is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
+**Storm Spewer** (*unique*)  
+$20,000, 3.75 lbs.  
+Longsword  
+Made of bone, in the tradition of merfolk weapons, this blade has been passed down for generations. If name is known, *it can be called on to blast a combination of skin-boiling steam and arctic mist in a 5 yard cone as an action by taking on 1d6+3 points of spell sickness. Everything in the cone is subject to a cold attack and a fire attack. This cannot be done again until the sword and a user rest. If name is known and user has Weapon Mastery with longwords, they may treat a critical hit as that of a cold attack*.
+
 **Talavaste** (*unique*)  
 $2,200 , 4 lb.  
 Longsword  
