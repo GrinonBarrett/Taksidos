@@ -30,7 +30,7 @@ Effect
 Notes
 
 **Mad Fox Disease**  
-*Magical* 
+*Magical*  
 **Means of Contagion**: Physical contact, respitory, fluid contact
 DV 8  
 **Incubation**: 3d4 days 
