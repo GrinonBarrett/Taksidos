@@ -3,20 +3,20 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Create a Grigori, a fiendish giant creature.
-* Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
-* Create a vampire template that represents those that come to follow the commands of Alekard.
 * Create a Moritith creature, as it would work well. Honestly, probably better than a player species.
 * Finish the Wekowyrd.
 * Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
 * Make a Thought Clutch spell which can bring the final thoughts from an area.
 * Create a spell which allows a reflective surface see magical effects.
-* Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one.
+* Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey, A small fire lizard, A little dragon turtle thing, a plant bulb that has two vine appendages to move around)
 * Create 2 more greater serviles (One is a clay golem like entity, "evolution"s for the lizard dragon turtle and plant bulb).
+* Create a vampire template that represents those that come to follow the commands of Alekard.
+* Create a Grigori, a fiendish giant creature.
+* Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create dough type monster.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday or a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Make some Kaiju type monsters.
