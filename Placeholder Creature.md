@@ -64,14 +64,14 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   2    | Voidbeing         | The wekowyrd's current and maximum hitpoints are tripled. When the wekowyrd is destroyed, it will become a Voidar. All space within a number of miles equal to its maximum hitpoints cease to exist as a result of the matter collapsing inwards to create the new being.      |
 |   3    |  Massivate | The wekowyrd increases in size by 1 category and its weight is multiplied by 10. The reach of its unarmed attacks are increased by half. Its movement speeds are increased by one-sixth. |
 |   4    | Antimagic Pulse | All magic within a number of miles equal to the wekowyrds maximum health multiplied by its current health ceases to function for 1 minute. |
-|   5    | Head Growth | The wekowyrd develops a new head, complete with a toothy maw. This limb can be used to strike a foe within 7 yards to inflict a biting attack. |
-|   6    | Harden Carapace| The wekowyrd's surface begins to develop hardened microfeatures, increasing it defense against bare, biting, and weapon attacks by 1. |
+|   5    | Ray Caster | The wekowyrd develops an appendage which reaches out to 5 yards. It can be used to produce bare attacks. Additionally, a random exotic damage type is determined for the appendage. Once per round, it can produce a ray attack like a wand.
+|   6    | Harden Carapace | The wekowyrd's surface begins to develop hardened microfeatures, increasing it defense against bare, biting, and weapon attacks by 1. |
 |   7    | Raising Constitution | The Wekowyrd's [Fort] score is increased by 1. Adjust bonus if appropriate. |
 |   8    | Unusual Organ | A small organ is produced on the surface of its carapace. The Wekowyrd's [Prcp] score is increased by 1. Adjust bonus if appropriate. |
 |   9    | Brain Folding | The Wekowyrd's [Inte] score is increased by 1. Adjust bonus if appropriate. |
 |   10   | Psychical Pulse | Everything within a number of yards equal to 100 for each hitpoint it currently has is subject to a Psychic attack. |
 |   11   | Growing Fluidity | The Wekowyrd's [Rflx] score is increased by 1. Adjust bonus if appropriate. |
-|   12   |  |  |
+|   12   | Head Growth | The wekowyrd develops a new head, complete with a toothy maw. This limb can be used to strike a foe within 7 yards to inflict a biting attack. |
 |   13   | Levitational Evolution | It gains a new mode of movement. It may levitate up to 5 yards per move so long as it is not dazed. If it gets this again, its levitation speed is increased by 5 yards instead. |
 |   14   | Muscular Growth | The wekowyrd's [Body] score is increased by 1. Adjust the bonus if appropriate.  |
 |   15   | Grow Limb | The wekowyrd develops a new limb. This limb can be used to strike a foe within 7 yards to inflict a bare attack. If it strikes a smaller foe, it may treat it as a club attack instead. |
@@ -80,9 +80,9 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   18   |  Sensory Organ | The wekowyrd develops an appendage with a sensory organ attached. This sensory organ can be one of the 5 basic senses. It gets a +12 to appicable [Prcp] checks and saves for each of these additional organs it has. |
 |   19   |  Castless Aura |  The wekowyrd gains an aura which causes it to automatically perform a counterspell check against anything casting a spell within 25 yards. The wekowyrd's check result is equal to 1d12 + its current number of wounds. If it gains this mutation again, its range is increased by 25 yards. |
 |   20   | Devolution | The wekowyrd loses a random mutation, but recovers 1 hitpoint. |
-|   21   |     | The Wekowyrd's [Empy] score is increased by 1. Adjust bonus if appropriate. |
-|   22   |   | The wekowyrd's become much more sprightly. Its movement speeds are increased by one-third. |
-|   23   |  | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
+|   21   | Unknown Force | The Wekowyrd's [Empy] score is increased by 1. Adjust bonus if appropriate. |
+|   22   | Mobility | The wekowyrd's becomes much more sprightly. Its movement speeds are increased by one-third. |
+|   23   | Strengthen | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
 |   24   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations (and is also prone and vulnerable). The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. ***Have fun***. |
 
 -----
@@ -93,7 +93,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Mighty Slam**: When the wekowyrd successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the wekowyrd's check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the wekowyrd's weight in stones divided by the foe's weight in stones. If the wekowyrd had a critical success, the foe is also vulnerable while they are prone.
 
-**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times.
+**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
 
 **Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles. The wekoyrd's result total is 1d8 + its maximum HP + its current number of wounds.
 
