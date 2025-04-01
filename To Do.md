@@ -11,6 +11,8 @@ For this update:
 * Finish the Wekowyrd.
 * Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
 * Make a Thought Clutch spell which can bring the final thoughts from an area.
+* Create a spell which allows a reflective surface see magical effects.
+* Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type.
 
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey, A small fire lizard, A little dragon turtle thing, a plant bulb that has two vine appendages to move around)
