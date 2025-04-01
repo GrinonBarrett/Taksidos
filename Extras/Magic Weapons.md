@@ -37,7 +37,7 @@ If the sword's name is known to the user, *their attack rolls with the weapon ga
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
 Longsword  
-This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 14, the foe is dazed until the end of the next round.
+This curved blade reaches 2.5 feet. If used in both hands, it gains a +1 for the purpose of determining if it is a critical hit. If an attack roll result is a 14, *the foe is dazed until the end of the next round*.
 
 **Datha** (*unique*)  
 $5,000 , 4 lbs.  
@@ -173,7 +173,7 @@ A mace made with a copious amount of platinum in its flanges. If its name is kno
 
 **Ralafasse** (*unique*)  
 $30,000 , 4 lbs.  
-A blade brighter than any silver is adorned with a hilt of brass and the finest leather grip. The user will feel the thoughts of something wanting to fight a strong opponent. Eventually, it might start talking to the user. It will not reveal its name voluntarily unless a mighty foe is best by the user. *The sword gets to take a reaction each round so long as it is in a user's hand, but it must be an action involving the sword itself. A user attempting to prevent this by using their reaction in response. If name is known, they may have Ralafasse brace for reactions of their choice at the start of a combat- although Ralafasse may still choose to perform its own reaction. If the user has Warrior Mastery with longswords, Ralafasse can live up to its full potential- granting a +1 to all attacks, beats, and parries with the weapon*.
+A blade brighter than any silver is adorned with a hilt of brass and the finest leather grip. The user will feel the thoughts of something wanting to fight a strong opponent. Eventually, it might start talking to the user. It will not reveal its name voluntarily unless a mighty foe is best by the user. *The sword gets to take a reaction each round so long as it is in a user's hand, but it must be an action involving the sword itself. A user attempting to prevent this by using their reaction in response. If name is known, they may have Ralafasse brace for reactions of their choice at the start of a combat- although Ralafasse may still choose to perform its own reaction. If the user has Warrior Mastery with longswords, Ralafasse can live up to its full potential- granting a +1 to all attacks, beats, and parries with the weapon*. 
 
 **Ritual Femur**  
 $500, 2 lbs.  
