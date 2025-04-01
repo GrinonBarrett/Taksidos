@@ -65,7 +65,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12   | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **bare** | 11-13 |
 |                        |           |          |            |         |            |
@@ -155,7 +155,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12 | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **Bare** | 11-13 |
 |                        |           |          |            |         |            |
@@ -247,7 +247,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12 | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **Bare** | 11-13 |
 |                        |           |          |            |         |            |
@@ -339,7 +339,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12 | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **Bare** | 11-13 |
 |                        |           |          |            |         |            |
@@ -431,7 +431,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12 | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **Bare** | 11-13 |
 |                        |           |          |            |         |            |
@@ -523,7 +523,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 | **Spear**                  | 5-10  | **Pike** | 4-8   | **Brusgiata** | 7-10  |  |     |
 | **Hand Axe**               | 6-10  | **Madu** | 7-11   | **Chakram** | 7-11 |
 | **Katar**                  | 5-10  | **Javelin** | 6-10  | **Arquebus** | 5-9  |
-| **Dagger**                 | 6-10  | **Throwing Blade** | 7   | **Musket** | 4-8 |
+| **Dagger**                 | 6-10  | **Throwing Blade** | 7-12 | **Musket** | 4-8 |
 | **Morningstar**            | 6-9   | **Sling** | 7-12  | **Tronutonante** | 5-10  |
 | **Warpick**                | 6-9   | | | **Bare** | 11-13 |
 |                        |           |          |            |         |            |
