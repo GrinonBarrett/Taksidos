@@ -193,7 +193,7 @@ Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. It
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
 **Storm Spewer** (*unique*)  
-$20,000, 3.75 lbs.  
+$20,000 , 3.75 lbs.  
 Longsword  
 Made of bone, in the tradition of merfolk weapons, this blade has been passed down for generations. If name is known, *it can be called on to blast a combination of skin-boiling steam and arctic mist in a 5 yard cone as an action by taking on 1d6+3 points of spell sickness. Everything in the cone is subject to a cold attack and a fire attack. This cannot be done again until the sword and a user rest. If name is known and user has Weapon Mastery with longwords, they may treat a critical hit as that of a cold attack*.
 
@@ -215,17 +215,22 @@ A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of det
 If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a cold attack*.
 
 **Undying Bane** (*unique*)  
-$780, 3.5 lb.  
+$780, 3.5 lbs.  
 Longsword  
 A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath equal to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
 
+**Warl's Hammer** (*unique*)  
+$8,400 , 4 lbs.  
+Mace  
+This warhammer is well made. It can be thrown as a thrown blade, but inflicts an attack as a club when thrown this way. *When thrown while aimed, you may have it inflict its critical hit as though it were a fire attack. If user has warrior mastery with maces, they gain a +2 bonus for the purpose of inflicting a critical hit*.
+
 **Wicked Spike** (*unique*)  
-$5,700, 4 lbs.  
+$5,700 , 4 lbs.  
 Warpick  
 A gnarled warpick forged in curses against humanity. Anytime it inflicts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
 
 **Zerun's Eye**  
-$9,990, neg.  
+$9,990 , neg.  
 None (see below)  
 A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
 The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces and thrown blades may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
