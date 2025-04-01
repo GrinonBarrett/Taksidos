@@ -171,6 +171,10 @@ $18,000 , 4.25 lbs.
 Mace  
 A mace made with a copious amount of platinum in its flanges. If its name is known,*critical hits from the attack may be treated as fire, electric, or radiant*.
 
+**Ralafasse** (*unique*)  
+$30,000 , 4 lbs.  
+A blade brighter than any silver is adorned with a hilt of brass and the finest leather grip. The user will feel the thoughts of something wanting to fight a strong opponent. Eventually, it might start talking to the user. It will not reveal its name voluntarily unless a mighty foe is best by the user. *The sword gets to take a reaction each round so long as it is in a user's hand, but it must be an action involving the sword itself. A user attempting to prevent this by using their reaction in response. If name is known, they may have Ralafasse brace for reactions of their choice at the start of a combat- although Ralafasse may still choose to perform its own reaction. If the user has Warrior Mastery with longswords, Ralafasse can live up to its full potential- granting a +1 to all attacks, beats, and parries with the weapon*.
+
 **Ritual Femur**  
 $500, 2 lbs.  
 Club  
