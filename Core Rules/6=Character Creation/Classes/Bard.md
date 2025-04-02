@@ -23,7 +23,8 @@ Enriched in culture and capable of fighting- you are the warsingers, skalds, and
 You are well versed in culture and can also use a weapon about as well as any soldier. You gain proficiency in either Carousing or Lore, your choice. If you are already proficienct in both, you gain proficiency in another skill of your choice. You also gain training in two weapons of your choice. Furthermore, you learn a language of your choice.
 
 ### Odd
-You gain a +1 to defense against Bigenera, Ephemera, Fey, and Monsters. You also gain a +2 to saves against their abilities.
+You gain a +1 to defense against Bigenera, Ephemera, Fey, and Monsters. You also gain a +2 to saves against their abilities.  
+You know if an attack against you is of a magical nature or not.
 
 ### Random Piece of Knowledge
 Choose a creature type. Once this decision is made, it cannot be changed.  
@@ -60,7 +61,7 @@ When a magical effect would inflict an attack against you, you may impose disadv
 Anytime a creature within 10 yards attempts a spellcheck, you may use your reaction to impose a penalty to that check equal to 1d4 + the spell's tier. You cannot do so on consecutive rounds.
 
 ### 9) Bardic Resistance
-Your attribute bonus to saves against magical effects is doubled. If you have opted to use your attribute score inplace of your heroism bonus and attribute bonus, you may still apply your attribute bonus.
+Your attribute bonus to saves against magical effects is doubled. If you have opted to use your attribute score inplace of your heroism bonus and attribute bonus, you may still apply your attribute bonus instead.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -70,6 +71,10 @@ If you specialize as a bard, you gain the following:
 In place of applying your heroism and attribute bonus to a save against a magical effect, you may simply use your attribute score. You must perform a rest before doing so again.  
 Your total hitpoints is increased by 1.  
 You gain training in a weapon of your choice.
+Your Odd feature now benefits you against Drakonadiae and Fiends as well.
 
 #### Splash
-If you splash bard as a member of another class, you gain the same benefits as a bard that chooses to specialize.
+If you splash bard as a member of another class, you gain the following benefits:  
+In place of applying your heroism and attribute bonus to a save against a magical effect, you may simply use your attribute score. You must perform a rest before doing so again.  
+Your total hitpoints is increased by 1.  
+You gain training in a weapon of your choice.
