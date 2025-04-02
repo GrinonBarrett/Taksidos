@@ -8,7 +8,7 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 2  |    +1    | Basic Training, Pacing, Shield Proficiency        |
-| 2nd   | 2  |    +2    | Tactical Step, Weight Bearer, Bravery             |
+| 2nd   | 2  |    +2    | Bravery, Tactical Step, Weight Bearer             |
 | 3rd   | 3  |    +3    | Attribute Improvement, Focus Strike               |
 | 4th   | 3  |    +4    | Aggressive Way                                    |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
@@ -34,14 +34,14 @@ At the beginning of any encounter, you may choose one of the following:
 ### Shield Proficiency
 Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
 
+### 2) Bravery
+Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
+
 ### 2) Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
 
 ### 2) Weight Bearer
 Your load limits are increased by a number of pounds equal to your level.
-
-### 2) Bravery
-Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
 ### 3) Focus Strike
 When you successfully attack a foe, you may use your reaction to grant yourself a bonus to the attack equal to your heroism for the purpose of determining if it is a critical hit.
