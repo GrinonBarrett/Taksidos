@@ -1,36 +1,34 @@
-###### Need to finish the mutations. This will take a little time and everytime I sit down to do it it seems to kill my concentration.
+### Graugolaug
+Sometimes, an adventurer needs a horse. Overtime, across many advenutres, they form a deep bond together. Sometimes still, such a pair finds themselves in a fit of desperation. If an adventurer opts to kill and eat their companion, they are cursed to hunger for the flesh of other such beasts. They transform into a hideous monster, their limbs becoming clawed legs as their body contorts. Their head elongates, with a jaw like a crocodile. It has ears like a bat and a slender form.
 
-### Wekowyrd
-An everforming eldritch horror which can mutate before the adventurers eyes.
+**Creature Type**: Graugolaugs are Monsters.
 
-**Creature Type**: Wekowyrds are Eldritch.
+**Size**: Graugolaugs stand about 4 feet tall. They are 6 feet in length. They can weigh between 250 and 360 pounds. They are medium creatures.
 
-**Size**: The form of a wekowyrd is an unsual mass of bodily components. The exact dimensions of it varies from each, as does their weight. They weigh between 400-1500 pounds. They are great creatures.
-
-**Hitpoints**: A wekowyrd has 16 hitpoints.
+**Hitpoints**: A graugolaug has 3 hitpoints.
 
 **Attributes**:  
 [Body] 16 (+5)  
-[Fort] 18 (+6)  
+[Fort] 8  (+42)  
 [Rflx] 15 (+5)  
-[Will] 18 (+6)  
-[Inte] 7  (+2)  
-[Prcp] 12 (+4)  
+[Will] 9  (+3)  
+[Inte] 4  (+1)  
+[Prcp] 10 (+3)  
 [Empy] 5  (+1)  
 
-**Languages**: Wekowyrds don't speak.
+**Languages**: Graugolaugs don't speak.
 
-**Run Speed**: It may run up to 10 yards per move.
+**Run Speed**: It may run up to 6 yards per move.
 
-**Swim Speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: It may climb up to 3 yards per move presuming it is reasonable terrain to do so.
 
-**Climb Speed**: It may climb up to 8 yards per round, presuming it is reasonable terrain to do so.
+**Swim speed**: It may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Slam: The wekowyrd may use any part of its body to strike a foe within 7 yards. This is a melee force attack.
+ • Claw: The graugolaug may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
 
- • Bite: The wekowyrd may perform a single bite against a foe within 3 yards. This is a melee bite attack.
+ • Bite: The graugolaug may perform a single bite against a foe within 1 yard. This is a melee bite attack.
 
 -----
 
@@ -38,71 +36,61 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe**       | 13     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 14     | **Greatsword**     | 13     | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 14     | **Maul**           | 13     | **Bolt** | 14    |
-| **Spear**                  | 14     | **Pike**           | 13     | **Brusgiata** | 15     |
-| **Hand Axe**               | 14     | **Madu**           | 14     | **Chakram** | 15    |
-| **Katar**                  | 14     | **Javelin**        | 14  | **Arquebus** | 13    |
-| **Dagger**                 | 14     | **Throwing Blade** |  16  | **Musket** | 12    |
-| **Morningstar**            | 14     | **Sling**          | 16    | **Tronutonante** | 14    |
-| **Warpick**                | 14     |          |          |   **Bare** |  21  |
+| **Club**                | 19   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 14    |
+| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 13    |
+| **Mace**                   | 13    | **Maul** | 13     | **Bolt** | 13    |
+| **Spear**                  | 12     | **Pike** | 12     | **Brusgiata** | 15     |  |     |
+| **Hand Axe**               | 13     | **Madu** | 14     | **Chakram** | 15    |
+| **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 11    |
+| **Dagger**                 | 13     | **Throwing Blade** | 7    | **Musket** | 10    |
+| **Morningstar**            | 13     | **Sling** | 18    | **Tronutonante** | 13    |
+| **Warpick**                | 13     |    |  |   **Bare** |  20  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 14     | **Fire**           | 14     | **Psychic** | 19     |
-| **Cold**                   | 14     | **Force**          | 14     | **Toxic**  | 14     |
-| **Crushing**               | 14     | **Ki**             | 15     | **Radiant** | 14     |
-| **Cutting**                | 14     | **Necrotic**       | 13     | **Sonic** | 14    |
-| **Electrical**             | 14     | **Piercing**       | 14     | **Biting** | 14    |
+| **Acid**                   | 10     | **Fire** | 14     | **Psychic** | 16     |
+| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 12     |
+| **Crushing**               | 14     | **Ki** | 14     | **Radiant** | 15     |
+| **Cutting**                | 13     | **Necrotic** | 15     | **Sonic** | 11    |
+| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 13    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 14 |                          |     | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 13 |    |     | **Undamaging** | 14 |
 
 
 
-**Table**: *Mutation Chart* 
-| Result | **Description** | Effects                                                        |
+**Table**: *Wound Allocation*
+| Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
-|   2    | Voidbeing         | The wekowyrd's current and maximum hitpoints are tripled. When the wekowyrd is destroyed, it will become a Voidar. All space within a number of miles equal to its maximum hitpoints cease to exist as a result of the matter collapsing inwards to create the new being.      |
-|   3    |  Massivate | The wekowyrd increases in size by 1 category and its weight is multiplied by 10. The reach of its unarmed attacks are increased by half. Its movement speeds are increased by one-sixth. |
-|   4    | Antimagic Pulse | All magic within a number of miles equal to the wekowyrds maximum health multiplied by its current health ceases to function for 1 minute. |
-|   5    | Ray Caster | The wekowyrd develops an appendage which reaches out to 5 yards. It can be used to produce bare attacks. Additionally, a random exotic damage type is determined for the appendage. Once per round, it can produce a ray attack like a wand.
-|   6    | Harden Carapace | The wekowyrd's surface begins to develop hardened microfeatures, increasing it defense against bare, biting, and weapon attacks by 1. |
-|   7    | Raising Constitution | The Wekowyrd's [Fort] score is increased by 1. Adjust bonus if appropriate. |
-|   8    | Unusual Organ | A small organ is produced on the surface of its carapace. The Wekowyrd's [Prcp] score is increased by 1. Adjust bonus if appropriate. |
-|   9    | Brain Folding | The Wekowyrd's [Inte] score is increased by 1. Adjust bonus if appropriate. |
-|   10   | Psychical Pulse | Everything within a number of yards equal to 100 for each hitpoint it currently has is subject to a Psychic attack. |
-|   11   | Growing Fluidity | The Wekowyrd's [Rflx] score is increased by 1. Adjust bonus if appropriate. |
-|   12   | Head Growth | The wekowyrd develops a new head, complete with a toothy maw. This limb can be used to strike a foe within 7 yards to inflict a biting attack. |
-|   13   | Levitational Evolution | It gains a new mode of movement. It may levitate up to 5 yards per move so long as it is not dazed. If it gets this again, its levitation speed is increased by 5 yards instead. |
-|   14   | Muscular Growth | The wekowyrd's [Body] score is increased by 1. Adjust the bonus if appropriate.  |
-|   15   | Grow Limb | The wekowyrd develops a new limb. This limb can be used to strike a foe within 7 yards to inflict a bare attack. If it strikes a smaller foe, it may treat it as a club attack instead. |
-|   16   | Lesser Recovery | The wekowyrd recovers a single hitpoint. |
-|   17   |  Hardening Will  | The Wekowyrd's [Will] score is increased by 1. Adjust bonus if appropriate. |
-|   18   |  Sensory Organ | The wekowyrd develops an appendage with a sensory organ attached. This sensory organ can be one of the 5 basic senses. It gets a +12 to appicable [Prcp] checks and saves for each of these additional organs it has. |
-|   19   |  Castless Aura |  The wekowyrd gains an aura which causes it to automatically perform a counterspell check against anything casting a spell within 25 yards. The wekowyrd's check result is equal to 1d12 + its current number of wounds. If it gains this mutation again, its range is increased by 25 yards. |
-|   20   | Devolution | The wekowyrd loses a random mutation, but recovers 1 hitpoint. |
-|   21   | Unknown Force | The Wekowyrd's [Empy] score is increased by 1. Adjust bonus if appropriate. |
-|   22   | Mobility | The wekowyrd's becomes much more sprightly. Its movement speeds are increased by one-third. |
-|   23   | Strengthen | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
-|   24   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations (and is also prone and vulnerable). The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. ***Have fun***. |
+|   1    | Attacker's Choice |                                                                |
+|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Four Legged Fumble | It is knocked prone. It cannot move on its own until the end of the next round. |
+|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
+|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
+|   8    | Glancing Blow     | No ill effects _this time_.                                     |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   10   | Snout Shot        | It suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
+|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
+|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
+|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   16   | Glancing Blow     | **Biased wound**. No effect. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Tail Shot         | Until this wound is healed, it suffers a -1 to all checks and saves involving balance. |
+|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
+|   20   | Defender's choice |                                   |
+|        |                                                |                                   |
 
 -----
 
-**Alien Persistence**: The wekowyrd does not need to breathe, drink, or eat.
+**Wrestler**: The graugolaug has the Wrestling skill.
 
-**Alien Constitution**: The wekowyrd is not subject to diseases of any kind. It also gains advantage on any saves against non-magical poisons and venoms and the toxic attacks of such things have disadvantage against the wekowyrd. It cannot receive more than a single instance of hermorrhaging. 
+**Rake**: As a reaction, if the graugolaug successfully grapples a creature of equal size or no more than 1 size category larger or smaller, it can use its rear claws to inflict a cutting attack each. If it is grappling a creature within those size limits, it may also perform those claw attacks as a single action without penalty for multiple attacks or brawling with the foe.
 
-**Mighty Slam**: When the wekowyrd successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the wekowyrd's check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the wekowyrd's weight in stones divided by the foe's weight in stones. If the wekowyrd had a critical success, the foe is also vulnerable while they are prone.
+**Limited Trample**: A graugolaug can trample as though it were a mount, in place of brawling, if it makes contact as a result of sprinting. If it tramples this way, the attack inflicted is a cutting attack. Additionally, if it slams a foe, it inflicts an unarmed attack against that foe.
 
-**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
+**Alacrity**: When rolling for initiative, the graugolaug may use its reaction to move a number of feet equal to its result- so long as it does not exceed the appropriate mode of movement. It decides this after turn order is determined, but before actions are taken.
 
-**Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles. The wekoyrd's result total is 1d8 + its maximum HP + its current number of wounds.
+**Startling Speed**: Once per encounter, as an action or reaction, the graugolaug may perform a movement.
 
-**Multiple Appendages**: The wekowyrd has 3 total limbs by default, which each function as primary hands.
-
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the wekowyrd is increased by 2. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
-
-**Swallow Whole**: If the wekowyrd successfully grapples a creature of at least two size categories or smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
-
-**Consuming**: Anything in the wekowyrd' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an 2 acid attacks, a necrotic attack, and a crushing attack with advantage. Even if the creature escapes, it is still subject to an acid attack at the end of the round it escaped.
-
-**Supernatural Speed**: When the wekowyrd sprints, it *may quadruple its movement speed for that move*. Additionally, if it does not sprint during a round, it may use its reaction to *triple its speed*.
+**Terrifying Leap**: Once per encounter, the canucorryngraugolaug may quadruple its leap distance.
