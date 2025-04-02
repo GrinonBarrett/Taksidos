@@ -5,18 +5,18 @@ Whether you are the supportive ally or the charismatic leader, you bring a power
 
 **Table-The Paragon**
 
-| Level | HP | Heroism  | Authority | Features                                          | Commands |
-|-------|----|----------|-----------|---------------------------------------------------|----|
-| 1st   | 1  |    +1    | 3         | Authority, Commands                               | Excel |
+| Level | HP | Heroism  | Authority | Features                                          |    Commands    |
+|-------|----|----------|-----------|---------------------------------------------------|----------------|
+| 1st   | 1  |    +1    | 3         | Authority, Commands                               |      Excel     |
 | 2nd   | 1  |    +2    | 4         | Paragon Learning                                  | Steel Yourself |
-| 3rd   | 1  |    +3    | 5         | Attribute Improvement, Bravery                    | Mark |
-| 4th   | 2  |    +4    | 6         | Further Training                                  | Run |
-| 5th   | 2  |    +4    | 6         | Splash or Specialize                              | |
-| 6th   | 2  |    +5    | 7         | Attribute Improvement                             | Stand Firm |
-| 7th   | 2  |    +6    | 8         | Faith in Friends                                  | Endure |
-| 8th   | 3  |    +7    | 9         | Supreme Authority                                 |   |
-| 9th   | 3  |    +8    | 10        | Attribute Improvement                             | Recitation |
-| 10th  | 3  |    +8    | 10        | Splash or Specialize                              | |
+| 3rd   | 1  |    +3    | 5         | Attribute Improvement, Bravery                    |      Mark      |
+| 4th   | 2  |    +4    | 6         | Further Training                                  |       Run      |
+| 5th   | 2  |    +4    | 6         | Splash or Specialize                              |                |
+| 6th   | 2  |    +5    | 7         | Attribute Improvement                             |   Stand Firm   |
+| 7th   | 2  |    +6    | 8         | Faith in Friends                                  |     Endure     |
+| 8th   | 3  |    +7    | 9         | Supreme Authority                                 |                |
+| 9th   | 3  |    +8    | 10        | Attribute Improvement                             |   Recitation   |
+| 10th  | 3  |    +8    | 10        | Splash or Specialize                              |                |
 
 
 ### Authority
@@ -69,7 +69,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 Anytime you perform a rest, you recover an additional point of authority.
 Your maximum pool of authority is increased by your [Empy] bonus.
-Anytime you are wounded while you have no remaining authority, you recover a single point of authority.
+Anytime you are wounded while you have no remaining authority, you recover a single point of authority.  
 You gain a new command, **Defuse** (Choose an exotic damage type. This command prevents magical damage of that type until the end of the next round).
 
 #### Splash
@@ -79,3 +79,4 @@ Choose two attributes. Each is increased by 1.
 You learn a language of your choice or gain training in a weapon of your choice.  
 You gain the Bravery feature. If you already had it, you gain the Faith in Friends feature.
 
+[Paragon Notes]: # " If class doesn't feel strong enough, give it an additional hitpoint by speeding up hitpoint progression a little bit. "
