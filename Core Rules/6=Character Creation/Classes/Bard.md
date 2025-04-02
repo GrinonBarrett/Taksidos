@@ -13,8 +13,8 @@ Enriched in culture and capable of fighting- you are the warsingers, skalds, and
 | 4th   | 2  |    +4    | Soften Spell, Weapon Training                     |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | Attribute Improvement, Useful Tidbit, Myth Speaking|
-| 7th   | 2  |    +6    | Jammy                                             |
-| 8th   | 3  |    +7    | Spurn Spell                                       |
+| 7th   | 2  |    +6    | Jammy, More Random Knowledge                      |
+| 8th   | 3  |    +7    | Spurn Spell, Verses of Greatness                  |
 | 9th   | 3  |    +8    | Attribute Improvement, Bardic Resistance          |
 | 10th  | 3  |    +8    | Splash or Specialize                              |
 
@@ -29,7 +29,7 @@ You know if an attack against you is of a magical nature or not.
 ### Random Piece of Knowledge
 Choose a creature type. Once this decision is made, it cannot be changed.  
 Anytime you perform a skill check to identify a creature of that type, one of its characteristics, or perform a save against one of its innate special abilities, you may replace one of your save/check dice with a d12. This decision is made before rolling. You must rest before doing so again.  
-Alternatively, anytime another creature within 2 yards attempts a Lore or Spellcraft check, you may use this feature to grant it a +1 bonus.
+Alternatively, anytime another creature within 2 yards attempts a Lore or Spellcraft check, you may use this feature to grant it a +2 bonus.
 
 ### 2) Resist Wands
 When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
@@ -52,29 +52,37 @@ You may expend the use of your Random Piece of Information to benefit a creature
 ### 6) Myth Speaking
 Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. An affected creature which has heard the performance for at least two whole rounds gains the benefit of your Odd feature.  
 Additionally, when such an affected creature would be affected by the attack of a wand or staff, you may expend the use of your Random Piece of Knowledge to apply disadvantage to that attack.  
-Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a Bigenera, Ephemera, Fey, or Monster- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
+Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
 
 ### 7) Jammy
 When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must comple a long or full rest before doing so again.
 
+### 7) More Random Knowledge
+Choose two creature types from the folowing (Bigenerae, Drakomadiae, Ephemera, Fey, Fiend, Monster). Your Random Piece of Knowledge can also apply to the appropriate checks/saves pertaining to the selected creature types. 
+
 ### 8) Spurn Spell
 Anytime a creature within 10 yards attempts a spellcheck, you may use your reaction to impose a penalty to that check equal to 1d4 + the spell's tier. You cannot do so on consecutive rounds.
 
+### 8) Verses of Greatness
+When performing your warsong, you may expend your use of Random Piece of Knowledge instead of your reaction to grant a creature its bonus.
+
 ### 9) Bardic Resistance
-Your attribute bonus to saves against magical effects is doubled. If you have opted to use your attribute score inplace of your heroism bonus and attribute bonus, you may still apply your attribute bonus instead.
+Your attribute bonus to saves against magical effects is doubled.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
 
 #### Specialize
 If you specialize as a bard, you gain the following:  
-In place of applying your heroism and attribute bonus to a save against a magical effect, you may simply use your attribute score. You must perform a rest before doing so again.  
+An additional time between rests, you may use your Random Piece of Knowledge feature.  
 Your total hitpoints is increased by 1.  
-You gain training in a weapon of your choice.
-Your Odd feature now benefits you against Drakonadiae and Fiends as well.
+You learn a random spell.  
+Your Odd feature now benefits you against Drakomadiae and Fiends as well.  
+When using your Random Piece of Knowledge feature to grant another a +2 bonus, it is now a +4.
 
 #### Splash
 If you splash bard as a member of another class, you gain the following benefits:  
-In place of applying your heroism and attribute bonus to a save against a magical effect, you may simply use your attribute score. You must perform a rest before doing so again.  
+You gain the Warsong feature.
 Your total hitpoints is increased by 1.  
 You gain training in a weapon of your choice.
+Choose one of the following skills (Carousing, Lore, Spellcraft), you gain the selected spell.
