@@ -33,7 +33,7 @@ It can get pretty warm.
 **Brazier, $60, 3 lb.**  
 Used to warm smaller spaces. It is not uncommon to include a form of incense when lighting it to improve the smell of the room as well.
 
-**Broth Biscuit, $25, .33 lb**
+**Broth Biscuit, $25, .33 lb**  
 A hard disc of bone broth rendered solid. Place it in hot water and stir to turn two servings of water into a hardy broth, providing a serving of liquid and a serving of food.
 
 **Burning Glass, $25, .75 lb.**  
