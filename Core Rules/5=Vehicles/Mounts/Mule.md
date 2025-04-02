@@ -1,7 +1,7 @@
 ### Mule
 A hybrid of horse and donkey. Because of the vast variety of hybrids, a mule can benefit from a primary or secondary breed type of a horse in addition to the features below.
 
-**Creature Type**: Horses are Beast creatures. 
+**Creature Type**: Mules are Beast creatures. 
 
 **Size**: Mules are between 4'2" to 5'8" at the withers. They can weigh between 800 and 1,000 pounds. They are medium creatures.
 
