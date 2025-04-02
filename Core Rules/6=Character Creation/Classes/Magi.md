@@ -6,8 +6,8 @@ Naturally magical individuals who have the ability to access a magical field whi
 **Table-The Magi**
 
 | Level | HP | Heroism  |Spell Points | Features                               |
-|-------|----|----------|--|---------------------------------------------------|
-| 1st   | 1  |    +1    | 2 | Spell Points, Magicraft                          |
+|-------|----|----------|----|-------------------------------------------------|
+| 1st   | 1  |    +1    | 2 | Spell Points, Magicraft, Weave's Gift            |
 | 2nd   | 1  |    +2    | 3 | Spell Weaving                                    |
 | 3rd   | 1  |    +3    | 4 | Attribute Improvement                            |
 | 4th   | 1  |    +4    | 5 | Magi's Focus, Resist Wands                       |
@@ -27,6 +27,9 @@ You are capable of tapping into the latent magics. When you perform a spell chec
 Additionally, when you perform a spell check, you may choose to roll 3d6 instead of 1d20.  
 When a spell references your [Magic] score/bonus, you may use your [Will] score/bonus.  
 Furthermore, you may add your [Will] bonus to your counterspell checks.
+
+### Weave's Gift
+Your narrator chooses a spell. You gain the spell.
 
 ### 2) Spell Weaving
 You can attempt to cast a spell by expending spell points in place of performing a typical spellcheck. You choose how many spell points you wish to invest into the spell. Then determine the spell's demand as indicated with the chart below. If your total spell point investment equals or exceeds the demand, the spell is cast. A failure provides a point of Spell Sickness. A spell cast this way is never a critical success or critical failure. The spell is always considered to have a check total equal to the minimum result required to cast the spell plus your [Will] bonus.
