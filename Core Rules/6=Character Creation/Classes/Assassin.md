@@ -9,7 +9,7 @@ Lurking in shadows or in plain sight, assassins bring their targets to a swift e
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Sneak Attack, Tactical Step                       |
 | 2nd   | 1  |    +2    | Weapon Familiarity, False Swipe                   |
-| 3rd   | 1  |    +3    | Attribute Improvement, Dire Dispose, Tumble          |
+| 3rd   | 1  |    +3    | Attribute Improvement, Dire Dispose, Tumble       |
 | 4th   | 1  |    +4    | Fell Hand, Pinpoint Strike                        |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | Attribute Improvement, Culling Blow               |
@@ -35,7 +35,7 @@ Additionally, when you perform a Feint against a creature (whether or not it was
 ### 3) Dire Dispose
 If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If it was a melee attack, you may choose one of the following:
 * You gain advantage on this attack.
-* You may close the distance into a brawl, gaining advantage on either the [Body] or [Rflx] save.
+* You may close the distance into a brawl, gaining advantage on either the [Body] or [Rflx] check.
 * You may slam the foe.
 * You may shove the foe.
 
@@ -63,7 +63,7 @@ Once per round, if you parry an attack and that attack would have been a critica
 Additionally, each level of training in your weapon grants you a +1 to your Parry attempts.
 
 ### 9) Reaper's Answer
-When you attack a creature you may use your reaction to push it towards death. If it has 0 hitpoints remaining, the DV of its incapacitation save is increased by the points of your attack's success. You must complete a long rest before doing so again. This cannot affect a creature of undeath.
+When you attack a creature you may use your reaction to push it towards death. If it has 0 hitpoints remaining, the DV of its incapacitation save is increased by the points of your attack's success. You must complete a long or full rest before doing so again. This cannot affect a creature of undeath.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
@@ -71,8 +71,9 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as an assassin, you gain the following features;  
 Your sneak attack bonus, if undetected, is increased to 1d6. 
-Once per encounter, when you affect a creature with your fell hand ability, you may choose to roll 3d6 or 1d20 instead of 1d12.  
+When you perform a sneak attack against a foe and apply your Fell Hand feature, it lasts for an additional number of rounds equal to the sneak attack bonus of that attack.  
+When you perform a sneak attack, you may choose to reduce the sneak attack bonus by any amount. If you do, for each point of bonus reduced this way, you gain a +1 bonus for the purpose of determining a critical hit and can modify the wound result by 1.  
 When you press attack against a prone or vulnerable foe, you may choose to gain a bonus to the attack equal to your heroism for the prupose of determining if it is a critical hit. You must rest before you do so again.
 
 #### Splash
-If you splash assassin as a member of another class, you gain the assassin's sneak attack ability and training with a weapon of your choice.
+If you splash assassin as a member of another class, you gain the Sneak Attack feature, the Culling Blow feature, and training with a weapon of your choice.
