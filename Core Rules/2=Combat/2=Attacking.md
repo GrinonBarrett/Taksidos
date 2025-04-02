@@ -123,7 +123,9 @@ The following can modify one's defense rating combat:
 
 #### Couching a Lance
 A spear or pike may be used as a lance if the user has a proper cradle in their armor with which to couch it.  
-This lets the weapon automatically inflict an attack against a foe when coming into contact to brawl or trample, but needs to be couched in properly fitted armor while having moved at least 15 yards since the beginning of the round and since your previous attack to do so or otherwise be used properly. Readying the lance properly requires an action.   
+This lets the weapon automatically inflict an attack against a foe when coming into contact to brawl or trample, or when the outer limits of the weapon's range is equal to the distance of the foe (your choice), but needs to be couched in properly fitted armor while having moved at least 16 yards since the beginning of the round and since your previous attack to do so or otherwise be used properly. Readying the lance properly requires an action and prevents the use of the limb bracing it into the couch for any other purpose. An action or reaction allows the lancer to drop the lance entirely from the couch.   
 A properly couched lance gains a bonus to the attack roll equal to once third of the distance in yards traveled since the beginning of the round or the previous action (other than readying the lance) whichever was most recent.
 
 When the lance would damage a foe's armor or the attack roll result is within 1 point of the exact number rquired to hit or inflict a critical hit while couched, there is a 60% chance the lance breaks.
+
+Sprinting and reactions do not count against your actions for this purpose.
