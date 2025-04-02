@@ -7,7 +7,7 @@ A rare breed capable of powering superliminal effects with the energy stored in 
 
 | Level | HP | Heroism  | Features                               |
 |-------|----|----------|--------------------------------------------------|
-| 1st   | 1  |    +1    | Cantripancy, Sorcery                             |
+| 1st   | 1  |    +1    | Cantripancy, Sorcery, Spark of Sorcery           |
 | 2nd   | 1  |    +2    | Intensify Spell                                  |
 | 3rd   | 1  |    +3    | Attribute Improvement                            |
 | 4th   | 2  |    +4    | Sorcerous Guard, Painful Boon                    |
@@ -26,6 +26,9 @@ When you cast a tier 1 spell, you may take on any number of levels of exhaustion
 You are capable of tapping into the latent magics. When you perform a spell check, a skill check involving the nature of magic, or a save against a magical effect, you gain a bonus equal to your [Fort] bonus.  
 Additionally, when you perform a spell check, you may choose to roll 2d12 instead of 1d20, but cannot apply your [Fort] bonus if you do so.  
 Furthermore, you may apply your [Fort] bonus to your counterspell checks.
+
+### Spark of Sorcery
+You learn a spell of your choice with a minimum tier of 1.
 
 ### 2) Intensify Spell
 When you perform a spellcheck, you may take on a level of exhasution to increase the tier of the spell being cast by 1. This does not affect the spellcheck result or points of success. It also does not affect whether or not the spell is a failure, critical failure, success, or a critical success. You cannot cause a spell's tier to exceed your heroism this way. You cannot intensify a spell affected by Cantripancy this way.
