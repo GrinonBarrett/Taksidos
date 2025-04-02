@@ -36,7 +36,7 @@ The number of items you may learn from individual learning is doubled.
 Once per round, you may use your action to ready yourself, allowing you to perform an additional reaction during the round.
 
 ### 3) Primary Edge
-You are able to acquire a paticular set of abilities not available to the common folk. Choose an edge. You gain the selected edge.
+You are able to acquire a paticular set of abilities not available to the common folk. Choose an Edge (see below). You gain the selected edge.
 
 ### 4) Further Training
 You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may choose to gain a skill of your choice instead of getting any training in weapons or languages.
@@ -63,7 +63,9 @@ You gain the Hecking Good feature.
 You have a single point of luck which may be used as the Luck feature. You must perform a rest to regain it.  
 You gain an Edge of your choice.
 
-#### Edges
+-----
+
+### Edges
 
 • **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per [Body] save, you may spend a luck point to grant an additional +2 bonus.
 
@@ -83,7 +85,7 @@ You gain an Edge of your choice.
 
 • **Aggressive Way**. If you Press Attack to the first attack you make in the round, it does not count against your reaction for the round.
 
-• **Bob and Weave**. When an attack against you fails, you may use your reaction to spend any number of luck points. You may move a number of feet equal to the luck spent this way +1. This movement does not have to cause brawling/trampling.
+• **Bob and Weave**. When an attack against you fails, you may use your reaction to spend any number of luck points. You may move a number of feet equal to the luck spent this way +1. This movement does not have to cause brawling/trampling. The source of that attack cannot perform an Attack of Opportunity against you as a result of this movement.
 
 • **Fortune**. Your maximum luck pool increases by 2.
 
@@ -120,4 +122,6 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 
 • **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
+
+• **Wiz**. The time required to learn a new spell for you is halved. this is cumulative with other features.
 
