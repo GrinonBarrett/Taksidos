@@ -15,7 +15,7 @@ A rare breed capable of powering superliminal effects with the energy stored in 
 | 6th   | 2  |    +5    | Attribute Improvement                            |
 | 7th   | 3  |    +6    | Glass Shield                                     |
 | 8th   | 3  |    +7    | Improved Painful Boon, Sorcerai                  |
-| 9th   | 3  |    +8    | Attribute Improvement                            |
+| 9th   | 3  |    +8    | Attribute Improvement, Sorcerous Wave            |
 | 10th  | 4  |    +8    | Splash or Specialize                             |
 
 
@@ -48,6 +48,9 @@ Your Painful Boon now reduces your Spell-Sickness by 2 each time you are wounded
 ### 8) Sorcerai  
 The bonus to spell checks you gain from staves for spells you know is increased by 1.
 You gain a bonus to your saves against magical effects equal to your [Fort] bonus.  
+
+### 9) Sorcerous Wave
+Choose an exotic damage type. Once this decision is made, it cannot be changed. You may use your action to produce a ray attack against a foe within a number of yards equal to your level + [Fort] score. This incurs a level of fatigue aginst you, but inflicts an attack against the foe of the chosen type with a bonus equal to your [Fort] bonus for the purpose of determining if it is a critical hit. If the attack is a critical hit, you may knock that foe back a number of feet equal to the points of success or knock it prone.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
