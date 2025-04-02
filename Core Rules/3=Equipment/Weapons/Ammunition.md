@@ -16,6 +16,9 @@ A thin wrapper of paper or cloth with enough powder to propel the bullet when fi
 **Musket Bullet** (per 4 shots), $50, .2 lb.  
 Larger than an arquebus bullet, they are not compatible with each other.
 
+**Sling Bullet** (per 20), $9, .7 lb.  
+Ovular and well made. Though the sling is capable of using most stones as ammunition, these bullets will increase the range of an attack by 10% and grant a +1 bonus for the purpose of determining a critical hit.
+
 **Tronutonante Bullet** (per 10 shots), $64, .3 lb.  
 Can be fired through an arquebus or musket, but ranges are halved and a -4 penalty is applied.
 
