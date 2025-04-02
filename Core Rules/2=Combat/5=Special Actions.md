@@ -89,7 +89,7 @@ If the remaining casting time of your spell is only 1 action, you may complete t
 
 #### Side-Step
 Action or Reaction  
-You may move up to 1 yard using one of your modes of movement, so long as you can move up to that distance using it.
+You may move up to 1 yard using one of your modes of movement, so long as you can move up to that distance using it. This can be in any direction traversable by that mode of movement.
 
 #### Sprint
 Action  
