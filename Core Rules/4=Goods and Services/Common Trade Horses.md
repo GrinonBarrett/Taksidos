@@ -386,11 +386,11 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 -----
 
 ### Horse, Draught
-Bred as a reliable workhorse, a drughthorse can seem like a behemoth compared to other breeds.
+Bred as a reliable workhorse, a draughthorse can seem like a behemoth compared to other breeds.
 
 **Creature Type**: Horses are Beast creatures. 
 
-**Size**: Rouncies are between 4'9" and 5'1" at the withers. They usually weigh 1,300 pounds. They are medium creatures.
+**Size**: Draughthorses are between 4'9" and 5'1" at the withers. They usually weigh 1,300 pounds. They are medium creatures.
 
 **Hitpoints**: A horse has 1 hitpoint.
 
