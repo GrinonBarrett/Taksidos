@@ -48,7 +48,7 @@ Regardless, they are about 218 pounds.
 | **Club**                   | 18   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 15    |
 | **Longsword**              | 14    | **Greatsword** | 13     | **Arrow, Broadhead**       | 15    |
 | **Mace**                   | 14    | **Maul** | 13     | **Bolt** | 15    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 15     |  |     |
+| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 15     |
 | **Hand Axe**               | 14     | **Madu** | 15     | **Chakram** | 15    |
 | **Katar**                  | 14     | **Javelin** | 14    | **Arquebus** | 13    |
 | **Dagger**                 | 15     | **Throwing Blade** | 19  | **Musket** | 12    |
