@@ -1496,7 +1496,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (3
+### V (4
 
 #### Venting Burst
 
@@ -1527,6 +1527,20 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards.
 
 **Critical Failure**: You accidentally electrocute yourself just a little bit, inflicting an electrical attack against yourself.
+
+#### Volley
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 30 yards
+
+**Effect**: You produce a number of magical projectiles equal to the spell's tier to rain down on a 1 yard by 1 yard. Divide the projectiles by the number of creatures in the area, rounding down. This is the number of attacks made against each creature within the space. The projectiles each inflict a club or sling attack (your choice). If the spell check was a critical success, you may change the damage type to be force or piercing.
+
+**At Higher Tiers**: As noted above, each tier increases the number of attacks by 1. Additionally, you may increases one dimension or both of the affected area by up to 2 yards for each tier beyond minimum.
+
+**Critical Failure**: You conjure a volley but have given it the worng direction. Instead, the area is centered on you.
 
 #### Voice of Familiarity
 
