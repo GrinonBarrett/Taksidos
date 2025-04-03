@@ -3,10 +3,13 @@ Here are listed various deities of each pantheon.
 ###### Please forgive as this one will take time to move from one section of notes.
 
 ## Meolasine
-Meolasine deities are shared with outside cultures and are not exactly a trademark of the lmeolasine culture. Likewise, deities of other cultures may also see some tributes from the meolas peoples. This pantheon represents the core of deities which the state supports publicly.
+Meolasine deities are shared with outside cultures and are not exactly a trademark of the meolasine culture. Likewise, deities of other cultures may also see some tributes from the meolas peoples. This pantheon represents the core of deities which the state supports publicly.
 
 #### Othmazdo
-A god of life, death, and vengeance.
+A god of life, death, and vengeance. He is one of the the quadrons of the afterlife. He is a common patron for members of the military class.
+
+#### Tamas
+A god of death, law, and community. He is one of the quadrons of the afterlife. His role is to ensure that righteous rulers (and even leaders of a lesser position) have a comfortable afterlife and that inscrupulous rulers suffer until dark of a night devoid of drawn breath. He is a common patron for aristocrats and clergy.
 
 -----
 
