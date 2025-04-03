@@ -44,7 +44,7 @@ A being that exists long beyond whatever life they have earned. These creatures 
 | **Cold**                   | 22     | **Force**          | 15     | **Toxic**                  | 26     |
 | **Crushing**               | 15     | **Ki**             | 16     | **Radiant**                | 15     |
 | **Cutting**                | 19     | **Necrotic**       | 22     | **Sonic**                  | 17    |
-| **Electrical**             | 16     | **Piercing**       | 20     | **Biting**                 | 186    |
+| **Electrical**             | 16     | **Piercing**       | 20     | **Biting**                 | 18    |
 |                            |        |                    |        |                            |            |
 | **Unlisted Damage Type**   | 18     |                    |        | **Undamaging**             | 17 |
 
