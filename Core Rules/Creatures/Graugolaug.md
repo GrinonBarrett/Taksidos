@@ -1,5 +1,5 @@
 ### Graugolaug
-Sometimes, an adventurer needs a horse. Overtime, across many adventures, they form a deep bond together. Sometimes still, such a pair finds themselves in a fit of desperation. If an adventurer opts to kill and eat their companion, they are cursed to hunger for the flesh of other such beasts. They transform into a hideous monster, their limbs becoming clawed legs as their body contorts. Their head elongates, with a jaw like a crocodile. It has ears like a bat and a slender form.
+Sometimes, an adventurer needs a horse. Overtime, across many adventures, they form a deep bond together. Sometimes still, such a pair finds themselves in a fit of desperation. If an adventurer opts to kill and eat their companion, they are cursed to hunger for the flesh of other such beasts. They transform into a hideous monster, their limbs becoming clawed legs as their body contorts. Their head elongates, with a jaw like a crocodile. It has ears like a bat and a slender lupine form. They dislike mucous and creatures which produce it.
 
 **Creature Type**: Graugolaugs are Monsters.
 
