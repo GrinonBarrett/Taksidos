@@ -337,7 +337,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **At Higher Tiers**: For each tier beyond minimum, you may have the spell reach out 1 yard to affect a creature or reduce the casting time by 1 action.
 
-**Critical Failure**: You accidentally cuase yourself to be afflicted bu the same effect for a nummber of rounds equal to the spell's tier.
+**Critical Failure**: You accidentally cuase yourself to be afflicted by the same effect for a number of rounds equal to the spell's tier.
 
 #### Disimpress
 
@@ -1173,7 +1173,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Range**: 4 yards
 
-**Effect**: You reach out into the psychic plane, getting a sense of every mind within range. You know the exact location of every non-mindless creature within range (even on the psychic and ethereal planes). You also know how many of those creatures have an [Inte] score of 10 (but not the exact score). You know all of this until the end of the next round.
+**Effect**: You reach out into the psychic plane, getting a sense of every mind within range. You know the exact location of every non-mindless creature within range (even on the psychic and ethereal planes). You also know how many (and which) of those creatures have an [Inte] score of at least 10 (but not the exact score). You know all of this until the end of the next round.
 
 **At Higher Tiers**: For each tier beyond minimum, the time you possess this knowledge is increased by an additional round and the range of the spell is increased by 1.5 yards.
 
