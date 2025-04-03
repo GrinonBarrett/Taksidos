@@ -35,7 +35,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 | **Club**                   | 15   | **Pole Axe** | 14     | **Arrow, Bodkin Point**    | 15    |
 | **Longsword**              | 15    | **Greatsword** | 14  | **Arrow, Broadhead**       | 14    |
 | **Mace**                   | 13    | **Maul** | 11        | **Bolt** | 13    |
-| **Spear**                  | 15     | **Pike** | 14       | **Brusgiata** | 13     |  |     |
+| **Spear**                  | 15     | **Pike** | 14       | **Brusgiata** | 13     |
 | **Hand Axe**               | 15     | **Madu**   | 15      | **Chakram** | 13    |
 | **Katar**                  | 16     | **Javelin**         | 16    | **Arquebus** | 12    |
 | **Dagger**                 | 16     | **Throwing Blade**  | 16    | **Musket** | 11    |
