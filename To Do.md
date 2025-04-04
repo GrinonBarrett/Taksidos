@@ -3,9 +3,6 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
-* Make a Thought Clutch spell which can bring the final thoughts from an area.
-* Create a spell which allows a reflective surface see magical effects.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
