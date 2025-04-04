@@ -36,45 +36,50 @@ Longsword
 A longer sword known for its versatility.  
 You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit.
 
-**Shortsword**, $120, 2.5 lb.  
+**Dandpatta**, $190, 3.5 lb  
 Longsword  
-A shorter sword used for tight quarters fighting.  
-When attacking a foe you are brawling with, you may treat it as a dagger.
+Once used by the Kagaldine cavalry as a cavalry sword as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
+Range is increased to unarmed attack range + 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
 
 **Dire Flail**, $240, 4.5 lb  
 Flail  
 More of a status symbol used by commanders in the Kagaladine Military, the dire flail has multiple head on it.  
 The bonus to Beats and Parries (including those made against the the weapon) are increased to +3. Each attack made by the dire flail is treated as two club attacks. Anything which would affect one attack, effects the other.
 
-**Whip Chain**, $120, 1.3 lb  
+**Greatflail**, $250, 4.5 lb.  
 Flail  
-An exotic weapon used by a handful of specialized practitioners.  
-Bonuses to beats and parries made by or against the weapon are reduced to +1. For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a thrown weapon. Can be treated as 2 yards of chain with a strength of 200 for other purposes.
-
-**Patta**, $150, 2.75 lb  
-Katar  
-Used by the Kagaladine military as an anti-cavalry weapon, its use is rather uncommon.  
-Range is increased to unarmed attack range + 2 feet. Inflicts attacks as a longsword.
-
-**Dandpatta**, $190, 3.5 lb  
-Longsword  
-Once used by the Kagaldine cavalry as a cavalry sword as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
-Range is increased to unarmed attack range + 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
+A two handed flail. Very uncommon as the ergonomics don't scale well.  
+Requires two hands. Range is increased to 1.5 yards. If properly wound, gains a +1 bonus for the purpose of determining critical hits. The bonus to Beats and Parries (including those made against the the weapon) are increased to +3.
 
 **Khopesh**, $135, 3.75 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is made of altyprium, and suffers the associated brittleness.  
 You may wield this sword with two hands. When used while moving at more then double the foe's speed, you gain a +3 bonus for the purpose of inflicting a critical hit.
 
-**Sarissa**, $240, 5 lb.  
-Pike  
-An extremely long reaching pike which was used to cause as much damage as possible before the formation would come in contact with each other.  
-Range increased to 8 yards. Because this is a pike with such great range, you suffer a -1 to all attacks made by the weapon and an additional -1 to attacks made within half range unless you have 13 or greater [Rflx]
+**Patta**, $150, 2.75 lb  
+Katar  
+Used by the Kagaladine military as an anti-cavalry weapon, its use is rather uncommon.  
+Range is increased to unarmed attack range + 2 feet. Inflicts attacks as a longsword.
 
 **Pikaxe**, $180, 4 lb.  
 Pole Axe  
 A common weapon used by the shock troops of the Meolasine empire.  
 Range is extended to 3 yards. Attacks made against foes within 1 yard have disadvantage.
+
+**Sarissa**, $240, 5 lb.  
+Pike  
+An extremely long reaching pike which was used to cause as much damage as possible before the formation would come in contact with each other.  
+Range increased to 8 yards. Because this is a pike with such great range, you suffer a -1 to all attacks made by the weapon and an additional -1 to attacks made within half range unless you have 13 or greater [Rflx].
+
+**Shortsword**, $120, 2.5 lb.  
+Longsword  
+A shorter sword used for tight quarters fighting.  
+When attacking a foe you are brawling with, you may treat it as a dagger.
+
+**Whip Chain**, $120, 1.3 lb  
+Flail  
+An exotic weapon used by a handful of specialized practitioners.  
+Bonuses to beats and parries made by or against the weapon are reduced to +1. For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a thrown weapon. Can be treated as 2 yards of chain with a strength of 200 for other purposes.
 
 **Xyston**, $180, 4 lb.  
 Spear  
