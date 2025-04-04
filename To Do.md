@@ -3,7 +3,6 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Create the Dullahan, which can come in a few flavors, and the Nubh- it's dark mare mount.
 * Make Fallen Words spell, which can recall the final statement made by the dead within a period of time.
 * Make a Thought Clutch spell which can bring the final thoughts from an area.
 * Create a spell which allows a reflective surface see magical effects.
