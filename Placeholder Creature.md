@@ -23,7 +23,7 @@ Personal messengers of Tamas. They are also known as the headless harbingers. Th
 **Climb speed**: You may swim up to 3.5 yards per move, presuming it is reasonable terrain to do so.
 
 **Weapon Attacks**: The dyllakhar is capable of using weapons. It even has Expertise and Warrior mastery with flails and clubs. It also has expertise with a weapon and specialization with another. It prefers one handed weapons so it can fight while riding, but can wield two weapons just fine. It receives no penalties for fighting with multiple weapons at the same time.  
-The dylakhar will typically be armed with one of the following weapons: 
+The dylakhar will typically be armed with one of the following weapons (enchanted chain whip, enchanted handaxe, enchanted shortsword, enchanted warpick) and an enchanted club. There is an 80% chance that it will also have a Shakasawt in place of the enchanted club (or the enchanted chain whip if it would have had that).
 
 **Unarmed Attacks**;
 
@@ -71,4 +71,6 @@ The dylakhar will typically be armed with one of the following weapons:
 
 **Limited Sensing**: The dyllakhar is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It also perceives everything its head perceives.
 
-**Loose Head**: The Dyllakhar's head is a seperate object, devoid of any color. It is foul and fetid smelling. It possesses the 5 basic senses. Additionally, the head can be used as a weapon by the dyllakhar to inflict melee biting attacks against a foe within 1 yard.
+**Terrifying Presence**: When initiative is rolled, anything else rolling for initiative must succeed a [Will] save with a DV equal to the Dyllakhar's [Will] score + [Empy] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of phases equal to the points of failure, causing them to be dazed and vulnerable during this time. A creature which can directly percieve the Dyllakhar, has no remaining hitpoints, and a [Will] score below the Dyllakhar is incapacitated by the fear (but stable).  
+
+**Loose Head**: The Dyllakhar's head is a seperate object, devoid of any color. It is foul and fetid smelling. It possesses the 5 basic senses and can perceive the effects of magic with them. Additionally, the head can be used as a weapon by the dyllakhar to inflict melee biting attacks against a foe within 1 yard. 
