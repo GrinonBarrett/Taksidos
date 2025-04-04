@@ -4,7 +4,6 @@
 | Weapon                 | Cost | Weight      | Range | Special Features| Notes |
 |------------------------|------|-----------|----------|---------------|------------|
 |                        |      |           |          |            |  |
-| Unarmed                |   -  | -   | 1 foot  | Some species and creatures may use different statistics for unarmed attacks. | This can include punching, kicking, etc. |
 | Longsword              | $160 | 3.5 lb | 1 yard | - | The proper term is "Arming Sword", but most players will recognise longsword more easily. Represents most swords which can be used with one or two hands. |
 | Mace                   | $180 | 4 lb | 1 yard   | - | A weighted head, occasionally armed with flanges, attached to a secure handle. A choice weapon for dispatching brittle monsters and any foolish enough not to provide plenty of padding to their armor. |
 | Spear                  | $140 | 3.25 lb | 3 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (1.5 yards) have disadvantage. | The common spear to be found on the battlefield. |
