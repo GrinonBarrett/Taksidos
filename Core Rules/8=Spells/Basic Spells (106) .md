@@ -1496,7 +1496,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (4
+### V (5
 
 #### Venting Burst
 
@@ -1513,6 +1513,20 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
 
 **Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
+
+#### Vlepancy
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 actions
+
+**Range**: 5 + [Magic] bonus minutes
+
+**Effect**: You touch a reflective surface, granting it the ability to display magical effects which appear as reflections in the surface. If that reflective surface functions as an eye or other sensory item, and the spell check is a critical success, the eye/item can directly see magical effects as well.
+
+**At Higher Tiers**: Each tier above minimum, the duration is increased. The duration will be multiplied by the spell tier squared (so a tier 2 spell lasts 4 times as long, a 3rd tier spell lasts 9 times as long, etc).
+
+**Critical Failure**: You swear you see something, but it vanishes before you can identify it. After a number of rounds equal to the spell's tier, you gain 1d4 spell sickness.
 
 #### Volt Switch
 
