@@ -47,15 +47,15 @@ The phantasmal steed of the Dyllakhar. The dufaras is a powerful steed that can 
 | **Spear**                  | 10  | **Pike**            | 8   | **Brusgiata** | 10  |
 | **Hand Axe**               | 10  | **Madu**            | 11  | **Chakram** | 11 |
 | **Katar**                  | 10  | **Javelin**         | 10  | **Arquebus** | 9  |
-| **Dagger**                 | 10  | **Throwing Blade**  | 7   | **Musket** | 8 |
+| **Dagger**                 | 10  | **Throwing Blade**  | 12 | **Musket** | 8 |
 | **Morningstar**            | 9   | **Sling**           | 12  | **Tronutonante** | 10  |
 | **Warpick**                | 9   |                     |       |**Bare** | 13  |
 |                        |          |          |            |         |            |
-| **Acid**                   | 9   | **Fire**            | 10   | **Psychic** | 10  |
-| **Cold**                   | 10  | **Force**           | 9   | **Toxic**  | 11   |
-| **Crushing**               | 9   | **Ki**              | 10  | **Radiant** | 10  |
-| **Cutting**                | 11  | **Necrotic**        | 9  | **Sonic** | 10 |
-| **Electrical**             | 10  | **Piercing**        | 9   | **Biting** | 8  |
+| **Acid**                   | 12  | **Fire**            | 11  | **Psychic** | 11  |
+| **Cold**                   | 14  | **Force**           | 10  | **Toxic**   | 13  |
+| **Crushing**               | 10  | **Ki**              | 10  | **Radiant** | 13  |
+| **Cutting**                | 10  | **Necrotic**        | 14  | **Sonic**   | 10  |
+| **Electrical**             | 12  | **Piercing**        | 10  | **Biting**  | 10  |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 10 |    |     | **Undamaging** | 14 |
 
