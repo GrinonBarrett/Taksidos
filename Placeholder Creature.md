@@ -3,7 +3,7 @@ Personal messengers of Tamas. They are also known as the headless harbingers. Th
 
 **Creature Type**: Dyllakhain are undead.
 
-**Size**: They stand at 6 feet. They weigh between 78 pounds. They are medium creatures.
+**Size**: They stand at 6 feet. They weigh 78 pounds. They are medium creatures.
 
 **Undeath**: A dyllakhar has 675 points of undeath.
 
