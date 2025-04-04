@@ -9,12 +9,12 @@ Possessing the front of a horse and the hind of a rooster, these rare creatures 
 
 **Attributes**:  
 [Body] 16 (+5)  
-[Fort] 9 (+3)  
+[Fort]  9 (+3)  
 [Rflx] 13 (+4)  
 [Will] 11 (+3)  
-[Inte] 7 (+2)  
+[Inte]  7 (+2)  
 [Prcp] 14 (+4)  
-[Empy] 7 (+2)  
+[Empy]  7 (+2)  
 
 **Languages**: Hippalectryons don't speak.
 
@@ -87,6 +87,6 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 
 -----
 
-**Limited Flight Capacity**: A hippalectryon can only fly for a number of minutes equal to 5 + [Fort] bonus between rests. Flying with a medium load counts as double the time. Flying with a heavy load counts as quadruple the load.
+**Limited Flight Capacity**: A hippalectryon can only fly for a number of minutes equal to 5 + [Fort] bonus between rests. Flying with a medium load counts as double the time. Flying with a heavy load counts as quadruple time.
 
 **Flyby Trample**: If the hippalectryon tramples a foe while flying, they may choose to inflict a cutting attack in place of a crushing attack.
