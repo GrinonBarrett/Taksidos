@@ -74,3 +74,5 @@ The dyllakhar will typically be armed with one of the following weapons (enchant
 **Terrifying Presence**: When initiative is rolled, anything else rolling for initiative must succeed a [Will] save with a DV equal to the Dyllakhar's [Will] score + [Empy] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of phases equal to the points of failure, causing them to be dazed and vulnerable during this time. A creature which can directly percieve the Dyllakhar, has no remaining hitpoints, and a [Will] score below the Dyllakhar is incapacitated by the fear (but stable).  
 
 **Loose Head**: The Dyllakhar's head is a seperate object, devoid of any color. It is foul and fetid smelling. It possesses the 5 basic senses and can perceive the effects of magic with them. Additionally, the head can be used as a weapon by the dyllakhar to inflict a melee biting attacks against a foe within 1 yard.  
+
+**Repelling a Dyllakhar**: A dyllakhar cannot enter saltwater or running water.
