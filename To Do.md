@@ -3,6 +3,8 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
+* Create a fire combat spell.
+* Also create a Dancing Flame spell, which produces a wild shape of fire tou can concentrate on to teleport as a reaction to another space. Anything that gets too close to the fire is attacked by it, even allies.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
