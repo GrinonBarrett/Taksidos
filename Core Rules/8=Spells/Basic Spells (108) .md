@@ -156,7 +156,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to ground yourself properly. The spell functions as normal, but attacks you as the original target.
 
-### B (3
+### B (4
 
 #### Behest
 
@@ -207,6 +207,20 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Breaker Strike
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 30 yards
+
+**Effect**: You form a glowing projectile of energy to hurl at a foe within range. It can take whatever form you wish. It inflicts a ki attack. If the spellcheck was a critical success, the attack gains a bonus equal to your [Magic] bonus for the purpose of determining if it is a critical hit.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either grant the attack a +2 bonus for the purpose of inflicting a critical hit or increase the range by 5 yards.
+
+**Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
 
 ### C (3
 
