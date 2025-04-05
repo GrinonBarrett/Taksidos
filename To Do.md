@@ -8,7 +8,6 @@ For this update:
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea rhat would be akin to a chain lightning.
 * Create an acid equivalent of fireball?
 * Create a sonic combat spell.
-* create a ki combat spell.
 * Create a Sparks spell which can ignite kindling just fine or influct an electrical attack. A critical hit is treated like that of a fire attack.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
