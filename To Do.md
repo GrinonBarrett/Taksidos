@@ -9,6 +9,7 @@ For this update:
 * Create an acid equivalent of fireball?
 * Create a sonic combat spell.
 * Create a Sparks spell which can ignite kindling just fine or influct an electrical attack. A critical hit is treated like that of a fire attack.
+* * Create a spell where the caster conjures shooting stars to be directed each round. If attack roll is even, its radiant. If odd, its ki.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
@@ -68,9 +69,8 @@ Jander (makes sick and visibly unappealing)
 Jolling (slows a creature's run speed by hindering limbs)
 * Add a thought capture spell?
 * Create a spell that allows warding of a specified creature type from an area.
-* A spell that sends a telpathic message to a recipient, but can allow a conversation at higher levels.
 * Create a spell to help cure a creature of a diease.
-* Create a spell where the caster conjures shooting stars to be directed each round.
+
 
 Curation  
 A creature you touch performs a [Fort] save for each disease which afflicts them, gaining a bonus for the spell's tier. A critical success will cure the creature of the disease regardless.
