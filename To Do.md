@@ -6,6 +6,9 @@ For this update:
 * Create a fire combat spell.
 * Also create a Dancing Flame spell, which produces a wild shape of fire tou can concentrate on to teleport as a reaction to another space. Anything that gets too close to the fire is attacked by it, even allies.
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea rhat would be akin to a chain lightning.
+* Create an acid equivalent of fireball?
+* Create a sonic combat spell.
+* create a ki combat spell.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
