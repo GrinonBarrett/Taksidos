@@ -6,11 +6,10 @@
 
 **Range**: 100 yards
 
-**Effect**: 
+**Effect**: You designate a 17 yard by 17 yard space within range. After 1d10 rounds, this spell calls down a number of magical projectiles, which fall like meteors, equal to the d10 result + the spell's tier + [Magic] bonus. Divide the projectiles by the number of creatures in the area, rounding down. This is the number of attacks made against each creature within the space. An even attack roll is a radiant attack and an odd attack roll is a ki attack. If there was a fraction, the caster may use their reaction to direct an additional such attack against a creature they can perceive within the area.
 
+If the spell check was a critical success, you may replace the d10 with any of the following dice (d4, d6, d8, d12). The number of attacks inflicted is still reflected by this change.
 
-You produce a number of magical projectiles equal to the spell's tier to rain down on a 1 yard by 1 yard. Divide the projectiles by the number of creatures in the area, rounding down. This is the number of attacks made against each creature within the space. The projectiles each inflict a club or sling attack (your choice). If the spell check was a critical success, you may change the damage type to be force or piercing.
+**At Higher Tiers**: 
 
-**At Higher Tiers**: As noted above, each tier increases the number of attacks by 1. Additionally, you may increases one dimension or both of the affected area by up to 2 yards for each tier beyond minimum.
-
-**Critical Failure**: You conjure a volley but have given it the worng direction. Instead, the area is centered on you.
+**Critical Failure**: You conjure a volley but have given it the worng direction. You count as a number of creatures equal to the spell's tier for the purpose of determining how many attacks are directed at you. For example, a 5th tier spell will attack you as 5 individual creatures- potentially causing a great number of attacks against you.
