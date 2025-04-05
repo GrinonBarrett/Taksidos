@@ -3,13 +3,11 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Create a fire combat spell.Perhaps a wildfire spell that spreads from a set point that can implode at the caster's command.
+* Create a fire combat spell. Perhaps a wildfire spell that spreads from a set point that can implode at the caster's command.
 * Also create a Dancing Flame spell, which produces a wild shape of fire tou can concentrate on to teleport as a reaction to another space. Anything that gets too close to the fire is attacked by it, even allies.
-* Create an acid combat spell. Perhaps that bouncing ooze spell idea rhat would be akin to a chain lightning.
+* Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create an acid equivalent of fireball?
 * Create a sonic combat spell.
-* Create a Sparks spell which can ignite kindling just fine or influct an electrical attack. A critical hit is treated like that of a fire attack.
-* * Create a spell where the caster conjures shooting stars to be directed each round. If attack roll is even, its radiant. If odd, its ki.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
 Next update:  
