@@ -10,7 +10,7 @@ Basic spells are those that a newer player could be exposed to knowing. Anytime 
 
 **Range**: 20 yards
 
-**Effect**: You cause a number of trees or rocks within range to fall in such a way as to provide barriers that feature protrusions up to 2 feet in front of you, with the barrier itself being dependant upon the materials. Any large or larger creature, or medium or larger mount, moving into contact with the barrier is subject to a piercing attack and must succeed either a [Body] or [Rflx] save (their choice) or be stopped. If a [Body] save is failed this way, treat the creature as impacting against the barrier, receiving knockback damage as though the remainder of the distance it was traveling was the knockback distance. If a [Rflx] save is failed this way, the creature is knocked prone.  
+**Effect**: You cause a number of trees or rocks within range to fall in such a way as to provide barriers that feature protrusions up to 2 feet in front of you (or enough to block about 1/3 of your form), with the barrier itself being dependant upon the materials. Any large or larger creature, or medium or larger mount, moving into contact with the barrier is subject to a piercing attack and must succeed either a [Body] or [Rflx] save (their choice) or be stopped. If a [Body] save is failed this way, treat the creature as impacting against the barrier, receiving knockback damage as though the remainder of the distance it was traveling was the knockback distance. If a [Rflx] save is failed this way, the creature is knocked prone.  
 This barrier lasts for a number of rounds equal to the spell check's points of success multiplied by the spell's tier.
 
 If the caster is larger or smaller than Medium, adjust the size of the barrier accordingly.
