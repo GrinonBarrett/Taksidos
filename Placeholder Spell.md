@@ -2,7 +2,7 @@
 
 **Minimum Tier**: 3
 
-**Casting Time**: 3 rounds
+**Casting Time**: 4 actions
 
 **Duration**: Minutes equal to the spell's tier
 
