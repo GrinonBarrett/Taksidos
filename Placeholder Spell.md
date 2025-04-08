@@ -28,4 +28,4 @@
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, grant a +1 for the purpose of determining a critical hit with all attacks from the spell (which is increased by an bonuses for combining missiles), or 8ncrease the range by 5 yards.
 
-**Critical Failure**: 
+**Critical Failure**: You hurl the bolts of light, and as they scatter, the redirect themselves against you. Any combined missiles remain so. Each missile is staggered, with only one attacking each phase until each has had its turn.
