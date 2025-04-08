@@ -3,6 +3,7 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
+* Create the Kunekunar, based on the kunekune, which is the result of a Ngurm never finidng a purpose.
 * Create a fire combat spell. Perhaps a wildfire spell that spreads from a set point that can implode at the caster's command.
 * Also create a Dancing Flame spell, which produces a wild shape of fire tou can concentrate on to teleport as a reaction to another space. Anything that gets too close to the fire is attacked by it, even allies.
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
