@@ -52,11 +52,11 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 
 
 
-**Table**: *Wound Allocation* {need to fix} 
+**Table**: *Wound Allocation*  
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Glancing Blow     | **Biased Wound**.    |
+|   2    | Glancing Blow     | **Biased Wound**. No effect.   |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
@@ -91,13 +91,13 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 
 **Scrambled Wave**: As an action, it produces a variety of frequencies which are harmful to the function of many processes. Any creature within 25 yards which can hear it is subject to a sonic attack. It must rest before doing so again.
 
-**Basic Eye Beams**: As an action or reaction, one of its eyes may fire a ray like that of a wand at a foe it perceives. This is a ki attack. Each eye may only perform one such attack each round, and only one at a time.
+**Basic Eye Beams**: As an action or reaction, one of its eyes may fire a ray like that of a wand at a foe it perceives. This is a ki attack. Each eye may only perform one such attack each round, and only one at a time. These beams suffer no penalty to attacks for brawling.
 
 **Alternative Eye Beams**: Once per round, *the zezykhar may alter the damage type of one of its eye beams to be necrotic, psychic, sonic, or radiant. It cannot change a ray's attack to the same type as it did during the previous round if at all*.
 
 **Triple Beam**: As an action, the zezykhar fires a basic eyebeam from each of its eyes at the same time. It must rest before doing so again.
 
-**Spinning Trick**: When it would move, *it may use its reaction to instead fire beams from each of its eyes and spin rapidly- inflict an attack in all 360 degrees. This is a radiant attack. It must rest before doing so again. If it is missing an eye when it does so, it becomes dazed until the end of the next round. If it was mising two eyes, it is also vulnerable during this time. The attacks get a -1 for each missing eye*.
+**Spinning Trick**: When it would move, if it is not restrained or immobile, *it may use its reaction to instead fire beams from each of its eyes and spin rapidly- inflict an attack in all 360 degrees. This is a radiant attack. It must rest before doing so again. If it is missing an eye when it does so, it becomes dazed until the end of the next round. If it was mising two eyes, it is also vulnerable during this time. The attacks get a -1 for each missing eye*.
 
 **Triplipace**: *Its hover speed is tripled*.
 
