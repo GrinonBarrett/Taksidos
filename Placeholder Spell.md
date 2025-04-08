@@ -1,20 +1,3 @@
-#### Oozing Sphere
-
-**Minimum Tier**: 3
-
-**Casting Time**: 4 actions
-
-**Duration**: Minutes equal to the spell's tier
-
-**Effect**: You create a sphere whose appearence is at your discretion on a surface you can touch. The size of this sphere is at least 1 foot in diameter, but can be up to a number of feet equal to the spell's tier +[Magic] bonus. This sphere moves in a direction of your choice at a speed of at least 2 yards per move, but no greater then a number of yards equal to the tier of the spell. If the surface bends more than 45 degrees, the sphere other "drops" from the surface (having lost its grip) or impacts (if it is already rolling on the ground). The sphere leaves a trail of mucous everywhere it goes. Once the sphere impacts against something, it implodes. This spews acid everywhere for a number of yards equal to spell level + 1d4. This acid has disadvantage on creatures with the Mucous feature. If the sphere never impacts, it never implodes and simply leaves that mucous behind.
-
-
-**At Higher Tiers**: The benefits for higher tiers is noted above.
-
-**Critical Failure**: The sphere doesn't form correctly and instantly explodes, inflicting an acid attack against you with a bonus equal to the spell tier for the purpose of determining a critical hit and leaving mucous on everything else within 1 yard.
-
------
-
 #### Missiles of Light
 
 **Minimum Tier**: 2
