@@ -1,5 +1,5 @@
 ### Zezykhar
-A floating fleshy triangle when viewed from above or below. Each corner possesses an eye with a different colored iris, each a primary color. They have two antennae above and a floding probiscis below. They are territorial. The plural is Zezykhain. Their collective noun is a woesaic.
+A floating fleshy triangle when viewed from above or below. Each corner possesses an eye with a different colored iris, each a primary color. They have two antennae above and a folding probiscis below. They are territorial. The plural is Zezykhain. Their collective noun is an abacule.
 
 **Creature Type**: Zezykhain are Eldritch.
 
@@ -22,7 +22,9 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 
 **Swim Speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough. It prefers not to touch water.
 
-**Unarmed Attacks**: The zezykhar has no natural unarmed attacks.
+**Unarmed Attacks**:
+
+ • Probiscis: The zezykhar may attack a single foe with its probiscis within 1 yard. This is a melee piercing attack.
 
 -----
 
@@ -54,49 +56,51 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's swim speed is halved until this wound is healed.      |
+|   2    | Glancing Blow     | **Biased Wound**.    |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Concussion      | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   6    | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
+|   5    | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   6    | Top Scratch       | Until this wound is healed, it cannot listen into the ethereal plane anymore. |
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects _this time_.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Appendage         | Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
+|   10   | Lost an Eye       | **Biased Wound**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
 |   11   | Glancing Blow     | No ill effect. |
-|   12   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
-|   13   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 5 times. |
+|   12   | Stunned           | It forfeits its turn on the next phase. |
+|   13   | Lost an Eye       | **Biased wound**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Glancing Blow     | **Biased wound**. No effect. |
-|   17   | Falter Vision     | The ajhas loses benefit of its Psychic Vision feature until the end of the next round. |
-|   18   | Mistsack Rupture  | If the source of the wound is within 5 yards, it is subject to an acid attack. |
+|   16   | Antennae          | **Biased wound**. Until this wound is healed, it loses the ability to use its Sweet Sound, Scrambled Wave, and Focus Antennae features. |
+|   17   | Glancing Blow     | No effect. |
+|   18   | Lost an Eye       | **Biased Attack**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
 -----
 
-**Breathless**: The Ajhas does not need to breathe.
+**Breathless**: The zezykhar does not need to breathe or eat. It does still sleep.
 
-**Enkefalophage**: An ajhas' hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The ajhas does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately  gains those points of inebriataion.
+**Odd Anatomy**: The zezykhar can move with no prefence as to orientation, effectively treating itself as having no discernable top or bottom and may hover in any direct it can see. So long as it can see a threat, it is never considered to be attacked from behind or flanked. If it cannot see a threat, it is as being attacked from behind.
 
-**Decappurtenant**: It has ten appendages which it can use as arms. It does not have mannipulators on the end, instead having sensory organs, so it cannot use items unless otherwise noted. Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage. It can rotate their vision as a result. This occurs when rotations would during the round. The ajhas can rotate their vision during the same or different phases that they rotate their body. Their appendages may each only rotate up to 90 degrees left or right per phase. Each appendage can move independantly. If the ajhas has more than 2 eyes focusing on something, it gains a +1 bonus to [Prcp] checks/saves for each additional appendage looking at the subject of the check/save. 
+**Limited Senses**: The zezykhar has no sense of smell, taste, or proper hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects). It can hear into the ethereal plane while on the material plane (and vice versa).
 
-**Psychic Vision**: Each of these eyes can see into the psychic plane, allowing them to see the presence of any non-mindless creature even through material cover. They can also see the transmission of telepathic commands and other forms of telepathic communication- though they do not understand it directly.
+**Great View**: The zezykhar's eyes each provide a full hemispherical view.
 
-**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capacity as a result (including illusory effects).
+**Sweet Sound**: As an action, the zezykhar can produce a sound that is apealing to beasts, humanoids, and sylvan creatures. Each such creature within 100 yards which can hear must succeed an [Inte] save with a DV of 13 or investigate the sound. A critcal failure will daze the creature for a number of phases equal to the points of failure. A success results in the sound being dismissed. A critical success results in the listener recognizing it as some very unnatural sound and knowing the direction it came from. It must rest before using this feature again.
 
-**Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
+**Scrambled Wave**: As an action, it produces a variety of frequencies which are harmful to the function of many processes. Any creature within 25 yards which can hear it is subject to a sonic attack. It must rest before doing so again.
 
-**Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. Additionally, all [Prcp] checks involving scent or vision through the bland colored mist have disadvantage. Light going through the mist will always seem dim. An ajhas is unaffected by this feature to any degree.
+**Basic Eye Beams**: As an action or reaction, one of its eyes may fire a ray like that of a wand at a foe it perceives. This is a ki attack. Each eye may only perform one such attack each round, and only one at a time.
 
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
+**Alternative Eye Beams**: Once per round, *the zezykhar may alter the damage type of one of its eye beams to be necrotic, psychic, sonic, or radiant. It cannot change a ray's attack to the same type as it did during the previous round if at all*.
 
-**Acid Maw**: Any critical hit inflicted by the ajhas' bite attack is also treated as an acid attack. If the ajhas is grappling a great or smaller creature, and it successfully inflicts a bite attack, it may use its reaction to also inflict an acid attack. If the acid attack is a critical hit, it may inflict another bite attack.
+**Triple Beam**: As an action, the zezykhar fires a basic eyebeam from each of its eyes at the same time. It must rest before doing so again.
 
-**Swallow Whole**: If the ajhas successfully grapples a creature of small or smaller size, it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
+**Spinning Trick**: When it would move, *it may use its reaction to instead fire beams from each of its eyes and spin rapidly- inflict an attack in all 360 degrees. This is a radiant attack. It must rest before doing so again. If it is missing an eye when it does so, it becomes dazed until the end of the next round. If it was mising two eyes, it is also vulnerable during this time. The attacks get a -1 for each missing eye*.
 
-**Stomach Acid**: Anything in the ajhas' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
+**Triplipace**: *Its hover speed is tripled*.
 
-**Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
+**Focus Antennae**: As an action, it may grant itself the ability to hear until the end of the round.
+
+**Weak**: The zezykhar's weight load limits are halved.
