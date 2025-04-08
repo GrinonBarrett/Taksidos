@@ -12,3 +12,20 @@
 **At Higher Tiers**: The benefits for higher tiers is noted above.
 
 **Critical Failure**: The sphere doesn't form correctly and instantly explodes, inflicting an acid attack against you with a bonus equal to the spell tier for the purpose of determining a critical hit and leaving mucous on everything else within 1 yard.
+
+-----
+
+#### Missiles of Light
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions + 1 action per missile
+
+**Range**: 25 yards
+
+**Effect**: You produce 2 bolts of light which each strike a different target of your choice within range, inflicting radiant attacks. If an attack would qualify to damage a foe's armor, it instead blinds them for a number of rounds equal to the tier of the spell. Multiple missile may be combined into a unified attack against a foe. If so, only a single attack roll is made but it gains a +1 bonus for each additional missile which was combined this way.
+
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, grant a +1 for the purpose of determining a critical hit with all attacks from the spell (which is increased by an bonuses for combining missiles), or 8ncrease the range by 5 yards.
+
+**Critical Failure**: 
