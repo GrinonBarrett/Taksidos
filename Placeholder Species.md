@@ -1,5 +1,5 @@
 ## Ngurm
-Written Qurm in the Lithenic tongue. Scarecrows which have vigilantlt looked over a field until the settlers of the field, and their descendants, have passed. These characters often stumble through life mindlessly wandering until they find a purpose or are destroyed. It is said that if they do not find a purpose, one can become a kunekunar. Ngurm characters get the following features;
+Written Qurm in the Lithenic tongue. Scarecrows which have vigilantly looked over a field until the settlers of the field, and their descendants, have passed. These characters often stumble through life mindlessly wandering until they find a purpose or are destroyed. It is said that if they do not find a purpose, one can become a kunekunar. Ngurm characters get the following features;
 
 **Creature Type**: Ngurms are Monsters.
 
