@@ -7,8 +7,8 @@ An unusual foe on the battlefield that has manged to learn less from discipline 
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 2  |    +1    | Blenching, Martial Rejoinder, Reckless            |
-| 2nd   | 2  |    +2    | Defumble, Forward Momentum, Rollout               |
+| 1st   | 2  |    +1    | Martial Rejoinder, Reckless, Rollout              |
+| 2nd   | 2  |    +2    | Blenching, Defumble, Forward Momentum             |
 | 3rd   | 3  |    +3    | Sliding Recovery, Squirmy, Woozy Way              |
 | 4th   | 3  |    +4    | Attribute Improvement, Bounce Off, Pain That You're Used To |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
@@ -18,8 +18,6 @@ An unusual foe on the battlefield that has manged to learn less from discipline 
 | 9th   | 4  |    +8    | Attribute Improvement, Unbreakable                |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
-### Blenching
-When you recoil, you may instead shift the wound result a number of steps equal to your heroism. If you are a species which does not receive the effect of wounds, you instead get an additional +1 bonus to defense when you dodge.
 
 ### Martial Rejoinder
 Whenever an attack of opportunity, a feint attack attack (initial or secondary roll), or cleave attack against you is a critical failure, you may do one of the following;  
@@ -34,14 +32,17 @@ Whenever an attack of opportunity, a feint attack attack (initial or secondary r
 ### Reckless
 If you are vulnerable, but not prone, your follow up attacks do not have disadvantage.
 
+### Rollout
+When you are made prone, you may use your reaction to perform a move.
+
+### 2) Blenching
+When you recoil, you may instead shift the wound result a number of steps equal to your heroism. If you are a species which does not receive the effect of wounds, you instead get an additional +1 bonus to defense when you dodge.
+
 ### 2) Defumble
 When you are shoved while prone, you may use your reaction to no longer be prone.
 
 ### 2) Forward Momentum
 When your movement results in a brawl, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your checks equal to 1/3 the distance in yards you moved since the start of the round or your previous action (whichever is most recent) to either the [Body] or [Rflx] check. If you do, and that check is a critical failure, you are vulnerable until the end of the round.
-
-### 2) Rollout
-When you are made prone, you may use your reaction to perform a move.
 
 ### 3) Sliding Recovery
 When you are knocked back while prone for a set period of time, you may reduce the total remaining number of rounds you are prone by the number of yards you are knocked back.
