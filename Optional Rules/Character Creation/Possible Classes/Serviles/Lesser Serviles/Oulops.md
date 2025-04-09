@@ -3,7 +3,7 @@ Described as a pocket tornado, these primitive and playful elementals have a hab
 
 **Creature Type**: Oulops are Elementals.
 
-**Size**: Oulops are 6"-8" and weight a single pound. They are diminutive creatures.
+**Size**: Oulops are between 6"and 8" and weigh a single pound. They are diminutive creatures.
 
 **Hitpoints**: An oulops has no hitpoints.
 
