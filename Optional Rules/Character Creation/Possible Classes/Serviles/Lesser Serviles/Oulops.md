@@ -1,5 +1,5 @@
 ### Oulops
-Described as a pocket tornado, this primitive and playful elementals have a habit of accidentally causing a lot of trouble
+Described as a pocket tornado, these primitive and playful elementals have a habit of accidentally causing a lot of trouble.
 
 **Creature Type**: Oulops are Elementals.
 
