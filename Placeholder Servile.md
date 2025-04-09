@@ -83,7 +83,7 @@ Draconnic creatures. They won't grow into anything large, but they make cute and
 
 -----
 
-**Breath Weapon**: The wolkenar may loose a blast of charged elemental energy exhaled as an action. This is treated as the ray of a wand attack. It must rest before doing so again. This is determined per the invoker's dominion, being one of two possibilities. Once it is determined, it cannot be changed. Additionbally, it gains a +4 bonus to defense against the damage type of its breath weapons.  
+**Breath Weapon**: The draconni may loose a blast of charged elemental energy exhaled as an action. This is treated as the ray of a wand attack. It must rest before doing so again. The damage type is determined per the invoker's dominion, being one of two possibilities. Once it is determined, it cannot be changed. Additionbally, it gains a +4 bonus to defense against the damage type of its breath weapons.  
 * **Chosen Spirit**. Ki or Sonic.
 * **The Earth**. Acid or Fire.
 * **The Flame**. Fire or Radiant.
