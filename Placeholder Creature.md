@@ -1,5 +1,5 @@
 ### Wolkhenar
-Draconic creatures which live in the clouds. Their collective noun is a Nimbus.
+Draconic creatures which live in the clouds. A winged serpent with one claw that can disappear as a lightning bolt and reappear with one. Most of its scales have a milky white-silver sheen, but it is is speckled with blue and gold scales. They live in clouds and come out during storms. They eat a combination of wood, metal, and meat- making them a menace to caravans and villages. Their collective noun is a Nimbus.
 
 **Creature Type**: Shishpara are Avian.
 
