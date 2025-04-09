@@ -1,5 +1,5 @@
 # Mystic
-Those bestowed powers by their dealings with hgiher powers, though some might consider them to be lower powers or demons. The mystic can accrue power that mere mortals could wish for, but always at a cost.
+Those bestowed powers by their dealings with higher powers, though some might consider them to be lower powers or demons. The mystic can accrue power that mere mortals could wish for, but always at a cost.
 
 **Class Skills**: Select one of the following (Alchemy, Cooking, Medicine).
 
