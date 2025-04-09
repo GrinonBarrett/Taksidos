@@ -1,5 +1,5 @@
 ### Wolkhenar
-Draconic winged serpents with one claw. Most of its scales have a milky white-silver sheen, but it is is speckled with blue and gold scales. They can identify each other by these patterns. They live in clouds and come out during storms. They eat a combination of wood, metal, and meat- making them a menace to caravans and villages. Their biggest threat are korventennain, who will hunt them for sport if encountered. Plural is Wolkhenain. Their collective noun is a Nimbus.
+Draconic winged serpents with one claw. Most of its scales have a milky white-silver sheen, but it is is speckled with blue and gold scales. They can identify each other by these patterns. Their eyes look like metallic orbs devoid of and iris or pupil. They live in clouds and come out during storms. They eat a combination of wood, metal, and meat- making them a menace to caravans and villages. Their biggest threat are korventennain, who will hunt them for sport if encountered. Plural is Wolkhenain. Their collective noun is a Nimbus.
 
 **Creature Type**: Wolkhenain are Drakomadiae.
 
