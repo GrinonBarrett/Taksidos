@@ -86,12 +86,16 @@ If you splash mystic as a member of another class, you gain the same benefits as
 #### Pacts
 
 ##### Pact of Blood
-You have a means of casting spells by making an offering of blood. To do so, you must sacrifice a hitpoint. You then perform a spellcheck (as normal) with a DV of 4 times the spell's tier.  
+You have a means of casting spells by making an offering of blood (or other symbol of lifeforce). To do so, you must sacrifice a hitpoint. You then perform a spellcheck (as normal) with a DV of 4 times the spell's tier.  
 You may also choose to take on a wound, choosing any wound which is not a Glancing Blow. If you do, you may either add 1d10 to your result or add 1d4 + the bonus from the attribute selected for your Magical Art feature.  
 The spell sickness you recieve from critically failing a spell is reduced to one, but you roll a number of wound rolls equal to the tier of the spell -1. Any valid result is a wound you receive. If the result is not vaild, simply ignore that roll.  
 Anytime you receive a wound, you get a +1 bonus to your next spell check within the next minute. This is cumulative with multiple wounds.
 
+If you have no hitpoints remaining, you may opt to perform an incapacitation save (even if you are normally immue to such saves). If you succeed in any degree, you choose a wound, choosing any wound which is not a Glancing Blow. You take the selected wound. This will suffice as a replacement for your sacrifice of a hitpoint.
+
+
 ##### Pact of Mana
 You have a connection to some extraplanar pool of power. You have a pool of mana points equal to your level, plus your heroism, plus your bonus from your attribute chosen for your Magical Art feature, minus your points of spell sickness. When you cast a spell, you do not perform a spellcheck, instead you roll a number of d4s equal to the tier of the spell. If the result is equal to or lower than your current pool, the result is decucted from your pool and your successfully cast the spell as though you had a spell check whose points of success was equal to the mana points lost this way. If you do not have enough mana points to cast the spell, you lose mana points equal to the spells tier and are considered to have critically failed the casting with the points of failure being equal to the neccessary mana points for that casting.  
 You recover 1d4+1 mana points with a short rest, 2d6+2 points of mana with a long rest, and 1d12+8 points of mana with a full rest. If you still have spell sickness while resting, keep this in mind when determining how many mana points you can recover.  
+
 If you cast a wyrding while you have the Pact of Mana, you may spend mana points on a skill check to gain a bonus equal to the mana points spent this way- up to your bonus from your chosen attribute with your Magical Art feature.
