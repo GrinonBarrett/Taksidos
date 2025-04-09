@@ -1,30 +1,49 @@
-### Zezykhar
-A floating fleshy triangle when viewed from above or below. Each corner possesses an eye with a different colored iris, each a primary color. They have two antennae above and a folding probiscis below. They are territorial. The plural is Zezykhain. Their collective noun is an abacule.
+### Wolkhenar
+Draconic creatures which live in the clouds. Their collective noun is a Nimbus.
 
-**Creature Type**: Zezykhain are Eldritch.
+**Creature Type**: Shishpara are Avian.
 
-**Size**: They are between 6-9 inches tall and about 3'-3'6" in length. They weigh between 70-90 pounds. They are small creatures.
+**Size**: Shishpara tend to be between 11'5" to 14'9" in length, and frequently stand between 4'1" to 5'9" meters. They have a wing span 15% greater than their length. The average male will weigh only 130 pounds, while the average female will weigh about 165 pounds. They are medium creatures.
 
-**Hitpoints**: A zezykhar has 3 hitpoints.
+**Hitpoints**: A shishpara has 2 hitpoints.
 
 **Attributes**:  
-[Body] 8 (+2)  
-[Fort] 14 (+4)  
-[Rflx] 8 (+2)  
+[Body] 12 (+4)  
+[Fort] 9 (+3)  
+[Rflx] 12 (+4)  
 [Will] 9 (+3)  
-[Inte] 7 (+2)  
-[Prcp] 12 (+4)  
+[Inte] 9 (+3)  
+[Prcp] 16 (+5)  
 [Empy] 7 (+2)  
 
-**Languages**: Zezykhain don't speak.
+**Languages**: Shishpara don't speak.
 
-**Levitation Speed**: It may levitate up to 3 yards per move so long as it is not dazed and prone.
+**Table**: *Creature's Reaction*
+| Result | **Emotion and Intensity** | Notes        |
+|--------|-------------------|----------------------------------------------------------------|
+|        |                                                |                                   |
+|   1-3  | Curiosity (1) | The shishpara is exploring the area. |
+|   4-6  | Amicability (1)  | The shishpara is going about its business. |
+|   7    | Hostility (3) | The shishpara is agitated by mating season. |
+|   8    | Fear (1)      | Something has startled it. |
+|  9-11  | Hostility (1) | It is keeping an eye on the adventurers. |
+|  12-14 | Hostility (2) | It seems a bit territorial. |
+|   15   | Hostility (3) | It is defending its territory. |
+|  16-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|    19  | Hunger (2)    | It would prefer to snag a small animal. |
+|   20   | Hunger (3)    | The shishpara will try to rip something apart to eat. |
 
-**Swim Speed**: It may swim up to 3 yards per move, presuming the water isn’t too rough. It prefers not to touch water.
+-----
 
-**Unarmed Attacks**:
+**Run Speed**: It may run up to 2.5 yards per move.
 
- • Probiscis: The zezykhar may attack a single foe with its probiscis within 1 yard. This is a melee piercing attack.
+**Flying Speed**: If it is not prone, it may fly up to 11 yards per move. If must fly at least 6 yards per round to remain airborne. If it is not prone, it may hover.
+
+**Unarmed Attacks**;
+
+ • Beak: The shishpara may use its beak to bite a foe within 1 foot. This is a melee piercing or biting attack.
+
+ • Claws: The shishpara may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
 
 -----
 
@@ -32,75 +51,59 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 14     | **Pole Axe**       | 10     | **Arrow, Bodkin Point**    | 12    |
-| **Longsword**              | 11     | **Greatsword**     | 10     | **Arrow, Broadhead**       | 11    |
-| **Mace**                   | 13     | **Maul**           | 12     | **Bolt** | 11    |
-| **Spear**                  | 11     | **Pike**           | 11     | **Brusgiata** | 13     |
-| **Hand Axe**               | 11     | **Madu**           | 14     | **Chakram** | 12    |
-| **Katar**                  | 12     | **Javelin**        | 12     | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade** | 14     | **Musket** | 9     |
-| **Morningstar**            | 13     | **Sling**          | 14     | **Tronutonante** | 11    |
-| **Warpick**                | 12     |          |          |   **Bare** |  17  |
+| **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
+| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
+| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
+| **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
+| **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
+| **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
+| **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
+| **Warpick**                | 13     |  |  |  **Bare** |   20  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 10     | **Fire**           | 13     | **Psychic** | 10     |
-| **Cold**                   | 10     | **Force**          | 13     | **Toxic**  | 13     |
-| **Crushing**               | 12     | **Ki**             | 11     | **Radiant** | 11     |
-| **Cutting**                | 11     | **Necrotic**       | 12     | **Sonic** | 11    |
-| **Electrical**             | 13     | **Piercing**       | 12     | **Biting** | 12    |
+| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
+| **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
+| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 13     |
+| **Cutting**                | 12     | **Necrotic** | 11     | **Sonic** | 13    |
+| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
 
-
-
-**Table**: *Wound Allocation*  
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Glancing Blow     | **Biased Wound**. No effect.   |
+|   2    | Crippled          | It's run speed is halved until this wound is healed. Additionally, it cannot use its Tear feature until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   6    | Top Scratch       | Until this wound is healed, it cannot listen into the ethereal plane anymore. |
+|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
+|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Glancing Blow     | No ill effects _this time_.                                     |
+|   8    | Wing Shot         | Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Lost an Eye       | **Biased Wound**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
-|   11   | Glancing Blow     | No ill effect. |
-|   12   | Stunned           | It forfeits its turn on the next phase. |
-|   13   | Lost an Eye       | **Biased wound**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
+|   10   | Glancing Blow     | No ill effect. |
+|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Antennae          | **Biased wound**. Until this wound is healed, it loses the ability to use its Sweet Sound, Scrambled Wave, and Focus Antennae features. |
-|   17   | Glancing Blow     | No effect. |
-|   18   | Lost an Eye       | **Biased Attack**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
+|   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Glancing Wound    | No effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
 -----
 
-**Breathless**: The zezykhar does not need to breathe or eat. It does still sleep.
+**Nimble Flight**: While flying, the shishpara adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
 
-**Odd Anatomy**: The zezykhar can move with no prefence as to orientation, effectively treating itself as having no discernable top or bottom and may hover in any direct it can see. So long as it can see a threat, it is never considered to be attacked from behind or flanked. If it cannot see a threat, it is as being attacked from behind.
+**Peck**: As an additional option upon a critical success while brawling, the shishpara may try to strike the foe with its beak to inflict a piercing attack.
 
-**Limited Senses**: The zezykhar has no sense of smell, taste, or proper hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects). It can hear into the ethereal plane while on the material plane (and vice versa).
+**Tear**: As an additional option upon a crtical success while brawling with a creature at least two sizes smaller than itself, the shishpara may inflict a biting attack and a cutting attack.
 
-**Great View**: The zezykhar's eyes each provide a full hemispherical view.
+**Keen Eyes**: The shishpara gets a +2 to all [Prcp] checks and saves involving sight.
 
-**Sweet Sound**: As an action, the zezykhar can produce a sound that is apealing to beasts, humanoids, and sylvan creatures. Each such creature within 100 yards which can hear must succeed an [Inte] save with a DV of 13 or investigate the sound. A critcal failure will daze the creature for a number of phases equal to the points of failure. A success results in the sound being dismissed. A critical success results in the listener recognizing it as some very unnatural sound and knowing the direction it came from. It must rest before using this feature again.
+**Keen Nose**: The shishpara gets a +2 to all [Prcp] checks and saves involving scent.
 
-**Scrambled Wave**: As an action, it produces a variety of frequencies which are harmful to the function of many processes. Any creature within 25 yards which can hear it is subject to a sonic attack. It must rest before doing so again.
-
-**Basic Eye Beams**: As an action or reaction, one of its eyes may fire a ray like that of a wand at a foe it perceives. This is a ki attack. Each eye may only perform one such attack each round, and only one at a time. These beams suffer no penalty to attacks for brawling.
-
-**Alternative Eye Beams**: Once per round, *the zezykhar may alter the damage type of one of its eye beams to be necrotic, psychic, sonic, or radiant. It cannot change a ray's attack to the same type as it did during the previous round if at all*.
-
-**Triple Beam**: As an action, the zezykhar fires a basic eyebeam from each of its eyes at the same time. It must rest before doing so again.
-
-**Spinning Trick**: When it would move, if it is not restrained or immobile, *it may use its reaction to instead fire beams from each of its eyes and spin rapidly- inflict an attack in all 360 degrees. This is a radiant attack. It must rest before doing so again. If it is missing an eye when it does so, it becomes dazed until the end of the next round. If it was mising two eyes, it is also vulnerable during this time. The attacks get a -1 for each missing eye*.
-
-**Triplipace**: *Its hover speed is tripled*.
-
-**Focus Antennae**: As an action, it may grant itself the ability to hear until the end of the round.
-
-**Weak**: The zezykhar's weight load limits are halved.
+**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
