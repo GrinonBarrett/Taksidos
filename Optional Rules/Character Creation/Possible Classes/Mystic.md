@@ -62,9 +62,11 @@ The bonus to spell checks you gain from staves for spells you know is increased 
 So long as a creature is affected by one of your spells, and for 1 minute afterwards, you may affect its save result against a spell by an amount up to that spell's tier.
 
 ### 8) Pessimystical
-You gain a bonus to your spell checks equal to your tension.  
+You gain a bonus to your spell checks equal to your tension.†  
 Anytime you lose hitpoints, you gain a bonus to your next counterspell check equal to the number of hitpoints lost this way.  
-Anytime you gain tension, your spell sickness is reduced by 1.
+Anytime you gain tension, your spell sickness is reduced by 1.‡
+
+###### If not playing with the Tension optional rules, † the bonus is instead equal to your missing hitpoints and ‡ you reduce the spell sickness everytime you lose hitpoints.
 
 ### 9) Expanded Magical Art
 You may now reduce attributes other than what you chose for your Magical Art feature to gain the benefits of the spellburn, but must reduce such an attribute by 2 for every +1 benefit to be gained this way.
