@@ -79,7 +79,7 @@ The ghost of a witch scorned. They haunt an area which may be as small as a home
 
 **Slow Madness**: Anytime an attack by the Sprix, its spells, or its abilities is a critical hit- it inflicts 1d2 points of inebriation against that foe.
 
-**Spiteful Magics**: Anytime the sprix inflicts an attack as a result of a spell, it may alter it to be a toxic attack. If it was already a toxic or necrotic attack, it may alter it to be one of the following attcks instead (Dagger, Biting, Cold, Fire, Necrotic, Psychic, Toxic). It accrues a point of spell sickness as a result.
+**Spiteful Magics**: Anytime the sprix inflicts an attack as a result of a spell, it may alter it to be a toxic attack. If it was already a toxic or necrotic attack, it may alter it to be one of the following attacks instead (Dagger, Biting, Cold, Fire, Necrotic, Psychic, Toxic). It accrues a point of spell sickness as a result.
 
 **Dark Shield**: Anytime the Sprix is attacked, it may use its reaction to take on 1d4 points of spell sickness. If it does, it gains a bonus to defense against that attack equal to the result and loses an equal number of points of undeath.
 
