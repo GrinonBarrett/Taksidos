@@ -1,24 +1,24 @@
 ### Wolkhenar
-Draconic creatures which live in the clouds. A winged serpent with one claw that can disappear as a lightning bolt and reappear with one. Most of its scales have a milky white-silver sheen, but it is is speckled with blue and gold scales. They live in clouds and come out during storms. They eat a combination of wood, metal, and meat- making them a menace to caravans and villages. Their collective noun is a Nimbus.
+Draconic winged serpents with one claw. Most of its scales have a milky white-silver sheen, but it is is speckled with blue and gold scales. They can identify each other by these patterns. They live in clouds and come out during storms. They eat a combination of wood, metal, and meat- making them a menace to caravans and villages. Their biggest threat are korventennain, who will hunt them for sport if encountered. Plural is Wolkhenain. Their collective noun is a Nimbus.
 
-**Creature Type**: Shishpara are Avian.
+**Creature Type**: Wolkhenain are Drakomadiae.
 
-**Size**: Shishpara tend to be between 11'5" to 14'9" in length, and frequently stand between 4'1" to 5'9" meters. They have a wing span 15% greater than their length. The average male will weigh only 130 pounds, while the average female will weigh about 165 pounds. They are medium creatures.
+**Size**: Wolkhenain are between 3' and 5'5" in length with a winspan of 60% of their length. They weigh between 40-60 pounds. They are medium creatures.
 
-**Hitpoints**: A shishpara has 2 hitpoints.
+**Hitpoints**: A wolkhenar has 1 hitpoint.
 
 **Attributes**:  
-[Body] 12 (+4)  
-[Fort] 9 (+3)  
-[Rflx] 12 (+4)  
-[Will] 9 (+3)  
-[Inte] 9 (+3)  
-[Prcp] 16 (+5)  
-[Empy] 7 (+2)  
+[Body] 9  (+3)  
+[Fort] 9  (+3)  
+[Rflx] 15 (+5)  
+[Will] 9  (+3)  
+[Inte] 9  (+3)  
+[Prcp] 10 (+3)  
+[Empy] 7  (+2)  
 
-**Languages**: Shishpara don't speak.
+**Languages**: Wolkhenain don't speak, but can communicate with each other via yips and screeches.
 
-**Table**: *Creature's Reaction*
+**Table**: *Creature's Reaction* {need to fix}
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
@@ -35,15 +35,17 @@ Draconic creatures which live in the clouds. A winged serpent with one claw that
 
 -----
 
-**Run Speed**: It may run up to 2.5 yards per move.
+**Run Speed**: It may run up to 1.5 yards per move.
 
-**Flying Speed**: If it is not prone, it may fly up to 11 yards per move. If must fly at least 6 yards per round to remain airborne. If it is not prone, it may hover.
+**Swim speed**: It may swim up to 3.5 yards per move, presuming the water isn’t too rough.
+
+**Flying Speed**: If it is not prone, it may fly up to 12 yards per move. If must fly at least 5 yards per round to remain airborne. 
 
 **Unarmed Attacks**;
 
- • Beak: The shishpara may use its beak to bite a foe within 1 foot. This is a melee piercing or biting attack.
+ • Bite: The wolkhenar bite a foe within 1 yard. This is a melee biting attack.
 
- • Claws: The shishpara may use a claw to strike a foe within 1 yard. This is a melee cutting attack.
+ • Claw: The wolkhenar may use a claw to strike a foe within .5 yard if it is not running. This is a melee cutting attack.
 
 -----
 
@@ -51,23 +53,23 @@ Draconic creatures which live in the clouds. A winged serpent with one claw that
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 18   | **Pole Axe** | 12     | **Arrow, Bodkin Point**    | 13    |
-| **Longsword**              | 12     | **Greatsword** | 12     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 13     | **Maul** | 12    | **Bolt** | 12    |
-| **Spear**                  | 12     | **Pike** | 11     | **Brusgiata** | 14     |  |     |
-| **Hand Axe**               | 13     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 12     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 13     | **Sling** | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |  |  **Bare** |   20  |
+| **Club**                   | 14     | **Pole Axe**       | 11     | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 13     | **Greatsword**     | 12     | **Arrow, Broadhead**       | 11    |
+| **Mace**                   | 11     | **Maul**           | 10     | **Bolt** | 11    |
+| **Spear**                  | 11     | **Pike**           | 11     | **Brusgiata** | 13     |
+| **Hand Axe**               | 12     | **Madu**           | 14     | **Chakram** | 12    |
+| **Katar**                  | 12     | **Javelin**        | 12     | **Arquebus** | 10    |
+| **Dagger**                 | 12     | **Throwing Blade** | 15     | **Musket** | 9     |
+| **Morningstar**            | 11     | **Sling**          | 14     | **Tronutonante** | 11    |
+| **Warpick**                | 12     |          |          |   **Bare** |  17  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 11     | **Psychic** | 13     |
-| **Cold**                   | 12     | **Force** | 13     | **Toxic**  | 12     |
-| **Crushing**               | 13     | **Ki** | 13     | **Radiant** | 13     |
-| **Cutting**                | 12     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 12     | **Piercing** | 11     | **Biting** | 12    |
+| **Acid**                   | 14     | **Fire**           | 14     | **Psychic** | 11     |
+| **Cold**                   | 13     | **Force**          | 10     | **Toxic**  | 13     |
+| **Crushing**               | 11     | **Ki**             | 12     | **Radiant** | 12     |
+| **Cutting**                | 12     | **Necrotic**       | 12     | **Sonic** | 12    |
+| **Electrical**             | 17     | **Piercing**       | 11     | **Biting** | 12    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 14 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -79,14 +81,14 @@ Draconic creatures which live in the clouds. A winged serpent with one claw that
 |   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
 |   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Wing Shot         | Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
+|   8    |  Claw Shot        | Until this wound is healed, it loses the use of its claw. |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Glancing Blow     | No ill effect. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
+|   13   | Sieze Up          | **Biased wound**. It must make a [Body] save against the attack total or be knocked prone. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Wing Shot         | **Biased Wound**. Until this wound is healed, its fly speed is halved and it cannot hover. If it has received both Wing Shot wounds, it cannot fly. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Wound    | No effect. |
@@ -96,14 +98,12 @@ Draconic creatures which live in the clouds. A winged serpent with one claw that
 
 -----
 
-**Nimble Flight**: While flying, the shishpara adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
+**Nimble Flight**: While flying, the wolkhenar adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater. It does not gain this benefit while prone.
 
-**Peck**: As an additional option upon a critical success while brawling, the shishpara may try to strike the foe with its beak to inflict a piercing attack.
+**Travel by Lightning**: As an action, *it can summon forth a lightning bolt from an overhead cloud to strike it. This will occur during the following movement step. As its action during the following action phase, a new lightning bolt will strike a point within 50 yards, and the wolkhenar will appear there. It may strike a creature this way, inflicting an electrical attack against it and initiating a brawl if able*. It incurs a point of spell sickness when it does so. It cannot do so if its current spell sickness + current wounds is equal to or greater than its [Fort] score.
 
-**Tear**: As an additional option upon a crtical success while brawling with a creature at least two sizes smaller than itself, the shishpara may inflict a biting attack and a cutting attack.
+**Breath Weapon**: The wolkenar may loose a blast of charged elemental energy exhaled as an action. This is treated as the ray of a wand attack. If the attack roll result is even, it is cold. If odd, it is electrical. *If it is a critcal hit, it also inflicts the effect of a radiant critical hit*. It must complete a rest before doing so again.
 
-**Keen Eyes**: The shishpara gets a +2 to all [Prcp] checks and saves involving sight.
+**Cloud Living**: A wolkhenar is *always affected as though by a Synnefopothy spell*. If this magic would be dispelled, it takes 1d6+4 rounds for it to actually affect the wolkhenar's ability to interact with clouds specifically.
 
-**Keen Nose**: The shishpara gets a +2 to all [Prcp] checks and saves involving scent.
-
-**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the wolkhenar flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
