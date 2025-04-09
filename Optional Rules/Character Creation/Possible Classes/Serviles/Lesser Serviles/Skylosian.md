@@ -89,7 +89,7 @@ Cannid creatures that might resemble a dog, fox, wolf, or hyena.
 
 **Swift Step**: If the skylosian would gain exhaustion for sprinting because it ran, it may choose simply not to. It must complete a rest before doing so again.
 
-**Tireless Stride**: If it did not sprint during the current round, and is performing a run movement, it does not incur fatigue.
+**Tireless Stride**: If it did not sprint during the previous round, and is performing a sprint, it does not incur fatigue.
 
 **Dominion Benefits**: The skylosian gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. When the servile would lose any number of hitpoints, *the invoker may choose to lose a hitpoint. If the do, the hitpoints lost by the skylosian is reduced by 1*.
