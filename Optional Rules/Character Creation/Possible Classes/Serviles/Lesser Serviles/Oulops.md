@@ -23,7 +23,7 @@ Described as a pocket tornado, these primitive and playful elementals have a hab
 **Unarmed Attacks**;  
 The oulops does not have a substantial enough body to physically harm anything. It can use its shoving gust when its in a brawl.
 
- • Shoving Gust: *The oulops throws the foe a number of feet equal to 1d20 + its [Body] bonus*. Divide this by the weight of the foe in stones.
+ • Shoving Gust: *The oulops throws the foe a number of feet equal to 1d20 + its [Body] bonus*. Divide this by the weight of the foe in stones. This affects a foe within .5 yard.
 
 ---------------------
 
