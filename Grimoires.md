@@ -1,4 +1,4 @@
-Grimoires are tomes filled with the details of magical processes. Each tome contains 3-5 spells and can provide a +1 bonus to spellchecks with the spells contained therein if one already is knowledgeable in the spell, exactly like the bonus for staves (any feature which pertains to that bonus pertains to this as well). Additionally, if wielded in two hands, it can be studied by one capable of casting spells to cast a spell contained within even if the caster does not know it- but this requires twice as much casting time and foes not allow the spell to be cast beyond the tier it is recorded as within the grimoire.
+Grimoires are tomes filled with the details of magical processes. Each tome contains 3-5 spells and can provide a +1 bonus to spellchecks with (and +1 to saves against) the spells contained therein if one already is knowledgeable in the spell, exactly like the bonus for staves (any feature which pertains to that bonus pertains to this as well). Additionally, if wielded in two hands, it can be studied by one capable of casting spells to cast a spell contained within even if the caster does not know it- but this requires twice as much casting time and foes not allow the spell to be cast beyond the tier it is recorded as within the grimoire.
 
 A grimoire is sufficient material to study in learning a spell. Each spell is recorded with a set tier, which must be at least the minimum tier of the spell. This affects the learning time of the spell (some arcanists have been known to express more advanced versions of their spells, being those of a higher tier than minimum, specifically to keep inexperienced studiers from fully understanding them). The grimoire may include spells at a tier higher than their minimum. If they do, and one learns the spell from the grimoire, they may cast it at its minimum tier or higher as they would be able to had they earned any other way.
 
@@ -79,14 +79,15 @@ An intensive study of the folk magic spirits called valders. It includes tales o
 * Wengvalder, 4th
 * Wurmvalder, 4th
 
-**Haldre's Tome**  
+**Fanijin's Tome**  
 *Unique*  
-$7,800, 3 lbs.  
-The personal tome of Haldre, writ before his untimely demise nearly a decade ago. Unfortunately, it doesn't seem he developed any unique spells in his life. This grimoire contains the following spells at the indicated tiers;  
-* Alarum, 1st
-* Faux Fos, 1st
-* Frost Lance, 3rd
-* Grasp, 2nd
+$10,000 , 3 lbs.  
+A tome written by an immature elf long ago. This grimoire contains the following spells at the indicated tiers;  
+* Call Lightning, 2nd
+* Fyrvalder, 3rd
+* Green Ward, 1st
+* Missiles of Light, 3rd
+* Sunshower, 2nd
 
 **Grelald's Tome**  
 *Unique*  
@@ -97,6 +98,15 @@ This tome is filled with more rambling than anything else. *Anyone marked by a X
 * Psychilysis, 4th
 * Sapiafi, 3rd
 * Xanthic Sign, 4th
+
+**Haldre's Tome**  
+*Unique*  
+$7,800, 3 lbs.  
+The personal tome of Haldre, writ before his untimely demise nearly a decade ago. Unfortunately, it doesn't seem he developed any unique spells in his life. This grimoire contains the following spells at the indicated tiers;  
+* Alarum, 1st
+* Faux Fos, 1st
+* Frost Lance, 3rd
+* Grasp, 2nd
 
 **Zorne's Tome**  
 *Unique*  
