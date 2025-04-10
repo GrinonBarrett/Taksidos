@@ -409,7 +409,7 @@ If such a magic's tier would be less than half of this spell's, there is also a 
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
-**Critical Failure**: You havefailed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
+**Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
 
 #### Ertvalder
 
@@ -717,7 +717,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (5
+### H (6
 
 #### Habroism
 
@@ -748,6 +748,20 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
 
 **Critical Failure**: The spell instead afflicts you with the inability to silence your noise hole(s). You are dazed for a number of minutes equal to the spell's tier as you partake in such a fit. If you are incapable of speech, you seem instead to have been afflicted by tremors but suffer the same dazed condition for the same time regardless.
+
+#### Highlife
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 actions
+
+**Duration**: 30 Minutes
+
+**Effect**: You touch a creature, bringing out its latent potential. Its maximum hitpoints are increased by 1 and it gets a +1 to all checks and saves while it still has that hitpoint. When this spell ends, that creature suffer a level of fatigue. If it loses a hitpoint before the spell ends, it incurs a level of fatigue- but a critical success with the spellcheck can prevent this if you wish.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
+
+**Critical Failure**: You and the subject both incur a level of fatigue. If you had targeted yourself, you enjoy both levels of fatigue.
 
 #### Hydravidity
 
@@ -1514,7 +1528,7 @@ If increasing the maximum weight of the object moved, the new weight maximum (me
 
 **Casting time** 5 + spell tier actions
 
-**Effect**: The caster chooses rounds, minutes, hours, or days. The caster disappears from space and time for a number of selected time units equal to 1d6 + spell tier. They return as close to their original relative position as phsyically possible. THe caster (and any other thing affected by this spell)is completely unaffected by the passage of time. THe spell seems to cause an instant change to their perception.
+**Effect**: The caster chooses rounds, minutes, hours, or days. The caster disappears from space and time for a number of selected time units equal to 1d6 + spell tier. They return as close to their original relative position as phsyically possible. The caster (and any other thing affected by this spell) is completely unaffected by the passage of time. The spell seems to cause an instant change to their perception.
 
 **At Higher Tiers**: Each tier beyond minimum, other than the above benefits, can do one of the following;  
 Improve the die level of the d6 by one.  
