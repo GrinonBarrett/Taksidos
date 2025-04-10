@@ -27,7 +27,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 
 **Unarmed Attacks**:
 
- • Slam: The sferkoz may slam a foe it is brawling with. This is a melee club attack.
+ • Slam: The sferakoz may slam a foe it is brawling with. This is a melee club attack.
 
 -----
 
@@ -57,7 +57,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 
 -----
 
-**Sferakozine**: The unusual nature of the sferakoz has a few advantages:  
+**Sferakozine Nature**: The unusual nature of the sferakoz has a few advantages:  
 **-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect eldritch creatures.  
 **-** Cannot be affected by spells which would affect the flesh.  
@@ -65,7 +65,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 **-** Receives wounds, but not effects from them.  
 **-** Does not produce warmth. 
 
-**Odd Anatomy**: The zezykhar can move with no prefence as to orientation, effectively treating itself as having no discernable top or bottom and may hover in any direct it can see. So long as it can see a threat, it is never considered to be attacked from behind or flanked. If it cannot see a threat, it is as being attacked from behind.
+**Odd Anatomy**: The sferakoz can move with no preference as to orientation, effectively treating itself as having no discernable top or bottom and may hover in any direct it can see. So long as it can see a threat, it is never considered to be attacked from behind or flanked. If it cannot see a threat, it is as being attacked from behind.
 
 **Limited Senses**: The sferakoz has no sense of feeling, hearing, taste, or touch. It cannot receive stimuli from such things in any capacity as a result (including illusory effects).
 
@@ -78,15 +78,6 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 * The opposing creature cannot Shove, Slam, or Grapple the sferkoz. The sferkoz cannot Grapple this way, but it can Shove or Slam.
 * A creature does not benefit from the wrestling skill.
 * As an additional option upon achieving a critical success, an opposing creature may break the gaze. This ends the pseudo brawl and prevents the sferakoz from doing so against that foe for 24 hours.
-
-
-
-**Triplipace**: *Its hover speed is tripled*.
-
-**Focus Antennae**: As an action, it may grant itself the ability to hear until the end of the round.
-
-**Weak**: The zezykhar's weight load limits are halved.
-
 
 -----
 
