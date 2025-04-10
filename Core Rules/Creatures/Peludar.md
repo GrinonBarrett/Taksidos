@@ -93,7 +93,7 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 
 **Held Breath**: The peludar may hold its breath for an hour.
 
-**Breath Weapon**: The peludar may exhale a lengthy blast of flaming chemicals. This is a line 12 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. The critical hit inflicted by the attack is treated as a necrotic attack. It must rest before doing so again.
+**Breath Weapon**: The peludar may exhale a lengthy blast of flaming chemicals. This is a line 12 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. The critical hit inflicted by the attack is treated as an acid attack. It must rest before doing so again.
 Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as it sweeps its head side to side.
 
 **Controlled Burst**: The peludar may loose a small blast using the same mechanism as its breath weapon. This is a ranged attack against a foe within 18 yards. Optimal range is 12 yards or less. This inflicts both a fire and a necrotic attack. It may do this once per encounter and an additional time between rests.
