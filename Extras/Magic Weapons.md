@@ -1,6 +1,6 @@
 Herein are examples of powerful magical weapons. Some unique weapons are one of a kind items (and noted as such).
 
-##### Magical Weapons
+#### Magical Weapons
 Name  
 Average Cost, Weight  
 Weapon Type  
@@ -164,7 +164,7 @@ An earthen handle accompanies the roughly hewn gemstone orb of a head to this we
 **Needle** (*unique*)  
 $7,000 , .33 lbs.  
 Wand  
-A strange, thin, little wand. It can be used so long as any attribute is 13 or above. It produces piercing attacks with its ray. While in one's possession, when attempting a spell check, roll a d6 and increase the difficulty of that check by an equal amount. The tier of the spell is increased, but the difficulty of the check does not match this increase. After a week of active use, the user experience an instance of Archblight. After another 3d6+10 days of use, they will experience another such instance. This will continue every 1d12 days afterwards. If the Archblight kills the user this way, their remains will become withered and skeletal- holding up the wand for another to take. One's first thought upon inspecting it will be "What a funny little name".
+A strange, thin, little wand. It can be used so long as any attribute is 13 or above. It produces piercing attacks with its ray. While in one's possession, when attempting a spell check, roll a d6 and increase the difficulty of that check by an equal amount. The tier of the spell is increased, but the difficulty of the check does not match this increase. After a week of active use, the user experiences an instance of Archblight. After another 3d6+10 days of use, they will experience another such instance. This will continue every 1d12 days afterwards. If the Archblight kills the user this way, their remains will become withered and skeletal- holding up the wand for another to take. One's first thought upon inspecting it will be "What a funny little name".
 
 **Olm** (*unique*)  
 $3,000 , 3.5 lbs.    
@@ -213,6 +213,11 @@ $2,200 , 4 lb.
 Longsword  
 A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
 *Gains a 1d8 bonus to attacks against creatures of undeath*.
+
+**Thunder Fang** (*unique*)  
+$6,000 , .33 lb.  
+Thrown Blade  
+The finest crafted throwing knife you have seen in your life. While stuck in a foe, the wielder may use their reaction *to call a bolt of lightning just like the spell Call Lightning*. If the user has Warrior Mastery with thrown blades, they always treat their attacks as being in optimal range.
 
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
