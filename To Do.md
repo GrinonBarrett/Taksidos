@@ -14,15 +14,6 @@ For this update:
 
 Create a spell that treats a creature as having an additional hitpoint, but inflicts 2 levels of fatigue when it is lost.
 
-Eing of Spell Charging. The caster may "charge" the ring by spending a number of hours working with the ring equal to the tier of the spell (minimum or higher). Later, a casting of the spell of the same or lower tier by the wearer of the ring gets a +2 bonus to the spell check result and removes the charge.
-Discharging a ring of a charge can also be done as an action with a spellcraft check of 7 or greater, or by anyone capable of casting magic with a full round action.
-
-Dendalafaun's Ring, unique. +2 to all attacks made with wands in the same hand for the purpose of inflicting a critical hit.
-
-Ring of Elemental Charge. Anytime the weather is damaged by Acid, Cold, Electric, Fire, or Sonic, the ring gets a charge if that type. The ring can store 1d4+2 charges. A charge may be expensed as an action to fire a ray like that of a wand of the charge's type.
-
-A ring that grants +1 defense, but everytime your are successfully wounded receive 1d6 points of spells sickness.
-
 A glass sheathe which allows the storage of a reagent to keep the dagger coated. Will be given with a generic poison that causes critical hits to also be treated as toxic attacks.
 
 A thrown dagger that allows the user to potentially call lightning against one struck by it.
