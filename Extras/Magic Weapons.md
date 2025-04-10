@@ -127,6 +127,11 @@ Pole Axe
 A shorter head than is typical of poleaxes mounts the shaft of his weapon. Follow up attacks made with this weapon *may be treated as cold attacks*.  
 If name is known, a critical hit with this weapon may also *inflict a cold attack*.
 
+**Kiurome's Will** (*unique*)  
+$7,000 , 2.5 lbs.  
+Javelin  
+A solid weapon with a history of victories. *On an attack roll result of 9, 13, or 17- the foe is knocked back 1d4+1 yards*.
+
 **Kuluzh** (*unique*)  
 $10,000 , 6 lbs  
 Greatsword  
