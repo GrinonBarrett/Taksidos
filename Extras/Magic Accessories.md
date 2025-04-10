@@ -41,6 +41,11 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 1 lb, plus contents.  
 A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to reutrn. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
 
+**Ring of Days**, $18,000  
+Neg.  
+A simple gloden ring with a little embelishment.  
+*As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time.
+
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
@@ -70,7 +75,7 @@ Neg.
 A humble golden ring which appears to be worth only a tenth of its value at first. It was once the mark of an engagement which never came to be. The wearer gains a +1 to defense against magical attacks and *an additional +1 to defense against necrotic attacks*. When taken to the peak of the Udras mountain, a blessing is sure to follow.
 
 **Zerun's Girdle**, $48,000  
-Unique  
+Unique.  
 2 pounds  
 A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
 *The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and pupropses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.
