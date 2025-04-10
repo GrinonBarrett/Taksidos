@@ -46,6 +46,11 @@ Neg.
 A simple gloden ring with a little embelishment.  
 *As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time.
 
+**Ring of Elemental Charge**, $ 10,000 + $3,000 per maximum charge  
+Neg.  
+A fine ring with a twisting pattern engraved.  
+*The ring can store a maximum of 1d4+2 charges. Anytime the wearer is damaged by an Acid, Cold, Electric, Fire, or Sonic attack, the ring gets a charge of that type. A charge may be expended as an action to fire a ray, like that of a wand, of the charge's type*.
+
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
