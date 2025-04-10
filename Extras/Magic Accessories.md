@@ -12,6 +12,12 @@ Unique.
 Neg.  
 A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it by- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
 
+**Anticaste**, $14,000  
+Unique.  
+Neg.  
+A silver band clutching a jet, a piece of amber, and a piece of lapis lazuli.  
+*Wearer gains a +1 bonus to defense against magical attacks, but receives 1d6 points of spell sickness each time they are wounded*.
+
 **Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
