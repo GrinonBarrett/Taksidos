@@ -230,6 +230,11 @@ $780, 3.5 lbs.
 Longsword  
 A sword which may have been finely made, but has seen many damaging battles. When this blade successfully harms a creature of undeath, *it removes from that foe a number of points of undeath equal to the user's [Body] bonus and [Will] bonus*. If the sword is cared for and restored, which requires at least $1,000 worth of labor from a master of their craft (metal working and or swordsmithing) and a year of use and daily care from the user, it gains a *+1 bonus to attacks against undead, monsters, and ephemera*.
 
+**Vengeance Burn** (*unique*)  
+$10,000 , 3.5 lbs.  
+Spear  
+An ipe shaft and Brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
+
 **Warl's Hammer** (*unique*)  
 $8,400 , 4 lbs.  
 Mace  
