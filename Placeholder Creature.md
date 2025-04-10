@@ -71,7 +71,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 
 **Perfect View**: The sferakoz's eye provides a full hemispherical view.
 
-**Tremendous Gaze**: As an action, the sferakoz can lock its gaze on another creature. If that creature can see the sferakoz- it must succeed an opposed [Will] check or stop whatever activity it is doing. THis is treated as a brawl with the following differences;  
+**Tremendous Gaze**: As an action, the sferakoz can lock its gaze on another creature. If that creature can see the sferakoz- it must succeed an opposed [Will] check or stop whatever activity it is doing. This is treated as a brawl with the following differences;  
 
 * They are not in physical contact. This can limit what features a foe can use while brawling.
 * Only one opposed check is made at a time, it is a [Will] check.
