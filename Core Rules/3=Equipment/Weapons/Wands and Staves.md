@@ -1,6 +1,9 @@
 ### WANDS
 Each wand uses a particular attribute and produces a specific type of attack. To be able to operate a wand, you must have that attribute as a 13 or greater. When using a wand, if your attack die roll result is an odd number, you suffer a point of spell sickness. The attack of a wand is a magical effect, regardless of how it is used. The narrator can easily create wands of their own imagination. All attacks from wands are considered to be rays.
 
+**Wand of Hellflies**, $1,800  
+Uses [Prcp]. When used, glowing butterflies of all colors fly towards the foe in a stream, each of them being consumed by a black flame. This is a necrotic attack.
+
 **Wand of Fire Bolt**, $1,800  
 Uses [Inte]. When used, a small trailing ball of fire is launched towards the target. This is a fire attack.
 
