@@ -86,10 +86,10 @@ When the user successfully hits a foe with an attack, including the attack of a 
 
 Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
-**Ring of Resistance**, $7,500  
+**Ring of Resistance**, $8,500  
 Neg.  
 A ring of some various material. *It provides protection for the wearer by imposing disadvantage on attacks against the wear that correspond to the material of the ring*.
-| Damage |   Material       |  Damage  |   Material  |   Damage   |   Material  |
+| Attack |   Material       |  Attack  |   Material  |   Attack   |   Material  |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
 | **Acid**                   | Glass  | **Fire**           | Obsidian | **Psychic** | Gold |
