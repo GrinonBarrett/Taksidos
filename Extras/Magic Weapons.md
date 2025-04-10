@@ -13,10 +13,15 @@ Longsword
 A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
 
 **The Brazier** (*unique*)  
- $7,500, 3 lbs.  
- Flail  
+$7,500, 3 lbs.  
+Flail  
 A brazier as such is used in several religious ceremonies. These items are intended for the use of burning cleansing incense and allowing one to more quickly spread its effects across a large room. This particular brazier is intended to more quickly offend evil and ignoble beings.  
- Treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
+Treat as a club attack. If incense is inside and lit, its critical hit may be treated as a fire attack's. An attack from this may be treated as magical if the user desires. If the incense was blessed and it strikes an ephemera, fiend, or undead, *that creature is also subject to a radiant and force attack*. If used by an ephemera, fiend, or undead against a foe that is not either- *it also inflicts a toxic and necrotic attack*.
+
+**Brimas** (*unique*)  
+$15,000 , 3.5 lbs.  
+Longsword  
+A finely made ancient sword which lay resting in a frozen castle. *If an attack by this weapon would be successful or qualifies for damaging a foes armor, even if they wear none, it applies the effect of a Cold critical hit. Water which comes in contact with the blade is frozen. The blade can slide out from such ice with minimal effort. If name is known, and the user inflicts a critical hit, they may apply a cold attack as well*.
 
 **The Claymore** (*unique*)  
 $2,000 , 6.75 lbs.  
