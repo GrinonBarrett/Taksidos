@@ -16,7 +16,7 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 [Prcp] 11 (+3)  
 [Empy] 6  (+2)  
 
-**Languages**: Pelidain don't speak.
+**Languages**: Peludain don't speak.
 
 **Run Speed**: It may run up to 6.5 yards per move.
 
