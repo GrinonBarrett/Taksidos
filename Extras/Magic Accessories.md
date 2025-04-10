@@ -68,6 +68,12 @@ Neg.
 A fine ring with a twisting pattern engraved.  
 *The ring can store a maximum of 1d4+2 charges. Anytime the wearer is damaged by an Acid, Cold, Electric, Fire, or Sonic attack, the ring gets a charge of that type. A charge may be expended as an action to fire a ray, like that of a wand, of the charge's type*.
 
+**Ring of Lorylean**, $50,000  
+Unique.  
+Neg.  
+A silver ring clutching a very small blue diamond.
+**After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
@@ -80,11 +86,17 @@ When the user successfully hits a foe with an attack, including the attack of a 
 
 Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
-**Ring of Lorylean**, $50,000  
-Unique.  
+**Ring of Resistance**, $7,500  
 Neg.  
-A silver ring clutching a very small blue diamond.
-**After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+A ring of some various material. *It provides protection for the wearer by imposing disadvantage on attacks against the wear that correspond to the material of the ring*.
+| Damage |   Material       |  Damage  |   Material  |   Damage   |   Material  |
+|------------------------|-----------|----------|------------|---------|------------|
+|                        |          |            |         |            |         |
+| **Acid**                   | Glass  | **Fire**           | Obsidian | **Psychic** | Gold |
+| **Cold**                   | Nickel | **Force**          | Leather | **Toxic**  | Jade |
+| **Crushing**               | Diamond | **Ki**            | Silver | **Radiant** | Spectralite |
+| **Cutting**                | Iron   | **Necrotic**       | Pearl  | **Sonic** | Quartz |
+| **Electrical**             | Copper | **Piercing**       | Wood | **Undamaging** | Hadrium |
 
 **Ring of Wondernaming**, $9,500  
 Neg.  
