@@ -15,6 +15,10 @@ Represents one “dose”. This powder is capable of temporarily rendering magic
 If this dust is mixed into another magical dust or powder, it will likely render it inert as well.  
 Not recommended to handle without protection, but not harmful to the touch.
 
+**Glass Scabbard**, $350, 2 lb.  
+A glass scabbard custom blown to fit a dagger. It can store a liquid inside to ensure the blade is thoroughly coated when drawn. This allows one to have a dose of a poison (or other concoction) applied to the dagger by simply storing it for a few rounds as they move. Filling it requires caution and it is recommended not to but anything in that could harm the blade. A similar such scabbard could be made for anything longer than a dagger, but an additional $125 for every foot of range is added to the price.  
+These were once popular among nobles as a fashion, but have fallen out of favor.
+
 **Paetur's Stew Jar**, $250 , 1.75 lb.  
 An amber colored jar, sealed with grey-green wax. The contents look like broth with shreds of some disintegrating material. Opening the jar _instead reveals its true contents to be a hot and hardy stew with plenty of veggies, beef, and venison_. The stew is fresh upon opening but is only good for a day. Provides a servings of fluid, a serving of protein, and a serving of vegetables. If opened in a area wherein magic cannot function, you will instead be treated to the sort of contents you observed and it will make you sick.
 
