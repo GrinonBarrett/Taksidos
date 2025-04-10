@@ -197,6 +197,11 @@ Flail
 A whip made of vertebrae connected by chains. This weapon is made by a Dyllakhar using the spine of their first victim.  
 Does not have to be wound to use, but only rolls a d12 for the attack roll when used this way. Inflicts a cutting attack. A dyllakhar ignores that penalty and also gains a +1 bonus to attacks and parries if the weapon is wound. In place of damaging a foe's armor, they must succeed a [Rflx] save or be knocked prone, having been tripped, until they use and action or their movement to get back up. A creature without legs/wings ignores this of course. *Each of these is enchanted by a random enchantment like those available to standard weapons. Anytime the attack roll result is a 9, it also inflicts a necrotic attack against the foe*.
 
+**Shme** (*unique*)  
+$2,500 , .1 lb.  
+Wand  
+Uses [Prcp]. *When used, a beam of energy is fired at the foe. It sounds like a phantasmal voice is singing when used. If name is known, user cannot gain Spell Sickness from this weapon*.
+
 **Sormreir** (*unique*)  
 $1,225 , neg.  
 Broadhead Arrow
