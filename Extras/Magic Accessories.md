@@ -12,7 +12,7 @@ Unique.
 Neg.  
 A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it by- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
 
-**Dendalafaun's Ring**, $4,000
+**Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
 A broad gold band which makes the most pleasent resonaating sound when struck by a wand.  
@@ -46,6 +46,11 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 **Jeel in a Jar**, $8,500  
 1 lb, plus contents.  
 A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to reutrn. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
+
+**Ring of Arcane Charge**, $20,000
+Neg.  
+A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
+*The caster may "charge" the ring by spending a number of hours working with the ring equal to the tier of the spell (minimum or higher). Later, a casting of the spell of the same or lower tier by the wearer of the ring gets a +2 bonus to the spell check result and removes the charge. Discharging the spell in the ring harmlessly can also be done as an action with a spellcraft check of 7 or greater*.
 
 **Ring of Days**, $18,000  
 Neg.  
