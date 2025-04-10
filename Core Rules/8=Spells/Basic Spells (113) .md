@@ -1238,7 +1238,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (14
+### S (15
 
 #### Sapiafi
 
@@ -1348,6 +1348,16 @@ This spell last a day.
 **At Higher Tiers**: If cast as second tier or beyond, the alarm can last a number of days equal to the points of success. Each tier beyond 1st also increases the area you may have alarmed. The total area is a number of square feet equal to the spell's tier squared.
 
 **Critical Failure**: You seem to have set the alarm just fine. The alarm does nothing when disturbed though.
+
+#### Sobering
+
+**Minimum Tier**: 1
+
+**Casting Time**: 5 actions
+
+**Effect**: You touch a creature in an attempt to help clear its mind. Reducing its inebriation by 1d4 points. A critical success allows you to remove 1d6 instead.
+
+**At Higher Tiers**: Each tier beyond minimum can either increase the points of inebriation reduced by 1 or reduce the casting time by 1 (to a minimum of 1 action).
 
 #### Soul Sear
 
