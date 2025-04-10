@@ -21,8 +21,6 @@ Dendalafaun's Ring, unique. +2 to all attacks made with wands in the same hand f
 
 Ring of Elemental Charge. Anytime the weather is damaged by Acid, Cold, Electric, Fire, or Sonic, the ring gets a charge if that type. The ring can store 1d4+2 charges. A charge may be expensed as an action to fire a ray like that of a wand of the charge's type.
 
-Ring of days,  which affects the user with temporialysis for 1d12 days.
-
 A ring that grants +1 defense, but everytime your are successfully wounded receive 1d6 points of spells sickness.
 
 A glass sheathe which allows the storage of a reagent to keep the dagger coated. Will be given with a generic poison that causes critical hits to also be treated as toxic attacks.
