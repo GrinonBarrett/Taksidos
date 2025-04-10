@@ -8,19 +8,9 @@ For this update:
 * Also create a Dancing Flame spell, which produces a wild shape of fire tou can concentrate on to teleport as a reaction to another space. Anything that gets too close to the fire is attacked by it, even allies.
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create a sonic combat spell. A shockwave.
-* Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
+* Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done, with one spear done as well)
 
 -----
-
-Create a spell that treats a creature as having an additional hitpoint, but inflicts 2 levels of fatigue when it is lost.
-
-A glass sheathe which allows the storage of a reagent to keep the dagger coated. Will be given with a generic poison that causes critical hits to also be treated as toxic attacks.
-
-A thrown dagger that allows the user to potentially call lightning against one struck by it.
-
-A longsword that freezes water it touches. Critical hits also inflict cold attacks.
-
-A 5 yard spear that automatically ignites foes it wounds. Has a -1 due to length.
 
 A javelin that knocks foes back on a result of 9, 13, or 17.
 
