@@ -10,6 +10,51 @@ For this update:
 * Create a sonic combat spell.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword and mace are done)
 
+-----
+
+Create a spell that treats a creature as having an additional hitpoint, but inflicts 2 levels of fatigue when it is lost.
+
+Eing of Spell Charging. The caster may "charge" the ring by spending a number of hours working with the ring equal to the tier of the spell (minimum or higher). Later, a casting of the spell of the same or lower tier by the wearer of the ring gets a +2 bonus to the spell check result and removes the charge.
+Discharging a ring of a charge can also be done as an action with a spellcraft check of 7 or greater, or by anyone capable of casting magic with a full round action.
+
+Dendalafaun's Ring, unique. +2 to all attacks made with wands in the same hand for the purpose of inflicting a critical hit.
+
+Ring of Elemental Charge. Anytime the weather is damaged by Acid, Cold, Electric, Fire, or Sonic, the ring gets a charge if that type. The ring can store 1d4+2 charges. A charge may be expensed as an action to fire a ray like that of a wand of the charge's type.
+
+Ring of days,  which affects the user with temporialysis for 1d12 days.
+
+A ring that grants +1 defense, but everytime your are successfully wounded receive 1d6 points of spells sickness.
+
+A glass sheathe which allows the storage of a reagent to keep the dagger coated. Will be given with a generic poison that causes critical hits to also be treated as toxic attacks.
+
+A thrown dagger that allows the user to potentially call lightning against one struck by it.
+
+A longsword that freezes water it touches. Critical hits also inflict cold attacks.
+
+A 5 yard spear that automatically ignites foes it wounds. Has a -1 due to length.
+
+A javelin that knocks foes back on a result of 9, 13, or 17.
+
+A pot you put on an open fire for 2d6+38 minutes. Once ready, the pot explodes and a large loaf of bread pops up. If it is not caught, it will land in the fire.
+
+Hexekhar, hexagonal fusion of the Fauxezakhar and Zezykhar. Each of the six eyes can fire beams of a  type of its choice. It is much faster, can drain foes of energy with its pubiscis, teleport once per encounter, has strong resistance against magical effects and attacks, and causes more mayhem than before. Can see through illusions and magical effects that cause darkness. It is also quite intelligent. It also explodes on death.
+
+Fauxazakhar, a dippelganger og a Zezykhar, it drains foes with uts pubisicis, the eyes are orange, green, and brown, and it has necrotic and illusory features. If it kills a Zezykhar by fatigue from feeding on it, it becomes a Hexekhar.
+
+A floating crystal sphere which contains an iris and pupil. It can see magic, spray a cone of light, and "brawl" with a creature using Will by locking gaze with them. Has high defence, but is destroyed by any wound it receives. Can dimly glow in the dark to allow it to see.
+
+A ghostly hand that can grab, crush, punch, block, and slap foes. Hovers to move, but can hover at greater speeds over surfaces.
+
+Make a Crocutta based creature.
+
+Create a creature that can grow from star jelly, an ooze type creature which can spray light and hypnotize but are toxic themselves.
+
+Create a bird-frog hybrid creature which can function as a familiar, if star jelly is animated. Will be a servile.
+
+Create an ooze-like creature which is made by animating sewage.
+
+-----
+
 Next update:  
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey, A small fire lizard, A little dragon turtle thing, a plant bulb that has two vine appendages to move around)
 * Create 2 more greater serviles (One is a clay golem like entity, "evolution"s for the lizard dragon turtle and plant bulb).
