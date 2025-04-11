@@ -471,7 +471,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (12
+### F (13
 
 #### Fallen Words
 
@@ -547,6 +547,24 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 15 minutes.
 
 **Critical Failure**: You touch the creature and a flash of flame jets from them, inflicting a fire attack against you.
+
+#### Flare
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions + 1 action per flare
+
+**Range**: 45 yards
+
+**Effect**: You produce a brilliant fizzling bolt of light, propelling to a point within range. This flare produces bright out 1 yard, fair light out 2 yards from there, and dim light 2 yards beyond that. If fired at a foe, it inflicts a radiant attack. Instead of inflicting a wound- it simply adheres to that creature. If the attack would qualify to damage a foe's armor, even if they wear none, instead blind the foe for a number of rounds equal to the attack roll total. A critical hit still inflicts the the usual result.
+
+These flares last 15 minutes
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, increase the range by 5 yards, or increase the durations by a number of minutes equal to 10 + [magic] bonus. Additionally, for every 2 tiers above minimum, you may launch an additional flare.
+
+**Critical Failure**: You produce a flare, but it automatically sticks to you. When this occurs, it inflicts a proper radiant attack against you, with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit.
+
+[Flare Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. What he wanted was a utility spell that could also have some use in a fight if a player thought to use it that way."
 
 #### Flash Cannon
 
@@ -1005,7 +1023,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: You hurl the bolts of light, and as they scatter, the redirect themselves against you. Any combined missiles remain so. Each missile is staggered, with only one attacking each phase until each has had its turn (you may determine the order in which they attack you).
 
-[Missiles of Light]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. "
+[Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to  be a misunderstanding, so the Flare spell is also to be made."
 
 #### Molten Form
 
