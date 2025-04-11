@@ -588,7 +588,7 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 
 **Range**: 1 foot
 
-**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you deisgnate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession. 
+**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you deisgnate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession and is lost.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
 
@@ -1619,7 +1619,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (5
+### V (6
 
 #### Venting Burst
 
@@ -1636,6 +1636,20 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
 
 **Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
+
+#### Vile Vibration
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 3 yards
+
+**Effect**: You produce a shockwave of disresonate energy waves, which inflicts a sonic against evrything within range. You are vulnerable until the end of the round.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's range by 1 yard.
+
+**Critical Failure**: You still produce the shockwave, but it suffers a -4 penalty to the attack roll, but you are also attacked while still being vulnerable until the end of the round.
 
 #### Vlepancy
 
