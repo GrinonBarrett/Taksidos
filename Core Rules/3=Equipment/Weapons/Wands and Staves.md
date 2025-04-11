@@ -59,6 +59,10 @@ Contains the spell *Venting Burst*.
 Uses [Empy]. Can produce a toxic attack.  
 Contains the spell *Rotword*.
 
+**Staff of Lightbringing**, $4,800  
+Uses [Will]. Can produce a radiant attack.  
+Contains the spell *Flare*.
+
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
 Contains the spell *Flechette*.
