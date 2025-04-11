@@ -22,16 +22,14 @@ Draconic winged serpents with one claw. Most of its scales have a milky white-si
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-3  | Curiosity (1) | The shishpara is exploring the area. |
-|   4-6  | Amicability (1)  | The shishpara is going about its business. |
-|   7    | Hostility (3) | The shishpara is agitated by mating season. |
-|   8    | Fear (1)      | Something has startled it. |
-|  9-11  | Hostility (1) | It is keeping an eye on the adventurers. |
-|  12-14 | Hostility (2) | It seems a bit territorial. |
-|   15   | Hostility (3) | It is defending its territory. |
-|  16-18 | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|    19  | Hunger (2)    | It would prefer to snag a small animal. |
-|   20   | Hunger (3)    | The shishpara will try to rip something apart to eat. |
+|   1-3  | Curiosity (1) | The wolkhenar is exploring the area. |
+|   4-7  | Amicability (1)  | The wolkhenar is running around like some kind of game. |
+|   8-9  | Hostility (1) | It is keeping an eye on the adventurers. |
+|  10-12 | Hostility (2) | It seems a bit territorial. |
+|   13   | Hostility (3) | It wants a fight. |
+|  14-16 | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|  17-18 | Hunger (2)    | It would prefer to snag a small animal. |
+|  19-20 | Hunger (3)    | The wolkhenar will try to rip something apart to eat. |
 
 -----
 
