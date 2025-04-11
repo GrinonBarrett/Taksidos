@@ -17,8 +17,6 @@ Hexekhar, hexagonal fusion of the Fauxezakhar and Zezykhar. Each of the six eyes
 
 Fauxazakhar, a dippelganger og a Zezykhar, it drains foes with uts pubisicis, the eyes are orange, green, and brown, and it has necrotic and illusory features. If it kills a Zezykhar by fatigue from feeding on it, it becomes a Hexekhar.
 
-A floating crystal sphere which contains an iris and pupil. It can see magic, spray a cone of light, and "brawl" with a creature using Will by locking gaze with them. Has high defence, but is destroyed by any wound it receives. Can dimly glow in the dark to allow it to see.
-
 A ghostly hand that can grab, crush, punch, block, and slap foes. Hovers to move, but can hover at greater speeds over surfaces.
 
 Make a Crocutta based creature.
