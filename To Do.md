@@ -12,8 +12,6 @@ For this update:
 
 -----
 
-A javelin that knocks foes back on a result of 9, 13, or 17.
-
 A pot you put on an open fire for 2d6+38 minutes. Once ready, the pot explodes and a large loaf of bread pops up. If it is not caught, it will land in the fire.
 
 Hexekhar, hexagonal fusion of the Fauxezakhar and Zezykhar. Each of the six eyes can fire beams of a  type of its choice. It is much faster, can drain foes of energy with its pubiscis, teleport once per encounter, has strong resistance against magical effects and attacks, and causes more mayhem than before. Can see through illusions and magical effects that cause darkness. It is also quite intelligent. It also explodes on death.
