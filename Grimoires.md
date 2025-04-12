@@ -118,3 +118,13 @@ This tome functions as both instructional material on combat oriented spells and
 * Zorne's Shield, 2nd
 * Zorne's Sparks, 1st
 
+
+
+**Tome of the Warden**  
+$10,000, 3 lbs.  
+One of many copies of a once critical tome. This grimoire contains the following spells at the indicated tiers;  
+* Empathic Ward
+* Sun Globe, 2nd
+* Flare, 1st
+* Zenith?
+* Regeneration, 5th
