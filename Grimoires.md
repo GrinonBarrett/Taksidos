@@ -51,6 +51,15 @@ One in possession of this grimoire could swear they hear whispers and distant ca
 * Havery, 2nd
 * Rotword, 3rd
 
+**Tome of the Warden**  
+$10,000, 3 lbs.  
+One of many copies of a once critical tome. This grimoire contains the following spells at the indicated tiers;  
+* Empathic Ward, 2nd
+* Sun Globe, 3rd
+* Flare, 1st
+* Highlife, 3rd
+* Regeneration, 5th
+
 **Tome of the Warmage**  
 $10,000, 2.5 lbs.  
 A manual written to teach the most important spells for one caught on the battlefield. Many a warmage has sworn by the neccesity of the spells contained within. This grimoire contains the following spells at the indicated tiers;  
@@ -86,7 +95,7 @@ A tome written by an immature elf long ago. This grimoire contains the following
 * Call Lightning, 2nd
 * Fyrvalder, 3rd
 * Green Ward, 1st
-* Missiles of Light, 3rd
+* Flare, 2nd
 * Sunshower, 2nd
 
 **Grelald's Tome**  
@@ -118,13 +127,3 @@ This tome functions as both instructional material on combat oriented spells and
 * Zorne's Shield, 2nd
 * Zorne's Sparks, 1st
 
-
-
-**Tome of the Warden**  
-$10,000, 3 lbs.  
-One of many copies of a once critical tome. This grimoire contains the following spells at the indicated tiers;  
-* Empathic Ward
-* Sun Globe, 2nd
-* Flare, 1st
-* Zenith?
-* Regeneration, 5th
