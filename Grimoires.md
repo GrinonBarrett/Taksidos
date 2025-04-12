@@ -127,14 +127,21 @@ This tome functions as both instructional material on combat oriented spells and
 * Zorne's Shield, 2nd
 * Zorne's Sparks, 1st
 
+**Grimoire of Âreur**  
+
 * Expulsion Sphere,
 * Missiles of Light,
 * Ironside,
 * Psychoburst,
 * Sobering, 
 
+**Tome of Dulzern**  
+$10,000 , 8 lbs  
+One of many holy scriptures for the followers of Dulzern. This grimoire contains the following spells at the indicated tiers;
 * Empathic Ward
 * Fortify
 * Illproofing
 * Resend
-* Wall of Denial
+* Wall of Denial  
+
+It also contains rites for the following spells ().
