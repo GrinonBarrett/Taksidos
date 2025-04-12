@@ -1,3 +1,4 @@
+thic
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list. 
 
 ### A (10
@@ -1328,6 +1329,8 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 **Range**: 5 yards
 
 **Effect**: You manage to bestow up to two creatures in range an extended reserve of air. For a number of rounds equal to 2d8 plus double the Spell Tier, the creature need not breathe normally. This is rolled for each creature individually. A creature will know this effect is to expire at the start of the final round.
+
+If a creature breathes another medium than air, the spell adjusts for that so long as it is cast in the appropriate medium.
 
 **At Higher Tiers**: For each tier beyond minimum, you may increase the time for each creature by 1d12 + spell tier or affect an additional creature.
 
