@@ -127,3 +127,8 @@ This tome functions as both instructional material on combat oriented spells and
 * Zorne's Shield, 2nd
 * Zorne's Sparks, 1st
 
+* Expulsion Sphere,
+* Missiles of Light,
+* Ironside,
+* Psychoburst,
+* Sobering, 
