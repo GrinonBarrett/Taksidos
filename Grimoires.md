@@ -132,3 +132,9 @@ This tome functions as both instructional material on combat oriented spells and
 * Ironside,
 * Psychoburst,
 * Sobering, 
+
+* Empathic Ward
+* Fortify
+* Illproofing
+* Resend
+* Wall of Denial
