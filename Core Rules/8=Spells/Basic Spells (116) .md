@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list. 
 
-### A (10
+### A (11
 
 #### Abatis
 
@@ -155,6 +155,20 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 15 yards.
 
 **Critical Failure**: You fail to ground yourself properly. The spell functions as normal, but attacks you as the original target.
+
+#### Artificial Hand
+
+**Minimum Tier**: 1
+
+**Casting Time**: 9 actions
+
+**Range**: 15 yards
+
+**Effect**: You produce a shape of force, vaguely like that of a hand, at a point within range. This is the creation of an Artificicheir (see the creature) which you can direct. If it is not destroyed by damage, it can last for a number of rounds equal to the points of success on your spell check + your [Magic] bonus.
+
+**At Higher Tiers**: For each tier beyond minimum, you may either reduce the casting time by 1 action (to a minimum of 1) or the range by 15 yards. Alternatively, you may devote some of the additional tiers to creating a larger Artificicheir (per that creature's description).
+
+**Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
 ### B (4
 
