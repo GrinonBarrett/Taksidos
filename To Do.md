@@ -13,10 +13,6 @@ For this update:
 
 A pot you put on an open fire for 2d6+38 minutes. Once ready, the pot explodes and a large loaf of bread pops up. If it is not caught, it will land in the fire.
 
-Hexekhar, hexagonal fusion of the Fauxezakhar and Zezykhar. Each of the six eyes can fire beams of a  type of its choice. It is much faster, can drain foes of energy with its pubiscis, teleport once per encounter, has strong resistance against magical effects and attacks, and causes more mayhem than before. Can see through illusions and magical effects that cause darkness. It is also quite intelligent. It also explodes on death.
-
-Fauxazakhar, a dippelganger og a Zezykhar, it drains foes with uts pubisicis, the eyes are orange, green, and brown, and it has necrotic and illusory features. If it kills a Zezykhar by fatigue from feeding on it, it becomes a Hexekhar.
-
 A ghostly hand that can grab, crush, punch, block, and slap foes. Hovers to move, but can hover at greater speeds over surfaces.
 
 Make a Crocutta based creature.
