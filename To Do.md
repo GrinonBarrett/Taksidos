@@ -1,4 +1,15 @@
 
+Current Creature Count:  
+* 60 standard creatures
+* 18 creatures of undeath
+* 5 Creatures of the haze
+* 6 Legendary creatures, including,
+  * 1 Avatar
+  * 1 Dragon
+* 4 lesser serviles
+* 4 greater serviles
+* 1 optional creature
+
 For this update:
 
 * Finish Languages.
