@@ -32,7 +32,7 @@ A true dragon of greed. He has conquered the ancient homeland of the Yasani, alo
 
  • Slam: He may use any part of his body to strike a foe within 4 yards. This is a melee bare attack.
 
- • Bite: He may slash at foes with one of his forward claws within 3 yards. This is a melee slashing attack.
+ • Claw: He may slash at foes with one of his forward claws within 3 yards. This is a melee slashing attack.
 
  • Bite: He may perform a single bite against a foe within 3 yards. This is a melee bite attack.
 
@@ -146,6 +146,6 @@ Khaleurthet ($12,000).
 Tempered Plate ($34,000).  
 A Torch of Dulzorn ($1,000).  
 Tainted Targe ($900).
-A single Orb of Anihilation ($500,000).
+A single Orb of Obliteration ($500,000).
 
 Total: $2,487,740
