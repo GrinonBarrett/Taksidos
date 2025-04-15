@@ -144,4 +144,4 @@ One of many holy scriptures for the followers of Dulzern. This grimoire contains
 * Resend
 * Wall of Denial  
 
-It also contains rites for the following spells ().
+It also contains rites for the following rites ().
