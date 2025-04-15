@@ -58,9 +58,10 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 1 lb, plus contents.  
 A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to reutrn. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
 
-**Nefalesider**, $680 per yard  
-3 lb. per yard.  
-Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and diffuclty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softes fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. Strength 5,000. *Strength is doubled so long as it is not in an area which supresses magical effects*. So long as it is being handled by a creature which is not affected by synnefopathy, it loses 1d4 points of strength per minute of handling. It also loses 1d6 points of strength for every minutes spent submerged or buried.
+**Nefalesider**, $600 per yard  
+1.5 lb. per yard.  
+Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and diffuclty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softes fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
+So long as it is being handled by a creature which is not affected by synnefopathy, it loses 1d4 points of strength per minute of handling. It also loses 1d6 points of strength for every minutes spent submerged or buried.
 
 **Ring of Arcane Charge**, $20,000
 Neg.  
