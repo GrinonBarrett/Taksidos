@@ -1,7 +1,7 @@
 ### Fauxakhar
 Hailing from an infernal realm, these creatures are the doppelganger to the Zezykhain. Their eye colors are orange, green, and brown. The plural is Fauxakhain. Their collective noun is a falsehood.
 
-**Creature Type**: Zezykhain are Fiends.
+**Creature Type**: Fauxakhain are Fiends.
 
 **Size**: They are between 6-9 inches tall and about 3'-3'6" in length. They weigh between 45-60 pounds. They are small creatures.
 
@@ -77,7 +77,7 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 
 -----
 
-**Fiendish Nature**: The hellhare's fiendish nature bestows it with a few particular features;  
+**Fiendish Nature**: The fauxakhar's fiendish nature bestows it with a few particular features;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Are not subject to bleeding.  
  • Are immune to diseases, poisons and venom.  
