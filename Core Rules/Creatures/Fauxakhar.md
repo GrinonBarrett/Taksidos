@@ -94,7 +94,7 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 
 **Alternative Eye Beams**: Once per round, *the fauxakhar may alter the damage type of one of its eye beams to be fire, necrotic, psychic, or toxic. It cannot change a ray's attack to the same type as it did during the previous round if at all*.
 
-**Piercing Stare**: As an action, the fauxakharkhar fires a basic eyebeam from each of its eyes at the same time at a single target. *It may treat any of the beams as piercing attacks for this purpose*. It must rest before doing so again.
+**Piercing Stare**: As an action, the fauxakhar fires a basic eyebeam from each of its eyes at the same time at a single target. *It may treat any of the beams as piercing attacks for this purpose*. It must rest before doing so again.
 
 **False beams**: As an action, it fires a beam of illusory power from each eye at a different target. *A creature so targeted must succeed a [Will] or [Prcp] save. If it fails, its hitpoints are reduced by 1. If it is a critical failure, it becomes prone and vulnerable until the end of the round*. It cannot do so during consecutive rounds. A critical success on the save reveals the nature of the attack to the creature, and it ceases to be affected by it for the rest of the encounter. A creature with no hitpoints remaining suffers no effect from this.
 
