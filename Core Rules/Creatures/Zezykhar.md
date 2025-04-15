@@ -83,7 +83,7 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 
 **Odd Anatomy**: The zezykhar can move with no prefence as to orientation, effectively treating itself as having no discernable top or bottom and may hover in any direct it can see. So long as it can see a threat, it is never considered to be attacked from behind or flanked. If it cannot see a threat, it is as being attacked from behind.
 
-**Limited Senses**: The zezykhar has no sense of smell, taste, or proper hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects). It can hear into the ethereal plane while on the material plane (and vice versa).
+**Limited Senses**: The zezykhar has no sense of smell, taste, or proper hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects). It can see into the ethereal plane while on the material plane (and vice versa).
 
 **Great View**: The zezykhar's eyes each provide a full hemispherical view.
 
