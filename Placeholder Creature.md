@@ -3,7 +3,7 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 
 **Creature Type**: Zezykhain are Fiends.
 
-**Size**: They are between 6-9 inches tall and about 3'-3'6" in length. They weigh between 70-90 pounds. They are small creatures.
+**Size**: They are between 6-9 inches tall and about 3'-3'6" in length. They weigh between 45-60 pounds. They are small creatures.
 
 **Hitpoints**: A fauxakhar has 2 hitpoints.
 
@@ -42,8 +42,8 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 |                        |           |          |            |         |            |
 | **Acid**                   | 11     | **Fire**           | 13     | **Psychic** | 12     |
 | **Cold**                   | 11     | **Force**          | 13     | **Toxic**  | 13     |
-| **Crushing**               | 12     | **Ki**             | 10     | **Radiant** | 10     |
-| **Cutting**                | 11     | **Necrotic**       | 10     | **Sonic** | 11    |
+| **Crushing**               | 12     | **Ki**             | 11     | **Radiant** | 10     |
+| **Cutting**                | 11     | **Necrotic**       | 10     | **Sonic** | 10    |
 | **Electrical**             | 13     | **Piercing**       | 12     | **Biting** | 12    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 14 |
@@ -68,7 +68,7 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 |   13   | Lost an Eye       | **Biased wound**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Antennae          | **Biased wound**. Until this wound is healed, it loses the ability to use its Sweet Sound, Scrambled Wave, and Focus Antennae features. |
+|   16   | Reflexive Triplication  | **Biased wound**. *It immediately produces two illusory duplicates, per its Triplicate feature, and swaps its position with one of them*. |
 |   17   | Glancing Blow     | No effect. |
 |   18   | Lost an Eye       | **Biased Attack**. It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
@@ -101,6 +101,8 @@ Hailing from an infernal realm, these creatures are the doppelganger to the Zezy
 **Infernal Regeneration**: At the end of any round the fauxakhar receives a wound and has any hitpoints remaining, it may use its reaction to roll a d8 and compare it to its current hitpoints. If the result is lower, it recovers a single hitpoint. It must perform a rest before doing so again.
 
 **Draining Probiscus**: Anytime the fauxakhar's probiscus inflicts a critical hit or would qualify to damage a foe's armor, it may inflict a level of fatigue against that creature. If it receives fatigue this way, the fauxakhar may choose to either reduce its own fatigue by 1 level or recover 1d2-1 hitpoints.
+
+**Triplicate**: As an action, *the fauxakhar creatures two illusory entities that appear exactly it does. They spawn within 3 yards. These entities have no hitpoints, retain the fauxakhar's hover speed, have the Fauxakhar's False Beams feature, have no senses, and cannot physically interact with anything. Any attack roll of 9 or greater will destroy it, as will anything requireing it to make a save*. They cannot act independently, instead receiving psychic commands from their originating Fauxakhar- which demands its concentration to maintain.
 
 **Triplipace**: *Its hover speed is tripled*.
 
