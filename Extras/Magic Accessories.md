@@ -98,7 +98,7 @@ Once an option has been used, the wearer must perform a long rest while maintain
 
 **Ring of Resistance**, $8,500  
 Neg.  
-A ring of some various material. *It provides protection for the wearer by imposing disadvantage on attacks against the wear that correspond to the material of the ring*.
+A ring of some various material. *It always seems to fit. It provides protection for the wearer by imposing disadvantage on attacks against the wear that correspond to the material of the ring*.
 | Attack |   Material       |  Attack  |   Material  |   Attack   |   Material  |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
