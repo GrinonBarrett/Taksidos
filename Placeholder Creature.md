@@ -75,6 +75,7 @@ Vaguely hand shaped .
 **Variable Size**: Because these are created as the result of a spell, they can be of a variable size. The features presented here are for a default small sized hand. If created by a spell (or other magical effect) of a higher tier than first, use the modifications as directed by the following table.  
 | Size | [Body] score and bonus | Weight | Hover Speed | Hitpoints | Additional Tiers Required |
 |-|-|-|-|-|-|
+| | | | | | |
 | Insurmountable | 30 (10) | 4,500 lbs | 1,000 yards | 7 | +12 |
 | Jormungous | 29 (+9) | 3,000 lbs | 500 yards | 7 | +9 |
 | Titanous | 28 (+9) | 2,000 lbs | 100 yards | 7 | +7 |
