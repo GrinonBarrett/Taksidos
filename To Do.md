@@ -13,8 +13,6 @@ For this update:
 
 A pot you put on an open fire for 2d6+38 minutes. Once ready, the pot explodes and a large loaf of bread pops up. If it is not caught, it will land in the fire.
 
-A ghostly hand that can grab, crush, punch, block, and slap foes. Hovers to move, but can hover at greater speeds over surfaces.
-
 Make a Crocutta based creature.
 
 Create a creature that can grow from star jelly, an ooze type creature which can spray light and hypnotize but are toxic themselves.
