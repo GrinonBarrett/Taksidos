@@ -1,5 +1,5 @@
 ### Artificicheir
-Vaguely hand shaped .
+Vaguely hand shaped forcefield which is directed by the will of some mage.
 
 **Creature Type**: Artificicheirs are Monsters.
 
@@ -70,13 +70,13 @@ Vaguely hand shaped .
 
 **Mindless**: Artificicheirs do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing effects and fear-based effects.
 
-**Controlled Force**: Everything an artificicheir does is the direct result of the psychic commands of what created it. This demands the concentration of whatever creature is to "operate" it. If the concentration is broken- it stops acting in any way.
+**Controlled Force**: Everything an artificicheir does is the direct result of the psychic commands of what created it. This demands the concentration of whatever creature is to "operate" it. If the concentration is broken- it stops acting in any way. The operator must be able to perceive the artificicheir to concentrate on it.
 
 **Variable Size**: Because these are created as the result of a spell, they can be of a variable size. The features presented here are for a default small sized hand. If created by a spell (or other magical effect) of a higher tier than first, use the modifications as directed by the following table.  
 | Size | [Body] score and bonus | Weight | Hover Speed | Hitpoints | Additional Tiers Required |
 |-|-|-|-|-|-|
 | | | | | | |
-| Insurmountable | 30 (10) | 4,500 lbs | 1,000 yards | 7 | +12 |
+| Insurmountable | 30 (+10) | 4,500 lbs | 1,000 yards | 7 | +12 |
 | Jormungous | 29 (+9) | 3,000 lbs | 500 yards | 7 | +9 |
 | Titanous | 28 (+9) | 2,000 lbs | 100 yards | 7 | +7 |
 | Big | 27 (+9) | 1,000 lbs | 75 yards | 6 | +5 |
