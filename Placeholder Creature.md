@@ -97,7 +97,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 
 **Swallow Whole**: If he successfully bites a creature of at least two size categories or smaller, he may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
 
-**Throw Voice**: So long as he can perceive it, Capralzeryx may have the sound of his voice originate from anywhere.
+**Throw Voice**: So long as he can perceive it, Capralzeryx may have the sound of his voice originate from any point.
 
 **Draconic Magic**: He is capable of casting spells using wyrding and uses his [Empy] as his [Magic]. He adds his [Empy] bonus to his spellchecks and counterspell checks. He knows the following spells;  
 * Absenting
