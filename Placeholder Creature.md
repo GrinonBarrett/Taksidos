@@ -1,7 +1,7 @@
 ### Artificicheir
-Borne of a world of shadows, these creatures only exist in our world when summoned by a mage. The knowledge of how to conjure and control these beings seems to only ever pass through the hands of suspicious magicians. Though there is little detail to make out in their body, each of them possesses a unique silhouette. Their collective noun is a conjurum.
+Vaguely hand shaped .
 
-**Creature Type**: Nrals are Monster.
+**Creature Type**: Artificicheirs are Monsters.
 
 **Size**: The hand is between 1-3 feet tall. It weighs 20 pounds. It is a small creature.
 
@@ -16,15 +16,17 @@ Borne of a world of shadows, these creatures only exist in our world when summon
 [Prcp] 7  (+2)  
 [Empy] 9  (+3)  
 
-**Languages**: Nrals don't speak.
+**Languages**: Artificicheirs don't speak.
 
 **Hover Speed**: It may hover up to 5 yards per move.
 
 **Unarmed Attacks**;
 
- • Claw: The artificicheir may punch a creature within 1 yard. 
+ • Punch: The artificicheir may punch a creature within 1 yard. This is a melee force attack.
 
- • Crush: It may crush a creature it is grappling, so long as it is a smaller size. This is a melee crushing attack with a bonus equal to its [Body] bonus for the purpose of.
+ • Scratch: The artificicheir may attempt to scratch a foe within 1 foot. This is a melee cutting attack.
+
+ • Crush: It may crush a creature it is grappling, so long as it is a smaller size. This is a melee crushing attack with a bonus equal to its [Body] bonus for the purpose of determining if it is a critical hit.
 
 -----
 
@@ -32,55 +34,45 @@ Borne of a world of shadows, these creatures only exist in our world when summon
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 17     | **Pole Axe**       | 10     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 12     | **Greatsword**     | 10     | **Arrow, Broadhead**       | 13    |
-| **Mace**                   | 12     | **Maul**           | 10     | **Bolt**                   | 13    |
-| **Spear**                  | 12     | **Pike**           | 10     | **Brusgiata**              | 15    |
-| **Hand Axe**               | 12     | **Madu**           | 12     | **Chakram**                | 15    |
-| **Katar**                  | 12     | **Javelin**        | 12     | **Arquebus**               | 11    |
-| **Dagger**                 | 12     | **Throwing Blade** | 16     | **Musket**                 | 10    |
-| **Morningstar**            | 12     | **Sling**          | 16     | **Tronutonante**           | 12    |
-| **Warpick**                | 12     |              |              | **Bare**                   | 21    |
+| **Club**                   | 16     | **Pole Axe**       | 13     | **Arrow, Bodkin Point**    | 13    |
+| **Longsword**              | 13     | **Greatsword**     | 13     | **Arrow, Broadhead**       | 14    |
+| **Mace**                   | 13     | **Maul**           | 13     | **Bolt**                   | 13    |
+| **Spear**                  | 13     | **Pike**           | 13     | **Brusgiata**              | 13    |
+| **Hand Axe**               | 13     | **Madu**           | 13     | **Chakram**                | 15    |
+| **Katar**                  | 13     | **Javelin**        | 13     | **Arquebus**               | 13    |
+| **Dagger**                 | 13     | **Throwing Blade** | 16     | **Musket**                 | 13    |
+| **Morningstar**            | 13     | **Sling**          | 15     | **Tronutonante**           | 14    |
+| **Warpick**                | 13     |              |              | **Bare**                   | 20    |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire**           | 10     | **Psychic**               | 18     |
-| **Cold**                   | 14     | **Force**          | 11     | **Toxic**                 | 19     |
-| **Crushing**               | 11     | **Ki**             | 10     | **Radiant**               | 9      |
-| **Cutting**                | 13     | **Necrotic**       | 14     | **Sonic**                 | 11     |
-| **Electrical**             | 9      | **Piercing**       | 10     | **Biting**                | 11     |
+| **Acid**                   | 13     | **Fire**           | 13     | **Psychic**               | 15     |
+| **Cold**                   | 13     | **Force**          | 13     | **Toxic**                 | 18     |
+| **Crushing**               | 13     | **Ki**             | 13     | **Radiant**               | 13     |
+| **Cutting**                | 13     | **Necrotic**       | 15     | **Sonic**                 | 13     |
+| **Electrical**             | 13     | **Piercing**       | 13     | **Biting**                | 13     |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |                    |              | **Undamaging** | 15 |
+| **Unlisted Damage Type** | 13 |                    |              | **Undamaging** | 16 |
 
 -----
 
-**Ephemeral Nature**: Nrals do not have a phsyical form. As such they   
+**Body of Arcane Force**: Artificicheirs are made a mobile form of forcefield. As such they   
  • Do not need to eat, sleep, or breathe.  
- • Have disadvantage on [Body] checks.  
  • Are immune to diseases, poisons and venom including toxic damage.  
  • Are not affected by spells which would affect flesh or physically manipulate them.    
- • Cannot be healed except through rest.  
- • Have advantage on saves against effects which would grapple, restrain, or make them prone unless it specifies that they affect ephemera.
+ • Cannot be healed.  
+ • Have advantage on saves against effects which would grapple, restrain, or make them prone.
+ • Cease to exist upon entering an area that supresses magic.
+ • Is destroyed if an attack is successful against it while it has no remaining hitpoints.
+ • Is not automatically destroyed by a disimpress spell if it has any remaining hitpoints, but does lose hitpoints equal to the tier of that spell instead.
 
-**Shadowy**: Nrals are creatures of shadow and as a result possess a few traits which make them difficult to deal with;    
-The exist in a plane of existence outside of traditionally visible wavelengths, this means they may only exist in a constant state of darkness.  
- • It is unaffected by lighting and always sees as though it were fair light.  
- • Non-magical forms of damage have no effect on it.  
- • It cannot be grappled, restrained, or made prone by any non-magical means.  
- • It makes no sound when they move.  
- • It casts no shadow or reflection.    
- • Immunity to damage from falling and knockback.  
- • Immunity to all poisons, venom, and diseases.  
- • Immunity to the effects of bloodloss.    
- • Immunity to fatigue.  
- • Immunity to sleep.  
- • Immunity to effects which cause asphyxiation.  
- • Immunity to incapacitation. Instead, it is destroyed by a magical attack received when it has no hitpoints.   
- • It recieves wounds but no effect from them.
+**Forceful Strike**: Anytime the artificicheir's unarmed attack is a critical hit, it may shove that creature.
 
- **Screeching Pursuit**: When the nral performs a sprint to close the distance with another creature, it may use its reaction to loose a haunting scream. Anything which can hear the scream must succeed a DV 15 [Will] save or flee in terror from the Nral. Other Nrals are immune to this.
+**Senseless**: Artificicheirs do not receive stimuli form any senses.
 
- **Dark Stride**: If the nral is not in bright light, it has a flight speed of 9 yards. It cannot enter bright light using this movement.
+**Mindless**: Artificicheirs do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing effects and fear-based effects.
 
+**Controlled Force**: Everything an artificicheir does is the direct result of the psychic commands of what created it. This demands the concentration of whatever creature is to "operate" it. If the concentration is broken- it stops acting in any way.
 
+**Variable Size**: Because these are created as the result of a spell, they can be of a variable size. The features presented here are for a default small sized hand. If created by a spell (or other magical effect) of a higher tier than first, use the modifications as directed by the following table.  
 | Size | [Body] score and bonus | Weight | Hover Speed | Hitpoints | Additional Tiers Required |
 |-|-|-|-|
 | Insurmountable | 30 (10) | 4,500 lbs | 1,000 yards | 7 | +12 |
