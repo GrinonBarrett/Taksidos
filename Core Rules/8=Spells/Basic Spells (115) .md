@@ -1,4 +1,3 @@
-thic
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list. 
 
 ### A (10
@@ -368,7 +367,9 @@ If it has been affected by a 1st tier spell, or a source determined to be equiva
 
 If such a magic's tier would be less than half of this spell's, there is also a percentage chance that the magic is disrupted to the point that it no longer functions (though can be "repaired" by certain means). This is equal to this spell's tier plus the points of success on the spellcheck.
 
-**At Higher Tiers**: For each tier beyond minimum, you may increase the time it is surpressed by 1d4 minutes or have the spell sffect a magic of one tier higher.
+When used against a forcefield created by a spell of less than half of this spell's tier, that forcefield is destroyed.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the time it is surpressed by 1d4 minutes or have the spell affect a magic of one tier higher.
 
 **Critical Failure**: You accidentally disrupt your own magical connection gaining spell sickness equal to the tier of this spell.
 
@@ -889,7 +890,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 Any item touched by this is considered magical for all intents and purposes. It does not have any special effect inherently, but is considered magical (and thus can cause its interactions to be treated as being performed with a magical weapon/item).
 
-**At Higher Tiers**: For each tier beyond minimum, you may either halve the casting time or increase the duration by 1 hour.
+**At Higher Tiers**: For each tier beyond minimum, you may either halve the casting time or increase the duration by 1 hour. Alternatively, if you cast it at least 3 tiers beyond minimum- you may treat it as an enchanted weapon/armor (as appropriate) of a variety of your choice. If you do, the duration of the spell is measured in minutes and not hours.
 
 **Critical Failure**: You accidentally curse the item in some way. You possess the same curse as the magic item. This curse lasts for a number of days equal to the spell's tier.
 
