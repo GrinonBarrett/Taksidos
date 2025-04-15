@@ -53,8 +53,6 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 16 |               |                   | **Undamaging** | 17 |
 
-                                  |
-
 -----
 
 **Sferakozine Nature**: The unusual nature of the sferakoz has a few advantages:  
