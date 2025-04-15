@@ -60,7 +60,7 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   6    | Top Scratch       | Until this wound is healed, it cannot listen into the ethereal plane anymore. |
+|   6    | Uncanny Scratch   | Until this wound is healed, it cannot benefit from its Triplipace feature. |
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects _this time_.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
