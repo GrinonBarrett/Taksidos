@@ -93,4 +93,4 @@ Sometimes, an adventurer needs a horse. Overtime, across many adventures, they f
 
 **Startling Speed**: Once per encounter, as an action or reaction, the graugolaug may perform a movement.
 
-**Terrifying Leap**: Once per encounter, the canucorryngraugolaug may quadruple its leap distance.
+**Terrifying Leap**: Once per encounter, the graugolaug may quadruple its leap distance.
