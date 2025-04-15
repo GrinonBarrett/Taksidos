@@ -18,6 +18,11 @@ Neg.
 A silver band clutching a jet, a piece of amber, and a piece of lapis lazuli.  
 *Wearer gains a +1 bonus to defense against magical attacks, but receives 1d6 points of spell sickness each time they are wounded*.
 
+**Bauble of The Eye**, $25,000  
+Unique.  
+Neg.  
+A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop handle which allows it to be worn as a necklace. *The wearer gains a +1 bonus to all [Prcp] checks and saves involving visions. Additionally, a wearer capable of casting spells in some manner is able to spend an entire round focuing on the bauble. This causes it to expand in size, becoming a Sferakoz which is psychically linked to the wearer. It follows the wearer's command. If the sferakoz is destroyed, the bauble shatters. The wearer may spend a whole round in phsyical contact with the sferakoz to shrink it back down into its bauble form. While in its bauble form, the sferakoz is considered to be resting. If it rests for a whole week, it can benefit from an additional full rest for every whole week it is inactive. If the bauble would be destroyed in its basic item state, it forms a sferakoz which is hostile to all creatures and will never return to its bauble form*.
+
 **Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
@@ -61,7 +66,7 @@ A ring that can very in quality, but always has either a pearl or piece of amber
 **Ring of Days**, $18,000  
 Neg.  
 A simple gloden ring with a little embelishment.  
-*As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time.
+*As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time*.
 
 **Ring of Elemental Charge**, $ 10,000 + $3,000 per maximum charge  
 Neg.  
