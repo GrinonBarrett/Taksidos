@@ -107,7 +107,7 @@ This is in addition to any other spellcasting methods it has.
 
 **Horrorism**: THe shadelaird has a bonus to certain features. THis functions exactly as Heroism for player characters, though the value is determined by the manner in which this template is used.
 
-**Nercrotic Magics**: Anytime the shadelaird inflicts an attack as a result of a spell, it may alter it to be a necrotic attack. If it was already a necrotic attack, it may alter it to be one of the following attcks instead (Handaxe, Mace, Biting, Acid, Cold, Electric, FIre, Toxic). If it does so while possessing spell sickness, it must use its reaction to do so or accrue an additional point of spell sickness.
+**Nercrotic Magics**: Anytime the shadelaird inflicts an attack as a result of a spell, it may alter it to be a necrotic attack. If it was already a necrotic attack, it may alter it to be one of the following attcks instead (Handaxe, Mace, Biting, Acid, Cold, Electric, Fire, Toxic). If it does so while possessing spell sickness, it must use its reaction to do so or accrue an additional point of spell sickness.
 
 **Dark Shield**: Anytime the shadelaird is attacked, it may use its reaction to take on 1d4 points of spell sickness. If it does, it gains a bonus to defense against that attack equal to the result and loses an equal number of points of undeath.
 
@@ -119,7 +119,7 @@ They are also treated as being 5th level in a class of the your choice. Count th
 
 **Magical Knowledge**: A shadelaird knows 9 basic spells and 2 legendary spells. This is in addition to any spells learned from other methods.
 
-**Skills**: The shadelaird knows a number of skills it possessed in life, plus its [Inte] bonus.
+**Skills**: The shadelaird knows a number of skills it possessed in life, plus a number qual to its [Inte] bonus.
 
 **Weapon training**: The shadelaird retains all weapon training it had in life, and has a total number of additional levels of training to distribute as it wishes equal to the greater of its [Rflx] bonus or [Body] bonus.
 
