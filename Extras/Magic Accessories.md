@@ -86,19 +86,19 @@ A fine ring with a twisting pattern engraved.
 Unique.  
 Neg.  
 A silver ring clutching a very small blue diamond.
-**After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
+*After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
 
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
-When the user successfully hits a foe with an attack, including the attack of a spell, they may use their reaction to *impose one of the following:  
+When the user successfully hits a foe with an attack, including the attack of a spell, they may use their reaction to *impose one of the following*:  
 * Inflict a force attack againt the foe.
 * Inflict a cruching attack against the foe.
 * Inflict a force and a crushing attack against the foe.
 * Impose 1 yard of knockback against the foe.
 * Impose knockback against the foe a number of feet equal to the points of success of that attack.
 
-Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
+*Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
 **Ring of Resistance**, $8,500  
 Neg.  
