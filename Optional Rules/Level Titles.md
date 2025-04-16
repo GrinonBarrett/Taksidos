@@ -12,7 +12,7 @@ Each class can achieve a title upon reaching levels 5 and 8 of the class. A char
 | **Monk** | Portan | Journeyman | ***Master*** |
 | **Paragon** | Declamator | Charismatte | ***Eloquention*** |
 | **Rogue** | Scoundrel | Venturer | ***Freewalker*** |
-| **Sorcerer** | Source-Touched | Sourcerai | ***Source-Blood*** |
+| **Sorcerer** | Source-Touched | Sorserai | ***Source-Blood*** |
 | **Warrior** | Fighter | Hero | ***Superhero*** |
 | | | | |
 | **Desultor** | Sely | Vagari | ***Saeligar*** |
