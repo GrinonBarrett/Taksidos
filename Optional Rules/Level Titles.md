@@ -9,7 +9,7 @@ Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A
 | **Cleric** | Kultai | Priest | Hierophant | ***Kazerai*** |
 | **Evoker** | Blaster | Adept | Defter | ***Lither*** |
 | **Magi** | Ulmagi | Archmagi | Ulemanteir | ***Archemanteir*** |
-| **Monk** | Learner | Portan | Journeyman | ***Master*** |
+| **Monk** | Learner | Portan | Elder | ***Master*** |
 | **Paragon** | Hearte | Declamator | Charismatte | ***Eloquention*** |
 | **Rogue** | Rambler | Scoundrel | Venturer | ***Freewalker*** |
 | **Sorcerer** | Source-Touched | Yiftomantai | Source-Blood | ***Qerai*** |
