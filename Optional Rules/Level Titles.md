@@ -1,21 +1,21 @@
-Each class can achieve a title upon reaching levels 3 and 8 of the class. A character that specializes in their class also gains the next tier of title for their class. This provides a special title for those of sufficient level who specialize in their class. This also means one that specializes at level 5 goes immediately to their level 8 title.
+Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A character that specializes in their class also gains the next tier of title for their class. This provides a special title for those of sufficient level who specialize in their class. This also means one that specializes at level 5 goes immediately to their level 8 title.
 
-| **Class** | Level 3 | level 8 | ***Prestigious Title*** |
-|-------|---------|---------|-------------------|
-| **Arcanist** | Arcanciar | Wizard | ***Manceri*** |
-| **Assassin** | Sellsword | Blackguard | ***Deathchooser*** |
-| **Bard** | Brigand | Loreseeker | ***Mythogen*** |
-| **Berserk** | Barbarian | Battlerager | ***Ragecrier*** |
-| **Cleric** | Kultai | Priest | ***Hierophant*** |
-| **Evoker** | Adept | Defter | ***Lither*** |
-| **Magi** | Ulmagi | Archmagi | ***Archemanteir*** |
-| **Monk** | Portan | Journeyman | ***Master*** |
-| **Paragon** | Declamator | Charismatte | ***Eloquention*** |
-| **Rogue** | Scoundrel | Venturer | ***Freewalker*** |
-| **Sorcerer** | Source-Touched | Sorserai | ***Source-Blood*** |
-| **Warrior** | Fighter | Hero | ***Superhero*** |
+| **Class** | Level 3 | level 8 | level 10 | ***Prestigious Title*** |
+|-----------|---------|---------|----------|-------------------------|
+| **Arcanist** | Arcanciar | Wizard | Grandeir | ***Manceri*** |
+| **Assassin** | Sellsword | Blackguard | Gravist | ***Deathchooser*** |
+| **Bard** | Brigand | Loreseeker | Epicist | ***Mythogen*** |
+| **Berserk** | Barbarian | Brute | Battlerager | ***Ragecrier*** |
+| **Cleric** | Kultai | Priest | Hierophant | ***Kazerai*** |
+| **Evoker** | Blaster | Adept | Defter | ***Lither*** |
+| **Magi** | Ulmagi | Archmagi | Ulemanteir | ***Archemanteir*** |
+| **Monk** | Learner | Portan | Journeyman | ***Master*** |
+| **Paragon** | Hearte | Declamator | Charismatte | ***Eloquention*** |
+| **Rogue** | Rambler | Scoundrel | Venturer | ***Freewalker*** |
+| **Sorcerer** | Source-Touched | Qerar | Source-Blood | ***Sorserai*** |
+| **Warrior** | Fighter | Ergate | Hero | ***Superhero*** |
 | | | | |
-| **Desultor** | Sely | Vagari | ***Saeligar*** |
-| **Invoker** | Conjurist | Summoner | ***Harbinger*** |
-| **Jester** | Disour | Tiggy | ***Denner*** |
-| **Mystic** | Witchea | Grim | ***Goetiar*** |
+| **Desultor** | Fool | Sely | Vagari | ***Saeligar*** |
+| **Invoker** | Forcaller | Conjurist | Summoner | ***Harbinger*** |
+| **Jester** | Disour | Tiggy | Madcap | ***Denner*** |
+| **Mystic** | Witchea | Antegrim | Grim | ***Goetiar*** |
