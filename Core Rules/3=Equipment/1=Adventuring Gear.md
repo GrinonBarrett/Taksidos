@@ -97,10 +97,10 @@ A metal spike which features a round butt for a handle, a cup to place a candle,
 Enough oil for about 12 hours of burning in a lamp or lantern.
 
 **Oil Lamp, $20, 2.5 lb.**  
-A simple pottery lamp with a wick. It is easily blown out by a light gust.
+A simple pottery lamp with a wick. It can be held or set upon a flat surface. It is easily blown out by a light gust. It provides fair light for 3 yards and dim light for 7 yards beyond that.
 
 **Oil Lantern, $40, 3.25 lb.**  
-An improvement over the lamp. The lantern is not snuffed as easily by a mere breeze.
+An improvement over the lamp. The lantern is not snuffed as easily by a mere breeze. It provides fair light for 2 yards and dim light for 8 yards beyond that.
 
 #### Pillows
 
