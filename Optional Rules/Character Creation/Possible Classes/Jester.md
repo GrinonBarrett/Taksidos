@@ -1,7 +1,7 @@
 # Jester
 A class much maligned by many a narrator, the jester is the sort of character who causes chaos in their presence. The entire class may be "reflavored" to be more serious despite performing unusual deeds, but most players choosing this class will opt for comedy.
 
-**Beginning Skills**: The Jester does not gain calss skills. 
+**Beginning Skills**: Select one of the following (Athletics, Carousing, Roping) 
 
 **Table-The Jester**
 
@@ -15,7 +15,7 @@ A class much maligned by many a narrator, the jester is the sort of character wh
 | 6th   | 3  |    +5    | Hasty, Jugglist                                   |
 | 7th   | 3  |    +6    | Shennanigannery, Stand-Out Performance            |
 | 8th   | 3  |    +7    | Attribute Improvement, Ungovernable               |
-| 9th   | 4  |    +8    | Encore, Outrageous                       |
+| 9th   | 4  |    +8    | Encore, Outrageous                                |
 | 10th  | 4  |    +8    | Splash or Specialize                              |
 
 
@@ -94,7 +94,7 @@ You may expend buffoonery as an action or reaction to increase or reduce another
 
 #### Splash
 If you splash jester as a member of another class, you gain the following:  
-You gain a language of your choice, training in a weapon of your choice, the Shenanigannery feature, and Jack of All Trades feature.
+You gain a language of your choice, training in a weapon of your choice, a skill of your choice, the Shenanigannery feature, and Hasty feature.
 
 #### Shenanigans
 
