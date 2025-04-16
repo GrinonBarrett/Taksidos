@@ -12,7 +12,7 @@ Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A
 | **Monk** | Learner | Portan | Journeyman | ***Master*** |
 | **Paragon** | Hearte | Declamator | Charismatte | ***Eloquention*** |
 | **Rogue** | Rambler | Scoundrel | Venturer | ***Freewalker*** |
-| **Sorcerer** | Source-Touched | Qerar | Source-Blood | ***Sorserai*** |
+| **Sorcerer** | Source-Touched | Yiftomantai | Source-Blood | ***Qerai*** |
 | **Warrior** | Fighter | Ergate | Hero | ***Superhero*** |
 | | | | |
 | **Desultor** | Fool | Sely | Vagari | ***Saeligar*** |
