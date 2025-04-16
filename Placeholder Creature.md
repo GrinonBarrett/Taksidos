@@ -88,7 +88,8 @@ A true dragon of fear. He has taken residence in a mountain passage built by an 
 -----
 
 **Dragon of Fear**: All dragons are empowered by thier core obsession. For Capralzeryx, it is fear. It is like meat to his hunger, and the suffering of others is his wine. He will do whatever he can think of to induce fear in others. If the vergranne are still afraid of him, he will have his maximum hitpoints increased by 2 and gain a +1 to all checks, saves, and attack rolls. For each player character afraid of him, he will have an additional +1 to all checks and saves. Additionally, he gains a +4 bonus to attack rolls and defense against any creature that fears him.
-If for some reason Capralzeryx is being used outside of the intended encounter, treat any village as the Vergranne settlement. This bonus is cumulative if he manges to get multiple towns and villages to fall victim to his ways.
+If for some reason Capralzeryx is being used outside of the intended encounter, treat any village as the Vergranne settlement. This bonus is cumulative if he manges to get multiple towns and villages to fall victim to his ways.  
+If Capralzeryx becomes afraid of something, he suffers a -2 to attacks and defense against it and a -3 to saves against its abilities.
 
 **Mighty Slam**: When he successfully strikes a foe with his slam or tail attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, Capralzeryx knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by his weight in stones divided by the foe's weight in stones. If he had a critical success, the foe is also vulnerable while they are prone.
 
@@ -109,7 +110,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Decombustion
 * Fallen Words
 * Havery
-* Hypoaftepathy (which it will use to create a false copy of itself)
+* Hypoaftepathy (which he will use to create a false copy of itself)
 * Mortal Masque
 * Portalence
 * Rotword
