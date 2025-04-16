@@ -16,7 +16,7 @@ A true dragon of fear. He has taken residence in a mountain passage built by an 
 [Prcp] 18 (+6)  
 [Empy] 12 (+4) 
 
-**Languages**: Arloukuazh speaks {3 languages}.
+**Languages**: Capralzeryx speaks {3 languages}.
 
 **Run Speed**: He may run up to 9 yards per move.
 
