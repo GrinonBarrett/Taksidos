@@ -46,8 +46,8 @@ Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well
 *For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer us of great size, during the first round of any combat, the user's defense is increased by 1*.
 
 **The Iron Band**, $75,000  
-Unique
-Neg.
+Unique  
+Neg.  
 A ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
 * *Weight*. The creature's weight is increased by 1/3.
 * *Thermal Resistance*. The form of Ironside provided by this ring does not grant Advantage/Disadvantage to fire or cold attacks against the wearer.
