@@ -22,6 +22,8 @@ For this update:
 
 -----
 
+Hydorythros, a red substance that functions much like mercury and can power magic effects.
+
 A pot you put on an open fire for 2d6+38 minutes. Once ready, the pot explodes and a large loaf of bread pops up. If it is not caught, it will land in the fire.
 
 Make a Crocutta based creature.
