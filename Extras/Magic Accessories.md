@@ -23,6 +23,10 @@ Unique.
 Neg.  
 A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop handle which allows it to be worn as a necklace. *The wearer gains a +1 bonus to all [Prcp] checks and saves involving visions. Additionally, a wearer capable of casting spells in some manner is able to spend an entire round focuing on the bauble. This causes it to expand in size, becoming a Sferakoz which is psychically linked to the wearer. It follows the wearer's command. If the sferakoz is destroyed, the bauble shatters. The wearer may spend a whole round in phsyical contact with the sferakoz to shrink it back down into its bauble form. While in its bauble form, the sferakoz is considered to be resting. If it rests for a whole week, it can benefit from an additional full rest for every whole week it is inactive. If the bauble would be destroyed in its basic item state, it forms a sferakoz which is hostile to all creatures and will never return to its bauble form*.
 
+**Crosse Lantern**, $250  
+4 lb.  
+A lantern designed for use by a subterranean people. It has two loops for handles to make it easy to suspend it with rope. *The color of the flame changes color depending on whether or not there is a creature of the following types (drakomadiae, elemental, ephemera, monster) within 30 yards. To the human eye, the flame is normally a yellow-orange but will shift to a red color. Other eyes may see the color change differently, but will certainly notice it. So long as it is not in any area which supresses magic, it provides dim light out 15 yards. Otherwise,* it functions as a standard lantern. Regardless, it consumes oil at the same rate as a lantern.
+
 **Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
