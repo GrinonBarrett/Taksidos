@@ -99,6 +99,8 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 
 **Throw Voice**: So long as he can perceive it, Capralzeryx may have the sound of his voice originate from any point.
 
+**Menace**: As an action, anything which can perceive Capralzeryx must succeed a [Will] save with a DV equal to Capralzeryx's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. Capralzeryx may use its reaction to impose disadvantage on the save of a creature it can perceive.
+
 **Draconic Magic**: He is capable of casting spells using wyrding and uses his [Empy] as his [Magic]. He adds his [Empy] bonus to his spellchecks and counterspell checks. He knows the following spells;  
 * Absenting
 * Alarum
