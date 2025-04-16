@@ -64,13 +64,13 @@ A true dragon of fear. He has taken residence in a mountain passage built by an 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
+|   2    | Crippled          | His movement speed is halved until this wound is healed.      |
 |   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
 |   5    | Glancing Blow     | No ill effect. |
 |   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Glancing Blow     | No ill effects _this time_.                                     |
+|   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Beat Up           | It loses an additional hitpoint. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
@@ -99,6 +99,8 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 **Swallow Whole**: If he successfully bites a creature of at least two size categories or smaller, he may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
 
 **Throw Voice**: So long as he can perceive it, Capralzeryx may have the sound of his voice originate from any point.
+
+**Misleading Stride**: As a reaction to his own movement, *he may simultaneously cloak himself from vision, rendering him invisible, while seamlessly producing an illusory double of himself continuing the movement on his behalf. This entity has no hitpoints, retains Capralzeryx's hover speed, have no senses, and cannot physically interact with anything. Any attack roll of 9 or greater will destroy it, as will anything requireing it to make a save. This incurs 1d4+2 points of spell sickness immediately and an additional point per whole minute it maintains the illusion. If Capralzeryx loses concentration, can no longer perceive the illusory entity, or moves (willingly or otherwise), the entity ceases to exist and he becomes visible to the naked eye again*. 
 
 **Menace**: As an action, anything which can perceive Capralzeryx must succeed a [Will] save with a DV equal to Capralzeryx's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. Capralzeryx may use its reaction to impose disadvantage on the save of a creature it can perceive.
 
