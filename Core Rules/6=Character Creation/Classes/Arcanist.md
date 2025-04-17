@@ -10,7 +10,7 @@ Students of arcane magic. Arcanists are capable of memorizing spells broken into
 | 1st   | 1  |    +1    | Arcane Proficiency, Arcane Study                  |
 | 2nd   | 1  |    +2    | Arcanae, Magic Press                              |
 | 3rd   | 1  |    +3    | Attribute Improvement, Phased Strike              |
-| 4th   | 1  |    +4    | Disruptive Strike, Spell Leack                    |
+| 4th   | 1  |    +4    | Disruptive Strike, Spell Leak                     |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
 | 6th   | 2  |    +5    | Attribute Improvement, Improved Studies           |
 | 7th   | 2  |    +6    | Arcane Deflection                                 |
