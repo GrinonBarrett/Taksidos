@@ -3,7 +3,7 @@
 If multiple conditions would have a creature choose to forfeit their turn during an action phase, it forgoes turns during both phases.
 
 ##### Archblight
-Archblight is a condition not easily obtained and not easily lost. Multiple instances of archblight can be accrued. One afflicted by spellblifht suffers a -1 to spellchecks, counterspell checks, and saves against magic. The only way it xan be removed, is to be lost like a wound by a magical effect which restores wounds.
+Archblight is a condition not easily obtained and not easily lost. Multiple instances of archblight can be accrued. One afflicted by archblight suffers a -1 to spellchecks, counterspell checks, and saves against magic. The only way it can be removed, is to be lost like a wound by a magical effect which restores wounds.
 
 ##### Dazed
 The creature may perform only a single movement, a single rotation, and must forfeit its turn during either action phase. Additionally, there is a 50% chance it simply loses its reaction when trying to use a reaction.
