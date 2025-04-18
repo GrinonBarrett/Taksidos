@@ -20,7 +20,7 @@ For this update:
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword, mace, and spear are done and one thrown blade done as well)
 * Create a necrotic version of a fireball spell that has a variable explosion size.
-* A spectral arachnid type creature, but not spider, rainbow themed, which has webbing and blinding capablities and only 6 legs. body has three section
+* A spectral arachnid type creature, but not spider, rainbow themed, which has webbing and blinding capablities and only 6 legs. Body has three sections. Move in groups of 1d6+3. Not affected by light levels so long as there is light from another source (which is why they hunt in packs). Can emit bright light. Frequently casts spectral burst. Immune to radiant attacks. Can teleport short distances, causing a blinding light where they appear. Low health. Vulnerable to Fire and crushing.
 
 -----
 
