@@ -1,13 +1,13 @@
-#### Vile Vibrations
+#### Wild Orb
 
-**Minimum Tier**: 2
+**Minimum Tier**: 3
 
-**Casting Time**: 2 actions
+**Casting Time**: 5 actions
 
-**Range**: 3 yards
+**Range**: 30 + [Magic] bonus yards
 
-**Effect**: You produce a shockwave which inflicts a sonic against evrything within range. You are vulnerable until the end of the round.
+**Effect**: You produce translucent orb wrapped in swirling shadows, just a few inches in diameter, which is then directed in a straight line to a point you designate within range. Upon impact, it implodes. The size of this effect is variable, affecting everything within 1d12+6 yards. Anything caugt within the area is subject to a Necrotic attack.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's range by 1 yard.
+**At Higher Tiers**: Each tier beyond its minimum can can affect the implosion radius (increasing or decreasing) by 1 yard, this decision is made after the d12 is rolled.
 
-**Critical Failure**: You still produce the shockwave, but it suffers a -4 penalty to the attack roll, but you are also attacked while still being vulnerable until the end of the round.
+**Critical Failure**: Instead of forming the orb, the shadows swirl around you. For a number of rounds equal to the spell's tier, you are subject to a necrotic attack at the end of each round. When one of these attacks fails to harm you, you accrue a point of spell sickness. You also have disadvantage on all [Prcp] checks and saves during this time. 
