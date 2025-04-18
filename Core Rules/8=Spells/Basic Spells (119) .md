@@ -260,11 +260,13 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Range**: 50 yards
 
-**Effect**: You bestow an incredible force upon a creature or object you can perceive within range. This spell inflicts 3 crushing attacks against it as its body forces in upon itself. A creature killed this way will be a crumpled puddle. An object curshed this way crombles completely.
+**Effect**: You bestow an incredible force upon a creature or object you can perceive within range. This spell inflicts 3 crushing attacks against it as its body forces in upon itself. A creature killed this way will be a crumpled puddle. An object crushed this way crumbles completely.
+
+If you spell check with a critical success, the foe must succeed a [Fort] save or lose 1 hitpoint before the attacks are applied (if they have any). This spell cannot affect Eldritches with more hitpoints than the spell's tier, Ephemera, or Avatars.
 
 **At Higher Tiers**: Each tier beyond minimum sees the attacks each gain a +1 bonus for the purpose of determining if they are critical hits.
 
-**Critical Failure**: Your attempt at conjuring forces of pressure have backfired. You are afflicted by Archeblight and have an undamaging attack inflicted against you with a bonus equal to the spell's tier for the purpose of determining a critical hit.
+**Critical Failure**: Your attempt at conjuring forces of pressure have backfired. You are afflicted by Archeblight and have an unlisted damage attack inflicted against you with a bonus equal to the spell's tier for the purpose of determining a critical hit.
 
 #### Conjure Water
 
@@ -705,7 +707,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (3
+### G (4
 
 #### Glitter
 
@@ -1628,7 +1630,7 @@ THe caster may affect an additional creature through touch. The total time passe
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
 
-### U (2
+### U (3
 
 #### Undying Globe
 
@@ -1652,6 +1654,24 @@ You may concentrate on this spell when you cast it, forfeiting actions to do so.
 
 **Critical Failure**: The sphere forms as normal, but does not move with you. You find it impossible to even attempt to leave. At the end of each phase, it shrinks by 1 foot. Once it finally shrinks to the point that it must collapse in on you, it inflicts a number of necrotic attacks against you equal to the tier of the spell. An immunity to the harm of necrotic damage does not protect you from this, but instead has the attacks made with disadvantage.
 
+#### Unmaking Aura
+
+**Minimum Tier**: 5
+
+**Casting Time**: 4 actions
+
+**Range**: 5 yards
+
+**Duration**: As long as you concentrate on the spell, up to 5 rounds
+
+**Effect**: You reach out around you with unnatural power. For the duration of the spell, the aura moves with you at the center of it. At the end of each round, this spell inflicts a crushing attack against 3 creatures- The nearest creature to you in range, the heavist creature in range (other than you), and a creature of your choice within range. It is possible for two or three attacks from this spell to affect a creature.
+
+This spell cannot affect ephemera.
+
+**At Higher Tiers**: Each tier beyond minimum sees the maximum number of rounds the aura can last increased by 1.
+
+**Critical Failure**: You produce the aura and do not need to concentrate on it for it to remain, although instead of geeting to choose a creature to attack, it will attack you. Additionally, if you are heavier than any other creature in range, that attack is inflicted against you. Furthermore, if no other creature is within range, another attack is inflicted against you. This can harm you even if you would otherwise be immune to crushing attacks.
+
 #### Unrest for Undeath
 
 **Minimum Tier**: 3
@@ -1660,7 +1680,7 @@ You may concentrate on this spell when you cast it, forfeiting actions to do so.
 
 **Range**: 3 yards
 
-**Effect**: From you emits a circle of energy which distrubs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, raadiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
+**Effect**: From you emits a circle of energy which disturbs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, raadiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
 Any undead creature first affected by the circle of the spell is subject to an undamaging attack. If it is a critical sucess, the creature is destroyed.
 
 You may concentrate on this spell when you cast it, forfeiting actions, reactions, and movement to do so. If you do, at the end of each action phase, the effects of the ciricle are applied again. Furthermore, you may use your reaction to inflict an additional attack against an undead or ephermal creature of a type not chosen from the options of the circle without breaking your concentration on the spell. Note that a creature is only affected by the undamaging attack the first time the casting of the spell affects it.
