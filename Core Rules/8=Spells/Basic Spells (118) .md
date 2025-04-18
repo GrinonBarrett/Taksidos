@@ -236,7 +236,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
 
-### C (3
+### C (4
 
 #### Call Lightning
 
@@ -251,6 +251,20 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is tripled.
 
 **Critical Failure**: The spell instead targets the closest creature to you. If no creature is within half of the range of this spell, it instead attacks you.
+
+#### Collapse
+
+**Minimum Tier**: 4
+
+**Casting Time**: 2 actions
+
+**Range**: 50 yards
+
+**Effect**: You bestow an incredible force upon a creature or object you can perceive within range. This spell inflicts 3 crushing attacks against it as its body forces in upon itself. A creature killed this way will be a crumpled puddle. An object curshed this way crombles completely.
+
+**At Higher Tiers**: Each tier beyond minimum sees the attacks each gain a +1 bonus for the purpose of determining if they are critical hits.
+
+**Critical Failure**: Your attempt at conjuring forces of pressure have backfired. You are afflicted by Archeblight and have an undamaging attack inflicted against you with a bonus equal to the spell's tier for the purpose of determining a critical hit.
 
 #### Conjure Water
 
