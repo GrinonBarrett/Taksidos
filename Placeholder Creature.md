@@ -1,4 +1,4 @@
-### Canucorryn
+### ???
 Found in the remains of locations devastated by fire. Canucorryn are born by the combined energy of the malicious focus of an arson and pained torture of its victims. They are typically territorial over the place where their birth hearth lay, but can become wildly destructive forces if provoked or forced to relocate. Many wildfires have been attributed to such creatures. The collective noun is a Raze.
 
 **Creature Type**: Canucorryn are Fiends.
