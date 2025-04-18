@@ -1729,7 +1729,7 @@ Treat the "voice" of the spell as being one of another creature you are familiar
 
 **Critical Failure**: The message fails to reach anything.
 
-### W (7
+### W (8
 
 #### Wall of Denial
 
@@ -1806,6 +1806,20 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary phase, you incur 1d2-1 points of spell sickness. You are prone during this time.
+
+#### Wild Orb
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 30 + [Magic] bonus yards
+
+**Effect**: You produce translucent orb wrapped in swirling shadows, just a few inches in diameter, which is then directed in a straight line to a point you designate within range. Upon impact, it seems to disappear. At the end of the round, it implodes from where it impacted. The size of this effect is variable, affecting everything within 1d12+6 yards. Anything caugt within the area is subject to a Necrotic attack.
+
+**At Higher Tiers**: Each tier beyond its minimum can can affect the implosion radius (increasing or decreasing) by 1 yard, this decision is made after the d12 is rolled.
+
+**Critical Failure**: Instead of forming the orb, the shadows swirl around you. For a number of rounds equal to the spell's tier, you are subject to a necrotic attack at the end of each round. When one of these attacks fails to harm you, you accrue a point of spell sickness. You also have disadvantage on all [Prcp] checks and saves during this time. 
 
 #### Wisp Away
 
