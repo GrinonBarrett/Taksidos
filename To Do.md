@@ -20,6 +20,7 @@ For this update:
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword, mace, and spear are done and one thrown blade done as well)
 * Create a necrotic version of a fireball spell that has a variable explosion size.
+* A spectral spider, rainbow themed, which has webbing and blinding capablities and only 6 legs.
 
 -----
 
