@@ -1715,11 +1715,11 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Range**: 3 yards
 
-**Effect**: You produce a shockwave of disresonate energy waves, which inflicts a sonic against evrything within range. You are vulnerable until the end of the round.
+**Effect**: You produce a shockwave of disresonate energy waves, which inflicts a sonic against everything else within range. You are vulnerable until the end of the round.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's range by 1 yard.
 
-**Critical Failure**: You still produce the shockwave, but it suffers a -4 penalty to the attack roll, but you are also attacked while still being vulnerable until the end of the round.
+**Critical Failure**: You still produce the shockwave, but it suffers a -4 penalty to the attack roll and attacks you. You are still vulnerable until the end of the round, including when you are attacked by the spell.
 
 #### Vlepancy
 
