@@ -15,7 +15,7 @@ A longsword with a reach of 1.5 yards. It can be wielded with two hands to be tr
 **Banta's Staff** (*unique*)  
 $4,800,  2 lbs.  
 Staff  
-Uses [Rflx]. Can produce a Bolt attack. Contains the spell *Flechette*.
+An unassuming walking stick which appears to be made of pine, it features a steel band and brass band at its top. Uses [Rflx]. Can produce a Bolt attack. Contains the spell *Flechette*.
 
 **The Brazier** (*unique*)  
 $7,500, 3 lbs.  
