@@ -12,6 +12,11 @@ $12,000 , 5 lbs.
 Longsword  
 A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
 
+**Banta's Staff** (*unique*)  
+$4,800,  2 lbs.  
+Staff  
+Uses [Rflx]. Can produce a Bolt attack. Contains the spell *Flechette*.
+
 **The Brazier** (*unique*)  
 $7,500, 3 lbs.  
 Flail  
