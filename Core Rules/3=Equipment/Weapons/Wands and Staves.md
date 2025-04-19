@@ -63,9 +63,13 @@ Contains the spell *Rotword*.
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Flare*.
 
+**Staff of Missilry**, $4,800  
+Uses [Inte]. Can produce a force attack.  
+Contains the spell *Flechette*.
+
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
-Contains the spell *Flechette*.
+Contains the spell *Fragmentation*.
 
 **Staff of the Storm Mage**, $4,800  
 Uses [Will]. Can produce a cold attack.  
