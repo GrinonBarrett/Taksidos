@@ -10,4 +10,4 @@
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1.
 
-**Critical Failure**: You fail to properly form they prjectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
+**Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
