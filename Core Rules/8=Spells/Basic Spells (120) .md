@@ -503,7 +503,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (13
+### F (14
 
 #### Fallen Words
 
@@ -614,17 +614,17 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 
 #### Flechette
 
-**Minimum Tier**: 2
+**Minimum Tier**: 3
 
-**Casting Time**: 3 actions
+**Casting Time**: 1 action
 
-**Range**: 1 foot
+**Range**: Yards equal to the spellcheck's points of success
 
-**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you deisgnate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession and is lost.
+**Effect**: You produce up to 3 magical projectiles which can each inflict a thrown blade attack against a creature in range. You may use your reaction to change the damage type of one of the projectiles to be an exotic damage type of your choice. If the spell check was a critical success, each thrown blade attack inflicted by this spell gains a bonus equal to your [Magic] bonus for the purposes of determining if it was a critical hit. 
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1.
 
-**Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
+**Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
 
 #### Fortify
 
@@ -639,6 +639,20 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 1 day and the casting time by 10 minutes.
 
 **Critical Failure**: You have managed to compromise your own health in the process. The spell is completed as normal, but you have disadvantage on saves against diseases and poisons and the attacks of such things gain advantage against you for the duration of the spell.
+
+#### Fragmentation
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 1 foot
+
+**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you deisgnate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession and is lost.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
+
+**Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
 
 #### Frost Lance
 
