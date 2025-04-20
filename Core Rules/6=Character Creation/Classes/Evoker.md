@@ -27,7 +27,7 @@ When you perform a counterspell check, you may add your [Body] bonus.
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Will].
 
 ### Ki Step
-You may spend at least 2 points of ki to instantly move up to a number of yards equal the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them.
+You may spend at least 2 points of ki to instantly move up to a number of yards equal the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you- bit have disadvantage.
 
 ### Super Techniques
 You are capable of learning special techniques which harness your ki in more powerful ways. You may learn a total number of super techniques equal to your heroism.
