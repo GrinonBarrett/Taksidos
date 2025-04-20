@@ -49,7 +49,7 @@ Choose an attribute. It is improved by 1. You gain training in a weapon of your 
 
 ### 6) Superior Ki Power
 When you hit a foe with your Ki Blast, Empowered Strike, or Empowered Slam- you may apply one of the below effects by using your reaction:  
-* The foe is knocked back. Treat as a shove, with you using the points of success on the attack in place of your weight.
+* The foe is knocked back. Treat as a shove, with you using the points of success on the attack in place of your weight (in stones).
 * You attempt to knock the foe off balance, causing an opposed [Body] check. If you succeed, the foe is knocked prone.
 * You take aim against that foe.
 * If foe is within 1 yard, you may appear in any unoccupied space adjacent to them. You may choose to have this begin a brawl or not.
