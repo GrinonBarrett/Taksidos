@@ -7,7 +7,7 @@ Giants of a more civilized demeanor than most. Grandfolk societies are not dissi
 
 **Ability Score Modification**: Choose an attribute. It is increased by a 1.
 
-**Languages**: You gain competency in the Common Tongue and one other language of your choice.
+**Languages**: You gain competency in the Common Tongue, Jotine, and one other language of your choice.
 
 **Run Speed**: You may run up to 6 yards per move.
 
@@ -72,5 +72,5 @@ You gain an edge of your choice (see Rogue class).
 Your [Body] is increased by 1.
 
 **Forests**: Grandfolks which have sought to fill the role they believe they are to fulfil in the natural order. They are sometimes called Glade-Kin.  
-You learn a language of your choice.  
-Each of your attributes are increased by 1.
+You learn theWild.Tongue. If you already were fluent in this language, you learn a language of your choice.  
+Each of your attributes are increased by 2.
