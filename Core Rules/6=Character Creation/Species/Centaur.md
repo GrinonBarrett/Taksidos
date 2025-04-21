@@ -54,4 +54,6 @@ Choose an attribute. It is increased by 1.
 
 **Gallop**: If you sprinted twice this round, you may use your reaction to perform a move.
 
-**Limited Trample**: A centaur can trample as though it were a mount, in place of brawling, if it makes contact as a result of sprinting or its gallop ability. Additionally, if it slams a foe, it inflicts an unarmed attack against that foe.  
+**Limited Trample**: A centaur can trample as though it were a mount, in place of brawling, if it makes contact as a result of sprinting or its gallop ability. Additionally, if it slams a foe, it inflicts a bare attack against that foe.  
+
+**Non-cavalier**: A centaur cannot ride a mount of the same size and must ride a mount of one size category larger than itself. This requires a custom saddle be made for use.
