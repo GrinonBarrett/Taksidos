@@ -8,6 +8,7 @@ A reptilian species which was instrumental in the founding of the Meolasine Empi
 **Ability Score Increase**: As an etrid, you have the following adjustments to your attributes;  
  -1 [Empy]  
  +1 [Body]  
+ +1 [Fort]  
  Choose an attribute. It is increased by 1.
 
 **Languages**: You gain competency in the Common Tongue, Meolas, and one other language of your choice.
@@ -18,7 +19,7 @@ A reptilian species which was instrumental in the founding of the Meolasine Empi
 
 **Swim speed**: You may swim up to 2.5 yards per move, presuming the water isn’t too rough.
 
-**Unarmed Attacks**: Your unarmed attacks may be treated as slashing attacks.
+**Unarmed Attacks**: Your unarmed attacks may be treated as cutting attacks.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
