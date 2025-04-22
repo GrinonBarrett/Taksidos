@@ -103,13 +103,13 @@ This creature is covered in proto-feathers. Instead of traditional talons, it ha
 
 **Thagomizer Swing**: Once per round, when its unarmed attack would be a critical hit or it slams a brawling opponent, it may use its reaction to do one of the following;
 
-* It may have that creature perform a [Body] save with a DV equal to its [Body] score. On a failure, that creature is knocked prone until the end of the round. On a critical failure, it is also vulnerable during this time.  
+* It may have that creature perform a [Body] save with a DV equal to the uelgaruistor's [Body] score. On a failure, that creature is knocked prone until the end of the round. On a critical failure, it is also vulnerable during this time.  
 If the foe has a greater [Rflx] score than the uelgaruistor, it gains advantage on the save.
 
 * Inflict a Club attack against that creature.
 
 * Inflict a Piercing attack against that creature.
 
-**Rending Claws**: As an additional option when it succeeds a critical success while brawling, it may claw the foe whom it is brawling. This is treated as a Cutting attack (ignoring the penalty for the attack while brawling).
+**Rending Claws**: As an additional option when it succeeds a critical success while brawling, it may claw the foe whom it is brawling. This is treated as a Cutting attack , ignoring the penalty for the attack while brawling.
 
-**Vicious Bite**: As an additional option when it succeeds a critical success while brawling, it may bite the foe whom it is brawling. This is treated as a Biting attack (ignoring the penalty for the attack while brawling)
+**Vicious Bite**: As an additional option when it succeeds a critical success while brawling, it may bite the foe whom it is brawling. This is treated as a Biting attack, ignoring the penalty for the attack while brawling.
