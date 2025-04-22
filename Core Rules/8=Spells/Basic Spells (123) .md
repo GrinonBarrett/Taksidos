@@ -1069,7 +1069,25 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: You find yourself subject to the forces of the kiss instead, even if you are normally unaffected by incapacitation saves.
 
-### L (1
+### L (2
+
+#### Landing
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take before you would impact with a surface you can perceive while falling or being knocked back
+
+**Range** 3 yards
+
+**Effect**: You mangae to divert some of the force of your impact. Divide the feet you travled as a result of the fall or knockback by the number of other creatures within range. Then apply falling/knockback damage to each creature within range as though all were affected by it. If no other creatures were within range, you simply reduce your fall distance by number of yards equal to the spell's tier + your [Magic] bonus.
+
+A critical success with the spell check will allow you to modify the distance applied to you (after any division of distance) by a number of feet equal to the points of success. 
+
+Alternatively, you could cast this spell in anticpation of coming in contact with a creature travelling as a result of falling/knockback. If you do, and it would be reasonable to assume that you make contact, treat it as the subject of the spell.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to modify the range of the spell by 1 per tier beyond 2nd.
+
+**Critical Failure**: You instead increase the effect distance of your fall/knockback, in feet, by the points of failure multiplied by the spell's tier. If you cast it on another creature, it is protected from the fall/knockback damage, and you take it instead- including the aforementiond penalty for critically failing the spell check.
 
 #### Lava Axe
 
