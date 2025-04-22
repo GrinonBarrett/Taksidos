@@ -749,7 +749,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Effect**: You cause an explosion of reflective powder to burst out from a point you designate. This powder coats everything within 1d4+3 yards and hangs in the air for the duration. Anything within the initial explosion receives 1d2 points of spell sickness. Additionally, anything covered in the powder suffers a -1 to spellchecks, counterspell checks, and saves against spell. If a creature covered in the glitter brawls with, tramples, or is trampled by another creature- that creature also finds some of the shiny dust on themself (suffering the proper penalties). Radiant attacks moving through the cloud of powder have disadvantage. Illusory magics caused by spells of a tier less than half of this spell's has its nature exposed by the dust. Because is it a glittering powder, an invisible creature afflicted by it can still be tracked visually.
 
-Hypothetically, 5 hole minutes of fully submerged washing could preemtively dissolve the powder before its natural expiration.
+Hypothetically, 5 whole minutes of fully submerged washing could preemtively dissolve the powder before its natural expiration.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the duration by 1 minute or the range of the explosion by 1 yard.
 
