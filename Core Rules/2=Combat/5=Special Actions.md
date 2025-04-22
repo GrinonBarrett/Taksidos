@@ -97,7 +97,7 @@ You perform a move. You cannot do this while prone. If you already sprinted duri
 
 #### Stand to a Charge
 Reaction  
-This is treated as an attack of opportunity which is made in response to a foe's movement which would cause contact. The attack is made with advantage. You then suffer disadvantage on your opposed [Rflx] check in the ensuing brawl/trample.
+This is treated as an attack of opportunity which is made in response to a foe's movement which would cause contact. The attack is made with advantage. You then suffer disadvantage on your opposed check in the ensuing brawl, or the opposed [Rflx] check if a trample.
 
 #### Tag
 Action or Reaction  
