@@ -1,10 +1,12 @@
 #### BRAWLING
 
-A brawl occurs when two hostile combatants come in physical contact with each other. To determine the effects of a brawl, the attacker and defender make an opposed [Body] check* and an opposed [Rflx]* check. A success with either check will force the opponent to forfeit their turn during the next action phase. Success with both will also force the opponent to forfeit their turn during the following action phase, presuming they are still brawling. A critical success will allow that participant to choose between the following options: Grapple, Shove, or Slam. A critical success with both opposed checks allows that participant to choose two options instead.
-If both participants have a critical success, no one chooses an option.
+A brawl occurs when two hostile combatants come in physical contact with each other. To determine the effects of a brawl, the attacker and defender make an opposed check*. This check benefits from both [Body] bonus and  [Rflx] bonus. Anything which would affect a [Body] or [Rflx] check can affect such a check. A success will force the opponent to forfeit their turn during the next action phase. Success with both will also force the opponent to forfeit their turn during the following action phase, presuming they are still brawling. A critical success will allow that participant to choose between the following options: Grapple, Shove, or Slam.  
 A unit involved in a brawl cannot sprint and has all forms of movement reduced by half.
 
 *A character proficient in Wrestling adds their proficiency die to their checks.
+
+##### CONTINUING A BRAWL
+So long as both combatants are still in physical contact at the end of the movement phase, they are still brawling and must perform another opposed check.
 
 ##### Grappling
 A grappled creature is restrained. Anytime it would move or perform an action that requires physical motion (such as an attack or piloting a ship), it may attempt to break free of the grapple. A failure results in no effect. A success results in the creature breaking free but being unable to accomplish the action. A critical success breaks the grapple and allows the action to be undertaken. A critical failure results in the grappled creature suffering a -4 penalty to any future attempts to break free until the end of the same phase on the next round.

@@ -170,7 +170,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (4
+### B (5
 
 #### Behest
 
@@ -221,6 +221,20 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Bounding
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature within range leaping
+
+**Range**: 2 yards
+
+**Effect**: The leaping creature leaps in the same general direction, but traverses triple the distance they would otherwise.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the multiplier of the distance by one (i.e a single additional tier devoted this way would cause it to be triple) or increase the range by 3 yards.
+
+**Critical Failure**: You instead affect inflict kinetic shock against yourself. You are harmed exactly as though you feel a number of feet equal to the points of failure multiplied by the tier of the spell despite not moving. If you cast it in response to your own leaping, you immediately fall.
 
 #### Breaker Strike
 
@@ -735,7 +749,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Effect**: You cause an explosion of reflective powder to burst out from a point you designate. This powder coats everything within 1d4+3 yards and hangs in the air for the duration. Anything within the initial explosion receives 1d2 points of spell sickness. Additionally, anything covered in the powder suffers a -1 to spellchecks, counterspell checks, and saves against spell. If a creature covered in the glitter brawls with, tramples, or is trampled by another creature- that creature also finds some of the shiny dust on themself (suffering the proper penalties). Radiant attacks moving through the cloud of powder have disadvantage. Illusory magics caused by spells of a tier less than half of this spell's has its nature exposed by the dust. Because is it a glittering powder, an invisible creature afflicted by it can still be tracked visually.
 
-Hypothetically, 5 hole minutes of fully submerged washing could preemtively dissolve the powder before its natural expiration.
+Hypothetically, 5 whole minutes of fully submerged washing could preemtively dissolve the powder before its natural expiration.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the duration by 1 minute or the range of the explosion by 1 yard.
 
