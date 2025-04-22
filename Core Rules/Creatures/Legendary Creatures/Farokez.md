@@ -111,7 +111,7 @@ A monstrous thing. It propels itself primarily with its powerful hind legs, like
 
 **Great Leap**: The farkez's jumping distance is doubled.
 
-**Limited Infernal Regeneration**: So long as the farokez has its coin undamaged and in its possession, if it has a critical success when it performs an incapacitation save, it may use ts reaction to recover a hitpoint.
+**Limited Infernal Regeneration**: So long as the farokez has its coin undamaged and in its possession, if it has a critical success when it performs an incapacitation save, it may use its reaction to recover a hitpoint.
 
 **Ancient Coin**: The ancient coin pressed into its head is half-molded to it. If the coin is removed, it will become insane- pursuing it in anyway it can. Any rest it obtains, is treated as one category lesser. If the coin is damaged or destroyed, it is vulnerable until it is mended. If the coin has been destroyed, it loses 1 hitpoint every day. If it does not have any remaining hitpoints, it must perform an incapacitation save at the end of every minute.  
 When the coin is damaged or destroyed, it releases a massive amount of energy- inflicting a Ki, Necrotic, Toxic, and Undamaging attack against each creature within 2d4+6 yards. A creature successfully hit by the undamaging attack is knocked back a number of yards equal to the points of success. A critical hit also knocks a creature prone.
