@@ -127,7 +127,7 @@ Your power comes from the roaring seas. You gain the following:
 ##### The Sky
 Your power comes from the great above. You gain the following:  
 • Once per encounter, when you recieve a wound, you may use your reaction to move up to a number of yards equal to your level + heroism.  
-• As an additional option when getting a critical hit against a foe while brawling, you may inflict an electrical, cold, or sonic attack against that brawling foe.  
+• As an additional option when getting a critical hit against a foe while brawling, *you may inflict an electrical, cold, or sonic attack against that brawling foe*.  
 ##### Greater Dominion of The Sky
 • Cold and electric attacks against you have disadvantage.  
 • When one of your serviles inflicts a critical hit or thier attack roll is within 1 point of the minimum to succeed against a foe, and that foe is within a number of yards equal to your [Prcp], you may use your reaction to *take on a point of spell sickness and inflict an electric attack against the foe as a bolt of lighting arcs towards the foe*.
