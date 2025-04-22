@@ -27,7 +27,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 
 **Unarmed Attacks**:
 
- • Slam: The sferakoz may slam a foe it is brawling with. This is a melee club attack.
+ • Smack: The sferakoz may smack a foe it is brawling with. This is a melee club attack.
 
 -----
 
@@ -72,7 +72,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 **Tremendous Gaze**: As an action, the sferakoz can lock its gaze on another creature. If that creature can see the sferakoz- it must succeed an opposed [Will] check or stop whatever activity it is doing. This is treated as a brawl with the following differences;  
 
 * They are not in physical contact. This can limit what features a foe can use while brawling.
-* Only one opposed check is made at a time, it is a [Will] check.
+* The standard opposed check is not made, it is instead an opposed [Will] check.
 * The opposing creature cannot Shove, Slam, or Grapple the sferkoz. The sferkoz cannot Grapple this way, but it can Shove or Slam.
 * A creature does not benefit from the wrestling skill.
 * As an additional option upon achieving a critical success, an opposing creature may break the gaze. This ends the pseudo brawl and prevents the sferakoz from doing so against that foe for 24 hours.
