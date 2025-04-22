@@ -35,7 +35,7 @@ Additionally, when you perform a Feint against a creature (whether or not it was
 ### 3) Dire Dispose
 If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If it was a melee attack, you may choose one of the following:
 * You gain advantage on this attack.
-* You may close the distance into a brawl, gaining advantage on either the [Body] or [Rflx] check.
+* If it was a melee attack, you may close the distance into a brawl. If you do, you may choose to replace your lowest die result with your hoerism.
 * You may slam the foe.
 * You may shove the foe.
 
