@@ -24,7 +24,7 @@ Phantasms that appear briefly in service to other dark forces. Their exact origi
 
 **Unarmed Attacks**;
 
-• Slam: The spiteling may strike a foe within 1 yard with a limb, inflicting a bare attack.
+• Smack: The spiteling may strike a foe within 1 yard with a limb, inflicting a bare attack.
 
 • Ghastly Strike: The spiteling may strike a foe it is brawling with, *inflicting a necrotic attack*.
 
