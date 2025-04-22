@@ -170,7 +170,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (4
+### B (5
 
 #### Behest
 
@@ -221,6 +221,20 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Bounding
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature within range leaping
+
+**Range**: 2 yards
+
+**Effect**: The leaping creature leaps in the same general direction, but traverses triple the distance they would otherwise.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the multiplier of the distance by one (i.e a single additional tier devoted this way would cause it to be triple) or increase the range by 3 yards.
+
+**Critical Failure**: You instead affect inflict kinetic shock against yourself. You are harmed exactly as though you feel a number of feet equal to the points of failure multiplied by the tier of the spell despite not moving. If you cast it in response to your own leaping, you immediately fall.
 
 #### Breaker Strike
 
