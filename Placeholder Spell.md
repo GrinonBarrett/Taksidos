@@ -1,17 +1,15 @@
-#### Wizzery
+#### Landing
 
 **Minimum Tier**: 2
 
-**Casting Time**: 5 Actions
+**Casting Time**: 1 reaction, which you take before you would impact with a surface you can perceive while falling or being knocked back
 
-**Duration**: 1 + [Magic] bonus minutes
+**Range** 3 yards
 
-**Effect**: You project a strange foaming fluid in a 5 yard line, which is .5 foot high and wide. Choose two different exotic damage types, one for protection and one for vulnerability. Anything within the line is covered in a strange concoction of your making for the duration of the spell. Attacks of the type choosen for protection have disadvantage against someone covered. Attacks of the type chosen for vulnerability have advantage against something covered this way. You may choose to spray a cone instead of a line, ut this reduces the range to one third.
+**Effect**: You mangae to divert some of the force of your impact. Divide the feet you travled as a result of the fall or knockback by the number of other creatures within range. Then apply falling/knockback damage to each creature within range as though all were affected by it. If no other creatures were within range, you simply reduce your fall distance by the spell's tier.
 
-A critical success with the spell check will allow you to produce an additional line as an action so long as there is still duration to the spell.
+A critical success with the spell check will allow you to modify the distance applied to you (after any division of distance) by a number of yards equal to your [Magic] bonus.
 
-A creature's Mucous feature protects it from this.
+**At Higher Tiers**: Each tier beyond minimum allows you to modify the range of the spell by 1 per tier beyond 2nd.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's line by 1 yard or the duration by 1 minute.
-
-**Critical Failure**: You manage to spray yourself with a strange fluid. Make a [Fort] save with a DV equal to the points of failure + the spell's tier. Attacks of both chosen types have advantage against you for a number of minutes equal to the points of failure.
+**Critical Failure**: You instead increase the effect distance of your fall/knockback, in feet, by the points of failure multiplied by the spell's tier.
