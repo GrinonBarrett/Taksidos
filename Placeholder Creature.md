@@ -5,26 +5,26 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 
 **Size**:  A canucorryn is just over 1 yard in length and just shy of a foot in height. They weigh between 45-70 pounds. They are small creatures.
 
-**Hitpoints**: A canucorryn has 2 hitpoints.
+**Hitpoints**: A canucorryn has no hitpoints.
 
 **Attributes**:  
 [Body] 9 (+3)  
-[Fort] 9 (+3)  
-[Rflx] 9 (+3)  
+[Fort] 12 (+4)  
+[Rflx] 13 (+4)  
 [Will] 9 (+3)  
 [Inte] 7 (+2)  
-[Prcp] 8 (+2)  
+[Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
 **Languages**: Canucorryn don't speak.
 
-**Run Speed**: It may run up to 4 yards per move.
+**Run Speed**: It may run up to 5 yards per move.
 
 **Climb Speed**: It may climb up a strong incline at a rate of 3 yards per move.
 
 **Unarmed Attacks**;
 
- • Claws: The canucorryn is capable of using its forward claws to cut a foe within 1 foot as a melee cutting attack.
+ • Bite: The canucorryn is capable of using its forward claws to cut a foe within 1 foot as a melee cutting attack.
 
 ---------------------
 
@@ -78,13 +78,6 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 ---------------------
 
 #### Special Features
-
-**Fiendish Nature**: The canucorryn's fiendish nature bestows it with a few particular features;  
- • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
- • Are not subject to bleeding.  
- • Are immune to diseases, poisons and venom.  
- • Gains a bonus to all saves equal to current hitpoints.  
- • Are not affected by spells which would affect the flesh.
 
 **Immunity**: The canucorryn is immune to any damage from fire attacks and any damage from non-magical cold attacks.
 
