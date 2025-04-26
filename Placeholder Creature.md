@@ -98,7 +98,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 -----
 
 ### Floating Brain Thing
-Hailing from the psychic plane, these monstrocities appear like some perversion of a squid. Their ten appendages ending in eye sockets, which seem capable of piercing the veil of mist around themselves. These eys seem to possess twin pupils which are perpatually oribting each other. The plural is Ajasim. Their collective noun is an invasion.
+Will have eye eye stalk. The plural is . Their collective noun is an invasion.
 
 **Creature Type**: Ajasim are Eldritch.
 
