@@ -1,11 +1,11 @@
-### ???
-Found in the remains of locations devastated by fire. Canucorryn are born by the combined energy of the malicious focus of an arson and pained torture of its victims. They are typically territorial over the place where their birth hearth lay, but can become wildly destructive forces if provoked or forced to relocate. Many wildfires have been attributed to such creatures. The collective noun is a Raze.
+### Arbreberakhor
+Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each ot their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odda when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
 
-**Creature Type**: Canucorryn are Fiends.
+**Creature Type**: Arbreberakhors are Insects.
 
-**Size**:  A canucorryn is just over 1 yard in length and just shy of a foot in height. They weigh between 45-70 pounds. They are small creatures.
+**Size**:  A canucorryn is just over 1.5 yards in length and beeteen 16" and 21" in height. They weigh between 60-80 pounds. They are small creatures.
 
-**Hitpoints**: A canucorryn has no hitpoints.
+**Hitpoints**: An arbreberakhor has no hitpoints.
 
 **Attributes**:  
 [Body] 9 (+3)  
@@ -16,15 +16,15 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 [Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
-**Languages**: Canucorryn don't speak.
+**Languages**: Arbreberakhors don't speak, but have been known to be more passive around creatures that speak the wild tongue.
 
-**Run Speed**: It may run up to 5 yards per move.
+**Run Speed**: It may run up to 9 yards per move.
 
-**Climb Speed**: It may climb up a strong incline at a rate of 3 yards per move.
+**Climb Speed**: It may climb up a strong incline at a rate of 6.5 yards per move.
 
 **Unarmed Attacks**;
 
- • Bite: The canucorryn is capable of using its forward claws to cut a foe within 1 foot as a melee cutting attack.
+ • Bite: The arbreberakhor is capable of biting a foe within 1 foot as a melee cutting attack.
 
 ---------------------
 
@@ -50,7 +50,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 |                            |        |              |        |            |       |
 | **Unlisted Damage Type** | 11 |    |     | **Undamaging** | 12 |
 
-**Table**: *Wound Allocation*
+**Table**: *Wound Allocation* {Still need to fix}
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
@@ -83,9 +83,9 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 
 **Wrestler**: The canucorryn has the Wrestling skill.
 
-**Web**: The canucorryn is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .15 per yard and strength 315. The web itself can burn, but is not easily deteriorated by fire. The web can burn for 1d20+d12 minutes before it starts to degrade, at which point it loses 10 strength per minute. Once extinguished, the web can only continue to resist fire if it is ignited by the canucorryn. The web is resistant to natural degradation.
+**Web**: The arbreberakhor is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .2 pound per yard and strength 400. *The web is resistant to natural degradation*.
 
-**Set Ablaze**: As an action or reaction, the canucorryn can ignite its web, venom, or any other flammable material/surface it is touching ablaze.
+**Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
 
 **Terrifying Leap**: Once per encounter, the canucorryn may quadruple its leap distance.
 
