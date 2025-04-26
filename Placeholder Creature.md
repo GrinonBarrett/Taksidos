@@ -189,7 +189,7 @@ If the kefalypor conumes a number of servings beyond what it needs during a day 
 
 **See Minds**: The kefalypor may use its concentration to see all non-mindless creatures within 15 yards, including creatures on the psychic plane. This vision projects out from the kefalypor as a globe. It is prone while doing so and cannot use any of its other senses, including its traditional form of vision.
 
-**Wyrding**: The kefalypor is capable of casting spells by wyrding. It knows the following spells () and adds its [Inte] bonus to spell checks and counter spell checks. It also treats its [Inte] as its [Magic] attribute.
+**Wyrding**: The kefalypor is capable of casting spells by wyrding. It knows the following spells (Psychilysis, Psychoburst, Stupify, Telekinesis) and adds its [Inte] bonus to spell checks and counter spell checks. It also treats its [Inte] as its [Magic] attribute.
 
 **Improved Speed**: *So long as it is not in an area in which magic is supressed, its movement speeds are doubled*.
 
