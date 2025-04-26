@@ -97,37 +97,33 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 -
 -----
 
-### Floating Brain Thing
-Will have eye eye stalk. The plural is . Their collective noun is an invasion.
+### Kefalypor
+Will have eye eye stalk. Their collective noun is brainstorm.
 
-**Creature Type**: Ajasim are Eldritch.
+**Creature Type**: Kefalypors are Monsters.
 
-**Size**: The "head" of the ajhas is about 1-1.5 yards in length, with their appendages stretching out another 8-9 yards. They weigh between 400-500 pounds. They are great creatures.
+**Size**: It weighs roughly half as many pounds as its [Inte] score.
 
-**Hitpoints**: An ajhas has 4 hitpoints.
+**Hitpoints**: A kefalypor has 0 hitpoints.
 
 **Attributes**:  
-[Body] 15 (+5)  
-[Fort] 21 (+7)  
-[Rflx] 18 (+6)  
-[Will] 15 (+5)  
+[Body] 5  (+1)  
+[Fort] 9  (+3)  
+[Rflx] 6  (+2)  
+[Will] 11 (+3)  
 [Inte] 12 (+4)  
-[Prcp] 13 (+4)  
-[Empy] 7 (+2)  
+[Prcp] 7  (+2)  
+[Empy] 5  (+1)  
 
-**Languages**: Ajasim don't speak.
+**Languages**: Kefalypors don't speak.
 
-**Levitation Speed**: It may levitate up to 12 yards per move so long as it is not dazed.
-
-**Swim Speed**: It may swim up to 12 yards per move, presuming the water isn’t too rough.
-
-**CLimb Speed**: It may climb up to 6 yards per round, presuming it is reasonable terrain to do so.
+**Levitation Speed**: It may levitate up to 1 yard per move. On the psychic plane, this is 9 yards.
 
 **Unarmed Attacks**;
 
- • Slam: The ajhas may use one of its appendages to strike a foe within 5 yard. This is a melee bare attack.
+ • Telecrash: The Kefalypor may reach out with its telekinetic powers and inflict a force attack. This has a range equal to its [Inte] score.
 
- • Bite: The ajhas may perform a single bite against a foe it is grappling. This is a melee bite attack.
+ • Telecrush: The kefalypor may reach out with its telkinetic powers and inflict a crushing attack. This has a range in yards of 1 + [Inte] bonus.
 
 -----
 
@@ -182,26 +178,12 @@ Will have eye eye stalk. The plural is . Their collective noun is an invasion.
 
 -----
 
-**Breathless**: The Ajhas does not need to breathe.
-
 **Enkefalophage**: An ajhas' hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. The ajhas does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately  gains those points of inebriataion.
 
-**Decappurtenant**: It has ten appendages which it can use as arms. It does not have mannipulators on the end, instead having sensory organs, so it cannot use items unless otherwise noted. Certain tasks which might require fine manipulation, such as trying to pick a lock, are done with disadvantage. It can rotate their vision as a result. This occurs when rotations would during the round. The ajhas can rotate their vision during the same or different phases that they rotate their body. Their appendages may each only rotate up to 90 degrees left or right per phase. Each appendage can move independantly. If the ajhas has more than 2 eyes focusing on something, it gains a +1 bonus to [Prcp] checks/saves for each additional appendage looking at the subject of the check/save. 
+**Limited Senses**: The ajhas has no sense of smell, taste, or hearing. It cannot receive stimuli from scents, tasts, or sounds in any capacity as a result (including illusory effects).
 
-**Psychic Vision**: Each of these eyes can see into the psychic plane, allowing them to see the presence of any non-mindless creature even through material cover. They can also see the transmission of telepathic commands and other forms of telepathic communication- though they do not understand it directly.
-
-**Limited Senses**: The ajhas has no sense of smell or hearing. It cannot receive stimuli from scents or sounds in any capacity as a result (including illusory effects).
-
-**Mighty Slam**: When the ajhas successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the ajhas' check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the ajhas' weight in stones divided by the foe's weight in stones. If the ajhas had a critical success, the foe is also vulnerable while they are prone.
-
-**Acidic Aura**: The ajhas constantly express a fine mist which can reach out up to 10 yards. After an ajhas leaves a space, this aura lasts in a space for twice as long as it remain in that space. At the end of each round, a creature in the aura is subject to an Acid attack. Additionally, anything which breathes in the aura must succeed a [Fort] save or incur hemorrhaging. The DV is equal to 10 + the number of rounds the creature has remained in the hour for the past minute. Additionally, all [Prcp] checks involving scent or vision through the bland colored mist have disadvantage. Light going through the mist will always seem dim. An ajhas is unaffected by this feature to any degree.
-
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
-
-**Acid Maw**: Any critical hit inflicted by the ajhas' bite attack is also treated as an acid attack. If the ajhas is grappling a great or smaller creature, and it successfully inflicts a bite attack, it may use its reaction to also inflict an acid attack. If the acid attack is a critical hit, it may inflict another bite attack.
-
-**Swallow Whole**: If the ajhas successfully grapples a creature of small or smaller size, it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
-
-**Stomach Acid**: Anything in the ajhas' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an acid attack. Even if the creature escapes, it is still subject to such an attack at the end of the round it escaped.
+**Mighty Slam**: .
 
 **Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
+
+**Weak**: The kefalypor's weight load limits are halved.
