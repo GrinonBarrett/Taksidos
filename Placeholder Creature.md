@@ -117,7 +117,7 @@ Will have eye eye stalk. Their collective noun is brainstorm.
 
 **Languages**: Kefalypors don't speak.
 
-**Levitation Speed**: It may levitate up to 1 yard per move. On the psychic plane, this is 9 yards.
+**Levitation Speed**: It may levitate up to 2 yard per move. On the psychic plane, this is 9 yards.
 
 **Unarmed Attacks**;
 
@@ -181,7 +181,7 @@ Will have eye eye stalk. Their collective noun is brainstorm.
 **Enkefalophage**: A kefalypor's hunger is not sated through typical means. It must consume brains to survive. Upon consuming the entirety of a creatures brain, it is considered to have received a number of food portions equal to its [Inte] bonus. If it consumes the brain of a sapient creature (such as a playable species), it instead is considered to have consumed food portions equal to that creature's [Inte] score. It does not benefit from eating the brain of a reanimated creature (such as undead) or another kefalypor. The kefalypor does not need to drink. If it consumes the brain of a creature afflicted by points of inebriation, it immediately gains those points of inebriataion.  
 If the kefalypor conumes a number of servings beyond what it needs during a day equal to its [Inte] score, its [Inte] is permanently increased by 1.
 
-**Limited Senses**: The kefalypor has no sense of smell, taste, or hearing. It cannot receive stimuli from scents, tasts, or sounds in any capacity as a result (including illusory effects).
+**Limited Senses**: The kefalypor has no sense of smell, taste, or hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects).
 
 **Eye Stalk**: Kefalypors have a single eye stalk. They can rotate their vision. This occurs when rotations would during the round. The kefalypor can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase.
 
@@ -189,6 +189,10 @@ If the kefalypor conumes a number of servings beyond what it needs during a day 
 
 **See Minds**: The kefalypor may use its concentration to see all non-mindless creatures within 15 yards, including creatures on the psychic plane. This vision projects out from the kefalypor as a globe. It is prone while doing so and cannot use any of its other senses, including its traditional form of vision.
 
+**Wyrding**: The kefalypor is capable of casting spells by wyrding. It knows the following spells () and adds its [Inte] bonus to spell checks and counter spell checks. It also treats its [Inte] as its [Magic] attribute.
+
+**Improved Speed**: *So long as it is not in an area in which magic is supressed, its movement speeds are doubled*.
+
 **Unnatural Speed**: Once per encounter, it *may triple its movement speed for a single move*.
 
-**Weak**: The kefalypor's weight load limits are halved.
+**Very Weak**: The kefalypor's weight load limits are reduced to one third.
