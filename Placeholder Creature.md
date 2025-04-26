@@ -32,23 +32,23 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 | Attack Type            |           | Attack Type  |        | Attack Type |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 15   | **Pole Axe** | 14     | **Arrow, Bodkin Point**    | 15    |
-| **Longsword**              | 15    | **Greatsword** | 14  | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 13    | **Maul** | 11        | **Bolt** | 13    |
-| **Spear**                  | 15     | **Pike** | 14       | **Brusgiata** | 13     |
-| **Hand Axe**               | 15     | **Madu**   | 15      | **Chakram** | 13    |
-| **Katar**                  | 16     | **Javelin**         | 16    | **Arquebus** | 12    |
-| **Dagger**                 | 16     | **Throwing Blade**  | 16    | **Musket** | 11    |
-| **Morningstar**            | 13     | **Sling**           | 15    | **Tronutonante** | 13    |
-| **Warpick**                | 11     | |  **Bare**         | 17   |
+| **Club**                   | 13   | **Pole Axe** | 10     | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 11    | **Greatsword** | 10  | **Arrow, Broadhead**       | 11    |
+| **Mace**                   | 10    | **Maul** | 9        | **Bolt** | 11    |
+| **Spear**                  | 10     | **Pike** | 10       | **Brusgiata** | 11     |
+| **Hand Axe**               | 11     | **Madu**   | 12      | **Chakram** | 12    |
+| **Katar**                  | 12     | **Javelin**         | 11    | **Arquebus** | 10    |
+| **Dagger**                 | 11     | **Throwing Blade**  | 12    | **Musket** | 9    |
+| **Morningstar**            | 11     | **Sling**           | 13    | **Tronutonante** | 11    |
+| **Warpick**                | 11     | |  **Bare**         | 16   |
 |                        |           |          |            |         |            |
-| **Acid**                   | 12     | **Fire** | 25     | **Psychic** | 13     |
-| **Cold**                   | 18     | **Force** | 13     | **Toxic**  | 13     |
-| **Crushing**               | 13     | **Ki** | 12     | **Radiant** | 13     |
-| **Cutting**                | 15     | **Necrotic** | 17     | **Sonic** | 13    |
-| **Electrical**             | 12     | **Piercing** | 16     | **Biting** | 13    |
+| **Acid**                   | 10     | **Fire** | 8     | **Psychic** | 11     |
+| **Cold**                   | 11     | **Force** | 10     | **Toxic**  | 13     |
+| **Crushing**               |  8     | **Ki** | 11     | **Radiant** | 19     |
+| **Cutting**                | 11     | **Necrotic** | 11     | **Sonic** | 13    |
+| **Electrical**             | 11     | **Piercing** | 11     | **Biting** | 11    |
 |                            |        |              |        |            |       |
-| **Unlisted Damage Type** | 13 |    |     | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 11 |    |     | **Undamaging** | 12 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
