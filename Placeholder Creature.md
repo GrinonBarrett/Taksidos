@@ -135,23 +135,23 @@ Hailing from the psychic plane, these monstrocities appear like some perversion 
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 14     | **Maul** | 13     | **Bolt** | 14    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 15     |
-| **Hand Axe**               | 14     | **Madu** | 15     | **Chakram** | 14    |
-| **Katar**                  | 14     | **Javelin** | 14  | **Arquebus** | 13    |
-| **Dagger**                 | 15     | **Throwing Blade** |  16  | **Musket** | 12    |
-| **Morningstar**            | 14     | **Sling** | 16    | **Tronutonante** | 14    |
-| **Warpick**                | 14     |          |          |   **Bare** |  20  |
+| **Club**                   | 8     | **Pole Axe** | 5     | **Arrow, Bodkin Point**    | 6    |
+| **Longsword**              | 6     | **Greatsword** | 5     | **Arrow, Broadhead**       | 6    |
+| **Mace**                   | 6     | **Maul** | 5     | **Bolt** | 6    |
+| **Spear**                  | 6     | **Pike** | 5     | **Brusgiata** | 7     |
+| **Hand Axe**               | 6     | **Madu** | 6     | **Chakram** | 6    |
+| **Katar**                  | 6     | **Javelin** | 6  | **Arquebus** | 5    |
+| **Dagger**                 | 6     | **Throwing Blade** |  7  | **Musket** | 4    |
+| **Morningstar**            | 6     | **Sling** | 7    | **Tronutonante** | 5    |
+| **Warpick**                | 6     |          |          |   **Bare** |  10  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 14     | **Fire** | 15     | **Psychic** | 17     |
-| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
-| **Crushing**               | 15     | **Ki** | 15     | **Radiant** | 15     |
-| **Cutting**                | 14     | **Necrotic** | 14     | **Sonic** | 15    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 14    |
+| **Acid**                   | 5     | **Fire** | 6     | **Psychic** | 9     |
+| **Cold**                   | 5     | **Force** | 6     | **Toxic**  | 6     |
+| **Crushing**               | 6     | **Ki** | 6     | **Radiant** | 6     |
+| **Cutting**                | 5     | **Necrotic** | 4     | **Sonic** | 7    |
+| **Electrical**             | 6     | **Piercing** | 5     | **Biting** | 6    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
+| **Unlisted Damage Type** | 6 |    |     | **Undamaging** | 10 |
 
 
 
