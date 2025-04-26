@@ -98,7 +98,7 @@ Found in the remains of locations devastated by fire. Canucorryn are born by the
 -----
 
 ### Kefalypor
-Will have eye eye stalk. Their collective noun is brainstorm.
+Their origin is unknown, but they have been found in the occasional lair. One theory is that they are produced by an arcane process peformed on the psychic plane on a sleeping humanoid. Another theory states they are the result of incompetent mages going mad in their pursuit of power. They can coordinate well in groups by telepathically communicating. The moment suitable food becomes available hoever, they can become hostile to each other. Their collective noun is brainstorm.
 
 **Creature Type**: Kefalypors are Monsters.
 
