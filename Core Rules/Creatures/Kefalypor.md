@@ -63,7 +63,7 @@ Their origin is unknown, but they have been found in the occasional lair. One th
 |   6    | Lost Eye          | It has lost its eye stalk. Until this wound is healed, it is blind. |
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Perishing Blow    | It dies immediately. |
+|   9    | Psychosplosion    | It dies immediately. Influct a psychoc attack against each non-mindless creature within 25 yards. |
 |   10   | Brain Damage      | **Biased Wound**. Until this wound is healed, it loses the use of its Telekineticism feature. |
 |   11   | Glancing Blow     | No ill effect. |
 |   12   | Perishing Blow    | It dies immediately. |
