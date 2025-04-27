@@ -1,5 +1,5 @@
 ### Arbreberakhor
-Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each ot their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odda when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
+Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each ot their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odds when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
 
 **Creature Type**: Arbreberakhors are Insects.
 
@@ -24,7 +24,7 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 
 **Unarmed Attacks**;
 
- • Bite: The arbreberakhor is capable of biting a foe within 1 foot as a melee cutting attack.
+ • Bite: The arbreberakhor is capable of biting a foe within 1 foot as a melee biting attack.
 
 ---------------------
 
@@ -87,8 +87,8 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 
 **Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
 
-**Terrifying Leap**: Once per encounter, the canucorryn may quadruple its leap distance.
+**Innate Light**: *The arbreberakhor emits light like a torch, but cannot see the light it produces itself*.
 
-**Venom**: Once per encounter, the canucorryn may spew venom against a foe within 1 yard as an action. This is a toxic attack. Additionally, the venom itself is flammable for half an hour.
+**Venom**: Once per encounter, the
 
 **Return Fire**: Once per encounter, when the canucorryn is targeted by a spell, it may use its reaction to fire a small projectile of flaming web at that spell caster if they are within 9 yards. This is a fire attack.
