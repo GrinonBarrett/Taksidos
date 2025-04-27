@@ -24,7 +24,7 @@ For this update:
 * A spectral arachnid type creature, but not spider, rainbow themed, which has webbing and blinding capablities and only 6 legs. Body has three sections. Move in groups of 1d6+3. Not affected by light levels so long as there is light from another source (which is why they hunt in packs). Can emit bright light. Frequently casts spectral burst. Immune to radiant attacks. Can teleport short distances, causing a blinding light where they appear. Low health. Vulnerable to Fire and crushing.
 * A desert ghoul type creature which cannot touch non sapient plant life.
 * A bipedal bramble creature which defends a set forested area. Can also be provoked by the presence of undead. Will always fight undead. Can fire thorn projectiles. Automatically inflicts a piercing attack when grappling or brawling. Thorns do extra damage against creatures of undeath and gain a bonus against undead creatures.
-* Create a floating brain creature which survives by cracking open the skulls of other creatures and eating their brains by slowly absorbing it. Enkephelaphage. Has telekinetic powers and can cast certain mental oriented spells. Strongly dislikes undead, as reanimated brains do nothing for it. It can hear and can detect non-mindless creatures, but is otherwise blind. It can c9ncentrate to "see" out in a globe as an action.
+* Create a stoker demon, which has wind powers and can ignite stuff. Make it impish and more emboldened as it gets hurt.
 
 -----
 
