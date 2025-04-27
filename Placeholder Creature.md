@@ -3,7 +3,7 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 
 **Creature Type**: Arbreberakhors are Insects.
 
-**Size**:  A canucorryn is just over 1.5 yards in length and beeteen 16" and 21" in height. They weigh between 60-80 pounds. They are small creatures.
+**Size**:  An arbreberakhor is just over 1.5 yards in length and beeteen 16" and 21" in height. They weigh between 60-80 pounds. They are small creatures.
 
 **Hitpoints**: An arbreberakhor has no hitpoints.
 
