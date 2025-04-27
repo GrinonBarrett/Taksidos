@@ -79,16 +79,10 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 
 #### Special Features
 
-**Immunity**: The canucorryn is immune to any damage from fire attacks and any damage from non-magical cold attacks.
-
-**Wrestler**: The canucorryn has the Wrestling skill.
+**Bode Resistance**: Anytime the arbreberakhor is attacked by a ray, like that of a wand, or a magical radiant attack- it may use its reaction to impose disadvantage on the attack.
 
 **Web**: The arbreberakhor is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .2 pound per yard and strength 400. *The web is resistant to natural degradation*.
 
 **Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
 
 **Innate Light**: *The arbreberakhor emits light like a torch, but cannot see the light it produces itself*.
-
-**Venom**: Once per encounter, the
-
-**Return Fire**: Once per encounter, when the canucorryn is targeted by a spell, it may use its reaction to fire a small projectile of flaming web at that spell caster if they are within 9 yards. This is a fire attack.
