@@ -25,6 +25,8 @@ For this update:
 * A desert ghoul type creature which cannot touch non sapient plant life.
 * A bipedal bramble creature which defends a set forested area. Can also be provoked by the presence of undead. Will always fight undead. Can fire thorn projectiles. Automatically inflicts a piercing attack when grappling or brawling. Thorns do extra damage against creatures of undeath and gain a bonus against undead creatures.
 * Create a stoker demon, which has wind powers and can ignite stuff. Make it impish and more emboldened as it gets hurt.
+* Create a mimic.
+* Create a Wyvre, a winged serpent with a stinger for a tail. It comes in three varieties- clawless with fast speed and the ability to cloak for a whole round between rest, two clawed with superior brawling/grappling prowess, and a four clawed that slashes as it tramples and has a venomous spit attack.
 
 -----
 
