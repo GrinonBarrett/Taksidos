@@ -24,7 +24,7 @@ For this update:
 * A spectral arachnid type creature, but not spider, rainbow themed, which has webbing and blinding capablities and only 6 legs. Body has three sections. Move in groups of 1d6+3. Not affected by light levels so long as there is light from another source (which is why they hunt in packs). Can emit bright light. Frequently casts spectral burst. Immune to radiant attacks. Can teleport short distances, causing a blinding light where they appear. Low health. Vulnerable to Fire and crushing.
 * A desert ghoul type creature which cannot touch non sapient plant life.
 * A bipedal bramble creature which defends a set forested area. Can also be provoked by the presence of undead. Will always fight undead. Can fire thorn projectiles. Automatically inflicts a piercing attack when grappling or brawling. Thorns do extra damage against creatures of undeath and gain a bonus against undead creatures.
-* Create a stoker demon, which has wind powers and can ignite stuff. Make it impish and more emboldened as it gets hurt.
+* Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
 * Create a Wyvre, a winged serpent with a stinger for a tail. It comes in three varieties- clawless with fast speed and the ability to cloak for a whole round between rest, two clawed with superior brawling/grappling prowess, and a four clawed that slashes as it tramples and has a venomous spit attack.
 
