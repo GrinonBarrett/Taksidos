@@ -99,3 +99,6 @@ Rare, conductive, and perfect for arcane devices. Compound this with extreme sca
 
 **Alkahest**			$650,000 per lb.  
 10 ounces of the universal solvent. It must be kept at tempratures between -280 and -99, making it extremely difficult to store and use. Typically sold by the gallon or barrel.
+
+**Hydorythros**  $4,000,000 per lb.  
+7.112358 ounces of "miracle matter". This red substance moves like mercury. If not contained in a sealed glass container, it can cause magical havoc. This is a product of the production of the philosopher's stone. It should never be handled by anything but the most delicate of arcanists in the safest environment.
