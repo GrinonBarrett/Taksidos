@@ -86,3 +86,5 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 **Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
 
 **Innate Light**: *The arbreberakhor emits light like a torch, but cannot see the light it produces itself*.
+
+**Brilliant Reappearance**: The arbreberakhor may move itself instantly a number of yards equal to its [Will] score. When it reappeara, it produces a radiant attack against anything within 5 yards as a flash of flight bursts from their destination. This attack does not wound, and instead blinds a creature for a number of rounds equal to the points of success. It must rest before doing so again.
