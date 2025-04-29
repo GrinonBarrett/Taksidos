@@ -73,7 +73,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   15   | Grow Limb | The wekowyrd develops a new limb. This limb can be used to strike a foe within 7 yards to inflict a bare attack. If it strikes a smaller foe, it may treat it as a club attack instead. |
 |   16   | Lesser Recovery | The wekowyrd recovers a single hitpoint. |
 |   17   |  Hardening Will  | The Wekowyrd's [Will] score is increased by 1. Adjust bonus if appropriate. |
-|   18   |  Sensory Organ | The wekowyrd develops an appendage with a sensory organ attached. This sensory organ can be one of the 5 basic senses. It gets a +12 to appicable [Prcp] checks and saves for each of these additional organs it has. |
+|   18   |  Sensory Organ | The wekowyrd develops an appendage with a sensory organ attached. This sensory organ can be one of the 5 basic senses. It gets a +2 bonus to applicable [Prcp] checks and saves for each of these additional organs it has. |
 |   19   |  Castless Aura |  The wekowyrd gains an aura which causes it to automatically perform a counterspell check against anything casting a spell within 25 yards. The wekowyrd's check result is equal to 1d12 + its current number of wounds. If it gains this mutation again, its range is increased by 25 yards. |
 |   20   | Devolution | The wekowyrd loses a random mutation, but recovers 1 hitpoint. |
 |   21   | Unknown Force | The Wekowyrd's [Empy] score is increased by 1. Adjust bonus if appropriate. |
