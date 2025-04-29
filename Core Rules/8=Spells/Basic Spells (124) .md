@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list. 
 
-### A (11
+### A (12
 
 #### Abatis
 
@@ -91,6 +91,18 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 **At Higher Tiers**: When cast beyond minimum tier, the range is increased by 3 yards for each tier beyond minimum.
 
 **Critical Failure**: You appear in the opposite direction intended and are prone.
+
+#### Alacering
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to rolling for initiative
+
+**Effect**: You move a number of yard up to the spell's tier or a number of feet equal to the points of success. If you choose to move based on the spell's tier and ths spellcheck is a critical success, you may move an additional number of yards equal to your [Magic] bonus.
+
+**At Higher Tiers**: Other than the above listed benefit, for each tier beyond minimum, the distance you move if basing the distance on the spell check result is increased by 1d4+1 feet.
+
+**Critical Failure**: You trip and fall while spped, you are knocked back (in the direction you were facing) a number of feet equal to the points of failure multiplied by the spell's tier.
 
 #### Alarum
 
