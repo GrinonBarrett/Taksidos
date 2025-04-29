@@ -1,6 +1,6 @@
 
 Current Creature Count:  
-* 61 standard creatures
+* 62 standard creatures
 * 18 creatures of undeath
 * 5 Creatures of the haze
 * 7 Legendary creatures, including,
