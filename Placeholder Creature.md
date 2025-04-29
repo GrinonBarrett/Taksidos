@@ -1,112 +1,110 @@
-### Wyvre, Creeping
-These serpentine creatures feature a large pair of wings, four claws, and a stinger on the end of their tail. These vile creatures are thought to be a form of divine punishment against corrupt societies. Their collective noun is a Slithering.
+### Bromelar
+Bipedal forms of thorns and brambles, these creatures roam the rarely vistited wild realms. The plural is Bromelain. Their collective noun is a Bushel.
 
-**Creature Type**: Creeping wivres are drakomadiae.
+**Creature Type**: Bromelar are Plant creatures.
 
-**Size**: They tend to be about 14'-17' in length. The winspan is just beyiond its length. They weigh between 500-600 pounds. They are large creatures.
+**Size**: Bromelain between 6-9 feet tall (though only 5-6 feet at the shoulders), about 20% longer than their height length, and feature thick legs which could almost stretch out as wide as their length. They can weigh between 1,000 and 1,200 pounds. They are large creatures.
 
-**Hitpoints**: A creeping wyvre has 4 hitpoints.
-
-**Attributes**:  
-[Body] 13 (+4)  
-[Fort] 16 (+5)  
-[Rflx] 14 (+4)  
-[Will] 9 (+3)  
-[Inte] 7 (+2)  
-[Prcp] 10 (+3)  
-[Empy] 6 (+2)  
-
-**Languages**: Wivres do not speak.
+**Languages**: Thorons don't speak. They understand other creatures that speak the Fair Tongue.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|    1   | Curiosity (1) | The wivre is exploring the area. |
-|    2   | Curiosity (2) | The wivre is exploring the area. |
-|    3   | Curiosity (3) | The wivre is stalking the party until they leave its territory or it gets hungry. |
-|   4-5  | Hostility (1) | It is keeping an eye on the adventurers. |
-|   6-9  | Hostility (2) | It seems a bit territorial. |
-|  10-16 | Hostility (3) | It is defending its territory. |
-|   17   | Hunger (1)    | It is looking for an easy meal and not a fight. |
-|   18   | Hunger (2)    | It would be willing to take a bruise for a meal. |
-|  19-20 | Hunger (3)    | It will attack and eat you in the middle of combat. |
+|   1-2  | Amicable (1)  | It is going about its business. |
+|   3-4  | Curious (1)   | It is going about its business. |
+|   5-6  | Curiosity (2) | It is simply curious about what the party is doing. |
+|   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
+|  9-12  | Hostility (2) | It seems a bit territorial. |
+|  13-15 | Hostility (3) | It is defending its territory. |
+|  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
+|  18-19 | Hungry (2)    | It isn't particularly desperate but is looking for its next meal. |
+|   20   | Hungry (3)    | It will attack on sight out of desperation. |
 
------
+**Hitpoints**: A thoron has 7 hitpoints.
 
-**Run Speed**: It may run up to 5 yards per move.
+**Attributes**:  
+[Body] 21 (+7)  
+[Fort] 14 (+4)  
+[Rflx] 15 (+5)  
+[Will] 15 (+5)  
+[Inte] 9 (+3)  
+[Prcp] 14 (+4)  
+[Empy] 10 (+3)  
 
-**Swim speed**: You may swim up to 2.5 yards per move, presuming the water isn’t too rough.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Climb Speed**: It may climb up to 3 yards per round, presuming it is reasonable terrain to do so.
-
-**Flying Speed**: It can fly up to 8 yards per move. It must move at least 15 yards per round, and at least 7 yards per move, to remain airborn. It cannot fly if grappled or prone.
+**Swim speed**: It may swim up to 6 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Strike: The wivre may use any part of its body to strike a foe within 3 yards. This is a melee bare attack.
+ • Smash: The thoron may use any part of its body to strike a foe within 1 yard. This is a melee force attack.
 
- • Jaw: The wivre may bite a single foe within 1.5 yards. This is a melee biting attack.
+ • Thorn Fist: The thoron may use its fist to deliver an intimate "warning" against a foe within 1 yard. This is a melee attack which may be treated as a morningstar (using the 1 yard range) or a piercing attack.
 
- • Claw: The wivre may slash at a foe within 1 yard. This is a melee cutting attack.
-
- • Stinger: The wivre may use its tail against any creature behind or to its sides within 1.5 yards. This is treated as a melee javelin attack.
-
------
+---------------------
 
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe**      | 10     | **Arrow, Bodkin Point**    | 12    |
-| **Longsword**              | 11     | **Greatsword**    | 10     | **Arrow, Broadhead**       | 12    |
-| **Mace**                   | 11     | **Maul**          | 10   | **Bolt** | 11    |
-| **Spear**                  | 11     | **Pike**          | 9     | **Brusgiata** | 13     |
-| **Hand Axe**               | 11     | **Madu**          | 13    | **Chakram** | 14    |
-| **Katar**                  | 12     | **Javelin**       | 12    | **Arquebus** | 10    |
-| **Dagger**                 | 11     | **Throwing Blade** | 16   | **Musket** |  9    |
-| **Morningstar**            | 11     | **Sling**         | 16    | **Tronutonante** | 12    |
-| **Warpick**                | 11     |              |            |  **Bare** |   19  |
+| **Club**                   | 20   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 16    |
+| **Longsword**              | 15    | **Greatsword** | 14     | **Arrow, Broadhead**       | 16    |
+| **Mace**                   | 14    | **Maul** | 13     | **Bolt** | 16    |
+| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 18     |  |     |
+| **Hand Axe**               | 14     | **Madu** | 15     | **Chakram** | 18    |
+| **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 13    |
+| **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 12    |
+| **Morningstar**            | 15     | **Sling** | 21    | **Tronutonante** | 15    |
+| **Warpick**                | 15     | **Bare** |     |  |     |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire**          | 11     | **Psychic** | 12     |
-| **Cold**                   | 11     | **Force**         | 11     | **Toxic**  | 16     |
-| **Crushing**               | 12     | **Ki**            | 14     | **Radiant** | 12     |
-| **Cutting**                | 11     | **Necrotic**      | 12     | **Sonic** | 12    |
-| **Electrical**             | 11     | **Piercing**      | 10     | **Biting** | 12    |
+| **Acid**                   | 13     | **Fire** | 11     | **Psychic** | 16     |
+| **Cold**                   | 15     | **Force** | 17     | **Toxic**  | 14     |
+| **Crushing**               | 16     | **Ki** | 16     | **Radiant** | 18     |
+| **Cutting**                | 13     | **Necrotic** | 18     | **Sonic** | 16    |
+| **Electrical**             | 15     | **Piercing** | 15     | **Biting** | 14    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type**   | 11     |              |             | **Undamaging** | 12 |
+| **Unlisted Damage Type** | 15 |    |     | **Undamaging** | 14 |
+
+
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's run speed is halved until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
-|   6    | Glancing Blow     | No ill effect. |
-|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Winded      | Until this wound is healed, it cannot use its stinger.     |
-|   9    | Muscle Damage     |  It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
-|   10   | Glancing Blow     | No ill effect. |
-|   11   | Wing Shot         | **Biased Wound**. Until this wound is healed, it cannot fly. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
+|   4    | Bit Bark       | The thoron will direct its attention to whatever caused this wound, but the wound itself has no other mehcanical effect. One can see the woody flesh of the thoron where this wound was dealt until it heals. |
+|   5    | Glancing Blow      | This wound has no effect. |
+|   6    | Critical Vision    | The thoron's instincts and sensory organs experience a strange boost for a moment. It can see in a perfect sphere until the end of the next round.|
+|   7    | Stinging Wound   | **Biased wound**. -1 penalty to checks until end of next round. |
+|   8    | Glancing Blow     | No ill effects.                                     |
+|   9    | Agonizing Blow     | The thoron loses its reaction during the next round. |
+|   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Sieze Up          | **Biased wound**.  |
+|   13   | Thorn Burst       | **Biased wound**. A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A thoron cannot be affected by this.  |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
-|   16   | Claw Struck       | **Biased wound**. Until this wound is healed, it loses the ability to perform attacks with one of its claws. It can sustain this wound four times. |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Bit Bark       | **Biased Wound**. The thoron will direct its attention to whatever caused this wound, but the wound itself has no other mehcanical effect. One can see the woody flesh of the thoron where this wound was dealt until it heals. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Tail Shot         | Until this wound is healed, it cannot use its stinger. |
+|   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
------
+---------------------
 
-**Wrestler**: The wivre has the wrestling skill.
+#### Special Features
 
-**Vicious Bite**: As an additional option when it scores a critical success while brawling, it may bite the foe it is brawling. This is treated as a Biting attack (ignoring the penalty for the attack while brawling).
+**Plant Nature**: As a plant creature, the thoron has a few advantages:  
+**-** They do not need to breathe or sleep. They must still rest.  
+**-** Immunity to diseases unless they specifically affect plants.  
+**-** Immunity to Bloodloss.  
+**-** Cannot be incapacitated except by an effect which explicitly affects plants.  
 
-**Wivre Venom**: Anything struck by the wivre's stinger, or is struck by its biting attack with an odd attack roll result, is also subject to a toxic attack as a result of the venom. If the toxic attack is successful, the struck creature must also succeed a [Fort] save with a DV equal to the attack's total or find themselves slightly parlyzed by the venom. They become vulnerable and have their movement halved while affected by it. At the end of every round, they make a new [Fort] save with a DV of 25 minus the number of rounds they have been affected to shake off the effects.
+**Lignimeld**: Once per minute, _the Thoron may pass through ligneous material, such as wood, as though it were simple air_. It does so until it is no longer in contact with such material.
 
-**Breath Weapon**: The wivre may spew a venomous liquid out in a jet. This jet is a line 1d4+7 yards in length, 1 foot high and wide. Anything caught in it is subject to 2 toxic attacks. If either toxic attack is successful, the creature is subject to the Wivre Venom. It can instead project it as a cone by sweeping it head back an forth, but this reduces the length to one third.
+**Tree Skipping**: Once per encounter, when the thoron's movement would allow it to enter the space of a tree if said tree were not itself an obstacle, _it passes through the tree and exits through another tree within 1 mile_. 
+
+**Great Leap**: Once per encounter, when the thoron jumps, it can leap up to three times its normal distance.
