@@ -107,6 +107,8 @@ These serpentine creatures feature a large pair of wings, four claws, and a stin
 
 **Vicious Bite**: As an additional option when it scores a critical success while brawling, it may bite the foe it is brawling. This is treated as a Biting attack (ignoring the penalty for the attack while brawling).
 
+**Rake**: As a reaction, if the wivre successfully grapples a creature of equal size or no more than 1 size category larger or smaller, it can use its rear claws to inflict a cutting attack each. If it is grappling a creature within those size limits, it may also perform those claw attacks as a single action without penalty for multiple attacks or brawling with the foe.
+
 **Wivre Venom**: Anything struck by the wivre's stinger, or is struck by its biting attack with an odd attack roll result, is also subject to a toxic attack as a result of the venom. If the toxic attack is successful, the struck creature must also succeed a [Fort] save with a DV equal to the attack's total or find themselves slightly parlyzed by the venom. They become vulnerable and have their movement halved while affected by it. At the end of every round, they make a new [Fort] save with a DV of 25 minus the number of rounds they have been affected to shake off the effects.
 
 **Breath Weapon**: The wivre may spew a venomous liquid out in a jet. This jet is a line 1d4+7 yards in length, 1 foot high and wide. Anything caught in it is subject to 2 toxic attacks. If either toxic attack is successful, the creature is subject to the Wivre Venom. It can instead project it as a cone by sweeping it head back an forth, but this reduces the length to one third.
