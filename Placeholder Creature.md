@@ -11,15 +11,13 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-2  | Amicable (1)  | It is going about its business. |
 |   3-4  | Curious (1)   | It is going about its business. |
 |   5-6  | Curiosity (2) | It is simply curious about what the party is doing. |
 |   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
 |  9-12  | Hostility (2) | It seems a bit territorial. |
 |  13-15 | Hostility (3) | It is defending its territory. |
 |  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
-|  18-19 | Hungry (2)    | It isn't particularly desperate but is looking for its next meal. |
-|   20   | Hungry (3)    | It will attack on sight out of desperation. |
+|   1-2  | Amicable (1)  | It is going about its business. |
 
 **Hitpoints**: A thoron has 7 hitpoints.
 
