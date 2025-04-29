@@ -25,7 +25,7 @@ For this update:
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
 * Create a Wyvre, a winged serpent with a stinger for a tail. It comes in three varieties- clawless with fast speed and the ability to cloak for a whole round between rest, two clawed with superior brawling/grappling prowess, and a four clawed that slashes as it tramples and has a venomous spit attack.
-* Create a cockatrice, which can hatch from a chicken's egg if there is a wivre living nearby.
+* Create a cockatrice (which will be a cockator/cockatrix), which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
 * Create the Anxana, based on Anjana/Xanas, as a playable species.
 
 -----
