@@ -56,7 +56,7 @@ They are considered the violent defenders of nature- Not something to be reasone
 | **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 13    |
 | **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 12    |
 | **Morningstar**            | 15     | **Sling** | 21    | **Tronutonante** | 15    |
-| **Warpick**                | 15     | **Bare** |     |  |     |
+| **Warpick**                | 15     |   |     | **Bare** |  23 |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 11     | **Psychic** | 16     |
 | **Cold**                   | 15     | **Force** | 17     | **Toxic**  | 14     |
