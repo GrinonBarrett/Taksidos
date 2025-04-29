@@ -20,6 +20,7 @@ For this update:
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create some kind of nightmare type spell.
 * Create a dream messaging spell.
+* Create a series of elementally themed swords ( Excaliber for Water, Caliburnus for Earth, Dyrwyn for Fire, need one for air).
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword, mace, and spear are done and one thrown blade done as well)
 * A bipedal bramble creature which defends a set forested area. Can also be provoked by the presence of undead. Will always fight undead. Can fire thorn projectiles. Automatically inflicts a piercing attack when grappling or brawling. Thorns do extra damage against creatures of undeath and gain a bonus against undead creatures.
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
