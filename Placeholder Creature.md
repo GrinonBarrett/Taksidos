@@ -16,7 +16,21 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 [Prcp] 12 (+4)  
 [Empy] 7 (+2)  
 
-**Languages**: Arbreberakhors don't speak, but have been known to be more passive around creatures that speak the wild tongue.
+**Languages**: Arbreberakhors don't speak, but have been known to be more passive around creatures that speak the wild tongue. The seem to have a basic instinct that allows them to function with each other.
+
+**Table**: *Creature's Reaction*
+| Result | **Emotion and Intensity** | Notes        |
+|--------|-------------------|----------------------------------------------------------------|
+|        |                                                |                                   |
+|   1-2  | Amicable (1)  | It is going about its business. |
+|   3-4  | Curious (1)   | It is going about its business. |
+|   5-6  | Curiosity (2) | It is simply curious about what the party is doing. |
+|   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
+|  9-12  | Hostility (2) | It seems a bit territorial. |
+|  13-15 | Hostility (3) | It is defending its territory. |
+|  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
+|  18-19 | Hungry (2)    | It isn't particularly desperate but is looking for its next meal. |
+|   20   | Hungry (3)    | It will attack on sight out of desperation. |
 
 **Run Speed**: It may run up to 9 yards per move.
 
@@ -50,14 +64,14 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 |                            |        |              |        |            |       |
 | **Unlisted Damage Type** | 11 |    |     | **Undamaging** | 12 |
 
-**Table**: *Wound Allocation* {Still need to fix}
+**Table**: *Wound Allocation* 
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
 |   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Burning Riposte     | If the attack was a melee attack, the attacker is subject to a fire attack. |
-|   4    | Smoke Puff       | A puff of smoke explodes out from the canucorryn. Any attacks which pass through the smoke until the end of the next round have disadvantage. The smoke extends out 1 foot. The canucorryn then appears somewhere within 1 yard. |
-|   5    | Fireball    | Everything within 3 yards is subject to a fire attack. |
+|   4    | Glancing Blow       | No ill effect. |
+|   5    | Dimmed    | **Biased Wound**. Until this wound is healed, it no longer emits light through its Innate Light feature. |
 |   6    | Glancing Blow            | No ill effects. |
 |   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
@@ -65,12 +79,12 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 |   10   | Stagger        | It has its movement halved until the end of the round. |
 |   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Knock Back | It is knocked back 1d4+1 feet. |
-|   13   | Web Sack | **Biased Wound**. The canucorryn loses the ability to produce or expend web until this wound is healed. |
+|   13   | Web Sack | **Biased Wound**. It loses the ability to produce or expend web until this wound is healed. |
 |   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.   |
-|   18   | Knockback | **Biased wound**. It is knocked back 1d4+1 feet. |
+|   18   | Glancing Blow | **Biased wound**. No ill effect. |
 |   19   | Unaligned Chakras | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
