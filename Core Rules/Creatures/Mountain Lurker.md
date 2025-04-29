@@ -13,7 +13,7 @@ Though related, these creatures are often mistaken for dragons. They are sometim
 |        |                                                |                                   |
 |   1-2  | Amicable (1)  | It is going about its business. |
 |   3-4  | Curious (1)   | It is going about its business. |
-|   5-6  | Curiosity (2) | The simply is curious about what the party is doing. |
+|   5-6  | Curiosity (2) | The mountain lurker simply is curious about what the party is doing. |
 |   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
 |  9-12  | Hostility (2) | It seems a bit territorial. |
 |  13-17 | Hostility (3) | It is defending its territory. |
