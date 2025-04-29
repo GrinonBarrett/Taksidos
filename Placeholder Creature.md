@@ -1,11 +1,11 @@
 ### Bromelar
 Bipedal forms of thorns and brambles, these creatures roam the rarely vistited wild realms. The plural is Bromelain. Their collective noun is a Bushel.
 
-**Creature Type**: Bromelar are Plant creatures.
+**Creature Type**: Bromelain are Plant creatures.
 
-**Size**: Bromelain between 6-9 feet tall (though only 5-6 feet at the shoulders), about 20% longer than their height length, and feature thick legs which could almost stretch out as wide as their length. They can weigh between 1,000 and 1,200 pounds. They are large creatures.
+**Size**: Bromelain between 6'7"-6'9" feet tall. They can weigh between 100 and 120 pounds. They are medium creatures.
 
-**Languages**: Thorons don't speak. They understand other creatures that speak the Fair Tongue.
+**Languages**: Bromelain speak the Wild Tongue.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
