@@ -1,104 +1,106 @@
-### Arbreberakhor
-Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each ot their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odds when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
+### Wyvre, Common
+These serpentine creatures feature a large pair of wings and a stinger on the end of their tail. . Their collective noun is a Sowe.
 
-**Creature Type**: Arbreberakhors are Insects.
+**Creature Type**: Barmpasow are Insects.
 
-**Size**:  An arbreberakhor is just over 1.5 yards in length and beeteen 16" and 21" in height. They weigh between 60-80 pounds. They are small creatures.
+**Size**: Barmpasow tend to be about 10'-12' in length, with an additional 2-3 yards for their tail. They weigh between 300-440 pounds. They are large creatures.
 
-**Hitpoints**: An arbreberakhor has no hitpoints.
+**Hitpoints**: A barmpasow has 3 hitpoints.
 
 **Attributes**:  
-[Body] 9 (+3)  
-[Fort] 12 (+4)  
-[Rflx] 13 (+4)  
+[Body] 15 (+5)  
+[Fort] 16 (+5)  
+[Rflx] 18 (+6)  
 [Will] 9 (+3)  
 [Inte] 7 (+2)  
-[Prcp] 12 (+4)  
-[Empy] 7 (+2)  
+[Prcp] 13 (+4)  
+[Empy] 6 (+2)  
 
-**Languages**: Arbreberakhors don't speak, but have been known to be more passive around creatures that speak the wild tongue. The seem to have a basic instinct that allows them to function with each other.
+**Languages**: Barmpasow do not speak.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|   1-2  | Amicable (1)  | It is going about its business. |
-|   3-4  | Curious (1)   | It is going about its business. |
-|   5-6  | Curiosity (2) | It is simply curious about what the party is doing. |
-|   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
-|  9-12  | Hostility (2) | It seems a bit territorial. |
-|  13-15 | Hostility (3) | It is defending its territory. |
-|  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
-|  18-19 | Hungry (2)    | It isn't particularly desperate but is looking for its next meal. |
-|   20   | Hungry (3)    | It will attack on sight out of desperation. |
+|    1   | Curiosity (1) | The barmpasow is exploring the area. |
+|   2-4  | Curiosity (2) | The barmpasow is exploring the area. |
+|    5   | Curiosity (3) | The barmpasow is stalking the party until they leave its territory or it gets hungry. |
+|   6-7  | Hostility (1) | It is keeping an eye on the adventurers. |
+|   8-10 | Hostility (2) | It seems a bit territorial. |
+|  11-16 | Hostility (3) | It is defending its territory. |
+|   17   | Hunger (1)    | It is looking for an easy meal and not a fight. |
+|  18-19 | Hunger (2)    | It would be willing to take a bruise for a meal. |
+|   20   | Hunger (3)    | It will attack and eat you in the middle of combat. |
 
-**Run Speed**: It may run up to 9 yards per move.
+-----
 
-**Climb Speed**: It may climb up a strong incline at a rate of 6.5 yards per move.
+**Run Speed**: It may run up to 8 yards per move.
+
+**Swim speed**: You may swim up to 2 yards per move, presuming the water isn’t too rough.
+
+**Climb Speed**: It may climb up to 5 yards per round, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Bite: The arbreberakhor is capable of biting a foe within 1 foot as a melee biting attack.
+ • Slam: The barmpasow may use any part of its body to strike a foe within 2 yards. This is a melee bare attack.
 
----------------------
+ • Claws: The barmpasow may use its claw to strike a foe within 2 yards. This is a melee cutting attack.
+
+ • Stinger: The barmpasow may use its tail against any creature behind or to its sides within 3 yards. This is treated as a melee piercing attack.
+
+-----
 
 **Table**: *Attack versus Creature*
-| Attack Type            |           | Attack Type  |        | Attack Type |         |
+| Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 13   | **Pole Axe** | 10     | **Arrow, Bodkin Point**    | 12    |
-| **Longsword**              | 11    | **Greatsword** | 10  | **Arrow, Broadhead**       | 11    |
-| **Mace**                   | 10    | **Maul** | 9        | **Bolt** | 11    |
-| **Spear**                  | 10     | **Pike** | 10       | **Brusgiata** | 11     |
-| **Hand Axe**               | 11     | **Madu**   | 12      | **Chakram** | 12    |
-| **Katar**                  | 12     | **Javelin**         | 11    | **Arquebus** | 10    |
-| **Dagger**                 | 11     | **Throwing Blade**  | 12    | **Musket** | 9    |
-| **Morningstar**            | 11     | **Sling**           | 13    | **Tronutonante** | 11    |
-| **Warpick**                | 11     | |  **Bare**         | 16   |
+| **Club**                   | 16     | **Pole Axe**      | 10     | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 11     | **Greatsword**    | 10     | **Arrow, Broadhead**       | 12    |
+| **Mace**                   | 11     | **Maul**          | 10   | **Bolt** | 11    |
+| **Spear**                  | 11     | **Pike**          | 9     | **Brusgiata** | 14     |
+| **Hand Axe**               | 11     | **Madu**          | 13    | **Chakram** | 14    |
+| **Katar**                  | 12     | **Javelin**       | 12    | **Arquebus** | 10    |
+| **Dagger**                 | 11     | **Throwing Blade** | 16   | **Musket** |  9    |
+| **Morningstar**            | 11     | **Sling**         | 16    | **Tronutonante** | 12    |
+| **Warpick**                | 11     |              |            |  **Bare** |   19  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 10     | **Fire** | 8     | **Psychic** | 11     |
-| **Cold**                   | 11     | **Force** | 10     | **Toxic**  | 13     |
-| **Crushing**               |  8     | **Ki** | 11     | **Radiant** | 19     |
-| **Cutting**                | 11     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 11     | **Piercing** | 11     | **Biting** | 11    |
-|                            |        |              |        |            |       |
-| **Unlisted Damage Type** | 11 |    |     | **Undamaging** | 12 |
+| **Acid**                   | 10     | **Fire**          | 10     | **Psychic** | 12     |
+| **Cold**                   | 12     | **Force**         | 11     | **Toxic**  | 14     |
+| **Crushing**               | 12     | **Ki**            | 14     | **Radiant** | 12     |
+| **Cutting**                | 11     | **Necrotic**      | 12     | **Sonic** | 12    |
+| **Electrical**             | 11     | **Piercing**      | 10     | **Biting** | 12    |
+|                        |           |          |            |         |            |
+| **Unlisted Damage Type**   | 11     |              |             | **Undamaging** | 12 |
 
-**Table**: *Wound Allocation* 
+**Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
-|   3    | Burning Riposte     | If the attack was a melee attack, the attacker is subject to a fire attack. |
-|   4    | Glancing Blow       | No ill effect. |
-|   5    | Dimmed    | **Biased Wound**. Until this wound is healed, it no longer emits light through its Innate Light feature. |
-|   6    | Glancing Blow            | No ill effects. |
-|   7    | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Stagger        | It has its movement halved until the end of the round. |
-|   11   | Knock Down | It must make a [Body] save against the attack result or be knocked prone. |
-|   12   | Knock Back | It is knocked back 1d4+1 feet. |
-|   13   | Web Sack | **Biased Wound**. It loses the ability to produce or expend web until this wound is healed. |
-|   14   | Flesh Wound | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Stumble | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
-|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.   |
-|   18   | Glancing Blow | **Biased wound**. No ill effect. |
-|   19   | Unaligned Chakras | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
+|   2    | Crippled          | It's run speed is halved until this wound is healed.      |
+|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
+|   6    | Glancing Blow     | No ill effect. |
+|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
+|   8    | Winded      | Until this wound is healed, it cannot use its stinger.     |
+|   9    | Muscle Damage     |  It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
+|   10   | Glancing Blow     | No ill effect. |
+|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Sieze Up          | **Biased wound**.  |
+|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
+|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   16   | Glancing Blow     | **Biased wound**. No effect. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Tail Shot         | Until this wound is healed, it cannot use its stinger. |
+|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
----------------------
+-----
 
-#### Special Features
+**Startling Speed**: Once per encounter, as an action or reaction, the barmpasow may perform a movement.
 
-**Bode Resistance**: Anytime the arbreberakhor is attacked by a ray, like that of a wand, or a magical radiant attack- it may use its reaction to impose disadvantage on the attack.
+**Stinger Venom**: Anything struck by the barmpasow's stinger is also subject to a toxic attack as a result of the venom. If the toxic attack is successful, the struck creature must also succed a [Fort] save with a DV equal to the attack's total or find themselves slightly parlyzed by the venom. They become prone and have their movement halved while affected by it. At the end of every round, they make a new [Fort] save with a DV of 20 minus the number of rounds they have been affected to shake off the effects.
 
-**Web**: The arbreberakhor is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .2 pound per yard and strength 400. *The web is resistant to natural degradation*.
-
-**Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
-
-**Innate Light**: *The arbreberakhor emits light like a torch, but cannot see the light it produces itself*.
-
-**Brilliant Reappearance**: The arbreberakhor may move itself instantly a number of yards equal to its [Will] score. When it reappeara, it produces a radiant attack against anything within 5 yards as a flash of flight bursts from their destination. This attack does not wound, and instead blinds a creature for a number of rounds equal to the points of success. It must rest before doing so again.
+**Color Pattern**: The barmpasow gets a +4 visually based bonus to its stealth in its home environment.
