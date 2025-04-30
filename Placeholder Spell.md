@@ -2,14 +2,14 @@
 
 **Minimum Tier**: 3
 
-**Casting Time**: 2 action
+**Casting Time**: 3 actions
 
-**Range**: 3 yards
+**Effect**: Choose an exotic damage type. You create an orb of energy which you can direct around you, with it returning to your hand. You may swing it as a flail within 2 yards to inflict a dagger attack or you may hurl it a number of yards equal to double the spell's tier to inflict a sling attack or thrown blade attack. If the initial attack is successful, you inflict an attack of the chosen exotic type.
 
-**Effect**: You produce a large icicle to be thrust foward, impaling your foe. This inflicts a piercing attack, then a cold attack. If the piercing attack is a critical hit, the cold attack has advantage. In response to brawling/trampling (or being trampled by) a foe as a result of movement, you may reflexively cast this spell to function as an attack of opportunity.
+You may wind the globe as though it were a flail/sling. When used for a melee attack, if you have training with flails, you may benefit from it. If using it as a sling or thrown blade and you have training with the appropriate weapon, you may benefit from that training.
 
-You may choose to treat the piercing attack as a spear attack or pike attack instead, gaining any benefits of the Warrior's Weapon Mastery if applicable.
+This ball of energy lasts until the end of the round, or it would qualify to damage armor (where the orb becomes compromised and breaks after the strike), whichever occurs first.
 
-**At higher Tiers**: For each tier beyond minimum, this spell's range increases by 15 yards.
+**At higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
 
 **Critical Failure**: A partial icicle forms in one of your hands- causing any item held by it to be dropped and leaving you vulnerable until the end of the round as you wrestle with it.
