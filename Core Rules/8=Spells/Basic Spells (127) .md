@@ -320,7 +320,7 @@ If you spell check with a critical success, the foe must succeed a [Fort] save o
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
 
-### D (7
+### D (8
 
 #### Deathly Foil
 
@@ -379,6 +379,20 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 **At Higher Tiers**: Each tier beyond the original extends the range by 1 yard.
 
 **Critical Failure**: Your words are instead shrill and crackled as you strain your voice. Yourself and every creature within a number of yards equal to the spell's tier suffer a sonic attack. The attack has advantage against you and disadvantage against each other creature. Your voice will sound weak until your spell-sickness has recovered.
+
+#### Deject
+
+**Minimum Tier**: 1
+
+**Casting TIme**: 1 reaction, which you take in response to a projectile attack against yourself
+
+**Effect**: You gain a bonus to defense against that attack equal to the lowest of the spell's tier as a web of glowing particles forms a screen between yourself and the projectile. If the attack is a critical failure, the projectile ceases to exist. This cannot affect a magical projectile unless the spell check is a critical success.
+
+Note that as it only affects projectiles, meaning rays are unaffected by the spell.
+
+**At Higher Tiers**: The benefits for higher tiers are noted above.
+
+**Critical Failure**: The glowing particles actually pull in the projectile, giving it a bonus for the purpose of determining a critical hit equal to the spell's tier.
 
 #### Destructive Volley
 
