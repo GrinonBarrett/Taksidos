@@ -380,7 +380,7 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 
 **Critical Failure**: Your words are instead shrill and crackled as you strain your voice. Yourself and every creature within a number of yards equal to the spell's tier suffer a sonic attack. The attack has advantage against you and disadvantage against each other creature. Your voice will sound weak until your spell-sickness has recovered.
 
-#### Deject
+#### Deject 
 
 **Minimum Tier**: 1
 
