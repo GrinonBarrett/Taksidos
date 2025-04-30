@@ -1,5 +1,5 @@
 ## Ngurm
-Written Qurm in the Lithenic tongue. Scarecrows which have vigilantly looked over a field until the settlers of the field, and their descendants, have passed. These characters often stumble through life mindlessly wandering until they find a purpose or are destroyed. It is said that if they do not find a purpose, one can become a kunekunar. Ngurm characters get the following features;
+Written Qurm in the Lithenic tongue. Scarecrows which have vigilantly looked over a field until the settlers of the field, and their descendants, have passed. These characters often stumble through life mindlessly wandering until they find a purpose or are destroyed. It is said that if they do not find a purpose, one can become a kunekunar, but an over abundance of magical energy can do this as well. Ngurm characters get the following features;
 
 **Creature Type**: Ngurms are Monsters.
 
@@ -26,8 +26,9 @@ Choose two attributes. They are increased by a single level each.
 **Strawman Nature**: Ngurms are made of unusual materials. As such they  
  • Do not need to eat or breathe. You still need to sleep.  
  • Are immune to diseases, poisons, and venom.  
+ • You cannot receive wounds as a result of psychic attacks.
  • Are not affected by spells which would affect flesh. 
- • When not wearing armor, you are treated as wearing Gambeson, but have a -1 to defense against all attacks. When wearing armor, use the appropriate defense for that armor. So long as it weighs no more than half again, and no less than standard, weight for armor of a creature of your size- you can wear that armor even if it  
+ • When not wearing armor, you are treated as wearing Gambeson, but have a -1 to defense against all attacks. When wearing armor, use the appropriate defense for that armor. So long as it weighs no more than half again, and no less than standard, weight for armor of a creature of your size- you can wear that armor even if it would not be suitable for your creature type. 
  • Cold and toxic attacks have disadvantage against the ngurm. Fire and electric attacks gain advantage against the ngurm.  
  • Critical hits of Fire attacks leave the ngurm vulnerable until the end of the round.  
  • Any effect which would heal the ngurm has a 1 in 3 chance not to.
@@ -42,3 +43,5 @@ You can communicate with avian creatures, even if only primitively, even if you 
 **Easy Mind**: As a reaction, you may choose to become mindless for 1d10+2 rounds. You cannot be a spiently conscious creature as a result. 
 
 **Ngurm Fate**: Anytime you rest, roll a [Will] or [Fort] save with a DV equal to your spell sickness + the number of wounds you have. If you fail, you cease to be and a kunekunar is created.
+
+**Latent Stop**: You gain a 1d4 bonus to all counter spell checks. At 4th level this becomes a d6. At 8th level this becomes a d8.
