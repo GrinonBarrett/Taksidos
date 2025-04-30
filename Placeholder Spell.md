@@ -1,13 +1,15 @@
-#### Deject
+#### Create a spell that allows one to create a bead of elemental energy which can be used as a flail or sling, but also deals the elemental attack.
 
-**Minimum Tier**: 1
+**Minimum Tier**: 3
 
-**Casting TIme**: 1 reaction, which you take in response to a projectile attack against yourself
+**Casting Time**: 2 action
 
-**Effect**: You gain a bonus to defense against that attack equal to the lowest of the spell's tier as a web of glowing particles forms a screen between yourself and the projectile. If the attack is a critical failure, the projectile ceases to exist. This cannot affect a magical projectile unless the spell check is a critical success.
+**Range**: 3 yards
 
-Note that as it only affects projectiles, meaning rays are unaffected by the spell.
+**Effect**: You produce a large icicle to be thrust foward, impaling your foe. This inflicts a piercing attack, then a cold attack. If the piercing attack is a critical hit, the cold attack has advantage. In response to brawling/trampling (or being trampled by) a foe as a result of movement, you may reflexively cast this spell to function as an attack of opportunity.
 
-**At Higher Tiers**: The benefits for higher tiers are noted above.
+You may choose to treat the piercing attack as a spear attack or pike attack instead, gaining any benefits of the Warrior's Weapon Mastery if applicable.
 
-**Critical Failure**: The glowing particles actually pull in the projectile, giving it a bonus for the purpose of determining a critical hit equal to the spell's tier.
+**At higher Tiers**: For each tier beyond minimum, this spell's range increases by 15 yards.
+
+**Critical Failure**: A partial icicle forms in one of your hands- causing any item held by it to be dropped and leaving you vulnerable until the end of the round as you wrestle with it.
