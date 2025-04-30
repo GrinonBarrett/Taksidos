@@ -1,4 +1,4 @@
-#### Create a spell that allows one to create a bead of elemental energy which can be used as a flail or sling, but also deals the elemental attack.
+#### Orb Mote
 
 **Minimum Tier**: 3
 
@@ -10,6 +10,6 @@ You may wind the globe as though it were a flail/sling. When used for a melee at
 
 This ball of energy lasts until the end of the round, or it would qualify to damage armor (where the orb becomes compromised and breaks after the strike), whichever occurs first.
 
-**At higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
+**At Higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
 
-**Critical Failure**: A partial icicle forms in one of your hands- causing any item held by it to be dropped and leaving you vulnerable until the end of the round as you wrestle with it.
+**Critical Failure**: You fail to stablize the orb, causing it to explode. You are knocked back 1d8 feet and suffer an attack of the exotic attack with a bonus equal to the spell's tier.
