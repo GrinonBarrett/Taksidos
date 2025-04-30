@@ -26,9 +26,9 @@ Choose two attributes. They are increased by a single level each.
 **Strawman Nature**: Ngurms are made of unusual materials. As such they  
  • Do not need to eat or breathe. You still need to sleep.  
  • Are immune to diseases, poisons, and venom.  
- • You cannot receive wounds as a result of psychic attacks.
- • Are not affected by spells which would affect flesh. 
- • When not wearing armor, you are treated as wearing Gambeson, but have a -1 to defense against all attacks. When wearing armor, use the appropriate defense for that armor. So long as it weighs no more than half again, and no less than standard, weight for armor of a creature of your size- you can wear that armor even if it would not be suitable for your creature type. 
+ • You cannot receive wounds as a result of psychic attacks.  
+ • Are not affected by spells which would affect flesh.  
+ • When not wearing armor, you are treated as wearing Gambeson, but have a -1 to defense against all attacks. When wearing armor, use the appropriate defense for that armor. So long as it weighs no more than half again, and no less than standard, weight for armor of a creature of your size- you can wear that armor even if it would not be suitable for your creature type.  
  • Cold and toxic attacks have disadvantage against the ngurm. Fire and electric attacks gain advantage against the ngurm.  
  • Critical hits of Fire attacks leave the ngurm vulnerable until the end of the round.  
  • Any effect which would heal the ngurm has a 1 in 3 chance not to.
