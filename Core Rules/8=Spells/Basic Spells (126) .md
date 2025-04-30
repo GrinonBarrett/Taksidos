@@ -747,7 +747,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (4
+### G (5
 
 #### Glitter
 
@@ -766,6 +766,22 @@ Hypothetically, 5 whole minutes of fully submerged washing could preemtively dis
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the duration by 1 minute or the range of the explosion by 1 yard.
 
 **Critical Failure**: You create a small puff of the glitter- just enough to coat yourself. It lasts as long as you have spell sickness.
+
+#### Gnash
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 25 yards
+
+**Effect**: Against a diminutive creature or object, you conjure a forcefield in the shape of a jaw to clamp down in rapid succession. This inflicts a biting attack and crushing attack against it.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to affect a creature or object of 1 size category greater or increase the range by 3 yards.
+
+**Critical Failure**: You bind yourself in a jaw shaped forcefield instead, making you prone and unable to escape. At the end of each round, it inflicts a biting and crushing attack against you. It lasts for a number of rounds equal to the spell's tier.
+
+[Gnash Spell]: # "Created in response to someone joking about there being a Gnash spell in an XP to Level 3 video. Also, adds a nice powerful combat spell that has a high risk for the user."
 
 #### Grasp
 
