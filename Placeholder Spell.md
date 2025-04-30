@@ -1,13 +1,13 @@
-#### Gnash
+#### Deject
 
 **Minimum Tier**: 1
 
-**Casting Time**: 2 actions
+**Casting TIme**: 1 reaction, which you take in response to a projectile attack against yourself
 
-**Range**: 25 yards
+**Effect**: You gain a bonus to defense against that attack equal to the lowest of the spell's tier as a web of glowing particles forms a screen between yourself and the projectile. If the attack is a critical failure, the projectile ceases to exist. This cannot affect a magical projectile unless the spell check is a critical success.
 
-**Effect**: Against a diminutive creature or object, you conjure a forcefield in the shape of a jaw  to clamp down in rpaid succession. This inflicts a biting attack and crushing attack against it.
+Note that as it only affects projectiles, meaning rays are unaffected by the spell.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to affect a creature or object of 1 size category greater.
+**At Higher Tiers**: The benefits for higher tiers are noted above.
 
-**Critical Failure**: You bind yourself in a jaw shaped forcefield instead, making you prone and unable to escape. At the end of each round, it inflicts a biting and crushing attack against you. It lasts for a number of rounds equal to the spell's tier.
+**Critical Failure**: The glowing particles actually pull in the projectile, giving it a bonus for the purpose of determining a critical hit equal to the spell's tier.
