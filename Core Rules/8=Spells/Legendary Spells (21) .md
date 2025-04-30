@@ -33,7 +33,7 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
-### Alekora (1
+### Alekora (2
 Right hand to alekard.
 
 #### Alekora's Rebuke
@@ -49,6 +49,20 @@ Right hand to alekard.
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range by 2 yards.
 
 **Critical Failure**: You fail to produce the blast, suffering spells sickness equal to the spell's tier -1.
+
+#### Alekora's Screech
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 30 yards
+
+**Effect**: You scream at a foe in some infernal tongue. This inflicts a sonic attack against the target. If the spell's attack would qualify to damage armor, it instead lights the foe ablaze as though by the critical hit of a fire attack.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to affect an additional creature within range.
+
+**Critical Failure**: You scream out, but affect only yourself with this spell.
 
 ### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
