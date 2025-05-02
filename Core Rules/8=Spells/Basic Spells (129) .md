@@ -262,7 +262,7 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
 
-### C (4
+### C (5
 
 #### Call Lightning
 
@@ -277,6 +277,18 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is tripled.
 
 **Critical Failure**: The spell instead targets the closest creature to you. If no creature is within half of the range of this spell, it instead attacks you.
+
+#### Charged Wave
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 Action
+
+**Effect**: You direct a stream of energized particles in a 3 yard mikrofan. Anything within the cone is subject to a ki attack.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's mikrofan by 1 yard.
+
+**Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
 
 #### Collapse
 
