@@ -16,7 +16,7 @@ Some spells let you use a reaction to cast it. This does not count as reflexive 
 Spell sickness is a cumulative -1 penalty to casting spells for an hour. If this penalty builds up, it is simply reduced by 1 per hour, instead of each individual point being lost after an hour.
 
 ### Learning  Spells
-Each character is capable of learning the inner workings of a spell by devoting time to study it. With the proper learning materials, it will take a number of total hours of study equal to 6 + the minum tier of the spell. If only incomplete materials are available, it will take at least 8 hours a day for a number of days equal to 1d4+6 per tier of the spell. Each week that passes without continuing the study from incomplete materials will cause a day of regression in your progress.
+Each character is capable of learning the inner workings of a spell by devoting time to study it. With the proper learning materials, it will take a number of total hours of study equal to 5 + the minumum tier of the spell- the sum of which is multiplied by the minimum tier of the spell. If only incomplete materials are available, it will take at least 8 hours a day for a number of days equal to 1d4+6 per tier of the spell. Each week that passes without continuing the study from incomplete materials will cause a day of regression in your progress.
 
 #### Benefits of Knowing a Spell
 A character that is familiar with a spell gets a +1 bonus to their defense against that spell and a +2 to any saves against it. They may also cast the spell using any means of spellcasting available to them. Additionally, your character will be able to recognize the spell, even if it is a twisted variation of the spell.
