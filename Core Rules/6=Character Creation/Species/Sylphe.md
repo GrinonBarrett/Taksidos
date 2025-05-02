@@ -61,4 +61,4 @@ Choose three attributes. Each are increased by 1.
 
 **Sylphe’s Field**: Once per encounter as an action, you may produce a field around yourself which strecthes up to a number of feet equal to your level. _Projectiles, particulates (such as dirt and sand) and minor objects (such as papers, marbles, random knick knacks of an unsecured variety, loose clothing, etc) cannot move into or out of the field. The field, and anything within it, are suspended in the space occupied by the field. This stops any falling or knockback that would occur when the field is active. The field remains active for up to 3 rounds._
 
-**Venting Burst**: You innately know the Venting Burst spell.
+**Wyrding Gust**: Choose either the Venting Burst spell or the Vortex Wake spell. You know the selected spell.
