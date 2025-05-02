@@ -98,7 +98,7 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 
 **Casting Time**: 1 reaction, which you take in response to rolling for initiative
 
-**Effect**: You move a number of yard up to the spell's tier or a number of feet equal to the points of success. If you choose to move based on the spell's tier and ths spellcheck is a critical success, you may move an additional number of yards equal to your [Magic] bonus.
+**Effect**: You move a number of yards up to the spell's tier or a number of feet equal to the points of success. If you choose to move based on the spell's tier and ths spellcheck is a critical success, you may move an additional number of yards equal to your [Magic] bonus.
 
 **At Higher Tiers**: Other than the above listed benefit, for each tier beyond minimum, the distance you move if basing the distance on the spell check result is increased by 1d4+1 feet.
 
@@ -357,7 +357,7 @@ Effects that restore points of undeath from within the field or affecting a targ
 * Snuff any and all flame in the area.
 * Prevent combustion in the area.
 * Move it up to a number of feet equal to the points of success.
-* Direct the fire to inflict a fire attack against a foe.
+* Redirect a fire attack made against a creature/object to another.
 
 This spell is active as long as you concentrate on it. When casting or concentrating on this spell, you may spend any additional number of additional actions to increase the volume you can affect by a number of cubic feet equal to the spell's tier.
 
@@ -583,13 +583,13 @@ If the flame is directed into an object or creature, it inflicts a cold attack w
 
 **Range**: 20 yards
 
-**Effect**: You call an object you have physically possessed before, which you are able to perceive, to come to you. It moves at a speed of 20 yards per move. If an obstacle comes between you and the object, it harmlessly bounces off the obstacle and falls instead of continuing. The object can fall at your feet, conveniently slip into the appropriate container on your p[erson, or enter you hand seamlessly once it arrives.
+**Effect**: You call an object you have physically possessed before, which you are able to perceive, to come to you. It moves at a speed of 20 yards per move. If an obstacle comes between you and the object, it harmlessly bounces off the obstacle and falls instead of continuing. The object can fall at your feet, conveniently slip into the appropriate container on your person, or enter you hand seamlessly once it arrives.
 
 If a creature has possessed the object since you did, the spell will not work and you will know that the item has been distrubed in some way.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
 
-**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it doesn not "harmlessly" bounce on impact.
+**Critical Failure**: You yeet the item in another direction at maximum speed. If it was fragile and hits something, it does not "harmlessly" bounce on impact.
 
 #### Feyding Gesture
 
@@ -1830,7 +1830,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (6
+### V (7
 
 #### Venting Burst
 
@@ -1840,7 +1840,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Range**: 1 yard
 
-**Effect**: You produce a line up to 6 yards long and up to 1 yard high and wide. Everything in the way of this line is pushed back a number of feet equal to the spell check result + + spel tier + [Magic] score divided by their weight in stones. Alternatively, you may have the shap of the effect by a cone. If so, the range is reduced to a third of its length. Furthermore, you may opt to have the shape changed to a fan or semifan, but this halves the length.
+**Effect**: You produce a line up to 6 yards long and up to 1 yard high and wide. Everything in the way of this line is pushed back a number of feet equal to the spell check result + spell tier + [Magic] score divided by their weight in stones. Alternatively, you may have the shap of the effect by a cone. If so, the range is reduced to a third of its length. Furthermore, you may opt to have the shape changed to a fan or semifan, but this halves the length.
 
 This can blow away gasses and vapors, including those of a magical nature.
 
@@ -1876,6 +1876,24 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You swear you see something, but it vanishes before you can identify it. After a number of rounds equal to the spell's tier, you gain 1d4 spell sickness.
 
+#### Voice of Familiarity
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Effect**: You send a telpathic message to any number of creatures you are personally familiar with on the same plane of existence. The length of the message is a number of words equal to the spell's tier divided by the number of creatures you choose to communicate with. This spell does not allow you to know if a creature received your message or if it is even on the same plane of existence.
+
+When you cast this, you may choose for recipients to understand the message to be of your voice or as an unknown voice.
+
+A critical success with the spell allows you to do one of the following;  
+Increase the word count to increase to spell tier + [Magic] bonus divided by number of intended recipients, or  
+Treat the "voice" of the spell as being one of another creature you are familiar with.
+
+**At Higher TIers**: The benefits are noted above.
+
+**Critical Failure**: The message fails to reach anything.
+
 #### Volt Switch
 
 **Minimum Tier**: 1
@@ -1904,23 +1922,19 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You conjure a volley but have given it the worng direction. Instead, the area is centered on you.
 
-#### Voice of Familiarity
+#### Vortex Wake
 
-**Minimum Tier**: 3
+**Minimum Tier**: 2
 
-**Casting Time**: 1 action
+**Casting Time**: 2 actions
 
-**Effect**: You send a telpathic message to any number of creatures you are personally familiar with on the same plane of existence. The length of the message is a number of words equal to the spell's tier divided by the number of creatures you choose to communicate with. This spell does not allow you to know if a creature received your message or if it is even on the same plane of existence.
+**Effect**: You produce a a swirling vortex of air which takes the shape of a 2 yard inverted cone. An undamaging attack is inflicted on everything in the area. If successful, a creature will be knocked back a number of feet equal to the points of success divided by its weight in stones. On a critical hit, an affected creature is knocked prone until they spend an action or their movement as they are thrown off balance.
 
-When you cast this, you may choose for recipients to understand the message to be of your voice or as an unknown voice.
+This can blow away gasses and vapors, including those of a magical nature.
 
-A critical success with the spell allows you to do one of the following;  
-Increase the word count to increase to spell tier + [Magic] bonus divided by number of intended recipients, or  
-Treat the "voice" of the spell as being one of another creature you are familiar with.
+**At Higher Tiers**: Each tier beyond minimum increases the length by 1 yard or allows you to have the point of origin be 1 yard away (or further away) from you.
 
-**At Higher TIers**: The benefits are noted above.
-
-**Critical Failure**: The message fails to reach anything.
+**Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
 ### W (8
 
@@ -2127,4 +2141,4 @@ This spell lasts twice as long as the time spent to cast it.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the spell's shape by up to 1.5 yards.
 
-**Critical Failure**: Whatever has been conjured this way is not your ally. So long as you are within the area of the spell, it will also attack you and your allies at the end of every round. As you move, it will also move to catch up with you during each move phase- up to a number of yards equal to half of your mode of movement + a number of yards equal to the spell's tier. If you cast the spell at a higher tier but did not expand the spell to its fullest extent, it will do so to reach you.
+**Critical Failure**: Whatever has been conjured this way is not your ally. So long as you are within the area of the spell, it will also attack you and your allies at the end of every round. As you move, it will also move to catch up with you during each  phase- up to a number of yards equal to half of your mode of ment + a number of yards equal to the spell's tier. If you cast the spell at a higher tier but did not expand the spell to its fullest extent, it will do so to reach you.
