@@ -2117,7 +2117,7 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Duration**: 1 hour
 
-**Effect**: A creature you touch becomes enchanted in such a way that it treats liquids as a solid object. this cause it to be able to stand atop such a material and potential form it, but also causes it to function like a barrier to it. The narrator determines if a substance is considered as hard as wood, stone, or metal to them- but clouds are functionally as stone to the subject.
+**Effect**: A creature you touch becomes enchanted in such a way that it treats liquids as a solid object. this cause it to be able to stand atop such a material and potential form it, but also causes it to function like a barrier to it. The narrator determines if a substance is considered as hard as wood, stone, or metal to them.
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
 
