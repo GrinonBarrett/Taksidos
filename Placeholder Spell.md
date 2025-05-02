@@ -1,15 +1,13 @@
-#### Orb Mote
+#### Vortex Drill
 
-**Minimum Tier**: 3
+**Minimum Tier**: 2
 
-**Casting Time**: 3 actions
+**Casting Time**: 2 actions
 
-**Effect**: Choose an exotic damage type. You create an orb of energy which you can direct around you, with it returning to your hand. You may swing it as a flail within 2 yards to inflict a dagger attack or you may hurl it a number of yards equal to double the spell's tier to inflict a sling attack or thrown blade attack. If the initial attack is successful, you inflict an attack of the chosen exotic type.
+**Effect**: You produce a a swirling vortex of air which takes the shape of a 2 yard inverted cone. An undamaging attack is inflicted on everything in the area. If successful, an affected creature is knocked prone until they spend an action or their movement as they are thrown off balance. A critical success against a creature will knock it back a number of feet equal to the points of success divided by its weight in stones.
 
-You may wind the globe as though it were a flail/sling. When used for a melee attack, if you have training with flails, you may benefit from it. If using it as a sling or thrown blade and you have training with the appropriate weapon, you may benefit from that training.
+This can blow away gasses and vapors, including those of a magical nature.
 
-This ball of energy lasts until the end of the round, or it would qualify to damage armor (where the orb becomes compromised and breaks after the strike), whichever occurs first.
+**At Higher Tiers**: Each tier beyond minimum increases the length by 1 yard or allows you to have the point of origin be 1 yard away (or further away) from you.
 
-**At Higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
-
-**Critical Failure**: You fail to stablize the orb, causing it to explode. You are knocked back 1d8 feet and suffer an attack of the exotic attack with a bonus equal to the spell's tier.
+**Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
