@@ -4,6 +4,9 @@ A grimoire is sufficient material to study in learning a spell. Each spell is re
 
 If a tome is written in a language the reader does not understand, they may require a check to understand the nature of any spell contained. A character capable of casting a spell can identify if the grimoire possesses it, but still cannot benefit from the tome until they can understand the written language.
 
+#### Creating a Grimoire
+The materials to create a grimoire sturdy enough to be reliable for one to learn from costs at least $1,000 per spell to be contained. Additionally, great care must be taken to ensure the material is suitable for any mage other than themself to understand as most mages have a distinctive style. This requires an amount of time equal to 336 hours, times the minimum tier of the spell squared, divided by the highest tier they have cast the spell as. An author may increase the tier that the spell is recorded as in their grimoire by an amount up to their [Inte] bonus without affecting the time to produce the manual.
+
 **Generic Grimoires**  
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
