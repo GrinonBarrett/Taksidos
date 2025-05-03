@@ -5,7 +5,7 @@ A grimoire is sufficient material to study in learning a spell. Each spell is re
 If a tome is written in a language the reader does not understand, they may require a check to understand the nature of any spell contained. A character capable of casting a spell can identify if the grimoire possesses it, but still cannot benefit from the tome until they can understand the written language.
 
 #### Creating a Grimoire
-The materials to create a grimoire sturdy enough to be reliable for one to learn from costs at least $1,000 per spell to be contained. Additionally, great care must be taken to ensure the material is suitable for any mage other than themself to understand as most mages have a distinctive style. This requires an amount of time equal to 336 hours, times the minimum tier of the spell squared, divided by the highest tier they have cast the spell as. An author may increase the tier that the spell is recorded as in their grimoire by an amount up to their [Inte] bonus without affecting the time to produce the manual.
+The materials to create a grimoire sturdy enough to be reliable for one to learn from costs at least $1,000 per spell to be contained. Additionally, great care must be taken to ensure the material is suitable for any mage other than themself to understand as most mages have a distinctive style. This requires an amount of time equal to 336 hours, times the minimum tier of the spell squared, divided by the highest tier they have cast the spell as. An author may increase the tier that the spell is recorded as in their grimoire by an amount up to their [Inte] bonus without affecting the time to produce the manual. The weight of such an item is 1 pound plus half a pound per spell, with a minimum of 2 pounds.
 
 **Generic Grimoires**  
 $6,000, 2.5 lbs.  
@@ -138,13 +138,11 @@ This tome functions as both instructional material on combat oriented spells and
 * Psychoburst,
 * Sobering, 
 
-**Tome of Dulzern**  
-$10,000 , 8 lbs  
-One of many holy scriptures for the followers of Dulzern. This grimoire contains the following spells at the indicated tiers;
+**Tome of the Brass Chaplains**  
+$10,000 , 5 lbs  
+One of many holy scriptures for the followers of Dulzern. Unlike most tomes for the followers, this is seen as purely supplemntary material and contains no rites. This grimoire contains the following spells at the indicated tiers;
 * Empathic Ward
 * Fortify
 * Illproofing
 * Resend
 * Wall of Denial  
-
-It also contains rites for the following rites ().
