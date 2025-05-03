@@ -86,7 +86,7 @@ Their collective noun is feast.
 #### Special Features
 
 **Undead Nature**: As an undead creature, the lurching departed has a few advantages:  
-**-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
+**-** They do not need to breathe or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
 **-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
 **-** Cannot be healed by an effect unless it specifically affects undead.  
@@ -94,9 +94,9 @@ Their collective noun is feast.
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Thirst and Hunger**: .
+**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It will die of thurst.
 
 -----
 
-***Creating a Lurching Departed***: It is possible for one to use the Animate spell to create a lurching departed from a corpse, regardless of its condition, if it is cast as a 2nd tier or greater. On a critical success, the lurching dead will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for either 1d4-1 hours per point of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
-It is fully animate 1d6+4 rounds after the spell completes.
+***Creating a Hungering Dry***: It is possible for one to use the Animate spell to create a hungering dry from a corpse, regardless of its condition, if it is cast as a 2nd tier or greater so long as it is in contact with an amount of salt equal to at least one-tenth of its body weight. On a critical success, the hungering dry will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for either 1d4-1 hours per point of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+It is fully animate 1d8+2 rounds after the spell completes.
