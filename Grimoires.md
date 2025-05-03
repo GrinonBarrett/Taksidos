@@ -1,7 +1,7 @@
 **Grimoire of Âreur**  
 *Unique*  
 $ , 4 lbs  
--  
+...  
 * Expulsion Sphere,
 * Missiles of Light,
 * Ironside,
