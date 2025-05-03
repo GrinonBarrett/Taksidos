@@ -1,6 +1,6 @@
 Here are a number of dangerous materials including a description, their origin, and the value of it if one was to seek it out.
 
-**Uilpas**, $40 per ounce  
+**Uilpas**, $70 per ounce  
 A contact toxin developed from a poisonous root which is used for hunting. It is a paralytic with a short window of affect. Something wounded by a weapon coated in this must succeed a DV 15 [Fort] save or become prone. Once it has been prone this way for a whole round, it becomes immobile for a number of rounds equal to the points of failure. A creature gets a +2 bonus to its save for every size category above diminutive it is. An once could cover 6 sling bullets, 4 bolts/arrows, a 2 pikes, a dagger's blade, or a spear/javelin head. For other weapons, other than firearms, it requires an ounce for every 2/3 foot of range the weapon's point of contact would have. This wears off in 1d6+2 hours once applied. A cautious application requires 7 minutes per ounce.
 
 **Milk of the Nightcap**, $35 per ounce  
