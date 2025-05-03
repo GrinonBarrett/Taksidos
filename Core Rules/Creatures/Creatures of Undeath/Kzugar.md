@@ -82,6 +82,6 @@ They appear as a flame of vibrant color. They move like a dancing flame. Their e
 
 **Globocclusion**: It can see in a complete globe around itself instead of a single direction.
 
-**Glow**: It produces dim light out for 5 yards. This glow exists on the material plane and the psychic plane.
+**Glow**: It produces dim light out for 5 yards. This glow exists on the material plane and the psychic plane. The glow itself has no discernable color, it simply manages to illuminate the space to eyes.
 
 **Resist Mundanity**: Non-magical attacks against the kzugar cannot be critical hits.
