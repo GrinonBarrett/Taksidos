@@ -1,68 +1,56 @@
-### Bromelar
-Bipedal forms of thorns and brambles, these creatures roam the rarely vistited wild realms. They have an innate and unquenchable hatred for undead creatures of all kinds and will attack on sight. The plural is Bromelain. Their collective noun is a Bushel.
+### Hungering Dry
+A flesh eating goul that cann touch non-sapient grass or cross moving waters. It has a reputation among saltsingers as one of their natural enemies.
 
-**Creature Type**: Bromelain are Plant creatures.
+An easily made form of undead created by those that believe necromancy to be a means of acquiring power, this form is often seen being used as minions for an intelligent creature. Unlike many forms of undead, these can be skeltal or retain almost all of the original fleshy dressings of its former corpse. Their collective noun is a shamble.
 
-**Size**: Bromelain between 6'7"-6'9" feet tall. They can weigh between 100 and 120 pounds. They are medium creatures.
+**Creature Type**: Lurching departed are undead.
 
-**Languages**: Bromelain speak the Wild Tongue.
+**Size**: Lurching departed stand between 4 and 6 feet. They can weigh between 70 and 200 pounds. They are medium creatures.
 
-**Table**: *Creature's Reaction*
-| Result | **Emotion and Intensity** | Notes        |
-|--------|-------------------|----------------------------------------------------------------|
-|        |                                                |                                   |
-|   3-4  | Curious (1)   | It is going about its business. |
-|   5-6  | Curiosity (2) | It is simply curious about what the party is doing. |
-|   7-8  | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
-|  9-12  | Hostility (2) | It seems a bit territorial. |
-|  13-15 | Hostility (3) | It is defending its territory. |
-|  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
-|   1-2  | Amicable (1)  | It is going about its business. |
-
-**Hitpoints**: A bromelar has 4 hitpoints.
+**Undeath**: A lurching departed has 20 points of undeath.
 
 **Attributes**:  
-[Body] 15 (+5)  
-[Fort] 14 (+4)  
-[Rflx] 11 (+3)  
-[Will] 11 (+3)  
-[Inte] 7 (+2)  
-[Prcp] 11 (+3)  
-[Empy] 8 (+2)  
+[Body] 11 (+3)  
+[Fort] 8 (+2)  
+[Rflx] 8 (+2)  
+[Will] 8 (+2)  
+[Inte] 6 (+2)  
+[Prcp] 8 (+2)  
+[Empy] 6 (+2)  
 
-**Run Speed**: It may run up to 5 yards per move.
+**Languages**: Lurching departed don't speak.
 
-**Climb speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to do so.
+**Run Speed**: It may run up to 4 yards per move.
+
+**Climb speed**: You may swim up to 1 foot per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Smash: The thoron may use any part of its body to strike a foe within 1 yard. This is a melee piercing attack.
-
- • Thorn Shot: The thoron may fire a thorn at a creature within a number of yards equal to either its [Rflx] score or [Prcp] score (which are both 11 by default). If it is within both, this is considered optimal range. This is a ranged bolt or piercing attack.
+ • Smack: The lurching departed may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
 
 ---------------------
 
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
-|                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe** | 11     | **Arrow, Bodkin Point**    | 16    |
-| **Longsword**              | 12     | **Greatsword** | 11     | **Arrow, Broadhead**       | 16    |
-| **Mace**                   | 12     | **Maul** | 11     | **Bolt** | 16    |
-| **Spear**                  | 12     | **Pike** | 12     | **Brusgiata** | 16     |  |     |
-| **Hand Axe**               | 12     | **Madu** | 15     | **Chakram** | 16    |
-| **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 16    |
-| **Dagger**                 | 13     | **Throwing Blade** | 16    | **Musket** | 16    |
-| **Morningstar**            | 12     | **Sling** | 16    | **Tronutonante** | 16    |
-| **Warpick**                | 13     |   |     | **Bare** | 18  |
-|                        |           |          |            |         |            |
-| **Acid**                   | 10     | **Fire** | 6     | **Psychic** | 13     |
-| **Cold**                   | 13     | **Force** | 11     | **Toxic**  | 14     |
-| **Crushing**               | 11     | **Ki** | 11     | **Radiant** | 12     |
-| **Cutting**                | 11     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 13     | **Piercing** | 12     | **Biting** | 12    |
-|                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
+|                            |        |                    |        |                            |         |
+| **Club**                   | 16     | **Pole Axe**       | 14     | **Arrow, Bodkin Point**    | 17    |
+| **Longsword**              | 15     | **Greatsword**     | 14     | **Arrow, Broadhead**       | 17    |
+| **Mace**                   | 15     | **Maul**           | 14     | **Bolt**                   | 17    |
+| **Spear**                  | 15     | **Pike**           | 15     | **Brusgiata**              | 18    |
+| **Hand Axe**               | 15     | **Madu**           | 15     | **Chakram**                | 19    |
+| **Katar**                  | 15     | **Javelin**        | 15     | **Arquebus**               | 17    |
+| **Dagger**                 | 17     | **Throwing Blade** | 20     | **Musket**                 | 16    |
+| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante**           | 17    |
+| **Warpick**                | 14     |                    |        | **Bare**                   | 21    |
+|                            |        |                    |        |
+| **Acid**                   | 14     | **Fire**           | 13     | **Psychic**                | 18     |
+| **Cold**                   | 20     | **Force**          | 15     | **Toxic**                  | 25     |
+| **Crushing**               | 14     | **Ki**             | 14     | **Radiant**                | 14     |
+| **Cutting**                | 15     | **Necrotic**       | 15     | **Sonic**                  | 15     |
+| **Electrical**             | 16     | **Piercing**       | 14     | **Biting**                 | 16     |
+|                            |        |                    |        |                            |        |
+| **Unlisted Damage Type**   | 15     |                    |        | **Undamaging**             | 14     |
 
 
 
@@ -71,22 +59,22 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
 |   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
-|   4    | Thorny Burst      | A cluster of thorns fires at the source of the damage, if it is within 25 yards, inflict a piercing attack with a d4 bonus against it. |
-|   5    | Glancing Blow     | This wound has no effect. |
-|   6    | Critical Vision   | The thoron's instincts and sensory organs experience a strange boost for a moment. It can see in a perfect sphere until the end of the next round.|
-|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
+|   3    | Glancing Blow     | No ill effects. |
+|   4    | Smashed Limb      | The lurching departed loses one of its arms (or equivalent limb). |
+|   5    | Broken Bone       | The lurching departed is prone until the end of the next round. |
+|   6    | Glancing Blow     | No ill effects. |
+|   7    | Premature Redeath | **Biased wound**. The lurching departed is destroyed. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Agonizing Blow    | The thoron loses its reaction during the next round. |
-|   10   | Head Shot         | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
+|   9    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
+|   10   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Glancing Blow     | No ill effects. |
-|   13   | Thorn Burst       | **Biased wound**. A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A thoron cannot be affected by this.  |
-|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
+|   13   | Stumble           | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   14   | Broken Bone       | It is prone until the end of the next round. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Stumble           | **Biased Wound**. UNtil the end of the next round, its movement speed is halved. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Glancing Blow     | No ill effect. |
+|   16   | Glancing Blow     | **Biased wound**. No effect. |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone. |
+|   18   | Broken Bone       | It is prone until the end of the next round. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
@@ -95,16 +83,18 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 
 #### Special Features
 
-**Plant Nature**: As a plant creature, the bromelar has a few advantages:  
-**-** They do not need to breathe or sleep. They must still rest.  
-**-** Immunity to diseases unless they specifically affect plants.  
-**-** Immunity to Bloodloss.  
-**-** Cannot be incapacitated except by an effect which explicitly affects plants.  
+**Undead Nature**: As an undead creature, the lurching departed has a few advantages:  
+**-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
+**-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
+**-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
+**-** Cannot be healed by an effect unless it specifically affects undead.  
+**-** Cannot be destroyed by massive damage.  
+**-** Does not produce warmth.  
+**-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Alacrity**: When rolling for initiative, the bromelar may use its reaction to move a number of feet equal to its result- so long as it does not exceed the appropriate mode of movement. It decides this after turn order is determined, but before actions are taken.
+**Mindless**: Lurching departed do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
 
-**Thorny**: Anytime the bromelar successfully grapples a foe, is attacked by a melee range unarmed attack, is trampled, or performs an opposed check in a brawl, it inflicts a piercing attack against that creature.
+-----
 
-**Great Leap**: The bromelar may roll a d4, d6, or d8 as an action. It receives spell sickness equal to the result. It then ejects a number of thorns equal to the result, each inflicting a piercing attack against a different creature it can perceive within 25 yards. It can combine multiple projectiles into a single attack against a creature. If it does, it inflicts only a single attack against that creature which gains a +1 bonus for each additional projectile in the attack.
-
-**Undo Undeath**: The bromelar gains a +2 bonus to all attacks against undead creatures. Additionally, each successful attack by the bromelar against a creature of undeath reduces its points of undeath by an aditional 1d8 points.
+***Creating a Lurching Departed***: It is possible for one to use the Animate spell to create a lurching departed from a corpse, regardless of its condition, if it is cast as a 2nd tier or greater. On a critical success, the lurching dead will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for either 1d4-1 hours per point of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
+It is fully animate 1d6+4 rounds after the spell completes.
