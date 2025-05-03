@@ -94,7 +94,9 @@ Their collective noun is feast.
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It will die of thurst.
+**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It will die of thirst. A hungering dry petrified this way can be restored by 2 servings of water.
+
+**Dry Bite**: A creature afflicted by the bite of a hungering dry must succeed a [Fort] save with a DV of 17 or receive a level of fatigue. Additionally, even if it does succeed, if it is not a critical success, their thirst increased to need 1d4+1 additional servings of water. A critical failure will petrify the creature for a number of rounds equal to the points of failure.
 
 -----
 
