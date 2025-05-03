@@ -1,13 +1,11 @@
 ### Hungering Dry
-A flesh eating ghoul that cann touch non-sapient grass or cross moving waters. It has a reputation among saltsingers as one of their natural enemies.
-
-Their collective noun is feast.
+Found in the wastes and desserts, they attack on sight out of desperation. It has a reputation among saltsingers as one of their natural enemies. Their collective noun is feast.
 
 **Creature Type**: Hungering Dry are undead.
 
 **Size**: Hungering dry stand between 4 and 5 feet. They can weigh between 58 and 73 pounds. They are medium creatures.
 
-**Undeath**: A lurching departed has 40 points of undeath.
+**Undeath**: A hungering dry has 48 points of undeath.
 
 **Attributes**:  
 [Body] 9 (+3)  
@@ -85,7 +83,7 @@ Their collective noun is feast.
 
 #### Special Features
 
-**Undead Nature**: As an undead creature, the lurching departed has a few advantages:  
+**Undead Nature**: As an undead creature, the hungering dry has a few advantages:  
 **-** They do not need to breathe or sleep. Rest occurs when they are inactive.  
 **-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
 **-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
@@ -94,13 +92,13 @@ Their collective noun is feast.
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It will die of thirst. A hungering dry petrified this way can be restored by 2 servings of water.
+**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It can eat a pound of salt to serve as a single serving of food. This increases its thirst 1d4+1 servings. It will die of thirst. A hungering dry petrified this way can be restored by 2 servings of water.
 
 **Weaknesses**: The hungering dry cannot willingly touch non-sapiant plant life. If it is forced to make contact, it is vulnerable for the entire time. The unarmed attacks of plant creatures gain advantage against the hungering dry.
 
 **Unnatural Creeping**: When it is prone, it does not suffer the usual penalty to movement.
 
-**Dry Bite**: A creature afflicted by the bite of a hungering dry must succeed a [Fort] save with a DV of 17 or receive a level of fatigue. Additionally, even if it does succeed, if it is not a critical success, their thirst increased to need 1d4+1 additional servings of water. A critical failure will petrify the creature for a number of rounds equal to the points of failure.
+**Dry Bite**: A creature afflicted by the bite of a hungering dry must succeed a [Fort] save with a DV of 17 or receive a level of fatigue. Additionally, even if it does succeed, if it is not a critical success, their thirst is increased to need 1d4+1 additional servings of water. If a creature would die of thirst as a result, it is instead petrified. 2 servings of water can restore it from this condition, but it will become a hungering dry if it 
 
 **Ghoulish Grasp**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
 
