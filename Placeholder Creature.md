@@ -96,7 +96,13 @@ Their collective noun is feast.
 
 **Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It will die of thirst. A hungering dry petrified this way can be restored by 2 servings of water.
 
+**Weaknesses**: The hungering dry cannot willingly touch non-sapiant plant life. If it is forced to make contact, it is vulnerable for the entire time. The unarmed attacks of plant creatures gain advantage against the hungering dry.
+
+**Unnatural Creeping**: When it is prone, it does not suffer the usual penalty to movement.
+
 **Dry Bite**: A creature afflicted by the bite of a hungering dry must succeed a [Fort] save with a DV of 17 or receive a level of fatigue. Additionally, even if it does succeed, if it is not a critical success, their thirst increased to need 1d4+1 additional servings of water. A critical failure will petrify the creature for a number of rounds equal to the points of failure.
+
+**Ghoulish Grasp**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
 
 -----
 
