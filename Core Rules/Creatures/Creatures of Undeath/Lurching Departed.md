@@ -20,7 +20,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 
 **Run Speed**: It may run up to 4 yards per move.
 
-**Climb speed**: You may swim up to 1 foot per move, presuming it is reasonable terrain to do so.
+**Climb speed**: It may climb up to 1 foot per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
