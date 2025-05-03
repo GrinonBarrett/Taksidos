@@ -1,16 +1,16 @@
 ### Hungering Dry
-A flesh eating goul that cann touch non-sapient grass or cross moving waters. It has a reputation among saltsingers as one of their natural enemies.
+A flesh eating ghoul that cann touch non-sapient grass or cross moving waters. It has a reputation among saltsingers as one of their natural enemies.
 
-An easily made form of undead created by those that believe necromancy to be a means of acquiring power, this form is often seen being used as minions for an intelligent creature. Unlike many forms of undead, these can be skeltal or retain almost all of the original fleshy dressings of its former corpse. Their collective noun is a shamble.
+Their collective noun is feast.
 
-**Creature Type**: Lurching departed are undead.
+**Creature Type**: Hungering Dry are undead.
 
-**Size**: Lurching departed stand between 4 and 6 feet. They can weigh between 70 and 200 pounds. They are medium creatures.
+**Size**: Hungering dry stand between 4 and 5 feet. They can weigh between 58 and 73 pounds. They are medium creatures.
 
-**Undeath**: A lurching departed has 20 points of undeath.
+**Undeath**: A lurching departed has 40 points of undeath.
 
 **Attributes**:  
-[Body] 11 (+3)  
+[Body] 9 (+3)  
 [Fort] 8 (+2)  
 [Rflx] 8 (+2)  
 [Will] 8 (+2)  
@@ -18,15 +18,17 @@ An easily made form of undead created by those that believe necromancy to be a m
 [Prcp] 8 (+2)  
 [Empy] 6 (+2)  
 
-**Languages**: Lurching departed don't speak.
+**Languages**: Hungering Dry don't speak.
 
-**Run Speed**: It may run up to 4 yards per move.
+**Run Speed**: It may run up to 6 yards per move.
 
-**Climb speed**: You may swim up to 1 foot per move, presuming it is reasonable terrain to do so.
+**Climb speed**: It may climb up to 5 feet per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Smack: The lurching departed may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
+ • Smack: The hungering dry may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
+
+ • Bite: The hungering dry may bite a foe it is brawling or grappling. This is a melee biting attack.
 
 ---------------------
 
@@ -92,7 +94,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 **-** Does not produce warmth.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
-**Mindless**: Lurching departed do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
+**Thirst and Hunger**: .
 
 -----
 
