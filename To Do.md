@@ -24,6 +24,7 @@ For this update:
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
 * Create a cockatrice (which will be a cockator/cockatrix), which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
+* Create the Milahar, a salt golem. High defenses, solid HP, moves 3.5 yard per move, can shoot blasts of salt in a semifan which deals cutting attacks but acid criticals. Is composed of an extremely useful alchemic salt.
 * Create the Anxana, based on Anjana/Xanas, as a playable species.
 
 -----
