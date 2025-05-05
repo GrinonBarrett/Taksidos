@@ -25,6 +25,9 @@ For this update:
 * Create a mimic.
 * Create a cockatrice (which will be a cockator/cockatrix), which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
 * Create the Milahar, a salt golem. High defenses, solid HP, moves 3.5 yard per move, can shoot blasts of salt in a semifan which deals cutting attacks but acid criticals. Is composed of an extremely useful alchemic salt.
+* A serpent made of round cactus like gourds. It has two arms whoch sprout from the head gourd. It survives by eating tilled earth and will steal more of the gourd to increase its size.
+* A yeti like creature that resists magic and disappear in the snow to teleport. A warm climate variant of it will exist which can teleport by stepping into trees.
+* A cute little shelled squid servile.
 * Create the Anxana, based on Anjana/Xanas, as a playable species.
 
 -----
