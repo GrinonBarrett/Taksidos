@@ -23,7 +23,8 @@ For this update:
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword, mace, and spear are done and one thrown blade done as well)
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
-* Create a cockatrice (which will be a cockator/cockatrix), which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
+* Create a cockatrice, which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
+* Create a Cockator/cockatrix servile that occurs when a cockatrice hatches under the care of the invoker.
 * Create the Milahar, a salt golem. High defenses, solid HP, moves 3.5 yard per move, can shoot blasts of salt in a semifan which deals cutting attacks but acid criticals. Is composed of an extremely useful alchemic salt.
 * A serpent made of round cactus like gourds. It has two arms whoch sprout from the head gourd. It survives by eating tilled earth and will steal more of the gourd to increase its size.
 * A yeti like creature that resists magic and disappear in the snow to teleport. A warm climate variant of it will exist which can teleport by stepping into trees.
