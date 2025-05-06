@@ -1,32 +1,34 @@
-### Enrokumar
-Roaming the forests and mountains, these omnivores are fully capable of threatening a group of adventurers. Bears are equally likely to pick off a foe after it has killed a potential food source as they are to defend their territory. If an opponent looks like it will inflict great damage, the bear is less likely to engage. However it will feel confident fighting anything smaller than itself. While a bear does gain an advantage with bite attacks, it is not a particularly common attack.
+### Rodent, Mutated
+an unfortunate result of rats, mice, or similar creatures getting tangled in some alchmeists long abandon leftovers. These creatures are feral and will usually attack on sight. If outnumbered, they will run instead.
 
-**Creature Type**: Bears are Beasts.
+**Creature Type**: Mutated Rodents are Beasts.
 
-**Size**: Bears stand 4'11" to 9'10" tall toe-to-head, standing between 2'5" and 3'3" at the shoulder. They can weigh between 330 and 440 pounds. They are medium creatures.
+**Size**: They stand 3'2" to 3'10" tall. They can weigh between 60 and 75 pounds. They are medium creatures.
 
-**Hitpoints**: A bear has 2 hitpoints.
+**Hitpoints**: A mutated rodent has no hitpoints.
 
 **Attributes**:  
-[Body] 15 (+5)  
-[Fort] 12 (+4)  
+[Body] 10 (+3)  
+[Fort] 9  (+3)  
 [Rflx] 10 (+3)  
-[Will] 12 (+4)  
-[Inte] 9  (+3)  
-[Prcp] 10 (+3)  
-[Empy] 9  (+3)  
+[Will] 9  (+3)  
+[Inte] 5  (+1)  
+[Prcp] 9  (+3)  
+[Empy] 7  (+2)  
 
-**Languages**: Bears don't speak.
+**Languages**: Mutated rodents don't speak.
 
-**Run Speed**: It may run up to 4.5 yards per move.
+**Run Speed**: It may run up to 5.5 yards per move.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Climb Speed**: It may climb up to 2.5 yards per move, presuming it is reasonable terrain to do so.
+
+**Swim speed**: It may swim up to 2.5 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Claw: The bear may use its claws to strike a foe within 1 yard. This is a melee cutting attack.
+ • Claw: The rodent may use its claws to strike a foe within 1 yard. This is a melee cutting attack.
 
- • Bite: The bear may perform a single bite against a foe within 1 foot. This is a melee bite attack.
+ • Bite: The rodent may perform a single bite against a foe within 1 foot. This is a melee bite attack.
 
 -----
 
@@ -34,19 +36,19 @@ Roaming the forests and mountains, these omnivores are fully capable of threaten
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 17     | **Pole Axe**       | 9      | **Arrow, Bodkin Point**    | 12    |
+| **Club**                   | 15     | **Pole Axe**       | 9      | **Arrow, Bodkin Point**    | 12    |
 | **Longsword**              | 10     | **Greatsword**     | 9      | **Arrow, Broadhead**       | 11    |
 | **Mace**                   | 11     | **Maul**           | 10     | **Bolt**                   | 11    |
 | **Spear**                  | 10     | **Pike**           | 9      | **Brusgiata**              | 13    |
-| **Hand Axe**               | 10     | **Madu**           | 12     | **Chakram**                | 14    |
+| **Hand Axe**               | 10     | **Madu**           | 12     | **Chakram**                | 13    |
 | **Katar**                  | 11     | **Javelin**        | 10     | **Arquebus**               | 9     |
-| **Dagger**                 | 13     | **Throwing Blade** | 16     | **Musket**                 | 8     |
-| **Morningstar**            | 10     | **Sling**          | 18     | **Tronutonante**           | 10    |
-| **Warpick**                | 10     |              |              | **Bare**                   | 20    |
+| **Dagger**                 | 13     | **Throwing Blade** | 15     | **Musket**                 | 8     |
+| **Morningstar**            | 10     | **Sling**          | 15     | **Tronutonante**           | 10    |
+| **Warpick**                | 10     |              |              | **Bare**                   | 18    |
 |                        |           |          |            |         |            |
-| **Acid**                   | 8      | **Fire**           | 9      | **Psychic**               | 14     |
+| **Acid**                   | 8      | **Fire**           | 9      | **Psychic**               | 13     |
 | **Cold**                   | 9      | **Force**          | 11     | **Toxic**                 | 9     |
-| **Crushing**               | 10     | **Ki**             | 11     | **Radiant**               | 11     |
+| **Crushing**               | 10     | **Ki**             | 12     | **Radiant**               | 13     |
 | **Cutting**                | 13     | **Necrotic**       | 9      | **Sonic**                 | 11     |
 | **Electrical**             | 9      | **Piercing**       | 10     | **Biting**                | 11     |
 |                        |           |          |            |         |            |
@@ -81,8 +83,7 @@ Roaming the forests and mountains, these omnivores are fully capable of threaten
 
 -----
 
-
-
+**Frail**: It cannot apply attribute bonuses to incapacitation saves.
 
 
 -----
