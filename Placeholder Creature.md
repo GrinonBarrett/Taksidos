@@ -8,25 +8,21 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 **Undeath**: A milahar has 8 hitpoints.
 
 **Attributes**:  
-[Body] 9 (+3)  
-[Fort] 8 (+2)  
-[Rflx] 8 (+2)  
-[Will] 8 (+2)  
+[Body] 19 (+6)  
+[Fort] 16 (+25)  
+[Rflx] 7 (+2)  
+[Will] 15 (+5)  
 [Inte] 6 (+2)  
 [Prcp] 8 (+2)  
 [Empy] 6 (+2)  
 
-**Languages**: Hungering Dry don't speak.
+**Languages**: Milahain don't speak, but understand terraglossa.
 
-**Run Speed**: It may run up to 6 yards per move.
-
-**Climb speed**: It may climb up to 5 feet per move, presuming it is reasonable terrain to do so.
+**Run Speed**: It may run up to 3.5 yards per move.
 
 **Unarmed Attacks**;
 
- • Smack: The hungering dry may use a limb or random object against a foe within 1 foot. This is a melee bare attack.
-
- • Bite: The hungering dry may bite a foe it is brawling or grappling. This is a melee biting attack.
+ • Smack: The milahar may use a limb or random object against a foe within 1 foot. This is a melee club attack.
 
 ---------------------
 
@@ -34,23 +30,23 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                            |        |                    |        |                            |         |
-| **Club**                   | 16     | **Pole Axe**       | 14     | **Arrow, Bodkin Point**    | 17    |
-| **Longsword**              | 15     | **Greatsword**     | 14     | **Arrow, Broadhead**       | 17    |
-| **Mace**                   | 15     | **Maul**           | 14     | **Bolt**                   | 17    |
-| **Spear**                  | 15     | **Pike**           | 15     | **Brusgiata**              | 18    |
-| **Hand Axe**               | 15     | **Madu**           | 15     | **Chakram**                | 19    |
-| **Katar**                  | 15     | **Javelin**        | 15     | **Arquebus**               | 17    |
-| **Dagger**                 | 17     | **Throwing Blade** | 20     | **Musket**                 | 16    |
-| **Morningstar**            | 15     | **Sling**          | 19     | **Tronutonante**           | 17    |
-| **Warpick**                | 14     |                    |        | **Bare**                   | 21    |
+| **Club**                   | 21     | **Pole Axe**       | 17     | **Arrow, Bodkin Point**    | 19    |
+| **Longsword**              | 18     | **Greatsword**     | 17     | **Arrow, Broadhead**       | 20    |
+| **Mace**                   | 18     | **Maul**           | 17     | **Bolt**                   | 19    |
+| **Spear**                  | 17     | **Pike**           | 17     | **Brusgiata**              | 19    |
+| **Hand Axe**               | 18     | **Madu**           | 18     | **Chakram**                | 20    |
+| **Katar**                  | 18     | **Javelin**        | 18     | **Arquebus**               | 17    |
+| **Dagger**                 | 18     | **Throwing Blade** | 21     | **Musket**                 | 16    |
+| **Morningstar**            | 18     | **Sling**          | 21     | **Tronutonante**           | 18    |
+| **Warpick**                | 17     |                    |        | **Bare**                   | 24    |
 |                            |        |                    |        |
-| **Acid**                   | 14     | **Fire**           | 13     | **Psychic**                | 18     |
-| **Cold**                   | 20     | **Force**          | 15     | **Toxic**                  | 25     |
-| **Crushing**               | 14     | **Ki**             | 14     | **Radiant**                | 14     |
-| **Cutting**                | 15     | **Necrotic**       | 15     | **Sonic**                  | 15     |
-| **Electrical**             | 16     | **Piercing**       | 14     | **Biting**                 | 16     |
+| **Acid**                   | 15     | **Fire**           | 20     | **Psychic**                | 18     |
+| **Cold**                   | 20     | **Force**          | 18     | **Toxic**                  | 25     |
+| **Crushing**               | 16     | **Ki**             | 17     | **Radiant**                | 18     |
+| **Cutting**                | 18     | **Necrotic**       | 20     | **Sonic**                  | 18     |
+| **Electrical**             | 20     | **Piercing**       | 16     | **Biting**                 | 16     |
 |                            |        |                    |        |                            |        |
-| **Unlisted Damage Type**   | 15     |                    |        | **Undamaging**             | 14     |
+| **Unlisted Damage Type**   | 18     |                    |        | **Undamaging**             | 17     |
 
 
 
@@ -61,16 +57,16 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 |   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
 |   3    | Glancing Blow     | No ill effects. |
 |   4    | Smashed Limb      | The lurching departed loses one of its arms (or equivalent limb). |
-|   5    | Broken Bone       | The lurching departed is prone until the end of the next round. |
+|   5    | Chipped           | **Biased Wound**. A piece of the milahar breaks off worth d12 $. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Premature Redeath | **Biased wound**. The lurching departed is destroyed. |
-|   8    | Glancing Blow     | No ill effects.                                     |
+|   7    | Spark             | A spark is generated by the blow. If a flammable substance is in contact with the milahar, it ignites. |
+|   8    | Glancing Blow     | **Biased wound**. No ill effects.                                     |
 |   9    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
 |   10   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
-|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
+|   11   | Chipped           | A piece of the milahar breaks off worth d12 $. |
 |   12   | Glancing Blow     | No ill effects. |
 |   13   | Stumble           | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
-|   14   | Broken Bone       | It is prone until the end of the next round. |
+|   14   | Chipped           | A piece of the milahar breaks off worth d12 $. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone. |
@@ -83,26 +79,19 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 #### Special Features
 
-**Undead Nature**: As an undead creature, the hungering dry has a few advantages:  
-**-** They do not need to breathe or sleep. Rest occurs when they are inactive.  
-**-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill unless they specifically affect undead.  
-**-** Cannot be incapacitated, except by an effect which explicitly affects undead.  
-**-** Cannot be healed by an effect unless it specifically affects undead.  
-**-** Cannot be destroyed by massive damage.  
-**-** Does not produce warmth.  
-**-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
+**Elemental Nature**: Milahar are bodies of salt and elemntal energy. As such they;  
+ • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
+ • Are immune to diseases, poisons and venom.  
+ • Immune to the effects of bloodloss.
+ • Are not affected by spells which would affect flesh.  
 
-**Thirst and Hunger**: The hungering dry must feed to continue to exist. They need only half as much food as a manfolk would need. It cannot die from starving, but can become petrified. It can eat a pound of salt to serve as a single serving of food. This increases its thirst 1d4+1 servings. It will die of thirst. A hungering dry petrified this way can be restored by 2 servings of water.
+**Magic Resistance**: The Milahar gains a +2 to defense against magical attacks and a 2d8 bonus to saves against magical effects.
 
-**Weaknesses**: The hungering dry cannot willingly touch non-sapiant plant life. If it is forced to make contact, it is vulnerable for the entire time. The unarmed attacks of plant creatures gain advantage against the hungering dry.
-
-**Unnatural Creeping**: When it is prone, it does not suffer the usual penalty to movement.
-
-**Dry Bite**: A creature afflicted by the bite of a hungering dry must succeed a [Fort] save with a DV of 17 or receive a level of fatigue. Additionally, even if it does succeed, if it is not a critical success, their thirst is increased to need 1d4+1 additional servings of water. If a creature would die of thirst as a result, it is instead petrified. 2 servings of water can restore it from this condition, but it will become a hungering dry if it 
+**Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increaeses its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way. 
 
 **Ghoulish Grasp**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
 
 -----
 
-***Creating a Hungering Dry***: It is possible for one to use the Animate spell to create a hungering dry from a corpse, regardless of its condition, if it is cast as a 2nd tier or greater so long as it is in contact with an amount of salt equal to at least one-tenth of its body weight. On a critical success, the hungering dry will not be aggressive to its creator and can even be dissuaded from attacking something by its creator or given a direction to move in, but this only lasts for either 1d4-1 hours per point of success. On a critical failure, the corpse is animated- but seeks the destruction of the one that created it. It instinctively knows if a creature it perceives is its creator.  
-It is fully animate 1d8+2 rounds after the spell completes.
+#### Maliahine Salt
+When the Milahar is "killed", it ceases to be animate. The salt which composes its body, which is not found naturally, remains in the shape the milahar. This salt is quite valuable for alchemists and can fetch about $290-340 per pound.
