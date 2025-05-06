@@ -68,10 +68,10 @@ A creature native to the plane of fire. They have been spotted in the Alnuskogs 
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Snout Shot        | It suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
 |   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
-|   12   | Spontaneous Combustion  | The enrokumar is set ablaze for a number of rounds equal to the attack's points of success. It is not harmed by this fire and puts out light like a torch during this time. While lit ablaze, it inflicts a fire attack against anythinh which brawls with, tramples it, or is trampled by it. |
+|   12   | Spontaneous Combustion  | The enrokumar is set ablaze for a number of rounds equal to the attack's points of success. It is not harmed by this fire and puts out light like a torch during this time. While lit ablaze, it inflicts a fire attack against anything which brawls with, tramples it, or is trampled by it. |
 |   13   | Sieze Up          | **Biased wound**. Make a [Body] save against the attack total or be knocked prone. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
 |   16   | Glancing Blow     | **Biased wound**. No effect. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow     | **Biased wound**. No effect. |
