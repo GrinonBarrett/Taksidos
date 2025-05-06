@@ -9,7 +9,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Attributes**:  
 [Body] 19 (+6)  
-[Fort] 16 (+25)  
+[Fort] 16 (+5)  
 [Rflx] 7 (+2)  
 [Will] 15 (+5)  
 [Inte] 6 (+2)  
