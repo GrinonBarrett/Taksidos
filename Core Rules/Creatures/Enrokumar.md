@@ -5,7 +5,7 @@ A creature native to the plane of fire. They have been spotted in the Alnuskogs 
 
 **Size**: Enrokumain stand 4'9" to 5'3" tall toe-to-head, standing between 2'1" and 3' at the shoulder. They can weigh between 200 and 250 pounds. They are medium creatures.
 
-**Hitpoints**: An Enrokumain has 1 hitpoint.
+**Hitpoints**: An Enrokumar has 1 hitpoint.
 
 **Attributes**:  
 [Body] 14 (+4)  
