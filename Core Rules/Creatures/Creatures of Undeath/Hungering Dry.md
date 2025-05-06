@@ -63,7 +63,7 @@ Found in the wastes and desserts, they attack on sight out of desperation. It ha
 |   4    | Smashed Limb      | The hungering dry loses one of its arms (or equivalent limb). |
 |   5    | Broken Bone       | The hungering dry is prone until the end of the next round. |
 |   6    | Glancing Blow     | No ill effects. |
-|   7    | Premature Redeath | **Biased wound**. The lurching departed is destroyed. |
+|   7    | Destructive Blow  | **Biased wound**. The hungering dry loses 1d8 points of undeath. |
 |   8    | Glancing Blow     | No ill effects.                                     |
 |   9    | Smashed Limb      | The hungering dry loses one of its arms (or equivalent limb). |
 |   10   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
