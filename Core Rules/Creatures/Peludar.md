@@ -87,7 +87,7 @@ A long serpentine beast which lives along riverbanks and feeds equally upon man 
 
 -----
 
-**Venomous Quills**: Anytime the peludar is grappled or trampled, that creature makes contact with the toxins secreted theough quills hidden in the peludars fur, inflicting a toxic attack.
+**Venomous Quills**: Anytime the peludar is grappled or trampled, that creature makes contact with the toxins secreted theough quills hidden in the peludar's fur, inflicting a toxic attack.
 
 **Unsettling Crawl**: In place of swimming, the peludar may run along the surface below and use its run movement. It must be in contact with the ground to opt to do so.
 
