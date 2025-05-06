@@ -63,7 +63,7 @@ An easily made form of undead created by those that believe necromancy to be a m
 |   6    | Glancing Blow     | No ill effects. |
 |   7    | Premature Redeath | **Biased wound**. The lurching departed is destroyed. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Smashed Limb      | The edacious corpse loses one of its arms (or equivalent limb). |
+|   9    | Smashed Limb      | It loses one of its arms (or equivalent limb). |
 |   10   | Stumble           | It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
 |   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Glancing Blow     | No ill effects. |
