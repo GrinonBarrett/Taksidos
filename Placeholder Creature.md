@@ -3,7 +3,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Creature Type**: Milahain are elemental creatures.
 
-**Size**: Hungering dry stand between 4 and 5 feet. They can weigh between 58 and 73 pounds. They are medium creatures.
+**Size**: Milahain stand between 7-8 feet. They weigh 440-520 pounds.
 
 **Undeath**: A milahar has 8 hitpoints.
 
