@@ -87,11 +87,11 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Magic Resistance**: The Milahar gains a +2 to defense against magical attacks and a 2d8 bonus to saves against magical effects.
 
-**Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increaeses its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way. 
+**Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increaeses its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way becomes a husk of itself. 
 
-**Ghoulish Grasp**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
+**Salt form**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
 
 -----
 
-#### Maliahine Salt
+#### Malaharine Salt
 When the Milahar is "killed", it ceases to be animate. The salt which composes its body, which is not found naturally, remains in the shape the milahar. This salt is quite valuable for alchemists and can fetch about $290-340 per pound.
