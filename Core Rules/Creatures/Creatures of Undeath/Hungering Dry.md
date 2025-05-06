@@ -1,5 +1,5 @@
 ### Hungering Dry
-Found in the wastes and desserts, they attack on sight out of desperation. It has a reputation among saltsingers as one of their natural enemies. Their collective noun is feast.
+Found in the wastes and deserts, they attack on sight out of desperation. It has a reputation among saltsingers as one of their natural enemies. Their collective noun is feast.
 
 **Creature Type**: Hungering Dry are undead.
 
