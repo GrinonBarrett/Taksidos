@@ -1,5 +1,5 @@
 **Table- Pact of Terns**
-| Caster Level | Bonus | T1 | T2 | T3 | T4 | T5 | T6 |
+| Level | Bonus | T1 | T2 | T3 | T4 | T5 | T6 |
 | - | - | - | - | - | - | - | - |
 |  **1** | - | 1 | - | - | - | - | - |
 |  **2** | 1 | 1 | - | - | - | - | - |
