@@ -4,7 +4,7 @@ Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A
 |-----------|---------|---------|----------|-------------------------|
 | **Arcanist** | Arcanciar | Wizard | Grandeir | ***Manceri*** |
 | **Assassin** | Sellsword | Blackguard | Gravist | ***Deathchooser*** |
-| **Bard** | Brigand | Loreseeker | Epicist | ***Mythogen*** |
+| **Bard** | Reacaraide | Loreseeker | Epicist | ***Mythogen*** |
 | **Berserk** | Barbarian | Brute | Battlerager | ***Ragecrier*** |
 | **Cleric** | Kultai | Priest | Hierophant | ***Kazerai*** |
 | **Evoker** | Blaster | Adept | Defter | ***Lither*** |
