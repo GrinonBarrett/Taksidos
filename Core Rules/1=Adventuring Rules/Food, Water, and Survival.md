@@ -44,7 +44,7 @@ Lasts 3d6+4 weeks. A luxury good. While you can get 2 servings out of a pound, i
 **Mild Cheese**, $9 per lb.  
 Lasts 3d12+4 days. Most cheeses are of this variety. A pound offers 2 servings.
 
-**Pemmican**, $17 per lb
+**Pemmican**, $17 per lb.  
 Lasts 1d20 years. An unsavory concoction of dense dehydrated meat and rendered fat, garnished with nuts or fruit, and coated againt in rendered soft fats. If stored away from moisture, this will last longer than any other food- but can quickly spoil if hot and humid. Provides 3 servings, but serves best when it can be cooked with other items. A great source of calories.
 
 **Cured meat**, $5 per serving (weighs .7 lb)  
