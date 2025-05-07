@@ -32,7 +32,8 @@ You have learned several religious rites which can be used as an alternative to 
 * You must have components (such as incense, an offering of wealth or food, etc.) whose value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
 * Any spell sickness you would recieve is reduced by 1.  
 * A critical success will increase the tier of the cast spell by 1.  
-* A critical failure has a 50% chance not to apply its critical failure effect.  
+* A critical failure has a 50% chance not to apply its critical failure effect.
+
 You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associated spell.
 
 ### 2) Exogesis
