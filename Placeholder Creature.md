@@ -89,7 +89,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increaeses its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way becomes a husk of itself. 
 
-**Salt form**: Its unarmed attacks gain a 1d4 bonus and can be treated as magical. It also gains a 1d4 bonus to checks related to maintaing your grapple against a foe.
+**Salt form**: If a serving of water makes contact with the milahar, it suffers an acid attack, but gains a +4 bonus to defense against it. If any part of it is submerged in water, it suffers an acid attack at the end of the round as part of it dissolve into the water.
 
 -----
 
