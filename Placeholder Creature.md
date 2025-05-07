@@ -87,7 +87,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Magic Resistance**: The Milahar gains a +2 to defense against magical attacks and a 2d8 bonus to saves against magical effects.
 
-**Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increaeses its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way becomes a husk of itself. 
+**Sapping Strike**: The unarmed attacks of a milahar cause dehydration. This increases its need for hydration by a number servings equal to the points of success. A creature which dies of thirst this way becomes a husk of itself. 
 
 **Salt form**: If a serving of water makes contact with the milahar, it suffers an acid attack, but gains a +4 bonus to defense against it. If any part of it is submerged in water, it suffers an acid attack at the end of the round as part of it dissolve into the water.
 
