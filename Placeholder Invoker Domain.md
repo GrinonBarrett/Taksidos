@@ -1,3 +1,19 @@
+**Table- Pact of Terns**
+| Caster Level | Bonus | T1 | T2 | T3 | T4 | T5 | T6 |
+| - | - | - | - | - | - | - | - |
+|  **1** | 1 | - | - | - | - | - |
+|  **2** | 2 | - | - | - | - | - |
+|  **3** | 1 | 1 | - | - | - | - |
+|  **4** | 2 | 1 | - | - | - | - |
+|  **5** | 2 | 1 | 1 | - | - | - |
+|  **6** | 2 | 2 | 1 | - | - | - |
+|  **7** | 2 | 2 | 1 | 1 | - | - |
+|  **8** | 3 | 2 | 2 | 1 | - | - |
+|  **9** | 3 | 2 | 2 | 1 | 1 | - |
+| **10** | 2 | 3 | 2 | 2 | 1 | - |
+
+-----
+
 ##### Chosen Spirit
 A spirit guide calls to you and shapes your instincts. You gain the following:  
 • For the purpose of magical effects, you may choose to treat yourself as a sylvan creature. If you already were a sylvan creature, you may choose to treat tourself as a beast instead.  
