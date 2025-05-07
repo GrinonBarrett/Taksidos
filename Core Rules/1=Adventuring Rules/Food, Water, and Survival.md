@@ -35,17 +35,23 @@ Lasts 1d2 days. More difficult to hunt and find, this represents those birds cho
 **Exotic Steak**, $45 per lb.  
 Lasts 1d3 days. Representing the meat of aurochs, fine game, and other exotic creatures. A pound provides 2 servings.
 
+**Fish**, varies per lb.  
+Last a single day, 1d2 if kept cold. The cost of fish can be as little as $1d8+3 in a fishing village for something common to $2d12+16 per pound for something a bit more exotic.
+
 **Matured Cheese**, $27-51 per lb.  
 Lasts 3d6+4 weeks. A luxury good. While you can get 2 servings out of a pound, it is often consumed in much smaller portions- being used to complement the meal than contribute to it.
 
 **Mild Cheese**, $9 per lb.  
 Lasts 3d12+4 days. Most cheeses are of this variety. A pound offers 2 servings.
 
+**Pemmican**, $17 per lb
+Lasts 1d20 years. An unsavory concoction of dense dehydrated meat and rendered fat, garnished with nuts or fruit, and coated againt in rendered soft fats. If stored away from moisture, this will last longer than any other food- but can quickly spoil if hot and humid. Provides 3 servings, but serves best when it can be cooked with other items. A great source of calories.
+
 **Cured meat**, $5 per serving (weighs .7 lb)  
 Lasts 8d6+6 weeks. The exact nature of the meat varies, but the yield is the same. Water is strongly recommended.
 
 **Dehydrated Meat**, $7 per serving (weighs .3 lb)  
-Lasts 6d6+10 days. The exact protein source varies, but the yield is the same. This meat has been dehydrated by the Dehydration spell.
+Lasts 6d6+10 days. The exact protein source varies, but the yield is the same. This meat has been dehydrated by magic.
 
 #### Bread
 A diet cannt consist of more than one-third bread to gain any benefit and two portions of bread does not a meal make. All forms of bread count as one type of food.
