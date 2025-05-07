@@ -1,5 +1,10 @@
-### Milahar
-A being found in deep caves and occasionally discovered by mining operations. The Milahar is entirely composed of a unique salt which is highly prized by alchemists.
+
+
+-----
+-
+-----
+
+### Create a metallic minion
 
 **Creature Type**: Milahain are elemental creatures.
 
