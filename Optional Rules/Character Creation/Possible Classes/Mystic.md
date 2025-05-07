@@ -83,9 +83,9 @@ If you splash mystic as a member of another class, you gain the same benefits as
 
 -----
 
-#### Pacts
+### Pacts
 
-##### Pact of Archons
+#### Pact of Archons
 You have a connection to some extraplanar power. You may call on aspects, called an archon, of this when casting a spell. You gain a number of spell slots which determine how many spells you can cast to represent the aspects you may call on. The table below dictates how many slots and the tier of those slots. Once used, it must be recovered before casting a spell again. You recover a first tier spell slot upon completing a short rest. You recover a slot of your choice with a long rest. A full rest allows you to recover a slot of each level and all expent bonus slots.
 
 A bonus slot is always the same tier as the bonus of the attribute you chose for your magical art.
@@ -110,7 +110,7 @@ You may use spell burn to provide a bonus to counterspell checks.
 |  **9** | 3 | 2 | 1 | 1 | 1 | 1 | - |
 | **10** | 3 | 2 | 1 | 1 | 1 | 1 | 1 |
 
-##### Pact of Blood
+#### Pact of Blood
 You have a means of casting spells by making an offering of blood (or other symbol of lifeforce). To do so, you must sacrifice a hitpoint. You then perform a spellcheck (as normal) with a DV of 4 times the spell's tier.  
 You may also choose to take on a wound, choosing any wound which is not a Glancing Blow. If you do, you may either add 1d10 to your result or add 1d4 + the bonus from the attribute selected for your Magical Art feature.  
 The spell sickness you recieve from critically failing a spell is reduced to one, but you roll a number of wound rolls equal to the tier of the spell -1. Any valid result is a wound you receive. If the result is not vaild, simply ignore that roll.  
@@ -118,16 +118,16 @@ Anytime you receive a wound, you get a +1 bonus to your next spell check within 
 
 If you have no hitpoints remaining, you may opt to perform an incapacitation save (even if you are normally immue to such saves). If you succeed in any degree, you choose a wound, choosing any wound which is not a Glancing Blow. You take the selected wound. This will suffice as a replacement for your sacrifice of a hitpoint.
 
-##### Pact of Epochs
+#### Pact of Epochs
 Your spell casting power comes from some anciant source. When you attempt to cast a spell, you roll a number of dice up to your heroism. These dice may be d4s, d6s, or d8s (your choice). Total the sum together to determine your spell check result. You do not add your heroism to the spell check. You then receive spell sickness equal to the highest die result plus the total number of dice you rolled. If you already have spell sickness, you may roll a single d10 and or a single d12, with each replacing one of the dice you would normally roll.
 
-##### Pact of Mana
+#### Pact of Mana
 You have a connection to some extraplanar pool of power. You have a pool of mana points equal to your level, plus your heroism, plus your bonus from your attribute chosen for your Magical Art feature, minus your points of spell sickness. When you cast a spell, you do not perform a spellcheck, instead you roll a number of d4s equal to the tier of the spell. If the result is equal to or lower than your current pool, the result is decucted from your pool and your successfully cast the spell as though you had a spell check whose points of success was equal to the mana points lost this way. If you do not have enough mana points to cast the spell, you lose mana points equal to the spells tier and are considered to have critically failed the casting with the points of failure being equal to the neccessary mana points for that casting.  
 You recover 1d4+1 mana points with a short rest, 2d6+2 points of mana with a long rest, and 1d12+8 points of mana with a full rest. If you still have spell sickness while resting, keep this in mind when determining how many mana points you can recover.  
 
 If you cast a wyrding while you have the Pact of Mana, you may spend mana points on a spell check to gain a bonus equal to the mana points spent this way- up to your bonus from your chosen attribute with your Magical Art feature.
 
-##### Pact of Rites
+#### Pact of Rites
 You have learned how to perform religious rites like a cleric. Each rite functions as a spell with a few differences;  
 * The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
 * You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, or are struggling to focus on the recitation, you have disadvantage on the spellcheck. If you cannot perform the recitation, you fail to cast the spell.  
