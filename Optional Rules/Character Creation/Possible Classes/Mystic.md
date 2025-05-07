@@ -99,3 +99,14 @@ You have a connection to some extraplanar pool of power. You have a pool of mana
 You recover 1d4+1 mana points with a short rest, 2d6+2 points of mana with a long rest, and 1d12+8 points of mana with a full rest. If you still have spell sickness while resting, keep this in mind when determining how many mana points you can recover.  
 
 If you cast a wyrding while you have the Pact of Mana, you may spend mana points on a spell check to gain a bonus equal to the mana points spent this way- up to your bonus from your chosen attribute with your Magical Art feature.
+
+##### Pact of Rites
+You have learned how to perform religious rites like a cleric. Each rite functions as a spell with a few differences;  
+* The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
+* You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, or are struggling to focus on the recitation, you have disadvantage on the spellcheck. If you cannot perform the recitation, you fail to cast the spell.  
+* You must have components (such as incense, an offering of wealth or food, etc.) whose value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
+* Any spell sickness you would recieve is reduced by 1.  
+* A critical success will increase the tier of the cast spell by 1.  
+* A critical failure has a 50% chance not to apply its critical failure effect.  
+
+You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associated spell. When you take this pact, you learn a rite of a spell whose minimum tier is no greater than your heorism and a tier of a spell whose minimum tier is 1 or 2.
