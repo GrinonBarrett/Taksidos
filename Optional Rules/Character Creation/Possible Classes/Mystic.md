@@ -92,7 +92,7 @@ A bonus slot is always the same tier as the bonus of the attribute you chose for
 
 You also may cast a single spell at a tier up to your heroism, but must complete a number of full rests equal to the spell's tier tripled before doing so again.
 
-For all intents and purposes, the result of your spellcheck is your heroism + your attribute score for the attribute chosen for your magical art at the time of casting.
+For all intents and purposes, the result of your spellcheck is your heroism + your attribute score for the attribute chosen for your magical art at the time of casting- but it is always treated as a success (or critical success if high enough). You can still use spellburn to improve this result.
 
 You may use spell burn to provide a bonus to counterspell checks.
 
