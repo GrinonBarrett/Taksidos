@@ -3,7 +3,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 
 **Creature Type**: Milahain are elemental creatures.
 
-**Size**: Milahain stand between 7-8 feet. They weigh 440-520 pounds.
+**Size**: Milahain stand between 7-8 feet. They weigh 440-520 pounds. They are large creatures.
 
 **Undeath**: A milahar has 8 hitpoints.
 
