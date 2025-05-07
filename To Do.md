@@ -14,7 +14,6 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Create the Kunekunar, based on the kunekune, which is the result of a Ngurm never finidng a purpose.
 * Create a fire combat spell. Perhaps a wildfire spell that spreads from a set point that can implode at the caster's command.
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create some kind of nightmare type spell.
@@ -23,8 +22,6 @@ For this update:
 * Create a set of magic weapons that reward the user for having Warrior Mastery of the weapon type. Make 2 for each weapon type. Ball and Chain Lightning will be one. (Longsword, mace, and spear are done and one thrown blade done as well)
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
-* Create a cockatrice, which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
-* Create a Cockator/cockatrix servile that occurs when a cockatrice hatches under the care of the invoker.
 * A serpent made of round cactus like gourds. It has two arms whoch sprout from the head gourd. It survives by eating tilled earth and will steal more of the gourd to increase its size.
 * A yeti like creature that resists magic and disappear in the snow to teleport. A warm climate variant of it will exist which can teleport by stepping into trees.
 * A Ganzar, a creature composed of discard magical writings. It begins existence as a mindless entity. It can only leave the place of its birth if another leaves a portal open. It will eventually become sentient. It absorbs books and their knowledge and it will become a reflection of their contents.
@@ -49,14 +46,17 @@ Next update:
 * Create 5 more lesser serviles (Slaporb, Teleporb, Emolga type creature, Ophideon, Bird of prey, A small fire lizard, A little dragon turtle thing, a plant bulb that has two vine appendages to move around)
 * Create 2 more greater serviles (One is a clay golem like entity, "evolution"s for the lizard dragon turtle and plant bulb).
 * Create a vampire template that represents those that come to follow the commands of Alekard.
+* * Create the Kunekunar, based on the kunekune, which is the result of a Ngurm never finidng a purpose.
 * Create a Grigori, a fiendish giant creature.
 * Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create dough type monster.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday or a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
+* Create a cockatrice, which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
+* Create a Cockator/cockatrix servile that occurs when a cockatrice hatches under the care of the invoker.
 * Make some Kaiju type monsters.
 * Will add Mothman?!
 * Add a few real diseases.
-* Add the insects which infect people's minds. May use it as an introduction to the concept of diseases that exist on the paychic plane.
+* Add the insects which infect people's minds. May use it as an introduction to the concept of diseases that exist on the psychic plane.
 
 Also, at some point soon, make the failed alchemical cycle:  
 * Massaconfusar. A being composed of jet black solids linked by a thick smoke. It consumes matter.
