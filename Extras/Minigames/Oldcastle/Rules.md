@@ -9,11 +9,12 @@ Each player will take turns moving a piece to an unocciped adjacent piece. The g
 A piece can never enter a occupied space by the other player's piece.
 
 ##### Other Rules
-If an opposing piece is completely surrounded by their pieces, they may instead make that opposing piece blanck as their action. If a player's piece is adjacent to a blank piece, they may convert it to one of their own pieces as their action for the turn. If a blank piece is completely surrounded by a player's pieces, they may opt to remove that 
+If an opposing piece is completely surrounded by their pieces, they may instead make that opposing piece blanck as their action. If a player's piece is adjacent to a blank piece, they may convert it to one of their own pieces as their action for the turn. If a blank piece is completely surrounded by a player's pieces, they may opt to remove that piece from the board.
 
 ##### Variants
 * In some circles, a piece which is adacent to more pieces than an opposing piece trying to jump cannot be taken.
+* In some circles, you may jump blank pieces. Whether or not it is removed from the board also vearies from region to region.
 * In the Meolasine empire, this rules is popular but the would be "jumper" can still be moved as though it jumped that piece.
-* In a Lithen variant, the rooks are replaced with 2 "camps", which is the rear most pair on the swords' side. If the shields can occupy both camps while he swords do not hold the keep, the shield player wins. Additionally, in place of jumping a blank piece, you may remove it from the board and move the would-be jumper into the space that blank piece previously occupied.
+* In a Lithen variant, the rooks are replaced with 2 "camps", which is the rear most pair on the swords' side. If the shields can occupy both camps while he swords do not hold the keep, the shield player wins. Additionally, in place of potentially jumping a blank piece, you may remove it from the board and move the would-be jumper into the space that blank piece previously occupied. You cannot jump blank pieces in this style of Oldcastle.
 
 ###### The Blue spaces on the image show the shield starting positions. Red spaces show sword starting positions. Green highlights the rook spaces. Purple desigantes the keep.
