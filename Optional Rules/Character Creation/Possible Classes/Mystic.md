@@ -127,6 +127,10 @@ You recover 1d4+1 mana points with a short rest, 2d6+2 points of mana with a lon
 
 If you cast a wyrding while you have the Pact of Mana, you may spend mana points on a spell check to gain a bonus equal to the mana points spent this way- up to your bonus from your chosen attribute with your Magical Art feature.
 
+#### Pact of Rǣdening
+You do not have the ability to innately cast spells. You must instead have access to a tome and at least half of you limbs to hold it and peform gestures. You may perform wyrdings of any spell in a grimoire (or similar reference) so long as it is sufficient materials to learn from, but cannot learn from it. When performing a wyrding this way, you gain a bonus to the spell check equal to the tier the spell is recorded as in the material. When you attempt to cast the spell, you may cast it at any tier from its minimum tier up to the tier it is recorded as plus the bonus of the attribute selected for your Magical Art feature.    
+If you also possess a staff which contains the spell you are attempting to cast, you also gain the bonus normally given to one that knows the spell using the staff. 
+
 #### Pact of Rites
 You have learned how to perform religious rites like a cleric. Each rite functions as a spell with a few differences;  
 * The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
