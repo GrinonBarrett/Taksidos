@@ -7,14 +7,14 @@ Blocking bonus
 Description  
 Special features  
 
-**Buckler**, $105, 2.25 lb.  
-+1  
-A small style of shield intended to be held out in front of you. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way.
-
 **Avant-Bras**, $120, 2.25 lb.  
 +1  
 A small piece which is affixed to the forearm but provides limited protection.   
 It does not prevent the use of a hand, but also does not provide the passive protection against any attacks.
+
+**Buckler**, $105, 2.25 lb.  
++1  
+A small style of shield intended to be held out in front of you. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way.
 
 **Rondache**, $130, 4 lb.  
 +1  
