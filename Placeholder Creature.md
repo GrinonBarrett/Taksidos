@@ -20,9 +20,9 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 
 **Run Speed**: It may run up to 5 yards per move.
 
-**Climb speed**: It may swim up to 4 yard per move, presuming it is reasonable terrain to do so.
+**Climb speed**: It may swim up to 4 yards per move, presuming it is reasonable terrain to do so.
 
-**Swim speed**: It may swim up to 4 yard per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
 
 **Weapon Training**: The yalai has no training in weapons, but can use them with no penalty.
 
@@ -88,11 +88,11 @@ By casting the Animate spell on a glass statue, an invoker can create their own 
 * **Chosen Spirit**. .
 * **The Earth**. The yalai's unarmed attack may be treated as a force or cutting attack.
 * **The Flame**. If a fire attack is successfully inflicted against a vulnerable or prone yalai, it no longer suffers from those conditions. Fire attacks against the yalai have disadvantage while it is not prone or vulnerable.
-* **The Grave**. .
+* **The Grave**. The yalai cannot be affected by the unarmed attacks of ephemera or undead. The yalai cannot be seen by undead.
 * **The Light**: .
 * **Nobility**. .
 * **The Sea**. While submerged in water or some similar liquid, if it moves no more than a single movement's worth of distance, it is invisible.
-* **The Sky**. .
+* **The Sky**. The yalai gains a fly speed of 4 yards. It must fly at least 7 yards per round to remain airbone.
 * **Valdercaller**. .
 
 -----
