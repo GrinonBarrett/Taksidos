@@ -86,14 +86,14 @@ By casting the Animate spell on a glass statue, an invoker can create their own 
 
 **Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. .
-* **The Earth**. Immune to damage from knockback (but not falling).
-* **The Flame**. When destroyed while being perceived by the invoker, *a small explosion can be directed at a foe within 1 yard, inflicting a fire attack*.
-* **The Grave**. Ki, Necrotic, and Radiant attacks each have disadvantage against the ergenekrai.
-* **The Light**: The ergenekrai can seee light levels (but not actually see) and can "feel" light levels in addition to its standard senses. It cannot be blinded by theses senses.
-* **Nobility**. The ergenekrai gains proficiency with a random weapon. If it is proficient with a one handed weapon, it can use a buckler in its off hand.
-* **The Sea**. Swim speed is increased by 2 yards.
-* **The Sky**. Immune to damage from falling (but not knockback).
-* **Valdercaller**. If the ergernkrai is grappling a foe, it can treat its attacks against that foe as being Toxic or Biting. Any critical hit with an unarmed attack dealt be the ergenekrai can be treated as toxic.
+* **The Earth**. The yalai's unarmed attack may be treated as a force or cutting attack.
+* **The Flame**. If a fire attack is successfully inflicted against a vulnerable or prone yalai, it no longer suffers from those conditions. Fire attacks against the yalai have disadvantage while it is not prone or vulnerable.
+* **The Grave**. .
+* **The Light**: .
+* **Nobility**. .
+* **The Sea**. While submerged in water or some similar liquid, if it moves no more than a single movement's worth of distance, it is invisible.
+* **The Sky**. .
+* **Valdercaller**. .
 
 -----
 -
