@@ -3,7 +3,7 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 
 **Creature Type**: Yaloi are Constructs.
 
-**Size**: Ergenekroi stand between 4 and 5 feet. They can weigh between 90 and 250 pounds. They are medium creatures.
+**Size**: Yalai stand between 4 and 5 feet. They can weigh between 90 and 250 pounds. They are medium creatures.
 
 **Hitpoints**: A yalai has no hitpoints.
 
