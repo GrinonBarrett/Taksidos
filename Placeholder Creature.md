@@ -76,7 +76,7 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 
 **Frail**: It cannot apply attribute bonuses to incapacitation saves.
 
-**Entwined Resistance**: If the yalai has no spell sickness, it gains a +6 bonus to saves against all magical spells and a +3 bonus to defense against magical attacks.
+**Entwined Resistance**: If the yalai has no spell sickness, it gains a +6 bonus to saves against all magical effects and a +3 bonus to defense against magical attacks.
 
 -----
 
@@ -84,12 +84,12 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 
 By casting the Animate spell on a glass statue, an invoker can create their own yalai servile. When created this way, it is treated as having a single hitpoint.
 
-**Dominion Benefits**: The ergenekrai gains the benefit as appropriate to your domain.  
+**Dominion Benefits**: The yalai gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. .
 * **The Earth**. The yalai's unarmed attack may be treated as a force or cutting attack.
 * **The Flame**. If a fire attack is successfully inflicted against a vulnerable or prone yalai, it no longer suffers from those conditions. Fire attacks against the yalai have disadvantage while it is not prone or vulnerable.
 * **The Grave**. The yalai cannot be affected by the unarmed attacks of ephemera or undead. The yalai cannot be seen by undead.
-* **The Light**: .
+* **The Light**: Anytime a radiant attack would be inflicted against the yalai, it may use its reaction to instead convert it into a ray like that of a wand and can choose to direct it against a creature or have it discharge harmlessly. *It has an unnatural glow. It treats darkness as dim light*.
 * **Nobility**. .
 * **The Sea**. While submerged in water or some similar liquid, if it moves no more than a single movement's worth of distance, it is invisible.
 * **The Sky**. The yalai gains a fly speed of 4 yards. It must fly at least 7 yards per round to remain airbone.
