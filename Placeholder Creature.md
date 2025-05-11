@@ -65,7 +65,7 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 **-** Cannot be healed by an effect unless it specifically affects constructs.  
 **-** Cannot be destroyed by massive damage.  
 **-** Does not produce warmth.  
-**-** Cannot use items or armor.
+**-** Cannot use items or armor.  
 **-** Receives wounds, but not the effects of them.
 
 **Mindless**: Yalai do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
