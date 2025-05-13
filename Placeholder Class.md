@@ -19,15 +19,17 @@ Practitioners of the .
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
 ### Warpath
-You choose a war path from the following options. Once this decision is made, it cannot be changed.
-
-**Zen Archery**: When you perform a ranged attack, you gain a +1 bonus if you are not concentrating on anything else. When you loose an Aimed attack from a bow, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
+You choose a warpath from the following options. Once this decision is made, it cannot be changed.
 
 **Bastion**: Anytime you block with a shield and the triggering attack is a critical hit, it does not count against your reaction for the round.
 
+**Cleaver**: If you inflict a critical hit with your cleave and are not prone, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
+
+**Dilletante**: You learn a spell whose minimum tier is 1. Anytime you perform a skill check with a skill you are not proficient, you gain a +1 bonus to your result. You gain training with a weapon of your choice.
+
 **War Dancer**: When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
 
-**Dilletante**: You learn a spell whose minimum tier is 1. Anytime you perform a skill check with a skill you are not proficient, you gain a +1 bonus to your result.
+**Zen Archery**: When you perform a ranged attack, you gain a +1 bonus if you are not concentrating on anything else. When you loose an Aimed attack from a bow, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
 
 ### 2) Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
