@@ -1,9 +1,9 @@
- # Warrior
-You are among the elite in the world of arms. It is unlikely for you to find your match among the common ranks on the battlefield. 
+ # Warden?
+Practitioners of the . 
 
 **Class Skills**: Select one of the following (Athletics, Riding, or Roping).
 
-**Table-The Warrior**
+**Table-The**
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
@@ -18,24 +18,15 @@ You are among the elite in the world of arms. It is unlikely for you to find you
 | 9th   | 4  |    +8    | Attribute Improvement, Battle Instinct            |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
+### Warpath
+You choose a war path from the following options. Once this decision is made, it cannot be changed.
 
-### Basic Training
-Every Warrior receives some training over their lifetime. You are trained in four weapons of your choice. You may include the Shield Proficiency (see below) in these picks. You also have specialization with a weapon of your choice.  
-When you inflict a critical hit with an attack, you know how many hitpoints that creature currently has remaining.  
-Additionally, choose [Body], [Rflx], or [Fort]. It is improved by 1. Once chosen, this choice cannot be undone.
+**Zen Archery**: When you perform a ranged attack, you gain a +1 bonus if you are not concentrating on anything else. When you loose an Aimed attack from a bow, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
 
-### Pacing
-At the beginning of any encounter, you may choose one of the following:
+**Bastion**: Anytime you block with a shield and the triggering attack is a critical hit, it does not count against your reaction for the round.
 
-* **Haste**. You gain a +1 to attacks against foes with a later turn order than yourself.
-* **Patience**. You gain a +1 to defense against foes with an earlier turn order than yourself.
-* **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat or until you take an action (whichever occurs later).
+**War Dancer**: When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
 
-### Shield Proficiency
-Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
-
-### 2) Bravery
-Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
 ### 2) Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
@@ -52,9 +43,8 @@ If you Press Attack to the first attack you make in the round, it does not count
 ### 6) Warrior's Training
 You gain a level of training in two weapons of your choice. Alternatively, you may gain two levels of training in a single weapon.
 
-### 7) Riposte
-Once per round, if you parry an attack and that attack would have been a critical failure, you may perform a melee attack against that foe.  
-Additionally, each level of training in your weapon grants you a +1 to your Parry attempts.
+### ) Bravery
+Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
 ### 7) Skilled Defense
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
