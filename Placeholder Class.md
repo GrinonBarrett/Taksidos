@@ -1,27 +1,27 @@
- # Warden
+ # Ranger
 Members of an community of outsiders that walk the realms, maintaining the order of the natural world and fulfilling the will of hidden voice of the world. 
 
 **Class Skills**: Select one of the following (Riding, Survival, or Lore).
 
-**Table-The Warden**
+**Table-The Ranger**
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 2  |    +1    | Graceful Retort, Wardenry                         |
+| 1st   | 2  |    +1    | Graceful Retort, Wildeling                        |
 | 2nd   | 2  |    +2    | Dash, Unconventional Study                        |
 | 3rd   | 3  |    +3    | Attribute Improvement, Bravery, Studied Foe       |
 | 4th   | 3  |    +4    | Impressive Blow, Wicked Dance                     |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Further Unconventional Study|
 | 7th   | 4  |    +6    | Calculated Swing, Lightfoot                       |
-| 8th   | 4  |    +7    | Calm Sense, Warden's Boon                         |
+| 8th   | 4  |    +7    | Calm Sense, Drywn Boon                            |
 | 9th   | 4  |    +8    | Attribute Improvement, Unconventional Mastery     |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
 ### Graceful Retort
 Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe. Alternatively, if it is within melee range, you may shove or slam that foe.
 
-### Wardenry
+### Wildeling
 You gain training with two weapons of your choice and learn two languages of your choice.
 
 ### 2) Dash
@@ -54,7 +54,7 @@ You may add your heroism to your initiative rolls. During the first round of an 
 ### 8) Calm Sense
 When you aim against a foe within a number of yards equal to your [Prcp] score, you know how many hitpoints they have remaining. If you aim against a creature of a type you have the proper zoology skill for, the range is increased by a number of yards equal to your heroism.
 
-### 8) Warden's Boon
+### 8) Drywn Boon
 You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before doing so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
 
 Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
@@ -68,7 +68,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as a warden, you gain the following:  
 You gain two items worth of knacks without counting against your independant learning.  
-You may cast the spells listed by the Warden's Boon feature as though they were Rites (like a cleric), so long as you have that feature.
+You may cast the spells listed by the Drywn Boon feature as though they were Rites (like a cleric), so long as you have that feature.
 If you have specialization with a weapon/unarmed attack against a foe of a creature type chosen by your Unconventional Study, Further Unconventional Study, or Unconventional Mastery, you may replace the +4 bonus for the purpose of inflicting a critical hit with your heroism.
 
 #### Splash
