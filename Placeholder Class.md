@@ -54,6 +54,11 @@ You may add your heroism to your initiative rolls. During the first round of an 
 ### 8) Calm Sense
 When you aim against a foe within a number of yards equal to your [Prcp] score, you know how many hitpoints they have remaining. If you aim against a creature of a type you have the proper zoology skill for, the range is increased by a number of yards equal to your heroism.
 
+### 8) Warden's Boon
+You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before doing so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
+
+Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
+
 ### 9) Unconventional Mastery
 Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
@@ -63,7 +68,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as a warden, you gain the following:  
 You gain two items worth of knacks without counting against your independant learning.  
-Choose two of your attributes, they are each increased by 1.  
+You may cast the spells listed by the Warden's Boon feature as though they were Rites (like a cleric), so long as you have that feature.
 If you have specialization with a weapon/unarmed attack against a foe of a creature type chosen by your Unconventional Study, Further Unconventional Study, or Unconventional Mastery, you may replace the +4 bonus for the purpose of inflicting a critical hit with your heroism.
 
 #### Splash
