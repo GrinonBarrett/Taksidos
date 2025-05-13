@@ -1,7 +1,7 @@
  # Warden
 Practitioners of the . 
 
-**Class Skills**: Select one of the following (Athletics, Riding, or Lore).
+**Class Skills**: Select one of the following (Riding, Survival, or Lore).
 
 **Table-The Warden**
 
@@ -76,13 +76,14 @@ If you splash warden as a member of another class, you gain the Unconventional S
 **Aquatic**. 
 
 
-**Avian**. Birds.  
-When standing to a charge or performing an attack of opportunity against a foe which has moved
+**Avian**. 
+* When standing to a charge or performing an attack of opportunity against a foe which moved towards you, you gain advantage on the attack.
+* You ignore the Nimble FLight feature of a creature when you attack.
 
 **Beast**. Land-dwelling warm-blooded creatures.  
 
 
-**Bigenerae**. Creatures which are themselves hybrids of two other manner of creature.  
+**Bigenerae**.
 
 
 **Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.  
