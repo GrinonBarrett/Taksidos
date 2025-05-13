@@ -123,5 +123,7 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 • **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
 
-• **Wiz**. The time required to learn a new spell for you is halved. this is cumulative with other features.
+• **Wicked Dance**. When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
+
+• **Wiz**. The time required to learn a new spell for you is halved. This is cumulative with other features.
 
