@@ -1,4 +1,4 @@
- # Warden?
+ # Warden
 Practitioners of the . 
 
 **Class Skills**: Select one of the following (Athletics, Riding, or Lore).
@@ -18,26 +18,16 @@ Practitioners of the .
 | 9th   | 4  |    +8    | Attribute Improvement, Battle Instinct            |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
+### Graceful Retort
+Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe. Alternatively, if it is within melee range, you may shove or slam that foe.
+
 ### Wardenry
 You gain training with two weapons of your choice and learn two languages of your choice.
 
-### Warpath
-You choose a warpath from the following options. Once this decision is made, it cannot be changed.
-
-**Bastion**: You gain Shield proficiency like a Warrior. Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
-
-**Cleaver**: If you inflict a critical hit with your cleave and are not prone, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
-
-**Dilletante**: You learn a spell whose minimum tier is 1. Anytime you perform a skill check with a skill you are not proficient, you gain a +1 bonus to your result. You gain training with a weapon of your choice.
-
-**War Dancer**: When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
-
-**Zen Archery**: When you perform a ranged attack, you gain a +1 bonus if you are not concentrating on anything else. When you loose an Aimed attack from a bow, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
-
 ### 2) Unconventional Study
-You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others cant. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
+You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others can't. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
-### 2) Studied Foe
+### 3) Studied Foe
 Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level.
 
 ### 3) Bravery
@@ -46,78 +36,96 @@ Anytime you make a save against a fear effect, you may roll a d6 and add the res
 ### 3) Dash
 Once per encounter, you may perform a move as an action.
 
-### 4) Lightfoot
-You gain a +2 bonus to all initiative rolls. During the first round of an encounter, you gain a +2 to defense against attacks from sources you can perceive.
+### 4) Impressive Blow
+When you perform an attack against a foe with a single attack which you have aimed against, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
+
+### 4) Wicked Dance
+When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
 
 ### 6) Further Unconventional Study
 Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
-### 7) Skilled Defense
-If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
+### 7) Calculated Swing
+You know the remaining hitpoints and current fatigue level of any creature within the arc of your cleaves.
 
-### 8) Improved Warpath
-Depending on which warpath you choose at first level, you gain new benefits as your style evolves.
+### 7) Lightfoot
+You may add your heroism to your initiative rolls. During the first round of an encounter, you gain a +2 to defense against attacks from sources you can perceive.
 
-**Bastion**: You may perform your block with a shield against attacks which are the result of magical effects that would affect an area as though they were targeted effects. You provide an additional +1 bonus to defense when blocking for a creature.
+### 8) Calm Sense
+When you aim against a foe within a number of yards equal to your [Prcp] score, you know how many hitpoints they have remaining. If you aim against a creature of a type you have the proper zoology skill for, the range is increased by a number of yards equal to your heroism.
 
-**Cleaver**: You know the remaining hitpoints and current fatigue level of any creature within the arc of your cleaves. When you perform a non-cleave attack against a creature with multiple hands, you gain a 1d4 bonus to that attack for the purpose of determining if its a critical hit. If it is successful, you may perform a follow up attack using your reaction.
-
-**Dilletante**: Choose another class which you have not splashed. You gain the benefits as though you splashed into that class. You cannot splash into that class later. You cannot choose a class for which you already have the benefits of splashing into through another feature.
-
-**War Dancer**: Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe. Alternatively, if it is within melee range, you may grapple, shove, or slam that foe.
-
-**Zen Archery**: When you attack a foe with a bow that you have aimed against more than once, you gain a bonus to the attack roll equal to your [Prcp] bonus.
-
-### 9) Battle Instinct
-As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe. If a foe critically fails to strike you unarmed or with a weapon, you know their level of training in that weapon and are automatically aware of them.
+### 9) Unconventional Mastery
+Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
 
 #### Specialize
-If you specialize as a warrior, you gain the following:  
-If you have specialization or expertise with a weapon, you may train a further level with that weapon to acquire "Warrior Mastery" with that weapon. Doing so enables a benefit unique to that weapon (see table below). You do not need expertise with the weapon to achieve this. 
-Additionally, you gain training with a number of weapons equal to your current level. Anytime you gain a new level, you gain training in a weapon of your choice.
+If you specialize as a warden, you gain the following:  
+You gain two items worth of knacks without counting against your independant learning.  
+Choose two of your attributes, they are each increased by 1.  
+If you have specialization with a weapon/unarmed attack against a foe of a creature type chosen by your Unconventional Study, Further Unconventional Study, or Unconventional Mastery, you may replace the +4 bonus for the purpose of inflicting a critical hit with your heroism.
 
 #### Splash
-If you splash warrior as a member of another class, you gain the same benefits as a warrior that chooses to specialize.
+If you splash warden as a member of another class, you gain the Unconventional Study and Studied Foe features. You also gain training in a weapon of your choice.
 
 -----
 
-##### **Table**: *Warrior Mastery*
-| Weapon                 | Benefit      |
-|------------------------|-----------|
-|                        |           |
-| Unarmed                | If you score a critical hit against a foe, or attack them from behind, you may have them make an opposed [Body] or [Rflx] check. If they fail, they are knocked prone. |
-| Longsword              | In place of performing a movement, you may perform an attack. |
-| Mace                   | For the purpose of inflicting a critical hit, you gain a bonus equal to half of your level. |
-| Spear                  | You ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit.|
-| Hand Axe               | If you fail to harm a foe with your attack action, you may use your reaction to attack another foe within range. Cannot be used in response to a cleave or attack as a result of a reaction. |
-| Katar                  | When you stand to a charge, you may choose to either perform an additional attack with your offhand or instead not have disadvantage on the [Rflx] check.|
-| Dagger                 | If you are brawling with a foe, you get a bonus on your attack against them equal to either your [Body] or [Rflx] bonus.|
-| Morningstar            | You gain a +2 bonus to your attack.|
-| Warpick                | If you damage the foe's armor or inflict a critical hit, you may have the weapon get stuck in the foe- causing it to suffer a -2 penalty to all checks and a -1 penalty to Attack Rolls and Saves until it is removed with a [Body] Check of 12. Against an unarmord foe, you instead inflict an additional hemorrhage.|
-| Club                   | You gain a +1 to beats, parries, and attacks with this weapon. You may shift the wound result an additional step. On a critical hit, it is two steps. |
-| Madu                   | You gain a +3 bonus to parries made with madu your main hand and a +2 bonus to parries made with madu in your off hand. You may actually use multiple Madu to parry, gaining the bonus for one and a +1 for each additional madu, so long as the additional madu are not used for attacks during this phase. |
-| Flail                  | If the weapon is wound properly, you may ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit. |
-|                        |           |
-| Pole Axe               | You may choose to incur a penalty to your attack up to -4. If you do, for the purpose of inflicting a critical hit, the attack is treated as having a +2 for each point of penalty incurred this way so long as the attack hits. |
-| Greatsword             | When you cleave with this weapon, you do not have disadvantage on attacks made within less than half of the weapon's range and may choose to extend the arc to 270 degress (your front and both sides). If you do, you may choose to either suffer a level of fatigue, become prone until the end of the next round, or become vulnerable until the end of the next round. |
-| Maul                   | When you inflict a critical hit or the attack qualifies to damage the foe's armor, the foe is knocked prone. |
-| Pike                   | When you stand to a charge against a foe, its remaining movement (in feet) is divided by the points of success of your attack. Any result below 1 results in it being stopped. If the result is below .5, you may push it back a number of feet equal to your points of success divided by their lost movement (in feet). |
-|                        |           |
-| Javelin                | If you attack a foe with a shield, and your attack is blocked or your attack roll is within 1 step of the minimum required to harm the foe, you may have the javelin become lodged in that shield- preventing it from being used to block and making them vlunerable while the shield is equipped. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +1 for the purpose of determining if it is a critical hit. |
-| Bow                    | In place of moving, you may Aim. |
-| Crossbow               | You may use your reaction to perform an attack. |
-| Throwing Blade         | In place of moving, you may perform an attack. |
-| Brusgiata              | Your critical hits leave a foe vulnerable until the end of the round. |
-| Chakram                | You may have your chakram bounce off of the foe to a particular spot. This spot cannot exceed a distance from the foe greater than half of the remaining maximum distance of the weapon when the attack was made. This cannot occur if the attack was a critical failure. If it returns to your own space, you catch it. |
-| Sling                  | If your sling is readied and you aimed this round, you gain a +6 bonus to your attack for the purpose of inflicting a critical hit. When being used for attacks or hurlings, its range is increased by half if it has been wound at least twice this round. |
-| Arquebus               | If you aimed your attack, the foe loses 1d2 hitpoints if the attack is successful, after inflicting a wound. |
-| Musket           | You gain a 1d8 bonus to the attack for the purpose of determining if the successful attack is a critical hit. If the attack was aimed, 1d12 bonus instead. |
-| Tronutonante           | If the foe is not brawling and is within 2 yards, you gain a 1d4-1 bonus to your attack roll. Your penalty for firing multiple tronutonante simultaneously is reduced by 1. |
-|                        |           |
-| Scattergun             | The first attack your scattergun inflicts against each target gets a +1 bonus for the purpose of determining a critical hit if within half of the weapon's maximum range.          |
-|                        |           |
-| Wand                   | You may treat a wand as a melee weapon with a range of 2 yards for all purposes. In place of comparing your [Body] to the foe's [Body] for the +1 bonus, you may compare the wand's attribute to their [Body]. |
-| Staves                   | For the purpose of inflicting a critical hit with this weapon, regardless of how it is used, you may apply your bonus of the required attribute to your result. When performing a ranged attack with this weapon, if your required attribute is greater then the foe's, you gain a +1 bonus to the attack. |
+#### Unconventional Study
+
+**Aquatic**. 
+
+
+**Avian**. Birds.  
+When standing to a charge or performing an attack of opportunity against a foe which has moved
+
+**Beast**. Land-dwelling warm-blooded creatures.  
+
+
+**Bigenerae**. Creatures which are themselves hybrids of two other manner of creature.  
+
+
+**Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.  
+
+
+**Drakomadiae**. Mythical creatures.  
+
+
+**Eldritch**. Atemporal creatures.  
+
+
+**Elementals**. Manifestations of the native form of energy to a plane of existence.  
+
+
+**Ephemera**. A consciousness devoid of material form.  
+
+
+**Fey**. Faeries.  
+
+
+**Fiends**. Manifestations of negative energies which might transcend a single plane of existence.  
+
+
+**Humanoids**. Most people you meet.  
+
+
+**Infigura**. Single cell organisms and creatures which do not have an innate bodyplan.  
+
+
+**Insect**. Arthopods and similar creatures.  
+
+
+**Monster**. The product of curses and other magics.  
+
+
+**Plant**. Creatures which possess cell walls like plants.  
+
+
+**Reptile**. Cold-blooded and protothermic land-dwellers.  
+
+
+**Sylvan**. Creatures having a strong association with the natural world.  
+
+
+**Undead**. The corporeal remnants of once living creatures animated by some means.  
+
