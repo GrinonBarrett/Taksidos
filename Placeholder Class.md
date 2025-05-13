@@ -7,15 +7,15 @@ Practitioners of the .
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
-| 1st   | 2  |    +1    | Basic Training, Pacing, Shield Proficiency        |
-| 2nd   | 2  |    +2    | Bravery, Tactical Step, Weight Bearer             |
-| 3rd   | 3  |    +3    | Attribute Improvement, Focus Strike               |
-| 4th   | 3  |    +4    | Aggressive Way                                    |
+| 1st   | 2  |    +1    | Graceful Retort, Wardenry                         |
+| 2nd   | 2  |    +2    | Dash, Unconventional Study                        |
+| 3rd   | 3  |    +3    | Attribute Improvement, Bravery, Studied Foe       |
+| 4th   | 3  |    +4    | Impressive Blow, Wicked Dance                     |
 | 5th   | 3  |    +4    | Splash or Specialize                              |
-| 6th   | 4  |    +5    | Attribute Improvement, Warrior's Training         |
-| 7th   | 4  |    +6    | Riposte, Skilled Defense                          |
-| 8th   | 4  |    +7    | Hardened Veteran, Wholesome Courage               |
-| 9th   | 4  |    +8    | Attribute Improvement, Battle Instinct            |
+| 6th   | 4  |    +5    | Attribute Improvement, Further Unconventional Study|
+| 7th   | 4  |    +6    | Calculated Swing, Lightfoot                       |
+| 8th   | 4  |    +7    | Calm Sense                                        |
+| 9th   | 4  |    +8    | Attribute Improvement, Unconventional Mastery     |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
 ### Graceful Retort
@@ -24,17 +24,17 @@ Anytime you dodge an attack, if the attack is a critical failure, you may perfor
 ### Wardenry
 You gain training with two weapons of your choice and learn two languages of your choice.
 
+### 2) Dash
+Once per encounter, you may perform a move as an action.
+
 ### 2) Unconventional Study
 You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others can't. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
-
-### 3) Studied Foe
-Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level.
 
 ### 3) Bravery
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
-### 3) Dash
-Once per encounter, you may perform a move as an action.
+### 3) Studied Foe
+Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level.
 
 ### 4) Impressive Blow
 When you perform an attack against a foe with a single attack which you have aimed against, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
@@ -74,59 +74,61 @@ If you splash warden as a member of another class, you gain the Unconventional S
 #### Unconventional Study
 
 **Aquatic**. 
-
+* You may hold your breath twice as long. If you did not need to breathe some medium, you learn a language of your choice.
+* If you dodge an attack and it is still successful, you may modify the wound result by 2 steps.
 
 **Avian**. 
 * When standing to a charge or performing an attack of opportunity against a foe which moved towards you, you gain advantage on the attack.
-* You ignore the Nimble FLight feature of a creature when you attack.
+* You ignore the Nimble Flight feature of a creature when you attack.
 
 **Beast**. Land-dwelling warm-blooded creatures.  
-
+* Each of your modes of movement increase by .5 yards.
 
 **Bigenerae**.
+* You gain the Survival Skill. If you already possessed that skill, you gain a another skill of your choice.
+* You learn a basic spell of your choice whose minimum tier is 1 or 2.
 
+**Construct**. 
+* Your attacks against constructs and objects gain a bonus equal to your heroism for the purpose of inflicting a critical hit.
+* Attacks against you by constructs and otherwise unliving objects (such as traps) have a -2 penalty againbst you.
 
-**Construct**. Devoid of the typical abstraction of life, yet still animate. This includes machines complex enough to solve problems.  
+**Drakomadiae**.
+* You learn up to two spells whose total minimum tier is no greater than 4.
 
+**Eldritch**. 
+* You learn a legendary spell of your choice.
+* You gain a 1d4 bonus to all counterspell checks.
+* You suffer a 1d4 penalty to all saves against magical effects.
 
-**Drakomadiae**. Mythical creatures.  
+**Elementals**. 
+* You gain a +2 bonus to defense against Acid, Cold, Fire, Force, and Electrical attacks.
 
+**Ephemera**. 
+* You gain a +2 bonus to defense against Ki, Necrotic, Psychic, Radiant, and undamaging attacks.
 
-**Eldritch**. Atemporal creatures.  
+**Fey**. 
+* All inebriation you receive from magical effects is reduced by half.
 
+**Fiends**. 
+* You know when a creature within a number of yards equal to your [Prcp] score plus heroism, which you can perceive, is activating a feature with magical components to its nature.
 
-**Elementals**. Manifestations of the native form of energy to a plane of existence.  
+**Infigura**. 
+* You gain the Alchemy skill. If you already had it, you instead gain training in a weapon of your choice and learn a language. You gain a +1 bonus to all saves.
 
+**Insect**. 
+* You gain an edge of your choice (see the Rogue class)
 
-**Ephemera**. A consciousness devoid of material form.  
+**Monster**. 
+* Choose one of your modes of movement. It is increased by 1 yard. This decision cannot be changed.
 
+**Plant**. 
+* The amount of food and water you require is reduced by 25%. If you did not require such things, you instead learn 2 languages of your choice.
 
-**Fey**. Faeries.  
-
-
-**Fiends**. Manifestations of negative energies which might transcend a single plane of existence.  
-
-
-**Humanoids**. Most people you meet.  
-
-
-**Infigura**. Single cell organisms and creatures which do not have an innate bodyplan.  
-
-
-**Insect**. Arthopods and similar creatures.  
-
-
-**Monster**. The product of curses and other magics.  
-
-
-**Plant**. Creatures which possess cell walls like plants.  
-
-
-**Reptile**. Cold-blooded and protothermic land-dwellers.  
-
+**Reptile**. 
+* When you perform an opposed check while brawling, you may replace one of your attrbute bonuses with your heroism. If you do, you are vulnerable until the brawl ends.
 
 **Sylvan**. Creatures having a strong association with the natural world.  
+* You gain a +2 bonus to defense against Bare, Biting, Club, Cutting, and Thrown Blade attacks.
 
-
-**Undead**. The corporeal remnants of once living creatures animated by some means.  
-
+**Undead**. 
+* You gain a 1d10 bonus to saves against magical effects.
