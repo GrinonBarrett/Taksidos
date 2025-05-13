@@ -37,3 +37,4 @@ Each day of training can be as little as 3 hours or as much as 10 hours. After a
 | Wands                  | 7D20+60 | |
 | Unarmed                | 5D8+60  | If trainer does not have similar body parts for unarmed attacks, only half of training time counts. |
 
+A player character may use the the above as a guide for their developing training with weapons as part of their individual learning. Simple Proficiency requires time training equal to the minimum hours. Specializations requires 2 times minimum hours beyond that. Expertise requires 3 times minimum hours beyond that.
