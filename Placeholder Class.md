@@ -1,9 +1,9 @@
  # Warden?
 Practitioners of the . 
 
-**Class Skills**: Select one of the following (Athletics, Riding, or Roping).
+**Class Skills**: Select one of the following (Athletics, Riding, or Lore).
 
-**Table-The**
+**Table-The Warden**
 
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
@@ -18,10 +18,13 @@ Practitioners of the .
 | 9th   | 4  |    +8    | Attribute Improvement, Battle Instinct            |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
+### Wardenry
+You gain training with two weapons of your choice and learn two languages of your choice.
+
 ### Warpath
 You choose a warpath from the following options. Once this decision is made, it cannot be changed.
 
-**Bastion**: Anytime you block with a shield and the triggering attack is a critical hit, it does not count against your reaction for the round.
+**Bastion**: You gain Shield proficiency like a Warrior. Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
 
 **Cleaver**: If you inflict a critical hit with your cleave and are not prone, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
 
@@ -31,32 +34,39 @@ You choose a warpath from the following options. Once this decision is made, it 
 
 **Zen Archery**: When you perform a ranged attack, you gain a +1 bonus if you are not concentrating on anything else. When you loose an Aimed attack from a bow, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
 
-### 2) Tactical Step
-Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
+### 2) Unconventional Study
+You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others cant. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
-### 2) Weight Bearer
-Your load limits are increased by a number of pounds equal to your level.
+### 2) Studied Foe
+Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level.
 
-### 3) Focus Strike
-When you successfully attack a foe, you may use your reaction to grant yourself a bonus to the attack equal to your heroism for the purpose of determining if it is a critical hit.
-
-### 4) Aggressive Way
-If you Press Attack to the first attack you make in the round, it does not count against your reaction for the round.
-
-### 6) Warrior's Training
-You gain a level of training in two weapons of your choice. Alternatively, you may gain two levels of training in a single weapon.
-
-### ) Bravery
+### 3) Bravery
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
+
+### 3) Dash
+Once per encounter, you may perform a move as an action.
+
+### 4) Lightfoot
+You gain a +2 bonus to all initiative rolls. During the first round of an encounter, you gain a +2 to defense against attacks from sources you can perceive.
+
+### 6) Further Unconventional Study
+Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
 
 ### 7) Skilled Defense
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
-### 8) Hardened Veteran
-Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
+### 8) Improved Warpath
+Depending on which warpath you choose at first level, you gain new benefits as your style evolves.
 
-### 8) Wholesome Courage
-The die rolled for you Bravery feature is now a d8. You may use your reaction to increase it to a d12.
+**Bastion**: You may perform your block with a shield against attacks which are the result of magical effects that would affect an area as though they were targeted effects. You provide an additional +1 bonus to defense when blocking for a creature.
+
+**Cleaver**: You know the remaining hitpoints and current fatigue level of any creature within the arc of your cleaves. When you perform a non-cleave attack against a creature with multiple hands, you gain a 1d4 bonus to that attack for the purpose of determining if its a critical hit. If it is successful, you may perform a follow up attack using your reaction.
+
+**Dilletante**: Choose another class which you have not splashed. You gain the benefits as though you splashed into that class. You cannot splash into that class later. You cannot choose a class for which you already have the benefits of splashing into through another feature.
+
+**War Dancer**: Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe. Alternatively, if it is within melee range, you may grapple, shove, or slam that foe.
+
+**Zen Archery**: When you attack a foe with a bow that you have aimed against more than once, you gain a bonus to the attack roll equal to your [Prcp] bonus.
 
 ### 9) Battle Instinct
 As an action, you may measure up a foe within a number of yards equal to your level. You know how many hitpoints it currently has. You also know this when you Press Attack against a foe. If a foe critically fails to strike you unarmed or with a weapon, you know their level of training in that weapon and are automatically aware of them.
