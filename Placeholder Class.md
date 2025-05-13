@@ -27,6 +27,7 @@ You choose a war path from the following options. Once this decision is made, it
 
 **War Dancer**: When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
 
+**Dilletante**: You learn a spell whose minimum tier is 1. Anytime you perform a skill check with a skill you are not proficient, you gain a +1 bonus to your result.
 
 ### 2) Tactical Step
 Once per round, you may move 1 yard using your primary mode of movement. This does not count as an action and does not count against your movement. You cannot be brawling, immobile, or restrained to do so.
