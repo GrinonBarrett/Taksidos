@@ -1,5 +1,5 @@
  # Warden
-Practitioners of the . 
+Members of an community of outsiders that walk the realms, maintaining the order of the natural world and fulfilling the will of hidden voice of the world. 
 
 **Class Skills**: Select one of the following (Riding, Survival, or Lore).
 
