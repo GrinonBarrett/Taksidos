@@ -28,7 +28,7 @@ You gain training with two weapons of your choice and learn two languages of you
 Once per encounter, you may perform a move as an action.
 
 ### 2) Unconventional Study
-You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others can't. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
+You have extensive study of a number of creatures which are loosely related. You can exploit this knowledge in ways that others can't. Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill (at the end of this class entry). If you already possess the selected zoology skill, you gain training in two weapons of your choice instead.
 
 ### 3) Bravery
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
@@ -43,7 +43,7 @@ When you perform an attack against a foe with a single attack which you have aim
 When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
 
 ### 6) Further Unconventional Study
-Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
+Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in two weapons of your choice instead.
 
 ### 7) Calculated Swing
 You know the remaining hitpoints and current fatigue level of any creature within the arc of your cleaves.
@@ -57,10 +57,10 @@ When you aim against a foe within a number of yards equal to your [Prcp] score, 
 ### 8) Warden's Boon
 You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before doing so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
 
-Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
+Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
 
 ### 9) Unconventional Mastery
-Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in a weapon of your choice instead.
+Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in two weapons of your choice instead.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
