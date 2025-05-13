@@ -14,7 +14,7 @@ Members of an community of outsiders that walk the realms, maintaining the order
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Further Unconventional Study|
 | 7th   | 4  |    +6    | Calculated Swing, Lightfoot                       |
-| 8th   | 4  |    +7    | Calm Sense                                        |
+| 8th   | 4  |    +7    | Calm Sense, Warden's Boon                         |
 | 9th   | 4  |    +8    | Attribute Improvement, Unconventional Mastery     |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
