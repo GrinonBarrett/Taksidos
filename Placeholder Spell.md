@@ -4,12 +4,8 @@
 
 **Casting Time**: 2 actions
 
-**Effect**: You animate a number of ball bearings, marbles, or bullets, which have been coated in grease. You may animate a number up to the spell's tier so long as they fit in your hand. The spheres can levitate and move up to a number of yards equal to 5 + [Magic] bonus. They Are animated so long as you concentrate on the spell.
+**Effect**: You exert flames out from your hand in a 2 yard inverted cone. Anything in the area suffers a fire attack. You may concentrate on this spell when you cast it. While doing so, you cannot move or take other actions, and a reaction will end the spell immediately. At the end of each action phase, the jet expands, increasing the inverted cone by 1 yard. You may concentrate on this spell for a number of rounds equal to the spell check's points of success.
 
-The spheres must remain within 15 yards of you or they become inert. As an action or reaction you may direct the orbs to move. When an orb comes in contact with a creature, you may have it inflict a force or fire attack. On a critical hit, it is treated as a fire attack regardless. In place of damaging armor, you may choose to have the orb explode. If you do, the attack gains a bonus for the purpose of inlicting a critical hit equal to the spell's tier. The orb is then destroyed.
+**At Higher Tiers**: Each tier beyond minimum can allow the inverted cone's length to be increased by 1 yard immediately or grant a +1 bonus to all attacks for the purpose of inflicting a critical hit.
 
-Alternatively, the caster may use the bullet of a firearm with the gunpowder included as a component. Such a orb can be used to inflict an attack of the appropriate firearm when it comes in contact with a foe. When used this way, it is destroyed.
-
-**At Higher Tiers**: In addition to the above benefits, the range the orbs may distance themselves from you is increased by 1 yard.
-
-**Critical Failure**: The orbs each explode in your hand, as though you directed them each towards yourself and caused them to explode.
+**Critical Failure**: You create the cone for an instant, inflicting the fiery attacks, and the spell backfires. This causes it to inflict a number of fire attacks against you equal to the tier of the spell. You are also knocked back a number of feet equal to the total points of success from all attacks inflicted against you this way. 
