@@ -27,7 +27,7 @@ When you perform a counterspell check, you may add your [Body] bonus.
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Will].
 
 ### Ki Step
-You may spend at least 2 points of ki to instantly move up to a number of yards equal the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you- bit have disadvantage.
+You may spend at least 2 points of ki to instantly move up to a number of yards equal to the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you- bit have disadvantage.
 
 ### Super Techniques
 You are capable of learning special techniques which harness your ki in more powerful ways. You may learn a total number of super techniques equal to your heroism.
@@ -65,7 +65,7 @@ Once per round, when you take a reaction, you may spend 10 ki. If you do, it doe
 Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
 
 ### 9) Ki Wave
-Choose an exotic damage type. Once this decision is made, it cannot be changed. You have unlocked a power unlike the rest of your ki features. As an action or reaction, you may charge your own internal energy to a particular frequency. Until the end of the next round, you may use your action or reaction to produce a ray attack against a foe within a number of yards equal to your level + [Body] score. This incurs a level of fatigue aginst you, but inflicts a ki attack against the foe with a bonus equal to your [Will] bonus for the purpose of determining if it is a critical hit. If it is a critical hit, it also applies the critical effect of the chosen damage type. This does mean it could apply two independant instances of the Ki attack critical hit effect.
+Choose an exotic damage type. Once this decision is made, it cannot be changed. You have unlocked a power unlike the rest of your ki features. As an action or reaction, you may charge your own internal energy to a particular frequency. Until the end of the next round, you may use your action or reaction to produce a ray attack against a foe within a number of yards equal to your level + [Will] score. This incurs a level of fatigue aginst you, but inflicts a ki attack against the foe with a bonus equal to your [Body] bonus for the purpose of determining if it is a critical hit. If it is a critical hit, it also applies the critical effect of the chosen damage type. This does mean it could apply two independant instances of the Ki attack critical hit effect.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
