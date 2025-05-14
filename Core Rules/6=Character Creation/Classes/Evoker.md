@@ -33,7 +33,7 @@ You may spend at least 2 points of ki to instantly move up to a number of yards 
 You are capable of learning special techniques which harness your ki in more powerful ways. You may learn a total number of super techniques equal to your heroism.
 
 ### 2) Empowered Strikes
-When you perform a melee attack, you may spend 1 point of ki to gain a +1 bonus to that attack. If it was not a wand or staff attack (except a staff being treated as a club), you may choose to have that attack become a ki attack by spending an afditional ki point.
+When you perform a melee attack, you may spend 1 point of ki to gain a +1 bonus to that attack. If it was not a wand or staff attack (except a staff being treated as a club), you may choose to have that attack become a ki attack by spending an additional ki point.
 
 ### 2) Step Dash
 Once per round as an action, if you performed a Ki Step during the previous phase, you may perform a movement.
