@@ -70,6 +70,8 @@ A fiend born out of the destruction brought about by plagues. They are born when
 
 **Infernal Regeneration**: At the end of any round the infernal diva receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
 
+**Celarity**: When rolling for initiative, it rolls an additional d8.
+
 **Plague Spreader**: The nosoferai does not suffer the effects of a disease, but can immediately spread it by contact with an unarmed attack from or against it.
 
 **Toxic Lifestyle**: Toxic attacks do not wound a nosoferai, but instead recover one of its hitpoints. A critical hit will remove spell sickness from it equal to the points of success. In place of an attack damaging the nosoferai's armor (which it doesn't typically wear and would not benefit from if it did), it recovers a level of fatigue.
@@ -78,9 +80,9 @@ A fiend born out of the destruction brought about by plagues. They are born when
 
 **Horrid Wave**: The nosoferai may unleash a wave of necrotic energy out semifan up to 50 yards as an action. The maximum length of this semifan is reduced by a number of yards equal to its current spell sickness. It gains spell sickness equal to half of the length in yards of the semifan produced.
 
-**Burning Song**: As a full round action, the diva sings a verse of a song so vile it cannot be understood by mortal ears. At the end of each action phase, any creature which can hear the song *is subject to sonic attack and a fire attack*. It can continue this beyond the first round, but cannot take any other action or concentrate on anything else while singing this way. If it performs a reaction, the song ends. It can move, but is prone while singing. This song does not affect Constructs, Elementals, Ephemera, Fiends, or Undead.
+**Parting Poison**: When the nosoferai is destroyed, *it inflicts up to 3 toxic attacks divided as it chooses among creatures within 25 yards*.
 
-**Horrendous Strike**: If the diva's unarmed bare attack against a foe is successful, it may use its reaction to *also inflicts a fire attack and a psychic attack against that foe*.
+**H**: If the diva's unarmed bare attack against a foe is successful, it may use its reaction to *also inflicts a fire attack and a psychic attack against that foe*.
 
 
 .
