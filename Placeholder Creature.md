@@ -82,7 +82,7 @@ A fiend born out of the destruction brought about by plagues. They are born when
 
 **Parting Poison**: When the nosoferai is destroyed, *it inflicts up to 3 toxic attacks divided as it chooses among creatures within 25 yards*.
 
-**H**: If the diva's unarmed bare attack against a foe is successful, it may use its reaction to *also inflicts a fire attack and a psychic attack against that foe*.
+**Plague Birthing**: If the nosoferai spits on a corpse which has been dead no longer than a minute, that corpse will reanimate as a Plague Birthed after 1d4+1 rounds.
 
 
 .
