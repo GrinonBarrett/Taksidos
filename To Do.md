@@ -27,6 +27,7 @@ For this update:
 * A Ganzar, a creature composed of discard magical writings. It begins existence as a mindless entity. It can only leave the place of its birth if another leaves a portal open. It will eventually become sentient. It absorbs books and their knowledge and it will become a reflection of their contents.
 * A cute little shelled squid servile.
 * Create the Anxana, based on Anjana/Xanas, as a playable species.
+* Create a "Plague Birthed" template,which essentially turns a creature into a type of lurching dead with a low amount of points of undeath and the ability to spread diseases with attacks.
 
 -----
 
