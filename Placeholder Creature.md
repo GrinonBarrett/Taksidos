@@ -9,7 +9,7 @@ A fiend born out of the destruction brought about by plagues. They are born when
 
 -----
 
-**Hitpoints**: A nosoferoi have 10 hitpoints.
+**Hitpoints**: A nosoferai has 10 hitpoints.
 
 **Attributes**:  
 [Body] 15 (+5)  
@@ -48,10 +48,10 @@ A fiend born out of the destruction brought about by plagues. They are born when
 | **Morningstar**            | 16     | **Sling**          | 17     | **Tronutonante** | 16    |
 | **Warpick**                | 16     |                    |        | **Bare** |  20 |
 |                        |           |          |            |         |            |
-| **Acid**                   | 16     | **Fire**           | 18     | **Psychic** | 15     |
-| **Cold**                   | 16     | **Force**          | 16     | **Toxic**  | 16     |
-| **Crushing**               | 16     | **Ki**             | 15     | **Radiant** | 14     |
-| **Cutting**                | 16     | **Necrotic**       | 17     | **Sonic** | 15    |
+| **Acid**                   | 16     | **Fire**           | 16     | **Psychic** | 15     |
+| **Cold**                   | 16     | **Force**          | 16     | **Toxic**  | 14     |
+| **Crushing**               | 16     | **Ki**             | 16     | **Radiant** | 15     |
+| **Cutting**                | 16     | **Necrotic**       | 18     | **Sonic** | 16    |
 | **Electrical**             | 16     | **Piercing**       | 16     | **Biting** | 16    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type**   | 16     |                   |         | **Undamaging** | 16 |
@@ -60,7 +60,7 @@ A fiend born out of the destruction brought about by plagues. They are born when
 
 #### Special Features
 
-**Fiendish Nature**: The infernal diva's fiendish nature bestows it with a few particular features;  
+**Fiendish Nature**: The nosoferai's fiendish nature bestows it with a few particular features;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Is not subject to bleeding.  
  • Is immune to diseases, poisons, and venom.  
@@ -68,13 +68,9 @@ A fiend born out of the destruction brought about by plagues. They are born when
  • Is not affected by spells which would affect the flesh.   
  • Receives wounds, but no effect from them.
 
-**Painful Boon**: Anytime the diva receives a wound, its spell sickness is reduced by 1.
-
 **Infernal Regeneration**: At the end of any round the infernal diva receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
 
-**Diva Magic**: The infernal diva is capable of performing wyrdings. It may take on a point of spell sickness to gain a bonus to its spell check equal to its [Empy] bonus. Additionally, it gains a bonus to counterspell checks made to maintain its own spellcasting equal to its missing hitpoints. It knows 2 spells in addition to the following spell (Abaxiate, Ablative Guard, Arc Lightning, Behest, Disimpress, Dragon's Breath, Gravitic Disruption, Havery, Jinx, Kiss of Death, Quell, Spectral Burst, Stupify, Voice of Familiarity, Volley).
-
-**Infernal Screech**: During the first round of combat, the diva may loose a sound which harms any that hears it, save for fiends and ephemera, as an action or reaction. This inflicts a sonic attack *and a psychic attack* against any affected.
+: Does not suffer the effects of a disease, but can immediately spread it by contact with an unarmed attack from or against it.
 
 **Burning Step**: As an action, or in place of normal movement, the infernal diva may *choose one of the following dice (d4, d6, d8, d10, d12, d20). It takes that many points of spell sickness, but moves an equal number of yards. As it leaves in a smoky explosion, causing anything anything within 3 yard to succeed a [Rflx] or [Fort] save or be made prone as it is subject to a coughing fit until the end of the next round. A creature which does not breathe is immune to this. When the diva re-appears, there is a fiery explosion, inflicting a fire attack against everything within 5 yards of where it appears*.
 
