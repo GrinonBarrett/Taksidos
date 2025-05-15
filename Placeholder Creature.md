@@ -1,99 +1,94 @@
-### Yalai
-A figure of glass made animate. It serves its creator typically. The plural is yaloi. Their collective noun is a display.
+### Nosoferai
+A fiend born out of the destruction brought about by plagues. They are born when the light of an incomplete moon bathes a still open mass grave. It feeds of the the tragedy and writhes in the empty condolences afforded to the fallen by the fearful living. The plural is nosoferoi. Their collective noun is a pandemmic.
 
-**Creature Type**: Yaloi are Constructs.
+**Creature Type**: Nosoferoi are fiends.
 
-**Size**: Yalai stand between 4 and 5 feet. They can weigh between 90 and 250 pounds. They are medium creatures.
+**Size**: They can stand between 6' and 7'. They weigh between 1,346 and 1,667 pounds. They are medium creatures.
 
-**Hitpoints**: A yalai has no hitpoints.
+**Languages**: Nosoferoi do not normally speak.
+
+-----
+
+**Hitpoints**: A nosoferoi have 10 hitpoints.
 
 **Attributes**:  
-[Body] 7 (+2)  
-[Fort] 7 (+2)  
-[Rflx] 9 (+3)  
-[Will] 9 (+3)  
-[Inte] 6 (+2)  
-[Prcp] 9 (+3)  
-[Empy] 6 (+2)  
-
-**Languages**: The yalai does not speak, but understands any language known by their creator.
+[Body] 15 (+5)  
+[Fort] 26 (+8)  
+[Rflx] 15 (+5)  
+[Will] 17 (+5)  
+[Inte] 11 (+3)  
+[Prcp] 14 (+4)  
+[Empy]  7 (+2)  
 
 **Run Speed**: It may run up to 5 yards per move.
 
-**Climb speed**: It may swim up to 4 yards per move, presuming it is reasonable terrain to do so.
-
-**Swim speed**: It may swim up to 4 yards per move, presuming the water isn’t too rough.
-
-**Weapon Training**: The yalai has no training in weapons, but can use them with no penalty.
+**Flying Speed**: It may fly up to 20 yards per round. If it is not prone, it can hover. It may only fly once per round.
 
 **Unarmed Attacks**;
 
- • Smack: The yalai may use a limb or random object against a foe within 1 foot. This is a melee club attack.
+ • Spit: The nosoferai may project a flesh eating fluid at a creature within a number of feet equal to its [Fort] score. If beyond a number of feet eqaul to its [Fort] bonus, the attack has disadvantage. This is a necrotic attack which does not damage armor.
+
+ • Slam: The nosoferai may strike a foe with any part of its body within 1 yard. This is either a melee bare or melee force attack.
+
+ • Bite: The nosoferai may bite a foe it is brawling with. This is a melee biting attack. Instead of damaging armor, it inflicts hemorrhaging against a creature.
 
 ---------------------
 
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
-|                            |        |                    |        |                            |         |
-| **Club**                   | 11     | **Pole Axe**       | 10     | **Arrow, Bodkin Point**    | 14    |
-| **Longsword**              | 11     | **Greatsword**     | 10     | **Arrow, Broadhead**       | 14    |
-| **Mace**                   | 7      | **Maul**           | 6      | **Bolt**                   | 13    |
-| **Spear**                  | 11     | **Pike**           | 11     | **Brusgiata**              | 11    |
-| **Hand Axe**               | 10     | **Madu**           | 12     | **Chakram**                | 14    |
-| **Katar**                  | 12     | **Javelin**        | 11     | **Arquebus**               | 8     |
-| **Dagger**                 | 14     | **Throwing Blade** | 15     | **Musket**                 | 7     |
-| **Morningstar**            | 7      | **Sling**          | 14     | **Tronutonante**           | 10    |
-| **Warpick**                | 8      |                    |        | **Unarmed**                | 17    |
-|                            |        |                    |        |
-| **Acid**                   | 21     | **Fire**           | 12     | **Psychic**                | 20     |
-| **Cold**                   | 10     | **Force**          | 8      | **Toxic**                  | 24     |
-| **Crushing**               | 9      | **Ki**             | 11     | **Radiant**                | 14     |
-| **Cutting**                | 11     | **Necrotic**       | 19     | **Sonic**                  | 7      |
-| **Electrical**             | 13     | **Piercing**       | 12     | **Biting**                 | 13     |
-|                            |        |                    |        |                            |        |
-| **Unlisted Damage Type**   | 11     |                    |        | **Undamaging**             | 14 |
+|                        |          |            |         |            |         |
+| **Club**                   | 18     | **Pole Axe**       | 15     | **Arrow, Bodkin Point**    | 16    |
+| **Longsword**              | 16     | **Greatsword**     | 15     | **Arrow, Broadhead**       | 16    |
+| **Mace**                   | 16     | **Maul**           | 15     | **Bolt** | 16    |
+| **Spear**                  | 15     | **Pike**           | 15     | **Brusgiata** | 17     |
+| **Hand Axe**               | 16     | **Madu**           | 17     | **Chakram** | 17    |
+| **Katar**                  | 16     | **Javelin**        | 16     | **Arquebus** | 16    |
+| **Dagger**                 | 16     | **Throwing Blade** | 19     | **Musket** | 15    |
+| **Morningstar**            | 16     | **Sling**          | 17     | **Tronutonante** | 16    |
+| **Warpick**                | 16     |                    |        | **Bare** |  20 |
+|                        |           |          |            |         |            |
+| **Acid**                   | 16     | **Fire**           | 18     | **Psychic** | 15     |
+| **Cold**                   | 16     | **Force**          | 16     | **Toxic**  | 16     |
+| **Crushing**               | 16     | **Ki**             | 15     | **Radiant** | 14     |
+| **Cutting**                | 16     | **Necrotic**       | 17     | **Sonic** | 15    |
+| **Electrical**             | 16     | **Piercing**       | 16     | **Biting** | 16    |
+|                        |           |          |            |         |            |
+| **Unlisted Damage Type**   | 16     |                   |         | **Undamaging** | 16 |
 
 ---------------------
 
 #### Special Features
 
-**Glass Nature**: Due to the nature of its composition and creation, the yalai has a few oddities:  
-**-** They do not need to breathe, drink, eat, or sleep. Rest occurs when they are inactive.  
-**-** Immunity to poisons, venoms, diseases, fatigue, bloodloss, and effects which instantly kill.  
-**-** Cannot be incapacitated.  
-**-** Cannot be healed by an effect unless it specifically affects constructs.  
-**-** Cannot be destroyed by massive damage.  
-**-** Does not produce warmth.  
-**-** Cannot use items or armor.  
-**-** Receives wounds, but not the effects of them.
+**Fiendish Nature**: The infernal diva's fiendish nature bestows it with a few particular features;  
+ • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
+ • Is not subject to bleeding.  
+ • Is immune to diseases, poisons, and venom.  
+ • Gains a bonus to all saves equal to current hitpoints.  
+ • Is not affected by spells which would affect the flesh.   
+ • Receives wounds, but no effect from them.
 
-**Mindless**: Yalai do not have capacity for independent thought. As such, they cannot participate in articulate thought or coordination. They are also unaffected by mind-influencing affects and fear-based effects.
+**Painful Boon**: Anytime the diva receives a wound, its spell sickness is reduced by 1.
 
-**Barebone Senses**: The yalai is devoid of organs to sense. In partiuclar it has no sense of taste or smell. It otherwise is treated as having the same senses as a human.
+**Infernal Regeneration**: At the end of any round the infernal diva receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
 
-**Glass Shell**: When the yalai is attacked, *it rolls a d8. It gains a bonus to defense against the attack equal to the result but gains an equal amount of spell sickness*.
+**Diva Magic**: The infernal diva is capable of performing wyrdings. It may take on a point of spell sickness to gain a bonus to its spell check equal to its [Empy] bonus. Additionally, it gains a bonus to counterspell checks made to maintain its own spellcasting equal to its missing hitpoints. It knows 2 spells in addition to the following spell (Abaxiate, Ablative Guard, Arc Lightning, Behest, Disimpress, Dragon's Breath, Gravitic Disruption, Havery, Jinx, Kiss of Death, Quell, Spectral Burst, Stupify, Voice of Familiarity, Volley).
 
-**Frail**: It cannot apply attribute bonuses to incapacitation saves.
+**Infernal Screech**: During the first round of combat, the diva may loose a sound which harms any that hears it, save for fiends and ephemera, as an action or reaction. This inflicts a sonic attack *and a psychic attack* against any affected.
 
-**Entwined Resistance**: If the yalai has no spell sickness, it gains a +6 bonus to saves against all magical effects and a +3 bonus to defense against magical attacks.
+**Burning Step**: As an action, or in place of normal movement, the infernal diva may *choose one of the following dice (d4, d6, d8, d10, d12, d20). It takes that many points of spell sickness, but moves an equal number of yards. As it leaves in a smoky explosion, causing anything anything within 3 yard to succeed a [Rflx] or [Fort] save or be made prone as it is subject to a coughing fit until the end of the next round. A creature which does not breathe is immune to this. When the diva re-appears, there is a fiery explosion, inflicting a fire attack against everything within 5 yards of where it appears*.
+
+**Diva's Fireball**: The infernal diva may hurl a globe of fire against a foe or object within 33 yards as an action by taking 1d4 points of spell sickness. If its strikes a foe, it inflicts a fire attack. Upon impact, *the fiery globe remains and begins to shrink in size. At the end of any round it impacts, an explosion occurs as the globe reaches critical mass- inflict a fire attack against everything within 10 yards. Everything is propelled from the point of impact a number of feat equal to the attack roll total against it*.
+
+**Burning Song**: As a full round action, the diva sings a verse of a song so vile it cannot be understood by mortal ears. At the end of each action phase, any creature which can hear the song *is subject to sonic attack and a fire attack*. It can continue this beyond the first round, but cannot take any other action or concentrate on anything else while singing this way. If it performs a reaction, the song ends. It can move, but is prone while singing. This song does not affect Constructs, Elementals, Ephemera, Fiends, or Undead.
+
+**Horrendous Strike**: If the diva's unarmed bare attack against a foe is successful, it may use its reaction to *also inflicts a fire attack and a psychic attack against that foe*.
 
 -----
 
-#### Gaining a Yalai Servile
+#### Making an Infernal Diva Creature
+All features of the original creature are lost. The diva gains a benefit to each attribute equal to the original creature's bonus for those attributes. A player character could be converted this way, but it is not recommended. The character would lose all of its former abilities. Additionally, it is essentially a demon in service to a more powerful fiend- limiting the roleplaying potential. Furthermore, there is no advancement as such a creature.
 
-By casting the Animate spell on a glass statue, an invoker can create their own yalai servile. When created this way, it is treated as having a single hitpoint.
-
-**Dominion Benefits**: The yalai gains the benefit as appropriate to your domain.  
-* **Chosen Spirit**. While the yalai is brawling or when it is attacked, but before the result of the attack is known, the yalai may use its reaction to cause jagged glassy spikes to errupt from itself, extending out 1 foot. Any creature within that space suffers a piercing attack, except it. The attack caused this way has disadavntage against you.
-* **The Earth**. The yalai's unarmed attack may be treated as a force or cutting attack.
-* **The Flame**. If a fire attack is successfully inflicted against a vulnerable or prone yalai, it no longer suffers from those conditions. Fire attacks against the yalai have disadvantage while it is not prone or vulnerable.
-* **The Grave**. The yalai cannot be affected by the unarmed attacks of ephemera or undead. The yalai cannot be seen by undead.
-* **The Light**: Anytime a radiant attack would be inflicted against the yalai, it may use its reaction to instead convert it into a ray like that of a wand and can choose to direct it against a creature or have it discharge harmlessly. *It has an unnatural glow. It treats darkness as dim light*.
-* **Nobility**. Illusory nagics cann be seen through the yalai's body nor can they cast reflections or obscure the yalai in any way. The yalai gains advantage on saves against all illusory effects.
-* **The Sea**. While submerged in water or some similar liquid, if it moves no more than a single movement's worth of distance, it is invisible.
-* **The Sky**. The yalai gains a fly speed of 4 yards. It must fly at least 7 yards per round to remain airbone.
-* **Valdercaller**. The yalai learns a spell you know. If you do not know any spells, it instead learns a random spell. It can cast this spell by wyrding.
 
 .
 
