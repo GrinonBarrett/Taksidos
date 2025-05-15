@@ -63,27 +63,24 @@ A fiend born out of the destruction brought about by plagues. They are born when
 **Fiendish Nature**: The nosoferai's fiendish nature bestows it with a few particular features;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Is not subject to bleeding.  
- • Is immune to diseases, poisons, and venom.  
+ • Is immune to the diseases, poisons, and venom.  
  • Gains a bonus to all saves equal to current hitpoints.  
  • Is not affected by spells which would affect the flesh.   
  • Receives wounds, but no effect from them.
 
 **Infernal Regeneration**: At the end of any round the infernal diva receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
 
-: Does not suffer the effects of a disease, but can immediately spread it by contact with an unarmed attack from or against it.
+**Plague Spreader**: The nosoferai does not suffer the effects of a disease, but can immediately spread it by contact with an unarmed attack from or against it.
 
-**Burning Step**: As an action, or in place of normal movement, the infernal diva may *choose one of the following dice (d4, d6, d8, d10, d12, d20). It takes that many points of spell sickness, but moves an equal number of yards. As it leaves in a smoky explosion, causing anything anything within 3 yard to succeed a [Rflx] or [Fort] save or be made prone as it is subject to a coughing fit until the end of the next round. A creature which does not breathe is immune to this. When the diva re-appears, there is a fiery explosion, inflicting a fire attack against everything within 5 yards of where it appears*.
+**Toxic Lifestyle**: Toxic attacks do not wound a nosoferai, but instead recover one of its hitpoints. A critical hit will remove spell sickness from it equal to the points of success. In place of an attack damaging the nosoferai's armor (which it doesn't typically wear and would not benefit from if it did), it recovers a level of fatigue.
 
-**Diva's Fireball**: The infernal diva may hurl a globe of fire against a foe or object within 33 yards as an action by taking 1d4 points of spell sickness. If its strikes a foe, it inflicts a fire attack. Upon impact, *the fiery globe remains and begins to shrink in size. At the end of any round it impacts, an explosion occurs as the globe reaches critical mass- inflict a fire attack against everything within 10 yards. Everything is propelled from the point of impact a number of feat equal to the attack roll total against it*.
+**Infectious Step**: As an action, or in place of normal movement, the nosoferai may choose one of the following dice (d4, d6, d8, d10, d12, d20). It takes that many points of spell sickness, but moves an equal number of yards. *When it reappears, a noxious gas is emitted 25 yards outward which lasts for 1d6+4 rounds*. Anything in the area at the time the gas is produced and anything which starts and ends a round in it is subject to a toxic attack. Additionally, if a creature with no hitpoints started and ended its turn in the area, it is subject to a toxic attack. In place of damaging armor, this gas will daze a creature until the end of the next round. This gas cannot affect other nosoferoi in any way.
+
+**Diva's Fireball**: The nosoferai may unleash a wave of necrotic energy out semifan up to 50 yards as an action. The maximum length of this semifan is reduced by a number of yards equal to its current spell sickness. It gains spell sickness equal to half of the length in yards of the semifan produced.
 
 **Burning Song**: As a full round action, the diva sings a verse of a song so vile it cannot be understood by mortal ears. At the end of each action phase, any creature which can hear the song *is subject to sonic attack and a fire attack*. It can continue this beyond the first round, but cannot take any other action or concentrate on anything else while singing this way. If it performs a reaction, the song ends. It can move, but is prone while singing. This song does not affect Constructs, Elementals, Ephemera, Fiends, or Undead.
 
 **Horrendous Strike**: If the diva's unarmed bare attack against a foe is successful, it may use its reaction to *also inflicts a fire attack and a psychic attack against that foe*.
-
------
-
-#### Making an Infernal Diva Creature
-All features of the original creature are lost. The diva gains a benefit to each attribute equal to the original creature's bonus for those attributes. A player character could be converted this way, but it is not recommended. The character would lose all of its former abilities. Additionally, it is essentially a demon in service to a more powerful fiend- limiting the roleplaying potential. Furthermore, there is no advancement as such a creature.
 
 
 .
