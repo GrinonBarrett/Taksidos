@@ -153,7 +153,7 @@ An alchemist and a master of conjury. His influence can be seen in many an chemi
 
 **At Higher Tiers**: Each tier beyond its minimum provides a +1 bonus to each attack made by the spell.
 
-**Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage.
+**Critical Failures**: A critical failure sees the caster accidentally attack themselves with acid (including all bonuses they would have had) as they fail to propel it properly. This attack has advantage. It also gains a +1 for each tier beyond 3rd, if any.
 
 #### Kostas' Insulating Spray
 
