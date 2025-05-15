@@ -85,15 +85,17 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 By casting the Animate spell on a glass statue, an invoker can create their own yalai servile. When created this way, it is treated as having a single hitpoint.
 
 **Dominion Benefits**: The yalai gains the benefit as appropriate to your domain.  
-* **Chosen Spirit**. .
+* **Chosen Spirit**. While the yalai is brawling or when it is attacked, but before the result of the attack is known, the yalai may use its reaction to cause jagged glassy spikes to errupt from itself, extending out 1 foot. Any creature within that space suffers a piercing attack, except it. The attack caused this way has disadavntage against you.
 * **The Earth**. The yalai's unarmed attack may be treated as a force or cutting attack.
 * **The Flame**. If a fire attack is successfully inflicted against a vulnerable or prone yalai, it no longer suffers from those conditions. Fire attacks against the yalai have disadvantage while it is not prone or vulnerable.
 * **The Grave**. The yalai cannot be affected by the unarmed attacks of ephemera or undead. The yalai cannot be seen by undead.
 * **The Light**: Anytime a radiant attack would be inflicted against the yalai, it may use its reaction to instead convert it into a ray like that of a wand and can choose to direct it against a creature or have it discharge harmlessly. *It has an unnatural glow. It treats darkness as dim light*.
-* **Nobility**. .Illusory nagics cann be seen through the yalai's body nor can they cast reflections or obscure the yalai in any way. The yalai gains advantage on saves against all illusory effects.
+* **Nobility**. Illusory nagics cann be seen through the yalai's body nor can they cast reflections or obscure the yalai in any way. The yalai gains advantage on saves against all illusory effects.
 * **The Sea**. While submerged in water or some similar liquid, if it moves no more than a single movement's worth of distance, it is invisible.
 * **The Sky**. The yalai gains a fly speed of 4 yards. It must fly at least 7 yards per round to remain airbone.
-* **Valdercaller**. .
+* **Valdercaller**. The yalai learns a spell you know. If you do not know any spells, it instead learns a random spell. It can cast this spell by wyrding.
+
+.
 
 -----
 -
