@@ -935,7 +935,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Duration**: 1 minute
 
-**Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself  
+**Effect**: You take on a liquid form which appears like water. This confers a few changes to yourself;  
 
  • You do not need to breathe.  
  • You and all you are carrying melds into you in your new form. This new form can fit into a space of 1 liquid ounce per pound of your being. Your size category is reduced by 2 if possible.   
@@ -947,7 +947,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
  • You cannot speak in this form.  
  • Your run speed is 5 yards.  
  • Your swim speed is 13 yards.  
- • You ignore any form of non-magical Acid, Fire, or Toxic damage whose total is less than half of your level.  
+ • You ignore any form of non-magical Acid, Fire, or Toxic damage whose total is less than your level.  
  • You understand Hydroglossa, even if you do not speak it.  
  • Any effect which would heal you has a 3 in 8 chance not to.    
 
