@@ -1,6 +1,6 @@
 
 Current Creature Count:  
-* 68 standard creatures
+* 69 standard creatures
 * 19 creatures of undeath
 * 5 Creatures of the haze
 * 8 Legendary creatures, including,
@@ -48,7 +48,6 @@ Next update:
 * Create a vampire template that represents those that come to follow the commands of Alekard.
 * * Create the Kunekunar, based on the kunekune, which is the result of a Ngurm never finidng a purpose.
 * Create a Grigori, a fiendish giant creature.
-* Create a Nosoferai, a plague spreading vampire that occasionally has their victims return from the grave.
 * Create dough type monster.
 * Create a Knemui. Mucousy illusion casting goblins that cause mischief. They are usually invisible but can be seen through a variety of strange methods (Squirting lemon juice in your eyes, the light of a fire which is cooking food, chewing on a piece of birch bark, holding a hazelnut, covering yourself in lamp oil, holding your breath under water even if you can breath underwater, casting a spell known by the knemui, or being within magical light). They can be pacified by giving them a gift given to you in celebration of your bithday or a wedding, a fine piece of mechanical art, or inviting them to a feast set for them.
 * Create a cockatrice, which can hatch from a chicken's egg if there is a wivre living nearby. If it lives long enough, it functions like the SCP.
