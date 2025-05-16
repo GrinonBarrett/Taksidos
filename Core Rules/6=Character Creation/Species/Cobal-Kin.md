@@ -60,4 +60,4 @@ You then choose an attribute. It is increased by 1.
 
 **Tricky**: When you perform a save, you may choose to gain a bonus equal to half of your level. If you do, you must complete a long or full rest before doing so again.
 
-**Quick Study**: This feature is at the Narrator’s discretion. The experience required for you to level up is reduced by 25%. If the Narrator determines this is not feasible, you simply ignore the Ability Score modification feature of this species.
+**Quick Study**: This feature is at the Narrator’s discretion. The experience required for you to level up is reduced by 25%. If the Narrator determines this is not feasible, you simply ignore the Ability Score modification feature of this species and increase two attributes of your choice by 1 each.
