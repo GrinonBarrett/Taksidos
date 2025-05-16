@@ -16,7 +16,7 @@ A race of creatures which seem to be a cross of bear and gorilla. They hide away
 [Prcp] 12 (+4)  
 [Empy] 9  (+3)  
 
-**Languages**: They speak Alamasine and understand the Wild Tongue.
+**Languages**: They speak Almasine and understand the Wild Tongue.
 
 **Run Speed**: It may run up to 5.5 yards per move.
 
