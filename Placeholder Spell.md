@@ -6,7 +6,7 @@
 
 **Range**: 15 yards
 
-**Effect**: You fling a sparkling mote in a straight line at a point within range. Upon impact, a burst of flames in every color explodes out in a 5 yard fan in a direction of your choice, inflicting a fire attack against anything caught therein. When you cast the spell, you may choose whether critical hits are treated as fire or radiant attacks.
+**Effect**: You fling a sparkling mote in a straight line at a point within range. Upon impact, a burst of flames in every color explodes out in a 5 yard semifan in a direction of your choice, inflicting a fire attack against anything caught therein. When you cast the spell, you may choose whether critical hits are treated as fire or radiant attacks.
 
 A critical success with the spell check increases the length of the fan by a number of feet equal to your [Magic] bonus.
 
