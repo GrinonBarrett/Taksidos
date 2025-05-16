@@ -1,7 +1,7 @@
 ## LUCERTOLAN
 Sapient reptiles who have been borne of one of various tribes. They are despised by most that know of them. Their strong sense of community keeps them thriving in lands many others would not settle. Lucertolan characters have the following features;
 
-**Creature Type**: Lucertolans are humanoids.
+**Creature Type**: Lucertolans are reptiles.
 
 **Size**: Lucertolans stand between 1'11-2'9" tall. They can weigh between 44-53 pounds. They are small creatures.
 
@@ -14,7 +14,7 @@ Sapient reptiles who have been borne of one of various tribes. They are despised
 -2 [Empy]  
 You then choose an attribute. It is increased by 1.
 
-**Languages**: You gain competency in the Common Tongue and another language of your choice.
+**Languages**: You gain competency in the Common Tongue, Lucherse, and another language of your choice.
 
 **Run Speed**: You may run up to 5 yards per move.
 
@@ -68,7 +68,7 @@ You learn a spell which has been granted by the teachings of the tribes elders, 
 
 **Natural Tribe**: If the tribe is natural, your capacity for individual learning is based on your level and not your heroism. Additionally, unarmed attacks have disadvantage against you.
 
-**Seaborne Tribe**: Your swim speed is increased by 2 yards. You may hold you breath twice as long as normal.
+**Seaborne Tribe**: Your swim speed is increased by 2.5 yards and your climb speed by 1.5 yard. You may hold you breath twice as long as normal.
 
 **Desolated Tribe**: If the tribe is desolated, they have been decimated and returned to a false-life by dark magic. You become Undead, not Humanoid. Choose 3 of your attributes. They are each reduced by 1.  
 You also are subject to the following;  
