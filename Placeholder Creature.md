@@ -1,32 +1,32 @@
-### Kangar
-A creature not too dissimilar to the mirkar which is native to isolated mountain tops, it has rarely been seen by adventurers. The plural is kangain.
+### Qyizikhor
+A creature which primarily inhabits. boglands. It is a known scavanger. It does not usually engage in fights, opting for quick escapes and easy meals, but can bring a man down with ease. They are capable of wrestling bears and can even test a giant from time to time. Their strength, combined with their man size stature, has lead to many adventurers underestimating how dangerous they can be. They are known to be easily found by their smell. Other names include swamp ape or skunk ape. Their collective noun is a rife.
 
-**Creature Type**: Kangain are Sylvan.
+**Creature Type**: Qyizikhors are beasts.
 
-**Size**: Kangain stand between 8 and 15 feet tall. They can weigh between 430 and 550 pounds. They are large creatures.
+**Size**: Qyizikhors stand between 5 and 7 feet tall. They can weigh between 240 and 280 pounds. They are medium creatures.
 
-**Hitpoints**: A kangar has 3 hitpoints.
+**Hitpoints**: A qyizikhor has 2 hitpoints.
 
 **Attributes**:  
 [Body] 16 (+5)  
-[Fort] 15 (+5)  
-[Rflx] 12 (+4)  
+[Fort] 16 (+5)  
+[Rflx] 10 (+3)  
 [Will] 12 (+4)  
 [Inte] 7  (+2)  
-[Prcp] 9  (+3)  
-[Empy] 9  (+3)  
+[Prcp] 12 (+4)  
+[Empy] 8  (+2)  
 
-**Languages**: They speak Almasine.
+**Languages**: They speak Almasine and understand both Gobline and Jotine.
 
-**Run Speed**: It may run up to 5 yards per move.
+**Run Speed**: It may run up to 5.5 yards per move.
 
-**Climb Speed**: It may climb up to 3 yards, presuming it is reasonable terrain to do so.
+**Climb Speed**: It may climb up to 2 yards, presuming it is reasonable terrain to do so.
 
-**Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 2 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Slam: The kangar may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
+ • Slam: The qyizikhor may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
 
 -----
 
@@ -44,10 +44,10 @@ A creature not too dissimilar to the mirkar which is native to isolated mountain
 | **Morningstar**            | 10     | **Sling**          | 18     | **Tronutonante**           | 11    |
 | **Warpick**                | 10     |              |              | **Bare**                   | 20    |
 |                        |           |          |            |         |            |
-| **Acid**                   | 8      | **Fire**           | 10     | **Psychic**               | 14     |
-| **Cold**                   | 13     | **Force**          | 11     | **Toxic**                 | 11     |
+| **Acid**                   | 8      | **Fire**           | 9      | **Psychic**               | 15     |
+| **Cold**                   | 9      | **Force**          | 11     | **Toxic**                 | 11     |
 | **Crushing**               | 10     | **Ki**             | 11     | **Radiant**               | 11     |
-| **Cutting**                | 11     | **Necrotic**       | 10     | **Sonic**                 | 11     |
+| **Cutting**                | 11     | **Necrotic**       | 9      | **Sonic**                 | 12     |
 | **Electrical**             | 9      | **Piercing**       | 10     | **Biting**                | 11     |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 11 |                    |              | **Undamaging** | 13 |
@@ -81,8 +81,11 @@ A creature not too dissimilar to the mirkar which is native to isolated mountain
 
 -----
 
-**Mighty Slam**: When the kangar successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the kangar knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the mirkar's weight in stones divided by the foe's weight in stones. If the mirkar had a critical success, the foe is also vulnerable while they are prone.
+**Alacrity**: When rolling for initiative, the qyizikhor may use its reaction to move a number of feet equal to its result- so long as it does not exceed the appropriate mode of movement. It decides this after turn order is determined, but before actions are taken.
 
-**Menacing Blow**: When the kangar successfully attacks a creature, it may use its reaction force that creature to make a [Will] save with a DV equal to the points of success + the kangar's [Will] bonus and [Empy] bonus. On a failure, it is overcome with fear- the creature is dazed for a number of rounds equal to the points of failure. On a critical failure, it is also vulnerable during this time.
+**Mighty Slam**: When the qyizikhor successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the qyizikhor knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the qyizikhor's weight in stones divided by the foe's weight in stones. If the qyizikhor had a critical success, the foe is also vulnerable while they are prone.
 
-**Snow Diving**: If the kangar is completely covered in snow, to the point that no part of it is visible, *it may instantly tranpsort itself anywhere within 3 miles so long as it would still be covered in snow at its destination*.
+**Glowing Eye Shine**: The qyizikhor treats dim light as fair light.
+
+**Vile Smell**: Any checks made to detect a qyizikhor by smell gains a 2d8 bonus.
+
