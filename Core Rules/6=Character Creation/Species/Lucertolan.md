@@ -70,7 +70,7 @@ You learn a spell which has been granted by the teachings of the tribes elders, 
 
 **Seaborne Tribe**: Your swim speed is increased by 2.5 yards and your climb speed by 1.5 yard. You may hold you breath twice as long as normal.
 
-**Desolated Tribe**: If the tribe is desolated, they have been decimated and returned to a false-life by dark magic. You become Undead, not Humanoid. Choose 3 of your attributes. They are each reduced by 1.  
+**Desolated Tribe**: If the tribe is desolated, they have been decimated and returned to a false-life by dark magic. You become Undead, not Reptile. Choose 3 of your attributes. They are each reduced by 1.  
 You also are subject to the following;  
     • Desolated lucertolan do not need to eat, sleep or breathe. They do still need to relax to rest.  
     • You are not affected by disease, poison, or venom. Effects which deal toxic damage do not affect you.  
