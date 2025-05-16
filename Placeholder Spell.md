@@ -1,4 +1,4 @@
-#### 
+#### Burning Mote
 
 **Minimum Tier**: 2
 
@@ -10,6 +10,6 @@
 
 A critical success with the spell check increases the length of the fan by a number of feet equal to your [Magic] bonus.
 
-**At Higher Tiers**: Each tier beyond minimum can allow the inverted cone's length to be increased by 1 yard immediately or grant a +1 bonus to all attacks for the purpose of inflicting a critical hit.
+**At Higher Tiers**: Each tier beyond minimum can increase the range by 3 yards or the length of the fan by 1 yard.
 
-**Critical Failure**: You create the cone for an instant, inflicting the fiery attacks, and the spell backfires. This causes it to inflict a number of fire attacks against you equal to the tier of the spell. You are also knocked back a number of feet equal to the total points of success from all attacks inflicted against you this way. 
+**Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
