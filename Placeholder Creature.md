@@ -72,7 +72,7 @@ A creature which primarily inhabits. boglands. It is a known scavanger. It does 
 |   13   | Glancing Blow     | **Biased wound**. No effect. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Glancing Blow     | **Biased wound**. No effect. |
+|   16   | Seize Up          | **Biased wound**. It must make a [Body] save against the attack total or be knocked prone. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow     | **Biased wound**. No effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
