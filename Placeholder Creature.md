@@ -1,32 +1,32 @@
-### Mirkar
-A race of creatures which seem to be a cross of bear and gorilla. They hide away in the deepest woods of the mountains and in isolated crags. They are territorial and aggressive when engaged, but try to remain obscured and away from others any other time.
+### Kangar
+A creature not too dissimilar to the mirkar which is native to isolated mountain tops, it has rarely been seen by adventurers. The plural is kangain.
 
-**Creature Type**: Mirkain are Humanoids.
+**Creature Type**: Kangain are Sylvan.
 
-**Size**: Mirkain stand between 7 and 9 feet tall. They can weigh between 360 and 480 pounds. They are large creatures.
+**Size**: Kangain stand between 8 and 15 feet tall. They can weigh between 430 and 550 pounds. They are large creatures.
 
-**Hitpoints**: A mirkar has 3 hitpoints.
+**Hitpoints**: A kangar has 3 hitpoints.
 
 **Attributes**:  
-[Body] 18 (+6)  
-[Fort] 14 (+4)  
-[Rflx] 10 (+3)  
+[Body] 16 (+5)  
+[Fort] 15 (+5)  
+[Rflx] 12 (+4)  
 [Will] 12 (+4)  
-[Inte] 9  (+3)  
-[Prcp] 12 (+4)  
+[Inte] 7  (+2)  
+[Prcp] 9  (+3)  
 [Empy] 9  (+3)  
 
-**Languages**: They speak Alamasine and understand the Wild Tongue.
+**Languages**: They speak Almasine.
 
-**Run Speed**: It may run up to 5.5 yards per move.
+**Run Speed**: It may run up to 5 yards per move.
 
-**Climb Speed**: It may climb up to 2 yards, presuming it is reasonable terrain to do so.
+**Climb Speed**: It may climb up to 3 yards, presuming it is reasonable terrain to do so.
 
-**Swim speed**: It may swim up to 1.5 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
- • Slam: The mirkar may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
+ • Slam: The kangar may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
 
 -----
 
@@ -44,10 +44,10 @@ A race of creatures which seem to be a cross of bear and gorilla. They hide away
 | **Morningstar**            | 10     | **Sling**          | 18     | **Tronutonante**           | 11    |
 | **Warpick**                | 10     |              |              | **Bare**                   | 20    |
 |                        |           |          |            |         |            |
-| **Acid**                   | 8      | **Fire**           | 9      | **Psychic**               | 15     |
-| **Cold**                   | 9      | **Force**          | 11     | **Toxic**                 | 11     |
+| **Acid**                   | 8      | **Fire**           | 10     | **Psychic**               | 14     |
+| **Cold**                   | 13     | **Force**          | 11     | **Toxic**                 | 11     |
 | **Crushing**               | 10     | **Ki**             | 11     | **Radiant**               | 11     |
-| **Cutting**                | 11     | **Necrotic**       | 9      | **Sonic**                 | 12     |
+| **Cutting**                | 11     | **Necrotic**       | 10     | **Sonic**                 | 11     |
 | **Electrical**             | 9      | **Piercing**       | 10     | **Biting**                | 11     |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 11 |                    |              | **Undamaging** | 13 |
@@ -81,8 +81,8 @@ A race of creatures which seem to be a cross of bear and gorilla. They hide away
 
 -----
 
-**Mighty Slam**: When the mirkar successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the mirkar knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the mirkar's weight in stones divided by the foe's weight in stones. If the mirkar had a critical success, the foe is also vulnerable while they are prone.
+**Mighty Slam**: When the kangar successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the kangar knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the mirkar's weight in stones divided by the foe's weight in stones. If the mirkar had a critical success, the foe is also vulnerable while they are prone.
 
-**Menace**: As an action, anything which can perceive the mirkar must succeed a [Will] save with a DV equal to the mirkar's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. The mirkar may use its reaction to impose disadvantage on the save of a creature it can perceive.
+**Menacing Blow**: When the kangar successfully attacks a creature, it may use its reaction force that creature to make a [Will] save with a DV equal to the points of success + the kangar's [Will] bonus and [Empy] bonus. On a failure, it is overcome with fear- the creature is dazed for a number of rounds equal to the points of failure. On a critical failure, it is also vulnerable during this time.
 
-**Vanishing into Trees**: When the mirkar's movement would allow it to enter the space of a tree if said tree were not itself an obstacle, *it passes through the tree and exits through another tree it perceived during the same round*. It must complete a full rest before doing so again.
+**Snow Diving**: If the kangar is completely covered in snow, to the point that no part of it is visible, *it may instantly tranpsort itself anywhere within 3 miles so long as it would still be covered in snow at its destination*.
