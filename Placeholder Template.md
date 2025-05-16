@@ -94,6 +94,6 @@ A shambling corpse which brings with it festering and disease.
 
 -----
 
-#### Applying the template to create a creature
+#### Applying the Template
 The plague birthed cannot be a construct, ephemera, elemental or fiend. The plague birthed gains an additional 10 points of undeath for every hitpoint the base creature would have had.  
 
