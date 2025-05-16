@@ -1,6 +1,6 @@
 
 Current Creature Count:  
-* 70 standard creatures
+* 72 standard creatures
 * 19 creatures of undeath
 * 5 Creatures of the haze
 * 8 Legendary creatures, including,
@@ -22,7 +22,6 @@ For this update:
 * Create a stoker demon, which has wind powers and can ignite stuff.Can produce a semifan of smoke which can blind on hit but influcts the critical hit like it was a fire attack. Make it impish and more emboldened as it gets hurt.
 * Create a mimic.
 * A serpent made of round cactus like gourds. It has two arms whoch sprout from the head gourd. It survives by eating tilled earth and will steal more of the gourd to increase its size.
-* A yeti like creature that resists magic and disappear in the snow to teleport. A warm climate variant of it will exist which can teleport by stepping into trees.
 * A Ganzar, a creature composed of discard magical writings. It begins existence as a mindless entity. It can only leave the place of its birth if another leaves a portal open. It will eventually become sentient. It absorbs books and their knowledge and it will become a reflection of their contents.
 * A cute little shelled squid servile.
 * Create the Anxana, based on Anjana/Xanas, as a playable species.
