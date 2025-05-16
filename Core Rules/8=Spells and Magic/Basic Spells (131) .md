@@ -182,7 +182,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (5
+### B (6
 
 #### Behest
 
@@ -261,6 +261,22 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: Each tier beyond minimum allows you to either grant the attack a +2 bonus for the purpose of inflicting a critical hit or increase the range by 5 yards.
 
 **Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
+
+#### Burning Mote
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 15 yards
+
+**Effect**: You fling a sparkling mote in a straight line at a point within range. Upon impact, a burst of flames in every color explodes out in a 5 yard semifan in a direction of your choice, inflicting a fire attack against anything caught therein. When you cast the spell, you may choose whether critical hits are treated as fire or radiant attacks.
+
+A critical success with the spell check increases the length of the fan by a number of feet equal to your [Magic] bonus.
+
+**At Higher Tiers**: Each tier beyond minimum can increase the range by 3 yards or the length of the fan by 1 yard.
+
+**Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
 ### C (5
 
