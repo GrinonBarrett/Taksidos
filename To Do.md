@@ -14,7 +14,6 @@ For this update:
 
 * Finish Languages.
 * Add Ashellen, a powder for washing gear. Can be used for washing one's body parts but can cause damage to the skin if used more than rarely.
-* Create a fire combat spell. Perhaps a wildfire spell that spreads from a set point that can implode at the caster's command.
 * Create an acid combat spell. Perhaps that bouncing ooze spell idea that would be akin to a chain lightning.
 * Create some kind of nightmare type spell.
 * Create a dream messaging spell.
