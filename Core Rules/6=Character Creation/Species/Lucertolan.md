@@ -51,7 +51,7 @@ You then choose an attribute. It is increased by 1.
 
 **Lucertolan Education**: You gain proficiency in Survival and any skill of your choice.
 
-**Quick Study**: This feature is at the Narrator’s discretion. The experience required for you to level up is reduced by 25%. If the Narrator determines this is not feasible, you simply ignore the Ability Score Modification feature of this species.
+**Quick Study**: This feature is at the Narrator’s discretion. The experience required for you to level up is reduced by 25%. If the Narrator determines this is not feasible, you simply ignore the Ability Score Modification feature of this species and increase two attributes of your choice by 1.
 
 **Small Frame**: Lucertolans can use most equipment just fine, but armor must be made especially for them. Any variant of armor which is to be fit for a lucertolan cost half again as it would typically and weighs two thirds what it would normally.
 
