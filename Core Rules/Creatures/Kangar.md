@@ -26,7 +26,7 @@ A creature not too dissimilar to the mirkar which is native to isolated mountain
 
 **Unarmed Attacks**;
 
- • Slam: The kangar may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
+ • Slam: The kangar may use any part of its body to strike a foe within 1.5 yards. This is a melee club attack.
 
 -----
 
