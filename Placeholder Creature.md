@@ -68,7 +68,7 @@ A fiend born out of the destruction brought about by plagues. They are born when
  • Is not affected by spells which would affect the flesh.   
  • Receives wounds, but no effect from them.
 
-**Infernal Regeneration**: At the end of any round the infernal diva receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
+**Infernal Regeneration**: At the end of any round the nosoferai receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers 2 hitpoints. It must perform a rest before doing so again.
 
 **Celarity**: When rolling for initiative, it rolls an additional d8.
 
