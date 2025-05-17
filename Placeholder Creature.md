@@ -39,13 +39,12 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 
 **Run Speed**: It may run up to 1.5 yards per move by using its hand.
 
-**Climb speed**: It may climb up to 4 yards per move, presuming it isreasonable terrain to do so.
+**Climb speed**: It may climb up to 4 yards per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
- • Smash: The trillipede may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
+ • Stemhand: The the cordogobil may attampt to strike a few using its hand, inflicting a mele bare attack against anything within 1 yard. It may treat a critical hit like that of a cutting attack.
 
- • Mandible: The trillipede can attempt to bite a foe, dealing a biting attack. On a critical hit, it may be treated as acid. It may only do so once per round.
 
 ---------------------
 
