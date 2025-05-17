@@ -3,11 +3,11 @@ It appears to be a cordo gourd which has sprouted two short eye stalks on the fr
 
 Can inflict piercing attack with disadvantage when brawling or attacked unarmed. It can climb with its hand. It hops to get around most places. It can grapple a small enough foe with its hand. It is dirven by the desire to feed on cordos.
 
-**Creature Type**: Trillipedes are Insect creatures.
+**Creature Type**: Cordogobils are plant creatures.
 
-**Size**: Trillipedes are between 13-30 feet in length. They are between 4-6 feet tall while crawling. They can weigh between 500 and 1,400 pounds. They can be large or great creatures.
+**Size**: The can be as large as 29" in diameter, not to mention an arm that reach out a couple of feet. They weigh between 5-9 pounds. The are small creatures.
 
-**Languages**: Trillipedes don't speak.
+**Languages**: Cordogobils don't speak.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes        |
@@ -26,22 +26,20 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 
 -----
 
-**Hitpoints**: A trillipede has 3 hitpoints.
+**Hitpoints**: A cordogobil has 0 hitpoints.
 
 **Attributes**:  
-[Body] 16 (+5)  
-[Fort] 12 (+4)  
-[Rflx] 11 (+3)  
+[Body] 7 (+2)  
+[Fort] 7 (+2)  
+[Rflx] 9 (+3)  
 [Will] 9 (+3)  
-[Inte] 7 (+2)  
-[Prcp] 11 (+3)  
+[Inte] 4 (+1)  
+[Prcp] 6 (+2)  
 [Empy] 5 (+1)  
 
-**Run Speed**: It may run up to 7 yards per move.
+**Run Speed**: It may run up to 1.5 yards per move by using its hand.
 
-**Climb speed**: It may swim up to 4.5 yards per move.
-
-**Burrow Speed**: It may burrow up to 3 yards per move presuming the earth is not too hard.  
+**Climb speed**: It may climb up to 4 yards per move, presuming it isreasonable terrain to do so.
 
 **Unarmed Attacks**;
 
