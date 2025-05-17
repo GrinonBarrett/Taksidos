@@ -1,5 +1,5 @@
-### Cordopillar
-They appear to be a series of connected Cordos (a gourd with spines like a cactus)
+### Cordogobil
+It appears to be a cordo gourd which has sprouted two short eye stalks on the front and a single long sinewous arm has grown from its stem. It has also developed a toothless maw which remains shut at all times, save to feed.
 
 **Creature Type**: Trillipedes are Insect creatures.
 
