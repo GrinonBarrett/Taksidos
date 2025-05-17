@@ -70,29 +70,16 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 8 |    |     | **Undamaging** | 10 |
 
-**Table**: *Wound Allocation*
-| Result | **Name of Wound** | Effects                                                        |
-|--------|-------------------|----------------------------------------------------------------|
-|   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
-|   4    | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
-|   5    | Glancing Blow      | This wound has no effect. |
-|   6    | Broken Mandible   | Until this wound is healed, its biting attack does not inflict a wound. It can still inflict the acid effect of a critical hit however.|
-|   7    | Stinging Wound   | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Agonizing Blow     | It loses its reaction during the next round. |
-|   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
-|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
-|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
-|   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
-|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Disturbed Stomach Acids | The trillipede performs an acid attack against a creature within 1 yard and loses its reaction (if it stil has one) for the round. |
-|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Glancing Blow         | No ill effect. |
-|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
-|   20   | Defender's choice |                                   |
-|        |                                                |                                   |
-
 -----
+
+**Plant Nature**: As a plant creature, the thoron has a few advantages:  
+**-** They do not need to breathe or sleep. They must still rest.  
+**-** Immunity to diseases unless they specifically affect plants.  
+**-** Immunity to Bloodloss.  
+**-** Cannot be incapacitated except by an effect which explicitly affects plants.  
+
+**Gourd-Thing**: Receives wounds but not the effects of them. If an attack would qualify to damage armor, it instead removes the cordogobil's hand. If this happens again before it can grow a new one (which takes 1d8+1 days of long or full rest), it is simply slain.
+
+**Frail**: Does not benefit from attributes bonuses when performing incapacitation saves.
+
+**Spiney**: Anytime a creature within 1 foot attempts an unarmed attack against the cordogobil, the cordogobil is trampled, a brawl is initiated involving the cordogobil, or a movement phase ends while the cordogobil is brawling with another creature, inflict a piercing attack with a -4 penalty against that creature.
