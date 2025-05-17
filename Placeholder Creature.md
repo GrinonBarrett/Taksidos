@@ -1,91 +1,99 @@
-### Qyizikhor
-A creature which primarily inhabits. boglands. It is a known scavanger. It does not usually engage in fights, opting for quick escapes and easy meals, but can bring a man down with ease. They are capable of wrestling bears and can even test a giant from time to time. Their strength, combined with their man size stature, has lead to many adventurers underestimating how dangerous they can be. They are known to be easily found by their smell. Other names include swamp ape or skunk ape. Their collective noun is a rife.
+### TRILLIPEDE
+They appear to be a series of connected Cordos (a gourd with spines like a cactus)
 
-**Creature Type**: Qyizikhors are beasts.
+**Creature Type**: Trillipedes are Insect creatures.
 
-**Size**: Qyizikhors stand between 5 and 7 feet tall. They can weigh between 240 and 280 pounds. They are medium creatures.
+**Size**: Trillipedes are between 13-30 feet in length. They are between 4-6 feet tall while crawling. They can weigh between 500 and 1,400 pounds. They can be large or great creatures.
 
-**Hitpoints**: A qyizikhor has 2 hitpoints.
+**Languages**: Trillipedes don't speak.
+
+**Table**: *Creature's Reaction*
+| Result | **Emotion and Intensity** | Notes        |
+|--------|-------------------|----------------------------------------------------------------|
+|        |                                                |                                   |
+|   1-3  | Amicable (1) | The trillipede is going about its business. |
+|   4-6  | Curious (1)  | The trillipede is going about its business. |
+|  7-9   | Curiosity (2)  | The trillipede simply is curious about what the party is doing. |
+|   10   | Fear (1)  | The trillipede is going about its business. |
+|   11   | Fear (2)  | The trillipede would prefer to avoid the party. |
+|  12-13 | Hostility (1) | It is irritible, likely from discovering its intended meal was not suitable. |
+|  14-15 | Hostility (2) | It seems a bit territorial. |
+|  16-17 | Hostility (3) | It is defending its territory. |
+|  18-19 | Hungry (1)    | The trillipede is scrounging for minerals in the area to snack on. |
+|   20   | Hungry (2)    | The trillipede isn't particularly desperate but is seeing minerals and metals to consume. |
+
+-----
+
+**Hitpoints**: A trillipede has 3 hitpoints.
 
 **Attributes**:  
 [Body] 16 (+5)  
-[Fort] 16 (+5)  
-[Rflx] 10 (+3)  
-[Will] 12 (+4)  
-[Inte] 7  (+2)  
-[Prcp] 12 (+4)  
-[Empy] 8  (+2)  
+[Fort] 12 (+4)  
+[Rflx] 11 (+3)  
+[Will] 9 (+3)  
+[Inte] 7 (+2)  
+[Prcp] 11 (+3)  
+[Empy] 5 (+1)  
 
-**Languages**: They speak Almasine and understand both Gobline and Jotine.
+**Run Speed**: It may run up to 7 yards per move.
 
-**Run Speed**: It may run up to 5.5 yards per move.
+**Climb speed**: It may swim up to 4.5 yards per move.
 
-**Climb Speed**: It may climb up to 2 yards, presuming it is reasonable terrain to do so.
-
-**Swim speed**: It may swim up to 2 yards per move, presuming the water isn’t too rough.
+**Burrow Speed**: It may burrow up to 3 yards per move presuming the earth is not too hard.  
 
 **Unarmed Attacks**;
 
- • Slam: The qyizikhor may use any part of its body to strike a foe within 1 yard. This is a melee club attack.
+ • Smash: The trillipede may use any part of its body to strike a foe within 1 yard. This is a melee bare attack.
 
------
+ • Mandible: The trillipede can attempt to bite a foe, dealing a biting attack. On a critical hit, it may be treated as acid. It may only do so once per round.
+
+---------------------
 
 **Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 16     | **Pole Axe**       | 9      | **Arrow, Bodkin Point**    | 12    |
-| **Longsword**              | 10     | **Greatsword**     | 9      | **Arrow, Broadhead**       | 11    |
-| **Mace**                   | 11     | **Maul**           | 10     | **Bolt**                   | 11    |
-| **Spear**                  | 10     | **Pike**           | 9      | **Brusgiata**              | 13    |
-| **Hand Axe**               | 10     | **Madu**           | 12     | **Chakram**                | 14    |
-| **Katar**                  | 11     | **Javelin**        | 10     | **Arquebus**               | 11    |
-| **Dagger**                 | 13     | **Throwing Blade** | 16     | **Musket**                 | 10    |
-| **Morningstar**            | 10     | **Sling**          | 18     | **Tronutonante**           | 11    |
-| **Warpick**                | 10     |              |              | **Bare**                   | 20    |
+| **Club**                   | 12   | **Pole Axe** | 8     | **Arrow, Bodkin Point**    | 9    |
+| **Longsword**              | 9    | **Greatsword** | 8     | **Arrow, Broadhead**       | 9    |
+| **Mace**                   | 9    | **Maul** | 8     | **Bolt** | 9    |
+| **Spear**                  | 9     | **Pike** | 8     | **Brusgiata** | 9     |
+| **Hand Axe**               | 9     | **Madu** | 11     | **Chakram** | 8    |
+| **Katar**                  | 9     | **Javelin** | 10    | **Arquebus** | 6    |
+| **Dagger**                 | 10     | **Throwing Blade** |12    | **Musket** | 6    |
+| **Morningstar**            | 9     | **Sling** | 12    | **Tronutonante** | 7    |
+| **Warpick**                | 9     |  |     | **Bare** | 16   |
 |                        |           |          |            |         |            |
-| **Acid**                   | 8      | **Fire**           | 9      | **Psychic**               | 15     |
-| **Cold**                   | 9      | **Force**          | 11     | **Toxic**                 | 11     |
-| **Crushing**               | 10     | **Ki**             | 11     | **Radiant**               | 11     |
-| **Cutting**                | 11     | **Necrotic**       | 9      | **Sonic**                 | 12     |
-| **Electrical**             | 9      | **Piercing**       | 10     | **Biting**                | 11     |
+| **Acid**                   | 12     | **Fire** | 10     | **Psychic** | 14     |
+| **Cold**                   | 12     | **Force** | 11     | **Toxic**  | 12     |
+| **Crushing**               | 10     | **Ki** | 10     | **Radiant** | 13     |
+| **Cutting**                | 9     | **Necrotic** | 10     | **Sonic** | 12    |
+| **Electrical**             | 11     | **Piercing** | 11     | **Biting** | 12    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 11 |                    |              | **Undamaging** | 13 |
-
-
+| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
-|   2    | Crippled          | It's movement speed is halved until this wound is healed.      |
-|   3    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | It has a -1 to its attack rolls until the end of the next round. During this time, attacks made against it gain a +1 bonus to their result. It also suffers a -3 penalty to checks and saves relying on its sight until this wound is healed. |
-|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
-|   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
-|   8    | Glancing Blow     | No ill effects _this time_.                                     |
-|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
-|   10   | Glancing Blow     | No effect. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
+|   4    | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
+|   5    | Glancing Blow      | This wound has no effect. |
+|   6    | Broken Mandible   | Until this wound is healed, its biting attack does not inflict a wound. It can still inflict the acid effect of a critical hit however.|
+|   7    | Stinging Wound   | **Biased wound**. -1 penalty to checks until end of next round. |
+|   8    | Glancing Blow     | No ill effects.                                     |
+|   9    | Agonizing Blow     | It loses its reaction during the next round. |
+|   10   | Head Shot        | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
-|   13   | Glancing Blow     | **Biased wound**. No effect. |
+|   13   | Segment Lost       | **Biased Wound**. Part of the trillipede is lost. There is a 1 in 20 chance that the trillipede will be cut so short that its size categoary is changed. If so, it must immediately make an incapacitation save. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Seize Up          | **Biased wound**. It must make a [Body] save against the attack total or be knocked prone. |
-|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
-|   18   | Glancing Blow     | **Biased wound**. No effect. |
+|   16   | Disturbed Stomach Acids | The trillipede performs an acid attack against a creature within 1 yard and loses its reaction (if it stil has one) for the round. |
+|   17   | Trip Up           | It must make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Glancing Blow         | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
 -----
-
-**Alacrity**: When rolling for initiative, the qyizikhor may use its reaction to move a number of feet equal to its result- so long as it does not exceed the appropriate mode of movement. It decides this after turn order is determined, but before actions are taken.
-
-**Mighty Slam**: When the qyizikhor successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the qyizikhor knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the qyizikhor's weight in stones divided by the foe's weight in stones. If the qyizikhor had a critical success, the foe is also vulnerable while they are prone.
-
-**Glowing Eye Shine**: The qyizikhor treats dim light as fair light.
-
-**Vile Smell**: Any checks made to detect a qyizikhor by smell gains a 2d8 bonus.
-
