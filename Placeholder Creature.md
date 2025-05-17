@@ -1,5 +1,7 @@
 ### Cordogobil
-It appears to be a cordo gourd which has sprouted two short eye stalks on the front and a single long sinewous arm has grown from its stem. It has also developed a toothless maw which remains shut at all times, save to feed.
+It appears to be a cordo gourd which has sprouted two short eye stalks on the front and a single long sinewous arm has grown from its stem. It has also developed a toothless maw which remains shut at all times, save to feed. It is believed that a perfect cordo left unharvested will become a cordogobil.
+
+Can inflict piercing attack with disadvantage when brawling or attacked unarmed. It can climb with its hand. It hops to get around most places. It can grapple a small enough foe with its hand. It is dirven by the desire to feed on cordos.
 
 **Creature Type**: Trillipedes are Insect creatures.
 
