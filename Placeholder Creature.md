@@ -52,23 +52,23 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                   | 8     | **Pole Axe**        | 8     | **Arrow, Bodkin Point**    | 9    |
-| **Longsword**              | 9     | **Greatsword**      | 8     | **Arrow, Broadhead**       | 9    |
-| **Mace**                   | 9     | **Maul**            | 8     | **Bolt** | 9    |
-| **Spear**                  | 9     | **Pike**            | 8     | **Brusgiata** | 9     |
-| **Hand Axe**               | 9     | **Madu**            | 11    | **Chakram** | 8    |
-| **Katar**                  | 9     | **Javelin**         | 10    | **Arquebus** | 6    |
-| **Dagger**                 | 10    | **Throwing Blade**  | 12    | **Musket** | 6    |
-| **Morningstar**            | 9     | **Sling**           | 12    | **Tronutonante** | 7    |
-| **Warpick**                | 9     |                     |       | **Bare** | 16   |
+| **Club**                   | 9     | **Pole Axe**        | 7     | **Arrow, Bodkin Point**    | 9    |
+| **Longsword**              | 8     | **Greatsword**      | 7     | **Arrow, Broadhead**       | 9    |
+| **Mace**                   | 7     | **Maul**            | 6     | **Bolt** | 8    |
+| **Spear**                  | 7     | **Pike**            | 7     | **Brusgiata** | 8     |
+| **Hand Axe**               | 8     | **Madu**            | 8     | **Chakram** | 9    |
+| **Katar**                  | 8     | **Javelin**         | 8     | **Arquebus** | 7    |
+| **Dagger**                 | 8     | **Throwing Blade**  | 9     | **Musket** | 6    |
+| **Morningstar**            | 7     | **Sling**           | 9     | **Tronutonante** | 8    |
+| **Warpick**                | 8     |                     |       | **Bare** | 10   |
 |                        |           |          |            |         |            |
-| **Acid**                   | 12     | **Fire**             | 10     | **Psychic** | 14     |
-| **Cold**                   | 12     | **Force**            | 11     | **Toxic**  | 12     |
-| **Crushing**               | 10     | **Ki**               | 10     | **Radiant** | 13     |
-| **Cutting**                | 9      | **Necrotic**         | 10     | **Sonic** | 12    |
-| **Electrical**             | 11     | **Piercing**         | 11     | **Biting** | 12    |
+| **Acid**                   | 9     | **Fire**             | 7     | **Psychic** | 10     |
+| **Cold**                   | 9     | **Force**            | 8     | **Toxic**  | 10     |
+| **Crushing**               | 7     | **Ki**               | 9     | **Radiant** | 10     |
+| **Cutting**                | 8      | **Necrotic**         | 9     | **Sonic** | 10    |
+| **Electrical**             | 9     | **Piercing**         | 8     | **Biting** | 8    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 12 |    |     | **Undamaging** | 13 |
+| **Unlisted Damage Type** | 8 |    |     | **Undamaging** | 10 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
