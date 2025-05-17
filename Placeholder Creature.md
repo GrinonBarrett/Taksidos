@@ -37,7 +37,7 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 [Prcp] 6 (+2)  
 [Empy] 5 (+1)  
 
-**Run Speed**: It may run up to 1.5 yards per move by using its hand.
+**Run Speed**: It may run up to 1.5 yards per move by using its hand. The cordogobil can jump even without its hand.
 
 **Climb speed**: It may climb up to 4 yards per move, presuming it is reasonable terrain to do so.
 
@@ -77,6 +77,8 @@ Can inflict piercing attack with disadvantage when brawling or attacked unarmed.
 **-** Immunity to diseases unless they specifically affect plants.  
 **-** Immunity to Bloodloss.  
 **-** Cannot be incapacitated except by an effect which explicitly affects plants.  
+
+**Acrobatic Extraordinaire**: The cordogobil is proficiant with both the Athletics and Wrestling skills.
 
 **Gourd-Thing**: Receives wounds but not the effects of them. If an attack would qualify to damage armor, it instead removes the cordogobil's hand. If this happens again before it can grow a new one (which takes 1d8+1 days of long or full rest), it is simply slain.
 
