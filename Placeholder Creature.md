@@ -1,4 +1,4 @@
-### TRILLIPEDE
+### Cordopillar
 They appear to be a series of connected Cordos (a gourd with spines like a cactus)
 
 **Creature Type**: Trillipedes are Insect creatures.
