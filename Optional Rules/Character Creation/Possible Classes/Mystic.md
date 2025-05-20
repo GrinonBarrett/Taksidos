@@ -39,7 +39,7 @@ You can attempt to call upon a greater power by devoting 5 rounds to pleading fo
 Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, everything within a number of yards equal to the spell's tier + the amount of spell sickness you gained this way must succeed [Will] save or become afraid of you and your magic for a number of rounds equal to the points of failure. Such a creature must use its turns to put distance between itself and you or otherwise premeptively establish some form of defense or cover against you. You may grant advantage on the save to a number of creatures you can perceive up to your heroism bonus.
 
 ### 4) Creeping Power
-Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, you may move up to a number of yards equal to the spell sickness you receive this way towards the target or area of the spell. You must move closer to the target/are this way. If the spell has an area, you may move to a point within it so long as your movement this way is enough to get there.
+Anytime you cast a spell, you may use your reaction to take on at least 3 points of spell sickness. If you do, you may move up to a number of yards equal to the spell sickness you receive this way towards the target or area of the spell. You must move closer to the target/area this way. If the spell has an area, you may move to a point within it without being affected so long as your movement this way is enough to get there.
 
 ### 4) Mystic Defense
 When a magical attack from a spell you know would target you, you may impose disadvantage against that attack. You must rest before doing so again.
@@ -69,14 +69,14 @@ Anytime you gain tension, your spell sickness is reduced by 1.‡
 ###### If not playing with the Tension optional rules, † the bonus is instead equal to your missing hitpoints and ‡ you reduce the spell sickness everytime you lose hitpoints.
 
 ### 9) Expanded Magical Art
-You may now reduce attributes other than what you chose for your Magical Art feature to gain the benefits of the spellburn, but must reduce such an attribute by 2 for every +1 benefit to be gained this way.
+You may now reduce attributes other than what you chose for your Magical Art feature to gain the benefits of the spellshock, but must reduce such an attribute by 2 for every +1 benefit to be gained this way.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
 
 #### Specialize
 If you specialize as a mystic, you gain the following:  
-You gain access to a pact magic method of spellcasting. If you took one of them as a result of the Pact feature and lost your ability to perform Wyrding, you may alternative regain the ability to perform wyrding. 
+You gain access to a pact, in addition to any you may already have. If you took one of them as a result of the Pact feature and lost your ability to perform Wyrding, you may alternatively regain the ability to perform wyrding. 
 
 #### Splash
 If you splash mystic as a member of another class, you gain the same benefits as a mystic which specializes. Additionally, you choose an attribute. It is increased by 1.
