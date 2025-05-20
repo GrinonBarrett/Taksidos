@@ -133,11 +133,16 @@ If you also possess a staff which contains the spell you are attempting to cast,
 
 #### Pact of Rites
 You have learned how to perform religious rites like a cleric. Each rite functions as a spell with a few differences;  
-* The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
+* The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, performance of any incantations, the drawing of any glyphs or sigils, etc.  
 * You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, or are struggling to focus on the recitation, you have disadvantage on the spellcheck. If you cannot perform the recitation, you fail to cast the spell.  
-* You must have components (such as incense, an offering of wealth or food, etc.) whose value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
+* You must have components (such as incense, an offering of wealth or food, etc.) whose $ value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
 * Any spell sickness you would recieve is reduced by 1.  
 * A critical success will increase the tier of the cast spell by 1.  
 * A critical failure has a 50% chance not to apply its critical failure effect.  
 
 You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associated spell. When you take this pact, you learn a rite of a spell whose minimum tier is no greater than your heorism and a tier of a spell whose minimum tier is 1 or 2.
+
+#### Pact of the Surge
+You have been granted the power to access an unpredictable magical force that sweeps through the background of all existence. You have access to a number of random basic spells equal to your herosim. You cast them as wyrdings like normal. When you perform any kind of rest, the spells are replaced. You will not know what spells you have access to when you perform a short rest. When you perform a long rest, you know half of the spells you have access to. Upon completing a full rest you know all spells you have access to. You may spend 45 whole minutes concentrating to identify one of the spells you have access to.  
+Additionally, you may attempt to cast a random basic spell. Choose one of the folowing dice (d4, d6, or d8). You know what the spell is after you select the die, but before it is rolled. You may choose not to contiue the attempt at csting the spell at this pont or continue. The spell is cast at that tier and is considered to have a number of points of success equal to the die result plus your heroism. If the result is lower than the minimum tier, it is instead treated as a critical failure automatically. You must perform a full rest before attempting to do so again, even if you opted not to cast that spell.  
+Furthermore, anytime you perform a spellcheck or counterspell check, if it is a success- you gain a bonus equal to your herosim for the purpose of determining if it is a critical success. If it was a failure, you suffer a penalty equal to your heroism for the purpose of determining if it is a critical failure.
