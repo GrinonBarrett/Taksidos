@@ -1139,7 +1139,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: You find yourself subject to the forces of the kiss instead, even if you are normally unaffected by incapacitation saves.
 
-### L (2
+### L (3
 
 #### Landing
 
@@ -1173,6 +1173,22 @@ Alternatively, you could cast this spell in anticpation of coming in contact wit
 
 **Critical Failure**: The axe explodes infront of you, inflicting the effect against you instead.
 
+#### Levitation
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 rounds
+
+**Duration** Spell tier minutes multiplied by spell tier
+
+**Effect**: A creature you touch may defy physics by gaining a hover speed of 3 yards for the duration. If the spell check is a critical success, the speed is increased by a number of feet equal to your [Magic] bonus.
+
+You may cast this on an object to make it hover at a distance above the ground no greater than the spell's tier plus the points of success on the spell check. An object can hover beyond the spell's duration if you concentrate on the spell, with it hovering until this concentration is broken.
+
+**At Higher Tiers**: In addition to the above listed benefits, each tier beyond minimum allows you to affect an additional creature/object or increase the hover speed by .5 yard.
+
+**Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
+
 ### M (3
 
 #### Missiles of Light
@@ -1189,7 +1205,7 @@ Alternatively, you could cast this spell in anticpation of coming in contact wit
 
 **Critical Failure**: You hurl the bolts of light, and as they scatter, the redirect themselves against you. Any combined missiles remain so. Each missile is staggered, with only one attacking each phase until each has had its turn (you may determine the order in which they attack you).
 
-[Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to  be a misunderstanding, so the Flare spell is also to be made."
+[Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to be a misunderstanding, so the Flare spell is also to be made."
 
 #### Molten Form
 
