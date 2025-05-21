@@ -85,7 +85,7 @@ If you splash warrior as a member of another class, you gain the same benefits a
 | Weapon                 | Benefit      |
 |------------------------|-----------|
 |                        |           |
-| Unarmed                | If you score a critical hit against a foe, or attack them from behind, you may have them make an opposed [Body] or [Rflx] check. If they fail, they are knocked prone. |
+| Unarmed                | If you score a critical hit against a foe, or attack them from behind, you may have them make an opposed [Body] or [Rflx] check. If they fail, they are knocked prone. Alternatively, if your unarmed attack would qualify to damage armor, you may instead have them perform an opposed check as noted above. |
 | Longsword              | In place of performing a movement, you may perform an attack. |
 | Mace                   | For the purpose of inflicting a critical hit, you gain a bonus equal to half of your level. |
 | Spear                  | You ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit.|
