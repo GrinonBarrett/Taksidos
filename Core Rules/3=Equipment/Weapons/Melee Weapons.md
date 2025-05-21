@@ -36,6 +36,10 @@ Longsword
 A longer sword known for its versatility.  
 You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit.
 
+**Bo**, $65, 2 lb.  
+Club  
+Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffers an additional -1 penalty. One hand strikes may be performed at a range of 2 yards with disadvantage, otherwise the range is 1 yard regardless of hands. Follow up attacks do not have disadvantage with this weapon so long as you have training with clubs and spears and have two hands available. If you have Warrior Mastery with Clubs, Mauls, Pole Axes, or Spears, you may choose to benefit from one of those when declaring an attack.
+
 **Dandpatta**, $190, 3.5 lb  
 Longsword  
 Once used by the Kagaldine cavalry as a cavalry sword as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
