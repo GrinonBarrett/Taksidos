@@ -10,6 +10,12 @@ Repair cost
 Special features  
 Special creatures which may use it
 
+**Attracting Breastplate**  
+Cuirass  
+$8,000 , 26 lbs.  
+1/2  
+A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Ranged non-magical attacks made by someone within, or against someone within, 10 yards are redirected to the wearer. Any redirected attack which was not intended for the wearer has disadvantage. Meanwhile any ranged attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.
+
 **Dragon Scale**  
 Maile  
 $35,000 , 35 lbs.  
@@ -39,12 +45,6 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 * Vital: Toxic.
 
 Cost to repair is triple the normal cost.
-
-**Attracting Breastplate**  
-Cuirass  
-$8,000 , 26 lbs.  
-1/2  
-A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Any attack which was not intended for the wearer has disadvantage. Meanwhile weapon attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.
 
 **Explosive Plates**  
 Cuirass  
@@ -86,3 +86,10 @@ $400,000, 60 lb.
 2/4  
 A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
 Cost to repair is $1,000 per point.
+
+**Yinkine Garb**
+Gambeson  
+$4,800, 12 lb.  
+2/4  
+A fine coat of natural fibers, adorned with charms and pauldrons of leather dyed by bark extractives. The style is based on traditional practices and is the desirable choice for wardens and druids. The wearer *may spend an action to affect themselves as though by the Xylary Form spell for five minutes. Once this is done, it cannot be done again during the same day. It also provides a +1 bonus to defense against bare, biting, and cutting attacks*.
+Cost to repair is $200 per point.  
