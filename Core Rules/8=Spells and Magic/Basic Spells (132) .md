@@ -2151,13 +2151,13 @@ If you know this spell, you can indentify marks made with it- even if you do not
 **Effect**: You transmute a creature, changing its flesh to be ligneous. This confers a few changes to the creature  
  • Cannot wear armor.  
  • Critical hits of Fire and Lightning attacks leave the subject vulnerable until the end of the round, even if the subject would not be wounded by it.  
- • The subject gains a +6 bopnus to any checks saves involving hiding among plant life so long as it remains still, or a +2 bonus while moving.  
+ • The subject gains a +6 bonus to any checks saves involving hiding among plant life so long as it remains still, or a +2 bonus while moving.  
  • Undead and Plant creatures cannot recognise the subject as a creature while still and until the end of any round it first perceives it moving.  
  • Unarmed attacks gain a 1d6 bonus against undead creatures.  
  • Unarmed attacks from undead and plant creatures against the creature have disadvantage.  
  • Any effect which would heal the subject has a 1 in 6 chance not to.  
  • They do not have to swim in water, instead walking on the surface below.  
- • It is not as dependant on whatever medium it must breathe, if any, being able to hold it for twice as long.
+ • It is not as dependant on whatever medium it must breathe, if any, being able to hold it for twice as long.  
  • If the creature is subject to the standard tables for defense, it uses the table below. If not it is subject to the following;  
 *  Cold, Cutting, and Fire attacks have advantage against the creature. Bare, Club, Force, Ki and Radiant attacks have disadvantage on the creature.
 
@@ -2187,7 +2187,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 A creature using the table with a shield sees a +1 bonus to defense while they would have the passive benefit from a shield.
 
-**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature and the range is increased to a number of yards equal to the spell's tier.
+**At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature and the range at which you may affect a creature is increased to a number of yards equal to the spell's tier.
 
 **Critical Failure**: You fail to transfer the transmutation properly. Your body stiffens, making you prone so long as you have spell sickness.
 
