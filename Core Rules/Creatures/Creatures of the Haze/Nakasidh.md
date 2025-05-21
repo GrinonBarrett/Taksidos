@@ -28,7 +28,7 @@ Small creatures which are only seen in flying swarms that proceed aranidin. Thes
 
  • Claws: The nakasidh may use a claw to strike a foe it is grappling. This is a melee cutting attack. It may only do so twice a round.
 
- • Shock: The nakasidh may perform a single shock per ound against a foe it is grappling. This is a melee electric attack.
+ • Shock: The nakasidh may perform a single shock per round against a foe it is grappling. This is a melee electric attack.
 
 -----
 
