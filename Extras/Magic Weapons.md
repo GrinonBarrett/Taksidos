@@ -68,6 +68,12 @@ A finely made sword, somehwat lighter than would be expected. User gains *a +1 b
 
 If name is known, bonus is instead a standard bonus to attack roll.
 
+**Dyrwyn** (*unique*)  
+$20,000 , 3.5 lbs.  
+Longsword  
+This bright blade features a notorious white hilt. When wielded by one capable of castng spells or of a good heart, *the blade immediately is cloaked in flame while unsheathed. While in this state, it puts out light like a torch and also inflicts a fire attack against anything it is used against. The wielder may use it to parry fire attacks of any kind, including ranged attacks and the attacks of area effects. It can be drawn as an action to incite a flash of fire. This is a 2 foot mikrofan that inflicts a fire attack against anything in the area. The sword cannot melt*.  
+It is said that it currently is half buried by the tip in a molten river, which is incapable of harming it. One who manages to bring from its resting place this sword will be a righteous one.
+
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
