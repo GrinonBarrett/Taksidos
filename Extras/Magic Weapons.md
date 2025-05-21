@@ -7,16 +7,16 @@ Weapon Type
 Description  
 Special Notes
 
-**Archeburn** (*unique*)  
-$12,000 , 5 lbs.  
-Longsword  
-A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
-
 **Aeon Sting**, (*unique*)  
 $25,000, 3.75 lb.  
 Longsword  
 A beautifully crafted sword with fine balance for its length.  
 You may wield this sword with two hands. If you do, you may treat the range as 4 feet. A larger creature simply treats it as an appropriately sized longsword with a range of 4 feet. *You may roll a d4 when you attack. If you do, you take on spell sickness equal to the result and gain a bonus to equal to the result for the purpose of determining a critical hit. When the attack of this weapon would be a critical hit, you may treat it as a single type of attack of your choice*.
+
+**Archeburn** (*unique*)  
+$12,000 , 5 lbs.  
+Longsword  
+A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
 
 **Banta's Staff** (*unique*)  
 $4,800,  2 lbs.  
