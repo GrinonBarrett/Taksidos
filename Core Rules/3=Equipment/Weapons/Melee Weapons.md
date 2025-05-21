@@ -73,7 +73,7 @@ Range increased to 8 yards. Because this is a pike with such great range, you su
 
 **Shortsword**, $120, 2.5 lb.  
 Longsword  
-A shorter sword used for tight quarters fighting.  
+A shorter sword used for tight quarters fighting. Reach is 2 feet.  
 When attacking a foe you are brawling with, you may treat it as a dagger.
 
 **Whip Chain**, $120, 1.3 lb  
