@@ -1,7 +1,7 @@
-## KAPPAOI
-A reptilian race which resembles anthropomorphic terrapins. They can be found in a few remote regions. The singular is either kappa or kappai, depending on where you're from. Kappaoi characters get the following features;
+## KAPPAI
+A reptilian race which resembles anthropomorphic terrapins. They can be found in a few remote regions. The singular is either kappa or kappai, depending on where you're from. Kappoi characters get the following features;
 
-**Creature Type**: Kappaoi are humanoids.
+**Creature Type**: Kappoi are humanoids.
 
 **Size**: Kappaoi stand between 4'-4'11" tall. They can weigh between 130-175 pounds. They are medium creatures.
 
