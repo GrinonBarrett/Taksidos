@@ -56,9 +56,9 @@ Choose an attribute. It is increased by 1.
 
 **High Pressure Acclamation**: You gain a bonus to defense against force and crushing attacks equal to your [Body] bonus, and against any other form of damage which is the result of a high pressure envornment (such as treading the depths of the ocean).
 
-**Troublesome Claws**: A karamaroan has difficulties accomplishing tasks involving items, due to their claws. Anytime they perform a check involving an item in their claw(s), they treat their attribute as being halved. Additionally, they have disadvantage on attack rolls made with weapons. Two handed weapons cannot be used.
+**Troublesome Claws**: A karamaroan has difficulties accomplishing tasks involving items, due to their claws. Anytime they perform a check involving an item in their claw(s), they treat their attribute as being halved. Additionally, they have disadvantage on attack rolls made with weapons. Two handed weapons and items cannot be used.
 
 **Vicegrip**: You gain a +2 bonus to any task involving grip. So long as it is a material which will not be easily cut by your claws- this bonus is increased by +1 for each claw used.  
-While you are grappling a foe, you may choose to inflict a crushing attack against them.  
+While you are grappling a foe, you may choose to inflict a crushing attack against them as an action. 
 When you slam a prone foe, if you have an unoccupied claw, you may choose to inflict a crushing attack against them with disadvantage.
-Your crushing attacks suffer a -1 penalty to their attack total for each size category larger the foe is.
+Your crushing attacks suffer a -1 penalty to their attack total for each size category larger the foe is. They are unarmed attacks.
