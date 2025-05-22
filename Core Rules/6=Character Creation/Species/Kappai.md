@@ -18,7 +18,7 @@ Choose an attribute, it is increased by 1.
 
 **Swim speed**: You may swim up to 4 yards per move, presuming the water isn’t too rough.
 
-**Unarmed Attacks**: You may treat your unarmed attacks as slashing attacks.
+**Unarmed Attacks**: You may treat your unarmed attacks as cutting attacks.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
