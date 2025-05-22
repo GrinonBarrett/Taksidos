@@ -1,5 +1,5 @@
 ## KAPPAI
-A reptilian race which resembles anthropomorphic terrapins. They can be found in a few remote regions. The singular is either kappa or kappai, depending on where you're from. Kappoi characters get the following features;
+A reptilian race which resembles anthropomorphic terrapins. They can be found in a few remote regions. The singular is either kappa or kappai, depending on where you're from. The plural is kappoi. Kappoi characters get the following features;
 
 **Creature Type**: Kappoi are humanoids.
 
