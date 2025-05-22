@@ -1750,7 +1750,7 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (4
+### T (5
 
 #### Telekinesis 
 
@@ -1814,6 +1814,24 @@ THe caster may affect an additional creature through touch. The total time passe
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 5 yards (including the range for redirection) and the biting attack gains a +1 bonus for the purpose of determining if it is a critical hit.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
+
+#### Thwanething
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 minute
+
+**Range**: 5 yards
+
+**Duration**: A number of rounds equal to the spell's tier squared
+
+**Effect**: You cause some amount of metal whose total volume could fit within a cube whose total volume is X cubed (where X is the spells tier), to soften. The material can be shaped like dough. It will gradually reharden. Alternatively, if the material to be affected is a creature composed of metal, inflict an undamaging attack against that creature. If successful, it become vulnerable for a number of rounds equal to the attack's points of success + spell's tier. If it is a critical hit, it treats its [Body] as being halved during this time and all attacks against it gain advantage during this time.
+
+**At Higher Tiers**: These benefits are listed above.
+
+**Critical Failure**: You have managed to afflict yourself with this in some manner. Your [Body], [Rflx], and [Fort] are all halved for a number of minutes equal to the spell's tier. Additionally, you are prone and vulnerable during this time.
+
+[Thwanething Spell]: # "Derived from old english þwǣneþ."
 
 ### U (3
 
