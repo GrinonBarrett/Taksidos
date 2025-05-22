@@ -1,5 +1,5 @@
-## UNIKEROI
-A variety of unicorns, the unikeroi are a noble race known for aiding just and pure hearted travelers. The singular is Unikerai. Unikeroi characters get the following features;
+## UNIKERAI
+A variety of unicorns, the unikeroi are a noble race known for aiding just and pure hearted travelers. The plural is Unikeroi. Unikerai characters get the following features;
 
 **Creature Type**: Unikeroi are Sylvan.
 
@@ -54,13 +54,13 @@ A variety of unicorns, the unikeroi are a noble race known for aiding just and p
 **Unikeroi Magic**: An unikerai has innate magical abilities. It has a pool magic points, whose maximum is equal to its level. A long rest recovers a single point. A full rest recovers 2 points. The following features are available and each considered magical effects.
 
 • **Curative Whisper**. Costs 3 points.  
-The unikerai recites an inaudible magic word to another creature within 3 yards as a special action. Roll a d4. If the result is greater than that creature’s missing hitpoints, that creature has a single hitpoint restored. 
+The unikerai recites an inaudible magic word to another creature within 5 yards as a special action. Roll a d4. If the result is greater than that creature’s missing hitpoints, that creature has a single hitpoint restored. 
 
 • **Glow**. Costs 1 point.  
 The unikerai’s horn emits light like a torch. This will last for up to a number of minutes equal to the unikeroi’s [Will]. The unikeroi may use this ability again while it is active to extend the duration appropriately. It may choose to end this ability at will.  
 
 • **Spark of Light**. 3 points.  
-The unikerai hurls a beam or shape of light from its horn towards the target. This functions as a wand attack using the unikerai’s [Will]. It is a radiant attack.  
+The unikerai hurls a beam or shape of light from its horn towards a target instantly. This functions as a wand attack using the unikerai’s [Will]. It is a radiant attack.  
 
 • **Curative Touch**. Costs 4 points.  
-The unikerai touches its horn to another creature within range as a special action or in place of an attack action. It rolls a d4 and adds its heroism. If the result is greater than the creature’s missing hitpoints, this restores a number of hitpoints to that creature equal to half of the difference (minimum 1).
+The unikerai touches its horn to another creature within range as an action. It rolls a d4 and adds its heroism. If the result is greater than the creature’s missing hitpoints, this restores a number of hitpoints to that creature equal to half of the difference (minimum 1) at a rate of 1 per round. Hit points are recovered at the end of the round.
