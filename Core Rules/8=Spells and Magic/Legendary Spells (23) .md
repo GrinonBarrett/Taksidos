@@ -64,6 +64,22 @@ Right hand to alekard.
 
 **Critical Failure**: You scream out, but affect only yourself with this spell.
 
+#### Alekora's Spite
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 25 yards
+
+**Effect**: You fling a weighty, squishy, orb. Upon impact, it explodes to inflict an acid attack against anything 1 yard of the impact point. On a critical hit, this inflicts the effect of a ki critical hit instead of an acid effect, and then either a necrotic critical hit or a radiant critical hit (your choice). In its trajectory, you may have it rotate 30 degrees at any point.
+
+A critical success with the spell check allows you to increase the rotation to 45 degeres or to have a second rotaion, with the first performed within the first 10 and the second performed within the last 10 yards.
+
+**At Higher Tiers**: Each tier beyond minimum grants the attacks a +1 for the purpose of inflicting a critical hit.
+
+**Critical Failure**: You throw the orb but it eventually curves too much and returns to you, inflicting an attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as ki, necrotic, and radiant.
+
 ### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
 
