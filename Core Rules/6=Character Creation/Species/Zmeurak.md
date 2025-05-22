@@ -57,5 +57,5 @@ Zmeuraks get a bonus to any checks or saves involving the ability to blend in wi
 
 **Startling**: When you roll for initiative, you gain a bonus equal to your level.
 
-**Vines**: You do not have hands with manipulators. You have a number of vine like appendages equal to half of your level (minimum of 2) +1. When you perform an attack, if one of your appendages has not been involved in any other actions or reactions during this round, you may perform an additional unarmed attack. The critical hits of your unarmed attacks may be treated as a cutting or piercing attack.  
+**Vines**: You do not have hands with manipulators. You have a number of vine like appendages equal to half of your level +1 (minimum 2). When you perform an attack, if one of your appendages has not been involved in any other actions or reactions during this round, you may perform an additional unarmed attack. The critical hits of your unarmed attacks may be treated as a cutting or piercing attack.  
 Additionally, you gain a bonus to all grappling and grip related skill checks and saves equal to the number of appendages you may devote to the task at hand.
