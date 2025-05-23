@@ -1172,7 +1172,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Duration**: A number of rounds equal to the spell's tier squared
 
-**Effect**: You cause some amount of stone whose total volume could fit within a cube whose total volume is X cubed (where X is the spells tier), to become liquid. It will gradually reharden, starting out like water but becoming a thick pudding halfway through the duration. Alternatively, if the material to be affected is a creature composed of stone, treat as though it were subject to the Hydromorphy spell with the following exceptions;  
+**Effect**: You cause some amount of stone whose total volume could fit within a cube whose total volume is X cubic feet (where X is the spells tier squared), to become liquid. It will gradually reharden, starting out like water but becoming a thick pudding halfway through the duration. Alternatively, if the material to be affected is a creature composed of stone, treat as though it were subject to the Hydromorphy spell with the following exceptions;  
 • It ignores any form of non-magical Acid, Fire, or Toxic attacks whose total is less than your level.  
 • Cold and electrical attacks against it have disadvantage.  
 • It does not understand Hydroglossa unless it speaks it.
@@ -1302,9 +1302,9 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Casting Time**: 3 actions
 
-**Range** 9 yards
+**Range**: 9 yards
 
-**Effect**: You produce an unnaturally cloroed flame which does not seem to emit light. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you, and you must maintain concentration on it, or it ceases to exist.
+**Effect**: You produce an unnaturally colored flame which does not seem to emit light. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you, and you must maintain concentration on it, or it ceases to exist.
 
 The flame is not automatically snuffed out by water or other liquids, but can be extinquished by light. If it is exposed to fair light for a number of consecutive phases equal to the spell's tier- it is extinquished. Each phase in bright light is treated as 1d4 phases.
 
@@ -1312,7 +1312,7 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 
 **At Higher Tiers**: The benefits for casting at higher times is noted above
 
-**Critical Failure**: You fail to ignite the flame properly, inflicting an attack roll against yourself. If the attack roll is odd, its a fire attack. If even, necrotic. It gains a bonus equal to the spell'stier for the purpose of inflicting a critical hit against you.
+**Critical Failure**: You fail to ignite the flame properly, inflicting an attack roll against yourself. If the attack roll is odd, its a fire attack. If even, necrotic. It gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit against you.
 
 #### Nralling
 
@@ -1868,7 +1868,9 @@ THe caster may affect an additional creature through touch. The total time passe
 
 **Duration**: A number of rounds equal to the spell's tier squared
 
-**Effect**: You cause some amount of metal whose total volume could fit within a cube whose total volume is X cubed (where X is the spells tier), to soften. The material can be shaped like dough. It will gradually reharden. Alternatively, if the material to be affected is a creature composed of metal, inflict an undamaging attack against that creature. If successful, it become vulnerable for a number of rounds equal to the attack's points of success + spell's tier. If it is a critical hit, it treats its [Body] as being halved during this time and all attacks against it gain advantage during this time.
+**Effect**: You cause some amount of metal whose total volume could fit within a cube whose total weight is X squared (where X is the spells tier -1), to soften. The material can be shaped like dough. It will gradually reharden. Alternatively, if the material to be affected is a creature composed of metal, inflict an undamaging attack against that creature. If successful, it becomes vulnerable for a number of rounds equal to the attack's points of success + spell's tier. If it is a critical hit, it treats its [Body] as being halved during this time and all attacks against it gain advantage during this time.
+
+Metal Armor affected by this becomes like gambeson until it rehardens. It can be warped while soft to inflict damage to the armor. Any damage done this way costs 1d2+1 times as much to repair. Metal weapons affected by this have disadvantage on their attack rolls.
 
 **At Higher Tiers**: These benefits are listed above.
 
