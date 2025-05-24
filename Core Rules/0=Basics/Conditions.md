@@ -5,6 +5,9 @@ If multiple conditions would have a creature choose to forfeit their turn during
 ##### Archblight
 Archblight is a condition not easily obtained and not easily lost. Multiple instances of archblight can be accrued. One afflicted by archblight suffers a -1 to spellchecks, counterspell checks, and saves against magic. The only way it can be removed, is to be lost like a wound by a magical effect which restores wounds.
 
+##### Blind
+A blind creature has disadvantage on attacks against creatures it cannot perceive (the ability to hear or feel a foe still allows it to perceive it just fine). It has disadvantage on checks or saves which would involve it sight normally. It also is incable of seeing a creture trying to hide.
+
 ##### Dazed
 The creature may perform only a single movement, a single rotation, and must forfeit its turn during either action phase. Additionally, there is a 50% chance it simply loses its reaction when trying to use a reaction.
 
