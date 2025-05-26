@@ -1,5 +1,8 @@
 Knacks are odd abilities that can picked up through individual learning. Some knacks require multiple items worth of learning to acquire. The name, item cost, and effect of each item is below.
 
+**Called Shots**, 1 item  
+When you perform an attack roll, you may choose to incur a -2 penalty to your attack. If you do, you gain a +2 bonus for the purpose of determining if it is a critical hit and can modify the wound result by 2 steps.
+
 **Dejection**, 2 items  
 You may perform your block with a shield against attacks which are the result of magical effects that would affect an area as though they were targeted effects. You provide an additional +1 bonus to defense when blocking.
 
