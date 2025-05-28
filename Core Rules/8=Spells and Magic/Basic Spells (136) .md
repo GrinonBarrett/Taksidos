@@ -644,7 +644,7 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **Effect**: You touch a creature or object to grant it protection against fire. Fire attacks against the warded creature have disadvantage. Additionally, it cannot be set ablaze- even by the effects of a fire attack's critical hit. This does not prevent molten material from melting a warded creature.
 
-**At Higher Tiers**: Each tier beyond minimum increases the duration by 15 minutes.
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 15 minutes, or reduces the casting time by 1 action (to a minimum of 1 action), your choice.
 
 **Critical Failure**: You touch the creature and a flash of flame jets from them, inflicting a fire attack against you.
 
@@ -1456,7 +1456,23 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (4
+### R (5
+
+#### Rage Fist
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Duration**: 5 rounds
+
+**Effect**: You surround your fists (or some oher part of your body) so that it exhudes magical energy. Choose a means of unarmed attack to be affected by this spell. Attacks made by that means can be treated as magical for the purpose of overcoming protective features. Additionally, you choose a damage type when casting this spell. When making an attack roll with the unarmed attack, if the attack roll result is odd, it is treated as the selected damage type. Regardless, a critical hit will always apply the standard effect of the unarmed attack and that of the chosen damage type.
+
+You cannot use items with any body part affected this way.
+
+**At Higher Tiers**: For each tier beyond minimum, you may either increase the duration by 5 rounds or reduce the casting time by 1 action (to a minimum of 1 action).
+
+**Critical Failure**: You channel the magical energy but fail to control it, an attack of the chosen type is inflicted against you of the chosen type with a bonus equal to the spell's tier for the purpose of determining a critical hit.
 
 #### Regeneration
 
