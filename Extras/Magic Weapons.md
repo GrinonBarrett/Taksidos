@@ -251,6 +251,12 @@ Longsword
 A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
 *Gains a 1d8 bonus to attacks against creatures of undeath*.
 
+**Taundon** (*unique*)  
+$5,000 , 3.5 lbs.  
+Club  
+An oak staff bearing crystal inlays and iron bands. It was once wielded by the hero Hasavur.  
+Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffers an additional -2 penalty. One hand strikes may be performed at a range of 2 yards with disadvantage, otherwise the range is 1 yard regardless of hands. Follow up attacks do not have disadvantage with this weapon so long as you have training with clubs and spears and have two hands available. If you have Warrior Mastery with Clubs, Mauls, Pole Axes, or Spears, you may choose to benefit from one of those when declaring an attack. Furthermore, if you have Warrior Matery with clubs, you reduce the panalty to any attack with this weapons by 1. If name is known, *inflicts a crushing attack whenever it would qualify to damage armor*.
+
 **Thunder Fang** (*unique*)  
 $6,000 , .33 lb.  
 Thrown Blade  
@@ -292,3 +298,9 @@ $9,990 , neg.
 None (see below)  
 A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
 The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces and thrown blades may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
+
+**Zupod** (*unique*)  
+$1,300 , 2 lbs.  
+Club 
+A well designed club made of altyprium. It's slender profile can be deceiving.  
+Upon inflicting a critical hit, *also inflicts a force critical hit effect*. If the user has warrior mastery with clubs, it does not have disadvantage on follow up attacks made with this weapon.
