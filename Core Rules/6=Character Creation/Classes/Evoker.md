@@ -94,6 +94,9 @@ The user spends 2 ki to fire a ki blast against a foe, with its range doubled. O
 **Busting Bolt**  
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] score plus your [Fort] score.
 
+**Chakra Sealing Strike**  
+You spend 1 ki to perform a *magical* unarmed attack against a creature as an action, gaining a bonus to the attack result equal to your [Body] bonus for the purpose of determining if it is a critical hit. If that creature is casting a spell, you perform a counterspell check against them, even if you do not know the spell.
+
 **Cruel Strike**  
 The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack, and then perfoms a movement.
 
@@ -108,6 +111,9 @@ The user spends any number of ki points as an action to move a number of yards i
 
 **Flashing Burst**  
 The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack is successful, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
+
+**Kazerian Burst**  
+The user spends 3 ki as an action to hurl a ball of energy at a point within a number of yards equal to 20 + [Body] score. Upon impact or reaching the end of its range, it explodes out 4 yards. It inflicts a Ki attack against everything within the explosion. Anything within the explosion also receives a point of spell sickness.
 
 **Ghost Rage Fist**  
 The user spends 2 ki points to perform an unarmed attack. Against ephemera and fiends, this is treated as a *magical* ki attack. If the attack is successful, a ki attack is also inflicted against the foe with a bonus equal to the evoker's heroism for the purpose of determining a critical hit.
