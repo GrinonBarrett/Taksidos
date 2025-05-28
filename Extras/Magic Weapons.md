@@ -121,7 +121,7 @@ Unarmed
 Technically, two of these exist, but they only function if both are adorned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
 **Grim Raveler** (*unique*)  
-$5,000  
+$6,000  
 Poleaxe  
 Technically, a scythe. This weapon inflicts attacks like a warpick. Upon a critical hit *the foe must perform an incapacitation save*. When performing a cleave attack, you may treat the attacks as cutting attacks if you have at least proficiency with poleaxes or spears.
 
@@ -227,7 +227,7 @@ Does not have to be wound to use, but only rolls a d12 for the attack roll when 
 **Shme** (*unique*)  
 $2,500 , .1 lb.  
 Wand  
-Uses [Prcp]. *When used, a beam of energy is fired at the foe. It sounds like a phantasmal voice is singing when used. If name is known, user cannot gain Spell Sickness from this weapon*.
+Uses [Prcp]. *When used, a beam of energy is fired at the foe, inflicting a sonic attack. It sounds like a phantasmal voice is singing when used. If name is known, user cannot gain Spell Sickness from this weapon*.
 
 **Sormreir** (*unique*)  
 $1,225 , neg.  
@@ -294,7 +294,7 @@ Warpick
 A gnarled warpick forged in curses against humanity. Anytime it inflicts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
 
 **Zerun's Eye**  
-$9,990 , neg.  
+$11,500 , neg.  
 None (see below)  
 A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
 The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces and thrown blades may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
