@@ -112,14 +112,14 @@ The user spends any number of ki points as an action to move a number of yards i
 **Flashing Burst**  
 The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack is successful, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
 
-**Kazerian Burst**  
-The user spends 3 ki as an action to hurl a ball of energy at a point within a number of yards equal to 20 + [Body] score. Upon impact or reaching the end of its range, it explodes out 4 yards. It inflicts a Ki attack against everything within the explosion. Anything within the explosion also receives a point of spell sickness.
-
 **Ghost Rage Fist**  
 The user spends 2 ki points to perform an unarmed attack. Against ephemera and fiends, this is treated as a *magical* ki attack. If the attack is successful, a ki attack is also inflicted against the foe with a bonus equal to the evoker's heroism for the purpose of determining a critical hit.
 
 **Great Thundrous Blast**  
 The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
+
+**Kazerian Burst**  
+The user spends 3 ki as an action to hurl a ball of energy at a point within a number of yards equal to 20 + [Body] score. Upon impact or reaching the end of its range, it explodes out 4 yards. It inflicts a Ki attack against everything within the explosion. Anything within the explosion also receives a point of spell sickness.
 
 **Luminous Mark**  
 The user spends 1 ki to inflict a ranged undamaging attack against a creature within a number of yards equal to their level + remaining ki. For a number of minutes equal to their level, the struck foe retain a mildly glowing marking. While marked this way, the evoker may have that foe emit light like a torch. Additionally, it may use an action or reaction to inflict both a radiant attack and a ki attack against that foe, but ends this technique's effect when they do.
