@@ -127,5 +127,8 @@ The user spends 2 ki as a reaction to having an attack inflicted against them. A
 **Sinister Disappearence**  
 The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level mulitplied by the number of rounds they were missing.
 
+**Thunderous Fist**  
+The user spend 2 ki points to inflict an unarmed attack. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
+
 **Zenith Combo**  
 The user spends at least 3 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as either crushing, force, or ki.
