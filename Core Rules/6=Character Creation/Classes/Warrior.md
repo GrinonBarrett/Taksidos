@@ -86,35 +86,34 @@ If you splash warrior as a member of another class, you gain the same benefits a
 |------------------------|-----------|
 |                        |           |
 | Unarmed                | If you score a critical hit against a foe, or attack them from behind, you may have them make an opposed [Body] or [Rflx] check. If they fail, they are knocked prone. Alternatively, if your unarmed attack would qualify to damage armor, you may instead have them perform an opposed check as noted above. |
+| Club                   | You gain a +1 to beats, parries, and attacks with this weapon. You may shift the wound result an additional step. On a critical hit, it is two steps. |
+| Dagger                 | If you are brawling with a foe, you get a bonus on your attack against them equal to either your [Body] or [Rflx] bonus.|
+| Flail                  | If the weapon is wound properly, you may ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit. |
+| Greatsword             | When you cleave with this weapon, you do not have disadvantage on attacks made within less than half of the weapon's range and may choose to extend the arc to 270 degress (your front and both sides). If you do, you may choose to either suffer a level of fatigue, become prone until the end of the next round, or become vulnerable until the end of the next round. |
+| Hand Axe               | If you fail to harm a foe with your attack action, you may use your reaction to attack another foe within range. Cannot be used in response to a cleave or attack as a result of a reaction. |
+| Javelin                | If you attack a foe with a shield, and your attack is blocked or your attack roll is within 1 step of the minimum required to harm the foe, you may have the javelin become lodged in that shield- preventing it from being used to block and making them vlunerable while the shield is equipped. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +1 for the purpose of determining if it is a critical hit. |
+| Katar                  | When you stand to a charge, you may choose to either perform an additional attack with your offhand or instead not have disadvantage on the [Rflx] check.|
 | Longsword              | In place of performing a movement, you may perform an attack. |
 | Mace                   | For the purpose of inflicting a critical hit, you gain a bonus equal to half of your level. |
-| Spear                  | You ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit.|
-| Hand Axe               | If you fail to harm a foe with your attack action, you may use your reaction to attack another foe within range. Cannot be used in response to a cleave or attack as a result of a reaction. |
-| Katar                  | When you stand to a charge, you may choose to either perform an additional attack with your offhand or instead not have disadvantage on the [Rflx] check.|
-| Dagger                 | If you are brawling with a foe, you get a bonus on your attack against them equal to either your [Body] or [Rflx] bonus.|
-| Morningstar            | You gain a +2 bonus to your attack.|
-| Warpick                | If you damage the foe's armor or inflict a critical hit, you may have the weapon get stuck in the foe- causing it to suffer a -2 penalty to all checks and a -1 penalty to Attack Rolls and Saves until it is removed with a [Body] Check of 12. Against an unarmord foe, you instead inflict an additional hemorrhage.|
-| Club                   | You gain a +1 to beats, parries, and attacks with this weapon. You may shift the wound result an additional step. On a critical hit, it is two steps. |
 | Madu                   | You gain a +3 bonus to parries made with madu your main hand and a +2 bonus to parries made with madu in your off hand. You may actually use multiple Madu to parry, gaining the bonus for one and a +1 for each additional madu, so long as the additional madu are not used for attacks during this phase. |
-| Flail                  | If the weapon is wound properly, you may ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit. |
-|                        |           |
-| Pole Axe               | You may choose to incur a penalty to your attack up to -4. If you do, for the purpose of inflicting a critical hit, the attack is treated as having a +2 for each point of penalty incurred this way so long as the attack hits. |
-| Greatsword             | When you cleave with this weapon, you do not have disadvantage on attacks made within less than half of the weapon's range and may choose to extend the arc to 270 degress (your front and both sides). If you do, you may choose to either suffer a level of fatigue, become prone until the end of the next round, or become vulnerable until the end of the next round. |
 | Maul                   | When you inflict a critical hit or the attack qualifies to damage the foe's armor, the foe is knocked prone. |
+| Morningstar            | You gain a +2 bonus to your attack.|
 | Pike                   | When you stand to a charge against a foe, its remaining movement (in feet) is divided by the points of success of your attack. Any result below 1 results in it being stopped. If the result is below .5, you may push it back a number of feet equal to your points of success divided by their lost movement (in feet). |
+| Pole Axe               | You may choose to incur a penalty to your attack up to -4. If you do, for the purpose of inflicting a critical hit, the attack is treated as having a +2 for each point of penalty incurred this way so long as the attack hits. |
+| Spear                  | You ignore the passive benefit a foe gets for having a shield. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +2 for the purpose of determining if it is a critical hit.|
+| Warpick                | If you damage the foe's armor or inflict a critical hit, you may have the weapon get stuck in the foe- causing it to suffer a -2 penalty to all checks and a -1 penalty to Attack Rolls and Saves until it is removed with a [Body] Check of 12. Against an unarmord foe, you instead inflict an additional hemorrhage.|
 |                        |           |
-| Javelin                | If you attack a foe with a shield, and your attack is blocked or your attack roll is within 1 step of the minimum required to harm the foe, you may have the javelin become lodged in that shield- preventing it from being used to block and making them vlunerable while the shield is equipped. If they do not benefit from a shield anyway, you gain a +1 to your attack instead and an additional +1 for the purpose of determining if it is a critical hit. |
+| Arquebus               | If you aimed your attack, the foe loses 1d2 hitpoints if the attack is successful, after inflicting a wound. |
 | Bow                    | In place of moving, you may Aim. |
-| Crossbow               | You may use your reaction to perform an attack. |
-| Throwing Blade         | In place of moving, you may perform an attack. |
 | Brusgiata              | Your critical hits leave a foe vulnerable until the end of the round. |
 | Chakram                | You may have your chakram bounce off of the foe to a particular spot. This spot cannot exceed a distance from the foe greater than half of the remaining maximum distance of the weapon when the attack was made. This cannot occur if the attack was a critical failure. If it returns to your own space, you catch it. |
-| Sling                  | If your sling is readied and you aimed this round, you gain a +6 bonus to your attack for the purpose of inflicting a critical hit. When being used for attacks or hurlings, its range is increased by half if it has been wound at least twice this round. |
-| Arquebus               | If you aimed your attack, the foe loses 1d2 hitpoints if the attack is successful, after inflicting a wound. |
+| Crossbow               | You may use your reaction to perform an attack. |
 | Musket           | You gain a 1d8 bonus to the attack for the purpose of determining if the successful attack is a critical hit. If the attack was aimed, 1d12 bonus instead. |
+| Scattergun             | The first attack your scattergun inflicts against each target gets a +1 bonus for the purpose of determining a critical hit if within half of the weapon's maximum range.          |
+| Sling                  | If your sling is readied and you aimed this round, you gain a +6 bonus to your attack for the purpose of inflicting a critical hit. When being used for attacks or hurlings, its range is increased by half if it has been wound at least twice this round. |
+| Throwing Blade         | In place of moving, you may perform an attack. |
 | Tronutonante           | If the foe is not brawling and is within 2 yards, you gain a 1d4-1 bonus to your attack roll. Your penalty for firing multiple tronutonante simultaneously is reduced by 1. |
 |                        |           |
-| Scattergun             | The first attack your scattergun inflicts against each target gets a +1 bonus for the purpose of determining a critical hit if within half of the weapon's maximum range.          |
-|                        |           |
+| Staves                 | For the purpose of inflicting a critical hit with this weapon, regardless of how it is used, you may apply your bonus of the required attribute to your result. When performing a ranged attack with this weapon, if your required attribute is greater then the foe's, you gain a +1 bonus to the attack. |
 | Wand                   | You may treat a wand as a melee weapon with a range of 2 yards for all purposes. In place of comparing your [Body] to the foe's [Body] for the +1 bonus, you may compare the wand's attribute to their [Body]. |
-| Staves                   | For the purpose of inflicting a critical hit with this weapon, regardless of how it is used, you may apply your bonus of the required attribute to your result. When performing a ranged attack with this weapon, if your required attribute is greater then the foe's, you gain a +1 bonus to the attack. |
+
