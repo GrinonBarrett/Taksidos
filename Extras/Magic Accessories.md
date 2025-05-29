@@ -10,7 +10,7 @@ Special creatures which may use it
 **Aesadov's Ring**, $7,000  
 Unique.  
 Neg.  
-A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it by- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
+A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
 
 **Anticaste**, $14,000  
 Unique.  
