@@ -102,7 +102,7 @@ When the user's attack against a foe is successful, including the attack of a sp
 
 **Ring of Resistance**, $8,500  
 Neg.  
-A ring of some various material. *It always seems to fit. It provides protection for the wearer by imposing disadvantage on attacks against the wear that correspond to the material of the ring*.
+A ring of some various material. *It always seems to fit. It provides protection for the wearer by imposing disadvantage on attacks against the wearer that correspond to the material of the ring*.
 | Attack |   Material       |  Attack  |   Material  |   Attack   |   Material  |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
