@@ -14,7 +14,8 @@ Special creatures which may use it
 Cuirass  
 $8,000 , 26 lbs.  
 1/2  
-A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Ranged non-magical attacks made by someone within, or against someone within, 10 yards are redirected to the wearer. Any redirected attack which was not intended for the wearer has disadvantage. Meanwhile any ranged attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.
+A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Ranged non-magical attacks made by someone within, or against someone within, 10 yards are redirected to the wearer. Any redirected attack which was not intended for the wearer has disadvantage. Meanwhile any ranged attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.  
+Cost to repair is $600 per point.
 
 **Dragon Scale**  
 Maile  
