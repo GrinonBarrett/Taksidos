@@ -31,7 +31,7 @@ A lantern designed for use by a subterranean people. It has two loops for handle
 Unique.  
 Neg.  
 A broad gold band which makes the most pleasent resonaating sound when struck by a wand.  
-Wearer gains a +2 to all attacks made with wands in the same hand as the ring for the purpose of inflicting a critical hit.
+*Wearer gains a +2 to all attacks made with wands in the same hand as the ring for the purpose of inflicting a critical hit*.
 
 **False Torch**, $20,000  
 Unique  
