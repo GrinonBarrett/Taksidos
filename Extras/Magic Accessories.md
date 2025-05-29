@@ -91,10 +91,10 @@ A silver ring clutching a very small blue diamond.
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
-When the user successfully hits a foe with an attack, including the attack of a spell, they may use their reaction to *impose one of the following*:  
+When the user's attack against a foe is successful, including the attack of a spell, they may use their reaction to *impose one of the following*:  
 * Inflict a force attack againt the foe.
-* Inflict a cruching attack against the foe.
-* Inflict a force and a crushing attack against the foe.
+* Inflict a crushing attack against the foe.
+* Inflict a force and a crushing attack against the foe, each with a -4 penalty.
 * Impose 1 yard of knockback against the foe.
 * Impose knockback against the foe a number of feet equal to the points of success of that attack.
 
