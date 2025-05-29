@@ -48,7 +48,7 @@ Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well
 **The Iron Band**, $75,000  
 Unique  
 Neg.  
-A ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
+A rusty ring of iron. If first worn while wearing armor, it doesn't seem to do anything. If worn without armor, it provides the effects of the Ironside spell with the following exceptions.  
 * *Weight*. The creature's weight is increased by 1/3.
 * *Thermal Resistance*. The form of Ironside provided by this ring does not grant Advantage/Disadvantage to fire or cold attacks against the wearer.
 * *Weight Capacity*. The wearer's weight load limits are increased by half at each level.
@@ -64,7 +64,7 @@ A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When o
 
 **Nefalesider**, $600 per yard  
 1.5 lb. per yard.  
-Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and diffuclty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softes fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
+Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and difficulty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softest fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
 So long as it is being handled by a creature which is not affected by synnefopathy, it loses 1d4 points of strength per minute of handling. It also loses 1d6 points of strength for every minutes spent submerged or buried.
 
 **Ring of Arcane Charge**, $20,000
