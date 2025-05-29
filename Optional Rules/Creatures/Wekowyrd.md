@@ -54,6 +54,30 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 14 |                          |     | **Undamaging** | 14 |
 
+-----
+
+**Alien Persistence**: The wekowyrd does not need to breathe, drink, or eat.
+
+**Alien Constitution**: The wekowyrd is not subject to diseases of any kind. It also gains advantage on any saves against non-magical poisons and venoms and the toxic attacks of such things have disadvantage against the wekowyrd. It cannot receive more than a single instance of hermorrhaging. 
+
+**Mighty Slam**: When the wekowyrd successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the wekowyrd's check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the wekowyrd's weight in stones divided by the foe's weight in stones. If the wekowyrd had a critical success, the foe is also vulnerable while they are prone.
+
+**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d12 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
+
+**Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles. The wekoyrd's result total is 1d8 + its maximum HP + its current number of wounds.
+
+**Multiple Appendages**: The wekowyrd has 3 total limbs by default, which each function as primary hands.
+
+**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the wekowyrd is increased by 2. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
+
+**Swallow Whole**: If the wekowyrd successfully grapples a creature of at least two size categories or smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
+
+**Consuming**: Anything in the wekowyrd' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an 2 acid attacks, a necrotic attack, and a crushing attack with advantage. Even if the creature escapes, it is still subject to an acid attack at the end of the round it escaped.
+
+**Supernatural Speed**: When the wekowyrd sprints, it *may quadruple its movement speed for that move*. Additionally, if it does not sprint during a round, it may use its reaction to *triple its speed*.
+
+-----
+
 **Table**: *Mutation Chart* 
 | Result | **Description** | Effects                                                        |
 |--------|-------------------|----------------------------------------------------------------|
@@ -80,25 +104,3 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   22   | Mobility | The wekowyrd's becomes much more sprightly. Its movement speeds are increased by one-third. |
 |   23   | Strengthen | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
 |   24   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations (and is also prone and vulnerable). The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. ***Have fun***. |
-
------
-
-**Alien Persistence**: The wekowyrd does not need to breathe, drink, or eat.
-
-**Alien Constitution**: The wekowyrd is not subject to diseases of any kind. It also gains advantage on any saves against non-magical poisons and venoms and the toxic attacks of such things have disadvantage against the wekowyrd. It cannot receive more than a single instance of hermorrhaging. 
-
-**Mighty Slam**: When the wekowyrd successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the wekowyrd's check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the wekowyrd's weight in stones divided by the foe's weight in stones. If the wekowyrd had a critical success, the foe is also vulnerable while they are prone.
-
-**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d20 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
-
-**Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles. The wekoyrd's result total is 1d8 + its maximum HP + its current number of wounds.
-
-**Multiple Appendages**: The wekowyrd has 3 total limbs by default, which each function as primary hands.
-
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the wekowyrd is increased by 2. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
-
-**Swallow Whole**: If the wekowyrd successfully grapples a creature of at least two size categories or smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
-
-**Consuming**: Anything in the wekowyrd' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an 2 acid attacks, a necrotic attack, and a crushing attack with advantage. Even if the creature escapes, it is still subject to an acid attack at the end of the round it escaped.
-
-**Supernatural Speed**: When the wekowyrd sprints, it *may quadruple its movement speed for that move*. Additionally, if it does not sprint during a round, it may use its reaction to *triple its speed*.
