@@ -120,7 +120,7 @@ A ring of modest quality. Not too gaudy, but not so plain.
 **Yoni's Promise**, $5,000  
 Unique.  
 Neg.  
-A humble golden ring which appears to be worth only a tenth of its value at first. It was once the mark of an engagement which never came to be. The wearer gains a +1 to defense against magical attacks and *an additional +1 to defense against necrotic attacks*. When taken to the peak of the Udras mountain, a blessing is sure to follow.
+A humble golden ring which appears to be worth only a tenth of its value at first. It was once the mark of an engagement which never came to be. *The wearer gains a +1 to defense against magical attacks and an additional +1 to defense against necrotic attacks*. When taken to the peak of the Udras mountain, a blessing is sure to follow.
 
 **Zerun's Girdle**, $48,000  
 Unique.  
