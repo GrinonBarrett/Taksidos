@@ -41,12 +41,12 @@ Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffe
 
 **Dandpatta**, $190, 3.5 lb  
 Longsword  
-Once used by the Kagaldine cavalry as a cavalry sword as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
+Once used by the Kagaldine cavalry as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
 Range is increased to unarmed attack range + 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
 
 **Dire Flail**, $240, 4.5 lb  
 Flail  
-More of a status symbol used by commanders in the Kagaladine Military, the dire flail has multiple head on it.  
+More of a status symbol used by commanders in the Kagaladine Military, the dire flail has multiple heads on it.  
 The bonus to Beats and Parries (including those made against the the weapon) are increased to +3. Each attack made by the dire flail is treated as two club attacks. Anything which would affect one attack, effects the other.
 
 **Greatflail**, $250, 4.5 lb.  
