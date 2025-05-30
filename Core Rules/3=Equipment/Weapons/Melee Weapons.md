@@ -15,9 +15,9 @@
 | Madu               | $200 | 3.5 lb | 1 yard   | Can be used to block in the same manner as a shield if an attack was not made with it during the same phase. If used in the main hand, it grants a +2 bonus. If used in an off hand, it provides only a +1 bonus. | An exotic weapon which better suits a defenisve fighting style. |
 | Maul                   | $160 | 4.5 lb | 1.5 yards   | Requires two hands. | A large wooden block on attached to handle. This is the knight's secret weapon against other knights. The blockhead is encased by steel strips to help prevent splinttering due to damage. |
 | Morningstar            | $180 | 4 lb | 1 yard   | - | The punk-rock cousin of the mace, the morningstar's orb of a head is adorned with spikes to really get the point across. |
-| Pike                   | $180 | 4 lb | 4 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within three-quarters range (3 yards) have disadvantage. | A timeless weapon. |
+| Pike                   | $210 | 9 lb | 4 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within three-quarters range (3 yards) have disadvantage. | A timeless weapon. |
 | Pole Axe               | $220 | 5 lb | 2 yards   | Requires two hands. | A large axe intended for use with both hands. The shaft is shorter than most polearms while the blade is longer and in greater embrace of the shaft. |
-| Spear                  | $140 | 3.25 lb | 3 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (1.5 yards) have disadvantage. | The common spear to be found on the battlefield. |
+| Spear                  | $180 | 5.5 lb | 3 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (1.5 yards) have disadvantage. | The common spear to be found on the battlefield. |
 | Warpick                | $190 | 4 lb | 1 yard   | - | A widely misunderstood weapon. It is intended to be used against a foe once they have been cast off balance, such as when they have been laid out. |
 |                        |      |           |          |            |  |
 
@@ -69,10 +69,10 @@ Pole Axe
 A common weapon used by the shock troops of the Meolasine empire.  
 Range is extended to 3 yards. Attacks made against foes within 1 yard have disadvantage.
 
-**Sarissa**, $240, 5 lb.  
+**Sarissa**, $260, 13 lb.  
 Pike  
 An extremely long reaching pike which was used to cause as much damage as possible before the formation would come in contact with each other.  
-Range increased to 8 yards. Because this is a pike with such great range, you suffer a -1 to all attacks made by the weapon and an additional -1 to attacks made within half range unless you have 13 or greater [Rflx].
+Range increased to 8 yards (which means the penalty extends to attacks within 6 yards). Because this is a pike with such great range, you suffer a -1 to all attacks made by the weapon and an additional -1 to attacks made within half range unless you have 13 or greater [Rflx].
 
 **Shortsword**, $120, 2.5 lb.  
 Longsword  
@@ -84,7 +84,7 @@ Flail
 An exotic weapon used by a handful of specialized practitioners.  
 Bonuses to beats and parries made by or against the weapon are reduced to +1. For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a thrown weapon. Can be treated as 2 yards of chain with a strength of 200 for other purposes.
 
-**Xyston**, $180, 4 lb.  
+**Xyston**, $210, 7 lb.  
 Spear  
 An extremely long reaching spear which is typically used as a lance on horseback.  
-Range increased to 4 yards. The xyston has a 90% chance to break instead of 60%.
+Range increased to 4 yards (the pnalty to attacks now extending to those made within 2 yards). The xyston has a 90% chance to break instead of 60%.
