@@ -23,6 +23,6 @@
 ##### Variant Weapons
 
 **Halgar**, $295, 18 lb.
-Pike
+Pike  
 An extremely long reaching pike which was used to cause as much damage as possible before the formation would come in contact with each other.  
 Range increased to 12 yards (the penalty to attacks now extending to those made within 9 yards). Because this is a pike with such great range, you suffer a -1 penalty to all attacks in addition to any other penalties.
