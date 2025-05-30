@@ -87,4 +87,4 @@ Bonuses to beats and parries made by or against the weapon are reduced to +1. Fo
 **Xyston**, $210, 7 lb.  
 Spear  
 An extremely long reaching spear which is typically used as a lance on horseback.  
-Range increased to 4 yards (the pnalty to attacks now extending to those made within 2 yards). The xyston has a 90% chance to break instead of 60%.
+Range increased to 4 yards (the penalty to attacks now extending to those made within 2 yards). The xyston has a 90% chance to break instead of 60%.
