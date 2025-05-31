@@ -34,7 +34,7 @@ You have extensive study of a number of creatures which are loosely related. You
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
 ### 3) Studied Foe
-Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level.
+Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level. Additionally, when you would wound a creature of a type you possess the appropriate Zoology skill for, you may modify the wound result by 1 step. If it does not receive wounds or their effects, you instead gain a +1 bonus to determine if the attack is a critical hit.
 
 ### 4) Impressive Blow
 When you perform an attack against a foe with a single attack which you have aimed against, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
