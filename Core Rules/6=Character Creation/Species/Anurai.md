@@ -49,9 +49,9 @@ Choose an attribute. It is increased by 1.
 
 **Marine Breathing**: Anuroi are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Great Leap**: Once per encounter, as an action, you may perform a great leap. Treat as a jump whose maximum distance is increased by a number of feet up to your [Body] bonus.
+**Great Leap**: Once per encounter, as an action, you may perform a great leap. Treat as a jump whose maximum distance is increased by a number of yards up to your [Body] bonus.
 
-**Fine Flip**: In place of performing an attack action, you may perform a fine flip. Treat as a jump whose maximum distance is increased by a number of feet equal to your [Body] score. For the purpose of falling as a result, you ignore a number of feets equal to your [Body] score. You must perform a rest before doing so again.
+**Fine Flip**: In place of performing an attack (by action or reaction), you may perform a fine flip. Treat as a jump whose maximum distance is increased by a number of feet equal to your [Body] score. For the purpose of falling as a result, you ignore a number of feet equal to your [Body] score. You must perform a rest before doing so again.
 
 **Mucous**: The body of an anurai is coated in a mucous which is constantly being produced. This confers several advantages  
  • Anytime you would need to make a [Fort] or [Rflx] save as a result of a fluid you are submerged in, you gain advantage on that save.  
