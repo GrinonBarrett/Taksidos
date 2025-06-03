@@ -105,6 +105,6 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 
 **Thorny**: Anytime the bromelar successfully grapples a foe, is attacked by a melee range unarmed attack, is trampled, or performs an opposed check in a brawl, it inflicts a piercing attack against that creature.
 
-**Great Leap**: The bromelar may roll a d4, d6, or d8 as an action. It receives spell sickness equal to the result. It then ejects a number of thorns equal to the result, each inflicting a piercing attack against a different creature it can perceive within 25 yards. It can combine multiple projectiles into a single attack against a creature. If it does, it inflicts only a single attack against that creature which gains a +1 bonus for each additional projectile in the attack.
+**Splinter Burst**: The bromelar may roll a d4, d6, or d8 as an action. It receives spell sickness equal to the result. It then ejects a number of thorns equal to the result, each inflicting a piercing attack against a different creature it can perceive within 25 yards. It can combine multiple projectiles into a single attack against a creature. If it does, it inflicts only a single attack against that creature which gains a +1 bonus for each additional projectile in the attack.
 
 **Undo Undeath**: The bromelar gains a +2 bonus to all attacks against undead creatures. Additionally, each successful attack by the bromelar against a creature of undeath reduces its points of undeath by an aditional 1d8 points.
