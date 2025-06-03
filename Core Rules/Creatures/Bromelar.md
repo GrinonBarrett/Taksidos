@@ -36,9 +36,9 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 
 **Unarmed Attacks**;
 
- • Smash: The thoron may use any part of its body to strike a foe within 1 yard. This is a melee piercing attack.
+ • Smash: The bromelar may use any part of its body to strike a foe within 1 yard. This is a melee piercing attack.
 
- • Thorn Shot: The thoron may fire a thorn at a creature within a number of yards equal to either its [Rflx] score or [Prcp] score (which are both 11 by default). If it is within both, this is considered optimal range. This is a ranged bolt or piercing attack.
+ • Thorn Shot: The bromelar may fire a thorn at a creature within a number of yards equal to either its [Rflx] score or [Prcp] score (which are both 11 by default). If it is within both, this is considered optimal range. This is a ranged bolt or piercing attack.
 
 ---------------------
 
@@ -74,17 +74,17 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 |   3    | Muscle Damage     | It has a -1 to all [Body] checks and saves until this wound is healed. |
 |   4    | Thorny Burst      | A cluster of thorns fires at the source of the damage, if it is within 25 yards, inflict a piercing attack with a d4 bonus against it. |
 |   5    | Glancing Blow     | This wound has no effect. |
-|   6    | Critical Vision   | The thoron's instincts and sensory organs experience a strange boost for a moment. It can see in a perfect sphere until the end of the next round.|
+|   6    | Alacrity Lost     | Until this wound is healed, the bromelar loses its Alacrity feature.|
 |   7    | Stinging Wound    | **Biased wound**. -1 penalty to checks until end of next round. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Agonizing Blow    | The thoron loses its reaction during the next round. |
+|   9    | Thorn Burst       | A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A bromelar cannot be affected by this.  |
 |   10   | Head Shot         | It suffers a -2 penalty to checks and saves relying on its sight until this wound is healed. It suffers a -1 to its unaimed attacks. |
 |   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
 |   12   | Glancing Blow     | No ill effects. |
-|   13   | Thorn Burst       | **Biased wound**. A 3 yard cone in the direction of the source of this wound is filled with thorns which eplode outward, inflict a piercing attack against anything caught within. A thoron cannot be affected by this.  |
+|   13   | Agonizing Blow    | **Biased Wound**. The bromelar loses its reaction during the next round. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
-|   16   | Stumble           | **Biased Wound**. UNtil the end of the next round, its movement speed is halved. |
+|   16   | Stumble           | **Biased Wound**. Until the end of the next round, its movement speed is halved. |
 |   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
 |   18   | Glancing Blow     | No ill effect. |
 |   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
