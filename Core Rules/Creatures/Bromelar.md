@@ -17,7 +17,7 @@ Bipedal forms of thorns and brambles, these creatures roam the rarely vistited w
 |  9-12  | Hostility (2) | It seems a bit territorial. |
 |  13-15 | Hostility (3) | It is defending its territory. |
 |  16-17 | Hungry (1)    | It wouldn't mind a little something to eat. |
-|   1-2  | Amicable (1)  | It is going about its business. |
+|  18-20 | Amicable (1)  | It is going about its business. |
 
 **Hitpoints**: A bromelar has 4 hitpoints.
 
