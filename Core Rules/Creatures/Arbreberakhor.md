@@ -45,24 +45,24 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 **Table**: *Attack versus Creature*
 | Attack Type            |           | Attack Type  |        | Attack Type |         |
 |------------------------|-----------|----------|------------|---------|------------|
-|                        |          |            |         |            |         |
-| **Club**                   | 13   | **Pole Axe** | 10     | **Arrow, Bodkin Point**    | 12    |
-| **Longsword**              | 11    | **Greatsword** | 10  | **Arrow, Broadhead**       | 11    |
-| **Mace**                   | 10    | **Maul** | 9        | **Bolt** | 11    |
-| **Spear**                  | 10     | **Pike** | 10       | **Brusgiata** | 11     |
-| **Hand Axe**               | 11     | **Madu**   | 12      | **Chakram** | 12    |
-| **Katar**                  | 12     | **Javelin**         | 11    | **Arquebus** | 10    |
-| **Dagger**                 | 11     | **Throwing Blade**  | 12    | **Musket** | 9    |
-| **Morningstar**            | 11     | **Sling**           | 13    | **Tronutonante** | 11    |
-| **Warpick**                | 11     | |  **Bare**         | 16   |
+|                        |          |            |          |            |         |
+| **Club**                   | 13     | **Pole Axe**        | 10       | **Arrow, Bodkin Point**    | 12    |
+| **Longsword**              | 11     | **Greatsword**      | 10       | **Arrow, Broadhead**       | 11    |
+| **Mace**                   | 10     | **Maul**            | 9        | **Bolt** | 11    |
+| **Spear**                  | 10     | **Pike**            | 10       | **Brusgiata** | 11     |
+| **Hand Axe**               | 11     | **Madu**            | 12       | **Chakram** | 12    |
+| **Katar**                  | 12     | **Javelin**         | 11       | **Arquebus** | 10    |
+| **Dagger**                 | 11     | **Throwing Blade**  | 12       | **Musket** | 9    |
+| **Morningstar**            | 11     | **Sling**           | 13       | **Tronutonante** | 11    |
+| **Warpick**                | 11     |                     |          |  **Bare**         | 16   |
 |                        |           |          |            |         |            |
-| **Acid**                   | 10     | **Fire** | 8     | **Psychic** | 11     |
-| **Cold**                   | 11     | **Force** | 10     | **Toxic**  | 13     |
-| **Crushing**               |  8     | **Ki** | 11     | **Radiant** | 19     |
-| **Cutting**                | 11     | **Necrotic** | 11     | **Sonic** | 13    |
-| **Electrical**             | 11     | **Piercing** | 11     | **Biting** | 11    |
+| **Acid**                   | 10     | **Fire**            | 8        | **Psychic** | 11     |
+| **Cold**                   | 11     | **Force**           | 10       | **Toxic**  | 13     |
+| **Crushing**               |  8     | **Ki**              | 11       | **Radiant** | 19     |
+| **Cutting**                | 11     | **Necrotic**        | 11       | **Sonic** | 13    |
+| **Electrical**             | 11     | **Piercing**        | 11       | **Biting** | 11    |
 |                            |        |              |        |            |       |
-| **Unlisted Damage Type** | 11 |    |     | **Undamaging** | 12 |
+| **Unlisted Damage Type** | 11 |                       |              | **Undamaging** | 12 |
 
 **Table**: *Wound Allocation* 
 | Result | **Name of Wound** | Effects                                                        |
@@ -97,7 +97,7 @@ Magical insects which grow to strange sizes. Each segment of their body appears 
 
 **Web**: The arbreberakhor is capable of producing up to 3 yards of web a day. This web functions as rope with a weight of .2 pound per yard and strength 400. *The web is resistant to natural degradation*.
 
-**Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Busrt spell.
+**Spectral Burst**: The arbreberakhor can cast wyrdings, but only knows the Spectral Burst spell.
 
 **Innate Light**: *The arbreberakhor emits light like a torch, but cannot see the light it produces itself*.
 
