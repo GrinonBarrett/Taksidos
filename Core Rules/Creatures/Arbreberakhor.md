@@ -1,5 +1,5 @@
 ### Arbreberakhor
-Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each ot their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odds when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
+Magical insects which grow to strange sizes. Each segment of their body appears to be a swirl of pastel colors and each of their six legs is an individual primary or secondary color. Their violet eyes appear as another color to any creature with more than 3 chroma. They hunt in packs but are not as territorial as would be expected of such a creature. They favor 2 to 1 odds when attacking and debilitate the senses of their prey quickly to enable mass attack. The collective noun is a blur.
 
 **Creature Type**: Arbreberakhors are Insects.
 
