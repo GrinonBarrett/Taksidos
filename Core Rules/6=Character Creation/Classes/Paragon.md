@@ -12,7 +12,7 @@ Whether you are the supportive ally or the charismatic leader, you bring a power
 | 3rd   | 1  |    +3    | 5         | Attribute Improvement, Bravery                    |      Mark      |
 | 4th   | 2  |    +4    | 6         | Further Training                                  |       Run      |
 | 5th   | 2  |    +4    | 6         | Splash or Specialize                              |                |
-| 6th   | 2  |    +5    | 7         | Attribute Improvement                             |   Stand Firm   |
+| 6th   | 2  |    +5    | 7         | Attribute Improvement, Resolute Confidence        |   Stand Firm   |
 | 7th   | 2  |    +6    | 8         | Faith in Friends                                  |     Endure     |
 | 8th   | 3  |    +7    | 9         | Supreme Authority                                 |                |
 | 9th   | 3  |    +8    | 10        | Attribute Improvement                             |   Recitation   |
@@ -34,7 +34,7 @@ You gain training in two weapons of your choice. You may choose to learn a langu
 Choose two attributes. Each is increased by 1.
 
 ### 2) Command: Steel Yourself
-The creature gains a 1d6 bonus to the next save the make and +1 bonus to the save they make following that, so long as they are within the next minute.
+The creature gains a 1d4 bonus to the next save the make and a +1 bonus to any saves they make following that, so long as they are within the next minute.
 
 ### 3) Bravery
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
@@ -47,6 +47,9 @@ Target creature may use their reaction in response to this command to take a mov
 
 ### 4) Further Training
 You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may chooe to gain a skill of your choice instead of getting any training in weapons or languages.
+
+### 6) Resolute Confidence
+When performing a check, in place of rolling 3d6, you may simply use the appropriate attribute score. You must complete a full rest before doing so again.
 
 ### 6) Command: Stand Firm
 The target gains a d6 bonus to their saves against fear for a number of minutes equal to your level.
