@@ -49,7 +49,7 @@ Target creature may use their reaction in response to this command to take a mov
 You gain training in two weapons of your choice. You may choose to learn a language in place of either training. Alternatively, you may chooe to gain a skill of your choice instead of getting any training in weapons or languages.
 
 ### 6) Resolute Confidence
-When performing a check, in place of rolling 3d6, you may simply use the appropriate attribute score. You must complete a full rest before doing so again.
+When performing a check, in place of rolling 3d6, you may simply use the appropriate attribute score. You must complete a full rest before doing so again. You cannot benefit from another paragon's command when you do so.
 
 ### 6) Command: Stand Firm
 The target gains a d6 bonus to their saves against fear for a number of minutes equal to your level.
