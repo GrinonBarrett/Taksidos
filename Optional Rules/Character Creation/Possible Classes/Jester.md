@@ -41,7 +41,7 @@ When performing a check/save, if the result is a failure or a critical failure, 
 The number of items you may learn from individual learning is doubled.
 
 ### 3) Jack of All Trades
-Anytime you perform a check involving a skill with which you are not proficient, you gain a +1 bonus to your check. Additionally, you may expend buffoonery to reroll the lowest die of your roll. You may only do so once per check.
+Anytime you perform a check involving a skill with which you are not proficient, you gain a +1 bonus to your check. Additionally, when you perform any skill check, you may expend buffoonery to reroll the lowest die of your roll. You may only do so once per check.
 
 ### 3) Jape
 As an action, you may express some witty retort or one-liner targeted at a creature which can hear you. It must succeed a [Will] save with a DV equal to your level + heroism  + an attribute bonus which the narrator deems appropriate to the particular jape or have its attention focused on a subject you dictate as appropriate to the jape. If it is a critical failure, it is also dazed until end of round. You are vulnerable until the end of the round. You may expend buffonery to do this as a reaction.  
