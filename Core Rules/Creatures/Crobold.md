@@ -1,5 +1,5 @@
 ### Crobold
-..
+These feathery goblins sport wings and have a habit of wandering into ruins and dungeons to make settlements. They are somewhat cowardly, though they can be zealous if attempting to take another's home while they have none. They will always fight hrafines. It is said they were goblins cursed by the lord of hrafines. They love shiny stuff.
 
 **Creature Type**: Crobolds are fey.
 
