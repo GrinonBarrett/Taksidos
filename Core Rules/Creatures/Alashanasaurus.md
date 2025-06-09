@@ -34,23 +34,23 @@ Also called shaochilong, these predators have managed to find a home in Emeria. 
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 21   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 16    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 15    |
-| **Mace**                   | 15    | **Maul** | 14     | **Bolt** | 15    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 17     |  |     |
-| **Hand Axe**               | 15     | **Madu** | 16     | **Chakram** | 17    |
-| **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
-| **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
-| **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     |    |  |   **Bare** |  22  |
+| **Club**                   | 21     | **Pole Axe**       | 13     | **Arrow, Bodkin Point**    | 16    |
+| **Longsword**              | 14     | **Greatsword**     | 13     | **Arrow, Broadhead**       | 15    |
+| **Mace**                   | 15     | **Maul**           | 14     | **Bolt**                   | 15    |
+| **Spear**                  | 14     | **Pike**           | 13     | **Brusgiata**              | 17    |
+| **Hand Axe**               | 15     | **Madu**           | 16     | **Chakram**                | 17    |
+| **Katar**                  | 15     | **Javelin**        | 14     | **Arquebus**               | 12    |
+| **Dagger**                 | 18     | **Throwing Blade** |19      | **Musket**                 | 11    |
+| **Morningstar**            | 15     | **Sling**          | 20     | **Tronutonante**           | 14    |
+| **Warpick**                | 15     |                    |        |   **Bare**                 |  22   |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
-| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
-| **Crushing**               | 15     | **Ki** | 16     | **Radiant** | 16     |
-| **Cutting**                | 13     | **Necrotic** | 13     | **Sonic** | 15    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 13    |
+| **Acid**                   | 11     | **Fire**             | 14     | **Psychic**       | 15     |
+| **Cold**                   | 14     | **Force**            | 15     | **Toxic**         | 14     |
+| **Crushing**               | 15     | **Ki**               | 16     | **Radiant**       | 16     |
+| **Cutting**                | 13     | **Necrotic**         | 13     | **Sonic**         | 15     |
+| **Electrical**             | 14     | **Piercing**         | 14     | **Biting**        | 13    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
+| **Unlisted Damage Type**   | 14     |                      |        | **Undamaging** | 14 |
 
 
 
