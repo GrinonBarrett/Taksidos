@@ -81,7 +81,7 @@ Among the largest known creatures, brachiosaurus do not typically engage in comb
 
 -----
 
-**Massive**: For every 3 tons of weight, the brachiosaurus has an additional hitpoint. While it has hitpoints, if a wound roll die result is the same as or within 1 step of its current hitpoints, it does not receive a wound. The creature still loses its hitpoint. When attacked by a weapon or unarmed attack by a smaller creature than iself while it has hipoints- if the attack roll result is equal to its current hitpoints or within a number of steps equal to the difference in size category, it does not receive the wound or lose a hitpoint.
+**Massive**: For every 3 tons of weight, the brachiosaurus has an additional hitpoint (resulting in an amount between 21-34 additional hitpoints this way). While it has hitpoints, if a wound roll die result is the same as or within 1 step of its current hitpoints, it does not receive a wound. The creature still loses its hitpoint. When attacked by a weapon or unarmed attack by a smaller creature than iself while it has hipoints- if the attack roll result is equal to its current hitpoints or within a number of steps equal to the difference in size category, it does not receive the wound or lose a hitpoint.
 
 **Mighty Slam**: When the brachiosaurus successfully strikes a foe with its slam or tail attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, the brachiosaurus knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the brachiosaurus' weight in stones divided by the foe's weight in stones. If the brachiosaurus had a critical success, the foe is also vulnerable while they are prone.
 
