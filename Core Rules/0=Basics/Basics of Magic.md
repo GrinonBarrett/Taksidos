@@ -1,4 +1,4 @@
-### BASICS OF MAGIC
+## BASICS OF MAGIC
 
 Each character is capable of using magic. Magic occurs in the form of spells. To cast a spell, the character must have learned the spell and performs a spellcheck. The spell check result must be at least as high as the spell's requirement. The requirement is based on the tier. You roll a d20. If you succeed, you cast the spell. Spells have a minimum tier. The spell cannot be cast lower than that tier. The difficulty of casting a spell is 7 + triple its tier. To make a save against a spell, you must exceed double the spell's tier and the points of success by the caster on their spellcheck.
 
