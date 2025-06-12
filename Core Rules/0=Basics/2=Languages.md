@@ -16,7 +16,7 @@
 | Gobline           | Cuniform    | -                | A rare language spoken by Cobals and a few other creatures. |
 | Lakhasi           | Hydron      | TBD              | A common language among the east. |
 | Lucherse          | Auric       | Lucertolia, Elanam | The common language of the island chain known as Lucertolia. |
-| Elenish           | Lithan      | Elanam           | A descendant of the old Lithen tongue, it is the primary language of its successor kingdom. |
+| Elenish           | Lithen      | Elanam           | A descendant of the old Lithen tongue, it is the primary language of its successor kingdom. |
 | Almasine          | -           | -                | A language shared by the Kangain and Mirkain. Its "written" form is a system of scratches with a stron dialectual difference between regions. |
 | Pyroglossa        | Pyrine      | -                | The language of fire elementals and associated creatures. |
 | Hydroglossa       | Hydron      | -                | The language of water elementals and associated creatures. |
