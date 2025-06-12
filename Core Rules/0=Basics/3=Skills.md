@@ -1,3 +1,6 @@
+## SKILLS
+These represent particular skills anyone can do, but the character excels at. If a character is proficient in an appropriate skill, they roll an additional d6 and add the result to their check/save.
+
 **• Alchemy**: The ability to identify and create magical potions of various sorts. Potions which can be created by a player have their requirements listed in their entry.
 
 **• Animal Empathy**: The ability to handle domesticated animals properly. Also can be used to interact with non-magical creatures in some circumstances.

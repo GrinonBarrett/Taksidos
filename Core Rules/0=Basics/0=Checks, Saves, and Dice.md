@@ -1,6 +1,6 @@
 ## CHECKS AND SAVES
 A check is performed by the player’s character in an attempt to do something by the result of a skill challenge using one of their attributes. A save is performed by the character in an attempt to prevent something from happening (usually something that would happen to them).
-In both cases, 3d6 is rolled and their attribute bonus is applied. If a character is proficient in a relavent skill, they rll an additional d6 and add the result.  
+In both cases, 3d6 is rolled and their attribute bonus is applied.  
 If it is a save, the character's heroism is also applied.  
 If the result is equal to or greater than the Difficulty Value (or DV), the check/save success. Otherwise it is a failure.
 
@@ -13,3 +13,7 @@ If a roll is affected by both advantage and disadvantage, and it is an equal num
 
 ### Opposed Checks
 An opposed check requires two opponents each roll 3d6 and add their appropriate attribute to their result. If one side is greater than the other, they have a success while the opponent has a failure. If one of the opponents has a total value more than one and a half times their opponent, they enjoy a critical success and their opponent suffers a critical failure. Sometimes it will be up to the narrator if a critical success/failure has any outstanding effect.
+
+### DICE LEVELS
+Dice can be “upgraded” or “downgraded” due to various in game effects. Beginning from the lowest die and improving from there, below are all levels of dice:  
+**d2** (can be represented with a coin flip), **d3**,  **d4**, **d6**, **d8**, **d10**, **d12**.

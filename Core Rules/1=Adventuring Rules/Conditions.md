@@ -58,7 +58,7 @@ An immobilized creature is not capable of any form of movement.
   • Cannot speak.
 
 #### Obtunded
-Obtunded creatures are affected by substances or magical effects. It is somewhat impaired and may be a bit sluggish. It suffers several disadvantages: 
+Obtunded creatures are affected by substances or magical effects (see Inebriation below). It is somewhat impaired and may be a bit sluggish. It suffers several disadvantages: 
 
   • -1 penalty to all saves.
 
@@ -123,3 +123,8 @@ A prone creature is in a physically disadvantaged position. If it is not prone f
 
 #### Vulnerable
 All attacks made against a vulnerable creature gain a +4 bonus.
+
+### INEBRIATION
+Characters are likely going to drink. Even if they don't, some substances can create similarly debilitating effects to alcohol (not to mention the effects of wildling magic). Each point of inebriation can last for 15-20 (1d6+14) minutes from when it was received. This is individual to each point of inebriation.  
+A point of inebriation does not begin for a number of rounds equal to your [Fort] score + [Body] bonus.  
+When your inebriation reachs half of your [Fort] score, you are **obtunded**. When your inebriation is 3/4 of your [Fort] score, you are **stuporous**. When your inebriation reaches your [Fort] score, you are incapacitated.
