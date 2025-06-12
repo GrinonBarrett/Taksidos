@@ -1146,7 +1146,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: You find yourself the subject of misfortune, as the spell affects you instead.
 
-### K (1
+### K (2
 
 #### Kiss of Death
 
@@ -1159,6 +1159,22 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 **At Higher Tiers**: Each tier beyond the minimum increases the DV of the incapacitation save by 1 and the casting time by one action.
 
 **Critical Failure**: You find yourself subject to the forces of the kiss instead, even if you are normally unaffected by incapacitation saves.
+
+#### Know Pain
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to a creature you can perceive within range being attacked
+
+**Range**: 15 yards
+
+**Effect**: You draw insight into the force assailing a creature. You know the total of the attack roll and the attack type. If the attack would be treated as having an alternative critical hit efffect or effect if it qualifies for damaging armor, you know that as well. If the successful attack causes other effects to trigger, you know what effects it triggers.
+
+If the spellcheck is a critical success, you know the precise location of the source of that attack if you can perceive it or it is within range.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the range by 25 yards.
+
+**Critical Failure**: You instead feel some of the pain, making you vulnerable until the end of the round.
 
 ### L (4
 
