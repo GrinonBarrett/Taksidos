@@ -11,6 +11,15 @@ The materials to create a grimoire sturdy enough to be reliable for one to learn
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
 
+**Tome of the Brass Chaplains**  
+$10,000 , 4.25 lbs  
+One of many holy scriptures for the followers of Dulzern. Unlike most tomes for the followers, this is seen as purely supplementary material and contains no rites. This grimoire contains the following spells at the indicated tiers;
+* Empathic Ward, 2nd
+* Fortify, 1st
+* Illproofing, 1st
+* Resend, 2nd
+* Wall of Denial, 5th
+
 **Tome of the Cloud Shaper**  
 $10,000, 3 lbs.  
 A tome written by a mage with an unusual talent. This grimoire contains the following spells at the indicated tiers;  
