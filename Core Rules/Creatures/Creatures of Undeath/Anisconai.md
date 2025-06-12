@@ -64,7 +64,7 @@ A phantasm created by one wrapped in intense dread and worry over a lifetime, re
 
  **Psychical Shift**: The anisconai may use a full round to begin manifesting itself partially into the material plane. This bestows a few features:   
  • Physical objects on the material plane are completely passable by the Anisconai.  
- • The Anisconai is not subject to the whims of gravity and can retain its position (relatively speaking). 
+ • The Anisconai is not subject to the whims of gravity and can retain its position (relatively speaking).  
  • Non-magical forms of damage have no effect on the Anisconai unless sourced from the paychic plane.  
  • The Anisconai cannot be grappled, restrained, or made prone by any non-magical means from the material plane.  
  • Ths Anisconai ignores all defenses from material armor when attacking a creature and ignores a target’s cover from material objects when performing its ghastly touch. If a foe is armored, this allows it to use the lowest defense against that attack from the foe's armored value and unarmored value.  
