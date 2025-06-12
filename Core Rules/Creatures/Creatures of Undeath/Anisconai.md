@@ -1,5 +1,5 @@
 ### Anisconai
-A phantasm created by one intense dread and worry over a lifetime, released when they die. They pray on the wekest of character. Anisconoi is the plural. Their collective noun is a concern.
+A phantasm created by one wrapped in intense dread and worry over a lifetime, released when they die. They prey on the wekest of character. Anisconoi is the plural. Their collective noun is a concern.
 
 **Creature Type**: Anisconoi are ephemera.
 
