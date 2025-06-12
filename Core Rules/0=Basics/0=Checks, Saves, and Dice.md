@@ -13,3 +13,7 @@ If a roll is affected by both advantage and disadvantage, and it is an equal num
 
 ### Opposed Checks
 An opposed check requires two opponents each roll 3d6 and add their appropriate attribute to their result. If one side is greater than the other, they have a success while the opponent has a failure. If one of the opponents has a total value more than one and a half times their opponent, they enjoy a critical success and their opponent suffers a critical failure. Sometimes it will be up to the narrator if a critical success/failure has any outstanding effect.
+
+### DICE LEVELS
+Dice can be “upgraded” or “downgraded” due to various in game effects. Beginning from the lowest die and improving from there, below are all levels of dice:  
+**d2** (can be represented with a coin flip), **d3**,  **d4**, **d6**, **d8**, **d10**, **d12**.
