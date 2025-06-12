@@ -1529,7 +1529,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Range**: 5 Yards
 
-**Effect**: You redirect a magical ray back to its source. You may only redirect the ray of a spell whose tier is half or less of this spell's.
+**Effect**: You redirect a magical ray, whose origin or destination is within range, back to its source. This cannot redirect a ray of a spell whose tier is at least half of this spell's.
 
 **At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards or grants a +1 bonus to the redirected ray's attack roll.
 
