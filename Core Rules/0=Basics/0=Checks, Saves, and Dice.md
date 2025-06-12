@@ -1,6 +1,6 @@
 ## CHECKS AND SAVES
 A check is performed by the player’s character in an attempt to do something by the result of a skill challenge using one of their attributes. A save is performed by the character in an attempt to prevent something from happening (usually something that would happen to them).
-In both cases, 3d6 is rolled and their attribute bonus is applied. If a character is proficient in a relavent skill, they rll an additional d6 and add the result.  
+In both cases, 3d6 is rolled and their attribute bonus is applied.  
 If it is a save, the character's heroism is also applied.  
 If the result is equal to or greater than the Difficulty Value (or DV), the check/save success. Otherwise it is a failure.
 
