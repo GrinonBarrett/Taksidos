@@ -507,6 +507,8 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Effect**: You touch a creature to allow its natural humanity manifest as a shimmering veil around it. Until an attack is successful against the target, the target inflicts an attack (even as the result of an effect such as a spell), or the duration ends- the target gains a bonus to defense against attacks equal to their [Empy] bonus.
 
+If the spellcheck is a critical success, you may choose to have the bonus granted be equal to your [Empy] bonus instead.
+
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
 **Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
