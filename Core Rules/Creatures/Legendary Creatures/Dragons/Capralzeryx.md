@@ -30,7 +30,7 @@ A true dragon of fear. He has taken residence in a mountain passage built by an 
 
  • Tail: He may use his tail to strike a foe within 2 yards that is not in front of him. This is a melee bare attack. If the foe is more than 2 size categories smaller, he may treat it as a force attack instead.
 
- • Slam: He may use any part of his body to strike a foe within 1 yard. This is a melee bare attack.
+ • Strike: He may use any part of his body to strike a foe within 1 yard. This is a melee bare attack.
 
  • Claw: He may slash at foes with one of his forward claws within 1 yard. This is a melee slashing attack.
 
@@ -38,7 +38,7 @@ A true dragon of fear. He has taken residence in a mountain passage built by an 
 
 -----
 
-**Table**: *Attack versus Creature**
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
@@ -92,7 +92,7 @@ If Capralzeryx becomes afraid of something, he suffers a -2 to attacks and defen
 
 ###### If for some reason Capralzeryx is being used outside of the intended encounter, treat any village as the Vergranne settlement. This bonus is cumulative if he manages to get multiple towns and villages to fall victim to his ways.  
 
-**Mighty Slam**: When he successfully strikes a foe with his slam or tail attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, Capralzeryx knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by his weight in stones divided by the foe's weight in stones. If he had a critical success, the foe is also vulnerable while they are prone.
+**Mighty Slam**: When he successfully strikes a foe with his strike or tail attack, he may use his reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, Capralzeryx knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by his weight in stones divided by the foe's weight in stones. If he had a critical success, the foe is also vulnerable while they are prone.
 
 **Breath Weapon**: He is capable of exhaling a line of flames, as an action. The line is 1d6+14 yards in length and is a foot high and wide. Anything caught within the line suffers a Fire attack. Once he has used this ability, he cannot do so again for an hour. The attack against the closest creature gains a bonus equal to the d6 result.  
 Alternatively, he may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as he sweeps his head side to side.  
