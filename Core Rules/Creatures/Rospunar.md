@@ -1,5 +1,5 @@
 ### Rospunar
-A large toad with a massive crocodilian tail. It has horns which fold over the top of its head and point forward and barbs on its back. They respond like most creatures to any encounter, unless they have a cluth of eggs- in which case they become immediately hostile to anything they encounter. It can take years before they lay eggs, and they will lay 3d20+20 eggs at a time. The plural is rospunain. Their collective noun is a seek.
+A large toad with a massive crocodilian tail. It has horns which fold over the top of its head and point forward and barbs on its back. They respond like most creatures to any encounter, unless they have a cluth of eggs- in which case they become immediately hostile to anything they encounter. It can take years before they lay eggs, and they will lay 3d20+20 eggs at a time. Instead of fretilization, they must be completely covered in oil for 20 days. The plural is rospunain. Their collective noun is a seek.
 
 **Creature Type**: Rospunain are Reptiles.
 
