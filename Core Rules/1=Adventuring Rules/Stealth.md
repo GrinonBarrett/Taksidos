@@ -1,5 +1,5 @@
 ## STEALTH
-When a character attempts to hide or move without being detected, they describe how they blend in with the environment (or move within it) to the narrator. The narrator then determines the difficulty of [Prcp] check if the creature in pursuit. The default DV of a check is 13, with modifiers appropriate to the senses available to the pursuing creature. For example, a blind creature is unaffected by sight modifiers in any way.
+When a character attempts to hide or move without being detected, they describe how they blend in with the environment (or move within it) to the narrator. The narrator then determines the difficulty of [Prcp] check of the creature in pursuit. The default DV of a check is 13, with modifiers appropriate to the senses available to the pursuing creature. For example, a blind creature is unaffected by sight modifiers in any way.
 
 **Sight**  
 Lighting conditions should not be ignored.  
