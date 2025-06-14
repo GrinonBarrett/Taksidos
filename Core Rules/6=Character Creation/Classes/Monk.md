@@ -205,13 +205,13 @@ You gain either the Lore, Riding, or Survival skill. You gain training in either
 #### Aura: Endurant Aura
 A creature affected by your aura may use their reaction to modify a wound result against them by up to 2. This cannot affect an "Attacker's Choice" result.
 
-#### Initiate: Ranger
+#### Initiate: Bringer
 Each of your speeds is increased by 1 yard. 
 Once per encounter, you may use your action to perform a movement.
 You gain training in Bow, Longsword, Handaxe, and one other weapon of your choice.
 
 #### Apprentice: Strider
-Anytime you oerform a sprint action, your movement speeds are increased by 1 yard until the end of the next round.  
+Anytime you perform a sprint action, your movement speeds are increased by 1 yard until the end of the next round.  
 During the first round of any encounter, you may perform an additional reaction.
 
 #### Journeyman: Realm Walker
@@ -247,6 +247,35 @@ Your touch may protect a creature for a whole round from the next magical effect
 You maximum hitpoints increase by 1.  
 A creature attacking you or anyone affected by your aura rolls 2d8 in place of 1d20 when performing an attack roll.  
 You may take on a level of fatigue to cure a wound of another creature with your touch as a full round action. This does not restore any hitpoints.
+
+### Order of the Silver Wind
+An order women who operate primarily as a band of mercenaries, but will offer a steep discount to those plagued by evil. Their insginia  is a crow, facing a cresent moon and clutching an arrow, over a cloud.
+
+#### Skill and Weapon
+You gain either the Athletics, Lore, or Survival skill. You gain training in either the Bow, Chakram, Dagger, or javelin.
+
+#### Aura: Cloaking Aura
+Anytime a creature affected by your aura is attempting to hide, it gains a +3 bonus to hiding from all senses.
+
+#### Initiate: Eye in the Winds
+Choose one of your modes of movement, it is increased by 1 yard. Anytime you perferom a rest, you may change the selected mode of movement.  
+You gain training in Bows and another weapon of your choice. If you cannot receive more training with bows, you gain training with 2 weapons of your choice instead.  
+You may grant yourself an advantage to a [Prcp] save or any check which uses your [Prcp]. You must complete a rest before doing so again.  
+When an undamaging attack is inflicted against you, you may choose to impose disadvantage against it. You must rest before doing so again.  
+Anytime you make a check to detect a stealthy creature or object (perhaps a trap device), as long as you spend at least one round to do so, you gain a bonus equal your heroism.  
+
+#### Apprentice: Sniper
+You gain training in Bows and another weapon of your choice. If you cannot receive more training with bows, you gain training with 2 weapons of your choice instead.  
+If your aimed ranged attack is a critical hit, and you pressed attack, you may inflict any wound of your choice without rolling to determine.
+
+#### Journeyman: Blessing of the Silver Wind
+You gain training with a weapon of your choice.  
+When you are hit by a magical attack, you may move up to 1 yard using one of your modes of movement.  
+You may use Chakram as a melee weapon, with a range equal to your unarmed attack.  
+When you successfully push a creature, it is prone until end of round.  
+At the start of any encounter, you may choose to be braced for the Aim action.  
+Your bonus to defense for dodging ranged *and/or magical attacks* is doubled.  
+You gain a bonus to all initiative rolls equal to your [Rflx] bonus.
 
 ### Spirit Guided
 You may or may not be a member of a particular order or fiath, but you follow a spirit animal or totem which guides you to a greater form of being and atunement with the world.
