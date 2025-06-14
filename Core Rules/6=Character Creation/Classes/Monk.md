@@ -255,7 +255,7 @@ An order women who operate primarily as a band of mercenaries, but will offer a 
 You gain either the Athletics, Lore, or Survival skill. You gain training in either the Bow, Chakram, Dagger, or javelin.
 
 #### Aura: Cloaking Aura
-Anytime a creature affected by your aura is attempting to hide, it gains a +3 bonus to hiding from all senses.
+Anytime a creature affected by your aura is attempting to hide, it gains a +3 bonus to the DV of detecting it.
 
 #### Initiate: Eye in the Winds
 Choose one of your modes of movement, it is increased by 1 yard. Anytime you perferom a rest, you may change the selected mode of movement.  
