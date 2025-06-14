@@ -64,7 +64,7 @@ You may have your Order's aura active in addition to you standard aura. If you d
 
 #### Splash
 If you splash monk as a member of another class, you gain the following:  
-You gain the Aura, Monastic Initiate, and Monastic Apprentice features. Your aura's range only extends out a number of feet equal to your heroism.
+You gain the Aura feature and treat your effective monk levels (for the purpose of determining what auras you have access to) as being equal to your heroism. Your aura's range only extends out a number of feet equal to your heroism. Choose a monastic order. You gain the aura and Initiate feature appropriate to that order.
 
 ------------
 
