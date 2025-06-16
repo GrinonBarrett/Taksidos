@@ -86,7 +86,7 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 * When standing to a charge or performing an attack of opportunity against a foe which moved towards you, you gain advantage on the attack.
 * You ignore the Nimble Flight feature of a creature when you attack.
 
-**Beast**. Land-dwelling warm-blooded creatures.  
+**Beast**.  
 * Each of your modes of movement increase by .5 yards.
 
 **Bigenerae**.
@@ -95,7 +95,7 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 
 **Construct**. 
 * Your attacks against constructs and objects gain a bonus equal to your heroism for the purpose of inflicting a critical hit.
-* Attacks against you by constructs and otherwise unliving objects (such as traps) have a -2 penalty againbst you.
+* Attacks against you by constructs and otherwise unliving objects (such as traps) have a -2 penalty against you.
 
 **Drakomadiae**.
 * You learn up to two spells whose total minimum tier is no greater than 4.
@@ -113,12 +113,14 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 
 **Fey**. 
 * All inebriation you receive from magical effects is reduced by half.
+* You gain a +1 bonus to saves against magical effects.
 
 **Fiends**. 
 * You know when a creature within a number of yards equal to your [Prcp] score plus heroism, which you can perceive, is activating a feature with magical components to its nature.
 
 **Infigura**. 
-* You gain the Alchemy skill. If you already had it, you instead gain training in a weapon of your choice and learn a language. You gain a +1 bonus to all saves.
+* You gain the Alchemy skill. If you already had it, you instead gain training in a weapon of your choice and learn a language. 
+* You gain a +1 bonus to all saves.
 
 **Insect**. 
 * You gain an edge of your choice (see the Rogue class)
@@ -132,7 +134,7 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 **Reptile**. 
 * When you perform an opposed check while brawling, you may replace one of your attrbute bonuses with your heroism. If you do, you are vulnerable until the brawl ends.
 
-**Sylvan**. Creatures having a strong association with the natural world.  
+**Sylvan**.  
 * You gain a +2 bonus to defense against Bare, Biting, Club, Cutting, and Thrown Blade attacks.
 
 **Undead**. 
