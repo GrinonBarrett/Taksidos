@@ -22,12 +22,12 @@ Possessed of rage and fury, you are a formidable foe to any and all that step fo
 ### Wild One
 You are trained in two weapons of your choice.  
 Additionally, you may enter a battle-rage as an action or reaction. While in this battle rage;  
-* You gain a +1 bonus to the each of your melee attacks, +2 if it is two handed.  
-* You gain a +3 bonus to your [Body] (causing your modifier to be increased by +1).
+* You gain a +1 bonus to the each of your attacks, +2 if it is a melee two-handed weapon attack or an unarmed melee attack.  
+* You gain a +3 bonus to your [Body] (causing your modifier to be increased by +1). This can exceed the usual physical limitation on attributes.
 * You gain advantage on opposed [Body] checks.
 * If you are unarmored, you gain a +1 bonus to defense against non-melee attacks.  
 
-This trance ends at the end of any 2nd consecutive round you do not inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1d4 + double the number of rounds the trance lasted.
+This trance ends at the end of any 2nd consecutive round you do not successfuly inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1 + double the number of rounds the trance lasted.
 
 ### 2) Furious Blow
 The first attack you make each round while in your battle-rage trance gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
