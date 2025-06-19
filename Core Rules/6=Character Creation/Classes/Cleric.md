@@ -72,5 +72,5 @@ When performing a rite, you may grant yourself a bonus up to your heroism + [Emp
 
 #### Splash
 If you splash cleric as a member of another class, you gain the following:  
-You gain the Chalogesis, Exogesis, and Inspired Magic features.
+You gain the Chalogesis, Exogesis, and Inspired Magic features.  
 Choose an attribute. It is increased by 1.
