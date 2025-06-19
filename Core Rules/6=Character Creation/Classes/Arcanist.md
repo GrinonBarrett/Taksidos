@@ -69,6 +69,6 @@ The strain on your [Inte] of memorizing arcanae is reduced by 1 if you have no o
 
 #### Splash
 If you splash arcanist as a member of another class, you gain the following:  
-You gain the Arcane Study and Disruptive Strike features.
+You gain the Arcane Study and Disruptive Strike features.  
 Choose an attribute. It is increased by 1.
 
