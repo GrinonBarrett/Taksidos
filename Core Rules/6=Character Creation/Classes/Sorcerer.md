@@ -9,12 +9,12 @@ A rare breed capable of powering superliminal effects with the energy stored in 
 |-------|----|----------|--------------------------------------------------|
 | 1st   | 1  |    +1    | Cantripancy, Sorcery, Spark of Sorcery           |
 | 2nd   | 1  |    +2    | Intensify Spell                                  |
-| 3rd   | 1  |    +3    | Attribute Improvement                            |
-| 4th   | 2  |    +4    | Sorcerous Guard, Painful Boon                    |
+| 3rd   | 1  |    +3    | Attribute Improvement, Sorcerous Guard,          |
+| 4th   | 2  |    +4    | Painful Boon                                     |
 | 5th   | 2  |    +4    | Splash or Specialize                             |
-| 6th   | 2  |    +5    | Attribute Improvement                            |
-| 7th   | 3  |    +6    | Glass Shield                                     |
-| 8th   | 3  |    +7    | Improved Painful Boon, Sorcerai                  |
+| 6th   | 2  |    +5    | Attribute Improvement, Glass Shield              |
+| 7th   | 3  |    +6    | Improved Painful Boon                            |
+| 8th   | 3  |    +7    | Sorcerai                                         |
 | 9th   | 3  |    +8    | Attribute Improvement, Sorcerous Wave            |
 | 10th  | 4  |    +8    | Splash or Specialize                             |
 
@@ -33,21 +33,22 @@ You learn a spell of your choice with a minimum tier of 1.
 ### 2) Intensify Spell
 When you perform a spellcheck, you may take on a level of exhasution to increase the tier of the spell being cast by 1. This does not affect the spellcheck result or points of success. It also does not affect whether or not the spell is a failure, critical failure, success, or a critical success. You cannot cause a spell's tier to exceed your heroism this way. You cannot intensify a spell affected by Cantripancy this way.
 
-### 4) Sorcerous Guard
+### 3) Sorcerous Guard
 When a spell would inflict an attack against you, you may use your reaction to grant yourself a bonus to your defense equal to your [Fort] bonus.
 
 ### 4) Painful Boon
 Anytime you receive a wound, your spell sickness is reduced by 1.
 
-### 7) Glass Shield
+### 6) Glass Shield
 When you are attacked, before the attack is rolled, you may choose to take on 3 or more points of Spell-Sickness. If you do, you gain a bonus to defense equal to the Spell-Sickness gained this way. You cannot do this if your current spell-sickness exceeds your level.
 
-### 8) Improved Painful Boon
+### 7) Improved Painful Boon
 Your Painful Boon now reduces your Spell-Sickness by 2 each time you are wounded.
 
 ### 8) Sorcerai  
 The bonus to spell checks you gain from staves for spells you know is increased by 1.
 You gain a bonus to your saves against magical effects equal to your [Fort] bonus.  
+You may now affect 2nd tier spells with your Cantripancy feature.
 
 ### 9) Sorcerous Wave
 Choose an exotic damage type. Once this decision is made, it cannot be changed. You may use your action to produce a ray attack against a foe within a number of yards equal to your level + [Fort] score. This incurs a level of fatigue aginst you, but inflicts an attack against the foe of the chosen type with a bonus equal to your [Fort] bonus for the purpose of determining if it is a critical hit. If the attack is a critical hit, you may knock that foe back a number of feet equal to the points of success or knock it prone.
