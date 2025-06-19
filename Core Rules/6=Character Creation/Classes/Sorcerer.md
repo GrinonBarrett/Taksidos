@@ -28,7 +28,7 @@ Additionally, when you perform a spell check, you may choose to roll 2d12 instea
 Furthermore, you may apply your [Fort] bonus to your counterspell checks.
 
 ### Spark of Sorcery
-You learn a spell of your choice with a minimum tier of 1.
+You learn a basic spell of your choice with a minimum tier of 1.
 
 ### 2) Intensify Spell
 When you perform a spellcheck, you may take on a level of exhasution to increase the tier of the spell being cast by 1. This does not affect the spellcheck result or points of success. It also does not affect whether or not the spell is a failure, critical failure, success, or a critical success. You cannot cause a spell's tier to exceed your heroism this way. You cannot intensify a spell affected by Cantripancy this way.
