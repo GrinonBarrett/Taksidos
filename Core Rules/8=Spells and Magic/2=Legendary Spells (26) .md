@@ -33,7 +33,7 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
-### Alekora (2
+### Alekora (3
 Right hand to alekard.
 
 #### Alekora's Rebuke
@@ -79,6 +79,53 @@ A critical success with the spell check allows you to increase the rotation to 4
 **At Higher Tiers**: Each tier beyond minimum grants the attacks a +1 for the purpose of inflicting a critical hit.
 
 **Critical Failure**: You throw the orb but it eventually curves too much and returns to you, inflicting an attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as ki, necrotic, and radiant.
+
+### Etislaff (3
+A fiendish creature which seems to be growing a cult to hunt down practitioners of various forms of magic. It grants its followers the ability to read tomes of chosen magics in its own profanely artifical language.
+
+#### Etislaff's Appearing
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 10 + [Magic] bonus yards
+
+**Effect**: You instantly move into physical contact with another creature within range, starting a brawl. You have conjured some vile force with you when you appear- inflicting a necrotic attack against whatver you are brawing with.
+
+**At Higher Tiers**: Each tier beyond minimum sees the range increase by 3 yards.
+
+**Critical Failure**: You are overcome by a paralyzing force instead, making you immobile for a number of rounds equal to the spell's tier.
+
+#### Etislaff's Ray
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 25 yards
+
+**Effect**: You fire a bright blue ray at a foe within range. This inflicts a cold attack against the target. If the attack is a critical hit, it also inflicts a toxic attack.
+
+**At Higher Tiers**: Each tier beyond minimum sees the range increase by 10 yards.
+
+**Critical Failure**: A corrpted force eeks from some part of you and attempts to eat away at your form. This inflicts a necrotic attack against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+#### Etislaff's Shield
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 25 yards
+
+**Effect**: You create a shimmering forcefield at an unoccupied space within range. The shield is 1 yard high and 1 yard wide, with a thickness of 1 inch, and hovers in place. It is destroyed by any attack roll result of 9 + spell tier or greater. When destroyed this way, it explodes- inflicting a necrotic attack against anything within 3 yards. It can also be destroyed by any load whose weight is 10 + 5 times the spell's tier.
+
+This forcefield lasts as long as you concentrate on it or until it is destroyed.
+
+**At Higher Tiers**: For each tier above minimum, in addition to the above noted benefits, you may increase either the height or width by 1 foot.
+
+**Critical Failure**: You seem to produce the shield but it shimmers out of existence almost immediately. You find yourself feeling unwell, becoming vulnerable for a number of rounds equal to the spell's tier.
 
 ### Hencor (3
 A war wizard of some renown in old texts. Little is known about him and the records of his magic are written in military accounts.
@@ -265,7 +312,6 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 **At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus.
 
 **Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will instead receive spell sickness equal to the points of failure.
-
 
 ### Vehemente (3
 Arguably the most intelligent arcanist of his world, he claims to hail from a world opporessed by warring forces of light.
