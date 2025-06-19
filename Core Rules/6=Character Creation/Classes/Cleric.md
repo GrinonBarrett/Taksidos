@@ -22,7 +22,7 @@ Servents to a higher purpose than the simple pursuit of the lay life, clerics ca
 You learn a language of your choice. Additionally, you gain training in two weapons of your choice. You may replace either or both of these with a language of your choice. You learn 2 rites of your choice (see the Liturgy feature below).
 
 ### Inspired Magic
-Your devotion to crux of your being causes you to radiate inspiration. When a spell references your [Magic] score/bonus, you may use your [Empy] score/bonus.  
+Your devotion to the crux of your being causes you to radiate inspiration. When a spell references your [Magic] score/bonus, you may use your [Empy] score/bonus.  
 Furthermore, when performing a counter-spell check, you may add your [Empy] bonus.
 
 ### Liturgy
@@ -43,7 +43,7 @@ Anytime you successfully prevent the casting of a spell through the use of count
 When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
 
 ### 4) Chalogesis
-When you succeed a counterspell check against a creature casting a spell, you may choose to reduce the tier of the spell in place of increasing the casting time by half, if it is cast above minimum tier.
+When you succeed a counterspell check against a creature casting a spell, you may choose to reduce the tier of the spell in place of increasing the casting time by half, if it is cast above minimum tier. You make this decision when you succeed. If it is not cast above minimum tier, itwill apply the standard counterspell check effect.
 
 ### 4) Spectacular Strike
 When you successfully perform a magical attack against a creature which is casting a spell or afflicted by Spell Sickness, it incurs a point of Spell Sickness.
