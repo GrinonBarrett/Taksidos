@@ -82,7 +82,6 @@ When using your Random Piece of Knowledge feature to grant another a +2 bonus, i
 
 #### Splash
 If you splash bard as a member of another class, you gain the following benefits:  
-You gain the Warsong feature.
+You gain the Warsong feature.  
 Your total hitpoints is increased by 1.  
-You gain training in a weapon of your choice.
-Choose one of the following skills (Carousing, Lore, Spellcraft), you gain the selected skill.
+Choose one of the following skills (Carousing, Lore, Spellcraft), you gain the selected skill. Alternatively, you may gain training in a weapon of your choice and learn a language of your choice.
