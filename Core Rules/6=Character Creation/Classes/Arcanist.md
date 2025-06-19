@@ -49,7 +49,7 @@ You do not suffer a point of Spell Sickness as a result of using your reaction f
 You gain a bonus to your saves against magical effects equal to your [Inte] bonus.
 
 ### 7) Arcane Deflection
-If you do not have any arcanae memorized and are subject to an attack from a magical effect, you may use your reaction to grant yourself a bonus to your defense against it equal to your [Inte] bonus. If you do, and the attack is not a critical failure, you accrue a point of Spell Sickness.
+If you do not have any arcanae memorized and are subject to an attack from a magical effect, you may use your reaction to grant yourself a bonus to your defense against it equal to your [Inte] bonus. If you do, and the attack is not a critical failure, you accrue a point of Spell Sickness. You must finish a full rest before doing so again.
 
 ### 8) Prepared Spell  
 When you finish a full rest, choose a spell you know and a tier up to your current [Inte] bonus. You may cast that spell at the selected tier, without having to make a spellcheck. For all intents and purposes, the spellcheck is considered a success and your points of success are equal to your current [Inte] score (which may make it a critical success). Once cast, you must complete a number full rests equal to the tier of spell prepared this way before doing so again. You may only have a single spell prepared this way and cannot prepare a spell at a tier higher than you have cast it already.
