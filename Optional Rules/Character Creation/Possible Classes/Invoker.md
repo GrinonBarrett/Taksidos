@@ -46,13 +46,13 @@ You gain training in two weapons of your choice. You may choose to learn a langu
 Your power and focus has honed to the point that you may have a single greater servile follow you.
 
 ### 7) Greater Dominion
-The powers granted by your dominion
+The powers granted by your dominion have expanded, you gain the greater dominion fatures appropriate to the dominion chosen at level 2.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
 
 #### Specialize
-Your greater servile no longer counts against your conjury.
+Your greater servile no longer counts against your conjury. Additionally, a command explictly for your Greater Servile does not count against your conjury.
 You gain a bonus to all spell checks equal to your [Prcp].
 Your serviles gain a bonus to all saves equal to your [Empy] bonus.
 
