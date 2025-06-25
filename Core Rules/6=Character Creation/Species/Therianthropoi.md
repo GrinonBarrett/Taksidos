@@ -1,5 +1,5 @@
 ## THERIANTHROPOI
-Several species of anthropomorphic animal-like creatures are represented by these stats. Therianthropoi characters get the following features;
+Several species of anthropomorphic animal-like creatures are represented by these stats. Therianthropai. Therianthropoi characters get the following features;
 
 **Creature Type**: Therianthropoi are humanoids.
 
@@ -46,6 +46,6 @@ Several species of anthropomorphic animal-like creatures are represented by thes
 
 **Heightened Senses**: Choose one of the following senses (Vision, Scent, Hearing). Once this decision is made, it cannot be changed. You gain a +3 bonus to [Prcp] checks and saves involving the selected sense.
 
-**Biomechanical Evolution**: Sharing traits of bipedal evolution and quadropedal ancestors, choose one of your modes of movement. It is increased by half a yard. Once this decision is made, t cannot be changed.
+**Biomechanical Evolution**: Sharing traits of bipedal evolution and quadropedal ancestors, choose one of your modes of movement. It is increased by half a yard. Once this decision is made, it cannot be changed.
 
 **Evolved Proficiency**: You suffer a -1 to all checks involving skills you are not proficient in and gain a +1 to all skills you are proficient with.
