@@ -278,7 +278,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (5
+### C (6
 
 #### Call Lightning
 
@@ -347,6 +347,31 @@ If your spellcheck was a critical success, the foe must succeed a [Fort] save or
 **At Higher Tiers**: Each tier beyond minimum increases the square footage by 50 and the range by [Magic] yards.
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
+
+#### Cryoschimurgy
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 action + 3 actions per item
+
+**Range**: 1 yard
+
+**Effect**: You form ice into a number of items within range. These items can be standard non-magical weapons, shields, munitions, or any other item the narrator deems to be reasonable (other than firearms or the string of bows, for obvious reasons). There must be enough total ice in range to produce the items, which will weigh one third the normal weight. These items last a number of half-minutes equal to the tier of the spell, at which point it begins to melt (if warm enough) and misshape. The workings of armor is too complicated for this spell.
+
+A fire attack which would be reasonably assumed to come in contact with such an item will destroy it. Any attack by such an ice weapon which would qualify to damage armor instead breaks the weapon, as does a critical failure. If a shield is made with the ice, used to block, and the incoming attack would qualify to damage armor- the shield is destroyed.
+
+You may use water in place of ice to produce an item, with a single serving being treated as half a pound of material, but this increases the time to forge the item by 1 action.
+
+You may only produce a number of items equal to the tier of the spell, with a critical success increasing this by [Magic] bonus.
+
+**At Higher Tiers**: Each tier beyond minimum allows, in addition to the above noted benefits, one of the following;
+* The casting time is reduced by 1 action.
+* The range is increased by 1 yard.
+* The item last an additional half-minute.
+* You may produce an addtional item.
+
+**Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
+
 
 ### D (8
 
