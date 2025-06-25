@@ -3,7 +3,7 @@ The following special abilities may be used by any combatant unless otherwise no
 
 #### About Face
 Action  
-You rotate up to 180 degrees. If you received a wound, you may about face as a reaction.
+You rotate up to 180 degrees. If an attack against you was successful, you may about face as a reaction.
 
 #### Aim  
 Action  
@@ -37,7 +37,7 @@ If an attack is parried, a critical failure, your weapon is successfully beat, o
 
 #### Counter Attack
 Reaction  
-If a creature attempted an attack against you and it was a critical failure, you peform a melee or thrown attack against them.
+If a creature attempted an attack against you and it was a critical failure, you peform a melee or thrown attack against them if they are within.
 
 #### Counterspell
 Reaction  
@@ -45,7 +45,7 @@ You attempt to counter a spell which specifially targets you or which is being c
 
 #### Dive for Cover
 Reaction  
-In response to potentially being affected by an effect which would affect an area, a character may dive for cover by immediately moving to a position which is within a jump's distance. If they do, they replace any defense/save result with their [Rflx] score if it is higher. They are prone and vulnerable until the end of the next round regardless of which result is used. This cannot be done if already prone. If already vulnerable when doing so, they have a -4 penalty to the [Rflc] score result.
+In response to potentially being affected by an effect which would affect an area, a character may dive for cover by immediately moving to a position which is within a jump's distance. If they do, they replace any defense/save result with their [Rflx] score if it is higher. They are prone and vulnerable until the end of the next round regardless of which result is used. This cannot be done if already prone. If already vulnerable when doing so, they have a -4 penalty to the [Rflx] score result.
 
 #### Dodge
 Reaction  
