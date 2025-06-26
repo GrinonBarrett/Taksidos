@@ -1,4 +1,4 @@
-## THERIANTHROPOI
+## ZERIANZROPOI
 Several species of anthropomorphic animal-like creatures are represented by these stats. The plural is Zerianzropoi. Zerianzropoi characters get the following features;
 
 **Creature Type**: Zerianzropoi are humanoids.
