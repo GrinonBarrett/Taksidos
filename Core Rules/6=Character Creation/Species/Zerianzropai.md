@@ -1,9 +1,9 @@
 ## THERIANTHROPOI
-Several species of anthropomorphic animal-like creatures are represented by these stats. Therianthropai. Therianthropoi characters get the following features;
+Several species of anthropomorphic animal-like creatures are represented by these stats. The plural is Zerianzropoi. Zerianzropoi characters get the following features;
 
-**Creature Type**: Therianthropoi are humanoids.
+**Creature Type**: Zerianzropoi are humanoids.
 
-**Size**: Therianthropoi stand between 4'11" and 6'6" tall. They can weigh between 110-185 pounds. They are medium creatures.
+**Size**: Zerianzropoi stand between 4'11" and 6'6" tall. They can weigh between 110-185 pounds. They are medium creatures.
 
 **Ability Score Modification**: Choose three attributes. Two are increased by 1, the other increased by 2.
 
