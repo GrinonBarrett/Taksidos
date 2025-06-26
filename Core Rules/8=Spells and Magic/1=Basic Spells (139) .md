@@ -508,7 +508,7 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (6
+### E (7
 
 #### Edify
 
@@ -537,6 +537,24 @@ If the spellcheck is a critical success, you may choose to have the bonus grante
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
 **Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
+
+#### Enkefalophagy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 8 minutes
+
+**Range**: 1 yard
+
+**Effect**: You convert a sapiant creature's brain into a fine meal for yourself, or another, to consume. If consumed within a number of minutes equal to the spell's tier, the brain will provide a number of servings of food equal to the former creature's [Inte] score. Additionally, for the next five minutes, a creature that consumes the entire brain gains a bonus to [Inte] equal the [Inte] modifier of the brain's former - up to the tier of this spell.
+
+A brain so affected cannot be reanimated by any means and becomes visible to anything on the psychic plane for a number of miles equal the the brain's [Inte] score minus the number of hours since the spell was cast.
+
+Any creature which consumes even a portion of brain this way will become a Brainseeker when it dies. Additionally, for a number of days equal to the number of servings they consumed, they must peform an incapaciation save at the end of the day.
+
+**At Higher Tiers**: The benefits of higher tiers are noted above.
+
+**Critical Failure**: The brain explodes and disintegrates. You gain instances of Archblight equal the spell's tier.
 
 #### Ertvalder
 
