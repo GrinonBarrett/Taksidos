@@ -1,5 +1,5 @@
 ### Therianthrope
-Typically, a therainthrope comes about as the result of a curse. But there are many causes. Additionally, there are similar forms of curses that can function similarly, such as lycanthropy, but have far more changes to the afflicted creature. A therianthrope's condition is associated with one of a number of creatures. THere is a legend of powerful mages who have managed to willfully attain therianthropy of many beasts, but this path is not recommended for anyone.
+Typically, a therainthrope comes about as the result of a curse. But there are many causes. Additionally, there are similar forms of curses that can function similarly, such as lycanthropy, but have far more changes to the afflicted creature. A therianthrope's condition is associated with one of a number of creatures. There is a legend of powerful mages who have managed to willfully attain therianthropy of many beasts, but this path is not recommended for anyone.
 
 **Multiple Forms**: The creature with this template has a "base" form and a "beast" form. Its base form is its standard form. The beast form is a form which, except where noted here, functions identically to that of the associated creature.
 
