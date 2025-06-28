@@ -1438,7 +1438,7 @@ This ball of energy lasts until the end of the round, or it would qualify to dam
 
 **Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (4
+### P (5
 
 #### Phasic Wave
 
@@ -1467,6 +1467,27 @@ This ball of energy lasts until the end of the round, or it would qualify to dam
 **At Higher Tiers**: If cast as second tier or beyond, you may lock/unlock any number of barres to the door. The spell can undo a magical lock of a spell whose tier is half or less of this spell's. Each tier beyond 1st also doubles the range of the spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier.
+
+#### Probe
+
+**Minimum Tier**: 3
+
+**Casting Time**: 9 actions
+
+**Effect**: You attempt to steal knowledge from another creature with your touch. You impart a single item of learning to the creature. You cannot affect a mindless creature with this. You learn a single piece of knowledge it possess unless it can succeed an opposed [Will] check. A critical failure by the caster on the opposed check will alert the creature to an attempt to pry into its mind.
+
+If your spellcheck was a critical success, you may add your [Magic] bonus to your oppsed check.
+
+A mindless creature is immune to this, but you will learn of its mindless nature and, if the spellcheck was a critical success, learn its current [Will] score.
+
+**At Higher Tiers**: When cast at higher tiers, you may choose one of the following
+* If cast at 4th tier or higher, the casting time is reduced by 1 action per tier beyond minimum (minimum of 1 action).
+* If cast at 4th tier or higher, the spell gains a range in yards equal to the spell's tier.
+* If cast at 4th tier or higher, you instead know what languages the creature speaks/understands. Choose one, you learn that language for a number of minutes equal to the spell's tier. No [Will] check is required for this casting.
+* If cast at 5th tier or higher, you instead know what skills it possesses (and any skill training bonuses it has). Choose one. You possess that skill (and the creature's skill training bonus, if any) for a number of minutes equal to half of the spell's tier. No [Will] check is required for this casting.
+* If cast at 5th tier or higher, you instead know the name of every spell that creature knows unless it succeeds the opposed [Will] save. Choose one of those spells whose tier is less then half of this spell's. For a number of rounds equal to this spell's tier, you can identify the spell as though you knew it and may attempt to cast or counterspell the chosen spell as though you knew it.
+
+**Critical Failure**: You have tipped your hand. The creature is aware of your prying. It knows what you attempted to learn. If you used an alternative function of the spell by casting it at a higher tier, it instead applies the effect against you. Additionally, you are exposed to two psychic attacks. The first attack gains a bonus equal to the spell's tier for the purpose of determining if it is a critical hit. The second gains a bonus equal to the target's [Will] bonus for the purpose of determining if it is a critical hit.
 
 #### Psychilysis
 
