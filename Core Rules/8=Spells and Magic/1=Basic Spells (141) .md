@@ -373,7 +373,27 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 
-### D (8
+### D (9
+
+#### Damper
+
+**Minimum Tier**: 3
+
+**Casting Time**: 9 actions
+
+**Duration**: A number of minutes equal to the spellcheck's points of success + the spell's tier.
+
+**Effect**: You touch a creature, causing a a swirling force to enshroud them. The subject gains a +3 bonus to defense against magical attacks and saves against magical effects. It also suffers a -3 to spell checks and counterspell checks.
+
+If the spellcheck is a critical success, the bonus to saves is increased by your [Magic].
+
+**At Higher Tiers**: When cast at higher tiers, for each tier beyond minimum, you may choose one of the following
+* The duration is increased by 2 hours.
+* The bonus to defense and saves against spells is increased by 1, but so is the penalty to spellchecks and counterspell checks.
+* The penalty to spellchecks and counterspell checks is reduced by 1.
+* Reduce the casting time of the spell by 1 round.
+
+**Critical Failure**: You have surronded yourself in a foggy veil for a moment and receive spellsickness equal to the spell's tier minus 1 and an instance of Archblight.
 
 #### Deathly Foil
 
