@@ -1474,7 +1474,7 @@ This ball of energy lasts until the end of the round, or it would qualify to dam
 
 **Casting Time**: 9 actions
 
-**Effect**: You attempt to steal knowledge from another creature with your touch. You impart a single item of learning to the creature. You cannot affect a mindless creature with this. You learn a single piece of knowledge it possess unless it can succeed an opposed [Will] check. A critical failure by the caster on the opposed check will alert the creature to an attempt to pry into its mind.
+**Effect**: You attempt to steal knowledge from another creature with your touch. You learn a single piece of knowledge it possess unless it can succeed an opposed [Will] check. A critical failure by the caster on the opposed check will alert the creature to an attempt to pry into its mind.
 
 If your spellcheck was a critical success, you may add your [Magic] bonus to your oppsed check.
 
