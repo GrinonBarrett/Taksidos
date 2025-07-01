@@ -182,7 +182,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (6
+### B (7
 
 #### Behest
 
@@ -261,6 +261,22 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: Each tier beyond minimum allows you to either grant the attack a +2 bonus for the purpose of inflicting a critical hit or increase the range by 5 yards.
 
 **Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
+
+#### Bright Reach
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Duration**: A number of minutes equal to the spellcheck's points of success + the spell's tier.
+
+**Effect**: You reach out with your hand (or another appendage) against a foe within range of one of your unarmed attacks. You inflict a radiant attack against that creature. This produces dim light out for 3 yards until the end of the next phase.
+
+If the spell check is a critical success, you may apply this to a weapon attack instead.
+
+**At Higher Tiers**: When cast at higher tiers, the attack gains a +1 bonus for every tier beyond minimum. Additionally, every 3 whole tiers beyond minimum provides a +1 bonus to the attack.
+
+**Critical Failure**: You conjure light in a small flash, disorienting you. You are dazed for a number of minutes equal to the spell's tier. You produce light like a torch until the end of the next phase.
 
 #### Burning Mote
 
