@@ -1343,7 +1343,19 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (3
+### M (4
+
+#### Mindless Command
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: Using a combination of metaphysical forces and a spark of psychic energy, you bestow a mindless creature you touch with a missive or order, which can take the form of a single word, that is accompanied by a gesture.
+
+**At Higher Tiers**: For each tier above minimum, you may increase the range by 5 yards.
+
+**Critical Failure**: You have managed to attract the attention of the creature you sought to command. For a number of days equal to the points of failure, it will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, it gains a bonus to its attacks for the purposes of determing if they are a critical hit and gains a bonus to opposed checks against you, with both bonuses being equal to the spell's tier. Additionally, during this time, it will know the general direction towards you- but not how far exactly.
 
 #### Missiles of Light
 
