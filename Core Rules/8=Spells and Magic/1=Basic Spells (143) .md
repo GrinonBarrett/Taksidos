@@ -182,7 +182,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (7
+### B (8
 
 #### Behest
 
@@ -197,6 +197,20 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
 **Critical Failure**: Your words have no noticable effect and have managed to convince the target of your attempt to bewitch them.
+
+#### Bestride
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to a creature moving by magical means 
+
+**Range**: 10 yards
+
+**Effect**: You manage to hook yourself to the creature within range, appearing in phsyical contact with them at their destination (treat as a brawl).
+
+**At Higher Tiers**: When cast at higher tiers, the range of the spell in yards becomes the spell's becomes the spell's tier squared. Additionally, if you get a critical success with the spell check- the range is further increased by your [Magic] score.
+
+**Critical Failure**: You nearly split yourself intwain. This inflicts a crushing attack against you with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit. Then, you must perform an incapacitation save, even if you are not normally subject to one, but gain a bonus to this save equal to your [Magic] bonus.
 
 #### Blast Lightning
 
