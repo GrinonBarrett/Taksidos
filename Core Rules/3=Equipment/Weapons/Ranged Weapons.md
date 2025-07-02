@@ -51,3 +51,7 @@ Uses repeating bolts as the ammunition.
 
 Repeating Bolt (per 20 bolts), $30, .7 lb.  
 Used for repeating crossbows. Each can be set to hold a dose of venom or poison which it can inflict against a foe on a critical hit or when the attack would qualify for damaging armor (even though it does not damage armor). If foe is unarmored, it can auomatically apply such a toxin upon a successful wound.
+
+**Vihanesulg**, $300, 9.5 lb  
+Crossbow  
+Requires [Body] 14+ to reload. Reloading requires 3 consecutive actions. You may forego your movement during a movement phase to contribute an additional action towards this. Gains a +1 for the purpose of determining a critical hit, which is increased to +2 if in optimal range. Designed to be used with a "Goat's foot", a metal fork costing about $8 which can either allow the user to reload with 1 action fewer or to reload with a [Body] of only 12 or 13.
