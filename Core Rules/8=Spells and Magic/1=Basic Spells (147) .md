@@ -2258,7 +2258,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (8
+### W (9
 
 #### Wall of Denial
 
@@ -2282,6 +2282,22 @@ Something like the Creeping Death spell could move around the barrier if it does
 * Spell also manifests on the psychic plane
 
 **Critical Failure**: You have managed to paralyze yourself in a form fitting forcefield that appears to only affect yourself. You accrue spell sickness equal to half the points of failure. You are immobile for a number of rounds equal to half the points of failure.
+
+#### Wardary
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Duration**: 1 minute
+
+**Effect**:  You create a thin flexible forcefield around a creature you touch which can protect them from harm. The creature's minimum defense against non-melee attacks is equal to 2 + the spell's tier. If the spellcheck is a critical success, the minimum defense is increased by [Magic] bonus
+
+**At Higher Tiers**: When cast at 3rd tier or higher, the spell gains one of the following advantage for each tier beyond minimum
+* The defense minimum defense is increased by 
+* The duration is increased by 1 minute.
+
+**Critical Failure**: The forcefield fails to form properly as pieces of forcefield form around your joints until the field eventually shatter. You are prone for a number of rounds equal to the points of failure.
 
 #### Waterworking
 
