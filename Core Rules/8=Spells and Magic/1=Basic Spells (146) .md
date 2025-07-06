@@ -308,7 +308,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (6
+### C (7
 
 #### Call Lightning
 
@@ -335,6 +335,34 @@ A critical success with the spell check increases the length of the fan by a num
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's mikrofan by 1 yard.
 
 **Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
+
+#### Cloak of Radiance
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Duration**: 3 minutes
+
+**Effect**: You must be completely bathed in sunlight or bright light to cast this spell. You emanate light. You warp light around you to obscure yourself.
+* You are invisible to traditional forms of sight.
+* Dim light is produced around you for 3 yards
+* All light within a number of yards equal to the spell's tier (excluding the above effect) is increased by one level.
+* You cannot be blinded by sources of light.
+* Radiant attacks against you have disadvantage.
+
+In addition, the first attack made against you each round has disadvantage.
+
+Anytime you are successfully attacked, you must perform a counterspell check against a DV equal to the attack total. If you fail, the spell ends. If another magical effect would affect you, roll a d20. If the result is greater than the spell's tier, the spell ends.
+
+If the spellcheck was a critical success, you may concentrate on the spell. While you concentrate on it this way, and until that concentration is broken, the spell is not subjected to the normal limit of its duration.
+
+**At Higher Tiers**: When cast at 4th tier or higher, in addition to the above noted benefit, the spell gains one of the following advantages for each tier beyond minimum
+* The duration is increased by 1 minute.
+* The range of dim light produced is increased by 1.
+* The range of the light amplification is increased by 1.
+
+**Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard betond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
 
 #### Collapse
 
