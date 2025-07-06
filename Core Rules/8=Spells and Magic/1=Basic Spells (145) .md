@@ -403,7 +403,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 
-### D (9
+### D (10
 
 #### Damper
 
@@ -424,6 +424,33 @@ If the spellcheck is a critical success, the bonus to saves is increased by your
 * Reduce the casting time of the spell by 1 round.
 
 **Critical Failure**: You have surronded yourself in a foggy veil for a moment and receive spellsickness equal to the spell's tier minus 1 and an instance of Archblight.
+
+#### Darkveil
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Duration**: 3 minutes
+
+**Effect**: You must be in darkness to cast this spell. You shroud yourself in shadows which attach themselves to you, granting the following benefits so long as you are in dim light or darkness
+* You gain a bonus to the visual difficulty of being detected when attempting stealth equal to the spell's tier.
+* The penalty to your stealth for making noise is reduced by the spell's tier.
+* Footprints and other tracks you make last for only 6 minutes before disappearing.
+
+In addition, the first attack made against you each round has disadvantage.
+
+At the end of any phase you are exposed to bright light, perform a counterspell check (not opposed) with a DV of 12. If you fail, the spell ends.
+
+If the spellcheck was a critical success, you may concentrate on the spell. While you concentrate on it this way, and until that concentration is broken, the spell is not subjected to the normal limit of its duration.
+
+**At Higher Tiers**: When cast at 4th tier or higher, the spell gains one of the following advantages for each tier beyond minimum
+* The duration is increased by 1.
+* The bonus to difficulty in visual detection is increased by 1.
+* The reduction in noise penalty is increased by 1.
+* The time your tracks last is reduced by 1 minute (hypothetically, a tier 9 spell instantly undoes your tracks).
+
+**Critical Failure**: The shadows wrap around you and constrict you. You are prone so long as there is any light, have disadvantage on counterspell checks, suffer a penalty to visual stealth equal to the spell's tier so long as you are not in darkness, and radiant attacks have advantage against you. This lasts for a number of minutes equal to the points of failure multiplied by the spell's tier.
 
 #### Deathly Foil
 
