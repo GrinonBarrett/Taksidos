@@ -939,7 +939,23 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (5
+### G (6
+
+#### Glacial Brand
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 5 yards
+
+**Duration**: 1 minute
+
+**Effect**:  You bind a frostbitten rune onto a creature you can perceive with range. Anytime the creature moves, it is subject to a cold attack. If the attack would qualify to damage armor, it instead halves the creature's speed until the end of the next round.
+
+**At Higher Tiers**: When cast at 5th tier or higher, the range increases by 5 yards per tier beyond minimum.
+
+**Critical Failure**: The brand forms on you instead and lasts for a total of 5 rounds per spell tier.
 
 #### Glitter
 
