@@ -2024,7 +2024,7 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (5
+### T (6
 
 #### Telekinesis 
 
@@ -2088,6 +2088,28 @@ THe caster may affect an additional creature through touch. The total time passe
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 5 yards (including the range for redirection) and the biting attack gains a +1 bonus for the purpose of determining if it is a critical hit.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a piercing attack. You are prone during this time.
+
+#### Threads of the Stars
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Range**: 15 yards
+
+**Duration**: 4 minutes
+
+**Effect**:  You cast threads which bind a foe, also reaching into the ethereal plane around a creature. It is prone. Anytime it attempts to perform an action, it is subject to a radiant attack. In place of a wound, it simply prevents the movement/action. In place of the traditional critical hit effect, it inflicts a point of spell sickness against the creature. A creature may spend their action attempting to break free from the threads by performing either a [Body] check or [Will] check against a DV equal to the spell check's points of success + spell's tier + caster's [Magic] bonus + caster's [Will] bonus.
+
+A critical success with this spell allows you to bind a number of creatures this way, so long as each additional creature is within a number of feet equal to the points of success from the original target. The duration is divided by the number of creatures bound this way.
+
+This spell is capable of binding ephemera. Undead, Fiends, and Ephemera have disadvantage on checks to break free from this binding.
+
+**At Higher Tiers**: When cast at 5th tier or higher, you may choose one of the following
+* The range is increased by 15 yards.
+* The duration is increased by 1 minute.
+
+**Critical Failure**: You conjure the threads, but find them warp around you instead. If you do not break free before the duration ends- you are spirited away to another plane of existence by the threads.
 
 #### Thwanething
 
