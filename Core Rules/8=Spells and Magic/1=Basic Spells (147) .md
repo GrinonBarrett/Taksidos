@@ -2285,19 +2285,19 @@ Something like the Creeping Death spell could move around the barrier if it does
 
 #### Wardary
 
-**Minimum Tier**: 1
+**Minimum Tier**: 2
 
 **Casting Time**: 4 actions
 
 **Duration**: 1 minute
 
-**Effect**:  You create a thin flexible forcefield around a creature you touch which can protect them from harm. The creature's minimum defense against non-melee attacks is equal to 2 + the spell's tier. If the spellcheck is a critical success, the minimum defense is increased by [Magic] bonus
+**Effect**:  You create a thin flexible forcefield around a creature you touch which can protect them from harm. The creature's minimum defense against non-melee attacks is equal to 2 + the spell's tier. A critical hit against the subject will dismiss the protection. If the spellcheck is a critical success, the minimum defense is increased by [Magic] bonus.
 
 **At Higher Tiers**: When cast at 3rd tier or higher, the spell gains one of the following advantage for each tier beyond minimum
-* The defense minimum defense is increased by 
+* The minimum defense is increased by 1.
 * The duration is increased by 1 minute.
 
-**Critical Failure**: The forcefield fails to form properly as pieces of forcefield form around your joints until the field eventually shatter. You are prone for a number of rounds equal to the points of failure.
+**Critical Failure**: The forcefield fails to form properly as pieces of forcefield form around your joints until the field eventually shatter. You are prone for a number of rounds equal to the points of failure and receive 1d4 spell sickness.
 
 #### Waterworking
 
