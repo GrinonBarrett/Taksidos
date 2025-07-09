@@ -82,6 +82,10 @@ Neg.
 A fine ring with a twisting pattern engraved.  
 *The ring can store a maximum of 1d4+2 charges. Anytime the wearer is damaged by an Acid, Cold, Electric, Fire, or Sonic attack, the ring gets a charge of that type. A charge may be expended as an action to fire a ray, like that of a wand, of the charge's type*.
 
+**Ring of Greatness**, $7,800  
+Neg.  
+This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attibute of its wearer by 1.
+
 **Ring of Lorylean**, $50,000  
 Unique.  
 Neg.  
