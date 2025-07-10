@@ -1160,7 +1160,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (6
+### I (7
 
 #### Icebreaker
 
@@ -1205,6 +1205,20 @@ Any item touched by this is considered magical for all intents and purposes. It 
 **At Higher Tiers**: For each tier beyond minimum, you may either halve the casting time or increase the duration by 1 hour. Alternatively, if you cast it at least 3 tiers beyond minimum- you may treat it as an enchanted weapon/armor (as appropriate) of a variety of your choice. If you do, the duration of the spell is measured in minutes and not hours.
 
 **Critical Failure**: You accidentally curse the item in some way. You possess the same curse as the magic item. This curse lasts for a number of days equal to the spell's tier.
+
+#### Infuse
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Effect**:  You touch a quantity of water or some other relatively harmless liquid to enhance it with some magical function. This is up to a number of servings equal to the spell's tier. Choose an exotic damage type. For a number of rounds equal to the points of success multiplied by the spell's tier, if the liquid is splashed on a creature, it can inflict an attack of the chosen type. The attack does not inflict a wound if successful, but will inflict the effect of a critical hit. The attack gains a bonus equal to the spell's tier if hurled at a foe as an action. A whole serving is required to inflict such an attack.
+
+An ingested quantity always treats the foe's defense as being equal to its [Fort] score. A critical failure this way alerts the imbiber to its potential nature.
+
+**At Higher Tiers**: The benefits are noted above.
+
+**Critical Failure**: You create an unstable reaction, instead inflict an attack of the chosen type against yourself with a bonus equal to the spell's tier for the purpose of determining a critical hit.
 
 #### Insol
 
