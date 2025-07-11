@@ -2242,7 +2242,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Casting Time**: 5 actions
 
-**Range**: 5 + [Magic] bonus minutes
+**Duration**: 5 + [Magic] bonus minutes
 
 **Effect**: You touch a reflective surface, granting it the ability to display magical effects which appear as reflections in the surface. If that reflective surface functions as an eye or other sensory item, and the spell check is a critical success, the eye/item can directly see magical effects as well.
 
