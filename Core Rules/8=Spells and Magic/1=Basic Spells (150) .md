@@ -1310,7 +1310,29 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (1
+### J (2
+
+#### Jaunt Macabre
+
+**Minimum Tier**: 2
+
+**Casting Time**: 9 actions
+
+**Range**: 2 yards
+
+**Effect**:  You think of a corpse or place in your mind while targeting a corpse within range. You may enter the targeted corpse as a means of teleportation to the imagined corpse or a corpse in the imagined area. Both corpses explode and are defiled as a result of you burst through magically. Alternatively, you may allow another creature to travel through the corpse. A corpse must be of the same creature size or larger than a transported creature for the spell to function properly. If multiple creatures are to be transported through a single corpse, the effective size category of a creature entering is increased by the number of creatures which previously entered the corpse.
+
+A corpse must be entered by the end of the next phase or it will not transport the creature. If such transportation is not valid, the spell failes and you rceive a point of spell sickness.
+
+If the spellcheck is a critical success, you may have an explosion escape from the destination corpse. This will inflict either a cutting, necrotic, or piercing attack (your choice) to anything within 1 yard (other than the creatures transprted by the spell) per size category.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose one of the following
+* The range is increased by 1 yard.
+* The casting time is reduced by 1.
+* The explosion cause by a critical success may be increased by an additional yard per size category and the attacks gain a +1 for the purpose of inflicting a critical hit.
+* You may affect an additional corpse to allow an additional crreature to transport. They may exit through the same corpse or a different corpse.
+
+**Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of thise attacks is successful against you, the following attacks each get an instance of advantage.
 
 #### Jinx
 
