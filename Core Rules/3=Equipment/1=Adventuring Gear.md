@@ -90,6 +90,22 @@ Holds about 50 pounds of gear.
 **Lighting Paper, $68, Neg.**  
 An alchemically treated paper which can create sparks if something firm is rubbed across it quickly. Combined with Tinder Slivers it produces instant fire. Wears out after about 50 such slivers, though larger forms of tinder may wear it out faster.
 
+#### Mechanical Tools
+Mechanical tools are used to inspect, operate, disable, sabpotage, and occasionally repair various forms of mechanisms. They can also be used for burglery. They come in a variety of sizes. A good burgler has the rights tolls for their task. A bad burgler gets caught improvising.  
+Custom tools can grant a +1 bonus to checks involving locks if used by a creature of the appropriate size, but this doubles the price. Fine tolls can only be custom made to diminutive, small, or medium creatures. Standard tools may only be custom made to smal,, medium, or large creatures. Large tools may only be made custom for large creatures, and exotic tools may only be made custom for creatures of the appropriate size.
+
+  **• Fine, $350, 1.25 lb.**  
+Used to operate mechanisms with very fine pieces such as household clocks, small gadgets, and the locks of chests and doors for diminutive or small creatures. These are usually of higher quality materiial than standard sized mechanical tools.
+
+  **• Large, $350, 4.5 lb.**  
+Used to operate some some sieage craft or gate mechanisms for small or medium creatures and to deal with chests and doors for large creatures.
+
+  **• Standard, $250, 3 lb.**  
+Used to operate some simple mechanical traps, levers, open chests for small and medium creatures, and open doors for small and medium creatures.
+
+  **• Exotic, $365, 4.8 lb.**  
+For tools intended beyond the size of large creatures/devices, one simply needs to double the weight and value for each size category beyond Large to determine what the weight and cost of larger toolsets would be.
+
 **Minor’s Spike, $44, 1.75 lb.**  
 A metal spike which features a round butt for a handle, a cup to place a candle, and a hook to the side. Also known as a Sticking Tommy.
 
@@ -103,6 +119,7 @@ A simple pottery lamp with a wick. It can be held or set upon a flat surface. It
 An improvement over the lamp. The lantern is not snuffed as easily by a mere breeze. It provides fair light for 2 yards and dim light for 8 yards beyond that.
 
 #### Pillows
+A little something to rest yout head on.
 
   **• Cheapo-pillow, $5, 1.5 lb.**  
 Filled with straw, this pillow is good enough for any road kit.
