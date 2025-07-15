@@ -11,6 +11,9 @@ A god of life, death, and vengeance. He is one of the the quadrons of the afterl
 #### Tamas
 A god of death, law, and community. He is one of the quadrons of the afterlife. His role is to ensure that righteous rulers (and even leaders of a lesser position) have a comfortable afterlife and that inscrupulous rulers suffer until dark of a night devoid of drawn breath. He is a common patron for aristocrats and clergy.
 
+#### Zyclod
+A god of war, leadership, and adventurers. Zyclod leads heroes and gods alike to action. His javelin is the lightning in the storm and his shield, made of silver clouds, crashes with thunfer when struck. Every storm is zyclod in battle. His most important duty is to do battle with creatures that withhold the rain in clouds, so that the soil may be nourished.
+
 -----
 
 ## Lithenic
