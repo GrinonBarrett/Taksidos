@@ -39,7 +39,7 @@ If you are successfully wounded by a creature you can perceive while vulnerable,
 When you fail a save against a fear effect, but not critically fail, you may use your action to into Panicked Frenzy. This frenzy funtions identically to your battlerage trance, but is not cumulative with it. If you are already in your battlerage trance, it is replaced by the panicked frenzy (thus you are not afflicted by the battlerage trance ending). Any features which benefit your battlerage trance also affect your panicked frenzy. This frenzy lasts as long as you are affected by the fear.
 
 ### 3) Shout
-You may use your reaction to produce a shout which affects any number of creatures you can perceive within 3 yards. Those creatures get a -1 penalty to the next d20 they roll before the end of the next round.
+You may use your reaction to produce a shout which affects any number of creatures you can perceive within 3 yards. Those creatures get a -2 penalty to the next d20 they roll before the end of the next round.
 
 ### 4) Bash
 If you Press Attack to the first attack you make in the round, you gain a bonus to your attack based on the type of attack:  
@@ -58,7 +58,7 @@ The first time you inflict a critical hit against a foe in a round, you may perf
 Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
 
 ### 7) Warcry
-Once per encounter, you may use your reaction to grant any number of other creatures you can perceive a +1 to their next attack roll before the end of the next round. They also gain a +1 to defense against the next attack made against them during this time.
+Once per encounter, you may use your reaction to grant any number of other creatures you can perceive a +2 to their next attack roll before the end of the next round. They also gain a +2 to defense against the next attack made against them during this time.
 
 ### 8) Barbarity
 Your [Body] and [Fort] each improve by 1. Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
