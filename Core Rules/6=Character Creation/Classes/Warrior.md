@@ -27,8 +27,8 @@ Additionally, choose [Body], [Rflx], or [Fort]. It is improved by 1. Once chosen
 ### Pacing
 At the beginning of any encounter, you may choose one of the following:
 
-* **Haste**. You gain a +1 to attacks against foes with a later turn order than yourself.
-* **Patience**. You gain a +1 to defense against foes with an earlier turn order than yourself.
+* **Haste**. You gain a +1 to attacks and opposed checks against foes with a later turn order than yourself.
+* **Patience**. You gain a +1 to defense and opposed checks against foes with an earlier turn order than yourself.
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat or until you take an action (whichever occurs later).
 
 ### Shield Proficiency
