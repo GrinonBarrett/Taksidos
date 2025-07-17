@@ -14,7 +14,8 @@ A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to s
 
 **Amulet of Vitality**, $3,860  
 Neg.  
-A charm made of one of several materials (bone, stone, copper, brass, silver, hadrium, or gold) which displays some sigils or runes to aide the wearer. *The wearer gains a +1 bonus to incapacitation saves and saves against diseases, poisons, or venom*. Some of them might be made of far nicer material, and cost more as a result.
+A charm made of one of several materials (bone, stone, copper, brass, silver, hadrium, or gold) which displays some sigils or runes to aide the wearer. Some of them might be made of far nicer material, and cost more as a result.  
+*The wearer gains a +1 bonus to incapacitation saves and saves against diseases, poisons, or venom*.
 
 **Anticaste**, $14,000  
 Unique.  
@@ -34,7 +35,7 @@ A lantern designed for use by a subterranean people. It has two loops for handle
 **Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
-A broad gold band which makes the most pleasent resonaating sound when struck by a wand.  
+A broad gold band which makes the most pleasent resonating sound when struck by a wand.  
 *Wearer gains a +2 to all attacks made with wands in the same hand as the ring for the purpose of inflicting a critical hit*.
 
 **False Torch**, $20,000  
@@ -124,6 +125,14 @@ A ring of some various material. *It always seems to fit. It provides protection
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
+
+**Wonderous Indices**, $70,000  
+Unique.  
+10 lbs.  
+A large tome which contains within its near limitless pages a great deal of knowledge on many topics. Anytime a reader gazes within for the first time, *their name is written in the index which prefices its contents and a chapter which only they can read begins to fill in the book*. The index which precedes all other contents already has several names stained upon it as follows (Tinto, Perin Arneson, Jinora, Rezerick of Eldfas, Merzhin Wyxt, Vehemente of the Lost Light).  
+If consulted while making a Alchemy, Lore, Masonry, or Spellcraft- it provides a +1 bonus to the check *or a +2 bonus if so desired*. Additionally, the chapter which is borne from the reader's gazing into the book holds proper material to learn a basic spell at its base level. The spell is determined when the character first studies the tome and will always appear the same.
+
+###### As a narrator, feel free to add names to this book.
 
 **Yoni's Promise**, $5,000  
 Unique.  
