@@ -12,6 +12,10 @@ Unique.
 Neg.  
 A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
 
+**Amulet of Vitality**, $3,860  
+Neg.  
+A charm made of one of several materials (bone, stone, copper, brass, silver, hadrium, or gold) which displays some sigils or runes to aide the wearer. *The wearer gains a +1 bonus to incapacitation saves and saves against diseases, poisons, or venom*. Some of them might be made of far nicer material, and cost more as a result.
+
 **Anticaste**, $14,000  
 Unique.  
 Neg.  
@@ -102,7 +106,7 @@ When the user's attack against a foe is successful, including the attack of a sp
 * Impose 1 yard of knockback against the foe.
 * Impose knockback against the foe a number of feet equal to the points of success of that attack.
 
-*Once an option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
+*Once a particular option has been used, the wearer must perform a long rest while maintaining possession of the ring to do so again. Only one such feature is recovered per long rest*.
 
 **Ring of Resistance**, $8,500  
 Neg.  
