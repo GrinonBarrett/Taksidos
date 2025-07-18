@@ -72,6 +72,12 @@ A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When o
 Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and difficulty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softest fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
 So long as it is being handled by a creature which is not affected by synnefopathy, it loses 1d4 points of strength per minute of handling. It also loses 1d6 points of strength for every minutes spent submerged or buried.
 
+**Periapt of Propulsion**, $10,000
+1 lb.  
+A simpler metal amulet. It has minimal adornment.  
+*The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result
+
+
 **Ring of Arcane Charge**, $20,000
 Neg.  
 A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
