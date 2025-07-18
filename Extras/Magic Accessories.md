@@ -75,7 +75,7 @@ So long as it is being handled by a creature which is not affected by synnefopat
 **Periapt of Propulsion**, $10,000
 1 lb.  
 A simpler metal amulet. It has minimal adornment.  
-*The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result
+*The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result*.
 
 
 **Ring of Arcane Charge**, $20,000
