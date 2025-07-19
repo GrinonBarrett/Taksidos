@@ -130,3 +130,6 @@ A properly couched lance gains a bonus to the attack roll equal to once third of
 When the lance would damage a foe's armor or the attack roll result is within 1 point of the exact number rquired to hit or inflict a critical hit while couched, there is a 60% chance the lance breaks.
 
 Sprinting and reactions do not count against your actions for this purpose.
+
+#### Attacks Against Attributes
+Very rarely, an effect will be stated as an attack against an attribute. In these instancces, the defense of the creature is not its tradtional innate/armored defense, but their attribute score. If an attack against an attibute is a d20 result of 20- it automatically succeeds. Because the type of attack deson't change, bonuses (or penalties) based on damage type or as a result of conditions (such as being Vulnerable) still apply.
