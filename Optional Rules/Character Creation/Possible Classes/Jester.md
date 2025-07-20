@@ -75,7 +75,7 @@ Anytime you perform a shenannigan, you may increase or reduce the spell-sickness
 
 ### 8) Ungovernable
 When performing a save, in place of rolling 3d6, you may simply use the appropriate attribute score. You must complete a full rest before doing so again. You may expend buffoonery to do so again between full rests.  
-If you did not expens buffonery to do this and your save is a critical success or critical failure, you recover a point of heroism used to pay for buffoonery.
+If you did not expend buffonery to do this and your save is a critical success or critical failure, you recover a point of heroism used to pay for buffoonery.
 
 ### 9) Encore
 When you perform a reaction, you may expend buffoonery to be braced for the same type of reaction.
