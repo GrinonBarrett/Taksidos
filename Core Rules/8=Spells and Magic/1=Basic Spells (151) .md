@@ -1160,7 +1160,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (7
+### I (8
 
 #### Icebreaker
 
@@ -1189,6 +1189,23 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
 
 **Critical Failure**: You gain 1d4-1 points of spell sickness and appear ill so long as you have spell sickness.
+
+#### Inspoil
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Effect**:  You touch an amount of food or water, spoiling it of any nutrition or benefit. You affect a total number of servings equal to the spell's level. Food/water affected by this spell cannot contribute to any creature which consumes it. Anyone partaking of this will find the taste insufferable.
+
+A critical success allows the caster to retain the taste.
+
+**At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, the caster may choose one  
+* The spell may reach out 1 yard to affect food/water.
+* The casting time is reduced by 1 action (to a minimum of 1 action).
+* You may affect an additional serving of food/water.
+
+**Critical Failure**: You gain 1d2 points of spell sickness. Additionally, so long as you still have spell sickness, you suffer a penalty to all [Fort] saves equal to the spell's tier.
 
 #### Imbue
 
