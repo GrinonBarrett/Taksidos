@@ -1820,6 +1820,22 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **Critical Failure**: You direct the ray towards yourself, granting it a bonus to its attack roll equal to this spell's tier.
 
+#### Resilireism
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to a successful exotic attack against you
+
+**Effect**: You produce a form of energy appropriate to that damage type, drawn from the residual energy of the attack, shaped into a melee weapon of your choice so long as its weight does not exceed 3 pounds. The weapon functions as normal, except the attack type inflicted is that of the original attack's damage type. The weapon can parry attacks of the same exotic type.
+
+The weapon exists for a number of rounds equal to the points of success with the spellcheck. Another creature attempting to handle the weapon has an attack of its energy type inflicted upon them with disadvantage.
+
+A critical success allows you to create a thrown weapon or piece of munition instead.
+
+**At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
+
+**Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+
 #### Rotword
 
 **Minimum Tier**: 1
