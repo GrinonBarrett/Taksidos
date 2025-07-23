@@ -1,0 +1,1 @@
+In order to effectively use a melee weapon, you must have half again the space of its maximum reach to use the weapon effectively. Without this extra space for movement, your attacks have disadvantage. This space can exist in any direction as long as one could utilize it to swing their weapon.
