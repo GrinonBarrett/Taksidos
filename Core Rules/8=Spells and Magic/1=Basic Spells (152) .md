@@ -431,7 +431,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 
-### D (10
+### D (11
 
 #### Damper
 
@@ -537,6 +537,41 @@ You cannot be affected by another's Deep Chant of lower level while reciting you
 **At Higher Tiers**: Each tier beyond the original extends the range by 1 yard.
 
 **Critical Failure**: Your words are instead shrill and crackled as you strain your voice. Yourself and every creature within a number of yards equal to the spell's tier suffer a sonic attack. The attack has advantage against you and disadvantage against each other creature. Your voice will sound weak until your spell-sickness has recovered.
+
+#### Defiling Detonation
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 2 yards
+
+**Effect**:  You cause the latent gases and magical forces inside a corpse within range to explode. The size of the explosion depends on the size of the creature's corpse. Anything within the radius of the explosion is subject to a necrotic attack. Additionally, you may direct a single additional attack of one of the following types (Cutting, Piercing, Toxic) against a single creature within the explosion or within a number of yards of the explosion equal to the spell's tier.
+
+A critical success allows you to grant up to a total number of points of defense bonus to creatures within the radius of the explosion equal to the points of success as you see fit.
+
+You may only cast this on a medium or smaller corpse.
+
+Size = Explosion  
+**I**nsurmountable (1 mile)  
+**J**ormungous (700 yards)  
+**T**itanous (250 yards)  
+**B**ig (5d20+100 yards)  
+**H**uge (1d20+30 yards)  
+**G**reat (1d4+9 yards)  
+**L**arge (3 yards)  
+**M**edium (1 yard)  
+**S**mall (.5 yard)  
+**D**iminutive (.75 feet)
+
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose one of the following
+* The range is increased by 1.5 yards.
+* The casting time is reduced by 1 action, to a minimum of 1 action.
+* You may detonate a corpse 1 size category larger.
+* You may inflict 2 additional cutting/piercing/toxic attacks. Each additional pair of attacks this way requires a size category larger than medium corpse be used.
+
+**Critical Failure**: Your body nearly tears apart. Inflict a number of unlisted damage attacks against yourself equal to the spell's tier. If you die as a result, the spell occurs as though you had successfully cast it upon your own corpse. 
 
 #### Deject 
 
