@@ -22,6 +22,9 @@ Ovular and well made. Though the sling is capable of using most stones as ammuni
 **Tronutonante Bullet** (per 10 shots), $64, .3 lb.  
 Can be fired through an arquebus or musket, but ranges are halved and a -4 penalty is applied.
 
+**Burning Belch** (per 5 shots), $83, .1 lb.  
+Shot which can be put in an arquebus, musket, or tronutonante. It does not contain a proper bullet, but a formula of combustible powder and burning pellets which cause the weapon to instead inflict a fire attack against a single foe within 3 yards and a fire attack against anything within a .5 yard mikrofan. It will sound like a gunshot and will give a bright flash with little smoke. Has a chance to misfire in damp environments. Reloading time is reduced to 1/4 time.
+
 ### MAGICAL AMMUNITION
 Given the scarity of magic items, let alone magic weapons, and how little it takes to make ammunition rather than a whole weapon, magic ammunition is more common than magic ranged weapons.
 
