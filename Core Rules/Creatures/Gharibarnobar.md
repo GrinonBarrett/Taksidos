@@ -98,3 +98,5 @@ A hare-like things that eat mages. Fey cannot attack it in any way and vice vers
 **Rake**: As a reaction, if the gharibarnobar successfully grapples a creature of equal size or no more than 1 size category larger or smaller, it can use its rear claws to inflict a cutting attack each. If it is grappling a creature within those size limits, it may also perform those claw attacks as a single action without penalty for multiple attacks or brawling with the foe.
 
 **Gharibarnobar Venom**: If the gharibarnobar's gnaw attack would qualify to damage armor, it instead injects venom into the foe. The struck creature must succeed a [Fort] save with a DV equal to the attack's total or find themselves afflicted by Archblight and gain a point of spellsickness.
+
+**Gharibarnobar Horns**: A Gharibarnobar can parry one-handed melee weapon attacks because of its horns so long as it did not use its Impalement feature this round.
