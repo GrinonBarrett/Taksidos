@@ -59,9 +59,9 @@ Vaguely hand shaped forcefield which is directed by the will of some mage.
  • Are immune to diseases, poisons and venom including toxic damage.  
  • Are not affected by spells which would affect flesh or physically manipulate them.    
  • Cannot be healed.  
- • Have advantage on saves against effects which would grapple, restrain, or make them prone.
- • Cease to exist upon entering an area that supresses magic.
- • Is destroyed if an attack is successful against it while it has no remaining hitpoints.
+ • Have advantage on saves against effects which would grapple, restrain, or make them prone.  
+ • Cease to exist upon entering an area that supresses magic.  
+ • Is destroyed if an attack is successful against it while it has no remaining hitpoints.  
  • Is not automatically destroyed by a disimpress spell if it has any remaining hitpoints, but does lose hitpoints equal to the tier of that spell instead.
 
 **Forceful Strike**: Anytime the artificicheir's unarmed attack is a critical hit, it may shove that creature.
