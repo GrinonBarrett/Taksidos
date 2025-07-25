@@ -308,7 +308,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (7
+### C (8
 
 #### Call Lightning
 
@@ -405,6 +405,26 @@ If your spellcheck was a critical success, the foe must succeed a [Fort] save or
 **At Higher Tiers**: Each tier beyond minimum increases the square footage by 50 and the range by [Magic] yards.
 
 **Critical Failure**: You instead create an area of fog centered on you which extends out a number of feet from you equal to the spell tier. You are subject to the attacks of the spell so long as it is active and suffer a penalty to your defense against it equal to the spell tier. This lasts for a number of rounds equal to the points of failure.
+
+#### Crown of Darkness
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 Actions
+
+**Range**: 5 yards
+
+**Duration**: 5 minutes
+
+**Effect**: You inflict an undamaging attack against a creature within range. If successful, it finds an obsidian crown bind to its head (or some similar portion of its body). A magical osbcuremnt exhudes from the creature a number of feet equal to the spell's tier. This blocks even forms of vision which do not really on light. Visions based on magic is also obscured, as the whole of this darkness is a magical material. As an action, the creature to which the crown is affixed may project out a cone of this darkness whose length is equal to the spell's tier in yards. The obscurement provided by the cones lasts until the end of the next round.
+
+A creature adorned with the crown may attempt a [Will] check with a DV of 10 + the spell's tier as an action to peer through the obscurement until the end of the round. If the check is a critical success, they may remove the crown- dispelling the magic entirely.
+
+A creature may opt to grant the spell's attack against them advantage if they can perceive it. You may choose to affect yourself without an attack roll.
+
+**At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may opt to increase the range by 3 yards or the duration by 5 minutes.
+
+**Critical Failure**: The crown binds to you regardless of your target. Additionally, so long as you have spell sickness, you are Blind and have a penalty to [Prcp] checks and saves equal to the spell's tier.
 
 #### Cryoschimurgy
 
