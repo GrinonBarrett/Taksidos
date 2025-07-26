@@ -16,6 +16,8 @@ If a creature with a Wound Table has no options remaining on the table, and rece
 Anytime a creature with no remaining hitpoints is incapacitated, it takes on a level of fatigue. A creature with points of undeath is not affected by this. 
 
 ***Community Spotlight Note***
-###### To help give some context for this, there is no "points of damage" in this system. Either an attack is successful enough to harm (and thus wound) or it is not. Because the DV (difficulty) value of the save is based on the total wounds accrued, a characterr with 3 maximum hitpoints taking a fourth wound must make their save at the same difficulty as a character with 1 maximum hitpoint. This allows player characters to have an idea of how many hits they can safely take in combat, and choose how much risk they want to take on in longer engagements. In the end though, death is always a possibility regardless of character level.
+###### To help give some context for this, there is no "points of damage" in this system. Either an attack is successful enough to harm (and thus wound) or it is not. Because the DV (difficulty) value of the save is based on the total wounds accrued, a character with 3 maximum hitpoints taking a fourth wound must make their save at the same difficulty as a character with 1 maximum hitpoint. This allows player characters to have an idea of how many hits they can safely take in combat, and choose how much risk they want to take on in longer engagements. In the end though, death is always a possibility regardless of character level.
 
 ###### Characters can accrue hitpoints as they grow, but this is very limited. Most begining characters getting only 1 or 2 and the high end is between 4-6 depending on the build.
+
+###### For math context, most incapcitation checks are liekly to be 3d6 with a +3 or +4, leading to an average of 14. Critical failure is a result of half or less of the DV and a critical succes must be more than half again of the DV.
