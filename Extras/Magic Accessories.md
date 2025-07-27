@@ -12,6 +12,10 @@ Unique.
 Neg.  
 A gold ring with the name "Aesadov" inscribed in the band. *Allows the wear to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
 
+**Amulet of Near-Invulnerability**, $6,000  
+.5 lb.  
+A gaudy charm to be displayed from the wearer's breast. *The amount of additional wounds required to kill the wearer through massive damage is doubled. The wearer also gains a +2 to all saves against magical effects that would kill them, including incapicitation saves from such sources*.
+
 **Amulet of Vitality**, $3,860  
 Neg.  
 A charm made of one of several materials (bone, stone, copper, brass, silver, hadrium, or gold) which displays some sigils or runes to aide the wearer. Some of them might be made of far nicer material, and cost more as a result.  
@@ -48,7 +52,12 @@ A silver ring with a small pink topaz nested in its clutch.
 Unique  
 Neg.  
 Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
-*For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer us of great size, during the first round of any combat, the user's defense is increased by 1*.
+*For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer is of great size, during the first round of any combat, the user's defense is increased by 1*.
+
+**Imploding Band**, $23,000  
+Wunique  
+Neg.  
+The caster is capable of casting the *implosion* spell as though they knew it. When doing so, they roll a d8. If the result is odd, its a bonus. If even, its a penalty.
 
 **The Iron Band**, $75,000  
 Unique  
