@@ -59,7 +59,7 @@ Longsword
 A curved sword intended for use on horseback. It is made of altyprium, and suffers the associated brittleness.  
 You may wield this sword with two hands. When used while moving at more then double the foe's speed, you gain a +3 bonus for the purpose of inflicting a critical hit.
 
-**Patta**, $150, 2.75 lb  
+**Patta**, $170, 2.75 lb  
 Katar  
 Used by the Kagaladine military as an anti-cavalry weapon, its use is rather uncommon.  
 Range is increased to unarmed attack range + 2 feet. Inflicts attacks as a longsword.
