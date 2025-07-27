@@ -174,7 +174,12 @@ A yew bow which features silver dust in the grain and brass accents. It can be p
 **Lomisterre** (*unique*)  
 $7,250 , 4 lbs.  
 Spear  
-This spear exists simultaneously on the ethereal plane. *If name is known, it can be used to inflict a psychic attack. When used this way, it can affect creatures on the psychic plane as though it existed on that plane as well*. If the user has weapon mastery with spears, they gain a +1 bonus for the purpose of determining if an attack is a critical hit.
+This spear exists simultaneously on the ethereal plane. *If name is known, it can be used to inflict a psychic attack instead of its normal attack. When used this way, it can affect creatures on the psychic plane as though it existed on that plane as well*. If the user has weapon mastery with spears, they gain a +1 bonus for the purpose of determining if an attack is a critical hit.
+
+**Long Breath** (*unique*)  
+$2,000 , 5.5 lbs.  
+Spear  
+This spear was used by Jiem, to slay the sorcerer Grelald in the same battle that claimed his life. If Jiem is laid to rest properly, his sacrifice will enhance this spear. Against a foe with greater spell sickness than the user, *the attack gets a +2 bonus for the purpose of determining a critical hit*.
 
 **Maladictor** (*unique*)  
 $90,780 , 5.5 lbs.  
