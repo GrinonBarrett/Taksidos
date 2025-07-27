@@ -65,6 +65,11 @@ Cost to repair is $70 per point.
 A simple breast plate that covers the torso, protecting most vital organs. It also includes some padding and a cloth jacket to complement the protection.  
 Cost to repair is $90 per point.
 
+**Etridarum**, $4,000, 27 lb.  
+1/3  
+A simple suit of plates and maile which is designed to conform to the Etrid body specifically. This design is a recent innovation by the Meolasine Empire. It also includes some padding and a cloth jacket to complement the protection.  
+Cost to repair is $125 per point.
+
 **Lorica**, $5,500, 29 lb.  
 2/4  
 Functioning as a sort of light plate suit which extends only to cover the most vital areas. the entire suit can be easily stored for its mass.  
