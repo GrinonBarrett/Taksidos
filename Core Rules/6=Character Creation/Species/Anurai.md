@@ -49,7 +49,7 @@ Choose an attribute. It is increased by 1.
 
 **Marine Breathing**: Anuroi are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Great Leap**: Once per encounter, as an action, you may perform a great leap. Treat as a jump whose maximum distance is increased by a number of yards up to your [Body] bonus.
+**Great Leap**: Once per encounter, as an action, you may perform a great leap. Treat as a jump whose maximum distance is increased by a number of yards up to your [Body] bonus. If a creature attempts an attack of opportunity against you as a result, you gain a bonus to defense against that attack equal to your heroism.
 
 **Fine Flip**: In place of performing an attack (by action or reaction), you may perform a fine flip. Treat as a jump whose maximum distance is increased by a number of feet equal to your [Body] score. For the purpose of falling as a result, you ignore a number of feet equal to your [Body] score. You must perform a rest before doing so again.
 
