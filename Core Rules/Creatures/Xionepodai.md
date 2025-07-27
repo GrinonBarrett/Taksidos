@@ -3,7 +3,7 @@ These strange creatures are composed of snow so dense it gives a deep purple-blu
 
 **Creature Type**: Xionepodoi are Elemental creatures.
 
-**Size**: Bromelain between 3'1"-5'11" tall. They can weigh between 52 and 150 pounds. They are medium creatures.
+**Size**: Xionepodoi between 3'1"-5'11" tall. They can weigh between 52 and 150 pounds. They are medium creatures.
 
 **Languages**: Xionepodoi don't speak, but understand the Wild Tongue.
 
