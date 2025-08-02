@@ -1,0 +1,1 @@
+Before making an attack roll, a combatant may choose to make their melee attack less dangerous. This incurs a -2 penalty and does not inflict a wound. A bare attack has no penalty to the attack roll for this purpose. Unarmed attacks have the penalty reduced by 1.
