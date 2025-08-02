@@ -308,7 +308,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (8
+### C (9
 
 #### Call Lightning
 
@@ -363,6 +363,26 @@ If the spellcheck was a critical success, you may concentrate on the spell. Whil
 * The range of the light amplification is increased by 1.
 
 **Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard betond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
+
+#### Coagulaturgy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 Actions
+
+**Effect**: You touch a creature, beginning the process of coagulation in an attempt to stop bloodless. It must make an incapacitation save using its [Fort]. It does not suffer negative results of the roll. A success will still inflict fatigue, but recovers an instance of hemorrahge.  A critical effects simply recovers an instance of hemorrhage. This recovery will occur at the end of the round unless they are afflicted by another instance of hemorrhage.
+
+If you have proficiency with medicine (or an appropriate zoology skill), you may grant a bonus to the save equal to your [Magic] bonus- up to the spell's tier.
+
+If you attempt to affect a creature which is not suffering an instance of hemmorrhage, it must perform a standard Incapacitation save using [Fort].
+
+This cannot affect a spell which is not affected by bloodloss.
+
+**At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may choose to have the spell reach out 3 yards further or reduce the casting time by 1 action (to a minimum of 1).
+
+**Critical Failure**: You find some complications occur. If you were attempting to heal a hemorrhage, the save suffers a penalty equal to the tier of the spell and the recover takes an additional number of rounds equal to the spell's tier. If attempting to inflict harm with the spell, you sufgfer an incapacitation save with a penalty equal to the spell's tier.
+
+[Coagulaturgy Spell]: # " This spell was suggested by Ian Barnhart, possibly inspired by his character- a Beserk functioning as the party's doctor. "
 
 #### Collapse
 
