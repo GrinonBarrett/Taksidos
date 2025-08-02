@@ -376,11 +376,11 @@ If you have proficiency with medicine (or an appropriate zoology skill), you may
 
 If you attempt to affect a creature which is not suffering an instance of hemmorrhage, it must perform a standard Incapacitation save using [Fort].
 
-This cannot affect a spell which is not affected by bloodloss.
+This cannot affect a creature which is not affected by bloodloss.
 
 **At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may choose to have the spell reach out 3 yards further or reduce the casting time by 1 action (to a minimum of 1).
 
-**Critical Failure**: You find some complications occur. If you were attempting to heal a hemorrhage, the save suffers a penalty equal to the tier of the spell and the recover takes an additional number of rounds equal to the spell's tier. If attempting to inflict harm with the spell, you sufgfer an incapacitation save with a penalty equal to the spell's tier.
+**Critical Failure**: You find some complications occur. If you were attempting to heal a hemorrhage, the save suffers a penalty equal to the tier of the spell and the recover takes an additional number of rounds equal to the spell's tier. If attempting to inflict harm with the spell, you suffer an incapacitation save with a penalty equal to the spell's tier.
 
 [Coagulaturgy Spell]: # " This spell was suggested by Ian Barnhart, possibly inspired by his character- a Beserk functioning as the party's doctor. "
 
