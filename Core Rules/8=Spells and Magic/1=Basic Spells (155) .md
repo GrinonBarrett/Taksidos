@@ -1483,9 +1483,9 @@ If the spellcheck is a critical success, you know the precise location of the so
 **Duration**: A number of rounds equal to the spell's tier squared
 
 **Effect**: You cause some amount of stone whose total volume could fit within a cube whose total volume is X cubic feet (where X is the spells tier squared), to become liquid. It will gradually reharden, starting out like water but becoming a thick pudding halfway through the duration. Alternatively, if the material to be affected is a creature composed of stone, treat as though it were subject to the Hydromorphy spell with the following exceptions;  
-• It ignores any form of non-magical Acid, Fire, or Toxic attacks whose total is less than your level.  
+• It ignores any form of non-magical Acid, Fire, or Toxic attacks whose total is less than the points of success.  
 • Cold and electrical attacks against it have disadvantage.  
-• It does not understand Hydroglossa unless it speaks it.
+• It does not understand Hydroglossa unless it speaks it.  
 • The duration of this form cannot exceed the spell's duration.
 
 **At Higher Tiers**: These benefits are listed above.
