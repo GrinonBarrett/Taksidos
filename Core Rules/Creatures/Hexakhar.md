@@ -1,5 +1,5 @@
 ### Hexakhar
-The result of a fauxakhar absorbing a hexakhar. These fiends have unknown motives, but seem to be found ancient dungeons. Its new hexagonal shape bears a total of six eyes, each of which appear to have a purple iris to the human eye- though those with quadrochroma can see their true colors. The plural is Hexakhain. Their collective noun is a geomantra.
+The result of a fauxakhar absorbing a zezykhar. These fiends have unknown motives, but seem to be found ancient dungeons. Its new hexagonal shape bears a total of six eyes, each of which appear to have a purple iris to the human eye- though those with quadrochroma can see their true colors. The plural is Hexakhain. Their collective noun is a geomantra.
 
 **Creature Type**: Hexakhain are Fiends.
 
