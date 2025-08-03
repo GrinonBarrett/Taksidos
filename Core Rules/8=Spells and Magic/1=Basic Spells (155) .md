@@ -489,7 +489,7 @@ If the spellcheck is a critical success, the bonus to saves is increased by your
 * The duration is increased by 2 hours.
 * The bonus to defense and saves against spells is increased by 1, but so is the penalty to spellchecks and counterspell checks.
 * The penalty to spellchecks and counterspell checks is reduced by 1.
-* Reduce the casting time of the spell by 1 round.
+* Reduce the casting time of the spell by 1 action (to a minimum of 1 action).
 
 **Critical Failure**: You have surronded yourself in a foggy veil for a moment and receive spellsickness equal to the spell's tier minus 1 and an instance of Archblight.
 
