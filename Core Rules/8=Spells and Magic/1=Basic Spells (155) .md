@@ -2604,7 +2604,8 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Range**: 1 yard
 
-**Effect**: Target performs a [Empy] save or becomes obtunded for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for half a foot and possesses an eerie wave to it. Upon a critcal success with your spell check or a critical failure on the target's save, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.
+**Effect**: Target performs a [Empy] save or becomes obtunded for a number of hours equal to the points of failure. Regardless of the save result, an obscure yellow sigil has marked their body in some way. This sigil emits dim light out for half a foot and possesses an eerie wave to it. Upon a critcal success with your spell check or a critical failure on the target's save, you may increase or decrease the creature's inebriation by an amount up to the spell's tier.  
+You are considered to be familiar with any creature which bears your mark.
 
 This cannot affect Eldritch, Ephemera, Fiends, or Undead.
 
@@ -2612,7 +2613,7 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **At Higher Tiers**: Each tier beyond minimum provides benefits as noted above.
 
-**Critical Failure**: You see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
+**Critical Failure**: You (yet no other) see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
 
 #### Xylary Form
 
