@@ -11,24 +11,6 @@ The materials to create a grimoire sturdy enough to be reliable for one to learn
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
 
-**Hu'Althur's Handbook for Healers**  
-$11,000 , 4 lbs  
-A copy of a tome written by Hu'Althur of the Sanctorum on those spells he thought should be basic to the Wardens of the Sanctorum. It also provides a +1 bonus to Medicine checks when used as a reference. This grimoire contains the following spells at the indicated tiers;
-* Damper, 3rd
-* Know Pain, 1st
-* Regeneration, 5th
-* Unmaking Aura, 5th
-* Voluntariance, 2nd
-
-**On Fighting with Ice**  
-$10,000, 3.5 lbs.  
-A treatise on the hazards of military campaigns in arctic conditions. Its not a great reference for learning spells, but it can provide a +1 bonus to Survival checks involving arctic environments if used as a reference. This grimoire contains the following spells at the indicated tiers;  
-* Chryoschimurgy, 4th
-* Exploding Sphere, 4th
-* Everwarmth, 3rd
-* Frost Lance, 3rd
-* Glacial Sigil, 4th
-
 **Tome of the Brass Chaplains**  
 $10,000 , 4.25 lbs  
 One of many holy scriptures for the followers of Dulzern. Unlike most tomes for the followers, this is seen as purely supplementary material and contains no rites. This grimoire contains the following spells at the indicated tiers;
@@ -146,6 +128,24 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 * Faux Fos, 1st
 * Frost Lance, 3rd
 * Grasp, 2nd
+
+**Hu'Althur's Handbook for Healers**  
+$11,000 , 4 lbs  
+A copy of a tome written by Hu'Althur of the Sanctorum on those spells he thought should be basic to the Wardens of the Sanctorum. It also provides a +1 bonus to Medicine checks when used as a reference. This grimoire contains the following spells at the indicated tiers;
+* Damper, 3rd
+* Know Pain, 1st
+* Regeneration, 5th
+* Unmaking Aura, 5th
+* Voluntariance, 2nd
+
+**On Fighting with Ice**  
+$10,000, 3.5 lbs.  
+A treatise on the hazards of military campaigns in arctic conditions. Its not a great reference for learning spells, but it can provide a +1 bonus to Survival checks involving arctic environments if used as a reference. This grimoire contains the following spells at the indicated tiers;  
+* Chryoschimurgy, 4th
+* Exploding Sphere, 4th
+* Everwarmth, 3rd
+* Frost Lance, 3rd
+* Glacial Sigil, 4th
 
 **Zorne's Tome**  
 *Unique*  
