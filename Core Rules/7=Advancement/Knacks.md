@@ -34,5 +34,8 @@ Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus fo
 **Vigilance**, 1 item  
 When rolling for initiative, roll an additional d6 and add it to your result. Additionally, so long as another chit has yet to be claimed, another creature cannot assign you a chit normally unless you allow it.
 
+**Warmagery**, 1 item  
+Anytime you would roll an attack roll as the result of one of your spells, you may gain a +1 bonus to that roll.
+
 **Zen Archery**, 1 item  
 When you perform a ranged attack, if you are not concentrating on anything else, you gain a +1 bonus to the attack and an additional +1 for the purpose of inflicting a critical hit.
