@@ -2334,7 +2334,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (7
+### V (8
 
 #### Venting Burst
 
@@ -2425,6 +2425,24 @@ Treat the "voice" of the spell as being one of another creature you are familiar
 **At Higher Tiers**: As noted above, each tier increases the number of attacks by 1. Additionally, you may increases one dimension or both of the affected area by up to 2 yards for each tier beyond minimum.
 
 **Critical Failure**: You conjure a volley but have given it the worng direction. Instead, the area is centered on you.
+
+#### Voluntariance
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 Reaction, which you take to a creature you can perceive within range being attacked by an attack you can perceive
+
+**Range**: X feet, where X is the spell tier squared
+
+**Effect**: If you are within range of that attack, it is redirected against you. A creature performing a melee attack may make a [Body] or [Will] check against a DV of the spellcheck's points of success + your [Magic] bonus to prevet this.
+
+If the spell check is a critical success, the attack suffers a penalty equal to the spell's tier for the purpose of determining a critical hit.
+
+You cannot cast this spell as a result of another creature's magical influence over you
+
+**At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may choose to increase X in the spell's range by 1 or gain a +1 to your defense against the attack.
+
+**Critical Failure**: You direct the attack towards yourself as intended, but the attack suffers no penalty for the purpose of determining a critical hit and instead gains a bonus to hit you equal to the spell's tier.
 
 #### Vortex Wake
 
