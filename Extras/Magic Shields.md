@@ -1,6 +1,6 @@
 Almost as useful as magic armor, depending on who you ask.
 
-**Abyscaun**, $6,800, 25 lbs.  
+**Abyscaun**, $6,800, 25 lbs. (*unique*)  
 +2  
 A shield made up of a complete manfolk skeleton and some ultrahard mud. There is damage to various bones, with some looking suspiciously fresh. The name "Abyscaun" is carved into the head. Requires 15 or greater [Body] to use. When used to block for yourself, you are also treated as having an additional quarter of coverage. *When stood upon solid ground and its name uttered, it will begin to collapse and then assemble itself into an Animate Skeleton. This skeleton will follow the command of the one who planted it. If destroyed in this form (or given a command to simply collapse) it is no longer active. If left overnight, it will somehow return to its shield form. Each time it is destroyed in its animated form, roll a d20 and compare it to the number of times it has been destroyed, if lower, it no longer reassembles itself in any capacity and the shield is considered to be fully destroyed. It has already fallen 1d4 times this way when found*.
 
