@@ -1,4 +1,4 @@
-Grimoires are tomes filled with the details of magical processes. Each tome contains 3-5 spells and can provide a +1 bonus to spellchecks with (and +1 to saves against) the spells contained therein if one already is knowledgeable in the spell, exactly like the bonus for staves (any feature which pertains to that bonus pertains to this as well). Additionally, if wielded in two hands, it can be studied by one capable of casting spells to cast a spell contained within even if the caster does not know it- but this requires twice as much casting time and foes not allow the spell to be cast beyond the tier it is recorded as within the grimoire.
+Grimoires are tomes filled with the details of magical processes. Each tome contains 3-5 spells and can provide a +1 bonus to spellchecks with (and +1 to saves against) the spells contained therein if one already is knowledgeable in the spell, exactly like the bonus for staves (any feature which pertains to that bonus pertains to this as well). Additionally, if wielded in two hands, it can be studied by one capable of casting spells to cast a spell contained within even if the caster does not know it- but this requires twice as much casting time and does not allow the spell to be cast beyond the tier it is recorded as within the grimoire.
 
 A grimoire is sufficient material to study in learning a spell. Each spell is recorded with a set tier, which must be at least the minimum tier of the spell. This affects the learning time of the spell (some arcanists have been known to express more advanced versions of their spells, being those of a higher tier than minimum, specifically to keep inexperienced studiers from fully understanding them). The grimoire may include spells at a tier higher than their minimum. If they do, and one learns the spell from the grimoire, they may cast it at its minimum tier or higher as they would be able to had they earned any other way.
 
@@ -28,6 +28,15 @@ A tome written by a mage with an unusual talent. This grimoire contains the foll
 * Sunshower, 2nd
 * Synnefopothy, 3rd
 * Venting Burst, 2nd
+
+**Tome of the Flesh Shaper**  
+$10,000 , 4 lbs  
+A rare book bound in the tanned flesh of elves and ink in the ash of their ruins. This grimoire contains the following spells at the indicated tiers;
+* Animation, 2nd
+* Defiling Detonation, 3rd
+* Jaunt Macabre, 3rd
+* Mortal Masque, 2nd
+* Zenith, 1st
 
 **Tome of a Forgotten Magi**  
 $10,000, 3.5 lbs.  
