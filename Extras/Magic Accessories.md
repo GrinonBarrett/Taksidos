@@ -110,6 +110,10 @@ A fine ring with a twisting pattern engraved.
 Neg.  
 This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attibute of its wearer by 1.
 
+**Ring of Guarding**, $8,600  
+Neg.  
+The user may use their reaction *to create a forcefield in shape like a shield, blocking as though it were a shield. Roll 1d4, this is the defense from blocking. The wearer also gains this much spell sickness. If their spell sickness is ever equal to or greater than the defense bonus- the forcefield fails to materialize and the wearer simply gains a single point of spell sickness*.
+
 **Ring of Lorylean**, $50,000  
 Unique.  
 Neg.  
