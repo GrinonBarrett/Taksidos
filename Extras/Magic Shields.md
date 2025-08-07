@@ -1,5 +1,9 @@
 Almost as useful as magic armor, depending on who you ask.
 
+**Bellowing Buckler**, $1,000 , 2.25 lb.  
++1  
+This well hammered buckler is nothing too extraordinary at first glance. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way. *If used to block an attack, and that attack is a critical failure or would qualify to damage armor, the buckler is struck- causing it to resonate in a way that inflicts a Sonic attack against that foe if within 3 yards*.
+
 **Abyscaun**, $6,800, 25 lbs. (*unique*)  
 +2  
 A shield made up of a complete manfolk skeleton and some ultrahard mud. There is damage to various bones, with some looking suspiciously fresh. The name "Abyscaun" is carved into the head. Requires 15 or greater [Body] to use. When used to block for yourself, you are also treated as having an additional quarter of coverage. *When stood upon solid ground and its name uttered, it will begin to collapse and then assemble itself into an Animate Skeleton. This skeleton will follow the command of the one who planted it. If destroyed in this form (or given a command to simply collapse) it is no longer active. If left overnight, it will somehow return to its shield form. Each time it is destroyed in its animated form, roll a d20 and compare it to the number of times it has been destroyed, if lower, it no longer reassembles itself in any capacity and the shield is considered to be fully destroyed. It has already fallen 1d4 times this way when found*.
@@ -22,6 +26,12 @@ An enchanted shield costs 4 times the base price and an additional $2,000. Depen
 * Impervious: Necrotic.
 * Tuned: Sonic.
 * Vital: Toxic.
+
+**Kalarafyrd's Bulwark**, $1,100 , 13 lb. (*unique*)  
++0  
+Requires 13 or greater [Body] to use. Does not provide a set bonus when blocking, instead it provides cover. If the shield is used to block for someone that does not have cover, it provides half cover. If they already have cover, it instead provides an additional one-quarter cover.
+When used to block for yourself, it is always treated as giving you an additional quarter of coverage.  
+*If an attack against you would qualify to deal damage, you may have this shield break instead. If you do, it becomes a normal buckler and you recover a hitpoint if you have any missing*.
 
 **Tainted Targe**, $900, 3.5 lb.  
 +1  
