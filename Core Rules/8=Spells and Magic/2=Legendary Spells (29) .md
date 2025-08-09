@@ -80,6 +80,57 @@ A critical success with the spell check allows you to increase the rotation to 4
 
 **Critical Failure**: You throw the orb but it eventually curves too much and returns to you, inflicting an attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as ki, necrotic, and radiant.
 
+### Ba'Althazar AEtherkin (3
+The founder of the now forgotten Aetherkin College of Arcana and the Sciences and former mentor of Hu'Althur of the Sanctorum. Ba'Althazar's work drove one of the most sought after educationss in the world of arcanists before being corrupted by some force and turning the campus into a haunted ghost town. Though his life's work iscontributed greatly to an understanding of magic and the undead, it should not be studied too hard.
+
+#### Ba'Althazar's Detonation
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 40 yards
+
+**Effect**: You call a spectral sphere to manifest and rocket in a stright line to a creature you can perceive. Upon impact, it inflicts a morningstar attack. At the end of the next phase, it explodes with light from where it impacted. This reaches out 7 yards. The explosion may only affect undead and ephemera, but inflicts a radiant attack against each such creature within.
+
+**At Higher Tiers**: Each tier beyond its minimum can can either increase the size of the explosion by 2 yards or grant the radiant attacks a +1 bonus.
+
+**Critical Failure**: You instead manage to inflict a radiant attack against yourself, with a bonus equal to the spell's tier for the purpose of determining a critical hit, as the light nearly blinds you. You put out light like a torch until the end of the next phase.
+
+#### Ba'Althazar's Grasp
+
+**Minimum Tier**: 5
+
+**Casting Time**: 1 action
+
+**Effect**: You touch a creature to inject unhallowed surges of deathly energy, inflicting a Necrotic attack. Instead of inflicting a typical wound, it must succeed an incapacitation save- with the DV being replaced with the attack roll result. This is in addition to the standard incapacitation save, if any. If the attack is a critical success, it inflicts another such necrotic attack as dictated to cause the typical incapacitation save as a wound. This continues for each critical hit incurred. A creature killed as a result of this spel has its head (or similar organ space) explode entirely and cannot be reanimated.
+
+If an attack would qualify to damage armor, it instead leaves the foe vulnerable until the end of the next round.
+
+If the spellcheck was a critical hit, any atacks made by this spell get a bonus equal to your [Magic] bonus for the purpose of inflicting a critical hit.
+
+This cannot affect constructs, eldritch, elementals, ephemera, or fiends. Undead that would be affected by this ignore any even numbered attack results.
+
+**At Higher Tiers**: Each tier beyond minimum grants the initial attack (but no further attacks) a +1 bonus for the purpose of determining a critical hit.
+
+**Critical Failure**: The power backfires, affecting you and you foe as though you cast it. You also suffer a number of instances of Archblight equal to half (round down) of the spell's tier.
+
+#### Ba'Althazar's Unraveling
+
+**Minimum Tier**: 5
+
+**Casting Time**: 2 actions
+
+**Range**: 20 Yards
+
+**Effect**: You speak foul words which can manifest fetid wounds against a foe's flesh. Target foe within range suffers a necrotic attack. This has disadvantage against a creature that cannot hear you and the spell does not work if you cannot express the words (or equivalent sounds). The foe need not understand the words to be subject to them. Regardless of whether the attack was succesful or not, an affected creature must succeed an incapacitation save with a DV equal to the attack roll total. If the afflicted dies as a result of this spell in any way, it returns as an Aetherkin under the full command of the spell's caster. If it had the ability to perfrom wyrdings, it retains this ability.
+
+This spell cannot affect Construct, Eldritch, Elemental, Ephemera, Fey, Fiend, or Undead creatures.
+
+**At Higher Tiers**: Each tier beyond the minimum increases the range by 5 yards.
+
+**Critical Failure**: You are instead subject to the spell, with the attack gaining a bonus against you equal. If killed by the spell, you become a Aetherkin unless you were of a creature type which cannot be affected. If so, inflict a number of unlisted attacks against yourself equal to the spell's tier. For each successful attack, you gain a point of spell sickness. For each failed attack, you gain an instance of Archeblight.
+
 ### Etislaff (3
 A fiendish creature which seems to be growing a cult to hunt down practitioners of various forms of magic. It grants its followers the ability to read tomes of chosen magics in its own profanely artifical language.
 
