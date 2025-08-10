@@ -2710,7 +2710,7 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Casting Time**: 2 actions
 
-**Effect**: You touch a creature, selecting an attribute, and enhance it for 2d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck doubles the spell's tier bonus to the duration.
+**Effect**: You touch a creature, selecting an attribute, and enhance it for 1d4 + spell tier + [Magic] bonus hours. The improvement to the attribute is equal to the spell's tier. A critical success with the spellcheck doubles the spell's tier bonus to the duration.
 
 **At Higher Tiers**: In addition to the benefits listed above, each tier beyond minimum increases the casting time by 1 action.
 
