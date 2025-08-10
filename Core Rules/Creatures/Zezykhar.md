@@ -99,7 +99,7 @@ A floating fleshy triangle when viewed from above or below. Each corner possesse
 
 **Spinning Trick**: When it would move, if it is not restrained or immobile, *it may use its reaction to instead fire beams from each of its eyes and spin rapidly- inflict an attack in all 360 degrees. This is a radiant attack. It must rest before doing so again. If it is missing an eye when it does so, it becomes dazed until the end of the next round. If it was mising two eyes, it is also vulnerable during this time. The attacks get a -1 for each missing eye*.
 
-**Triplipace**: *Its hover speed is tripled*.
+**Triplipace**: *Its levitation speed is tripled*.
 
 **Focus Antennae**: As an action, it may grant itself the ability to hear until the end of the round.
 
