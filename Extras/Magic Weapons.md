@@ -77,7 +77,7 @@ It is said that it currently is half buried by the tip in a molten river, which 
 **Enchanted Weapon**  
 varies, varies  
 Any melee  
-An enchanted weapon costs 3 times the base price and an additional $5,000. Depending on the type of enchantment, a critical hit is treated as also *one of the associated attack type*. If the user presses their attack, they *may treat their attack as being of the associated type*. The Enchantments are as follows:  
+An enchanted weapon costs 3 times the base price and an additional $5,000. Depending on the type of enchantment, a critical hit is treated as also *one of the associated attack type*. If the user presses their attack, they *may treat their attack as being of the associated type. It still inflicts both critical hit effects when used this way*. The Enchantments are as follows:  
 * Dissolving: Acid.
 * Crunching: Biting.
 * Frosty: Cold.
