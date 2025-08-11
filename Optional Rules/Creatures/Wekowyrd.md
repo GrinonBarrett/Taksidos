@@ -62,7 +62,7 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Mighty Slam**: When the wekowyrd successfully strikes a foe with its slam attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the wekowyrd's check is a success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by the wekowyrd's weight in stones divided by the foe's weight in stones. If the wekowyrd had a critical success, the foe is also vulnerable while they are prone.
 
-**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll result was odd, it mutates as a result of the wound it receives. Roll 2d12 and compare the toal result to the chart above to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
+**Reactionary Mutation**: The wekowyrd receives wounds but not the effects of wounds. Anytime the creature is wounded, if the attack roll die result was odd, it mutates as a result of the wound it receives. Roll 2d12 and compare the total result to the chart below to determine the result of the mutation. Each mutation can occur multiple times. There are no physical limitations to the wekowyrd's mutation or maximum attributes.
 
 **Magic Disruption Field**: Anytime the wekowyrd mutates, it performs a counterspell check against all creatures casting spells within 1d4+1 miles. The wekoyrd's result total is 1d8 + its maximum HP + its current number of wounds.
 
@@ -70,9 +70,9 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 
 **Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the wekowyrd is increased by 2. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
 
-**Swallow Whole**: If the wekowyrd successfully grapples a creature of at least two size categories or smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
+**Swallow Whole**: If the wekowyrd successfully grapples a creature of at least two size categories smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
 
-**Consuming**: Anything in the wekowyrd' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to an 2 acid attacks, a necrotic attack, and a crushing attack with advantage. Even if the creature escapes, it is still subject to an acid attack at the end of the round it escaped.
+**Consuming**: Anything in the wekowyrd' stomach is subject to the digestive acids it contains. At the end of each phase, a swallowed creature is subject to 2 acid attacks, a necrotic attack, and a crushing attack with advantage. Even if the creature escapes, it is still subject to an acid attack at the end of the round it escaped.
 
 **Supernatural Speed**: When the wekowyrd sprints, it *may quadruple its movement speed for that move*. Additionally, if it does not sprint during a round, it may use its reaction to *triple its speed*.
 
@@ -101,6 +101,6 @@ An everforming eldritch horror which can mutate before the adventurers eyes.
 |   19   |  Castless Aura |  The wekowyrd gains an aura which causes it to automatically perform a counterspell check against anything casting a spell within 25 yards. The wekowyrd's check result is equal to 1d12 + its current number of wounds. If it gains this mutation again, its range is increased by 25 yards. |
 |   20   | Devolution | The wekowyrd loses a random mutation, but recovers 1 hitpoint. |
 |   21   | Unknown Force | The Wekowyrd's [Empy] score is increased by 1. Adjust bonus if appropriate. |
-|   22   | Mobility | The wekowyrd's becomes much more sprightly. Its movement speeds are increased by one-third. |
-|   23   | Strengthen | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4. |
+|   22   | Mobility | The wekowyrd becomes much more sprightly. Its movement speeds are increased by one-third. |
+|   23   | Strengthen | The wekowyrd's maximum hitpoints are increased by 5 and it restores 1d4 of its missing hitpoints. |
 |   24   | Split | The wekowyrd is prone and vulnerable until the end of the next round as it performs mitosis, producing a double of itself. This double has all of the same characteristics and mutations (and is also prone and vulnerable). The wekowyrd's current hitpoints is split among the two, but each recovers 1d4 hitpoints. ***Have fun***. |
