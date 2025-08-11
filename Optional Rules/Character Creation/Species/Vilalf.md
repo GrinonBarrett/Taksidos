@@ -1,5 +1,5 @@
 ## Vilalf
-These fair folk typically keep to their own realms, but a few have occasion to wander into our plane for an adventure. The plural is Vilalves. Vilalf characters get the following features;
+These fair folk typically keep to their own realms, but a few have occasion to wander into our plane for an adventure. They are the majority of the last "kind elves", elves capable of the moral consiousness to be playable. The plural is Vilalves. Vilalf characters get the following features;
 
 **Creature Type**: Vilalves are sylvan.
 
