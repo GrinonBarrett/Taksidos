@@ -29,7 +29,7 @@ Creatures doomed to live in the shadows. Though many are hostile or malicious, o
 | **Katar**                  | 13     | **Javelin** | 13    | **Arquebus** | 12    |
 | **Dagger**                 | 13     | **Throwing Blade** | 14  | **Musket** | 12    |
 | **Morningstar**            | 13     | **Sling** | 14    | **Tronutonante** | 12    |
-| **Warpick**                | 13     |  |   | **Unarmed** | 20  |
+| **Warpick**                | 13     |  |   | **Bare** | 20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 13     | **Fire** | 12     | **Psychic** | 10     |
 | **Cold**                   | 18     | **Force** | 14     | **Toxic**  | 15     |
