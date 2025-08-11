@@ -69,3 +69,5 @@ The dusken exists where the light does not touch, this means they may only exist
 **Senseless**: Effects that rely on stimuli such as pleasure or pain have no effect on the dusken. It still has the function of its senses, but does not process sensations as “painful” or “pleasurable” nor is it overwhelmed by intensive stimulation. It simply receives stimuli.
 
 **Destroying a Dusken**: A dusken character has twice as many hitpoints as a character might normally. A dusken does not receive wounds from successful attacks as normal creatures, instead they are simply destroyed when an attack is successful against them while they have no hitpoints remaining.
+
+###### If a Dusken character is an invoker, treat it as having a single hitpoint total until it would be granted hitpoints by class or another feature.
