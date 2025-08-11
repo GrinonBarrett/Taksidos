@@ -52,7 +52,7 @@ The dusken exists where the light does not touch, this means they may only exist
  • Dusken make no sound when they move.  
  • Dusken cast no shadow or reflection when observed.  
  • Dusken do not need to eat or drink.  
- • Dusken only gain a full or long rest's benefits if they have a portion of food or a serving of fluid which was given to them unsolicted from a non-dusken. They cannot inform others of this by any means. During the rest, the offering is either consumed or simply fades from existence.
+ • Dusken only gain a full or long rest's benefits if they have a portion of food or a serving of fluid which was given to them unsolicted from a non-dusken. They cannot inform others of this by any means. During the rest, the offering is either consumed or simply fades from existence.  
  • You gain no benefit from armor but are still burdened by it.  
  • You have a Attack versus Creature table which outlines your defense against each kind of attack.  
  • Immunity to damage from falling and knockback.  
