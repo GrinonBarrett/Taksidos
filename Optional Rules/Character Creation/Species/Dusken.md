@@ -28,7 +28,7 @@ Choose an attribute. Each other attribute is reduced by 1.
 | **Katar**                  | 14     | **Javelin** | 14    | **Arquebus** | 13    |
 | **Dagger**                 | 14     | **Throwing Blade** |16    | **Musket** | 13    |
 | **Morningstar**            | 14     | **Sling** | 16    | **Tronutonante** | 13    |
-| **Warpick**                | 14     |  |   | **Unarmed** |  20  |
+| **Warpick**                | 14     |  |   | **Bare** |  20  |
 |                        |           |          |            |         |            |
 | **Acid**                   | 14     | **Fire** | 13     | **Psychic** | 12     |
 | **Cold**                   | 18     | **Force** | 14     | **Toxic**  | 15     |
