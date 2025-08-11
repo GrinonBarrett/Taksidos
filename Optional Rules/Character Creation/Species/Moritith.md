@@ -72,7 +72,7 @@ The moritith exists where the light does not touch, this means they may only exi
 Additionally, the moritith may choose to inflict a level of fatigue against the sleeping creature to recover a level of its own fatigue.  
 A moritith cannot affect Elementals, Ephemera, Monsters, or Undead with this.
 
-**Psychophysicality**: Anytime the moritith would inflict an unarmed atttack, it is instead treated as a psychic attack.
+**Psychophysicality**: Anytime the moritith would inflict an unarmed atttack, *it is instead treated as a psychic attack*.
 
 **Dreary Breath**: As an additional option when you succeed a critical success while brawling, you may inflict an undamaging attack against the foe. If it is successful, that creature receives a level of fatigue. A creature affected this way cannot be affected by the same moritith's Dreary Breath until that gained fatigue has been recovered.
 
