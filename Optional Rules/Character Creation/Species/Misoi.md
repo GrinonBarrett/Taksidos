@@ -74,6 +74,9 @@ Choose three attributes. Each are increased by 1.
 **Hamering a Misai**: If it would receive a number of wounds equal to or greater than its current remaining hitpoints, it instead enters an ephemeral absence for a number of rounds equal to the total wounds it would have received.
 
 **Ending a Misai**: You and your narrator agree on a type of damage, material, or creature type. Once this decision is made, it cannot be changed. If you would be brought below 0 hitpoints, you enter an ephemeral absence for 1d20 units of time, which is determined by a d12 roll below. If the selected damage/material/creature type was used to bring you below 0 hitpoints, you are destroyed instead.  
+
+For the purpose of this feature, all melee weapons are considered a single damage type. All ranged weapons are consided a single damage type. Thrown weapons are treated as they are used (melee or ranged). Unlisted or other special weapons are their own type of damage.
+
 1-3 = rounds  
 4-5 = minutes  
 6-7 = hours  
@@ -82,8 +85,7 @@ Choose three attributes. Each are increased by 1.
 10 = fortnights  
 11 = months  
 12 = years
-For the purpose of this feature, all melee weapons are considered a single damage type. All ranged weapons are consided a single damage type. Thrown weapons are treated as they are used (melee or ranged). Unlisted or other special weapons are their own type of damage.
 
-**Ephemeral Absence**: When entering an ephemeral absences, the existence of the misai is suspended for the indicated amount. If intentionally entering an ehemeral absence, it is for the intended amount of time plus an additional % of time equal to 1d10.
+**Ephemeral Absence**: When entering an ephemeral absences, the existence of the misai is suspended for the indicated amount. If intentionally entering an ehemeral absence, it is for the intended amount of time plus an additional % of time equal to 1d10.  
 
 ###### Optional Rule: A narrtor might allow falling and knockback to be the sort of damage which can end the misai's existance. If so, it loses the Fallproof feature and all forms of knockback and falling damage against the misai are increased by half again. Furthermore, the distance the misai travels when knocked back is increased by half again.
