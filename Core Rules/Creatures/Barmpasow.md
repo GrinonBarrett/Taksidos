@@ -104,3 +104,9 @@ These creatures resemble massive scorpions with a few notable changes. Their car
 **Stinger Venom**: Anything struck by the barmpasow's stinger is also subject to a toxic attack as a result of the venom. If the toxic attack is successful, the struck creature must also succed a [Fort] save with a DV equal to the attack's total or find themselves slightly parlyzed by the venom. They become prone and have their movement halved while affected by it. At the end of every round, they make a new [Fort] save with a DV of 20 minus the number of rounds they have been affected to shake off the effects.
 
 **Color Pattern**: The barmpasow gets a +4 visually based bonus to its stealth in its home environment.
+
+-----
+
+##### Butchering a Barmpasow
+If a player wishes, a successful check (as the narrator deems fit) with a result of 16 or greater could allow for the harvest of the venom sac. 2 doses of venom can be extratced from this. If it used its venom in the encounter, this is reduced by 1. A critical success will yield an additional dose from the sac. The venom can last for a month at room temperature and even longer if kept warm against bodyheat. Freezing temperatures can cause it to expire in a matter of a day or two.  
+It can yield 2/3 of its weight in usable meat if you have a player so inclined to do so. It will taste bland and be quite tough.
