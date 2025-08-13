@@ -82,7 +82,7 @@ A being found in deep caves and occasionally discovered by mining operations. Th
 **Elemental Nature**: Milahar are bodies of salt and elemntal energy. As such they;  
  • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
  • Are immune to diseases, poisons and venom.  
- • Immune to the effects of bloodloss.
+ • Immune to the effects of bloodloss.  
  • Are not affected by spells which would affect flesh.  
 
 **Magic Resistance**: The Milahar gains a +2 to defense against magical attacks and a 2d8 bonus to saves against magical effects.
