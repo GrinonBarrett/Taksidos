@@ -61,7 +61,7 @@ Choose a creature which can perceive and understand you. It gets a 1d3 bonus to 
 You may use an action to grant another encouragement, giving them your Bravery feature until either one of you completes a long or full rest. You no longer benefit from Bravery during that time unless you remain within 1 yard of that creature.
 
 ### 8) Supreme Authority
-Anytime you roll a die for commands, you may choose to increase the die level by a single step.
+Anytime you roll a die for commands, you may choose to increase the die level by a single step. Additionally, your Command Mark has its die level increased by 1 automatically.
 
 ### 9) Command: Recitation
 You target a creature within 10 yards which is casting a spell. When that creature performs its spellcheck, you roll a d4 and choose to either add or subtract the result from the spellcheck.
