@@ -20,7 +20,7 @@ When a combatant enters or exits the range of your melee weapon (or unarmed atta
 #### Beat
 Action or Reaction  
 You force an armed opponent within your weapon's range to make an opposed [Rflx] check. Either participant gets disadvantage on their check if they are within half of their weapon's range. Each level of training a participant has with their weapon grants a +1 bonus to their result.  
-A failure imposes disadvantage on the next attack the failing particpant makes this round. A critical failure disarms the failing participant.
+A failure imposes disadvantage on the next attack, beat, or parry the failing particpant makes this round with the weapon. A critical failure disarms the failing participant.
 
 #### Block
 Reaction  
