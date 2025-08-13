@@ -1,5 +1,5 @@
 ### Trikhappenar
-A three armed creature with a large funnel like appendage it uses as an ear. It has a single small eye stalk it constantly  rotates around to survey its surroundings. They are often found in caves near places with bells. They are extremely territorial and despise those that perform magic. The plural is trikhappertenain. Their collective noun is a cacophony.
+A three armed creature with a large funnel like appendage it uses as an ear. It has a single small eye stalk it constantly  rotates around to survey its surroundings. They are often found in caves near places with bells. They are extremely territorial and despise those that perform magic. The plural is trikhappernain. Their collective noun is a cacophony.
 
 **Creature Type**: Trikhappernain are monsters.
 
