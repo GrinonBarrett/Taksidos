@@ -73,8 +73,8 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as an assassin, you gain the following features;  
 Your sneak attack bonus, if undetected, is increased to 1d6. 
 When you perform a sneak attack against a foe and apply your Fell Hand feature, it lasts for an additional number of rounds equal to the sneak attack bonus of that attack.  
-When you perform a sneak attack, you may choose to reduce the sneak attack bonus by any amount. If you do, for each point of bonus reduced this way, you gain a +1 bonus for the purpose of determining a critical hit and can modify the wound result by 1.  
-When you press attack against a prone or vulnerable foe, you may choose to gain a bonus to the attack equal to your heroism for the prupose of determining if it is a critical hit. You must rest before you do so again.
+When you perform a sneak attack, you may choose to reduce the sneak attack bonus by any amount. If you do, for each point of bonus reduced this way, you gain a +2 bonus for the purpose of determining a critical hit and can modify the wound result by 1. This does not count against the attack result loss of your Pinpoint Strike feature.  
+When you press attack against a prone or vulnerable foe, you may choose to gain a bonus to the attack equal to your heroism for the purpose of determining if it is a critical hit. You must rest before you do so again.
 
 #### Splash
 If you splash assassin as a member of another class, you gain the Sneak Attack feature, the Culling Blow feature, and training with a weapon of your choice.
