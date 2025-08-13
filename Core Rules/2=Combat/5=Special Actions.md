@@ -53,8 +53,8 @@ When you are targeted for an attack you are aware of, before the attack is rolle
 
 #### Feint
 Reaction  
-In response to your own melee attack roll, regardless of the result, you may treat it as a critical failure for the purposes of other creatures' reactions. If a creature takes a reaction in response to the attack, you may perform a melee attack against that reacting creature with advantage if it is in range. Any reaction it takes still occurs if valid.  
-If no creature performed a reaction in response to it, or you simply don't want to perform the attack against that reacting foe, you attack is resolved as it would normally.  
+An altering of the angle of your attack to allow you to change its course easily. In response to your own melee attack roll, regardless of the result, you may treat it as a critical failure for the purposes of other creatures' reactions. If a creature takes a reaction in response to the attack, you may perform a melee attack against that reacting creature with advantage if it is in range. Any reaction it takes still occurs if valid.  
+If no creature performed a reaction in response to it, or you simply don't want to perform the attack against that reacting foe, you attack is resolved as it would normally (using the actuual result).  
 If the original target reacted, you may choose instead to gain advantage on the original attack against that foe.
 
 #### Follow-Up
