@@ -20,7 +20,7 @@ Adventurers, acrobats, thieves, and scoundrals all fall under the archetype of t
 
 
 ### Hecking Good
-Choose a skill. Once this decision is made, it cannot be changed. In place of using your attribute bonus for a check involving the selected skill, you may choose to apply your herosim. You must rest before doing so again.
+Choose one of your skills. Once this decision is made, it cannot be changed. In place of using your attribute bonus for a check involving the selected skill, you may choose to apply your herosim. You must rest before doing so again.
 If you ever make an opposed check involving the skill, you may replace the bonus d6 with a d12.
 
 ### Luck
