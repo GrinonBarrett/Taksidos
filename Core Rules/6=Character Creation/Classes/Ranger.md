@@ -59,6 +59,8 @@ You gain training in two weapons of your choice. You may cast any of the below l
 
 Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
 
+Counterspell attempts against the spell function as normal counterspell checks and are thus possible to prevent the spell from being cast.
+
 ### 9) Unconventional Mastery
 Choose a zoology skill. You gain the selected skill and the associated Unconventional Study features associated with that skill. If you already possess the selected zoology skill, you gain training in two weapons of your choice instead.
 
