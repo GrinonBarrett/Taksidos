@@ -70,7 +70,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as a ranger, you gain the following:  
 You gain two items worth of knacks without counting against your independant learning.  
-You may cast the spells listed by the Drywn Boon feature as though they were Rites (like a cleric), so long as you have that feature.
+You may cast the spells listed by the Drywn Boon feature as though they were Rites (like a cleric), so long as you have the Drywn Boon feature.  
 If you have specialization with a weapon/unarmed attack against a foe of a creature type chosen by your Unconventional Study, Further Unconventional Study, or Unconventional Mastery, you may replace the +4 bonus for the purpose of inflicting a critical hit with your heroism.
 
 #### Splash
