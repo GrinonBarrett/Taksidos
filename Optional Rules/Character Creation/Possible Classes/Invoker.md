@@ -77,7 +77,8 @@ Your power comes from the land itself. You gain the following:
 • As a reaction, when you are struck by a non-magical attack, you may take on 1d4 points of spell sickness. If you do, *you gain a bonus to your defense against that attack equal to double the result*.  
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Earth
-• Unarmed and Undamaging attacks against you have disadvantage.  
+• Unarmed attacks against you have disadvantage.  
+• When an undamaging attack would be made against you, you may choose to impose disadvantage on it.
 • When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### The Flame
