@@ -74,6 +74,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as an evoker, you gain the following:  
 Your maximum ki is increased by your heroism.  
+Your maximum number of techniques known is now equal to your level.  
 Choose three attributes. Each are increased by 1.
 
 #### Splash
