@@ -78,7 +78,7 @@ Your power comes from the land itself. You gain the following:
 • Once per encounter, when you are standing on firm ground and would be made prone, you are not prone.  
 ##### Greater Dominion of The Earth
 • Unarmed attacks against you have disadvantage.  
-• When an undamaging attack would be made against you, you may choose to impose disadvantage on it.
+• When an undamaging attack would be made against you, you may choose to impose disadvantage on it.  
 • When one of your serviles inflicts a melee attack, you may use your reaction to have it shove that foe. You may have it use its [Body] or your level + your [Body] bonus for the purpose of determining the shoving creatures [Body].
 
 ##### The Flame
