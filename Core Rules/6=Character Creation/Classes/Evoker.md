@@ -62,7 +62,8 @@ When you inflict a critical hit against a creature, you know how many hitpoints 
 Once per round, when you take a reaction, you may spend 10 ki. If you do, it does not count against your reaction for the round.
 
 ### 8) Hardened Veteran
-Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
+Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.  
+If you have Expertise training with a weapon (or unarmed attacks) and such an attack is made against you- you gain a +1 bonus to defense against that attack.
 
 ### 9) Ki Wave
 Choose an exotic damage type. Once this decision is made, it cannot be changed. You have unlocked a power unlike the rest of your ki features. As an action or reaction, you may charge your own internal energy to a particular frequency. Until the end of the next round, you may use your action or reaction to produce a ray attack against a foe within a number of yards equal to your level + [Will] score. This incurs a level of fatigue aginst you, but inflicts a ki attack against the foe with a bonus equal to your [Body] bonus for the purpose of determining if it is a critical hit. If it is a critical hit, it also applies the critical effect of the chosen damage type. This does mean it could apply two independant instances of the Ki attack critical hit effect.
