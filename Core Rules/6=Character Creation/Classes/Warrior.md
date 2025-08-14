@@ -60,7 +60,8 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
 ### 8) Hardened Veteran
-Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.
+Choose two attributes. They are both increased by 1. You gain training in two weapons of your choice.  
+If you have Expertise training with a weapon (or unarmed attacks) and such an attack is made against you- you gain a +1 bonus to defense against that attack.
 
 ### 8) Wholesome Courage
 The die rolled for you Bravery feature is now a d8. You may use your reaction to increase it to a d12.
