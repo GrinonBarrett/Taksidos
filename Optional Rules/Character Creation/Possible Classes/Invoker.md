@@ -138,6 +138,6 @@ You have been chosen by nature to defend its peace. You gain the following:
 • As an action you may change your creature type to become Fey or Sylven. This lasts for a number of minutes equal to your level multiplied by your herosim. While affected by this, you are fluent in the Wild Tongue and all undamaging attacks against you have disadvantage. You must rest before doing so again.  
 • As a reaction, you may take on a point of spell-sickness to fire a thorn from yourself or a nearby plant. This inflicts a thrown blade attack against a foe within a number of yards equal to your level.
 ##### Greater Dominion of the Valdercaller 
-• Your maximum hitpoints are increased by 1.
-• You may take on 10 points of spell-sickness as an action to call forth a flurry of whipping vines and thorny missiles. This inflicts a piercing attack and either a cutting attack or another piercing attack (your choice) against each creature in a 7 yard cone extending out from your hand. You must comple a long or full rest before doing so again.
+• Your maximum hitpoints are increased by 1.  
+• You may take on 10 points of spell-sickness as an action to call forth a flurry of whipping vines and thorny missiles. This inflicts a piercing attack and either a cutting attack or another piercing attack (your choice) against each creature in a 7 yard cone extending out from your hand. You must complete a long or full rest before doing so again.  
 • Choose an exotic damage type, all attacks of that manner have disadvantage against you. Once this decision is made, you must complete 7 full rests to change it.
