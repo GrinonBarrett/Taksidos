@@ -55,10 +55,11 @@ Additionally, when such an affected creature would be affected by the attack of 
 Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
 
 ### 7) Jammy
-When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must comple a long or full rest before doing so again.
+When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must complete a long or full rest before doing so again.
 
 ### 7) More Random Knowledge
-Choose two creature types from the folowing (Bigenerae, Drakomadiae, Ephemera, Fey, Fiend, Monster). Your Random Piece of Knowledge can also apply to the appropriate checks/saves pertaining to the selected creature types. 
+Choose two creature types from the folowing (Bigenerae, Drakomadiae, Ephemera, Fey, Fiend, Monster). Your Random Piece of Knowledge can also apply to the appropriate checks/saves pertaining to the selected creature types.  
+Additionally, anytime a creature you can perceive casts a spells, you may expend your use of Random Piece of Knowledge to know the name of that spell. If you do, you may also use your reaction to attempt to counterspell it as though you knew the spell.
 
 ### 8) Spurn Spell
 Anytime a creature within 10 yards attempts a spellcheck, you may use your reaction to impose a penalty to that check equal to 1d4 + the spell's tier. You cannot do so on consecutive rounds.
