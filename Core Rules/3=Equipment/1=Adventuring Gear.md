@@ -148,6 +148,9 @@ This rope is a little more prone to deterioration than its fibrous counterparts,
 * **Steel Chain, $504 per yard, 7 lb**  
 Composed of steel links rather than traditional rope braiding, steel chains can be used much like ropes when securing loads. It's not kind to the flesh compared to fiber rope or silk. Strength 5,750.
 
+**Shovel / Spade, $175, 4.25 lb.**  
+EIther one functions mostly the same, but each has their advantages. Can be used as a club with a range of 1 yard which is used with both hands. When used this way, it gains a +1 bonus for the purpose of determining a critical hit.
+
 **Tatami, $55, 15.5 lb.**  
 A cloth pad filled with reeds, it is the cheap alternative to the Bed Mat.
 
