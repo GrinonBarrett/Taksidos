@@ -91,8 +91,8 @@ Holds about 50 pounds of gear.
 An alchemically treated paper which can create sparks if something firm is rubbed across it quickly. Combined with Tinder Slivers it produces instant fire. Wears out after about 50 such slivers, though larger forms of tinder may wear it out faster.
 
 #### Mechanical Tools
-Mechanical tools are used to inspect, operate, disable, sabpotage, and occasionally repair various forms of mechanisms. They can also be used for burglery. They come in a variety of sizes. A good burgler has the rights tolls for their task. A bad burgler gets caught improvising.  
-Custom tools can grant a +1 bonus to checks involving locks if used by a creature of the appropriate size, but this doubles the price. Fine tolls can only be custom made to diminutive, small, or medium creatures. Standard tools may only be custom made to smal,, medium, or large creatures. Large tools may only be made custom for large creatures, and exotic tools may only be made custom for creatures of the appropriate size.
+Mechanical tools are used to inspect, operate, disable, sabotage, and occasionally repair various forms of mechanisms. They can also be used for burglery. They come in a variety of sizes. A good burgler has the rights tolls for their task. A bad burgler gets caught improvising.  
+Custom tools can grant a +1 bonus to checks involving locks if used by a creature of the appropriate size, but this doubles the price. Fine tolls can only be custom made to diminutive, small, or medium creatures. Standard tools may only be custom made to small, medium, or large creatures. Large tools may only be made custom for large creatures, and exotic tools may only be made custom for creatures of the appropriate size.
 
   **• Fine, $350, 1.25 lb.**  
 Used to operate mechanisms with very fine pieces such as household clocks, small gadgets, and the locks of chests and doors for diminutive or small creatures. These are usually of higher quality materiial than standard sized mechanical tools.
@@ -148,7 +148,7 @@ This rope is a little more prone to deterioration than its fibrous counterparts,
 * **Steel Chain, $504 per yard, 7 lb**  
 Composed of steel links rather than traditional rope braiding, steel chains can be used much like ropes when securing loads. It's not kind to the flesh compared to fiber rope or silk. Strength 5,750.
 
-**Shovel / Spade, $175, 4.25 lb.**  
+**Shovel / Spade, $148, 4.25 lb.**  
 EIther one functions mostly the same, but each has their advantages. Can be used as a club with a range of 1 yard which is used with both hands. When used this way, it gains a +1 bonus for the purpose of determining a critical hit.
 
 **Tatami, $55, 15.5 lb.**  
