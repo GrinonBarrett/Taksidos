@@ -67,3 +67,7 @@ Tempter of the bright
 Bane of Luncerun
 Consuming light
 The dragon in silver "
+
+[Greater Gods]: # " These desities can hypothetically exist on a plane, but too many of them becoming active will leads to catastrophe. They include the follwoing deities."
+
+[Alekard]: # "Once an Abveros from the realm of Luncerun and Solistair, he became corrupted by Blancocha in pursuit of the restoration of his species and the desire to build a family. As a result, he tore open a hole in the planes and was 'rewarded' for his work by being made a greater god by Blancocha. His actions damned the ramaining members of his species and has caused a vampiric disease to begin spreading acroess his followers. "
