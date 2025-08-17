@@ -5,14 +5,29 @@ Here are listed various deities of each pantheon.
 ## Meolasine
 Meolasine deities are shared with outside cultures and are not exactly a trademark of the meolasine culture. Likewise, deities of other cultures may also see some tributes from the meolas peoples. This pantheon represents the core of deities which the state supports publicly.
 
+#### Akhrer
+A god of death, fermentation, and knowledge. A quadron of death and the patron deity of alchemists. Akhrer is also worshiped by makers of win, beer, and any distillate. It is said the Akhrer onced walked the lands making substances from whatever he could find and sharing it with the people. This brought beer, wine, spirits, and even alchemy to all- but also cursed us with poisons and death in the process. AS punishment, akhrer's role became that of an observant guide.
+
+#### Breretha
+Goddess of life and harvest. She draws in each seed a plan for its growth that it may thrive just as intended. It is said that if one of your seeds grows into a different plant than expected, she has a plan for it. Some small temples have been errected at the sites of such plants and their attendants can be quite hospitable to adventurers.
+
+#### Imuria
+Sower of clouds and warden against evil. She sows clouds into the very tapestry  of the sky that the might unfurl where needed. SHe made Zyclode's shield and set him about on his mission to ensure the rrains. Interestingly, the Korventennain have a similar goddess in their pantheon.
+
 #### Othmazdo
-A god of life, death, and vengeance. He is one of the the quadrons of the afterlife. He is a common patron for members of the military class.
+A god of life, death, and vengeance. He is one of the quadrons of the afterlife. He is a common patron for members of the military class.
+
+#### Peluz
+God of the sun and moon, he presides over light itself. He also functions as a messenger between gods and mortals.
 
 #### Tamas
 A god of death, law, and community. He is one of the quadrons of the afterlife. His role is to ensure that righteous rulers (and even leaders of a lesser position) have a comfortable afterlife and that inscrupulous rulers suffer until dark of a night devoid of drawn breath. He is a common patron for aristocrats and clergy.
 
+#### Thazduras
+A god of death, mining, and wealth. He is the quadron of death banished to the depths of the earth. He loves fine craftsmanship and appreciates bold and skillfil adventurers, but is said to punish greedy adventurers. His punishments were said to get so out of hand that he was not allowed overland unless it was to attend a funeral- an exception allowed since his favorite hero had been felled. It is said that he will show up to the funeral of a great person and donate large sums of money to their laying to rest. If someone touches this wealth though, he may be allowed to seek vengeance on the graverobbers.
+
 #### Zyclod
-A god of war, leadership, and adventurers. Zyclod leads heroes and gods alike to action. His javelin is the lightning in the storm and his shield, made of silver clouds, crashes with thunfer when struck. Every storm is zyclod in battle. His most important duty is to do battle with creatures that withhold the rain in clouds, so that the soil may be nourished.
+A god of war, leadership, and adventurers. Zyclod leads heroes and gods alike to action. His javelin is the lightning in the storm and his shield, made of silver clouds, crashes with thunder when struck. Every storm is zyclod in battle. His most important duty is to do battle with creatures that withhold the rain in clouds, so that the soil may be nourished.
 
 -----
 
