@@ -50,7 +50,7 @@ Longsword
 The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additional points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
 If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
 
-**Crimson Fist** (8unique*)  
+**Crimson Fist** (*unique*)  
 $12,000 , 4 lbs.  
 Mace  
 This mace has slight flanges to it. Each flange bears a crimson stripe. The handle is a leather wrapped grip. *Grants a +1 to all attack rolls made with the weapon. If name is known, this in increased to a +2*.
