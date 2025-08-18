@@ -50,6 +50,11 @@ Longsword
 The name of this sword came to its creator in a dream. Against creatures of undeath, the foe loses additional points of undeath on a successful hit equal to the wielder's [Body] or [Rflx] bonus, whichever is greater. Additionally, critical hits *may be treated as though they were cold attacks*.  
 If the sword's name is known to the user, *their attack rolls with the weapon gain a +1 bonus*.
 
+**Crimson Fist** (8unique*)  
+$12,000 , 4 lbs.  
+Mace  
+This mace has slight flanges to it. Each flange bears a crimson stripe. The handle is a leather wrapped grip. *Grants a +1 to all attack rolls made with the weapon. If name is known, this in increased to a +2*.
+
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
 Longsword  
@@ -127,6 +132,11 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 $4,900 , neg.  
 Unarmed  
 Technically, two of these exist, but they only function if both are adorned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
+
+**Greenfist** (*unique*)  
+$5,600 , 2.75 lbs.  
+Club  
+When wielded by an Elemental, Fey, Plant, or Sylvan creature- this club *gains a +1 bonus to all attacks, beats, and parries. Additionally, if name is known, user can cast the spell Green Ward using any of their spellcastiung methods and/or wyrding, even if they did not know it. A creature which is not normally capable of casting spells may still do so as a wyrding*.
 
 **Grim Raveler** (*unique*)  
 $6,000  
