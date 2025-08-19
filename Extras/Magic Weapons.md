@@ -138,6 +138,11 @@ $5,600 , 2.75 lbs.
 Club  
 When wielded by an Elemental, Fey, Plant, or Sylvan creature- this club *gains a +1 bonus to all attacks, beats, and parries. Additionally, if name is known, user can cast the spell Green Ward using any of their spellcastiung methods and/or wyrding, even if they did not know it. A creature which is not normally capable of casting spells may still do so as a wyrding*.
 
+**Grimfrost Flail**  
+$5,800 , 4 lbs.  
+Flail  
+An item that has been occasionally found in the armory of ancient dungeons and often seen wielded by the ominous Frostlashed Knights. Both of the jagged heads of this flail seem to be made of an ice that never melts. Inflicts attacks like a morningstar, *but also inflicts the critical hit effect of a cold attack*. If it would ever qualify to damage armor, one of the heads will shatter, *inflicting a cold attack against that foe*. If one of the heads is missing, the attacks of this weapon suffer a -1 in the future. If the magic of this item is ever supressed, the heads will immediately melt.
+
 **Grim Raveler** (*unique*)  
 $6,000  
 Poleaxe  
