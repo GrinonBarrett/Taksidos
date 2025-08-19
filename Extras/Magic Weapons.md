@@ -226,6 +226,11 @@ $3,000 , 3.5 lbs.
 Longsword  
 A rather normal longsword with a vaguely magical aura. *If name is known, the sword also inflicts a cutting attack against a foe if the original attack roll result is a 13 or 17*.
 
+**Palefist**, (*unique*)  
+$9,000 , 4 lbs.  
+Mace  
+This glorious beater is made almost entriely of a single piece of ivory, save for a flanged crown of altyprium which rests securely inside it.W  When inflicting a critical hit, *if the name is known, it can inflict an additional exotic critical hit effect of the user's choice*.
+
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
 Mace  
@@ -262,6 +267,12 @@ If the user knows the arrow's name, they may choose to inflict the traditional c
 $20,000 , 3.75 lbs.  
 Longsword  
 Made of bone, in the tradition of merfolk weapons, this blade has been passed down for generations. If name is known, *it can be called on to blast a combination of skin-boiling steam and arctic mist in a 5 yard cone as an action by taking on 1d6+3 points of spell sickness. Everything in the cone is subject to a cold attack and a fire attack. This cannot be done again until the sword and a user rest. If name is known and user has Weapon Mastery with longwords, they may treat a critical hit as that of a cold attack*.
+
+**Stormfist** (*unique*)  
+$11,750 , 17 lbs.  
+Maul  
+This "maul" is an oak shaft magically hewn iinto anrough cut shape of stone. Requires [Body] 17 to use in just two hands, or or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
+It is said that large creatures can use it as though it were a large weapon, but still require the minimum [Body].
 
 **Syphoning Sabre** (*unique*)  
 $8,500 , 3 lbs.  
