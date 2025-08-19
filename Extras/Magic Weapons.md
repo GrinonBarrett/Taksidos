@@ -161,6 +161,11 @@ A morning star notable for the twisted base of its spikes. When the user presses
 
 If name is the user may also sinply choose to apply this to a single attack they make each round.
 
+**Kalazael** (*unique*)  
+$14,200 , 5.5 lbs.  
+Pole Axe  
+A longer variant of the pole axe that reaches out to 3 yards. Because of its length, it suffers a -1 penalty to all and an additional -1 to attacks within 1 yard. A critical hit or successful follow up attack from the weapon will also *inflict an electrical attack. If name is known, you may take on 1d4 points of spell sickness as a reaction upon a successful hit against a foe. If you do, you cause an explosion affecting the struck foe and everything within 1 yard of it. Those within the explosion are subject to an electric attack and an acid attack*.
+
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
 Pole Axe  
