@@ -70,8 +70,12 @@ If name is known, *it gains a +1 bonus to attack rolls*.
 $2,600, 3 lbs.  
 Longsword  
 A finely made sword, somehwat lighter than would be expected. User gains *a +1 bonus for the purpose of inflicting a critical hit*.
-
 If name is known, bonus is instead a standard bonus to attack roll.
+
+**Dragon's Fear** (*unique*)  
+$7,000 , 8.25 lbs.  
+Greatsword (large)  
+A greatsword from the time when elves ruled over castles, giants roamed the land, and dragons reigned as scourages across the world. This is a large sized greatsword of fine craftsmanship, gaining a +1 bonus for the purpose of inflicting a critical hit. *Against Drakomadiae, it is instead simply a +1 bonus. Against a dragon, the sword instead gains a +3 bonus. If it would qualify to damage armor against that creature, it also inflicts a cutting attack*. Many dragons will recognise the sword by looking at it.
 
 **Dyrwyn** (*unique*)  
 $20,000 , 3.5 lbs.  
