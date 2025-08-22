@@ -45,7 +45,7 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 * Tuned: Sonic.
 * Vital: Toxic.
 
-Cost to repair is triple the normal cost.
+Cost to repair is quadruiple the normal cost. Any competent armorer that gets ahold of this will understand its magical nature and will know if they can repair it.
 
 **Explosive Plates**  
 Cuirass  
@@ -87,6 +87,12 @@ $400,000, 60 lb.
 2/4  
 A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
 Cost to repair is $1,000 per point.
+
+**Yebris' Kit** (*unique*)  
+Plate   
+$37,750 , 68 lb.  
+3/5  
+A plate and chain suit made for the legendary Centaur warrior Yebris. It has been passed down through a chain of succession via squires to the previous owner. It is already fit for a centaur, but a $500 price tag on tailoring it to a new wearer would be a sound investment. *If properly fitted, the suit provides +2 defense to the first attack made against the wearer each round. It also provides a +1 to all counter attacks made by the wearer*.
 
 **Yinkine Garb**
 Gambeson  
