@@ -37,6 +37,10 @@ When used to block for yourself, it is always treated as giving you an additiona
 +1  
 A finely made rondache stained by wode and adorned with altyprium. *The wearer gains an additional +1 to defense against magical attacks. If a magical attack is blocked, and that attack is a critical failure, the wearer may reduce their spell sickness by 1*.   
 
+**Moor Ranger's Favor**, $350 , 3.75 lb.  
++1  
+A simple cheap wood shield with a thin tanned covering. It is not a common sight and is often a simple targe which has been blessed or otherwise enchanted. *If used to block a magical attack, and that attack is a critical hit or would qualify to damage armor- it instead destroys the shield. If it would have wounded the wearer, it still does so*.
+
 **Radiant Bastion**, $1,200 , 6 lb.  
 +3  
 An ornate kite shield wielded by the most holy of warriors. If the wearer is afflicted by a necrotic attack *they may treat their next attack as being radiant*. They also gain a *+1 bonus to defense against necrotic and radiant attacks*.
