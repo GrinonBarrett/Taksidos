@@ -1557,7 +1557,23 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (4
+### M (5
+
+#### Meteor
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 20 yards
+
+**Effect**: You conjure a meteor which either appears to be hurled by you or is called forth from the sky to be directed to a foe within range. Upon impact, it inflicts a force attack against the foe. It then explodes, inflicting a force attack against all creatures (including the target) within 2 yards. If any attack from this would qualify to damage armor against a foe, it inflicts an additional attack. This additional attack is a cold attack if hurled from you or a fire attack if rained from above.
+
+If the spell check is a critical success, the initial hit will also apply the effect of a critical hit of the appropriate bonus type (cold or fire) so long as the attack is successful.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may increase the range of the explosion by 1 yard or the range by 3 yards.
+
+**Critical Failure**: The meteor is instead targets you. The initial attack gains a bonus equal to the spell's tier for the purposes of inflicting a critical hit.
 
 #### Mindless Command
 
