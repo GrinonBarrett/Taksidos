@@ -1402,7 +1402,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (2
+### J (3
 
 #### Jaunt Macabre
 
@@ -1425,6 +1425,21 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 * You may affect an additional corpse to allow an additional crreature to transport. They may exit through the same corpse or a different corpse.
 
 **Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of thise attacks is successful against you, the following attacks each get an instance of advantage.
+
+#### Jet
+
+**Minimum Tier**: 5
+
+**Casting Time**: 2 actionss
+
+**Effect**: You create a tap to access a supernatural source of damaging fluid, producing a jet of acid 15 yards in a line which is .5 feet high and wide. Everything in the line is subject to an acid attack, which is resolved in the order of nearest (to point of origin) to farthest. This spell can break through intersposing barriers so long as the total thickness is no greater than a number of half feet equal to the spell's tier.
+
+If the spell check is a critical success, you may change the effect of a critical hit by this attack to be that of any one exotic damage type. Additionally, if the attack would qualify to damage armor, it also inflicts an attack of that type.
+
+**At Higher Tiers**: In addition to the benefits noted above, each tier beyond the minimum increases the distance of the jet by 1 yard.
+
+**Critical Failure**: Your attempt at conjuring the spray has failed horribly. Inflict an acid attack against everything within a number of feet equal to the spell's tier (including yourself), and then a number of acid attacks against yourself equal to half of the spell's tier (round down).
+
 
 #### Jinx
 
