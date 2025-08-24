@@ -2677,7 +2677,7 @@ If you know this spell, you can indentify marks made with it- even if you do not
 
 **Minimum Tier**: 3
 
-**Casting Time**: 3 actions
+**Casting Time**: 2 actions
 
 **Effect**: Choose an exotic damage type. You create an orb of energy which you can direct around you, with it returning to your hand. You may swing it as a flail within 2 yards to inflict a dagger attack or you may hurl it a number of yards equal to double the spell's tier to inflict a sling attack or thrown blade attack. If the initial attack is successful, you inflict an attack of the chosen exotic type.
 
