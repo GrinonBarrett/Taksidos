@@ -1702,21 +1702,30 @@ An attack on the sphere is successful with an attack total of 5 or mroe and will
 
 **Critical Failure**: The sphere doesn't form correctly and instantly explodes, inflicting an acid attack against you with a bonus equal to the spell tier for the purpose of determining a critical hit and leaving mucous on everything else within 1 yard.
 
-#### Orb Mote
+#### Orbiting Guard
 
 **Minimum Tier**: 3
 
-**Casting Time**: 3 actions
+**Casting Time**: 2 actions
 
-**Effect**: Choose an exotic damage type. You create an orb of energy which you can direct around you, with it returning to your hand. You may swing it as a flail within 2 yards to inflict a dagger attack or you may hurl it a number of yards equal to double the spell's tier to inflict a sling attack or thrown blade attack. If the initial attack is successful, you inflict an attack of the chosen exotic type.
+**Duration**: 5 rounds
 
-You may wind the globe as though it were a flail/sling. When used for a melee attack, if you have training with flails, you may benefit from it. If using it as a sling or thrown blade and you have training with the appropriate weapon, you may benefit from that training.
+**Effect**: Select an exotic damage type. You create 2 glowing motes that orbit around you in swirling patterns. Each mote produces dim light out for an inch, just enough for them to be visible in the dark but not enough to see anything else. For the duration of the spell, when you are attacked you may use your reaction to do one of the following;  
+* Attempt to reduce the impact with a mote. The mote provides a 1d4 bonus to defense- which is increased to 1d6 against attacks of the same type (the type you selected when casting the spell).
+* Attempt to retialiate with a mote, flinging it at the source of that attack if it is within 10 yards.
+* Detonate a mote, casuing an explosion that inflicts an attack against all within 1 foot (including yourself). You gain a bonus to defense against the attack equal to the spell's tier.
 
-This ball of energy lasts until the end of the round, or it would qualify to damage armor (where the orb becomes compromised and breaks after the strike), whichever occurs first.
+Additionally, while brawling with a foe, you may have the mote inflict a normal attack or detonate as above by using your reaction. The single attack suffers a penalty for brawling but not the attack from the explosion.
 
-**At Higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
+When the duration expires, the motes fade from existance. When a mote is used, it ceases to be.
 
-**Critical Failure**: You fail to stablize the orb, causing it to explode. You are knocked back 1d8 feet and suffer an attack of the exotic attack with a bonus equal to the spell's tier.
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose one of the following;  
+* The duration is increased by 5 rounds
+* The range you may fling the mote in retaliation is increased by 5 yards
+* The range of the explosion may be uincreased by up to 2 feet (you decide when detonating)
+* You produce an additional mote
+
+**Critical Failure**: You create the motes as though the spell functions normally. Anytime you perform an action or reaction, one of them explodes. You do not gain a bonus against the mote and instead the explosion gain a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Oscillating Wave
 
@@ -2643,7 +2652,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a acid attack. You are prone during this time.
 
-### X (2
+### X (3
 
 #### Xanthic Sign
 
@@ -2663,6 +2672,22 @@ If you know this spell, you can indentify marks made with it- even if you do not
 **At Higher Tiers**: Each tier beyond minimum provides benefits as noted above.
 
 **Critical Failure**: You (yet no other) see a mark form on the subject. After a minute, you begin seeing yellow signs manifest on various objects and creatures. Every 1d8+2 minutes, you must succeed a [Empy] save or receive a point of inebriation. The hallucinations and inebriation will continue for a number of hours equal to the spell's tier + points of failure. Critically failing an [Empy] save during this time may expose you to visions of something beyond the known world.
+
+#### Xenorb
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Effect**: Choose an exotic damage type. You create an orb of energy which you can direct around you, with it returning to your hand. You may swing it as a flail within 2 yards to inflict a dagger attack or you may hurl it a number of yards equal to double the spell's tier to inflict a sling attack or thrown blade attack. If the initial attack is successful, you inflict an attack of the chosen exotic type.
+
+You may wind the globe as though it were a flail/sling. When used for a melee attack, if you have training with flails, you may benefit from it. If using it as a sling or thrown blade and you have training with the appropriate weapon, you may benefit from that training.
+
+This ball of energy lasts until the end of the round, or it would qualify to damage armor (where the orb becomes compromised and breaks after the strike), whichever occurs first.
+
+**At Higher Tiers**: For each tier beyond minimum, the exotic damage attack gains a +1 bonus for the purpose of determining a critical hit and you may have the energy ball last an additional round if it doesn't break.
+
+**Critical Failure**: You fail to stablize the orb, causing it to explode. You are knocked back 1d8 feet and suffer an attack of the exotic attack with a bonus equal to the spell's tier.
 
 #### Xylary Form
 
