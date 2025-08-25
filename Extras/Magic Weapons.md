@@ -77,6 +77,12 @@ $7,000 , 8.25 lbs.
 Greatsword (large)  
 A greatsword from the time when elves ruled over castles, giants roamed the land, and dragons reigned as scourages across the world. This is a large sized greatsword of fine craftsmanship, gaining a +1 bonus for the purpose of inflicting a critical hit. *Against Drakomadiae, it is instead simply a +1 bonus. Against a dragon, the sword instead gains a +3 bonus. If it would qualify to damage armor against that creature, it also inflicts a cutting attack*. Many dragons will recognise the sword by looking at it.
 
+**Dragon's Tongue** (*unique*)  
+$6,500, 4 lbs. 
+Longsword  
+A well forged hand-and-a-half sword. Range is increased to 4 feet  You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit. *User may cast the Dragon's Breath spell as though they knew it. Additionally, anytime the an  attack with this sword would qualify to damage armor or is a critical hit, it also inflicts a fire attack*.  
+If name is known, user may *treat the standard attack by this weapon as a fire or toxic*.
+
 **Dyrwyn** (*unique*)  
 $20,000 , 3.5 lbs.  
 Longsword  
@@ -124,7 +130,7 @@ This curved blade only reaches out 2 feet. *The user may take on a point of spel
 **Flaming Flamberge** (*unique*)  
 $5,950 , 6.5 lbs.  
 Greatsword  
-This sword is never cold to the touch. As an action, *the user may have the blade ignite with flame. It puts out light like a torch and also inflicts a fire attack when inflicting any other attack*. The flames can be extinguished by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1.5 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with fire, inflicting a foe attack against that foe*.
+This sword is never cold to the touch. As an action, *the user may have the blade ignite with flame. It puts out light like a torch and also inflicts a fire attack when inflicting any other attack*. The flames can be extinguished by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1.5 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with fire, inflicting a fire attack against that foe*.
 
 **Fleres** (*unique*)  
 $4,000 , 3 lbs.  
