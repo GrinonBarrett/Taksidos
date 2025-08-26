@@ -242,6 +242,12 @@ $12,800 , 4.25 lbs.
 Mace  
 An earthen handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
 
+**Moon Reaver** (*unique*)  
+$7,000 , 4.5 lbs.  
+Pole Axe  
+A finely made pole axe featuring crescent moon blades. *When user presses attack, it also inflicts an addttional attack roll. If Odd, it is radiant. If even, it is a ki attack*.  
+If the name is known *the user may replace any critical hit effect caused by this weapon with that of either a bare attack or necrotic attack*.
+
 **Needle** (*unique*)  
 $7,000 , .33 lbs.  
 Wand  
