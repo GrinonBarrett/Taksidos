@@ -6,6 +6,9 @@ When you perform an attack roll, you may choose to incur a -2 penalty to your at
 **Dejection**, 2 items  
 You may perform your block with a shield against attacks which are the result of magical effects that would affect an area as though they were targeted effects. You provide an additional +1 bonus to defense when blocking.
 
+**Exertive Force**, 2 items  
+When you press attack, and that attack is successful, you may either jump or choose to move a number of feet equal to your heroism using one of youre movement methods (so long as it does not exceed your movement speed).
+
 **Guarding**, 2 items  
 Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
 
