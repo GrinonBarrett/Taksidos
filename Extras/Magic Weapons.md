@@ -78,7 +78,7 @@ Greatsword (large)
 A greatsword from the time when elves ruled over castles, giants roamed the land, and dragons reigned as scourages across the world. This is a large sized greatsword of fine craftsmanship, gaining a +1 bonus for the purpose of inflicting a critical hit. *Against Drakomadiae, it is instead simply a +1 bonus. Against a dragon, the sword instead gains a +3 bonus. If it would qualify to damage armor against that creature, it also inflicts a cutting attack*. Many dragons will recognise the sword by looking at it.
 
 **Dragon's Tongue** (*unique*)  
-$6,500, 4 lbs. 
+$6,500, 4 lbs.  
 Longsword  
 A well forged hand-and-a-half sword. Range is increased to 4 feet  You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit. *User may cast the Dragon's Breath spell as though they knew it. Additionally, anytime the an  attack with this sword would qualify to damage armor or is a critical hit, it also inflicts a fire attack*.  
 If name is known, user may *treat the standard attack by this weapon as a fire or toxic*.
@@ -346,6 +346,12 @@ This warhammer is well made. It can be thrown as a thrown blade, but inflicts an
 $5,700 , 4 lbs.  
 Warpick  
 A gnarled warpick forged in curses against humanity. Anytime it inflicts an attack against a humanoid, *it inflicts an additional attack*. If stuck in a humanoid foe, *it is vulnerable*.
+
+**Yalavize** (*unique*)  
+$7,410 , 3 lbs.  
+Longsword  
+This altyprium sword is somewhat light for its design, and features a small strange curve on the last few inches of the blade. It is one of the most comfortable swords to swing by most skilled swordsmen. *A critical hit with this weapon also inflicts the effect of an electric attack*.  
+If name is known, *user gains a +1 bonus to attacks with it. Additionally, anytime they peform a critical hit with any melee attack or slam a foe- they may use their reaction to also inflict an electric attack. This may occur even if the sword is sheathed*.
 
 **Zerun's Eye**  
 $11,500 , neg.  
