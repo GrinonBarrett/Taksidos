@@ -123,9 +123,15 @@ Morningstar
 This spiked weapon is capable of *projecting its protusions out in a hemisphere out 1.5 yards, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
 
 **Fanijin's Blade**, (*unique*)  
-$600, 3 lb.  
+$600, 3 lbs.  
 Longsword  
 This curved blade only reaches out 2 feet. *The user may take on a point of spell sickness to wreathe the blade in fire, causing it to emit light like a torch, for 5 minutes. If an attack is made during this time, the flame is extinguished before it can connect unless the user opts to take on 1d4-1 points of spell sickness*.
+
+**Fearful Fang**, (*unique*)  
+$5,680 , 5 lbs.  
+Pole Axe  
+This pole axe features a serrated backhead. It's not the most practical design but it has been known to terrify foes. *WHen an attack would qualify to damage armor or is a critical hit, the foe is filled with fear. It suffers a -1 to all attack rolls, checks, penalties, and defense until the end of the next round*.  
+Additionally, if name is known, *and user presses attack, a necrotic attack is also inflicted. Instead of inflicting the standard necrotic critical hit effect- the foe is filled with such terror that they must move away from the user using all of their m,ovement until the end of the next round*.
 
 **Flaming Flamberge** (*unique*)  
 $5,950 , 6.5 lbs.  
