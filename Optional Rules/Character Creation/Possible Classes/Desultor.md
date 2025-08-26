@@ -76,7 +76,7 @@ If you are hemorhhaging, obtunded, or stuporous when rolling an incapacitation s
 The amount of inebriation required to incapacitate you is increased by your current hitpoints.
 
 ### 8) Moment of Clarity
-Once, when performing a check, you may opt not to roll the standard 3d6. If you do, you use your current level of inebriation and your heroism as your result. You may still benefit from skills and other bonuses. You must complete a full rest before doing so again.
+Once, when performing a check, you may opt not to roll the standard 3d6. If you do, you roll 1d12 plus your current points of inebriation plus your heroism as your result. You may still benefit from skills and other bonuses. You must complete a full rest before doing so again.
 
 ### 9) Unbreakable
 Each time an attack against your is successful, you gain a +1 bonus to defense until the end of the next round.
