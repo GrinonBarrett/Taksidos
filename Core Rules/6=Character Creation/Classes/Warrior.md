@@ -30,7 +30,7 @@ At the beginning of any encounter, you may choose one of the following:
 * **Haste**. You gain a +1 to attacks and opposed checks against foes with a later turn order than yourself.
 * **Patience**. You gain a +1 to defense and opposed checks against foes with an earlier turn order than yourself.
 * **Caution**. Choose a reaction, you are automatically braced for it during the first round of combat or until you take an action (whichever occurs later).
-* **Zeal**. When you Press Attack, you may replace the advantage gained on an attack with getting a bonus equal to your profiiency bonus for the purpose of determining if it is a critical hit.
+* **Zeal**. When you Press Attack, you may replace the advantage gained on an attack with getting a bonus equal to your heroism for the purpose of determining if it is a critical hit.
 
 ### Shield Proficiency
 Warriors are able to utilize their shield to a greater extent than others. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can instead gain training with them as though they were a weapon class of their own (shields). If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to beat and parry checks with the shield equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
