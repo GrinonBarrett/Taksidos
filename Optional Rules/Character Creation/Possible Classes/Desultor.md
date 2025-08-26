@@ -42,7 +42,7 @@ When you recoil, you may instead shift the wound result a number of steps equal 
 When you are shoved while prone, you may use your reaction to no longer be prone.
 
 ### 2) Forward Momentum
-When your movement results in a brawl, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your checks equal to 1/3 the distance in yards you moved since the start of the round or your previous action (whichever is most recent) to either the [Body] or [Rflx] check. If you do, and that check is a critical failure, you are vulnerable until the end of the round.
+When your movement results in a brawl, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your checks equal to 1/3 the distance in yards you moved since the start of the round or your previous action (whichever is most recent) to the check. If you do, and that check is a critical failure, you are vulnerable until the end of the round.
 
 ### 3) Sliding Recovery
 When you are knocked back while prone for a set period of time, you may reduce the total remaining number of rounds you are prone by the number of yards you are knocked back.
