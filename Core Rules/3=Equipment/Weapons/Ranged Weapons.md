@@ -37,7 +37,7 @@ Weight is increased to 3.5 lb and range is reduced by 1/3. In place of a normal 
 
 **Trunotor**, $400  
 Arquebus  
-An arquebus designed for smaller creatures. It can also be used by a younger member of the medium szied species. It fires a trunotonante bullet, has a total range of 180 Yards, and and optimal range of 3-90 yards. The weight is down to 7 pounds. Can be used with a [Body] of 10 or greater without ill effect. If used with a lower [Body] score, each point of difference brings with it a point of recoil. Treat as a trunotonante attack.
+An arquebus designed for smaller creatures. It can also be used by a younger member of the medium szied species. It fires a trunotonante bullet, has a total range of 180 Yards, and an optimal range of 3-90 yards. The weight is down to 7 pounds. Can be used with a [Body] of 10 or greater without ill effect. If used with a lower [Body] score, each point of difference brings with it a point of recoil. Treat as a trunotonante attack.
 
 **Lanciator**, $485  
 Musket  
