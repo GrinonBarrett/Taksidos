@@ -45,7 +45,7 @@ A musket designed for smaller creatures. It fires an arquebus bullet, has a tota
 
 **Mechanical Crossbow**, $400, 10 lb  
 Crossbow  
-An invention of Lancelittle Machinehand, predating the introduction of firearms in the west by a mere year, these weapons can be a bit fiddly. Requires [Body] 11+ to reload and the use of standard mechanical tools. Reloading requires 2 consecutive actions. You may forego your movement during a movement phase to contribute an additional action towards this. Gains a +1 for the purpose of determining a critical hit. Attacks within optimal range also gain a +1 bonus.  
+An invention of Lancelittle Machinehand, predating the introduction of firearms in the west by a mere year, these weapons can be a bit fiddly. Requires [Body] 10+ to reload and the use of standard mechanical tools. Reloading requires 2 consecutive actions. You may forego your movement during a movement phase to contribute an additional action towards this. Gains a +1 for the purpose of determining a critical hit. Attacks within optimal range also gain a +1 bonus.  
 Can also be used to fire sling bullets, inflicting a sling attack and using the ranges for a shortbow.  
 Anytime the weapon is cranked and fired, there is a 1 in 20 chance the mechanism will fail- rendring it useless (let the player choose a number when making their attack roll).
 
