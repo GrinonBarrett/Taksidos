@@ -20,6 +20,7 @@
 
 * † Both are considered a single weapon type, Bow. Becuase of how the muscles in the body are used with this weapon, you cannot use additional bows if you have more than two limbs. Instead, each additional limb dedicated to using the bow lowers the [Body] requirement by 1.
 * ‡ Can be used to propel a hurling item.
+* Recoil from firearms causes a penalty equal to the total to the next check/attack made before the end of the next action phase.
 
 ### Specialty Weapons
 The weapons listed above are the standard weapons made available to characters. They represent a myriad of historical and fantastical weapons. A narrator may optionally allow for some more complex options in terms of weaponry. These each function as a standard weapon except where noted.
