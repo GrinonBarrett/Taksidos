@@ -46,6 +46,9 @@ An amber colored hard substance is used for the ball in this round. This can be 
 Upon impact, a bright flash lights up the area. Anything within 15 yards must succeed a [Rflx] or [Prcp] save with a DV of 15 or be blinded for a number of rounds equal to the points of failure. A creature within 5 yards has disadvantage on its save. A creature beyond 10 yards has advantage on this save.  
 Cover bonuses to defense can be applied to the save at the narrator’s discretion.  
 
+**Glowing Bullet**, +$120 each, neg.  
+A bullet sculpted from a magical stone. When physically handled *the user may take on a point of spell sickness to have the bullet produce dim light out for .5 foot. This lasts for 1 minute. If the bullet impacts with anything during this time, it will produce the light out to 1 yard until the end of the round. These stones must see at least 24 hours of sunlight per week to maintain this feature*. This can be a sling bullet or the bullet of a firearm.
+
 **Seed of Sorrow**, $800 each, neg.  
 A stone of unknown origin which works pefectly as a sling bullet. If an attack with it would qualify to damage armor or is a critical hit, *the foe accrues a point of spell sicknesss and is cursed to be vulnerable so long as they have any spell sickness. This is also applied on a critical hit. When handling the stone with their bare flesh, the user must succeed a [Rflx] save with a DV of 18 or suffer the same effects*. Not to be buried in defiled ground during the new moon.
 
