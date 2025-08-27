@@ -37,7 +37,7 @@ You are essentially renting in a neighborhood with no direct road access between
 Somewhere off the beaten path. It's not an uncommon place for adventurers.  
 **Town**, 2x  
 This is likely where those from nearby villages come to do business. Always a bit more expensive, but its easier to find basic supplies.  
-**City****, 2.75x  
+**City**, 2.75x  
 Pricey but convenient. You could find most mundane items and some good food around these parts. You can probably also find some oddjobs or exotic items.  
 **Capitol**, 3x  
 The largest cities or even a fortress town. You can find almost anything here.
