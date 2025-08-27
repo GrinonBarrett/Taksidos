@@ -90,7 +90,6 @@ So long as it is being handled by a creature which is not affected by synnefopat
 A simpler metal amulet. It has minimal adornment.  
 *The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result*.
 
-
 **Ring of Arcane Charge**, $20,000  
 Neg.  
 A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
@@ -144,6 +143,10 @@ A ring of some various material. *It always seems to fit. It provides protection
 | **Cutting**                | Iron   | **Necrotic**       | Pearl  | **Sonic** | Quartz |
 | **Electrical**             | Copper | **Piercing**       | Wood | **Undamaging** | Hadrium |
 
+**Ring of Shielding**, $ 5,400 
+Neg.  
+A fine band, smooth to the touch. It often is host to a shied shaped charm affixed to the band. *A user with a [Will] of 13+ may activate this ring as an action to produce a forcefield affixed to the ring that functions exactly like a tower shield, save for the lack of weight nor need for minimum [Body] score. If the forcefield is destroyed by any means, roll a d6. The wearer gains spell sickness equal to the result and the ring is unable to materialize the forcefield for a number of days equal to the result +1. The forcefield can be safely dematerialized as an action or reaction*.
+
 **Ring of Wondernaming**, $9,500  
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
@@ -153,7 +156,7 @@ A ring of modest quality. Not too gaudy, but not so plain.
 Unique.  
 10 lbs.  
 A large tome which contains within its near limitless pages a great deal of knowledge on many topics. Anytime a reader gazes within for the first time, *their name is written in the index which prefices its contents and a chapter which only they can read begins to fill in the book*. The index which precedes all other contents already has several names stained upon it as follows (Tinto, Perin Arneson, Jinora, Rezerick of Eldfas, Merzhin Wyxt, Vehemente of the Lost Light).  
-If consulted while making a Alchemy, Lore, Masonry, or Spellcraft- it provides a +1 bonus to the check *or a +2 bonus if so desired*. Additionally, the chapter which is borne from the reader's gazing into the book holds proper material to learn a basic spell at its base level. The spell is determined when the character first studies the tome and will always appear the same.
+If consulted while making a Alchemy, Lore, Masonry, or Spellcraft- it provides a +1 bonus to the check *or a +2 bonus if so desired*. Additionally, the chapter which is borne from the reader's gazing into the book holds proper material to learn a basic spell at its base level. The spell is determined when the character first studies the tome and will always appear the same to that character.
 
 ###### As a narrator, feel free to add names to this book.
 
