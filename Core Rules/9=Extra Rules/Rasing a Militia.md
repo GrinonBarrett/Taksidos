@@ -8,7 +8,7 @@ Each day of training can be as little as 3 hours or as much as 10 hours. After a
 
 | Weapon | Minimum Hours | Notes |
 |-|-|-|
-| Arquebus               | 5D6+5   | Every hour costs 1d6+9 rounds of ammunition. Similar to musket, allowing half of this training to be applied to musket as well.  |
+| Arquebus               | 5D6+5   | Every hour costs 2d6+13 rounds of ammunition. Similar to musket, allowing half of this training to be applied to musket as well.  |
 | Bow                    | 3D10+80 | Every hour of training loses 1d8 arrows. |
 | Brusgiata              | 6D12+30 | |
 | Chakram                | 6D12+30 | |
@@ -25,14 +25,14 @@ Each day of training can be as little as 3 hours or as much as 10 hours. After a
 | Madu                   | 7D8+34  | |
 | Maul                   | 5D10+45 | |
 | Morningstar            | 5D12+40 | |
-| Musket                 | 5d8+5   | Every hour costs 1d6+9 rounds of ammunition. Similar to arquebus, allowing half of this training to be applied to arquebus as well. |
+| Musket                 | 5d8+5   | Every hour costs 2d6+13 rounds of ammunition. Similar to arquebus, allowing half of this training to be applied to arquebus as well. |
 | Pike                   | 5d10+20 | Similar to spear, allowing half of this training to be applied to spear as well. |
 | Pole Axe               | 6D10+45 | |
 | Sling                  | 10d10+50| |
 | Spear                  | 5D12+40 | Similar to pike, allowing half of this training to be applied to pike as well. |
 | Staff                  | 5d20+75 | |
 | Thrown Blade           | 4D12+26 | |
-| Tronutonante           |  10D10  | Every hour of training costs 1d6+9 rounds of ammunition. |
+| Tronutonante           |  10D10  | Every hour of training costs 1d8+12 rounds of ammunition. |
 | Warpick                | 6D10+40 | |
 | Wands                  | 7D20+60 | |
 | Unarmed                | 5D8+60  | If trainer does not have similar body parts for unarmed attacks, only half of training time counts. |
