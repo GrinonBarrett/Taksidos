@@ -119,6 +119,10 @@ Neg.
 A silver ring clutching a very small blue diamond.
 *After completing a full rest while wearing the ring, the wearer has an additional hitpoint which may only be applied against magical effects (such as costs for casting spells or wounds inflicted against the wearer by magical effects). The wearer must complete another full rest to recover this special hitpoint*.
 
+**Ring of Missiles**, $2,050 + $850 per maximum charge  
+Neg.  
+An altyprium ring of good quality clutching a small gem. This ring can store a maximum of 1d4+6 charges. *As an action, the wearer may produce a number of magical projectiles and direct them at a foe within 25 yards by expending any number of charges (but at least 1). The number of missiles produced this way is equal to the charges expent +1. The user also gains a point of spell sickness each time they use the ring. Each missile inflicts a sling attack. Charges are regained at a rate of 1 per week*.
+
 **Ring of Oppressive Force**, $28,000  
 Neg.  
 This thick banded ring features an intricate design and an inscritption in a dead tongue.  
