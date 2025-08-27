@@ -90,6 +90,10 @@ So long as it is being handled by a creature which is not affected by synnefopat
 A simpler metal amulet. It has minimal adornment.  
 *The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result*.
 
+**Periapt of Light**, $3,900  
+.5 lb.  
+A charm shaped as a sun, eye, flame, or some holy symbol. *As an action, the wearer may have the periapt produce fair light out in a cone up to 3 yards, and dim light extending from this to further the cone another 3 yards. Every minute of this incurs a point of spell sickness. Each round, a d20 is rolled. If the result is equal to or less than the wearer's spell sickness, the periapt ceases to function for 1 hour. Alternatively, if the wearer has 15+ [Will], they may take on 1d6+1 points of spell sickness to produce a 7 yard cone of bright light projecting from the periapt as an action. This light lasts until the end of the round and cannot be done if the user already has spell sickness*.
+
 **Ring of Arcane Charge**, $20,000  
 Neg.  
 A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
