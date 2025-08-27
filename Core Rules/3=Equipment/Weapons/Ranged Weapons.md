@@ -43,6 +43,12 @@ An arquebus designed for smaller creatures. It can also be used by a younger mem
 Musket  
 A musket designed for smaller creatures. It fires an arquebus bullet, has a total range of 200 Yards, and and optimal range of 3-100 yards. The weight is down to 9 pounds. Treat as an arquebus attack.
 
+**Mechanical Crossbow**, $400, 10 lb  
+Crossbow  
+An invention of Lancelittle Machinehand, predating the introduction of firearms in the west by a mere year, these weapons can be a bit fiddly. Requires [Body] 11+ to reload and the use of standard mechanical tools. Reloading requires 2 consecutive actions. You may forego your movement during a movement phase to contribute an additional action towards this. Gains a +1 for the purpose of determining a critical hit. Attacks within optimal range also gain a +1 bonus.  
+Can also be used to fire sling bullets, inflicting a sling attack and using the ranges for a shortbow.  
+Anytime the weapon is cranked and fired, there is a 1 in 20 chance the mechanism will fail- rendring it useless (let the player choose a number when making their attack roll).
+
 **Repeating Crossbow**, $200  
 Crossbow  
 A home defense weapon. This crossbow fires two proprietary bolt when attacking, inflicting a single thrown blade attack against a foe. The maximum range is only 120 yards with an optimal range of between 2 and 50 yards.If it is somehow fired with only one bolt, it suffers a -2 to its attack. Anytime the user performs an attack action with this weapon, if they have an additional limb available, they may perform two attacks. Each of these attacks consume ammunition. They may be against the same or different foes so long as they are in the same facing from the user.  
