@@ -71,7 +71,7 @@ It may also be used to inflict spear attacks. When used against attacks made out
 
 **Heanswyrd**, $205, 5 lb.  
 Greatsword  
-An emerian sword dsign that is pretty commonly attributed to heroes and mythological figures. The reach is only 2 yards. If user has any training with greatswords and longsword, it can be used as either.
+An emerian sword design that is pretty commonly attributed to heroes and mythological figures. The reach is only 2 yards. If user has any training with greatswords and longsword, it can be used as either.
 
 **Khopesh**, $135, 2.75 lb.  
 Longsword  
