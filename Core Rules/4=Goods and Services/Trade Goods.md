@@ -26,7 +26,7 @@ A popular treat for those with the wealth to spend and the time to shell. A poun
 An ever useful construction material and theoretically renewable if the generations take care.
 
 **Altyprium** $29 per lb.  
-A naturally occuring metal with propeties like bronze once tempered. It is extremely common. It's ore is known to be indicative of precious stones in the land.
+A greenish-yellow colored naturally occuring metal with propeties like bronze once tempered. It is extremely common. It's ore is known to be indicative of precious stones in the land.
 
 **Iron**			$35 per lb.  
 Smelted iron for use in various applications.
