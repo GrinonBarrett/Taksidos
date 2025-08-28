@@ -30,7 +30,7 @@ Weapon Type
 Description  
 Special Notes
 
-**Bastard Sword**, $2, 3.75 lb.  
+**Bastard Sword**, $180, 3.75 lb.  
 Longsword  
 A longer sword known for its versatility.  
 You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit and reach is increased to 4 feet.
@@ -38,7 +38,7 @@ You may wield this sword with two hands. If you do, you may treat your attack to
 **Bygeswyrd**, $200, 4.25 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is of emerian origin.  
-You may wield this sword with two hands, when used this way, attacks gain a +1 bonus for the purrpose of inflicting a critical hit. When used while moving at more then double the foe's speed, you gain a +2 bonus for the purpose of inflicting a critical hit.
+Reach is increased to 4 feet. You may wield this sword with two hands, when used this way, attacks gain a +1 bonus for the purrpose of inflicting a critical hit. When used while moving at more then double the foe's speed, you gain a +2 bonus for the purpose of inflicting a critical hit.
 
 **Bo**, $65, 2 lb.  
 Club  
