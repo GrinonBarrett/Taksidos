@@ -64,10 +64,10 @@ Pole Axe
 A variant of pole axe which is shortened to 5 feet. It featurs a spear tip and a hook on the back of the head. The design lends itself as an anti-polearm weapon.  
 It may also be used to inflict spear attacks. When used against attacks made outside of the nearest half of the eapon's range (2.5 feet and beyond), this weapon gains a +1 bonus to parrying melee weapon attacks made outside of half of their range.
 
-**Khopesh**, $135, 3.75 lb.  
+**Khopesh**, $135, 2.75 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is made of altyprium, and suffers the associated brittleness.  
-You may wield this sword with two hands. When used while moving at more then double the foe's speed, you gain a +3 bonus for the purpose of inflicting a critical hit.
+Range is reduced to 2 feet and attacks are force type instead of traditional longsword. When used while moving at more then double the foe's speed, you gain a +2 bonus for the purpose of inflicting a critical hit. Additionally, parries made with this weapon gain a +1 bonus.
 
 **Patta**, $170, 2.75 lb  
 Katar  
