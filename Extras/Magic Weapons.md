@@ -89,6 +89,11 @@ Longsword
 This bright blade features a notorious white hilt. When wielded by one capable of castng spells or of a good heart, *the blade immediately is cloaked in flame while unsheathed. While in this state, it puts out light like a torch and also inflicts a fire attack against anything it is used against. The wielder may use it to parry fire attacks of any kind, including ranged attacks and the attacks of area effects. It can be drawn as an action to incite a flash of fire. This is a 2 foot mikrofan that inflicts a fire attack against anything in the area. The sword cannot melt*.  
 It is said that it currently is half buried by the tip in a molten river, which is incapable of harming it. One who manages to bring from its resting place this sword will be a righteous one.
 
+**Echelon's Sting** (*unique*)  
+$15,000 , 2.25 lbs.  
+Katar  
+A punching dagger of great renown. It is said to fell all it has tasted. *WHen this weapon's attack would qualify to damage armor, it also inflicts a piercing attack. If it would inflict a critical hit but not qualify to damage armor, it inflicts an additional cutting attack. If name is known, and the successful attack roll is odd, the user may use their reaction to inflict an additional ki attack*.
+
 **Elfen Scour** (*unique*)  
 $7,600, 3.8 lbs.  
 Longsword  
