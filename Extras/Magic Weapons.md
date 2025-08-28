@@ -77,10 +77,16 @@ $7,000 , 8.25 lbs.
 Greatsword (large)  
 A greatsword from the time when elves ruled over castles, giants roamed the land, and dragons reigned as scourages across the world. This is a large sized greatsword of fine craftsmanship, gaining a +1 bonus for the purpose of inflicting a critical hit. *Against Drakomadiae, it is instead simply a +1 bonus. Against a dragon, the sword instead gains a +3 bonus. If it would qualify to damage armor against that creature, it also inflicts a cutting attack*. Many dragons will recognise the sword by looking at it.
 
+**Dragon's Fist** (*unique*)  
+$6,700 , 2 lbs.  
+Katar  
+A serrated blade on this punching dagger grants it a -1 against foes in plate and foes blocking with a shield, but a +1 against unarmored foes and foes in gambeson or cuirass (unless blocking with a shield). When you clave with this weapon *you may use your reaction to gain 1d4-1 points of spell sickness. If you do, a flash of fire is produced, inflicting a fire attack against each creature your cleave attacks. The effects of the fire attacks have no effect on the cleave. If you have more spell sickness than the number of creatures within your cleave arc, you cannot do this*.  
+If name is known *user may choose to have the critical hit of this weapon treated as that of a fire attack*.
+
 **Dragon's Tongue** (*unique*)  
 $6,500, 4 lbs.  
 Longsword  
-A well forged hand-and-a-half sword. Range is increased to 4 feet  You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit. *User may cast the Dragon's Breath spell as though they knew it. Additionally, anytime the an  attack with this sword would qualify to damage armor or is a critical hit, it also inflicts a fire attack*.  
+A well forged hand-and-a-half sword. Range is increased to 4 feet. You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit. *User may cast the Dragon's Breath spell as though they knew it. Additionally, anytime an attack with this sword would qualify to damage armor or is a critical hit, it also inflicts a fire attack*.  
 If name is known, user may *treat the standard attack by this weapon as a fire or toxic*.
 
 **Dyrwyn** (*unique*)  
