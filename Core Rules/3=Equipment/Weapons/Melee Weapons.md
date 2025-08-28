@@ -69,6 +69,10 @@ Pole Axe
 A variant of pole axe which is shortened to 5 feet. It featurs a spear tip and a hook on the back of the head. The design lends itself as an anti-polearm weapon.  
 It may also be used to inflict spear attacks. When used against attacks made outside of the nearest half of the eapon's range (2.5 feet and beyond), this weapon gains a +1 bonus to parrying melee weapon attacks made outside of half of their range.
 
+**Heanswyrd**, $205, 5 lb.  
+Greatsword  
+An emerian sword dsign that is pretty commonly attributed to heroes and mythological figures. The reach is only 2 yards. If user has any training with greatswords and longsword, it can be used as either.
+
 **Khopesh**, $135, 2.75 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is made of altyprium, and suffers the associated brittleness.  
