@@ -59,6 +59,11 @@ Flail
 A two handed flail. Very uncommon as the ergonomics don't scale well.  
 Requires two hands. Range is increased to 1.5 yards. If properly wound, gains a +1 bonus for the purpose of determining critical hits. The bonus to Beats and Parries (including those made against the the weapon) are increased to +3.
 
+**Halberd**, $230 , 5 lb.  
+Pole Axe  
+A variant of pole axe which is shortened to 5 feet. It featurs a spear tip and a hook on the back of the head. The design lends itself as an anti-polearm weapon.  
+It may also be used to inflict spear attacks. When used against attacks made outside of the nearest half of the eapon's range (2.5 feet and beyond), this weapon gains a +1 bonus to parrying melee weapon attacks made outside of half of their range.
+
 **Khopesh**, $135, 3.75 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is made of altyprium, and suffers the associated brittleness.  
