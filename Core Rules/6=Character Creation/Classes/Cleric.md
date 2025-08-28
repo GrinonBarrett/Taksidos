@@ -34,7 +34,7 @@ You have learned several religious rites which can be used as an alternative to 
 * A critical success will increase the tier of the cast spell by 1.  
 * A critical failure has a 50% chance not to apply its critical failure effect.
 
-You may learn rites from your faith independant of spells. Learning rites takes as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 if you know the associated spell.
+You may learn rites from your faith independant of spells. Learning rites takes half as much time as learning a new spell otherwise. The time to learn a rite is divided by 10 instead if you know the associated spell.
 
 ### 2) Exogesis
 Anytime you successfully prevent the casting of a spell through the use of counterspelling, you gain a +1 on all attacks and defense against that creature for a number of days equal to the tier of the spell. This is not cumulative in benefits, but can be extended through multiple counterspellings.
