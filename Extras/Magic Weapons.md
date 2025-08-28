@@ -149,6 +149,11 @@ $4,900 , neg.
 Unarmed  
 Technically, two of these exist, but they only function if both are adorned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
 
+**Greaving Tear** (*unique*)  
+$3,000 , 2 lbs.  
+Katar  
+A hadrium punching dagger said to have been sharpened like the words of of a forgotten vengeful warrior's words, and polished by their tears. When attacking a foe with greater spell sickness, *this weapon also inflicts a cold attack*.
+
 **Greenfist** (*unique*)  
 $5,600 , 2.75 lbs.  
 Club  
@@ -163,6 +168,11 @@ An item that has been occasionally found in the armory of ancient dungeons and o
 $6,000  
 Poleaxe  
 Technically, a scythe. This weapon inflicts attacks like a warpick. Upon a critical hit *the foe must perform an incapacitation save*. When performing a cleave attack, you may treat the attacks as cutting attacks if you have at least proficiency with poleaxes or spears.
+
+**Grimfang** (*unique*)  
+$3,650 , 2 lbs.  
+Katar  
+An exquisite altyprium blade that seems to be forged in a manner that overcomes the usual brittleness. *Grants a +2 for the purpose of inflicting critical hits*. If name is known *when pressing attack, counter attacking, or performing a follow up attack- it may also inflict a necrotic attack*.
 
 **Heart Stealer** (*unique*)  
 $3,400 , 3 lbs.  
