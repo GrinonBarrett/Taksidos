@@ -93,3 +93,8 @@ Though mobility is unrestricted for the most part, there is some hindrance. The 
 2/5  
 A full suit of plate armor made for the distinguished soldier. It's not very popular among most "independent contractors", but is the armor of choice for nobles and mercenaries that can afford it.  
 Cost to repair is $120 per point.
+
+**Hadrium Plate**, $150,000, 42 lb.  
+3/5  
+Plate which utilizes Hadriuam instead of Steel. The difficulty of working with it and the sheer cost of the material make this an impractical purchase for most. In recorded history, only 17 of these suits have been made- 14 of them since the introduction of firearms.  
+Cost to repair is $250 per point.
