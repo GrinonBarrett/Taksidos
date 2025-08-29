@@ -44,6 +44,8 @@ These fair folk typically keep to their own realms, but a few have occasion to w
 
 **Former Experience**: Choose a class. You are considered to have splashed in that class, and gain all benefits as appropriate. You cannot acquire the selected class later. This does not allow you to splash into a class multiple times.
 
+**Elfish Resistances**: Vilalves cannot be put to sleep, dazed, or moved remotely against their will by magical effects.
+
 **Magically Entwined**: The unusual nature of a vilalf leaves them subject to the affect of magic. You do not apply your heroism to saves against magical effects.
 
 ###### This species could disrupt balance in campaigns that start at low levels. Some narrators also may simply dislike the implications of the Former Experience feature from a mechanical standpoint and the characters it could enable.
