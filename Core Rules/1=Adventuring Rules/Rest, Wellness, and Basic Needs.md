@@ -129,3 +129,5 @@ A traditional spirit infused with peppercorns, cardamum, anise, fennel, and lemo
 
 **Stout**, $2.25 per quart  
 Lasts 12d12+40 days if unopened. Lasts a day once opened. You can drink a single serving of stout without major effect other than providing fluid appropriately. Each serving of stout provides 3 points of inebriation. A quart provides 3 servings.
+
+Any single serving of a normally alcoholic beverage can be had sans alcohol at certain establishments. This costs 1d4+4 times as much however.
