@@ -471,7 +471,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 
-### D (11
+### D (12
 
 #### Damper
 
@@ -539,6 +539,18 @@ Effects that restore points of undeath from within the field or affecting a targ
 **At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the field by up to 2 yards or increase the duration of it by 1 round.
 
 **Critical Failure**: You have attempted to interfere with the cycle of life and death, disturbing something incomprehensible. Every minute, for a number of hours equal to the spell's tier, perform an incapacitation save- even if you would normally ignore such saves. You cannot have hitpoints, wounds, or points of undeath restored so long as you still have spell sickness.
+
+#### Debriation
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Effect**: You touch a substance or container including a substance and magically remove the alcohol (and some other compounds) from it. You may reduce the total points of inebriation a single serving (the next serving in fact) can bestow by an amount equal to the spell's tier. Alternatively, if a container holds multiple servings, this can reduce the total amount of inebriation each serving would provide by the spell's tier divided (round down) by the total amount of servings multiplied by the inebriation granted by each serving.
+
+**At Higher Tiers**: The benefits for casting above minimum tier are listed above.
+
+**Critical Failure**: You instead gain spell sickness equal to the spell's tier.
 
 #### Decombustion
 
