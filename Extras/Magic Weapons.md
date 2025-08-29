@@ -89,6 +89,11 @@ Longsword
 A well forged hand-and-a-half sword. Range is increased to 4 feet. You may wield this sword with two hands. If you do, you may treat your attack total as being 1 higher for the purpose of determining if it is a critical hit. *User may cast the Dragon's Breath spell as though they knew it. Additionally, anytime an attack with this sword would qualify to damage armor or is a critical hit, it also inflicts a fire attack*.  
 If name is known, user may *treat the standard attack by this weapon as a fire or toxic*.
 
+**Dreafaer**, (*unique*)  
+$6,535 , 3.5 lbs.  
+Madu  
+Used by many heros, this madu has somehow managed to save more lives than it has taken. *The user may block with this as though it was a shield. The bonus is equal to the user's training with the weapon +2. The weapon also gains a +2 bonus to parries and +2 bonus for the purpose of inflicting critical hits*.
+
 **Dyrwyn** (*unique*)  
 $20,000 , 3.5 lbs.  
 Longsword  
