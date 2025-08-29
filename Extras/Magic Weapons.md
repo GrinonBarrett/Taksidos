@@ -401,7 +401,11 @@ If name is known, *user gains a +1 bonus to attacks with it. Additionally, anyti
 $11,500 , neg.  
 None (see below)  
 A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
-The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces and thrown blades may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
+The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces, and thrown blades, may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
+
+**Zrianian Throwing Spear**  
+$5,970 , 2.5 lbs.  
+When this wepon's attack would qualify to damage armor, the foe instead receives 2 additional points of spell sickness. On a critical hit, it instead inflicts 1d4 points of spell sickness*.
 
 **Zupod** (*unique*)  
 $1,300 , 2 lbs.  
