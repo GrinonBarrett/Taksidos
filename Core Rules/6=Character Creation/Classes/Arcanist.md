@@ -27,8 +27,10 @@ Additionally, when you perform a spellcheck, you may choose to roll 2d8 instead 
 Furthermore, when performing a counter-spell check, you may add your [Inte] bonus.
 
 ### 2) Arcanae
-You can commit arcane formulas to memory, allowing you to easily cast spells at a later time without enduring the effects of spell sickness. This requires time and puts strain on the arcanist's mind. The time required is a number of minutes equal to 15 minutes plus 12 minutes per spell tier. Additionally, your [Inte] is temporarily reduced as a result of the strain on your mind. This reduction is 1 + double the tier of the spell. When the spell is cast, you do not roll 1d20 for the spellcheck but instead use your [Inte] score at the time the spell was memorized. Once the spell is cast, it no longer burdens the arcanist's mind.  
-You may choose to let a memorized arcana go, loosing it from your mind and freeing it of the burden, but suffer Spell Sickness equal to the spell's tier if you do.
+You can commit arcane formulas to memory, allowing you to easily cast spells at a later time without enduring the effects of spell sickness. This requires time and puts strain on the arcanist's mind. The time required is a number of minutes equal to 15 minutes plus 12 minutes per spell tier. Additionally, your [Inte] is temporarily reduced as a result of the strain on your mind. This reduction is 2 + spell tier. When the spell is cast, you do not roll 1d20‡ for the spellcheck but instead use your [Inte] score at the time the spell was memorized (before being penalized for the memorizing the spell). Once the spell is cast, it no longer burdens the arcanist's mind.  
+You may choose to let a memorized arcana go, loosing it from your mind and freeing it of the burden, but suffer Spell Sickness equal to the spell's tier -1 if you do.  
+
+‡ This does not allow you to use features that alter the way your spellcheck is determined. Bonuses to spell checks are still applied.
 
 ### 2) Magic Press
 The bonus to spell checks you gain from staves for spells you know is increased by 1.
