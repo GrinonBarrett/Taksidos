@@ -52,7 +52,7 @@ Small creatures which are only seen in flying swarms that proceed aranidin. Thes
 | **Cutting**                | 7     | **Necrotic** | 6     | **Sonic** | 9    |
 | **Electrical**             | 14     | **Piercing** | 9     | **Biting** | 8    |
 |                        |           |          |            |         |            |
-| **Unlisted Damage Type** | 128 |    |     | **Undamaging** | 11 |
+| **Unlisted Damage Type** | 8 |    |     | **Undamaging** | 11 |
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
