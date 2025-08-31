@@ -31,6 +31,10 @@ Uses [Empy]. When used, performs an undamaging attack which knocks the foe prone
 ### Staves
 Staves are two handed weapons which can function like wands (including the producing of a ray) or clubs. Each staff also possesses a spell. The wielder of the staff may cast the possessed spell as though they knew it, so long as they have a means of casting spells. Furthermore, if they do know the spell- they gain a +1 bonus to spellchecks when casting that spell and a +1 to saves against that spell.
 
+**Staff of Air**, $4,800  
+Uses [Inte]. Can produce a force attack.  
+COntains the spell *Vortex Wake*.
+
 **Staff of the Arcaster**, $4,800  
 Uses [Inte]. Can produce an electrical attack.  
 Contains the spell *Arc Lightning*.
@@ -55,6 +59,10 @@ Contains the spell *Feyding Gesture*.
 Uses [Fort]. Can produce a necrotic attack.  
 Contains the spell *Zenith*.
 
+**STaff of Gravekeeping**, $4,800  
+Uses [Will]. Inflicts a Necrotic attack.  
+Contains the spell *Unrest for Undeath*.
+
 **Staff of Gravomancy**, $4,800  
 Uses [Inte]. Can produce a crushing attack.  
 Contains the spell *Gravitic Disruption*.
@@ -62,6 +70,10 @@ Contains the spell *Gravitic Disruption*.
 **Staff of Gusts**, $4,800  
 Uses [Will]. Can produce a force attack.  
 Contains the spell *Venting Burst*.
+
+**Staff of Hydromancy**, $4,800  
+Uses [Inte]. Inflicts a force attack.  
+Contains the spell *Waterworking*.
 
 **Staff of Illspoke**, $4,800  
 Uses [Empy]. Can produce a toxic attack.  
@@ -90,3 +102,7 @@ Contains the spell *Arc Lighting*.
 **Staff of the Wardant**, $4,800  
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Seclusion Circle*.
+
+**Staff of Words**, $4,800  
+Uses [Empy]. Can produce a sonic attack.  
+Contains the spell *Voice of Familiarity*.
