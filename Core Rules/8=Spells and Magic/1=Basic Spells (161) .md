@@ -1942,7 +1942,7 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (16
+### S (17
 
 #### Sapiafi
 
@@ -2054,6 +2054,20 @@ This spell last a day.
 **At Higher Tiers**: If cast as second tier or beyond, the alarm can last a number of days equal to the points of success. Each tier beyond 1st also increases the area you may have alarmed. The total area is a number of square feet equal to the spell's tier squared.
 
 **Critical Failure**: You seem to have set the alarm just fine. The alarm does nothing when disturbed though.
+
+#### Sludgery
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 20 yards
+
+**Effect**: You throw an acidic substance created on the spot at a foe within range, inflicting an acid attack. If foe is armored, this is a sunder. If the attack would qualify to damage armor, it instead sticks to the foe- making them prone until it can be washed off or they spend an action to succeed a [Body] check with a DV equal to the spellcheck's points of success to break the sludge.
+
+**At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
+
+**Critical Failure**: Your attempt at creating the acid far exceeded your ability to direct it. The spell instead affects you and gains a bonus equal to the spell's tier for the purpose of determinng if it is a critical hit.
 
 #### Sobering
 
