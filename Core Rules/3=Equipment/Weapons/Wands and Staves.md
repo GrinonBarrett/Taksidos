@@ -43,9 +43,25 @@ Contains the spell *Arc Lightning*.
 Uses [Empy]. Inflicts a force attack.  
 Contains the spell *Xylary Form*.
 
+**Staff of Bewildering**, $4,800  
+Uses [Inte]. Can produce a psychic attack.  
+Contains the spell *Jinx*.
+
+**Staff of Brightening**, $4,800  
+Uses [Inte]. Can produce a radiant attack.  
+Contains the spell *Flare*.
+
 **Staff of Chilling**, $4,800  
 Uses [Inte]. Can produce a cold attack.  
 Contains the spell *Sphere of Oppressive Cold*.
+
+**Staff of Comets**, $4,800  
+Uses [Prcp]. Can produce a force attack.  
+COntains the spell *Meteor*.
+
+**Staff of Dark Fire**, $4,800  
+Uses [Will]. Can produce a necrotic attack.  
+Contains the spell *Nightburn*.
 
 **Staff of the Disturbed**, $4,800  
 Uses [Inte]. Inflicts a crushing attack.  
@@ -63,9 +79,9 @@ Contains the spell *Tell Undead*.
 Uses [Will]. Produces an undamaging attack. A foe struck with it falls asleep at the end of the round. The exact nature of this is up to the narrator.  
 Contains the spell *Feyding Gesture*.
 
-**Staff of Kreancy**, $4,800  
-Uses [Fort]. Can produce a necrotic attack.  
-Contains the spell *Zenith*.
+**Staff of Extinguishing**, $4,800  
+Uses [Inte]. Inflicts a cold attack.  
+Contains the spell *Decombustion*.
 
 **STaff of Gravekeeping**, $4,800  
 Uses [Will]. Inflicts a Necrotic attack.  
@@ -87,6 +103,14 @@ Contains the spell *Waterworking*.
 Uses [Empy]. Can produce a toxic attack.  
 Contains the spell *Rotword*.
 
+**Staff of Impact**, $4,800  
+Uses [Will]. Can produce a force attack.  
+Contains the spell *Landing*.
+
+**Staff of Kreancy**, $4,800  
+Uses [Fort]. Can produce a necrotic attack.  
+Contains the spell *Zenith*.
+
 **Staff of Lightbringing**, $4,800  
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Flare*.
@@ -107,6 +131,14 @@ Contains the spell *Oscillating Wave*.
 Uses [Inte]. Can produce a toxic attack.  
 Contains the spell *Sludgery*.
 
+**Staff of Pressing**, $4,800  
+Uses [Will]. Can produce a crushing attack.  
+Contains the spell *Collapse*.
+
+**Staff of Shimmer**, $4,800  
+Uses [Inte]. Can produce a radiant attack.  
+Contains the spell *Glitter*.
+
 **Staff of Shocks**, $4,800  
 Uses [Inte]. Can produce an electric attack.  
 Contains the spell *Swift Bolt*.
@@ -122,6 +154,10 @@ Contains the spell *Fragmentation*.
 **Staff of Splinters**, $4,800  
 Uses [Fort]. Can produce a piercing attack.  
 Contains the spell *Green Ward*.
+
+**Staff of Spraying**, $4,800  
+Uses [Inte]. Can produce an acid attack.  
+Contains the spell *Jet*.
 
 **Staff of the Storm Mage**, $4,800  
 Uses [Will]. Can produce a cold attack.  
