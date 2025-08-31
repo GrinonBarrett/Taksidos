@@ -41,7 +41,7 @@ If a creature attempted an attack against you and it was a critical failure, you
 
 #### Counterspell
 Reaction  
-You attempt to counter a spell which specifially targets you or which is being cast by a creature within a number of yards equal to your [Prcp] score.
+You attempt to counter a spell which specifially targets you or which is being cast by a creature within a number of yards equal to your [Prcp] score. You must know the spell to do so.
 
 #### Dive for Cover
 Reaction  
