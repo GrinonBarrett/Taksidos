@@ -20,3 +20,6 @@
 | Spear                  | $180 | 5.5 lb | 3 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (1.5 yards) have disadvantage. | The common spear to be found on the battlefield. |
 | Warpick                | $190 | 4 lb | 1 yard   | - | A widely misunderstood weapon. It is intended to be used against a foe once they have been cast off balance, such as when they have been laid out. |
 |                        |      |           |          |            |  |
+
+### Variant Weapons
+The weapons listed above are the standard weapons made available to characters. They represent a myriad of historical and fantastical weapons. A narrator may optionally allow for some more complex options in terms of weaponry. Variants will have their weapon type noted and function as that type of weapon in all regards except where noted.
