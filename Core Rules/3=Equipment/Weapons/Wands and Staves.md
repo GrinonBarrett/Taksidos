@@ -35,6 +35,14 @@ Staves are two handed weapons which can function like wands (including the produ
 Uses [Inte]. Can produce an electrical attack.  
 Contains the spell *Arc Lightning*.
 
+**Staff of Bark**, $4,800  
+Uses [Empy]. Inflicts a force attack.  
+Contatains the spell *Xylary Form*.
+
+**Staff of the Disturbed**, $4,800  
+Uses [Inte]. Inflicts a crushing attack.  
+Contains the spell *Wild Orb*.
+
 **Staff of Dragon's Fire**, $4,800  
 Uses [Fort]. Can produce a fire attack.  
 Contains the spell *Dragon's Breath*.
@@ -70,6 +78,10 @@ Contains the spell *Flechette*.
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
 Contains the spell *Fragmentation*.
+
+**Staff of Splinters**, $4,800  
+Uses [Fort]. Can produce a piercing attack.  
+Contains the spell *Green Ward*.
 
 **Staff of the Storm Mage**, $4,800  
 Uses [Will]. Can produce a cold attack.  
