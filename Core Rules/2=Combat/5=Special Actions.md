@@ -99,7 +99,8 @@ This is treated as an attack of opportunity which is made in response to a foe's
 
 #### Sunder
 Reaction  
-Performed in response to an attack you make, you instead intend to rend armor (or a shield), rather than maim the foe. If the attack is successful, you deal a point of damage to the armor. The effect of a critical hit still occurs. An attack that would qualify to deal damage this way still deals a point of damage to the armo and allows you to choose whether you deal an additional point of damage to the armor or inflict a wound (essentially making this a normal attack) in addition. A narrator may opt to impose a defense penalty if performed against a creature with a shell or carapace in place of armor.
+Performed in response to an attack you make, you instead intend to rend armor (or a shield), rather than maim the foe. If the attack is successful, you deal a point of damage to the armor. The effect of a critical hit still occurs. An attack that would qualify to deal damage this way still deals a point of damage to the armo and allows you to choose whether you deal an additional point of damage to the armor or inflict a wound (essentially making this a normal attack) in addition. A narrator may opt to impose a defense penalty if performed against a creature with a shell or carapace in place of armor.  
+If a foe has a shield but no armor, their shield becomes unusable as a result. If the foe blocks with a shield, and the sunder is successful- you may choose to have that shield rendered useless or to damage the armor.
 
 #### Tag
 Action or Reaction  
