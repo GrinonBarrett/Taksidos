@@ -1,6 +1,3 @@
-### Variant Weapons
-The weapons listed above are the standard weapons made available to characters. They represent a myriad of historical and fantastical weapons. A narrator may optionally allow for some more complex options in terms of weaponry. Variants will have their weapon type noted and function as that type of weapon in all regards except where noted.
-
 ##### Variant Weapons
 Name, Average Cost, Weight  
 Weapon Type  
