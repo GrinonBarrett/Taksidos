@@ -51,6 +51,10 @@ Contains the spell *Wild Orb*.
 Uses [Fort]. Can produce a fire attack.  
 Contains the spell *Dragon's Breath*.
 
+**Staff of Deathly Whispers**, $4,800  
+Uses [Prcp]. Inflicts a sonic attack.  
+Contains the spell *Tell Undead*.
+
 **Staff of the Dream Weaver**, $5,000  
 Uses [Will]. Produces an undamaging attack. A foe struck with it falls asleep at the end of the round. The exact nature of this is up to the narrator.  
 Contains the spell *Feyding Gesture*.
@@ -87,6 +91,10 @@ Contains the spell *Flare*.
 Uses [Inte]. Can produce a force attack.  
 Contains the spell *Flechette*.
 
+**Staff of SHocks**, $4,800  
+Uses [Inte]. Can produce an electric attack.  
+Contains the spell *Swift Bolt*.
+
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
 Contains the spell *Fragmentation*.
@@ -98,6 +106,14 @@ Contains the spell *Green Ward*.
 **Staff of the Storm Mage**, $4,800  
 Uses [Will]. Can produce a cold attack.  
 Contains the spell *Arc Lighting*.
+
+**Staff of the Sun**, $4,800  
+Uses [Will]. Can produce a radiant attack.  
+Contains the spell *Sun Globe*.
+
+**Staff of Telekinetics**, $4,800  
+Uses [Inte]. Can produce a psychic attack.  
+COntains the spell *Telekinesis*.
 
 **Staff of the Wardant**, $4,800  
 Uses [Will]. Can produce a radiant attack.  
