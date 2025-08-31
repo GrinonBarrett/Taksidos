@@ -41,7 +41,11 @@ Contains the spell *Arc Lightning*.
 
 **Staff of Bark**, $4,800  
 Uses [Empy]. Inflicts a force attack.  
-Contatains the spell *Xylary Form*.
+Contains the spell *Xylary Form*.
+
+**Staff of Chilling**, $4,800  
+Uses [Inte]. Can produce a cold attack.  
+Contains the spell *Sphere of Oppressive Cold*.
 
 **Staff of the Disturbed**, $4,800  
 Uses [Inte]. Inflicts a crushing attack.  
@@ -91,9 +95,25 @@ Contains the spell *Flare*.
 Uses [Inte]. Can produce a force attack.  
 Contains the spell *Flechette*.
 
-**Staff of SHocks**, $4,800  
+**Staff of the Nrall**, $4,800  
+Uses [Will]. Can produce a psychic attack.  
+Contains the spell *Nralling*.
+
+**Staff of Oscillataions**. $4,800  
+Uses [Inte]. Can produce a sonic attack.  
+Contains the spell *Oscillating Wave*.
+
+**Staff of Oozing**, $4,800  
+Uses [Inte]. Can produce a toxic attack.  
+Contains the spell *Sludgery*.
+
+**Staff of Shocks**, $4,800  
 Uses [Inte]. Can produce an electric attack.  
 Contains the spell *Swift Bolt*.
+
+**Staff of Shooting Stars**, $5,000  
+Uses [Empy]. Can produce a ki attack.  
+Contains the spell *Starfall*.
 
 **Staff of Shrapnel**, $4,800  
 Uses [Prcp]. Can produce a cutting attack.  
