@@ -58,6 +58,12 @@ Neg.
 Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
 *For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer is of great size, during the first round of any combat, the user's defense is increased by 1*.
 
+**Grulth**, $4,400  
+Unique  
+Neg.  
+A riing which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
+Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
+
 **Imploding Band**, $23,000  
 Wunique  
 Neg.  
