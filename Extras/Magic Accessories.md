@@ -65,7 +65,7 @@ A riing which always seems to carry some flith to it of unknown origin. It funct
 Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
 
 **Imploding Band**, $23,000  
-Wunique  
+Unique  
 Neg.  
 The caster is capable of casting the *implosion* spell as though they knew it. When doing so, they roll a d8. If the result is odd, its a bonus. If even, its a penalty.
 
