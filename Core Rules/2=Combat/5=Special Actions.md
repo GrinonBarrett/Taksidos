@@ -97,6 +97,10 @@ You perform a move. You cannot do this while prone. If you already sprinted duri
 Reaction  
 This is treated as an attack of opportunity which is made in response to a foe's movement which would cause contact. The attack is made with advantage. You then suffer disadvantage on your opposed check in the ensuing brawl, or the opposed [Rflx] check if a trample.
 
+#### Sunder
+Reaction  
+Performed in response to an attack you make, you instead intend to rend armor (or a shield), rather than maim the foe. If the attack is successful, you deal a point of damage to the armor. The effect of a critical hit still occurs. An attack that would qualify to deal damage this way still deals a point of damage to the armo and allows you to choose whether you deal an additional point of damage to the armor or inflict a wound (essentially making this a normal attack) in addition.
+
 #### Tag
 Action or Reaction  
 Once per round, a character may use their action or reaction to tag with another creature they can perceive within 3 yards. The tagging creatures swap initiative chits. The current turn's creature still continues their turn as normal, with the new order taking effect during the next round. The other creature must approve of the swap for it to occur.
