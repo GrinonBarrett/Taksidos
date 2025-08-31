@@ -4,7 +4,7 @@
 | Weapon                 | Cost | Weight      | Range | Special Features| Notes |
 |------------------------|------|-----------|----------|---------------|------------|
 |                        |      |           |          |            |  |
-| Club                | $40 | 3 lb | 2 feet   | - | A glorified stick or baton. Nothing complex about this classic design. Only slightly better than an improvised weapon. |
+| Club                | $40 | 3 lb | 2 feet   | Cannot sunder. | A glorified stick or baton. Nothing complex about this classic design. Only slightly better than an improvised weapon. |
 | Dagger                 | $60 | 1 lb | 1 foot   | - | A simple dagger as can be used by almost anyone.  |
 | Flail              | $220 | 4.25 lb | 1 yard   | Must be wound as an action or in place of movement during the round to attack. If wound twice in a round, the attack gains a +1 bonus. This weapon grants a +2 bonus to Beat and Parry checks, but Beat and Parry checks gain a +2 bonus against attacks made with it. The type of head determines the attack type, but does not otherwise affect the weapon's properties. A standard head is treated as a mace attack. A spiked head is treated as a morningstar. You do not use the weapon training of those weapons when using a flail and instead resort to your training with the flail. | An uncommon weapon which is also called the Footman's Flail. A few skilled indivduals can utilize the unique traits of this weapon. A yard long handle with a chain connecting the head of the weapon. The head comes in a varity of flavors. |
 | Greatsword             | $245 | 6.5 lb | 3 yards   | Requires two hands. | A very long blade which is not operated like most swords. This weapon relies on pivoting more so than others- creating an arc of danger almost 10 feet out from the wielder. A common form of this sword are often known as claymores, but some different regions may have their own names for them. |
@@ -47,7 +47,8 @@ Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffe
 **Chain Mace**, $170, 2.5 lb  
 Flail  
 An exotic weapon used by a handful of specialized practitioners. It is closely related to the whip chain.  
-For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a club. Can be treated as 2 yards of chain with a strength of 200 for other purposes.
+For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a club. Can be treated as 2 yards of chain with a strength of 200 for other purposes.  
+Cannot Sunder.
 
 **Dandpatta**, $190, 3.5 lb  
 Longsword  
@@ -101,7 +102,8 @@ When attacking a foe you are brawling with, you may treat it as a dagger.
 **Whip Chain**, $120, 1.3 lb  
 Flail  
 An exotic weapon used by a handful of specialized practitioners.  
-Bonuses to beats and parries made by or against the weapon are reduced to +1. For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a thrown weapon. Can be treated as 2 yards of chain with a strength of 200 for other purposes.
+Bonuses to beats and parries made by or against the weapon are reduced to +1. For each time the weapon has been wound since another action has been taken, the range of this weapon is increased by 1 foot out to a total range of 2 yards. Inflicts attacks like a thrown weapon. Can be treated as 2 yards of chain with a strength of 200 for other purposes.  
+Cannot sunder.
 
 **Xyston**, $210, 7 lb.  
 Spear  
