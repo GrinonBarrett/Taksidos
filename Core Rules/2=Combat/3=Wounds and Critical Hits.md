@@ -5,7 +5,6 @@ Most creatures and playable species' have a wound chart. Anytime the character/c
 If a creature has no more wounds available, it is still considered to accrue a wound. It must perform an additional incapacitation save as the effect of this wound.
 
 ### Critical Hits
-
 When a critical hit occurs against a creature, it inflicts an additional effect depending on the type of attack.
 
 **Table**: *Critical hit by Attack Type*
