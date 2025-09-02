@@ -2,7 +2,7 @@
 
 The combat begins with the Initial Step. Each round of combat is made up of the following 4 phases: Primary Movement phase, Primary Action phase, Secondary Movement phase, and Secondary Action phase.
 
-###### *A note about non-combat encounters*: Sometimes, individuals may not be fighting per se, but are still engaged in a tense or improtant interaction. In which case, it can be ran like a combat even if there are no real “combatants”. This allows for an orderly way to direct dialogue betweens groups of individuals and ensures that if hostilities do arise- the groundwork for the encounter is already set.
+###### *A note about non-combat encounters*: Sometimes, individuals may not be fighting per se, but are still engaged in a tense or important interaction. In which case, it can be ran like a combat even if there are no real “combatants”. This allows for an orderly way to direct dialogue betweens groups of individuals and ensures that if hostilities do arise- the groundwork for the encounter is already set.
 
 #### Initial Step
 
