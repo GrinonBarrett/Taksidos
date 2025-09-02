@@ -9,8 +9,6 @@ $700 a month for a 2-bedroom house.
 $1,500 a month for a house capable of housing a small family.  
 $3,600 a month for a house that a larger family might call home.  
 
-Anything that can be rented for a week can be rented for the night at 1/3 the weekly rate (so a bed for a night is $10).
-
 ##### Multiply your rent by living conditions
 **Squalor**, 1x  
 There is no privacy, bathing, or restroom and your space is limited. If it is a house, it is likely condemned.  
