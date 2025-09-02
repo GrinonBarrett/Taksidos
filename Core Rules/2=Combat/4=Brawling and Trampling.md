@@ -1,5 +1,4 @@
 #### BRAWLING
-
 A brawl occurs when two hostile combatants come in physical contact with each other. To determine the effects of a brawl, the attacker and defender make an opposed check*. This check benefits from both [Body] bonus and  [Rflx] bonus. Anything which would affect a [Body] or [Rflx] check can affect such a check. A success will force the opponent to forfeit their turn during the next action phase. Success with both will also force the opponent to forfeit their turn during the following action phase, presuming they are still brawling. A critical success will allow that participant to choose between the following options: Grapple, Shove, or Slam.  
 A unit involved in a brawl cannot sprint and has all forms of movement reduced by half.
 
