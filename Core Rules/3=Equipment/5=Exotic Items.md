@@ -33,7 +33,7 @@ This powder is typically sold in one gram "doses", but can be used in any quanti
 If sea water is used, the water can still be consumed safely- but will have a bitter salty flavor. You will also feel nauseous for about 1d6+2 hours per serving.
 
 **Rospuine Egg**, $300-350 , .25 to .5 lb.  
-The egg of a rospunar. These translucent shells bear within a flame which seems to last for a year. If the shell is compromised, the inner flame flashes out in a rush. The shell itself is impervious to fire if any temperature. Water will dissolve the shell. The common use for this item is to instanly bring a pot of water to boil. Another common use is to place at the location you wish start a fire, and splash a bit of water on it.  
+The egg of a rospunar. These translucent shells bear within a flame which seems to last for a year. If the shell is compromised, the inner flame flashes out in a rush. The shell itself is impervious to fire of any temperature. Water will dissolve the shell. The common use for this item is to instanly bring a pot of water to boil. Another common use is to place at the location you wish start a fire, and splash a bit of water on it.  
 
 **Thunderous Dragon Tube**, $760, 2 lb.  
 A tube filled with explosive powder and metal pellets. It can be affixed to a polearm or used as part of a trap. The included fuse can be ignited as an action to cause it to detonate 1 second after (or at the end of the next phase of a round). Once detonated, it explodes outward in a 3 yard cone. Anything caught in it suffers a fire attack with disadvantage and a piercing attack.  
