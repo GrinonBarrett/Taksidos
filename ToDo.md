@@ -9,3 +9,9 @@
 
 #### Rules will be reorganized into Basic and Advanced rules!
 It just might take a while.
+
+* Create a basic document that the unenfranchised can actually read. One that walks a player through all the basics, lets them make a manfolk character of a few classes, and ibncludes all items afrom the core rules and basic spells. The goal is for a narrator to be able to hand it to a player and them not be overwhelmed (see below note).
+* Create a Western World companion to the above mentioned basic book that adds a bunch of species from the west (the ones that don't sound greek for the most part, lol) and some adventure zones (oh yeah, that'll be a thing I suppose).
+* Create an Eastern Empires companion to the above mentioned basic book that adds a bunch of species from the east and some adventure sites.
+* Create the license by which others can actually use or potentially contribute in a manner that provides futureproof protections for myself and anyone else using the system for derivitive works.
+
