@@ -97,7 +97,7 @@ The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe,
 Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this echnique + your [Body] score + your heroism, dvided by that foe's [Body] bonus. The ki attack also gains a +1 bonus for the purpose of determining a critical hit for each ki point spent beyond 2.
 
 **Burst Cannon**  
-The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction or use another super technique which can be used as a single as a reaction.
+The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction. Alternatively, they can use their reaction on a critical hit with the attack to use a technique which would normally be an action.
 
 **Busting Bolt**  
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] score plus your [Fort] score.
