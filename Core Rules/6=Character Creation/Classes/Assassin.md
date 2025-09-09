@@ -44,7 +44,7 @@ If a creature performs an about face in response to your attack wounding them, y
 You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
 
 ### 4) Fell Hand
-If you successfully perform a sneak attack against a foe, you may roll a d12 and add your heroism. For a number of rounds equal to the result, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
+If you successfully perform a sneak attack against a foe, for a number of rounds equal to your level + heroism, anytime a creature makes an attack against that foe- they may modify the wound result by 2 steps.
 
 ### 4) Pinpoint Strike
 When you perform an attack, before rolling the attack, you may use your reaction to grant yourself up to a -4 penalty to the attack. For each point of penalty, if the attack is successful, you gain a +3 bonus for the purposes of determining if it is a critical hit and may modify the rolled wound by one step.  
