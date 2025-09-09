@@ -94,7 +94,7 @@ The user spends at least 5 ki as an action or reaction. User inflicts a number o
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
 **Breaker Send**  
-Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this echnique + your [Body] score + your heroism, dvided by that foe's [Body] bonus.
+Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this echnique + your [Body] score + your heroism, dvided by that foe's [Body] bonus. The ki attack also gains a +1 bonus for the purpose of determining a critical hit for each ki point spent beyond 2.
 
 **Burst Cannon**  
 The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction or use another super technique which can be used as a single as a reaction.
