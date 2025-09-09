@@ -114,6 +114,14 @@ The user spends 3 ki points to perform a *magical* unarmed attack. If the attack
 **Dragon Fist**  
 The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
 
+**Explosive Wave**  
+To use this technique, the user must declare so as an action. DThey can take no action, reaction, or perform movements during that phase and the following phase as they conentrate their power. THe user may choose to further the time spent doing so at the start of any phase after this by not performing any actions, reactions, or performing movements. At the end of this time, they spend either 2 ki points or a ki point and suffer a level of exhaustion to erupt with intense power. This causes an explosion going out a number of yards equal to the evoker's level. Everything within the explosion, other than the user, is subject to a ki attack.  
+At the end of the phase of the explosion, the user may pay 2 ki points to continue the eplosion. THis will inflict another ki attack against everything within the explosion. they may also make this decision at the end of each following phase so long as no other actions, reactions, or movements have been performed by the user and they have not been wounded. If they do, the ki attack inflicted by the explosion gains a bonus for the purpose of determining a critical hit equal to the previous number of phases the explosion has lasted.  
+Everuthing caught in the explosion is prone until the end of the next phase.  
+Each additional phase spent intensifying the user's power increases the range of the explosion by a number of yards equal to their herosim.  
+The user may use their reaction in respone to the explosion beginning. If they do, they may hover a number of yards equal to their heroism before the explosion begins or alter the attack type of the explosion's inital attack.  
+After the explosion ends, the user is vulnerble for a number of rounds equal to the number of phases the explosion lasted +1.
+
 **Flash Step**  
 The user spends any number of ki points as an action to move a number of yards in any direction equal to the ki spent +1.
 
