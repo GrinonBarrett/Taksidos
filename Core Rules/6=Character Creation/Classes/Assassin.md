@@ -36,7 +36,7 @@ Additionally, when you perform a Feint against a creature (whether or not it was
 If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If the additional attack is a melee attack, you may choose one of the following:
 * You may automatically apply the appropriate critical hit effect for the type of attack of the additional attack if successful, regardless of whether it was a critical hit already. This is cumulative with an actual critical hit.
 * The additional attack gets advantage.
-* You may close the distance into a brawl. If you do, you may choose to replace your lowest die result with your hoerism.
+* You may close the distance into a brawl. If you do, you may choose to replace your lowest die result with your heroism.
 * You may slam the foe.
 * You may shove the foe.
 
@@ -54,7 +54,7 @@ If you were not detected by the foe, and took at least a -2 penalty this way,you
 When you attack a creature afflicted by a Fell Hand, you may choose to modify the wound result by an additional 2 steps.
 
 ### 7) Assassin's Training
-You gain training in two weapons of your choice.
+You gain training in two weapons of your choice. You may expend the use of your Tumble feature to gain a +2 bonus to defense against a single attack you are aware of.
 
 ### 7) Relentless Striker
 If a foe would dodge your attack, you may use your reaction to ignore the effects of that dodge. If you do, you gain a bonus for the purpose of determining if the attack is a critical hit equal to your heroism and an additional +1 bonus.
