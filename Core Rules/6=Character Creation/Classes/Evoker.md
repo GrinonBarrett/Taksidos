@@ -93,6 +93,9 @@ The user spends at least 5 ki as an action or reaction. User inflicts a number o
 **Bold Blast**  
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
+**Breaker Send**  
+Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this echnique + your [Body] score + your heroism, dvided by that foe's [Body] bonus.
+
 **Burst Cannon**  
 The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction or use another super technique which can be used as a single as a reaction.
 
@@ -143,6 +146,9 @@ The user spends at least 3 ki and disappears for a number of rounds equal to the
 
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
+
+**Vicious Grasp**  
+Use this technique as an additional option when you get a critical success with a brawl check. Spend 1 ki to do so. Inflict a ki attack against the brawling foe. If the attack is a critical hit or qualifies to damage armor, the foe is also grappled. A critical hit from this attack is treated like that of a cutting attack.
 
 **Zenith Combo**  
 The user spends at least 3 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as either crushing, force, or ki.
