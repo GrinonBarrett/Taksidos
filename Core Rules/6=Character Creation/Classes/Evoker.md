@@ -90,6 +90,9 @@ Unless otherwise mentioned, all ranged attacks from super techniques are conside
 **Apex Assault**  
 The user spends at least 5 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way -1. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as one of the following (bare, cutting, crushing, force, ki, piercing, psychic, or sonic). The final attack gains a bonus equal to the ki spent this way for the purpose of inflicting a critical hit.
 
+**Apex Push**  
+The evoker uses their reaction to spend at least 1 ki point in respone to coming cont with a foe which would result in a brawl or trample. Before the brawl/trample occurs, that foe is kncoked back a number of yards equal to the ki spent on this technique.
+
 **Bold Blast**  
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
@@ -128,6 +131,9 @@ The user spends any number of ki points as an action to move a number of yards i
 **Flashing Burst**  
 The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack is successful, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
 
+**Freezing Rush**  
+The user spends 2 ki points as an action to produce a frosty blast. This is a 5 semifan which inflicts a cold attack against any caught within. If a foe in the semifan is within melee attack range, the user may also use their reaction to perform a melee attack against them.
+
 **Ghost Rage Fist**  
 The user spends 2 ki points to perform an unarmed attack. Against ephemera and fiends, this is treated as a *magical* ki attack. If the attack is successful, a ki attack is also inflicted against the foe with a bonus equal to the evoker's heroism for the purpose of determining a critical hit.
 
@@ -139,6 +145,9 @@ The user spends 3 ki as an action to hurl a ball of energy at a point within a n
 
 **Luminous Mark**  
 The user spends 1 ki to inflict a ranged undamaging attack against a creature within a number of yards equal to their level + remaining ki. For a number of minutes equal to their level, the struck foe retain a mildly glowing marking. While marked this way, the evoker may have that foe emit light like a torch. Additionally, it may use an action or reaction to inflict both a radiant attack and a ki attack against that foe, but ends this technique's effect when they do.
+
+**Mortal Ray**  
+The user spends 2 ki as an action or reaction to fire a very narrow beam of energy at a foe within a number of yards equal to their level + their remaining ki points. This is a piercing attack and is a ray (like that of a wand or spell).
 
 **Raging Volley**  
 The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack is unsuccessful this way, all instances of advantage are lost.
