@@ -108,6 +108,11 @@ You are capable of producing a burst of energy which can be propelled at a foe u
 **Chakra Sealing Strike**  
 You spend 1 ki to perform a *magical* unarmed attack against a creature as an action, gaining a bonus to the attack result equal to your [Body] bonus for the purpose of determining if it is a critical hit. If that creature is casting a spell, you perform a counterspell check against them, even if you do not know the spell.
 
+**Critical Overload**  
+The user spends 2 ki as an action to eplode outward with uncontrollable force. At the end of the next phase, everything within a number of yards equal to the user's level subject to a ki attack. The user continues to overload themselves with energy, preventing them from taking any actions, reactions, or movement. At the end of each phase, the explosion expands outwards a number of yards equal to the user's remaining ki. The user's ki is then reduced by 1 and an attack is inflicted on everything within the explosion (including the user). If the attack roll is even, it is a ki attack. If the attack roll is odd, it is a necrotic attack.
+The explosion will continue to expand until the user becomes incapacitated or dies. Anytime the user is wounded while the explosion continues, it inflicts an additional attack against everything else in the explosion.  
+User is vulnerable during this time and for a number of hours afterwards equal to the number phases the explosion lasted.
+
 **Cruel Strike**  
 The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack, and then perfoms a movement.
 
@@ -163,6 +168,9 @@ The user spends at least 3 ki and disappears for a number of rounds equal to the
 
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
+
+**Vicious Blast**  
+User spend 3 ki points to hurl a blast of energy at a foe within a number of yards equal to their [Body] score + level as an action. If the attack is successful or qualifies to damage armor, it will inflict an acid attack at the end of the phase for the next two phases. These acid attacks gain a 1d4 bonus for the purpose of determinng a critical hit and inflict the critical hit effect of a ki attack.
 
 **Vicious Grasp**  
 Use this technique as an additional option when you get a critical success with a brawl check. Spend 1 ki to do so. Inflict a ki attack against the brawling foe. If the attack is a critical hit or qualifies to damage armor, the foe is also grappled. A critical hit from this attack is treated like that of a cutting attack.
