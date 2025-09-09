@@ -34,7 +34,7 @@ Additionally, when you perform a Feint against a creature (whether or not it was
 
 ### 3) Dire Dispose
 If a creature performs an about face in response to your attack wounding them, you may use your reaction to peform an additional attack. If the additional attack is a melee attack, you may choose one of the following:
-* You may automatically apply the appropriate critical hit effect for the type of attack of the additional attack, regardless of whether it was a critical hit already. This is cumulative with an actual critical hit.
+* You may automatically apply the appropriate critical hit effect for the type of attack of the additional attack if successful, regardless of whether it was a critical hit already. This is cumulative with an actual critical hit.
 * The additional attack gets advantage.
 * You may close the distance into a brawl. If you do, you may choose to replace your lowest die result with your hoerism.
 * You may slam the foe.
