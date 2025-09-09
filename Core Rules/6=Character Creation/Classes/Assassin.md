@@ -57,7 +57,7 @@ When you attack a creature afflicted by a Fell Hand, you may choose to modify th
 You gain training in two weapons of your choice.
 
 ### 7) Relentless Striker
-If a foe would dodge your attack, you may use your reaction to ignore the effects of that dodge. If you do, you gain a +1 bonus to the attack if the attack would not be considered a sneak attack.
+If a foe would dodge your attack, you may use your reaction to ignore the effects of that dodge. If you do, you gain a bonus for the purpose of determining if the attack is a critical hit equal to your heroism and an additional +1 bonus.
 
 ### 8) Riposte
 Once per round, if you parry an attack and that attack would have been a critical failure, you may perform a melee attack against that foe.  
