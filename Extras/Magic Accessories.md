@@ -161,6 +161,11 @@ A ring of some various material. *It always seems to fit. It provides protection
 Neg.  
 A fine band, smooth to the touch. It often is host to a shied shaped charm affixed to the band. *A user with a [Will] of 13+ may activate this ring as an action to produce a forcefield affixed to the ring that functions exactly like a tower shield, save for the lack of weight nor need for minimum [Body] score. If the forcefield is destroyed by any means, roll a d6. The wearer gains spell sickness equal to the result and the ring is unable to materialize the forcefield for a number of days equal to the result +1. The forcefield can be safely dematerialized as an action or reaction*.
 
+**Ring of Witch Hunting**, $3,750  
+Neg.  
+A ring of simple form.  
+*If the wearer inflicts an attack against a creature casting a spell or with any spell-sickness, the attack gains a +1. This has no effect if the wearer has any spell-sickness*.
+
 **Ring of Wondernaming**, $9,500  
 Neg.  
 A ring of modest quality. Not too gaudy, but not so plain.  
