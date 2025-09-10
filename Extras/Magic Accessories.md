@@ -166,6 +166,11 @@ Neg.
 A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
 
+**Sring**, $4,936  
+Neg.  
+A silver band of a ring which looks quite nice in the light.  
+*While worn, all spells cast by the wearer have their tier increased by 1. Anytime the wearer speaks a word which does not contain the letter S in it, they receive an unlisted attack. The ring cannot be removed without first being affected by a tier 4 or higher Disimpress spell. If name is known, the wearer also gain a +1 bonus to all counterspell checks*.
+
 **Wonderous Indices**, $70,000  
 Unique.  
 10 lbs.  
