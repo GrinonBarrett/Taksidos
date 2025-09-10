@@ -405,10 +405,11 @@ The wearer gains a +1 to defense against magical and electrical attacks. Additio
 
 **Zrianian Throwing Spear**  
 $5,970 , 2.5 lbs.  
-When this wepon's attack would qualify to damage armor, the foe instead receives 2 additional points of spell sickness. On a critical hit, it instead inflicts 1d4 points of spell sickness*.
+Javelin  
+When this weapon's attack would qualify to damage armor, the foe instead receives 2 additional points of spell sickness. On a critical hit, *it instead inflicts 1d4 points of spell sickness*.
 
 **Zupod** (*unique*)  
 $1,300 , 2 lbs.  
-Club 
+Club  
 A well designed club made of altyprium. It's slender profile can be deceiving.  
 Upon inflicting a critical hit, *also inflicts a force critical hit effect*. If the user has warrior mastery with clubs, it does not have disadvantage on follow up attacks made with this weapon.
