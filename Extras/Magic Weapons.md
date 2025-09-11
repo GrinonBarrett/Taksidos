@@ -32,7 +32,13 @@ Treat as a club attack. If incense is inside and lit, its critical hit may be tr
 **Brimas** (*unique*)  
 $15,000 , 3.5 lbs.  
 Longsword  
-A finely made ancient sword which lay resting in a frozen castle. *If an attack by this weapon would be successful or qualifies for damaging a foes armor, even if they wear none, it applies the effect of a Cold critical hit. Water which comes in contact with the blade is frozen. The blade can slide out from such ice with minimal effort. If name is known, and the user inflicts a critical hit, they may apply a cold attack as well*.
+A finely made ancient sword which lay resting in a frozen castle. *If an attack by this weapon would be successful or qualifies for damaging a foe's armor, even if they wear none, it applies the effect of a Cold critical hit. Water which comes in contact with the blade is frozen. The blade can slide out from such ice with minimal effort. If name is known, and the user inflicts a critical hit, they may apply a cold attack as well*.
+
+**Ciurn** (*unique*)  
+$2,000 , 2.75 lbs.  
+Shortbow  
+A bow made for a long forgotten heroine.   
+*The outer limits of the weapon's optimal range is increased by the user's [Will]. If name is known, the first attack made each round with the weapon gains a bonus equal to the user's [Will] bonus for the purpose of determining a critical hit*.
 
 **The Claymore** (*unique*)  
 $2,000 , 6.75 lbs.  
