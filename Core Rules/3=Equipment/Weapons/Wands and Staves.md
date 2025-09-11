@@ -10,6 +10,9 @@ Uses [Inte]. When used, a small trailing ball of fire is launched towards the ta
 **Wand of Hellflies**, $1,800  
 Uses [Prcp]. When used, glowing butterflies of all colors fly towards the foe in a stream, each of them being consumed by a black flame. This is a necrotic attack.
 
+**Wand of Missiles**, $1,800  
+Uses [Inte]. When used, a colorful translucent bolt is hurled at the foe. This is a bolt attack.
+
 **Wand of the Pacifist**, $2,000  
 Uses [Empy]. When used, performs an undamaging attack which knocks the foe prone instead of inflicting a wound. A critical hit also confers a -1 penalty to all attacks they make before the end of the next round. Many describe the sensation of being struck by this wand as unpleasent and mildy confusing.
 
