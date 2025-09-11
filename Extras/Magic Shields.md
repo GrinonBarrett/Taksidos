@@ -42,7 +42,11 @@ When used to block for yourself, it is always treated as giving you an additiona
 
 **Fanijin's Guard**, $1,200, 4 lb. (*unique*)  
 +1  
-A finely made rondache stained by wode and adorned with altyprium. *The wearer gains an additional +1 to defense against magical attacks. If a magical attack is blocked, and that attack is a critical failure, the wearer may reduce their spell sickness by 1*.   
+A finely made rondache stained by wode and adorned with altyprium. *The wearer gains an additional +1 to defense against magical attacks. If a magical attack is blocked, and that attack is a critical failure, the wearer may reduce their spell sickness by 1*.  
+
+**Grande Defence**, $4,400, 7 lbs.  
++2  
+A masterwork craft of a parumla enchanted to provide further protections. *Blocking bonus is increased by +1*.
 
 **Moor Ranger's Favor**, $350 , 3.75 lb.  
 +1  
