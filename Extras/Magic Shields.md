@@ -5,7 +5,7 @@ Almost as useful as magic armor, depending on who you ask.
 A shield made up of a complete manfolk skeleton and some ultrahard mud. There is damage to various bones, with some looking suspiciously fresh. The name "Abyscaun" is carved into the head. Requires 15 or greater [Body] to use. When used to block for yourself, you are also treated as having an additional quarter of coverage. *When stood upon solid ground and its name uttered, it will begin to collapse and then assemble itself into an Animate Skeleton. This skeleton will follow the command of the one who planted it. If destroyed in this form (or given a command to simply collapse) it is no longer active. If left overnight, it will somehow return to its shield form. Each time it is destroyed in its animated form, roll a d20 and compare it to the number of times it has been destroyed, if lower, it no longer reassembles itself in any capacity and the shield is considered to be fully destroyed. It has already fallen 1d4 times this way when found*.
 
 **Battered Ward**, $3,150 , 12 lbs. (*unique*)  
-+0
++0  
 Intended to provide as much cover from missiles as possible while also being practical in a melee, the tower shield is famously used in formation where its cover can be maximized.
 Requires 13 or greater [Body] to use. Does not provide a set bonus when blocking, instead it provides cover. If the shield is used to block for someone that does not have cover, it provides half cover. If they already have cover, it instead provides an additional one-quarter cover.
 When used to block for yourself, it is always treated as giving you an additional quarter of coverage.  
