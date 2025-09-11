@@ -56,7 +56,7 @@ A simple cheap wood shield with a thin tanned covering. It is not a common sight
 +3  
 An ornate kite shield wielded by the most holy of warriors. If the wearer is afflicted by a necrotic attack *they may treat their next attack as being radiant*. They also gain a *+1 bonus to defense against necrotic and radiant attacks*.
 
-**Soul PLate**, $1,200 , 2.5 lb.  
+**Soul Plate**, $1,200 , 2.5 lb.  
 +1  
 A small style of shield with a polished silver boss. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way. *It provides an additional +3 to blocking magical attacks*.
 
