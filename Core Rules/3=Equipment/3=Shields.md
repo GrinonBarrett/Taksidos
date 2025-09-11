@@ -16,6 +16,10 @@ It does not prevent the use of a hand, but also does not provide the passive pro
 +1  
 A small style of shield intended to be held out in front of you. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way.
 
+**Etridamaner**, $100 , 1.25 lb.  
++0  
+A small gauntlet like device which fits an Etrid's claw. It allows the etried to attempt to beat or parry a weapon using their unarmed attack with the same hand. Unfortunately it does provide a -1 to all attack rolls, and an additional -1 to weapon attack rolls, involving that hand due to the hampering of wrist and claw movement.
+
 **Rondache**, $130, 4 lb.  
 +1  
 A simple shield. The rondache finds success in the hands of many adventurers.   
