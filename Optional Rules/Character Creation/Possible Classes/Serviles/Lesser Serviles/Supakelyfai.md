@@ -100,7 +100,7 @@ Squids capable of using their appendages to "walk" on land. They have evolved a 
 
 **Tumbling Defense**: So long as it is not prone or immobile, it gains a 1d4 bonus to defense against attacks made from a range greater than 5 yards it is aware of.
 
-**Ray Strike**: It *may fire a ray of energy as a ranged attack within 10 yards. The damage type depends on the invoker's dominion*.
+**Ray Strike**: It *may fire a ray of energy as a ranged attack within 10 yards. The damage type depends on the invoker's dominion*. It must complete a full rest before doing so again.
 
 **Dominion Benefits**: The supakelyfai gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. It may become ethereal up to a number of phases equal to the invoker's conjury. It must rest before doing so again. The ray attack is ki.
