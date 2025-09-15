@@ -2400,7 +2400,25 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (8
+### V (9
+
+#### Vapors
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Effect**: You push out a spray of flammable gas in a 7 yard semifan or mikrofan (your choice). Anything which breathes in the vapours must succeed a [Fort] save or suffer a -2 penalty to attack rolls, checks, and saves for a number of rounds equal to the points of failure. These vapors will last until the end of the next round, expanding out 1 foot in each direction at the end of each phase.  
+Any fire (including ray attacks and other magical projectiles) which comes in contact with the vapor will cause the entire area to combust, neutralizing the vapors and inflicting a non-magical fire attack against everything within.
+
+The save DV is equal to your [Magic] bonus + double the spell's tier. If the spellcheck is a critical success, you may have the vapors begin up to 1 foot away from you.
+
+**At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, you may choose one of the following  
+* The length of the area is increased by 1 yard
+* The duration of the vapros is increased by 1 round
+* The DV of the spell is increased by 1
+
+**Critical Failure**: You take a whiff of the vapors yourself instead of producing the typical area and become dazed and obtunded for a number of rounds equal to the tier of the spell.
 
 #### Venting Burst
 
