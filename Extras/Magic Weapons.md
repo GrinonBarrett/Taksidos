@@ -207,6 +207,11 @@ $7,7500 , 2.5 lbs.
 Flail  
 A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious signifigance.
 
+**Imperfect Circle of Adragoraum** (*unique*)  
+$950, 1 lb.  
+Chakram  
+An exquisite model of a chakram made of altyprium- suffering from such brittleness. One with weapon warrior mastery of chakrams using this weapon sees the outer bounds of its optimal range increase by their [Body] score. *Upon impact, this weapon lets out a nearly harmonious ring that inflicts a sonic attack against everything within 2 yards of the impact*.
+
 **Kalavurne** (*unique*)  
 $15,800 , 4 lbs.  
 Morningstar  
