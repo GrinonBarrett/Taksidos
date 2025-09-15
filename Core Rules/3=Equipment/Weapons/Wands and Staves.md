@@ -86,7 +86,11 @@ Contains the spell *Feyding Gesture*.
 Uses [Inte]. Inflicts a cold attack.  
 Contains the spell *Decombustion*.
 
-**STaff of Gravekeeping**, $4,800  
+**Staff of Gas**, $4,800  
+Uses [Fort]. Inflicts a toxic attack.  
+Contains the spell *Vapors*.
+
+**Staff of Gravekeeping**, $4,800  
 Uses [Will]. Inflicts a Necrotic attack.  
 Contains the spell *Unrest for Undeath*.
 
