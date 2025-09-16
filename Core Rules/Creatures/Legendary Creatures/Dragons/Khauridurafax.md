@@ -99,7 +99,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 
 **Swallow Whole**: If he successfully bites a creature of at least two size categories smaller, he may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
 
-**Misleading Stride**: As an action, *he may touch a creature to heal one of its wounds*. He may do so up to 3 separate times. Each instance of this cannot be done again for a number of hours equal to . 
+**Strange Healing**: As an action, *he may touch a creature to heal one of its wounds*. He may do so up to 3 separate times. Each instance of this cannot be done again for a number of hours equal to 3d20 multiplied by the number of currently expended uses of this feature and then divded by the total number of entire towns under his control (minimum of 1). 
 
 **Menace**: As an action, anything which can perceive Khauridurafax must succeed a [Will] save with a DV equal to Khauridurafax's [Empy] score + [Will] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of rounds equal to the points of failure, causing them to be dazed and vulnerable during this time. Khauridurafax may use its reaction to impose disadvantage on the save of a creature it can perceive.
 
@@ -119,6 +119,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Everwarmth
 * Expulsion Sphere
 * Fallen Words
+* Fogflow
 * Glacial Brand
 * Glitter
 * Habroism
