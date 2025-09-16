@@ -115,6 +115,13 @@ Neg.
 A fine ring with a twisting pattern engraved.  
 *The ring can store a maximum of 1d4+2 charges. Anytime the wearer is damaged by an Acid, Cold, Electric, Fire, or Sonic attack, the ring gets a charge of that type. A charge may be expended as an action to fire a ray, like that of a wand, of the charge's type*.
 
+**Ring of the Encroaching Mist**, $6,300  
+Unique  
+Neg.  
+The ring always displays cloudy reflections in its silver band. Occasionally, you could swear you see something behind you in the reflection.  
+*The user may cast the Creeping Death, Fogflow, and Vapors spells as though they knew them as wyrdings- even if they couldn't normally cast spells. The wearer also suffers a -3 to [Will] saves and a +3 to [Will] checks. The wearer cannot be obtunded by inebriation.
+When first worn by a creature for the day, it must succeed a DV 20 [Will] save or be stuporous for a number of minutes equal to the points of failure. If the wearer has never donned the ring before, the DV is increased by 1d12. A creature which rests with the ring one has their total rest level reduced to the previous level. Thus a short rest yields no benefit*.
+
 **Ring of Greatness**, $7,800  
 Neg.  
 This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attibute of its wearer by 1.
