@@ -83,6 +83,8 @@ Found primarily in wetlands, with ranges overlapping corcodiles and expanded jus
 
 **Difficulty Opening**: The alligator's jaw is evolved in such a way that its jaw cannot open if held shut by a competently strong individual. Any creature brawling with the alligator may forgoe its reaction for the round to hold the jaw shut so long as the combination of its [Body] score and [Body] bonus is greater than the alligator's [Body] score.
 
+**Swallow Whole**: If it successfully bites a creature of at least two size categories smaller, it may swallow it whole as an action. A creature may be able to cut its way out or succeed an opposed [Rflx] check with disadvantage using their Wrestling skill to escape.
+
 **Mellowed Pace**:  The alligator suffers exhaustion anytime it sprints.
 
 **Surprisingly Sprightly**: If the alligator is sprinting and did not sprint during the previous round, its run speed is tripled. As an additional option for a critical success while brawling, it can inflict a bite attack against that foe (this still suffers the penalty for attacking while brawling).
