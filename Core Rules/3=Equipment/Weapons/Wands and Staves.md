@@ -142,6 +142,10 @@ Contains the spell *Sludgery*.
 Uses [Will]. Can produce a crushing attack.  
 Contains the spell *Collapse*.
 
+**Staff of Sanctifiers**, $4,800  
+Uses [Will]. Can produce a radiant attack.  
+Contains the spell *Hallowed Binding*.
+
 **Staff of Shimmer**, $4,800  
 Uses [Inte]. Can produce a radiant attack.  
 Contains the spell *Glitter*.
