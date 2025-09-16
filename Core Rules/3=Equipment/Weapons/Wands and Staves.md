@@ -7,8 +7,14 @@ Uses [Will]. When used, a fine ray is projected which pushes thermal energy out 
 **Wand of Fire Bolt**, $1,800  
 Uses [Inte]. When used, a small trailing ball of fire is launched towards the target. This is a fire attack.
 
+**Wand of Frost**, $1,800  
+Uses [Body]. When used, a streak of freezing air crstals manifests towards the target. This is a cold attack.
+
 **Wand of Hellflies**, $1,800  
 Uses [Prcp]. When used, glowing butterflies of all colors fly towards the foe in a stream, each of them being consumed by a black flame. This is a necrotic attack.
+
+**Wand of Lightning**, $1,800  
+Uses [Rflx]. When used, a bolt of lightning strikes the foe. This is an electric attack.
 
 **Wand of Missiles**, $1,800  
 Uses [Inte]. When used, a colorful translucent bolt is hurled at the foe. This is a bolt attack.
