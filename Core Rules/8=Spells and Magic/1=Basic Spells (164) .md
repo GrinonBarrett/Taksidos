@@ -1154,7 +1154,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (6
+### H (7
 
 #### Habroism
 
@@ -1171,6 +1171,24 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
 
 **Critical Failure**: You seem to have succeeded, however the spell only lasts for a number of rounds equal to the spell's tier. Additionally, you feel a strange ache in your body which causes you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
+#### Hallowed Binding
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 30 yards
+
+**Effect**: You bind a supernatural foe to its current space, treating it as being grappled. The creature may attempt a [Will] check with a DV equal to the spellcheck's points of success plus the spell's tier. A success breaks the grappling effect of the bindings. A critical success breaks the spell completely. A critical failure causes them to suffer a -4 penalty to further such checks until the end of the next round. A failure yields no result.
+
+You must retain concentration on the spell to maintain its effects. You may use your reaction to impose one of the following conditions on the affected creature (Dazed, Immobile, Prone, Vulnerable) until the end of the round so long as you can perceive the point you set the binding.
+
+This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 3 yards.
+
+**Critical Failure**: You have angered the entity in question, alerting it to your exact location for a number of minutes equal to the points of failure. You also take on points of spell sickness equal to the spell's tier.
 
 #### Havery
 
