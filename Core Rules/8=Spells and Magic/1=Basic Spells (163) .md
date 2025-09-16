@@ -808,7 +808,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (14
+### F (15
 
 #### Fallen Words
 
@@ -930,6 +930,24 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1 or grant one of the attacks a +1 bonus for the purpose of determining a critical hit.
 
 **Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
+
+#### Fogflow
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 20 + [Magic] bonus yards
+
+**Effect**: You produce a 1 yard diameter sphere of fog. At the end of each phase, the fog spreads out 1 foot in all directions. Attacks made by creatures in the fog which rely on sight have disadvantage. Everying within the fog has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the fog suffer a 1d4 penalty. At the end of each round, a creature inside the fog receives 1 point of inebriation if it also started the round in the fog.
+
+The fog lasts for a number of rounds equal to the spellcheck's points of success multiplied by the spell's tier. The caster may use their reaction during any phase to prevent the fog from spreading for that phase.
+
+If the spellcheck was a critical success, the caster may deignate a maximum boundry for the expanse of the fog.
+
+**At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, the range is increased by 3 yards.
+
+**Critical Failure**: The fog centers on you when it manifests and you are stuporous for a number of rounds equal to the spell's tier.
 
 #### Fortify
 
