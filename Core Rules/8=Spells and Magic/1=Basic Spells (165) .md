@@ -1154,7 +1154,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (7
+### H (8
 
 #### Habroism
 
@@ -1261,6 +1261,20 @@ If you are damaged more than once, fail an incapacitation save in any degree, or
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
 
 **Critical Failure**: You transform successfully, but have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
+
+#### Hyperstride
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Effect**: You touch a creature, causing its run speed to be increased to a number of yards equal to the tier of this spell. If its run speed is already equal to or greater than the spell's tier, the run speed is instead increased by a number of feet equal to the tier of this spell. This lasts for a number of rounds equal to the spellcheck's points of success. Multiple castings of this spell do not stack, only the greatest of the active spells is in effect at a time.
+
+A critical success with the pell check will increase the duration by an additional number of rounds equal to the caster's [Magic] bonus.
+
+**At Higher Tiers**: The benefits for casting at a higher tier are noted above.
+
+**Critical Failure**: You have fumbled the spell and instead made yourself prone for a number of rounds equal to the tier of the spell.
 
 #### Hypoaftepathy
 
