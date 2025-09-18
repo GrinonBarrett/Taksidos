@@ -1,5 +1,5 @@
 ### Dulh
-The creatures posess a body structure halfway between the of a gorrilla and a theropod. Their heads are large and bulbous with a fine pair of mandibles. They have one massive eye. Their entire build is stocky. They are primitive of mind, a result of a now forgotten curse which has transformed the people of the Vre Isles into these beings. They will hunt large animals and enjoy the thrill of hunting intelligent creatures. Despite their poor intelligence, they are cunning enough to use their hydromorphy and xylary forms to hunt or ambush a foe. The plural is Dulze. Their collective noun is a trampling.
+The creatures posess a body structure halfway between that of a gorrilla and a theropod. Their heads are large and bulbous with a fine pair of mandibles. They have one massive eye. Their entire build is stocky. They are primitive of mind, a result of a now forgotten curse which has transformed the people of the Vre Isles into these beings. They will hunt large animals and enjoy the thrill of hunting intelligent creatures. Despite their poor intelligence, they are cunning enough to use their hydromorphy and xylary forms to hunt or ambush a foe. The plural is Dulze. Their collective noun is a trampling.
 
 **Creature Type**: Dulze are Monsters.
 
