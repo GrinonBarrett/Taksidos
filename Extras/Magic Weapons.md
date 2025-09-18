@@ -338,6 +338,12 @@ Broadhead Arrow
 Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shaft is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
 
+**Storm Fang** (*unique*)  
+$22,000 , 5 lbs.  
+Greatsword  
+A legendary emerian sword said to bring many a villain and monster to fell. The reach is only 2 yards. If user has any training with greatswords and longsword, it can be used as either. *If the attack is a critical hit or would qualify to damage armor, it inflicts an additional attack. If the attack roll is odd, it is cold. If even, it electric*.  
+*If name is known, the user may choose which of the two damage types the damage type is. Additionally, if the additional attack is a critical hit or would qulify to damage armor, there is yet another additional attack of the other type*.
+
 **Storm Spewer** (*unique*)  
 $20,000 , 3.75 lbs.  
 Longsword  
