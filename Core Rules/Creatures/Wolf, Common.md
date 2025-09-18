@@ -89,4 +89,6 @@ These beasts can, in one form or another, be found in almost any wild part of th
 
 **Built for Speed**: When sprinting, its run speed is multiplied by the number of sprints it has performed since the start of the previous round.
 
+**Latching Bite**: If the wolf's bite would qualify to damage armor, the foe is grappled.
+
 **Vicious Bite**: As an additional option when it succeeds a critical success while brawling, it may bite the foe whom it is brawling. This is treated as a Biting attack, ignoring the penalty for the attack while brawling.
