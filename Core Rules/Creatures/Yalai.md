@@ -82,7 +82,7 @@ A figure of glass made animate. It serves its creator typically. The plural is y
 
 #### Gaining a Yalai Servile
 
-By casting the Animate spell on a glass statue, an invoker can create their own yalai servile. When created this way, it is treated as having a single hitpoint.
+By casting the Animate spell on a glass statue, an invoker can create their own yalai lesser servile. When created this way, it is treated as having a single hitpoint.
 
 **Dominion Benefits**: The yalai gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. While the yalai is brawling or when it is attacked, but before the result of the attack is known, the yalai may use its reaction to cause jagged glassy spikes to errupt from itself, extending out 1 foot. Any creature within that space suffers a piercing attack, except it. The attack caused this way has disadavntage against you.
