@@ -1,5 +1,5 @@
 ### Wolf, Common
-These beasts can, in one form or another, be found in almost any wild part of the world. The are often found solitary or in family groups. In groups, they will pursue a for to run it down and allow other members to flank them for the finish. Their collective noun is a pack.
+These beasts can, in one form or another, be found in almost any wild part of the world. The are often found solitary or in family groups. In groups, they will pursue a foe to run it down and allow other members to flank them for the finish. Their collective noun is a pack.
 
 **Creature Type**: Wolves are Beasts.
 
