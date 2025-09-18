@@ -24,7 +24,7 @@ These beasts can, in one form or another, be found in almost any wild part of th
 
 **Unarmed Attacks**;
 
- • Tackle: The wolf may use its claws to strike a foe within 1 foot. This is a melee bare attack.
+ • Tackle: The wolf may use its body to strike a foe within 1 foot. This is a melee bare attack.
 
  • Bite: The wolf may perform a single bite against a foe within 1 foot. This is a melee bite attack.
 
