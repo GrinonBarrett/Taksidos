@@ -16,7 +16,7 @@ These beasts can, in one form or another, be found in almost any wild part of th
 [Prcp] 12 (+4)  
 [Empy] 9  (+3)  
 
-**Languages**: Bears don't speak.
+**Languages**: Wolves don't speak, but can convey very basic information by barking or howling.
 
 **Run Speed**: It may run up to 5.5 yards per move.
 
