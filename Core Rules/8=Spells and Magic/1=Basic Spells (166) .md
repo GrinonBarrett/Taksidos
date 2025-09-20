@@ -2283,7 +2283,7 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (6
+### T (7
 
 #### Telekinesis 
 
@@ -2305,6 +2305,22 @@ If increasing the distance the object is moved, it is increased by a number of f
 If increasing the maximum weight of the object moved, the new weight maximum (measured in stones) is equal to 1 + additional tiers devoted this way, squared.
 
 **Critical Failure**: You knockback yourself in the direction you intended to move the object. This is a number of yards equal to the points of failure. You are also subject to a crishing attack with a bonus equal to the spell's tier.
+
+#### Telephonicism
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Duration**: 1 Hour
+
+**Effect**: You touch a creature's mouth or other noise making orface. For the duration of the spell, you can hear any noise made from that orface as though it were right next to your ear. At any point, you may drop the spell's effect. Anytime you or the subject are wounded while the spell is active, there is a 5% chance the spell drops automatically.
+
+Clearly, a creature already incapable of hearing has no benefit from this spell.
+
+**At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
+
+**Critical Failure**: You seem to cast it correctly, but the moment you hear something from the subject- you become deafened for a number of minutes equal to the points of failure multiplied by the spell's tier. This is reset each time the subject makes noise. You can still hear what noise they make, but it is all you can hear. You cannot voluntarily drop the spell.
 
 #### Tell Undead
 
