@@ -26,9 +26,9 @@ Born from the spirit of a canine which has lived a life knowing only strife and 
 
 **Unarmed Attacks**;
 
- • Tackle: The wolf may use its claws to strike a foe within 1 foot. This is a melee bare attack.
+ • Tackle: It may use its claws to strike a foe within 1 foot. This is a melee bare attack.
 
- • Bite: The wolf may perform a single bite against a foe within 1 foot. This is a melee bite attack.
+ • Bite: It may perform a single bite against a foe within 1 foot. This is a melee bite attack.
 
 -----
 
@@ -82,6 +82,13 @@ Born from the spirit of a canine which has lived a life knowing only strife and 
 |        |                                                |                                   |
 
 -----
+
+**Fiendish Nature**: The hellhound's fiendish nature bestows it with a few particular features;  
+ • Do not need to eat, sleep, or breathe. They do still need to relax to rest.  
+ • Are not subject to bleeding.  
+ • Are immune to diseases, poisons and venom.  
+ • Gains a bonus to all saves equal to current hitpoints.  
+ • Are not affected by spells which would affect the flesh.   
 
 **Frightening Howl**: During the first round of an encounter, the hellhound may use its reaction to loose a howl that can shake any hero. All non-fiends within 25 yards that can hear the hellhound must succeed a DV 19 [Will] save or flee in terror by every possible means from the hell hound for a number of rounds equal to the points of failure. If a creature's save was a critical failure, it is also vulnerable during this time. A critical success will make it forever immune to that same hellhound's frightening howl and allow it to recognise it in the future.
 
