@@ -25,7 +25,7 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 3 actions
 
 **Range**: 3 yards
 
@@ -128,7 +128,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
@@ -302,7 +302,7 @@ If the spell check is a critical success, you may apply this to a weapon attack 
 
 **Effect**: You fling a sparkling mote in a straight line at a point within range. Upon impact, a burst of flames in every color explodes out in a 5 yard semifan in a direction of your choice, inflicting a fire attack against anything caught therein. When you cast the spell, you may choose whether critical hits are treated as fire or radiant attacks.
 
-A critical success with the spell check increases the length of the fan by a number of feet equal to your [Magic] bonus.
+A critical success with the spell check increases the length of the fan by a number of feet equal to your [Magic] bonus or to have the mote's trajectory change up to 45 degrees once at any point.
 
 **At Higher Tiers**: Each tier beyond minimum can increase the range by 3 yards or the length of the fan by 1 yard.
 
@@ -524,7 +524,7 @@ If the spellcheck was a critical success, you may concentrate on the spell. Whil
 
 **Minimum Tier**: 4
 
-**Casting Time**: 10 rounds or more
+**Casting Time**: 10 rounds
 
 **Range**: 20 yards
 
@@ -556,7 +556,7 @@ Effects that restore points of undeath from within the field or affecting a targ
 
 **Minimum Tier**: 1
 
-**Casting Time**: 10 actions
+**Casting Time**: 8 actions
 
 **Range**: 1 yard
 
@@ -752,7 +752,7 @@ Any creature which consumes even a portion of brain this way will become a Brain
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
@@ -784,7 +784,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Minimum Tier**: 4
 
-**Casting Time**: 4 rounds
+**Casting Time**: 6 actions
 
 **Range**: 20 yards
 
@@ -798,7 +798,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Minimum Tier**: 3
 
-**Casting Time**: 3 rounds
+**Casting Time**: 6 actions
 
 **Range**: 20 yards
 
@@ -860,7 +860,7 @@ If a creature has possessed the object since you did, the spell will not work an
 
 **Minimum Tier**: 2
 
-**Casting Time**: 3 actions
+**Casting Time**: 2 actions
 
 **Range**: 10 yards
 
@@ -1030,7 +1030,7 @@ A spell duplicated this way cannot be duplicated again by a spell of equal or lo
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
@@ -1228,7 +1228,7 @@ This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
 
 **Effect**: A creature you target within range gains an unquenchable thirst. It is considered to have lost hydration equal to the spell's tier. For a number of hours equal to the spell's tier, there is a 1 in 4 chance that a serving of liquids consumed will not hydrate as it would normally. A creature which does not suffer from thirst will instead be dazed for a number rounds equal to the spell's tier as it contends with a new sensation.
 
-**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier.
+**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier (or a number of roounds if immune to thirst).
 
 **Critical Failure**: You feel an immediate need. Your whole body aches for refreshment. You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you still have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
 
@@ -1307,7 +1307,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Range**: 3 yards
 
-**Effect**: You cause a shape of ice whose total volume could fit within a cube whose total volume is X cubed (where X is the spells tier), to alter to your will. You cannot add to the ice this way, but you can have some of it removed. Alternatively, if the ice to be affected is a creature composed of ice, you may inflict a biting, crushing, cutting, or piercing attack against that creature with a bonus equal to the spell's tier.
+**Effect**: You cause a shape of ice whose total volume could fit within a cube whose total volume is X cubed (where X is the spells tier), to alter to your will. You cannot add to the ice this way, but you can have some of it removed. Alternatively, if the ice to be affected is a creature composed of ice, you may inflict a number of attacks (biting, crushing, cutting, or piercing, your choice as to the nature of each) equal to the spell's tier +1.
 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
@@ -1452,7 +1452,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Minimum Tier**: 3
 
-**Casting Time**: 6 actions
+**Casting Time**: 5 actions
 
 **Range**: 10 yards
 
@@ -1476,14 +1476,14 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Effect**:  You think of a corpse or place in your mind while targeting a corpse within range. You may enter the targeted corpse as a means of teleportation to the imagined corpse or a corpse in the imagined area. Both corpses explode and are defiled as a result of you burst through magically. Alternatively, you may allow another creature to travel through the corpse. A corpse must be of the same creature size or larger than a transported creature for the spell to function properly. If multiple creatures are to be transported through a single corpse, the effective size category of a creature entering is increased by the number of creatures which previously entered the corpse.
 
-A corpse must be entered by the end of the next phase or it will not transport the creature. If such transportation is not valid, the spell failes and you rceive a point of spell sickness.
+A corpse must be entered by the end of the next phase or it will not transport the creature. If such transportation is not valid, the spell fails and you receive a point of spell sickness.
 
 If the spellcheck is a critical success, you may have an explosion escape from the destination corpse. This will inflict either a cutting, necrotic, or piercing attack (your choice) to anything within 1 yard (other than the creatures transprted by the spell) per size category.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose one of the following
 * The range is increased by 1 yard.
-* The casting time is reduced by 1.
-* The explosion cause by a critical success may be increased by an additional yard per size category and the attacks gain a +1 for the purpose of inflicting a critical hit.
+* The casting time is reduced by 1 action.
+* The explosion caused by a critical success may be increased by an additional yard per size category and the attacks gain a +1 for the purpose of inflicting a critical hit.
 * You may affect an additional corpse to allow an additional crreature to transport. They may exit through the same corpse or a different corpse.
 
 **Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of thise attacks is successful against you, the following attacks each get an instance of advantage.
@@ -1492,7 +1492,7 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 
 **Minimum Tier**: 5
 
-**Casting Time**: 2 actionss
+**Casting Time**: 2 actions
 
 **Effect**: You create a tap to access a supernatural source of damaging fluid, producing a jet of acid 15 yards in a line which is .5 feet high and wide. Everything in the line is subject to an acid attack, which is resolved in the order of nearest (to point of origin) to farthest. This spell can break through intersposing barriers so long as the total thickness is no greater than a number of half feet equal to the spell's tier.
 
@@ -1525,7 +1525,7 @@ If the spell check is a critical success, you may change the effect of a critica
 
 **Casting Time**: 1 action
 
-**Effect**: You transfer to the victim of your touch a surge of deathly menace. You are prone and vulnerable while casting this spell. Upon kissing the target, it must perform an incapacitation save. 
+**Effect**: You transfer to the victim of your touch a surge of deathly menace. You are prone and vulnerable until the end of the phase following when you cast this spell. Upon kissing the target, it must perform an incapacitation save. 
 
 **At Higher Tiers**: Each tier beyond the minimum increases the DV of the incapacitation save by 1 and the casting time by one action.
 
@@ -1609,7 +1609,7 @@ Alternatively, you could cast this spell in anticpation of coming in contact wit
 
 **Casting Time**: 3 rounds
 
-**Duration** Spell tier minutes multiplied by spell tier
+**Duration**: Minutes equal to the spell's tier squared
 
 **Effect**: A creature you touch may defy physics by gaining a hover speed of 3 yards for the duration. If the spell check is a critical success, the speed is increased by a number of feet equal to your [Magic] bonus.
 
@@ -1635,7 +1635,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may increase the range of the explosion by 1 yard or the range by 3 yards.
 
-**Critical Failure**: The meteor is instead targets you. The initial attack gains a bonus equal to the spell's tier for the purposes of inflicting a critical hit.
+**Critical Failure**: The meteor is instead targeting you. The initial attack gains a bonus equal to the spell's tier for the purposes of inflicting a critical hit.
 
 #### Mindless Command
 
@@ -1657,7 +1657,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **Range**: 25 yards
 
-**Effect**: You produce up to 2 bolts of light which each strike a different target of your choice within range, inflicting radiant attacks. If an attack would qualify to damage a foe's armor, it instead blinds them for a number of rounds equal to the tier of the spell. Multiple missile may be combined into a unified attack against a foe. If so, only a single attack roll is made but it gains a +1 bonus for each additional missile which was combined this way.
+**Effect**: You produce up to 2 bolts of light which each strike a different target of your choice within range, inflicting radiant attacks. If an attack would qualify to damage a foe's armor, it instead blinds them for a number of rounds equal to the tier of the spell. Multiple missiles may be combined into a unified attack against a foe. If so, only a single attack roll is made but it gains a +1 bonus for each additional missile which was combined this way.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, grant a +2 for the purpose of determining a critical hit with all attacks from the spell, or increase the range by 5 yards.
 
@@ -1749,7 +1749,7 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 
 **Minimum Tier**: 2
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Duration**: Minutes equal to the spell's tier
 
@@ -1759,7 +1759,6 @@ On a critical success with your spellcheck, you may have the spell end at a set 
 
 An attack on the sphere is successful with an attack total of 5 or mroe and will cause it to explode, spewing acid against everything within a number of feet equal to spell tier + 1d4.
 
-
 **At Higher Tiers**: The benefits for higher tiers is noted above.
 
 **Critical Failure**: The sphere doesn't form correctly and instantly explodes, inflicting an acid attack against you with a bonus equal to the spell tier for the purpose of determining a critical hit and leaving mucous on everything else within 1 yard.
@@ -1768,7 +1767,7 @@ An attack on the sphere is successful with an attack total of 5 or mroe and will
 
 **Minimum Tier**: 3
 
-**Casting Time**: 2 actions
+**Casting Time**: 3 actions
 
 **Duration**: 5 rounds
 
@@ -1807,7 +1806,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 1 foot
 
@@ -1907,7 +1906,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Minimum Tier**: 1
 
-**Casting Time**: 4 actions
+**Casting Time**: 3 actions
 
 **Duration**: 5 rounds
 
@@ -2339,7 +2338,7 @@ THe caster may affect an additional creature through touch. The total time passe
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
@@ -2674,7 +2673,7 @@ Construct, Ephemera, and Undead creatures, creatures of undeath, and those produ
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
@@ -2690,7 +2689,7 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 3 actions
 
 **Range**: 30 + [Magic] bonus yards
 
@@ -2732,7 +2731,7 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 
 **Minimum Tier**: 3
 
-**Casting Time**: 5 actions
+**Casting Time**: 4 actions
 
 **Range**: 10 yards
 
