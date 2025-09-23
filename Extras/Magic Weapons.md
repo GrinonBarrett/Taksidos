@@ -396,7 +396,12 @@ A sword which may have been finely made, but has seen many damaging battles. Whe
 **Vengeance Burn** (*unique*)  
 $10,000 , 3.5 lbs.  
 Spear  
-An ipe shaft and Brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
+An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
+
+**Vicious Fang** (*unique*)  
+$5,000 , 2 lbs.  
+Katar  
+A keen blade and ornamented handle might deceive one into believing it to be a cermonial weapon. If the wielder has Warr Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
 
 **Warl's Hammer** (*unique*)  
 $8,400 , 4 lbs.  
