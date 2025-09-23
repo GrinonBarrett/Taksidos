@@ -40,10 +40,15 @@ Cost to repair is $85.
 
 ### Brigandine
 
-**Brigindine**, $4,000, 23 lb.  
+**Jackary**, $4,000, 17 lb.  
+1/3  
+Garments which feature overlapping plate sewn between cloth and canva. It is surprisingly comfortable for its overall level of protection. This represents several types of similar armors which might be seen all over the globe.  
+Cost to repair is $115 per point.  
+
+**Brigander**, $9,000, 24 lb.  
 2/5  
-Featuring multiple forms of defense, this suit includes padding and incorporates small plates of various materials to provide ultimate protection on the battlefield.  
-Cost to repair is $100 per point.  
+Considered premier armor for nobles- this fine piece of art will keep the wearer safe from many mundane harms while being the most fashionable adventurer at the party. Featuring multiple forms of defense, this suit includes padding and incorporates small plates of various materials to provide ultimate protection on the battlefield. Unlike Jackary   
+Cost to repair is $260 per point, as it is finer materials than cruder forms of brigandine.  
 Though mobility is unrestricted for the most part, there is some hindrance. The wearer suffers a -1 penalty to all [Rflx] saves.
 
 ### Maile
