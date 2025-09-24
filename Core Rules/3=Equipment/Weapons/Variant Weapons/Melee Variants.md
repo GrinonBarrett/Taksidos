@@ -68,6 +68,10 @@ Pike
 An extremely long reaching pike which was used to cause as much damage as possible before the formation would come in contact with each other.  
 Range increased to 8 yards (which means the penalty extends to attacks within 6 yards). Because this is a pike with such great range, you suffer a -1 to all attacks made by the weapon and an additional -1 to attacks made within half range unless you have 13 or greater [Rflx].
 
+**Sasumata**, $180, 5.5 lbs.  
+Spear  
+Range is only 2 yards. Suffers a -1 to attacks and an additional -2 for the purpose of a critical hit. A successful attack against a foe instead leaves them grappled. If the weapon would qualify to damage armor, it instead leaves them prone. A critical hit instead reduces the foe's hitoints by 1. Because of the spikes on the weapon, an attempt to break free from the grapple has disadvantage unless the afflicted creature has a reasonable means of protection.
+
 **Shortsword**, $120, 2.5 lb.  
 Longsword  
 A shorter sword used for tight quarters fighting. Reach is 2 feet.  
