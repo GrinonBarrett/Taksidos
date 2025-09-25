@@ -64,14 +64,14 @@ The dyllakhar will typically be armed with one of the following weapons (enchant
 **-** Cannot be healed by an effect unless it specifically affects undead.  
 **-** Cannot be destroyed by massive damage.  
 **-** Does not produce warmth.  
-**-** Receives wounds, but no effects from them.
+**-** Receives wounds, but no effects from them.  
 **-** Does not have Hitpoints. Instead, it has points of undeath which must be exhausted before it is destroyed. Anytime an attack against this creature is successful, the creature loses a number of these points equal to the attack's total. Once the total is reduced to 0 or below, it is destroyed. A long rest restores half of the missing points of undeath. A full rest restores half again as many points of undeath as the long rest.
 
 **Magic Resistance**: When the dyllakhar makes a save against a magical effect, it rolls a d8 and adds it to the result. Its also gets a +2 to defense against magical attacks.
 
 **Limited Sensing**: The dyllakhar is devoid of organs to sense, but can sense the vibrations in its bones- essentially giving it a sense of hearing and touch. It also perceives everything its head perceives.
 
-**Melded Armor**: Though it does not always appear to be armored, there is portection embedded into the dyllakhar's form. Anytime an effect would damage the dyllakhar's armor- it instead reduces its points of undeath by 1d20.
+**Melded Armor**: Though it does not always appear to be armored, there is protection embedded into the dyllakhar's form. Anytime an effect would damage the dyllakhar's armor- it instead reduces its points of undeath by 1d20.
 
 **Terrifying Presence**: When initiative is rolled, anything else rolling for initiative must succeed a [Will] save with a DV equal to the Dyllakhar's [Will] score + [Empy] bonus or be deathly afraid of it. A critical failure forces a creature to be stunned with fear for a number of phases equal to the points of failure, causing them to be dazed and vulnerable during this time. A creature which can directly percieve the Dyllakhar, has no remaining hitpoints, and a [Will] score below the Dyllakhar is incapacitated by the fear (but stable).  
 
