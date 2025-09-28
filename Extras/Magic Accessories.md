@@ -34,7 +34,7 @@ A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop 
 
 **Brass Cloak**, $25,000  
 6 lbs.  
-A cloak which seems to glitter as though the threads had brass interwoven into them, because they have. When the hood is worn while garbed with the cloak and basking in fair or bright lioght, *the wearer is subject to the effects of the Cloak of Radiance spell. The light enhancement effect reaches out 5 yards. No spellcheck need be made to maintain the effect. If an attack would qualify to damage the wearer's armor while the cloak is active- the cloack is made useless and the effect ends. If the wear is ever afflicted by magical darkness, a radiant attack, or spell sickness- the effect wears off immediately. Additionally, once used, it must be bathed in fair or bright light for att least as long as the effect ;asted before it can be used again*.
+A cloak which seems to glitter as though the threads had brass interwoven into them, because they have. When the hood is worn while garbed with the cloak and basking in fair or bright light, *the wearer is subject to the effects of the Cloak of Radiance spell. The light enhancement effect reaches out 5 yards. No spellcheck need be made to maintain the effect. If an attack would qualify to damage the wearer's armor while the cloak is active- the cloak is made useless and the effect ends. If the wearer is ever afflicted by magical darkness, a radiant attack, or spell sickness- the effect wears off immediately. Additionally, once used, it must be bathed in fair or bright light for at least as long as the effect lasted before it can be used again*.
 
 **Crosse Lantern**, $250  
 4 lb.  
@@ -67,7 +67,7 @@ Additionally, if name is known, *the wearer may cast the spell Sludgery as thoug
 **Imploding Band**, $23,000  
 Unique  
 Neg.  
-The caster is capable of casting the *implosion* spell as though they knew it. When doing so, they roll a d8. If the result is odd, its a bonus. If even, its a penalty.
+The caster is capable of casting the *collapse* spell as though they knew it. When doing so, they roll a d8. If the result is odd, its a bonus. If even, its a penalty.
 
 **The Iron Band**, $75,000  
 Unique  
