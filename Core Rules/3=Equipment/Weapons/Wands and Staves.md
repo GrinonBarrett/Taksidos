@@ -147,6 +147,10 @@ Contains the spell *Oscillating Wave*.
 Uses [Inte]. Can produce a toxic attack.  
 Contains the spell *Sludgery*.
 
+**Staff of the Palecaster**, $4,800  
+Uses [Inte]. Can produce a necrotic attack.  
+Contains the spell *Wretched Ray*.
+
 **Staff of Pressing**, $4,800  
 Uses [Will]. Can produce a crushing attack.  
 Contains the spell *Collapse*.
