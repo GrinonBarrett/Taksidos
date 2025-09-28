@@ -4,6 +4,9 @@ Each wand uses a particular attribute and produces a specific type of attack. To
 **Wand of Cold Ray**, $1,800  
 Uses [Will]. When used, a fine ray is projected which pushes thermal energy out of the space it occupies. This is a cold attack.
 
+**Wand of Dissolving**, $1,800  
+Uses [Inte]. When used, a fine spray spurts at the foe. This is an acid attack. If the foe is wearing armor, it is a sundering attack.
+
 **Wand of Fire Bolt**, $1,800  
 Uses [Inte]. When used, a small trailing ball of fire is launched towards the target. This is a fire attack.
 
