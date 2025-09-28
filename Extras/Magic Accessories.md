@@ -100,6 +100,12 @@ A simpler metal amulet. It has minimal adornment.
 .5 lb.  
 A charm shaped as a sun, eye, flame, or some holy symbol. *As an action, the wearer may have the periapt produce fair light out in a cone up to 3 yards, and dim light extending from this to further the cone another 3 yards. Every minute of this incurs a point of spell sickness. Each round, a d20 is rolled. If the result is equal to or less than the wearer's spell sickness, the periapt ceases to function for 1 hour. Alternatively, if the wearer has 15+ [Will], they may take on 1d6+1 points of spell sickness to produce a 7 yard cone of bright light projecting from the periapt as an action. This light lasts until the end of the round and cannot be done if the user already has spell sickness*.
 
+**Pulgrasp**, $7,800  
+Unique  
+4 lbs.  
+It appears to be a garden shovel, of the hand trowel sort, though the handle is in line with its blade.  
+*If name is known, the user may pull out or retract the handle as appropriate by using an action or reaction to convert it into one of a number of forms. It can become a dagger, thrown blade, javelin, or spear. Furthermore- it may be of the appropriate size for a small, medium, or large creature when doing so. It may also be returned to its original form this way. Its weight remains the same regardless, but it will always function as the appropriate weapon. If something would supress the magic- it retains its current form*.
+
 **Ring of Arcane Charge**, $20,000  
 Neg.  
 A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
