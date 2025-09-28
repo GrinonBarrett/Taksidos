@@ -1814,7 +1814,21 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (5
+### P (6
+
+#### Pain Split
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, taken in response to an attack made against you from a creature within range (before the attack result is known)
+
+**Range**: 2 yards
+
+**Effect**: You have harnessed some supernatural force. If the attack resolves in a way that inflicts a wound against you, it also inflicts a wound against that creature. The wound die result for both yourself and the other creature will be the same die roll result. If either you or the opposing creature do not receive wounds, the spell will fail unless you use the same alternative (such as creature's of undeath losing points of undeath)- in which case it is considered that an attack of identical nature has been inflicted upon the other creature.
+
+**At Higher Tiers**: Each tier beyond minimum increases the range by 2 yards.
+
+**Critical Failure**: You have failed to call upon the power needed for this, granting the attack a bonus against you equal to the spell's tier. You also gain spell sickness equal to the spell's tier.
 
 #### Phasic Wave
 
