@@ -1619,7 +1619,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (5
+### M (6
 
 #### Meteor
 
@@ -1692,6 +1692,20 @@ A creature may make a [Fort] save to avoid this if they wish.
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature and the range is increased to a number of yards equal to the spell's tier.
 
 **Critical Failure**: You fail to transfer the transmutation properly. Yourself and any affected creature is set ablaze, as though a fire attack inflicted a critical hit. The save DV will be equal to the DV of the spell check.
+
+#### Moonfire
+
+**Minimum Tier**: 4
+
+**Casting Time**: 2 Actions
+
+**Effect**: When you cast this spell, choose one of the following damage types (cold, electric, fire, radiant, necrotic). You conjure a jet of glowing silvery blue flame stretching out 5 yards. It is up to .5 foot wide and equally tall. Anything in the area suffers a fire attack, then a ki attack, then an attack of the chosen type. If an attack would qualify to damage armor it does not, and instead afflicts the foe with either a point of inebriation or spell sickness (your choice when casting the spell). In place of traditional critical hit effects, each critical hit instead inflicts an instance of Archeblight.
+
+If the spellcheck is a critical success, you may change the shape to be a cone or inverted cone- but the total length is reduced by 1/3.
+
+**At Higher Tiers**: Each tier beyond the minimum allows you to propel the flames 1.5 yards further.
+
+**Critical Failure**: You and every creature within a number of feet equal to your [Magic] bonus + 3 are subject to a ki attack and an attack of the selected type. The attacks each gain a bonus against you equal to the spell's tier for the purpose of determining a critical hit. These are standard magical attacks.
 
 #### Mortal Masque
 
