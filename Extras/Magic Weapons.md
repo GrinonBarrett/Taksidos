@@ -366,6 +366,11 @@ Longsword
 A finely crafted sword made by a now nearly forgotten elf master, this blade was thought of as a bane of evil.  
 *Gains a 1d8 bonus to attacks against creatures of undeath*.
 
+**Tarbafur's Staff** (*unique*)  
+$5,000 , 1.5 lb.  
+Uses [Empy]. Can produce a psychic attack.  
+Contains the spell *Pain Split*.
+
 **Taundon** (*unique*)  
 $5,000 , 3.5 lbs.  
 Club  
