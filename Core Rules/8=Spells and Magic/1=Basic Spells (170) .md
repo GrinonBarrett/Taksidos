@@ -1044,7 +1044,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (6
+### G (7
 
 #### Glacial Brand
 
@@ -1115,6 +1115,26 @@ If holding, treat as a normal grapple with the following exceptions. Your value 
 **At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, can increase the range by 10 yards or reduce the casting time by 1 action (to aminimum of 2).
 
 **Critical Failure**: The field you create instead surrounds yourself, making you prone and vulnerable for a number of rounds equal o the spell's tier. Your movement speeds are reduced by half during this time.
+
+#### Grave Blast
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Range**: 30 yards
+
+**Effect**: As an additional cost to cast this spell, you must hold the skull of a sapiant creature. The skull will disintigrate if the spell is successfully cast. Choose two exotic damage types. From the skull a pitch black ball of energy fired. On impact it will inflict a necrotic attack. In place of a traditional critical hit, it inflicts the critical hit effects of the two damage types selected. If the attack would qualify to damage armor, it instead dazes the foe until the end of the next round.
+
+If the attack roll against the foe was successful and the die roll result was odd, you may choose to either have the foe emit dim light out for 1 foot or reduce the level of light within 1 foot of the foe for a number of rounds equal to the spell's tier + [Magic] bonus.
+
+A critical success with the spellcheck does not consume the skull.
+
+**At Higher Tiers**: Each tier beyond minimum grants the attack an additional +1 bonus.
+
+**Critical Failure**: The skull levitates and faces you, blasting you with unintended powers. It inflicts two attacks against you, one of each chosen type. These attacks gains a bonus against you equal to half of the spell's tier for the purpose of inflicting a critical hit. It then disintigrates.
+
+###### In case someone decides to use a perdrine as the skull, it receives a wound in place of being destroyed.
 
 #### Gravitic Disruption
 
