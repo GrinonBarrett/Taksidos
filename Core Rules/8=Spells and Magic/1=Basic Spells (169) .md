@@ -1816,7 +1816,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (6
+### P (7
 
 #### Pain Split
 
@@ -1845,6 +1845,20 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 **At Higher Tiers**:  Each tier beyond its minimum allows you to increease the level of the d4 die (to a d6, then a d8, etc, until it reachs a d12) and/or increase the size of the fan by 1 yard.
 
 **Critical Failure**: You unintentionally localize the energy... inside of you. You suffer a psychic attack with advantage. After 1d12 rounds, a sphere of energy explodes out from you a number of feet equal to the spell tier. Everything in the sphere suffers a psychic attack, including yourself.
+
+#### Plasma Ray
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 50 yards
+
+**Effect**: You conjure an unstable source of energy and direct it as a ray at a foe within range. This inflicts a radiant attack against the target. If the attack is a critical hit, it also inflicts the critical hit effect of an electric attack and a fire attack.
+
+**At Higher Tiers**: Each tier beyond minimum lets you either grant the attck a +1 bonus or grant it a +2 bonus for the purpose of inflicting a critical hit.
+
+**Critical Failure**: The conjured plasma is unstable, inflicting a a radiant attack against you and an additional attack. If the additional attack roll is even, its an electric attack. If odd, its a fire attack. The radiant attack gains a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Portalence
 
