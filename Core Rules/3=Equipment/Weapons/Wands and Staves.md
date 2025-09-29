@@ -195,6 +195,10 @@ Contains the spell *Arc Lighting*.
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Sun Globe*.
 
+**Staff of Sunbeams**, $4,800  
+Uses [Inte]. Can produce a radiant attack.  
+Contains the spell *Plasma Ray*.
+
 **Staff of Telekinetics**, $4,800  
 Uses [Inte]. Can produce a psychic attack.  
 COntains the spell *Telekinesis*.
