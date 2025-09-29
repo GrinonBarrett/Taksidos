@@ -1703,6 +1703,8 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 If the spellcheck is a critical success, you may change the shape to be a cone or inverted cone- but the total length is reduced by 1/3.
 
+This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty if user is not in moonlight when casting the spell.
+
 **At Higher Tiers**: Each tier beyond the minimum allows you to propel the flames 1.5 yards further.
 
 **Critical Failure**: You and every creature within a number of feet equal to your [Magic] bonus + 3 are subject to a ki attack and an attack of the selected type. The attacks each gain a bonus against you equal to the spell's tier for the purpose of determining a critical hit. These are standard magical attacks.
