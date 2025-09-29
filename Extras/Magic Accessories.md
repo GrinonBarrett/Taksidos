@@ -46,6 +46,11 @@ Neg.
 A broad gold band which makes the most pleasent resonating sound when struck by a wand.  
 *Wearer gains a +2 to all attacks made with wands in the same hand as the ring for the purpose of inflicting a critical hit*.
 
+**Elfen Amulet**, $ 36,000  
+Neg.  
+A fine altyprium chain bears a likeclytch holding any manner of precious gemstone.  
+**A player character wearing this may choose to make a spellcheck a success with a single point of success automatically so long as the DV is not greater than level + heroism + [Magic]. If they do, the stone dissolves and the amulet loses its power*.
+
 **False Torch**, $20,000  
 Unique  
 Neg.  
