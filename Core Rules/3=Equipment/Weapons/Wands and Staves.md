@@ -131,6 +131,10 @@ Contains the spell *Zenith*.
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Flare*.
 
+**Staff of Matins**, $4,800  
+Uses [Will]. Can produce a cold attack.  
+Contains the spell *Moonfire*.
+
 **Staff of Missilry**, $4,800  
 Uses [Inte]. Can produce a force attack.  
 Contains the spell *Flechette*.
