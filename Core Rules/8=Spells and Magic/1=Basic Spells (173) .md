@@ -182,7 +182,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (8
+### B (9
 
 #### Behest
 
@@ -261,6 +261,28 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: Each tier beyond minimum allows you to increase the multiplier of the distance by one (i.e a single additional tier devoted this way would cause it to be triple) or increase the range by 3 yards.
 
 **Critical Failure**: You instead affect inflict kinetic shock against yourself. You are harmed exactly as though you feel a number of feet equal to the points of failure multiplied by the tier of the spell despite not moving. If you cast it in response to your own leaping, you immediately fall.
+
+#### Bramble Grasp
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 5 yards
+
+**Duration**: Concentration, plus spell tier rounds
+
+**Effect**: You command a non-sapiant plant within range to grasp a creature within 1 yard of it. The creature is grappled, with the plant having an effective [Body] modifier equal to the spell's tier.
+
+If the spellcheck is a critical success, a critical failure in the check by the subject inflicts a pircing attack.
+
+**At Higher Tiers**: For each tier above minimum, you may choose one of the following,  
+* The range of the spell is increased by 2 yards
+* The range the plant can grapplefrom is increased by 1 yard
+* The effective [Body] modifier of the plant is increased by +1
+* the spell last an additional round after concentration is dropped.
+
+**Critical Failure**: The spell does nothing and you gains spell sickness equal to 1d4 + half (rounded down) of the spell's tier.
 
 #### Breaker Strike
 
