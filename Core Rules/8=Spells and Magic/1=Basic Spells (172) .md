@@ -1484,7 +1484,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (3
+### J (4
 
 #### Jaunt Macabre
 
@@ -1536,6 +1536,20 @@ If the spell check is a critical success, you may change the effect of a critica
 **At Higher Tiers**: Each tier beyond the minimum can eiter increases the range by 3 yards or the duration by 1 hour, in addition to the benefit noted above.
 
 **Critical Failure**: You find yourself the subject of misfortune, as the spell affects you instead.
+
+#### Jolting Grasp
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Effect**: You perform an unarmed attack against a foe, which also inflicts a crushing attack against the foe. You may choose to have the crushing attack treated as a sunder. If you do, it is applied before the unarmed attack.
+
+If you have the foe grappled, both attacks gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+**At Higher Tiers**: The benefits are noted above.
+
+**Critical Failure**: The force you conjure is channeled into your body rather than the foe. The crushing attack is instead inflicted against you, and you become prone for a number of rounds equal to the spell's tier.
 
 ### K (2
 
