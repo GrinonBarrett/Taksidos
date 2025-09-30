@@ -659,7 +659,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Casting Time**: 9 actions
 
-**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check with a couple of exceptions.  
+**Effect**: You touch a creature and attempt to free it from a mind influencing effect. This functions as a counterspell check against such an effect with a few of exceptions.  
 * You have disadvantage on the check unless it was caused by a spell you know.
 * If the caster of that effect can perceive the afflicted creature, it has advantage on its check.
 * You gain a bonus equal to the the tier of the spell.
