@@ -1779,7 +1779,28 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 
 **Critical Failure**: The spell seems to function as normal, but it only remains subservient to you for a number of rounds equal to your [Magic] bonus minus the spell's tier (minimum of 1 round).
 
-### O (3
+### O (4
+
+#### Oozery
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 3 yards
+
+**Effect**: You create a microscopic forcefield around an amorphous creature you can perceive in range of small size or smaller. While an amorphous creature is within this forcefield, you can have it move at its normal speed during the movement phase by using your reaction or forfeiting your movement. Alternatively, you may treat it as having a levitation speed in feet equal to the spell's tier + your [Magic] bonus. You may prevent the creature from moving in any capacity, though it can use its action to attempt a [Body] check with a DV equal to the spellcheck's points of success + spell tier to break the forcefield.
+
+The forcefield prevents contact between the creature and anything else. The caster must concentrate on the spell to maintain it. A critical success with the spellcheck will prevent the target from being able to break free.
+
+**At Higher Tiers**: Each tier beyond minimum allows the caster one of the following benefits,  
+* The range is increased by 2 yards
+* The spell now lasts until the end of the round that concentration is lost, if you wish.
+* If the above option was chosen, the spell lasts an additional whole round after concentration is lost.
+* The size of creature you can affect is increased by 1 size category.
+* You may affect an additional creature with this spell.
+
+**Critical Failure**: You instead create a forcefield around yourself for a number of rounds equal to the spell's tier +1. This causes you to be immobile. Despite being unable to move, which might incur the vulnerable condition, the forcefield's protective qualities mitigate that.
 
 #### Oozing Sphere
 
