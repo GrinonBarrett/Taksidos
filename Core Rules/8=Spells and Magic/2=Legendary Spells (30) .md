@@ -1,6 +1,6 @@
 Legendary spells are named for their creator. These spells are listed by creator rather than letter. Legendary spells cannot simply be learned by a character. The creators' notes are often lost or buried and require deciphering. Alternatively, if such a magician is still alive, direct tutalege could allow a character to learn such a spell.
 
-### Alekard (2
+### Alekard (3
 A blood sucking priest from another world which gained divinity. His original name was corrupted into its current form in the process.
 
 #### Alekard's Blood Barrage
@@ -32,6 +32,20 @@ On a critical success, you may alter the damage type of the initial attack to be
 **At Higher Tiers**: Each tier beyond its minimum can grant the initial attack a +1 bonus or increase the explosion radius by 1 yard.
 
 **Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
+
+#### Alekard's Syphoning Strike
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Effect**: You perform a melee unarmed or weapon attack against a foe, which also inflicts a necrotic attack against the foe. If either would qualify to damage armor, it instead inflicts a level of fatigure against the foe. This can apply to both attacks. For each level of fatigue inflicted this way, you may choose to either recover an instance of fatigue or recover a single hitpoint.
+
+If you have the foe grappled or the spellcheck is a critical success, the necrotic attack gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+**At Higher Tiers**: The benefits of casting the spell at higher levels is noted above.
+
+**Critical Failure**: You have invoked a very angry power. A necrotic attack is inflicted against you. If it was a critical hit or would qualify to damage armor- it instead inflicts a radiant attack as well..
 
 ### Alekora (3
 Right hand to alekard.
