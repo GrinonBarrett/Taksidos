@@ -354,7 +354,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Effect**: You direct a stream of energized particles in a 3 yard mikrofan. Anything within the cone is subject to a ki attack.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's mikrofan by 1 yard.
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1 yard.
 
 **Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
 
@@ -2543,7 +2543,7 @@ If you have the foe grappled, both initial attacks gain a bonus equal to the spe
 
 [Torching Fist]: # "Inspired by Michael Hasty choosing an element and name for this spell while brainstorming ideas for a melee combat spell."
 
-### U (3
+### U (4
 
 #### Undying Globe
 
@@ -2584,6 +2584,23 @@ This spell cannot affect ephemera.
 **At Higher Tiers**: Each tier beyond minimum sees the maximum number of rounds the aura can last increased by 1.
 
 **Critical Failure**: You produce the aura and do not need to concentrate on it for it to remain, although instead of geeting to choose a creature to attack, it will attack you. Additionally, if you are heavier than any other creature in range, that attack is inflicted against you. Furthermore, if no other creature is within range, another attack is inflicted against you. This can harm you even if you would otherwise be immune to crushing attacks.
+
+#### Unnatural Lightning
+
+**Minimum Tier**: 4
+
+**Casting Time**: 1 Action
+
+**Effect**: You direct a stream of energized particles in a 7 yard semifan or mikrofan (your choice when casting). Anything within the area is subject to an electric attack. If an attack from this spell would qualify to damage armor, the foe must instead succeed a [Rflx] save with a DV equal to the caster's [Magic] bonus + double the spell's tier or be prone until the end of the round. A creature that critically fails this is vulnerable during this time.
+
+When you cast this spell, you may use your reaction to grant advantage on a single attack made by the spell.
+
+If the spellcheck was a critical success, the caster may knock back any affected creature a number of feet equal to the spellcheck's points of success divided by the creatre's weight in stones.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either extend the range of the spell's semifanfan by 1 yard or grant a single attack from the spell a +1 bonus.
+
+**Critical Failure**: You fail to ground the power correctly, inflicting a number of electic attacks against yourself equal to the spell's tier -1.
+
 
 #### Unrest for Undeath
 
