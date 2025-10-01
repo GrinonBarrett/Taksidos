@@ -43,7 +43,7 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 If you have the foe grappled or the spellcheck is a critical success, the necrotic attack gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
 
-**At Higher Tiers**: The benefits of casting the spell at higher levels is noted above.
+**At Higher Tiers**: For each tier beyond minimum, the necrotic attack gains a +1 bonus for the purpose of determining if the attackl is a critical hit.
 
 **Critical Failure**: You have invoked a very angry power. A necrotic attack is inflicted against you with a bonus equal to the spell's tier. If it was a critical hit or would qualify to damage armor- it instead inflicts a radiant attack as well..
 
