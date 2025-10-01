@@ -2404,7 +2404,7 @@ Cannot be cast at night.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (7
+### T (8
 
 #### Telekinesis 
 
@@ -2526,6 +2526,22 @@ Metal Armor affected by this becomes like gambeson until it rehardens. It can be
 **Critical Failure**: You have managed to afflict yourself with this in some manner. Your [Body], [Rflx], and [Fort] are all halved for a number of minutes equal to the spell's tier. Additionally, you are prone and vulnerable during this time.
 
 [Thwanething Spell]: # "Derived from old english þwǣneþ."
+
+#### Torching Fist
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Effect**: You perform an unarmed attack against a foe, which also inflicts a fire attack against the foe. If either would qualify to damage armor, it instead inflicts an additional fire attack. This can occur for both initial attacks from this spell, but not additional fire attacks.
+
+If you have the foe grappled, both initial attacks gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+**At Higher Tiers**: The benefits are noted above.
+
+**Critical Failure**: Your fist (or other appropriate bodypart) catches on fire. The spell instead inflicts a fire attack against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. Residual burning causes you to emit light like a torch for a number of phases equal to the spell's tier.
+
+[Torching Fist]: # "Inspired by Michael Hasty choosing an element and name for this spell while brainstorming ideas for a melee combat spell."
 
 ### U (3
 
