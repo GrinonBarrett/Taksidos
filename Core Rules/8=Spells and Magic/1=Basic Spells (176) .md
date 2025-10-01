@@ -1675,7 +1675,36 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (6
+### M (7
+
+#### Metamogrify
+
+**Minimum Tier**: 4
+
+**Casting Time**: 25 actions
+
+**Range**: 1 yard
+
+**Duration**: 6 minutes
+
+**Effect**: You force a change in form of a creature within range. Choose one of the following to affect the creature;  
+* The creature increases in size category by 1. The creature gets a bonus equal to double the spell tier to its save against this spell. The spell's duration is reduced to 1/3.
+* The creature decreases in size category by 1. The creature gets a bonus equal to double the spell tier to its save against this spell. The spell's duration is reduced to 1/2.
+* Choose one of its unarmed attacks that inflicts one of the following types of attacks (bare, club, cutting, force, piercing, thrown blade) and replace it with another such damage type.
+* Choose one of following movement sppeds possessed by the creature (run, climb, swim, flying). You increase or decrease it (your choice) by a number of feet equal to the spell's tier +1. This may be selected multiple times if cast at a higher tier (see below).
+* The creature becomes vulnerable.
+* The creature becomes prone.
+* The creature receives a level of fatigue.
+
+ It is allowed a [Fort] save to prevent this, with a DV equal to the spellcheck's points of success + triple spell tier. A critical success with the spell check allows you to select an additional option with the spell. This spell cannot affect ephemera.
+
+**At Higher Tiers**: For each tier beyond minimum, you may choose one of the following,  
+* The range is increased by 3 yards.
+* The casting time is reduced by 1 action (to a minimum of 1 action)
+* Choose an additional option with the spell, it is also applied.
+* The duration is increased by 1 minute.
+
+**Critical Failure**: You instead affect yourself, but suffer a penalty to all checks and saves equal to the spell's tier for the duration of the spell. You cannot make a save to prevent this.
 
 #### Meteor
 
