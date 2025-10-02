@@ -37,11 +37,17 @@ Uses [Inte]. When used, a darkly transparent ray springs towards the foe. This i
 **Wand of Shock**, $1,800  
 Uses [Will]. When used, it produces a bolt of electricity towards the foe.
 
+**Wand of Slashing**, $1,800  
+Uses [Inte]. When used, shimerring blades of a translucent color manifest before the foe and close into rapidly. This inflicts a cutting attack.
+
 **Wand of Sparks**, $1,800  
 Uses [Inte]. When used, a stream of sparks errects towards the foe. This is an electrical attack.
 
 **Wand of Stabbing**, $1,800  
 Uses [Will]. When used, a small glowing blade is projected towards the foe. This is a dagger attack.
+
+**Wand of Throwing**, $1,800  
+Uses [Will]. This wand can potentially toss a foe around. It inflicts an undamaging attack. The foe is knocked back a number of yards equal to the points of succees divided by the creature's weight in stones.
 
 **Wand of Twisting Light**, $1,800  
 Uses [Fort]. When used, a spiraling spectral beam is produced against the foe. This inflicts a radiant attack.
