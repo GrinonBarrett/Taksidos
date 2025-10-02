@@ -43,13 +43,14 @@ Uses [Inte]. When used, a stream of sparks errects towards the foe. This is an e
 **Wand of Stabbing**, $1,800  
 Uses [Will]. When used, a small glowing blade is projected towards the foe. This is a dagger attack.
 
+**Wand of Twisting Light**, $1,800  
+Uses [Fort]. When used, a spiraling spectral beam is produced against the foe. This inflicts a radiant attack.
+
 **Wand of Whispers**, $1,800  
 Uses [Empy]. When used, the foe hears voices just quiet enough that it can't understand. This inflicts a psychic attack.
 
 **Wand of the Wraith**, $1,800  
 Uses [Will]. When used, a dark shadow cries forth at a foe before eneloping them and disappearing. This inflicts a ki attack.
-
-
 
 ### Staves
 Staves are two handed weapons which can function like wands (including the producing of a ray) or clubs. Each staff also possesses a spell. The wielder of the staff may cast the possessed spell as though they knew it, so long as they have a means of casting spells. Furthermore, if they do know the spell- they gain a +1 bonus to spellchecks when casting that spell and a +1 to saves against that spell.
