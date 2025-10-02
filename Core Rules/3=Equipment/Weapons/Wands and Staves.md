@@ -110,6 +110,10 @@ Contains the spell *Wild Orb*.
 Uses [Fort]. Can produce a fire attack.  
 Contains the spell *Dragon's Breath*.
 
+**Staff of Deathly Harvest**, $4,800  
+Uses [Will]. Can produce a cutting attack.  
+Contains the spell *Soul Sear*.
+
 **Staff of Deathly Whispers**, $4,800  
 Uses [Prcp]. Inflicts a sonic attack.  
 Contains the spell *Tell Undead*.
