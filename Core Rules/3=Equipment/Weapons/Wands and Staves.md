@@ -1,6 +1,9 @@
 ### Wands
 Each wand uses a particular attribute and produces a specific type of attack. To be able to operate a wand, you must have that attribute as a 13 or greater. When using a wand, if your attack die roll result is an odd number, you suffer a point of spell sickness. The attack of a wand is a magical effect, regardless of how it is used. The narrator can easily create wands of their own imagination. All attacks from wands are considered to be rays.
 
+**Wand of Bluntness**, $1,800  
+Uses [Empy]. When used, an invsibile forces pounds the foe. Inflicts a force attack.
+
 **Wand of Cold Ray**, $1,800  
 Uses [Will]. When used, a fine ray is projected which pushes thermal energy out of the space it occupies. This is a cold attack.
 
@@ -38,7 +41,7 @@ Uses [Inte]. When used, a darkly transparent ray springs towards the foe. This i
 Uses [Will]. When used, it produces a bolt of electricity towards the foe.
 
 **Wand of Slashing**, $1,800  
-Uses [Inte]. When used, shimerring blades of a translucent color manifest before the foe and close into rapidly. This inflicts a cutting attack.
+Uses [Inte]. When used, shimerring blades of a translucent color manifest before the foe and close into them rapidly. This inflicts a cutting attack.
 
 **Wand of Sparks**, $1,800  
 Uses [Inte]. When used, a stream of sparks errects towards the foe. This is an electrical attack.
