@@ -58,6 +58,9 @@ Uses [Will]. This wand can potentially toss a foe around. It inflicts an undamag
 **Wand of Twisting Light**, $1,800  
 Uses [Fort]. When used, a spiraling spectral beam is produced against the foe. This inflicts a radiant attack.
 
+**Wand of Voltage**, $1,800  
+Uses [Fort]. When used, an invisible chain of ions makes up the ray and they react. This inflicts an electric attack. If the foe is wearing armor, this is a sundering attack.
+
 **Wand of Whispers**, $1,800  
 Uses [Empy]. When used, the foe hears voices just quiet enough that it can't understand. This inflicts a psychic attack.
 
