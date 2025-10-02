@@ -1,6 +1,9 @@
 ### Wands
 Each wand uses a particular attribute and produces a specific type of attack. To be able to operate a wand, you must have that attribute as a 13 or greater. When using a wand, if your attack die roll result is an odd number, you suffer a point of spell sickness. The attack of a wand is a magical effect, regardless of how it is used. The narrator can easily create wands of their own imagination. All attacks from wands are considered to be rays.
 
+**Fetid Wand**, $1,800  
+Uses [Fort]. When used, a noxious beam of translucent energy is hurled at the foe. This inflicts a necrotic attack.
+
 **Wand of Bluntness**, $1,800  
 Uses [Empy]. When used, an invisible forces pounds the foe. Inflicts a force attack.
 
