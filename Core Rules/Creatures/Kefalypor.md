@@ -1,5 +1,5 @@
 ### Kefalypor
-They appear to be deformed brains. Their origin is unknown, but they have been found in the occasional lair. One theory is that they are produced by an arcane process peformed on the psychic plane on a sleeping humanoid. Another theory states they are the result of incompetent mages going mad in their pursuit of power. They can coordinate well in groups by telepathically communicating. The moment suitable food becomes available hoever, they can become hostile to each other. Their collective noun is brainstorm.
+They appear to be deformed brains with a single eyestalk and a hidden maw. Their origin is unknown, but they have been found in the occasional lair. One theory is that they are produced by an arcane process peformed on the psychic plane on a sleeping humanoid. Another theory states they are the result of incompetent mages going mad in their pursuit of power. They can coordinate well in groups by telepathically communicating. The moment suitable food becomes available hoever, they can become hostile to each other. Their collective noun is brainstorm.
 
 **Creature Type**: Kefalypors are Monsters.
 
@@ -84,9 +84,9 @@ If the kefalypor conumes a number of servings beyond what it needs during a day 
 
 **Limited Senses**: The kefalypor has no sense of smell, taste, or hearing. It cannot receive stimuli from scents, tastes, or sounds in any capacity as a result (including illusory effects).
 
-**Limited Telepathy**: Kefalypors can communicate telepathically with each other sopn long as they can perceive each other.
+**Limited Telepathy**: Kefalypors can communicate telepathically with each other so long as they can perceive each other.
 
-**Eye Stalk**: Kefalypors have a single eye stalk. They can rotate their vision. This occurs when rotations would during the round. The kefalypor can rotate their vision during the same or different phases that they rotate their body. Their eye stalks may each only rotate up to 90 degrees left or right per phase.
+**Eye Stalk**: Kefalypors have a single eye stalk. They can rotate their vision. This occurs when rotations would during the round. The kefalypor can rotate their vision during the same or different phases that they rotate their body. Their eye stalk may only rotate up to 90 degrees left or right per phase.
 
 **Telekineticism**: When the Kefalypor is successful with one of its unarmed attacks in any degree, it can use its reaction to move that creature a number of yards equal to the attack roll total + its [Inte] score divided by that creature's weight in stones.
 
