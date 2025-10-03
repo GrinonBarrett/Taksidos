@@ -91,9 +91,10 @@ A large serpentine guardian of the natural world. It skims theough the deepest w
 
 **Mighty Slam**: When it successfully strikes a foe with its strike attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, it knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by its weight in stones divided by the foe's weight in stones. If it had a critical success, the foe is also vulnerable while they are prone.
 
-**Natural Magic**: It is capable of casting spells using wyrding and uses his [Empy] as its [Magic]. It adds its [Empy] bonus to his spellchecks and counterspell checks. It gains a 1d4+1 bonus to the first spellcheck or counterspell check it makes each round.He knows the following spells;  
+**Natural Magic**: It is capable of casting spells using wyrding and uses his [Empy] as its [Magic]. It adds its [Empy] bonus to his spellchecks and counterspell checks. It gains a 1d4+1 bonus to the first spellcheck or counterspell check it makes each round. It knows the following spells;  
 * Abatis
 * Aldervalder
+* Bramble Grasp
 * Charged Wave
 * Decombustion
 * Empathic Ward
