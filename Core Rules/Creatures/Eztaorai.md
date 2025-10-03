@@ -107,6 +107,6 @@ These four winged monsters appear to have a frame like a pteransaurid. They poss
 
 **Retractable Membrane**: The eztaorai may cause the mebrane in its wings to retact, allowing it to use the bony frame of the wing as a striker with minimal risk to the wing's capabilities so long as the wing is not wounded. It can strike with each striker individually, but is likely to be using at least two of its wings/strikers to move at any point in time.
 
-**Dive**: If the eztaorai flies at least 20 yards in the previous round, it gets a bonus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the eztaorai flies at least 20 yards in the previous round, it gets a bonus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
 
 [Origin of Eztaorai]: # " The second of the dreamed monsters. This one was surprising. Of course, what monstrous concept is to be expected when going to sleep? "
