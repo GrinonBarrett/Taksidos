@@ -1,5 +1,5 @@
 ### Horrornitheus
-Described as giant hummingbirds, these creatures are preceded by a deep buzzing sound which becomes nearly deafning as they swwop dow to impale their prey, lifting it away by grabbing it with their powerful claws. Their collective noun is a Hum.
+Described as giant hummingbirds, these creatures are preceded by a deep buzzing sound which becomes nearly deafning as they swoop down to impale their prey, lifting it away by grabbing it with their powerful claws. Their collective noun is a Hum.
 
 **Creature Type**: Horrornitheus are Avian creatures.
 
