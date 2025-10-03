@@ -89,12 +89,12 @@ Large beasts in contact with a spiritual plane. They can take many forms, but th
 
 **Mental Communication**: As an action or reaction, if it can perceive the invoker, it may send a telepathic command to the invoker consisting of a single word.
 
-**Dominion Benefits**: The skylosian gains the benefit as appropriate to your domain.  
+**Dominion Benefits**: The krazur gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. The krazur may treat its unarmed attack as a ki attack.
 * **The Earth**. It gains a burrow speed of 4 yards.
-* **The Flame**. The krathur may shove when it performs a bite attack without expending its reaction.
-* **The Grave**. When the Skylosian dies, *you recover a hitpoint or have one of your wounds healed, you choice*.
-* **The Light**: The skylosian ignores the penalty for bright or dim light and treats darkness within 10 yards as dimlight.
+* **The Flame**. The krazur may shove when it performs a bite attack without expending its reaction.
+* **The Grave**. When the Krazur dies, *you recover a hitpoint or have one of your wounds healed, you choice*.
+* **The Light**: The krazur ignores the penalty for bright or dim light and treats darkness within 10 yards as dimlight.
 * **Nobility**. The krazur can speak, but only while it perceives the invoker. It can say a word as an action or reaction this way.
 * **The Sea**. It can now breathe in air and untainted water equally well.
 * **The Sky**. Treat all falling and knockback distances as half. 
