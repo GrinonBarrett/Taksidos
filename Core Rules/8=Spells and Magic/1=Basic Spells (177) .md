@@ -2790,7 +2790,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (9
+### W (10
 
 #### Wall of Denial
 
@@ -2883,6 +2883,20 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary phase, you incur 1d2-1 points of spell sickness. You are prone during this time.
+
+#### Wicked Ray
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 30 yards
+
+**Effect**: Choose an exotic damage type. The ray inflicts an attack of the selected type, but instead inflicts an instance of Archeblight rather than wounding. It still inflicts the traditional effect of a critical hit.
+
+**At Higher Tiers**: Each tier beyond minimum allows the caster to either increase the range by 5 yards or grant the attack a +2 bonus for the purpose of inflicting a critical hit.
+
+**Critical Failure**: You are assaulted by the forces of the spell instead, but first suffer a traditional attack of the selected damage type.
 
 #### Wild Orb
 
