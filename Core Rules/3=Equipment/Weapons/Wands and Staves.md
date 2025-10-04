@@ -244,6 +244,10 @@ COntains the spell *Telekinesis*.
 Uses [Will]. Can produce a radiant attack.  
 Contains the spell *Seclusion Circle*.
 
+**Staff of Wickedness**, $4,800  
+Uses [Inte]. Can produce a necrotic attack.  
+Contains the spell *Wicked Ray*.
+
 **Staff of Words**, $4,800  
 Uses [Empy]. Can produce a sonic attack.  
 Contains the spell *Voice of Familiarity*.
