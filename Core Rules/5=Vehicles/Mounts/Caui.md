@@ -94,7 +94,7 @@ If unarmored, use value before the dash. If wearing proper barding, use value af
 **Extensive Breeding**: Caui have seen some success when selectively bred to have genetic advantages when performing certain tasks. All caui fall under a single breed type. The caui gains benefits based on the breed type.
 
 ##### Primary Breed Types
-**Cattle**: The caui's weight is increased by 3d20+4d10+50 pounds.
+**Cattle**: The caui's weight is increased by 3d20+4d10+50 pounds.  
 **Draft**: The caui’s weight load limits are increased by 20% each. Weight increased by 5d10+25 pounds.  
 **Race**: Once per encounter, if the mount is not prone and performs a sprint to run, its total movement for that sprint is increased by half for that movement. It may do this additional times during an encounter by taking on a level of fatigue, but cannot do so during consecutive rounds.  
 **Riding**:  Bumpy ride penalty is reduced by half.  
