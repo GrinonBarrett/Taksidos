@@ -110,7 +110,7 @@ An invoker which has managed to charm a grand shark in some way can simply entre
 **Dominion Benefits**: The shark gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. When the grand shark attacks, if it moved at least 20 yards in the round since its previous action- It gains a +3 bonus to the attack. It may treat its unarmed attacks as ki attacks.
 * **The Earth**. It gains a run speed in yards equal to the invoker's conjury. Additionally, it gains a +2 to defense against the first attack made against it in an encounter.
-* **The Flame**. The xhark gains the Wwrestling skill, is immune to fire damage, and is immune to non-magical cold attacks.
+* **The Flame**. The shark gains the Wrestling skill, is immune to fire damage, and is immune to non-magical cold attacks.
 * **The Grave**. The grand shark is now an undead creature. It is immune to poisons, venoms, diseases, spells that affect flesh, and fear based effects unless they specifically affect undead. It does not need to breathe.
 * **The Light**: All forms of magical attack against the grand shark have disadvantage.
 * **Nobility**. It gains the wrestling skill and a +2 bonus to all saves and opposed checks.
