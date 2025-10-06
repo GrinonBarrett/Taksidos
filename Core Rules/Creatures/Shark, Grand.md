@@ -99,7 +99,7 @@ Additionally, if it has a foe grappled, it may inflict an unarmed cutting attack
 **Biting Grasp**: The shark maintains any grapple by biting with its jaw, therefore it has disadvnatage on checks pertaining to maintaining its grapple against a creature during any round it bites.  
 Additionally, as a reaction, it may inflict a crushing attack against a creature it has grappled by adjusting the pressure with its grip.
 
-**Swallow Whole**: If the shark successfully grapples a creature of more trhan 2 categories smaller than itself (such as a small or smaller size), it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
+**Swallow Whole**: If the shark successfully grapples a creature of at least 2 categories smaller than itself (such as a small or smaller size), it swallows it whole. A creature may be able to cut its way out or succeed an opposed [Rflx] check using their Wrestling skill to escape.
 
 -----
 
