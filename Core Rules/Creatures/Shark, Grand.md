@@ -110,12 +110,10 @@ An invoker which has managed to charm a grand shark in some way can simply entre
 **Dominion Benefits**: The shark gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. When the grand shark attacks, if it moved at least 20 yards in the round since its previous action- It gains a +3 bonus to the attack. It may treat its unarmed attacks as ki attacks.
 * **The Earth**. It gains a run speed in yards equal to the invoker's conjury. Additionally, it gains a +2 to defense against the first attack made against it in an encounter.
-* **The Flame**. The bog wolf gains the Wwrestling skill, is immune to fire damage, and is immune to non-magical cold attacks.
+* **The Flame**. The xhark gains the Wwrestling skill, is immune to fire damage, and is immune to non-magical cold attacks.
 * **The Grave**. The grand shark is now an undead creature. It is immune to poisons, venoms, diseases, spells that affect flesh, and fear based effects unless they specifically affect undead. It does not need to breathe.
 * **The Light**: All forms of magical attack against the grand shark have disadvantage.
 * **Nobility**. It gains the wrestling skill and a +2 bonus to all saves and opposed checks.
 * **The Sea**. Its swim speed is increased by 2 yards.
 * **The Sky**. Choose one of the following exotic damage types (cold, electric, sonic). Once this decision is made it cannot be changed. If the grand shark's attack roll result is ever equal to the invoker's level, conjury, or a 17- it also inflicts an attack of the chosen type.
 * **Valdercaller**. Anytime you cast a spell which affects a creature by touch or has a range limit, you may psychically command the grand shark to use its reaction to have the spell originate from it.
-  
-In addition, the invoker gains the bog wolf's Gaseous Form ability.
