@@ -107,7 +107,7 @@ Additionally, as a reaction, it may inflict a crushing attack against a creature
 
 An invoker which has managed to charm a grand shark in some way can simply entreat it into their serivce as a greater servile. When entreated into service this way, it is treated as having a 2 hitpoints.
 
-**Dominion Benefits**: The bog wolf gains the benefit as appropriate to your domain.  
+**Dominion Benefits**: The shark gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. When the grand shark attacks, if it moved at least 20 yards in the round since its previous action- It gains a +3 bonus to the attack. It may treat its unarmed attacks as ki attacks.
 * **The Earth**. It gains a run speed in yards equal to the invoker's conjury. Additionally, it gains a +2 to defense against the first attack made against it in an encounter.
 * **The Flame**. The bog wolf gains the Wwrestling skill, is immune to fire damage, and is immune to non-magical cold attacks.
