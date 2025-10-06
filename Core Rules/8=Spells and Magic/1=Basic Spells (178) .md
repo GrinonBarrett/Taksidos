@@ -132,7 +132,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Range**: 10 yards
 
-**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as areaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
 
 As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirt ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
 
@@ -2790,7 +2790,25 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (10
+### W (11
+
+#### Waedervalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a seafoam tailed spirit of nature to strike a foe within range, treat as a force attack. If the attack would qualify to damage the foe's armor, it instead knocks the foe back (directly backwards) a number of feet equal to the spell's tier. As a reaction, it can be directed against another foe, inflicting the force attack. Each round, during the primary action phase, it will attack the creature it ws last directed against. The caster of the spell may use their reaction to assign a new target.
+
+A critical success with the spell check allows the caster to choose the direction a foe is knocked back.
+
+The spirit is capable of moving through liquids unimpeded. The spirit ceases to be after a number of rounds equal to the spell's tier +1.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2.5 yards.
+
+**Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a force attack against you. During the secondary action phase of each such round, it inflicts a crushing attack. You are prone during this time.
 
 #### Wall of Denial
 
