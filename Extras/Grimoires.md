@@ -101,11 +101,12 @@ A scholarly tome which is directed at magics involving liquids. It's kind has be
 
 **Codex Valder**  
 *Unique*  
-$10,000, 4 lbs  
+$12,000, 5 lbs  
 An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
 * Aldervalder, 4th
 * Ertvalder, 4th
 * Isevalder, 4th
+* Waedervalder, 4th
 * Wengvalder, 4th
 * Wurmvalder, 4th
 
