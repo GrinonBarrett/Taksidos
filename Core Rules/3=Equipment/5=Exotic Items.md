@@ -25,10 +25,13 @@ These were once popular among nobles as a fashion, but have fallen out of favor.
 **Paetur's Stew Jar**, $250 , 1.75 lb.  
 An amber colored jar, sealed with grey-green wax. The contents look like broth with shreds of some disintegrating material. Opening the jar _instead reveals its true contents to be a hot and hardy stew with plenty of veggies, beef, and venison_. The stew is fresh upon opening but is only good for a day. Provides a servings of fluid, a serving of protein, and a serving of vegetables. If opened in a area wherein magic cannot function, you will instead be treated to the sort of contents you observed and it will make you sick.
 
-**Pill of Delution**, $150, .neg  
+**Phial of Fog**, $480, neg.  
+A glass capsule which can be busted open by throwing it against any hard surface. Upon doing so, the very thin flowing liquid inside begins to vaporize. It produces an effect identical to the Fogflow spell except where noted here. The size of the fogcloud starts at 1 foot and the fog cloud lasts 1d4+6 rounds. It is not a magical effect. 
+
+**Pill of Delution**, $150, neg.  
 This can be dissolved into a beverage to reduce its overall points of inebriation by 1. A single pill per serving will not noticably affect the beverage otherwise. A second pill could potentially be detected. A third such application is most certain to be noticed.
 
-**Powdered Water**, $180, .neg  
+**Powdered Water**, $180, neg.  
 This powder is typically sold in one gram "doses", but can be used in any quantity. If a few drops of water are sprinkled onto (or into) the dose of powder, the powder slowly dissolves to produce more water. A single dose produces a serving of water in the course of two rounds. _Another round will cuase an additional serving of water to be produced_. If the container is not capable of holding all of the liquid, the excess will flow out as though the vessal had been over filled. If the container is sealed, the excess water will wait until there is space for it to occupy before it manifests. This is best stored in a cool dry environment. If transporting it, glass is recommended to prevent accidental moistening.  
 If sea water is used, the water can still be consumed safely- but will have a bitter salty flavor. You will also feel nauseous for about 1d6+2 hours per serving.
 
