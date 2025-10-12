@@ -36,6 +36,14 @@ A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop 
 6 lbs.  
 A cloak which seems to glitter as though the threads had brass interwoven into them, because they have. When the hood is worn while garbed with the cloak and basking in fair or bright light, *the wearer is subject to the effects of the Cloak of Radiance spell. The light enhancement effect reaches out 5 yards. No spellcheck need be made to maintain the effect. If an attack would qualify to damage the wearer's armor while the cloak is active- the cloak is made useless and the effect ends. If the wearer is ever afflicted by magical darkness, a radiant attack, or spell sickness- the effect wears off immediately. Additionally, once used, it must be bathed in fair or bright light for at least as long as the effect lasted before it can be used again*.
 
+**Charm of Mitigation**, $3,300  
+1 lb.  
+An unsual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell.
+
+****Charm of Wardance**, $2,800  
+1 lb.  
+A custom made runic necklace. The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell.**
+
 **Crosse Lantern**, $250  
 4 lb.  
 A lantern designed for use by a subterranean people. It has two loops for handles to make it easy to suspend it with rope. *The color of the flame changes color depending on whether or not there is a creature of the following types (drakomadiae, elemental, ephemera, monster) within 30 yards. To the human eye, the flame is normally a yellow-orange but will shift to a red color. Other eyes may see the color change differently, but will certainly notice it. So long as it is not in any area which supresses magic, it provides dim light out 15 yards. Otherwise,* it functions as a standard lantern. Regardless, it consumes oil at the same rate as a lantern.
