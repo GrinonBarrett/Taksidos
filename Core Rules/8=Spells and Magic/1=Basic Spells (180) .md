@@ -351,7 +351,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (9
+### C (10
 
 #### Call Lightning
 
@@ -454,6 +454,21 @@ If your spellcheck was a critical success, the foe must succeed a [Fort] save or
 **At Higher Tiers**: For each tier beyond minimum, you may produce this water up to 1 foot away.
 
 **Critical Failure**: You manage to soak yourself in the conjured water and nearly drown on it, causing you to be prone and vulnerable for a number of rounds equal to the spell's tier.
+
+#### Convoke Fluids
+
+**Minimum Tier**: 1
+
+**Casting Time**: 4 actions
+
+**Range**: 10 yards
+
+**Effect**: You call all fluids within range to center on a point within range you designate. The fluids all move at roughly a pace of 10 yards during each phase. A critical success with the spell check allows you to only affect a single type of fluid or to exclude a fluid.  
+Fluids which are part of a creature are not affected by this. A cretaure composed exclusively of fluids instead finds itself moving towards the designated point at a speed measured in feet equal to the spell's tier each phase.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to any above listed benefits, you may increase the range by 3 yards or the speed of movement (for non-creatures) by 2 yards.
+
+**Critical Failure**: You fail to move anything and instead gain spell sickness equal to half (round down) of the spell. You also seem unbable to begin casting this spell again for a number of rounds equal to the spell's tier.
 
 #### Creeping Death
 
@@ -2885,7 +2900,7 @@ Something like the Creeping Death spell could move around the barrier if it does
 * Choose the direction the water flows.
 * Move it up to a number of feet equal to the points of success.
 * Direct the water to inflict a force attack against a foe. Instead of inflicting a wound, the foe is knocked back a number of feet equal to the spell's tier.
-* Direct the water to inflict a crushing attack against a foe. Instead of inflicting a wonund, the foe is knocked prone.
+* Direct the water to inflict a crushing attack against a foe. Instead of inflicting a wound, the foe is knocked prone.
 
 This spell is active as long as you concentrate on it. When casting or concentrating on this spell, you may spend any additional number of additional actions to increase the volume you can affect by a number of cubic feet equal to the spell's tier.
 
