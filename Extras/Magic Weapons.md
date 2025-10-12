@@ -408,6 +408,11 @@ $5,000 , 2 lbs.
 Katar  
 A keen blade and ornamented handle might deceive one into believing it to be a cermonial weapon. If the wielder has Warr Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
 
+**Vrelard's Way**  
+$ 1,900, 3 lb.  
+Hand Axe  
+One of a number of handaxes made after the legendary hero's own mystical weapon. It also exists on the ethereal plane. *Gains a +1 bonus to attacks against sylvan creatures*.
+
 **Warl's Hammer** (*unique*)  
 $8,400 , 4 lbs.  
 Mace  
