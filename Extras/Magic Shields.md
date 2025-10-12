@@ -67,3 +67,7 @@ A small shield belonging to a forgotten adventurer. When the user inflicts a cri
 **Umarion**, $1,480 , 8 lb. (*unique*)  
 +2  
 A pale blue colored kite shield. *If name is known, the bonus for blocking is increased by 1. This is increased by an additional 1 against magical attacks*.
+
+**Vrelard's Guard**, $1,100 , 3 lb.  
++2  
+A moderately  sized shield that served its original owner well. *If user is capable of casting spells in any manner, they may cast the Abatis spell*.
