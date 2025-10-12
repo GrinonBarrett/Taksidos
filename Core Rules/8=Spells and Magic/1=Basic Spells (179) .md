@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (12
+### A (13
 
 #### Abatis
 
@@ -48,6 +48,27 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 **At Higher Tiers**: The benefits for higher tiers are noted above.
 
 **Critical Failure**: You gain 1d4 points of spell sickness.
+
+#### Abolish Abomination
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Effect**: Your touch seeks to undo a most unnatural form of creature. If you target a bigenerae, eldritch, or monster- you inflict an unlisted attack against it as the spell seeks to to tear it apart. Additionally, regardless of the creature's type- you inflict an unlisted attack against it and a crushing attack. If it is a biginerae, eldritch, or monster type creature- it must succeed a [Fort] save with a DV equal to the spell check result or suffer 2 wounds and then perform an incapacitation save. If it was a bigenerae, the DV is increased by the spell's tier. Additionally, any creature of undeath affected by this spell loses points of undeath equal to the spellcheck's points of success.
+
+A critical hit by an unlisted attack of this spell inflicts an additional wound or reduces a creature's points of undeath by the spellcheck's points of success.
+
+A creature killed by this spell is completely destroyed and almost unrecognisable. It cannot be reanimated by any means.
+
+**At Higher Tiers**: For each tier beyond minimum, the caster may choose one of the following;
+* The casting time is reduced by 1 action (to a minimum of 1 action)
+* The first attack inflicted by the spell against a creature gains a +1 bonus.
+* The crushing attack against a creature gains a +2 bonus for the purpose of inflicting a critical hit.
+* The DV of the [Fort] save is increased by 5.
+* The incapacitation save inflicted by a failed [Fort] save from the spell is increased by 2.
+
+**Critical Failure**: You inflict two unlisted attacks against yourself. The second attack gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit. These attacks will inflict an additional unlisted attack as the result of a critical hit against you.
 
 #### Abnegate
 
