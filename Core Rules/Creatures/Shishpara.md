@@ -106,4 +106,4 @@ These six-winged creatures are capable of picking up goats and even children as 
 
 **Keen Nose**: The shishpara gets a +2 to all [Prcp] checks and saves involving scent.
 
-**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the shishpara flies at least 20 yards in the previous round, it gets a bonus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
