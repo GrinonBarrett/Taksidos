@@ -110,7 +110,7 @@ Alternatively, it may cause the breath weapon to take the form of a cone. Doing 
 
 **Additional Wings**: The tessariftorai only needs three of its wings to operate, but gains advantages for devoting all four to flight for the round. Its flight speed is increased by 5 yards if it is not prone.
 
-**Dive**: If the tessariftorai flies at least 20 yards in the previous round, it gets a bonus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the tessariftorai flies at least 20 yards in the previous round, it gets a bonus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
 
 **Tail Sweep**: Once per round, when its unarmed attack would be a critical hit or it slams a brawling opponent, it may use its reaction to do one of the following;
 
