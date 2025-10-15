@@ -15,7 +15,7 @@ Choose two attributes. Each are increased by 2.
 
 **Run Speed**: You may run up to 1 yard per move.
 
-**Flight Speed**: You may fly up to 18 yards per move. You must move at least 20 yards per round to remain airborne.
+**Flight Speed**: You may fly up to 18 yards per move. You must move at least 17 yards per round to remain airborne.
 
 **Swim speed**: You may swim up to 1 yard per move, presuming the water isn’t too rough.
 
@@ -59,7 +59,9 @@ Choose two attributes. Each are increased by 2.
  • +1 [Body]  
  • You sprout four claws. These claws are treated as off hands. A pair of dire claws may be used to make a cutting unarmed attack within 1 foot.  
  • Your flight speed is reduced by half.  
- • You cannot use items in your claws. 
+ • You gain a bonus to defense against magical attacks equal to your heroism.  
+ • Your run and climb speeds are increased by a number of feet equal to your heroism multlied by the number of claws devoted to running and no other activity for the round.  
+ • You cannot use items in your claws.  
 You resume your original form when incapacitated or spend a full round to resume it. You suffer a level of exhaustion when you resume your original form.
 
 **Mimicry**: A hrafine can imitate a sound akin to another avian creature. Any creature which hears it must make a [Prcp] save with a DV equal to the hrafine's [Fort] or [Prcp] + its level or believe the intended creature is making the intended sound. More extreme attempts, such as specific calls of exotic birds or the screech of a much different avian such as the aretheus are at the narrator’s discretion.
