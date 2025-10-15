@@ -57,11 +57,11 @@ Choose two attributes. Each are increased by 2.
 
 **Dire Form**: As a full round action you may transform into your Dire form. While in the dire form, you are affected by the following  
  • +1 [Body]  
- • You sprout four claws. These claws are treated as off hands. A pair of dire claws may be used to make a slashing unarmed attack within 1 foot.  
+ • You sprout four claws. These claws are treated as off hands. A pair of dire claws may be used to make a cutting unarmed attack within 1 foot.  
  • Your flight speed is reduced by half.  
  • You cannot use items in your claws. 
 You resume your original form when incapacitated or spend a full round to resume it. You suffer a level of exhaustion when you resume your original form.
 
 **Mimicry**: A hrafine can imitate a sound akin to another avian creature. Any creature which hears it must make a [Prcp] save with a DV equal to the hrafine's [Fort] or [Prcp] + its level or believe the intended creature is making the intended sound. More extreme attempts, such as specific calls of exotic birds or the screech of a much different avian such as the aretheus are at the narrator’s discretion.
 
-**Dive**: You may choose to dive towards a target as a special action, dropping between 20-40 yards. If you dive into range of a target, you gain advantage on your unarmed attacks (including dire claw attacks) against that target during this round. You lose your Nimble Flight during any round you dive.
+**Direct Dive**: You may choose to dive towards a target as a special action, dropping between 20-40 yards. If you dive into range of a target, you gain advantage on your unarmed attacks (including dire claw attacks) against that target during this round. You lose your Nimble Flight during any round you Direct Dive.
