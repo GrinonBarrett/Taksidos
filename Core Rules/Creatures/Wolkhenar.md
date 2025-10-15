@@ -104,4 +104,4 @@ Draconic winged serpents with one claw. Most of its scales have a milky white-si
 
 **Cloud Living**: A wolkhenar is *always affected as though by a Synnefopothy spell*. If this magic would be dispelled, it takes 1d6+4 rounds for it to actually affect the wolkhenar's ability to interact with clouds specifically.
 
-**Dive**: If the wolkhenar flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
+**Dive**: If the wolkhenar flies at least 20 yards in the previous round, it gets a bnus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-tenth of the total yards moved since the beginning of the previous round.
