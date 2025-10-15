@@ -103,4 +103,4 @@ Resembling an oversized azhdarchiforme, these creatures are apex predators. They
 
 **See Magic**: The teryxethysar can see magical fields, auras, etc. They can also see creatures that possess spell sickness and know when a creature they can see is casting a spell.
 
-**Dive**: If the teryxethysar flies at least 50 yards in the previous round, it gets a bonus on its first attack made before the primary movement phase of the current round. This bonus is equal to one-fifth of the total yards moved since the beginning of the previous round.
+**Dive**: If the teryxethysar flies at least 50 yards in the previous round, it gets a bonus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-fifth of the total yards moved since the beginning of the previous round.
