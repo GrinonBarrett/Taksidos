@@ -1,37 +1,37 @@
-### Jeel
-Considered a nuisance by most, these creatures can ruin crops and household goods by very slowly digesting it with their bodies. They are often found in dungeons as they can sustain themselves off of the mold which grows and the remnents of intruders. They do not typically consume stone or other earthen elements. Their bodily mass is quite useful to alchemsists when distilled properly. Their collective noun is a mess.
+### Astargel
+When star jelly is left undisturbed in a place of great magic, it will begin to form a silvery white blob. This blob will travel around and seek out sources of magic. As it absorbs the magical energy, it will grow in size- causing a nuissance in many places. Their collective noun is a gelling.
 
-**Creature Type**: Jeels are Infigura.
+**Creature Type**: AStergels are Infigura.
 
-**Size**: Jeels can be from 6" to 6' tall and twice as long. They can weigh up to 28 pounds. They can be diminutive, small, or medium creatures.
+**Size**: Astergels can be from 3" to 3' tall and twice as long. They can weigh up to 12 pounds. They can be diminutive or small creatures.
 
-**Languages**: Jeels don't speak.
+**Languages**: Astergels don't speak.
 
 **Table**: *Creature's Reaction*
 | Result | **Emotion and Intensity** | Notes                                                        |
 |--------|-------------------|----------------------------------------------------------------|
 |        |                                                |                                   |
-|  1-7   | Hungry (1) | The jeel is minding its own business.   |
-|  8-13  | Hungry (2)  | It will search out food of some sort. |
-|  14-16 | Hungry (3)  | It seeking material to consume, whatever it may be. |
-|  17-20 | Curious (1)     | Simply feeling around its environment. |
+|  1-9   | Hungry (1)  | The jeel is minding its own business.   |
+|  10-13 | Hungry (2)  | It seeks something. |
+|  14-15 | Hungry (3)  | It is on the trail of something magical and will not allow the party to interfere. |
+|  16-20 | Curious (1) | Simply feeling around its environment. |
 
 -----
 
-**Hitpoints**: A jeel has a number of maximum number of hitpoints equal to half of its weight in pounds.
+**Hitpoints**: An astergel has a number of maximum number of hitpoints equal to its weight in pounds.
 
 **Attributes**:  
-[Body] 7 (+2)  
-[Fort] 7 (+2)  
-[Rflx] 9 (+3)  
-[Will] 7 (+2)  
+[Body] 5 (+2)  
+[Fort] 6 (+2)  
+[Rflx] 6 (+2)  
+[Will] 6 (+2)  
 [Inte] 2 (+0)  
 [Prcp] 5 (+1)  
 [Empy] 5 (+1)  
 
-**Run Speed**: It may run up to 2 yards per move.
+**Run Speed**: It may run up to 3 yards per move.
 
-**Climb Speed**: It may climb up to 2 yards per move, presuming it is reasonable terrain to do so.
+**Climb Speed**: It may climb up to 3.5 yards per move, presuming it is reasonable terrain to do so.
 
 **Unarmed Attacks**;
 
