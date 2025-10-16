@@ -1,5 +1,5 @@
 ### Mardighar
-A slender tiger like body, covered in find scales like that of a butterfly's wings, with leathery wings and a club tail adorned in quills make this creature standout among others. They are rarely found even by adventurers and maintain a diet of sylvan creatures (even those sapiant ones). They themselves are often preyed on by other flying predators. Not being immune to the venom of their quills, it should be noted that they do not typically loose them against their intended meal. The plural is Mardighain. Their collective noun is a Cudgel.
+A slender tiger-like body, covered in fine scales like that of a butterfly's wings, with leathery wings and a club tail adorned in quills make this creature standout among others. They are rarely found even by adventurers and maintain a diet of sylvan creatures (even those sapiant ones). They themselves are often preyed on by other flying predators. Not being immune to the venom of their quills, it should be noted that they do not typically loose them against their intended meal. The plural is Mardighain. Their collective noun is a Cudgel.
 
 **Creature Type**: Mardighain are beasts.
 
