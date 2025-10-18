@@ -7,6 +7,10 @@ The bottle includes a paper adhered to its body,
 
 A bottle contains 25 servings, which are each capable of giving a character 2 points of enebriation. A character gains no hydration from this and will infact require an additional serving of water for every 3 servings they partake in. Whether taken orally or topically, this can provide a 1d4 *(and an additional +1 as an effect of its latent magics)* bonus to a medicine check to the one it is administered. Additionally, *there is a % chance equal to the number of servings they take that they will recover a single hitpoint*.
 
+**Candle of Charilluroxis**, $900, .25 lb.  
+A candle made of the tallow of Charilluroxis- last of the legendary tyranical dragons to be slain. If lit, it provides fair loght for 1 foot and dimm light for 2 feet beyond that. It floats, but the tallow will begin smoking as it alowly dissolves. It dissolves at a rate of ½ ounce per round. Each round it dissolves, a choking smoke emit from it out 1 foot. Anything which breathes in the area of the amoke is subject to a [Fort] or [Will] save (their choice) with a DV of 14 or be prone twice as long as they are in the smoke. The candle can burn for 24 hours, with ½ ounce of the candle being burned up for every 3 hours it burns. Anything that eats tallow candles will find this a delicacy. Drakomadiae will find the smell of its burning rather repulsive.  
+*The candle cannot be snucged out by magical means of any kind*.
+
 **Coldon's Powdered Ale**, $200 per serving, neg.  
 _This powder can turn half a serving of water into a serving of ale by sprinkling it into the water and giving it the slightest stir_. We don't know how this works anymore than you, but we wish it wasn't so expensive. Roll a d20. The narrator secretly chooses a number. If the die result matches the number, the ale will taste awful. Otherwise, it is rather servicable.
 
