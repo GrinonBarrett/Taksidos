@@ -9,7 +9,11 @@ A bottle contains 25 servings, which are each capable of giving a character 2 po
 
 **Candle of Charilluroxis**, $900, .25 lb.  
 A candle made of the tallow of Charilluroxis- last of the legendary tyranical dragons to be slain. If lit, it provides fair loght for 1 foot and dimm light for 2 feet beyond that. It floats, but the tallow will begin smoking as it alowly dissolves. It dissolves at a rate of ½ ounce per round. Each round it dissolves, a choking smoke emit from it out 1 foot. Anything which breathes in the area of the amoke is subject to a [Fort] or [Will] save (their choice) with a DV of 14 or be prone twice as long as they are in the smoke. The candle can burn for 24 hours, with ½ ounce of the candle being burned up for every 3 hours it burns. Anything that eats tallow candles will find this a delicacy. Drakomadiae will find the smell of its burning rather repulsive.  
-*The candle cannot be snucged out by magical means of any kind*.
+*The candle cannot be snffed out by magical means of any kind*.
+
+**Coldon's Brassing Powder**, $390 per ouunce,  
+Mix this powder with a few drops of vinegar to produce a polish rivaled by nothing else for use on metal. It also can benefit armor to some extant. Armor thoroughly coated in this stuff will see a +1 to defense against magical forms of acid, cold, fire, and electric attacks *which is increased to a +2 for the purpose of determining if it is a critical hit*. Clothen armors typically carry a stench once this is applied and leather will begin to grow what appears to be yellow mold (but isn't) which distorts the color and feel of the leather. To ensure a proper amount is applied to armor, one should use about 1 ounce per 10-5 pounds of armor. This will only lasts for 3-4 hours.  
+After 24 hours from application, there is a % chance that the armor receives a point of damage equal to 10 + the number of times this has been applied to armor. Metal based armors see this reduced to half.
 
 **Coldon's Powdered Ale**, $200 per serving, neg.  
 _This powder can turn half a serving of water into a serving of ale by sprinkling it into the water and giving it the slightest stir_. We don't know how this works anymore than you, but we wish it wasn't so expensive. Roll a d20. The narrator secretly chooses a number. If the die result matches the number, the ale will taste awful. Otherwise, it is rather servicable.
