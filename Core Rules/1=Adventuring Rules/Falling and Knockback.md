@@ -1,7 +1,7 @@
 ## FALLING
 If a creature falls from a particular distance, they will likely receive some amount of damage in the form of force, crushing, or unlisted attacks (narrator's choice). If a creature lands on a particular type of object, the damage can be adjusted accordingly (a spike dealing piercing or blade cutting).
 
-For the sake of simplicity, we’ll say all creatures are affected the same way by forces such as drag. Creatures fall roughly at a rate of 15 yards per round. Creatures with a flying speed may reduce this speed by an amount equal to their flying speed. Levitating creatures are, of course, able to stop. The severity of what is inflicted to a creature will depend on the distance traveled:  
+For the sake of simplicity, we’ll say all creatures are affected the same way by forces such as drag. Creatures fall roughly at a rate of 15 yards per round (or 3.75 yards per phase). Creatures with a flying speed may reduce this speed by an amount equal to their flying speed. Levitating creatures are, of course, able to stop. The severity of what is inflicted to a creature will depend on the distance traveled:  
 2-3 yards = 1 club attack  
 3-5 yards = 1 attack with a +1 bonus  
 6-9 yards = 1 attack with a +2 bonus  
