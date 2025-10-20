@@ -149,6 +149,10 @@ This represents a number of magical rings which might be found. They can be made
 Neg.  
 The user may use their reaction *to create a forcefield in shape like a shield, blocking as though it were a shield. Roll 1d4, this is the defense from blocking. The wearer also gains this much spell sickness. If their spell sickness is ever equal to or greater than the defense bonus- the forcefield fails to materialize and the wearer simply gains a single point of spell sickness*.
 
+**Ring of Hiding**, $4,000  
+Neg.  
+A simple band with dull colored gemstones embedded. *Stimuli produced by the wearer is somewhat distorted when they wish to be hidden. For the purpose of stealth, the weaer's base DV is increased by +4. A wearer may only benefit from a single such ring at once*.
+
 **Ring of Lorylean**, $50,000  
 Unique.  
 Neg.  
