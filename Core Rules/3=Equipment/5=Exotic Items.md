@@ -11,7 +11,7 @@ A bottle contains 25 servings, which are each capable of giving a character 2 po
 A candle made of the tallow of Charilluroxis- last of the legendary tyranical dragons to be slain. If lit, it provides fair loght for 1 foot and dimm light for 2 feet beyond that. It floats, but the tallow will begin smoking as it alowly dissolves. It dissolves at a rate of ½ ounce per round. Each round it dissolves, a choking smoke emit from it out 1 foot. Anything which breathes in the area of the amoke is subject to a [Fort] or [Will] save (their choice) with a DV of 14 or be prone twice as long as they are in the smoke. The candle can burn for 24 hours, with ½ ounce of the candle being burned up for every 3 hours it burns. Anything that eats tallow candles will find this a delicacy. Drakomadiae will find the smell of its burning rather repulsive.  
 *The candle cannot be snffed out by magical means of any kind*.
 
-**Coldon's Brassing Powder**, $390 per ouunce,  
+**Coldon's Brassing Powder**, $390 per ounce,  
 Mix this powder with a few drops of vinegar to produce a polish rivaled by nothing else for use on metal. It also can benefit armor to some extant. Armor thoroughly coated in this stuff will see a +1 to defense against magical forms of acid, cold, fire, and electric attacks *which is increased to a +2 for the purpose of determining if it is a critical hit*. Clothen armors typically carry a stench once this is applied and leather will begin to grow what appears to be yellow mold (but isn't) which distorts the color and feel of the leather. To ensure a proper amount is applied to armor, one should use about 1 ounce per 10-15 pounds of armor. This will only lasts for 3-4 hours.  
 After 24 hours from application, there is a % chance that the armor receives a point of damage equal to 10 + the number of times this has been applied to armor. Metal based armors see this reduced to half.
 
@@ -59,6 +59,9 @@ Once imbibed, you cannot benefit from another Curative Potion for 2d12 hours.
 
 **Drisk’s Eye Opener**, $900, .4 lb.  
 This concoction requires a whole round to quaff.  During the next round, _the imbiber may choose to perform an action during a movement phase or have an additional reaction_.
+
+**Elfen Water**, $25,000, .5 lb.  
+Found only in containers that can magically preserve their contents for centuries. This water manages to always taste cool, crip, and rereshing- with  a hint of sweetness. *The water cannot be spoiled or manipulated by magical means*. AN imbiber of a single portion will find its quenches thirst just as water would, but also bestows 1d4+1 points of inebriation almost as though it were a liqeurous spirit though this will often affect first time consumers immediately as opposed to most forms of alcohol. Additionally, *there is a % chance equal to the received points of inebriation that they will recover a single hitpoint*. An elf does not receive more than a single point of inebriation, but still has a *5% chance of recovering a hitpoint*.
 
 **Elixir of Invulnerability**, $2,750, .7 lb.  
 A concoction which requires an entire minute to consume properly. *For the next 1d6+4 hours, you gain a +1 bonus to defense against all attacks. +2 if unarmored. Additionally, the imbiber is unaffected by damage from unarmed attacks. Furthermore, the imbiber gains a bonus to defense against non-magical attacks equal to half the number of hours remaining in the effect’s duration*.
