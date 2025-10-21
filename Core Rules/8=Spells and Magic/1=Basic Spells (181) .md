@@ -351,7 +351,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
 
-### C (10
+### C (11
 
 #### Call Lightning
 
@@ -378,6 +378,22 @@ A critical success with the spell check increases the length of the fan by a num
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1 yard.
 
 **Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
+
+#### Cloaking Aura
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Duration**: 1 hour
+
+**Effect**: You create a field of nullified sensory stimuli that extends the entirety of your body. This causes the the minimum DV of any check to detect you when attempt to use stealth to be equal to the spellcheck's points of success. Additionally, you suffer a penalty to all [Prcp] checks and saves equal to the spell's tier.
+
+Anytime you receive a wound or spell sickness while under the effect of this spell, the spell's effect is temporarily lost until the end of the next round.
+
+**At Higher Tiers**: For each tier beyond minimum, the caster may choose to either increase the duration by 30 minutes or reduce the penalty to [Prcp] checks/saves by 2 (to a minimum of 0).
+
+**Critical Failure**: You fail to produce a proper effect and instead gain spell sickness equal to the spell's tier- but you believe it has worked until proven otherwise.
 
 #### Cloak of Radiance
 
@@ -2436,6 +2452,8 @@ The globe can stop at the directed point and hover in place. While active this w
 **Effect**: You cause an unnatural form of rain to occur. It is just heavy enough to soak things and put out non-magical fires, but not enough to create any particular kind of storm or cloud. The area affected by stretch out up to a mile from the caster, or be as fine as a 1 yard circle adjacent to them. The water disappears almost as quickly as it appears, lasting a minute per spell tier. Attempts at collecting this water can only yield a single serving per spell tier.  
 In addition, counterspell checks made within the area of this rain suffer a penalty equal to this spell's tier.
 Cannot be cast at night.
+
+Those that drink the water of this spell suffer 1d3 points of spell sickness equal per serving of water consumed.
 
 **At Higher Tiers**: These benefits are noted above.
 
