@@ -882,7 +882,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (15
+### F (16
 
 #### Fallen Words
 
@@ -1004,6 +1004,20 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1 or grant one of the attacks a +1 bonus for the purpose of determining a critical hit.
 
 **Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
+
+#### Flowany
+
+**Minimum Tier**: 1
+
+**Casting Time**: 8 + spell tier actions
+
+**Range**: 10 yards
+
+**Effect**: You designate a point within range which attracts all loose and naturally moving fluids towards it. This includes running water, perspiration dropping from the body, or a spilled liquid. THis occurs at a speed of 3 yards per phase. This can affect creatures compsed of fluids as well, such as a wellarch.
+
+**At Higher Tiers**: For each tier beyond minimum, the range of the spell is either increased by 3 or the speed of movement is increased by .5 yard per phase.
+
+**Critical Failure**: You instead manage to attract yourself to the designated point as though you were such a fluid and suffer spell sickness equal to the tier of the spell.
 
 #### Fogflow
 
