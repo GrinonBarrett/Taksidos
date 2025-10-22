@@ -72,6 +72,11 @@ Longsword
 A curved sword reaching out 4 feet. If used with two hands, it gains a +1 bonus for the purpose of determining critical hits. It is a proper cavalry weapon.  
 If name is known, *it gains a +1 bonus to attack rolls*.
 
+**Demon Wind Disc**  
+$6,5000 , 1.75 lbs.  
+Chakram  
+When the user presses attack with this weapon, or performs an aimed attack with it, the user may *take on 1d4+1 points of spell sickness to have two illusory shirukens which look identical head towards the target of the attack as well. One will inflict a psychic attack and the other a necrotic, but both benefit from any chakram weapon training the user possesses. The shiruken attacks are resolved in the order desired by the user*. If user has warrior weapon mastery with chakrams, the real shiruken will inflict a cutting attack if in optimal range instead of a charkram attack.
+
 **Dimaye** (*unique*)  
 $2,600, 3 lbs.  
 Longsword  
