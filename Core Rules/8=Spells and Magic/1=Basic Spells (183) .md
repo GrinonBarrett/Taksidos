@@ -1639,7 +1639,25 @@ If you have the foe grappled, both attacks gain a bonus equal to the spell's tie
 
 **Critical Failure**: The force you conjure is channeled into your body rather than the foe. The crushing attack is instead inflicted against you, and you become prone for a number of rounds equal to the spell's tier.
 
-### K (2
+### K (3
+
+#### Kathrepturgy
+
+**Minimum Tier**: 2
+
+**Casting Time**: 7 actions
+
+**Duration**: up to 1 + [Magic] bonus minutes
+
+**Range**: A number of miles equal to the spell's tier cubed
+
+**Effect**: You touch a reflective surface, transforming it into a portal. This portal leads to another portal you are familiar with within range and which you imagine when casting the spell. If the other portal is not valid, the reflection will instead flash in various colors and become dark for an entire round.
+
+The caster may spend an entire round concentrating to end the connection prematurely. Additionally, a critical success allows the caster to simply close the portal by using a reaction.
+
+**At Higher Tiers**: For each tier above minimum, in addition to the benefits listed above, the duration may be increased by 1 minute.
+
+**Critical Failure**: You swear you see something, but it vanishes before you can identify it. After a number of rounds equal to the spellcheck's points of failure, you suffer a psychic attack and gain spell sickness equal to the spell's tier.
 
 #### Kiss of Death
 
