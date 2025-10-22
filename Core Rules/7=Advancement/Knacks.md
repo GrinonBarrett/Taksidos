@@ -7,7 +7,7 @@ When you perform an attack roll, you may choose to incur a -2 penalty to your at
 You may perform your block with a shield against attacks which are the result of magical effects that would affect an area as though they were targeted effects. You provide an additional +1 bonus to defense when blocking.
 
 **Exertive Force**, 2 items  
-When you press attack, and that attack is successful, you may either jump or choose to move a number of feet equal to your heroism using one of youre movement methods (so long as it does not exceed your movement speed).
+When you press attack, and that attack is successful, you may either jump or choose to move a number of feet equal to your heroism using one of your movement methods (so long as it does not exceed your movement speed).
 
 **Guarding**, 2 items  
 Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
@@ -21,6 +21,12 @@ You memorize an incantation for casting your spells. When you roll your spellche
 **Mobile Strikes**, 1 item  
 Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round or your previous action- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
+**Ritualism**, 2 items  
+So long as you are capable of casting a spell of a rite being performed, you may choose to forego actions and reactions to concentrate on the caster of the spell. If You have concentrated for at least half of the casting time and have cast the spell at an equal or higher tier before, it gains a +1 bonus to any spellcheck result. Additionally, if you manage to concentrate this way for the entire time, you grant a +1 bonus to any spellcheck. These bonuses are cumulative and multiple creatures with this knack can support the same spellcaster.
+
+**Sharpshooting**, 1 item  
+If you press attack with a Musket or Arquebus attack against a foe at least 25 yards away and both results would have hit- you gain a +2 bonus for the purpose of inflicting a critical hit. This does not apply if you have instances of disadvantage negating your advantage.
+
 **Soft Steps**, 1 item  
 When attempting to use stealth, you may use your reaction to roll a d4 and reduce the penalty to sound by an amount equal to the result for the round.
 
@@ -33,6 +39,9 @@ If you inflict a critical hit with your cleave and are not prone or vulnerable, 
 
 **Sport Fighting**, 1 item  
 Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus for the purpose of determining a critical hit. This does not apply against foes in Plate Armor.
+
+**Traditional Fighting**, 1 item  
+You gain a +1 bonus to melee attacks for the purpose of inflicting critical hits.
 
 **Vigilance**, 1 item  
 When rolling for initiative, roll an additional d6 and add it to your result. Additionally, so long as another chit has yet to be claimed, another creature cannot assign you a chit normally unless you allow it.
