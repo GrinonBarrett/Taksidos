@@ -13,7 +13,7 @@ Armor, for the sake of this game is divided into 6 classifications:
 Anytime an attack result is the exact result required to strike the wearer, the exact result required to inflict a critical hit, or within a single point of such, it will damage the armor. When the armor has been damaged a certain number of times (dictated by the armor itself), it is impaired. Damage can be repaired.
 
 ##### Impaired Armor
-Impaired armor is damaged in such a manner as to cause lessor harm and great discomfort to the wearer. One donning impaired armor has a -1 penalty to attack rolls, skill checks, and saves. Once the armor has become impaired, it may only receive so much more damage before it is also rendered useless.
+Impaired armor is damaged in such a manner as to cause lessor harm and great discomfort to the wearer. One donning impaired armor has a -1 penalty to attack rolls, defense, skill checks, and saves. Once the armor has become impaired, it may only receive so much more damage before it is also rendered useless.
 
 ##### Useless Armor
 When wearing armor which is useless, an attacker may choose whether to treat you as being unarmored or gain a +2 bonus to their attack against you using the armor's default defense. Armor rendered useless cannot be repaired and can be sold as scrap for 10% of its value to an armorer if you are lucky.
@@ -47,9 +47,8 @@ Cost to repair is $115 per point.
 
 **Brigander**, $9,000, 24 lb.  
 2/5  
-Considered premier armor for nobles- this fine piece of art will keep the wearer safe from many mundane harms while being the most fashionable adventurer at the party. Featuring multiple forms of defense, this suit includes padding and incorporates small plates of various materials to provide ultimate protection on the battlefield. Unlike Jackary   
-Cost to repair is $260 per point, as it is finer materials than cruder forms of brigandine.  
-Though mobility is unrestricted for the most part, there is some hindrance. The wearer suffers a -1 penalty to all [Rflx] saves.
+Considered premier armor for nobles- this fine piece of art will keep the wearer safe from many mundane harms while being the most fashionable adventurer at the party. Featuring multiple forms of defense, this suit includes padding and incorporates small plates of various materials to provide ultimate protection on the battlefield. Unlike Jackary, though mobility is unrestricted for the most part, there is some hindrance. The wearer suffers a -1 penalty to all [Rflx] saves.  
+Cost to repair is $260 per point, as it is finer materials than cruder forms of brigandine. 
 
 ### Maile
 
