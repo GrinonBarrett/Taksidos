@@ -158,7 +158,7 @@ Additionally, if name is known, *and user presses attack, a necrotic attack is a
 **Fetid Falchion** (*unique*)  
 $5,500 , 2 lbs.  
 Longsword  
-A finely crafted sword with only a single edge. When the user presses attack, the attack qualifies to damage armor, or inflicts a critical hit *they also inflict a toxic attack against the foe*.
+A finely crafted sword with only a single edge, it emits a strange smell. When the user presses attack, the attack qualifies to damage armor, or inflicts a critical hit *they also inflict a toxic attack against the foe*.
 
 **Flaming Flamberge** (*unique*)  
 $5,950 , 6.5 lbs.  
