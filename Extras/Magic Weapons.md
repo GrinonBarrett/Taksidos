@@ -155,6 +155,11 @@ Pole Axe
 This pole axe features a serrated backhead. It's not the most practical design but it has been known to terrify foes. *WHen an attack would qualify to damage armor or is a critical hit, the foe is filled with fear. It suffers a -1 to all attack rolls, checks, penalties, and defense until the end of the next round*.  
 Additionally, if name is known, *and user presses attack, a necrotic attack is also inflicted. Instead of inflicting the standard necrotic critical hit effect- the foe is filled with such terror that they must move away from the user using all of their m,ovement until the end of the next round*.
 
+**Fetid Falchion** (*unique*)  
+$5,500 , 2 lbs.  
+Longsword  
+A finely crafted sword with only a single edge. When the user presses attack, the attack qualifies to damage armor, or inflicts a critical hit *they also inflict a toxic attack against the foe*.
+
 **Flaming Flamberge** (*unique*)  
 $5,950 , 6.5 lbs.  
 Greatsword  
