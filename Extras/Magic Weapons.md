@@ -444,6 +444,11 @@ Longsword
 This altyprium sword is somewhat light for its design, and features a small strange curve on the last few inches of the blade. It is one of the most comfortable swords to swing by most skilled swordsmen. *A critical hit with this weapon also inflicts the effect of an electric attack*.  
 If name is known, *user gains a +1 bonus to attacks with it. Additionally, anytime they peform a critical hit with any melee attack or slam a foe- they may use their reaction to also inflict an electric attack. This may occur even if the sword is sheathed*.
 
+**Zenetessore** (*unique*)  
+$8,650 , 8.75 lbs.  
+Crossbow  
+This oaken crossbow features inlays gilded in copper and brass depicting some creature's slaying- though no one can agree on what the creature is. *Attacks with this weapon gain a +1 bonus for the purpose of inflicting a critical hit. If name is known, when the weapon's attack would qualify to damage armor against an unarmored foe, that creature must perform an incapcitation save*.
+
 **Zerun's Eye**  
 $11,500 , neg.  
 None (see below)  
