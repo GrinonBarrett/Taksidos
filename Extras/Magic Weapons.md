@@ -34,6 +34,11 @@ $15,000 , 3.5 lbs.
 Longsword  
 A finely made ancient sword which lay resting in a frozen castle. *If an attack by this weapon would be successful or qualifies for damaging a foe's armor, even if they wear none, it applies the effect of a Cold critical hit. Water which comes in contact with the blade is frozen. The blade can slide out from such ice with minimal effort. If name is known, and the user inflicts a critical hit, they may apply a cold attack as well*.
 
+**Calling Sting** (*unique*)  
+$5,000 , 2.5 lbs.  
+Shortbow  
+A shortbow made of flexible layers of yew and horn. It is said that this weapon brought down a Drakon in a single shot once. If an attack from this weapon would qualify to damage armor *it also inflicts a sonic attack*. If name is known, *it gains a 1d4-1 bonus for the purpose of determinin if the attack is a critical hit*. If user has warrior mastery with bows, an attack not made within optimal range gain a +1 bonus.
+
 **Ciurn** (*unique*)  
 $2,000 , 2.75 lbs.  
 Shortbow  
