@@ -418,6 +418,11 @@ $10,000 , 3.5 lbs.
 Spear  
 An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
 
+**Vehemente's Escape** (*unique*)  
+$6,000 , 2 lbs.  
+Staff  
+A staff of maple with a blade affixed quit smoothly into its shape. It can inflict attacks like a spear if user also has training with spears and can benefit from any spear training when used this way. Uses [Inte]. Inflicts a fire attack. Contains the *Absenting* spell.
+
 **Vicious Fang** (*unique*)  
 $5,000 , 2 lbs.  
 Katar  
