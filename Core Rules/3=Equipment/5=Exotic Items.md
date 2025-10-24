@@ -1,6 +1,10 @@
 ### EXOTIC ITEMS
 Here are some of the more magical items one may come across. 
 
+**Blood of Charilluroxis**, $100,000, neg.  
+A tiny glas phial containing a third of an ounce of blood from the old tyrant dragon. When this fluid is exposed to water, it ignites. The fire cause by this can continue to burn so long as there is water. Each "dose" of this can cause an ounce of water to burn every hour. It will continue to burn for 72 hours or until there is no water.  
+Alternatively, one might attempt to drink this fluid. Such a creature must not be immune to poisons. If it is not, it must succeed a DV 30 [Fort] save. A failure reduces the creature's hitpoints by 1 for a number of days equal to the points of failure. A critical failure requires the creature to make an incapacitation save every 24 hours during this time. A success grants the creature a 1d6 bonus to spellchecks for a number of minutes equal to the points of success. A critical success sees the character gain the benefits of a success and awaken long latent potential in themselves, gaining a +1 to a random attribute. Roll a d8. a 1-7 will increase the appropriate attribute on the character sheet. An 8 will increases their lowest attribute (their choice if tied).
+
 **Boutava's Beneficial Bourbon**, $275 per bottle, 3 lbs.  
 The bottle includes a paper adhered to its body, 
 > "When the eldritch horrors get rough with your body, reach for the smooth taste that replenishes your soul. With 17 essential vitamins and minerals and a proprietary blend of fine spirits and botanicals, our cask strength panacea can be used by adventurers of any experience with complete confidence. While others may sell you oil d'naga blends with subpar liquors, we have taken oaths to 3 different gods of festivities to ensure our employees never falter in delivering to you the premium product you demand for your active lifestle. When you are close to joining the spirits, choose the spirits more professionals reach for."
