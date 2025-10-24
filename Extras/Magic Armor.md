@@ -17,6 +17,12 @@ $8,000 , 26 lbs.
 A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Ranged non-magical attacks made by someone within, or against someone within, 10 yards are redirected to the wearer. Any redirected attack which was not intended for the wearer has disadvantage. Meanwhile any ranged attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.  
 Cost to repair is $600 per point.
 
+**Blessed Vestments**, $18,000, 12 lb.  
+2/2  
+Gambeson  
+Leather, silk, and linen fashioned into the garb of a particular temple's clergy. These are worn by warpriest and the occasional cult leader. They provide the wearer *immunity to necrotic attacks and a +2 bonus to defense against magical attacks, but grants any magical attack against the wearer a +4 bonus for the purpose of inflicting a critical hit*. the bonus to defense is reduced by the tital instance of Archeblight affecting the wearer, if any.
+Cost to repair is $135.  
+
 **Dragon Scale**  
 Maile  
 $35,000 , 35 lbs.  
@@ -94,7 +100,7 @@ $37,750 , 68 lb.
 3/5  
 A plate and chain suit made for the legendary Centaur warrior Yebris. It has been passed down through a chain of succession via squires to the previous owner. It is already fit for a centaur, but a $500 price tag on tailoring it to a new wearer would be a sound investment. *If properly fitted, the suit provides +2 defense to the first attack made against the wearer each round. It also provides a +1 to all counter attacks made by the wearer*.
 
-**Yinkine Garb**
+**Yinkine Garb**  
 Gambeson  
 $4,800, 12 lb.  
 2/4  
