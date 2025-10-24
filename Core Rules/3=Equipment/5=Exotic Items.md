@@ -69,6 +69,16 @@ Found only in containers that can magically preserve their contents for centurie
 **Elixir of Invulnerability**, $2,750, .7 lb.  
 A concoction which requires an entire minute to consume properly. *For the next 1d6+4 hours, you gain a +1 bonus to defense against all attacks. +2 if unarmored. Additionally, the imbiber is unaffected by damage from unarmed attacks. Furthermore, the imbiber gains a bonus to defense against non-magical attacks equal to half the number of hours remaining in the effect’s duration*.
 
+**Healing Tonic**, $480, .4 lb.  
+To be consumed while taking a short rest (though any rest can benefit from it), _this potion allows the user to restore their most recent wound. Additionally, the user gains a +2 bonus to saves against any condition (such as poisons, diseases, enchantments, curses, etc) during the course of the short/long rest.
+Furthermore, when attempting any form of medical procedure, this potion can be used in a variety of manners to provide a 1d4+1 bonus to such a check_.
+
+**Liquid Bravery**, $320, neg.  
+A tiny vial with just a little bit of the potion. This tincture requires an action to consume. You perform a [Fort] save with a DV of 10, _with the duration of this drink’s effect being a number of rounds equal to the points of success. You gain a +1 bonus to [Will] checks and saves and an additional +1 bonus to saves against fear effects_. A failure results in a -1 penalty to [Fort] checks and saves for 2 hours.
+
+**Milk of the Pocranum**, $385, .25 lb.  
+Collected from an exotic fruit. This slushy substance will spoil after 1d12+5 days in terracotta. A single dose requires 2 whole rounds to down. The imbiber will get a 1d4 bonus to the next spellcheck they make in the next 3 rounds, but suffers a point of spell sickness if they cast a spell during that time. Additionally, the imbiber also suffers a -1 penalty to [Fort] checks and saves for an hour.
+
 **Mnemonic Aid**, $600, .4 lb.  
 This concoction requires a whole round to quaff.  During the next round, and for 1d12+3 rounds after, you gain the following:  
  • _+2 bonus to [Inte] checks and saves_.  
@@ -93,13 +103,6 @@ After imbibing this as an action, _you gain a +1 bonus to your next [Body] save 
 **Resistance Potion**, $400, .45 lb.  
 A concoction which comes in a variety of equally awful flavors. These potions can be consumed in 3 whole rounds, though some may find 5 necessary to deal with the taste. The potion itself is designed with one of the below damage types. _For the next 1d3+3 hours, all attacks of the appropriate type against you have disadvantage. You suffer a -1 penalty to [Fort] checks and saves during this time and for an hour afterwards_.  
   • Acid, Cold, Fire, Electrical, Necrotic, Psychic, Radiant, Sonic, Toxic.
-
-**Liquid Bravery**, $320, neg.  
-A tiny vial with just a little bit of the potion. This tincture requires an action to consume. You perform a [Fort] save with a DV of 10, _with the duration of this drink’s effect being a number of rounds equal to the points of success. You gain a +1 bonus to [Will] checks and saves and an additional +1 bonus to saves against fear effects_. A failure results in a -1 penalty to [Fort] checks and saves for 2 hours.
-
-**Healing Tonic**, $480, .4 lb.  
-To be consumed while taking a short rest (though any rest can benefit from it), _this potion allows the user to restore their most recent wound. Additionally, the user gains a +2 bonus to saves against any condition (such as poisons, diseases, enchantments, curses, etc) during the course of the short/long rest.
-Furthermore, when attempting any form of medical procedure, this potion can be used in a variety of manners to provide a 1d4+1 bonus to such a check_.
 
 **Ulmian Tonic**, $600, .5 lb.  
 This potion requires an entire 2 rounds to consume, and 1d6 minutes before it takes effect. _The imbiber of this concoction will find freezing temperatures to be comfortable for 1d2+2 hours, and will not suffer non-magical forms of damage from it_. They suffer a -1 to all [Fort] checks and saves for the duration plus an additional hour.
