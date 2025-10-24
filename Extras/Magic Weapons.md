@@ -18,6 +18,11 @@ $12,000 , 5 lbs.
 Longsword  
 A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
 
+**Banelfror** (*unique*)  
+$20,000, 7 lbs.  
+Spear  
+The spear that slew the last tyrant dragon, Charilluroxis. Range is increased to 10 feet. *Spear gains a +1 bonus to all attacks. If name is known, this is instead a +2 against dragons and a critical hit against such a creature inflicts an additional instance of bleeding against it*.
+
 **Banta's Staff** (*unique*)  
 $4,800,  2 lbs.  
 Staff  
