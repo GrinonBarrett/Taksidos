@@ -64,8 +64,11 @@ Potions come in terracotta vessels sealed with wax. This makes them fragile and 
 This concoction requires 2 whole rounds to quaff. At the end of the round after it was finished, _the user recovers a random wound. Additionally, they are restored for any wounds received from toxic attacks since they began drinking the potion. A partially consumed potion only grants recovery of toxic wounds_, but could theoretically be served to two creatures this way by using a single round each. 
 Once imbibed, you cannot benefit from another Curative Potion for 2d12 hours.
 
+**Destreaming Concoction**, $1,000, .4 lb.  
+This mixture can be absorbed through ingestion or introduced in an open wound and lasts for 1d8+3 hours. The imbiber gains spell-sickness equal to the result (the 1d8+3), but gains a d6 bonus to all saves against magic while the concoction is in their system. They also gain a +2 to defense against magical forms of attack. They suffer a -1 to all [Fort] checks and saves for the duration plus an additional hour.
+
 **Drisk’s Eye Opener**, $900, .4 lb.  
-This concoction requires a whole round to quaff.  During the next round, _the imbiber may choose to perform an action during a movement phase or have an additional reaction_.
+This concoction requires a whole round to quaff. During the next round, _the imbiber may choose to perform an action during a movement phase or have an additional reaction_.
 
 **Elfen Water**, $25,000, .5 lb.  
 Found only in containers that can magically preserve their contents for centuries. This water manages to always taste cool, crip, and rereshing- with  a hint of sweetness. *The water cannot be spoiled or manipulated by magical means*. AN imbiber of a single portion will find its quenches thirst just as water would, but also bestows 1d4+1 points of inebriation almost as though it were a liqeurous spirit though this will often affect first time consumers immediately as opposed to most forms of alcohol. Additionally, *there is a % chance equal to the received points of inebriation that they will recover a single hitpoint*. An elf does not receive more than a single point of inebriation, but still has a *5% chance of recovering a hitpoint*.
@@ -113,5 +116,11 @@ This potion requires an entire 2 rounds to consume, and 1d6 minutes before it ta
 
 #### OILS, POISONS, AND VENOMS
 
-**Destreaming Concoction**, $1,000, .4 lb.  
-This mixture lasts for 1d8+3 hours. The imbiber gains spell-sickness equal to the result (the 1d8+3), but gains a d6 bonus to all saves against magic while the concoction is in their system. They also gain a +2 to defense against magical forms of attack. They suffer a -1 to all [Fort] checks and saves for the duration plus an additional hour.
+**Uilpas**, $70 per ounce  
+A contact toxin developed from a poisonous root which is used for hunting. It is a paralytic with a short window of affect. Something wounded by a weapon coated in this must succeed a DV 15 [Fort] save or become prone. Once it has been prone this way for a whole round, it becomes immobile for a number of rounds equal to the points of failure. A creature gets a +2 bonus to its save for every size category above diminutive it is. An ounce could cover 6 sling bullets, 4 bolts/arrows, a 2 pikes, a dagger's blade, or a spear/javelin head. For other weapons, other than firearms, it requires an ounce for every 2/3 foot of range the weapon's point of contact would have. This wears off in 1d6+2 hours once applied. A cautious application requires 7 minutes per ounce.
+
+**Milk of the Nightcap**, $35 per ounce  
+A milky substance to be mixed with alcohol as a sleep aid. It is also used in many medicinal tonics. An ounce of this can ignite a gallon of sudokohest. If one were to ingest too much of this, they will become poisoned. The amount required to be in their system at any point in time is half an ounce per [Fort] score. Halve this for each size category below medium. Increase this by half again for each size category beyond medium. It remains in one's system for about 9 hours. Once posioned, they are subject to a toxic attack which uses their [Fort] score as their defense at the end of every minute and are dazed while there is any amount of it in their system.
+
+**Resporic Oil**, $1d20+50 per ounce  
+A translucent mixture which combines an oil pressed from a notably toxic mushroom and a few other poisonous additives. The recipe changes greatly but the effect is the same. A coated weapon which manages to wound a foe and introduce it into their system can apply the effect of a Toxic critical hit. A dagger or spearhead can be coated with an ounce, but anything larger requires an additional ounce per foot of length beyond that. This will last for about 1d4+3 swings of the weapon if applied properly, but is not so prone to wearing off over time compared to many other toxic applicators. Cautious application requires 6 minutes per ounce.
