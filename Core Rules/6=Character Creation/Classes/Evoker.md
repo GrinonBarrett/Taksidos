@@ -143,13 +143,16 @@ The user spends any number of ki points as an action to move a number of yards i
 The user spends 2 ki as an action to fire a brilliant beam of intense energy, inflicting a ki attack against a foe within a number of yards equal to the user's [Body] score + total ki remaining. If the attack is successful, the foe is also subject to a Radiant attack. The radiant attack gains a bonus equal to the user's remaining ki for the purpose of determining if it is a critical hit.
 
 **Freezing Rush**  
-The user spends 2 ki points as an action to produce a frosty blast. This is a 5 semifan which inflicts a cold attack against any caught within. If a foe in the semifan is within melee attack range, the user may also use their reaction to perform a melee attack against them.
+The user spends 2 ki points as an action to produce a frosty blast. This is a 5 yard semifan which inflicts a cold attack against any caught within. If a foe in the semifan is within melee attack range, the user may also use their reaction to perform a melee attack against them.
 
 **Ghost Rage Fist**  
 The user spends 2 ki points to perform an unarmed attack. Against ephemera and fiends, this is treated as a *magical* ki attack. If the attack is successful, a ki attack is also inflicted against the foe with a bonus equal to the evoker's heroism for the purpose of determining a critical hit.
 
 **Great Thundrous Blast**  
 The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
+
+**Horrifying Fist**  
+The user spends 3 ki to perform an unarmed attack against the foe as an action, gaining a bonus equal to their [Body] bonus or [Will] bonus (evoker's choice) for the purpose of determining if the attack is a critical hit. If the attack is a critical hit, the foe is left vulnerable for a number of phases equal to the points of success. If the attack would qualify to damage armor, the foe must make a [WIll] save with a DV equal to the attack roll total or be overcome by fear of the user's sheer might. Such a fearful foe suffers a -2 to all checks, saves, attacks, and defense until the end of the next round and has disadvantage on attacks against the user for a number of phases equal to the points of failure.
 
 **Kazerian Burst**  
 The user spends 3 ki as an action to hurl a ball of energy at a point within a number of yards equal to 20 + [Body] score. Upon impact or reaching the end of its range, it explodes out 4 yards. It inflicts a Ki attack against everything within the explosion. Anything within the explosion also receives a point of spell sickness.
