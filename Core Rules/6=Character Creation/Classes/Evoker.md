@@ -172,6 +172,9 @@ The user spends 6 ki as an action to perform a total of 8 ki attacks with a rang
 **Reject Assault**  
 The user spends 2 ki as a reaction to having an attack inflicted against them. Against that attack, their defense is equal to their remaining ki + their heroism.
 
+**Resonance Blast**  
+The user performs a standard Ki Blast or Ki Blast volley, though the attacks are Sonic in nature. For each attack performed this way, the user declares if the efect of a critical hit is to be that of a ki attack or a sonic atack (decision is made before the attack roll).
+
 **Shining Strike**  
 The user spends 2 ki to perform an unarmed or weapon attack as an action. It is treated as a *magical* attack. If successful, it also inflicts a Ki attack. If either is a critical hit, the user recovers a point of ki spent this way and does not have disadvantage on follow up attacks against that foe until the end of the round.
 
@@ -183,6 +186,9 @@ The user spends 3 ki to inflict 3 individual standard ki blasts against a foe as
 
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
+
+**Thuring**  
+Te user spends 4 ki as an action to inflict 2 ki attacks, an electric attack, then an attack of one of the following types (crushing, electric, ki, force). This has a range in yards equal to the user's [Will] or [Body] + their heroism. A critical hit with 2 of the attacks will incur an additonal attack of the chosen type. This cannot be performed twice in the same round.
 
 **Vicious Blast**  
 User spend 3 ki points to hurl a blast of energy at a foe within a number of yards equal to their [Body] score + level as an action. If the attack is successful or qualifies to damage armor, it will inflict an acid attack at the end of the phase for the next two phases. These acid attacks gain a 1d4 bonus for the purpose of determinng a critical hit and inflict the critical hit effect of a ki attack.
