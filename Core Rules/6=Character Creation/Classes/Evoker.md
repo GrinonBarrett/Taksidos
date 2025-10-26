@@ -122,8 +122,11 @@ The user spends 3 ki points to perform a *magical* unarmed attack. If the attack
 **Dragon Fist**  
 The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
 
+**Evil Blast**  
+The user expends 10 ki to *fire a single magical ki blast against a foe* as an action. If it is successful, it will then inflict 10 total additional attacks. The user declares which type each attack is from the following (cold, cutting, crushing, electric, fire, force, ki, necrotic, piercing, psychic). Afterwards, the foe is knocked back Xd4 feet, where X is the number of total successful attacks inflicted by this technique.
+
 **Explosive Wave**  
-To use this technique, the user must declare so as an action. DThey can take no action, reaction, or perform movements during that phase and the following phase as they conentrate their power. THe user may choose to further the time spent doing so at the start of any phase after this by not performing any actions, reactions, or performing movements. At the end of this time, they spend either 2 ki points or a ki point and suffer a level of exhaustion to erupt with intense power. This causes an explosion going out a number of yards equal to the evoker's level. Everything within the explosion, other than the user, is subject to a ki attack.  
+To use this technique, the user must declare so as an action. They can take no action, reaction, or perform movements during that phase and the following phase as they conentrate their power. THe user may choose to further the time spent doing so at the start of any phase after this by not performing any actions, reactions, or performing movements. At the end of this time, they spend either 2 ki points or a ki point and suffer a level of exhaustion to erupt with intense power. This causes an explosion going out a number of yards equal to the evoker's level. Everything within the explosion, other than the user, is subject to a ki attack.  
 At the end of the phase of the explosion, the user may pay 2 ki points to continue the eplosion. THis will inflict another ki attack against everything within the explosion. they may also make this decision at the end of each following phase so long as no other actions, reactions, or movements have been performed by the user and they have not been wounded. If they do, the ki attack inflicted by the explosion gains a bonus for the purpose of determining a critical hit equal to the previous number of phases the explosion has lasted.  
 Everuthing caught in the explosion is prone until the end of the next phase.  
 Each additional phase spent intensifying the user's power increases the range of the explosion by a number of yards equal to their herosim.  
@@ -167,7 +170,7 @@ The user spends 2 ki to perform an unarmed or weapon attack as an action. It is 
 The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level mulitplied by the number of rounds they were missing.
 
 **Sinister Drill**  
-The user spends 3 ki to inflict 3 individual standard ki blasts against a foe. If 2 are successful attacks, the third may be treated as one of the following types (cold, cutting, electric, fire, force, necrotic, or piercing). If all three attacks are successful, an additional attack of the selected type is inflicted against the foe.
+The user spends 3 ki to inflict 3 individual standard ki blasts against a foe as an action. If 2 are successful attacks, the third may be treated as one of the following types (cold, cutting, electric, fire, force, necrotic, or piercing). If all three attacks are successful, an additional attack of the selected type is inflicted against the foe.
 
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
