@@ -116,6 +116,9 @@ User is vulnerable during this time and for a number of hours afterwards equal t
 **Cruel Strike**  
 The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack, and then perfoms a movement.
 
+**Darting Strikes**  
+The user spends at least 6 ki as an action to perform a movement, then hurl a number of energy blasts at a foe within a number of yards equal to their level, and then perfoms another movement. This inflicts 2 thrown blade attacks plus a number of additional thrown blade attacks equal to the amount of additional ki spent.
+
 **Diabolical Strike**  
 The user spends 3 ki points to perform a *magical* unarmed attack. If the attack is successful, a necrotic attack is also inflicted against the foe with a bonus equal to the user's remaining ki for the purpose of determining a critical hit.
 
