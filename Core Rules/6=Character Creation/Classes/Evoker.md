@@ -166,6 +166,9 @@ The user spends 2 ki to perform an unarmed or weapon attack as an action. It is 
 **Sinister Disappearence**  
 The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level mulitplied by the number of rounds they were missing.
 
+**Sinister Drill**  
+The user spends 3 ki to inflict 3 individual standard ki blasts against a foe. If 2 are successful attacks, the third may be treated as one of the following types (cold, cutting, electric, fire, force, necrotic, or piercing). If all three attacks are successful, an additional attack of the selected type is inflicted against the foe.
+
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
 
