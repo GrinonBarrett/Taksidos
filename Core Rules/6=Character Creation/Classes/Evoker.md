@@ -163,6 +163,9 @@ The user spends 1 ki to inflict a ranged undamaging attack against a creature wi
 **Mortal Ray**  
 The user spends 2 ki as an action or reaction to fire a very narrow beam of energy at a foe within a number of yards equal to their level + their remaining ki points. This is a piercing attack and is a ray (like that of a wand or spell).
 
+**Penultimate Wave**  
+User spends at least 12 ki as an action to focus their ki. As an action or reaction within a number of phases equal to the amount of ki spent on the technique -10, the user may loose a blast of energy against a foe within a number of yards equal to the sum of their total attributes + their heroism. This inflicts 10 ki attacks against the foe. Additionally, if any of the attacks were successful, the user may inflict a single attack against the foe of any type of their choice. If 10 total attacks were successful as a result of this technique, the user recuperates 1d4-1 points of ki.
+
 **Raging Volley**  
 The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack is unsuccessful this way, all instances of advantage are lost.
 
