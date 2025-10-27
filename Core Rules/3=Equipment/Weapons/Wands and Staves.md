@@ -220,6 +220,10 @@ Contains the spell *Fragmentation*.
 Uses [Fort]. Can produce a piercing attack.  
 Contains the spell *Green Ward*.
 
+**Staff of Spores**, $4,800  
+Uses [Prcp]. Can produce a toxic attack.  
+Contains the spell *Burning Spores*.
+
 **Staff of Spraying**, $4,800  
 Uses [Inte]. Can produce an acid attack.  
 Contains the spell *Jet*.
