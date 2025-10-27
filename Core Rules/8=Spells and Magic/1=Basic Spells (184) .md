@@ -203,7 +203,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (9
+### B (10
 
 #### Behest
 
@@ -350,6 +350,20 @@ A critical success with the spell check increases the length of the fan by a num
 **At Higher Tiers**: Each tier beyond minimum can increase the range by 3 yards or the length of the fan by 1 yard.
 
 **Critical Failure**: You throw the mote but it bounces and returns to you, inflicting a fire attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as both a fire and a radiant critical hit.
+
+#### Burning Spores
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Effect**: You release a cloud of spores in a 7 yard semifan, mikrofan, or fan (your choice). At the end of the following rounds, anything covered in the spores or within 1 foot of them is subject to a fire attack as the spores burst open with flame. For 2 phases folowing that, at the end of the phase, an additional fire attack is inflicted against anything covered by the spores as they continue burning.
+
+The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also be affected. This is ignored if the spell check is a critical success.
+
+**At Higher Tiers**: For each tier beyond minimum, you may choose increase the range by 1 yard or the duration the spores burn by 1 phase.
+
+**Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
 ### C (11
 
