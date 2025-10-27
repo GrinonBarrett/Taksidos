@@ -201,6 +201,10 @@ Neg.
 A ring of modest quality. Not too gaudy, but not so plain.  
 *The wearer knows when a spell is being cast by someone within their perceptions, and will know the name of that spell*.
 
+**Satchel of Scorching Spores**, $16,000  
+2 lbs.  
+This satchel magically refills itself with a single "dose" after 1d20+1d12+16 hours. It can hold up to 5 "doses" of spores. When hurled, the spores function exactly like a *Burning Spores* spell with the user casting it as a wyrding regardless of whether they naturally have the capability or not. The tier of the spell is how many doses are required to be thrown. Additionally, anyone capable of casting spells while wearing the satchel are considered to know the spell.
+
 **Sring**, $4,936  
 Neg.  
 A silver band of a ring which looks quite nice in the light.  
