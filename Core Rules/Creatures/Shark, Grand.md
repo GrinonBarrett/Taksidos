@@ -81,7 +81,7 @@ Representing a number of species which grow to become larger than a person. They
 
 **Tireless Stride**: If it did not sprint during the previous round, and is performing a sprint, it does not incur fatigue.
 
-**Built for Speed**: When sprinting, its run speed is multiplied by the number of sprints it has performed since the start of the previous round.
+**Built for Speed**: When sprinting, its swim speed is multiplied by the number of sprints it has performed since the start of the previous round.
 
 **Terrible Speed**: As a reaction to itself performing a move, the shark may increase its swim speed to 25 yards.
 
