@@ -24,7 +24,7 @@ Found primarily in wetlands, with ranges overlapping corcodiles and expanded jus
 
 **Unarmed Attacks**;
 
- • Bite: The bear may perform a single bite against a foe within 1 yard. This is a melee bite attack.
+ • Bite: The alligator may perform a single bite against a foe within 1 yard. This is a melee bite attack.
 
 -----
 
