@@ -81,7 +81,7 @@ Representing several species of sharks, these are the most likely to be encounte
 
 **Tireless Stride**: If it did not sprint during the previous round, and is performing a sprint, it does not incur fatigue.
 
-**Built for Speed**: When sprinting, its run speed is multiplied by the number of sprints it has performed since the start of the previous round.
+**Built for Speed**: When sprinting, its swim speed is multiplied by the number of sprints it has performed since the start of the previous round.
 
 **Terrible Speed**: As a reaction to itself performing a move, the shark may increase its swim speed to 27 yards.
 
