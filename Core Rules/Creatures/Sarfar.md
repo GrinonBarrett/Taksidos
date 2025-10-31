@@ -1,5 +1,5 @@
 ### Sarfar
-Large serpentine creatures. They have a head akin to an alligator. Just behind the rear of the head is a set of muscular pectoral fins. They are competent swimmers that can be surprisingly stealthy in the water. They like to travel in deep rivers and take pry from the riverside by opportunity. They seldom go on land, but will do so for hibernation when food is scare or for spawning. If they cannot swallow prey whole, they usually do not attack. When they are attacked, they will almost always aim to constrict the foe. They often clash with alligators where their ranges would overlap. The plural is Sarfain. Their collective noun is a babble.
+Large serpentine creatures. They have a head akin to an alligator. Just behind the rear of the head is a set of muscular pectoral fins. They are competent swimmers that can be surprisingly stealthy in the water. They like to travel in deep rivers and take prey from the riverside by opportunity. They seldom go on land, but will do so for hibernation when food is scare or for spawning. If they cannot swallow prey whole, they usually do not attack. When they are attacked, they will almost always aim to constrict the foe. They often clash with alligators where their ranges would overlap. The plural is Sarfain. Their collective noun is a babble.
 
 **Creature Type**: Sarfain are Reptiles. 
 
