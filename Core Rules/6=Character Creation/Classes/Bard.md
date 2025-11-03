@@ -27,9 +27,9 @@ You gain a +1 to defense against Bigenera, Ephemera, Fey, and Monsters. You also
 You know if an attack against you is of a magical nature or not.
 
 ### Random Piece of Knowledge
-Choose a creature type. Once this decision is made, it cannot be changed.  
-Anytime you perform a skill check to identify a creature of that type, one of its characteristics, or perform a save against one of its innate special abilities, you may replace one of your save/check dice with a d12. This decision is made before rolling. You must rest before doing so again.  
-Alternatively, anytime another creature within 2 yards attempts a Lore or Spellcraft check, you may use this feature to grant it a +2 bonus.
+Choose a creature type or a type of object (such as swords, vases, boats, etc). Once this decision is made, it cannot be changed.  
+Anytime you perform a skill check to identify a creature/object of that type, one of its characteristics, or perform a save against one of its innate special abilities, you may replace one of your save/check dice with a d12. This decision is made before rolling. You must rest before doing so again.  
+Alternatively, anytime another creature within 2 yards attempts a Lore or Spellcraft check (pertaining to any subject), you may use this feature to grant it a +2 bonus.
 
 ### 2) Resist Wands
 When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
@@ -47,10 +47,10 @@ You may use your reaction to provide a creature within a number of yards equal t
 You gain training in two weapons of your choice.
 
 ### 6) Useful Tidbit
-You may expend the use of your Random Piece of Information to benefit a creature within 2 yards if it is attempting to make an appropriate check/save.
+You may expend the use of your Random Piece of Information to benefit a creature within 2 yards if it is attempting to make an appropriate check/save pertaining to your chosen subject.
 
 ### 6) Myth Speaking
-Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. An affected creature which has heard the performance for at least two whole rounds gains the benefit of your Odd feature.  
+Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. An affected creature which has heard the performance for at least two whole rounds gains the benefit of your Odd feature so long as they hear it and for a number of rounds after equal to your heroism.  
 Additionally, when such an affected creature would be affected by the attack of a wand or staff, you may expend the use of your Random Piece of Knowledge to apply disadvantage to that attack.  
 Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
 
