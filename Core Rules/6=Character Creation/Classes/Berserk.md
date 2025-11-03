@@ -74,7 +74,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 
 #### Specialize
 If you specialize as a berserk, you gain the following:  
-You gain training with two weapons of your choice.  
+Receiving wounds can now extend the duration of your rage just as successfully inflicting a wound would, if you choose.  
 While in your battlerage trance, you gain a +2 bonus to your incapacitation saves.  
 You are now affected by your Warcry ability.
 You may now use your War Cry ability an additional time per encounter, so long as it is the first round and you do not have all of your hitpoints.
