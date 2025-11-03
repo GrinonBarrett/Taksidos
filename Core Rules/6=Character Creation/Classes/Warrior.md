@@ -52,7 +52,7 @@ When you successfully attack a foe, you may use your reaction to grant yourself 
 If you Press Attack to the first attack you make in the round, it does not count against your reaction for the round.
 
 ### 6) Warrior's Training
-You gain a level of training in two weapons of your choice. Alternatively, you may gain two levels of training in a single weapon.
+You gain a level of training in two weapons of your choice. Alternatively, you may gain two levels of training in a single weapon or gain a skill of your choice from the following (Athletics, Helmsmanship, Medicine, Riding, Roping, Survival, or Wrestling).
 
 ### 7) Riposte
 Once per round, if you parry an attack and that attack would have been a critical failure, you may perform a melee attack against that foe.  
