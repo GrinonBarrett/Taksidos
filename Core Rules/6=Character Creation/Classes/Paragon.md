@@ -58,7 +58,8 @@ The target gains a d6 bonus to their saves against fear for a number of minutes 
 Choose a creature which can perceive and understand you. It gets a 1d3 bonus to its defense against the next attack made against it before the end of the next round.
 
 ### 7) Faith in Friends
-You may use an action to grant another encouragement, giving them your Bravery feature until either one of you completes a long or full rest. You no longer benefit from Bravery during that time unless you remain within 1 yard of that creature.
+You may use an action to grant another encouragement, giving them your Bravery feature until either one of you completes a long or full rest. You no longer benefit from Bravery during that time unless you remain within 1 yard of that creature.  
+If you had any features that affected your Bravery, that ally gains those as well.
 
 ### 8) Supreme Authority
 Anytime you roll a die for commands, you may choose to increase the die level by a single step. Additionally, your Command Mark has its die level increased by 1 automatically.
