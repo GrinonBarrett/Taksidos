@@ -57,7 +57,7 @@ When you aim against a foe within a number of yards equal to your [Prcp] score, 
 ### 8) Drywn Boon
 You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before doing so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
 
-Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waterworking, Wenge Valder, Wurmvalder, Xylary Form.
+Abatis, Alacering, Aldervalder, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Moonfire, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waedervalder, Waterworking, Wengevalder, Wurmvalder, Xylary Form.
 
 Counterspell attempts against the spell function as normal counterspell checks and are thus possible to prevent the spell from being cast.
 
