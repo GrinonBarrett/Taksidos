@@ -95,6 +95,8 @@ You gain an Edge of your choice.
 
 • **Jammy**. When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must comple a long or full rest before doing so again.
 
+• **Magic Press**. The bonus to spell checks you gain from staves for spells you know is increased by 1. When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack. Alternatively, when you inflict a single attack against a creature with a spell, you may use your reaction to Press Attack with it.
+
 • **Magic Resistance**. Anytime you roll a save against a magical effect, you gain a 1d6 bonus. This is cumulative with similarly named features one has acquired from their species.
 
 • **Phased Strike**. When you attack a creature afflicted with more Spell Sickness than yourself, including an attack from a spell, you gain a +1 bonus to your attack roll.
