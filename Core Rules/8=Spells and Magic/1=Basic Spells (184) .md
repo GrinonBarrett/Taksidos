@@ -1884,7 +1884,7 @@ A creature may make a [Fort] save to avoid this if they wish.
 
 **Effect**: When you cast this spell, choose one of the following damage types (cold, electric, fire, radiant, necrotic). You conjure a jet of glowing silvery blue flame stretching out 5 yards. It is up to .5 foot wide and equally tall. Anything in the area suffers a fire attack, then a ki attack, then an attack of the chosen type. If an attack would qualify to damage armor it does not, and instead afflicts the foe with either a point of inebriation or spell sickness (your choice when casting the spell). In place of traditional critical hit effects, each critical hit instead inflicts an instance of Archeblight.
 
-If the spellcheck is a critical success, you may change the shape to be a cone or inverted cone- but the total length is reduced by 1/3.
+If the spellcheck is a critical success, you may change the shape to be a cone or inverted cone- but the total length is reduced to 1/3.
 
 This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty if user is not in moonlight when casting the spell.
 
@@ -2016,9 +2016,9 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Effect**: You project a serious of nearly resonant waves out in a 3 yard cone. Anything within the cone is subject to a sonic attack
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard and the casting time by 1 action.
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard, but also increases the casting time by 1 action.
 
-**Critical Failure**: You falter in projecting the waves an inflict a sonic attack against yourself with a bonus equal to the spell's tier.
+**Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
 ### P (7
 
@@ -2030,7 +2030,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Range**: 2 yards
 
-**Effect**: You have harnessed some supernatural force. If the attack resolves in a way that inflicts a wound against you, it also inflicts a wound against that creature. The wound die result for both yourself and the other creature will be the same die roll result. If either you or the opposing creature do not receive wounds, the spell will fail unless you use the same alternative (such as creature's of undeath losing points of undeath)- in which case it is considered that an attack of identical nature has been inflicted upon the other creature.
+**Effect**: You have harnessed some supernatural force. If the attack resolves in a way that inflicts a wound against you, it also inflicts a wound against that creature. The wound die result for both yourself and the other creature will be the same die roll result. If either you or the opposing creature do not receive wounds, the spell will fail unless you use the same alternative (such as creatures of undeath losing points of undeath)- in which case it is considered that an attack of identical nature has been inflicted upon the other creature.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 2 yards.
 
