@@ -281,9 +281,9 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Effect**: The leaping creature leaps in the same general direction, but traverses triple the distance they would otherwise.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to increase the multiplier of the distance by one (i.e a single additional tier devoted this way would cause it to be triple) or increase the range by 3 yards.
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the multiplier of the distance by one (i.e a single additional tier devoted this way would cause it to be quadruple) or increase the range by 3 yards.
 
-**Critical Failure**: You instead affect inflict kinetic shock against yourself. You are harmed exactly as though you feel a number of feet equal to the points of failure multiplied by the tier of the spell despite not moving. If you cast it in response to your own leaping, you immediately fall.
+**Critical Failure**: You instead inflict kinetic shock against yourself. You are harmed exactly as though you fell a number of feet equal to the points of failure multiplied by the tier of the spell despite not moving. If you cast it in response to your own leaping, you immediately fall.
 
 #### Bramble Grasp
 
