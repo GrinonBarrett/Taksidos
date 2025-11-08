@@ -432,8 +432,10 @@ If the spellcheck was a critical success, you may concentrate on the spell. Whil
 
 **At Higher Tiers**: When cast at 4th tier or higher, in addition to the above noted benefit, the spell gains one of the following advantages for each tier beyond minimum
 * The duration is increased by 1 minute.
-* The range of dim light produced is increased by 1.
+* The range of dim light produced is increased by 1 yard.
+* The range of the dim light produced is reduced by 1 yard.
 * The range of the light amplification is increased by 1.
+* The range of the light amplification is reduced by 1.5 yards.
 
 **Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard betond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
 
@@ -453,7 +455,7 @@ This cannot affect a creature which is not affected by bloodloss.
 
 **At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may choose to have the spell reach out 3 yards further or reduce the casting time by 1 action (to a minimum of 1).
 
-**Critical Failure**: You find some complications occur. If you were attempting to heal a hemorrhage, the save suffers a penalty equal to the tier of the spell and the recover takes an additional number of rounds equal to the spell's tier. If attempting to inflict harm with the spell, you suffer an incapacitation save with a penalty equal to the spell's tier.
+**Critical Failure**: You find some complications occur. If you were attempting to heal a hemorrhage, the save suffers a penalty equal to the tier of the spell and the recovery takes an additional number of rounds equal to the spell's tier. If attempting to inflict harm with the spell, you suffer an incapacitation save with a penalty equal to the spell's tier instead.
 
 [Coagulaturgy Spell]: # " This spell was suggested by Ian Barnhart, possibly inspired by his character- a Beserk functioning as the party's doctor. "
 
