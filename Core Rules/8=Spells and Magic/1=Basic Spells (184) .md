@@ -215,6 +215,8 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell. You cannot target a creature of undeath unless you are also a creature of undeath.
 
+The subject will be aware that something is off, even if they don't understand a spell was reaponsible for their actions. A critical success with the spellcheck will instead make them feel like it was their own idea the whole time.
+
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
 **Critical Failure**: Your words have no noticable effect and have managed to convince the target of your attempt to bewitch them.
