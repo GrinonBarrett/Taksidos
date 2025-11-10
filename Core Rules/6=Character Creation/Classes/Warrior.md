@@ -76,11 +76,14 @@ At levels 5 and 10, you may choose to splash another class into your training or
 
 #### Specialize
 If you specialize as a warrior, you gain the following:  
+If you have expertise with a weapon, you gain an additional +1 to attacks and beats with that weapon.
 If you have specialization or expertise with a weapon, you may train a further level with that weapon to acquire "Warrior Mastery" with that weapon. Doing so enables a benefit unique to that weapon (see table below). You do not need expertise with the weapon to achieve this. 
 Additionally, you gain training with a number of weapons equal to your current level. Anytime you gain a new level, you gain training in a weapon of your choice.
 
 #### Splash
-If you splash warrior as a member of another class, you gain the same benefits as a warrior that chooses to specialize.
+If you splash warrior as a member of another class, you gain the ability to gain the warrior's training just like a warrior.  
+If you have specialization or expertise with a weapon, you may train a further level with that weapon to acquire "Warrior Mastery" with that weapon. Doing so enables a benefit unique to that weapon (see table below). You do not need expertise with the weapon to achieve this. 
+Additionally, you gain training with a number of weapons equal to your current level. Anytime you gain a new level, you gain training in a weapon of your choice.
 
 -----
 
