@@ -500,7 +500,12 @@ If your spellcheck was a critical success, the foe must succeed a [Fort] save or
 **Effect**: You call all fluids within range to center on a point within range you designate. The fluids all move at roughly a pace of 10 yards during each phase. A critical success with the spell check allows you to only affect a single type of fluid or to exclude a fluid.  
 Fluids which are part of a creature are not affected by this. A cretaure composed exclusively of fluids instead finds itself moving towards the designated point at a speed measured in feet equal to the spell's tier each phase.
 
-**At Higher Tiers**: For each tier beyond minimum, in addition to any above listed benefits, you may increase the range by 3 yards or the speed of movement (for non-creatures) by 2 yards.
+This lasts until the end of the next round.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to any above listed benefits, you may choose one of the following  
+* Increase the range by 3 yards.
+* Increase the speed of movement (for non-creatures) by 2 yards.
+* Increase the duration of the the spell by 1 round.
 
 **Critical Failure**: You fail to move anything and instead gain spell sickness equal to half (round down) of the spell. You also seem unbable to begin casting this spell again for a number of rounds equal to the spell's tier.
 
@@ -1027,11 +1032,15 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 
 **Minimum Tier**: 1
 
-**Casting Time**: 8 + spell tier actions
+**Casting Time**: 8 actions
 
 **Range**: 10 yards
 
-**Effect**: You designate a point within range which attracts all loose and naturally moving fluids towards it. This includes running water, perspiration dropping from the body, or a spilled liquid. THis occurs at a speed of 3 yards per phase. This can affect creatures compsed of fluids as well, such as a wellarch.
+**Effect**: You designate a point within range which attracts all loose and naturally moving fluids towards it. This includes running water, perspiration dropping from the body, or a spilled liquid. This can affect fluids out up to a number of yards equal to the spell's tier multiplied by the spellcheck's points of success. This occurs at a speed of 3 yards per phase. This can affect creatures compsed of fluids as well, such as a wellarch.
+
+Alternatively you may have fluids repulsed from the area.
+
+This spell lasts as long as the caster concentrates on it.
 
 **At Higher Tiers**: For each tier beyond minimum, the range of the spell is either increased by 3 or the speed of movement is increased by .5 yard per phase.
 
