@@ -66,4 +66,4 @@ Militia men who have trained extensively with bows. They can come from all walks
 -----
 
 #### Archers of Other Species'
-An archer of a species other than manfolk should have their attributes, size, unarmed attacks, and creature type adjusted appropriately- however infigura, ephemera, beasts, and any species with a feature which includes the word "nature" in it should be excluded as these can complicate things a bit. Such a shield bearer still eats, drinks, breathes, etc. as a normal member of that species.
+An archer of a species other than manfolk should have their attributes, size, unarmed attacks, and creature type adjusted appropriately- however infigura, ephemera, beasts, and any species with a feature which includes the word "nature" in it should be excluded as these can complicate things a bit. Such an archer still eats, drinks, breathes, etc. as a normal member of that species.
