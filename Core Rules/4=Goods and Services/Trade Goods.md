@@ -49,6 +49,9 @@ It can be found cheaper, but this is the minimum quality for armor.
 **Copper**		$100 per lb.  
 A versatile metal which can be more easily worked than iron. It uses range from jewelry, cookware, to arcane devices. The value goes up significantly in any economy in which electrical engineering becomes a dominant force.
 
+**Bronze** $133 per lb.  
+Technically representing a number of bronze alloys, they are all priced about the same. It might prove useful to note what type of bronze is acquired, but not neccessary.
+
 **Black Powder**			$190 per lb.  
 A powder propellant which is used for firearm muntions.
 
