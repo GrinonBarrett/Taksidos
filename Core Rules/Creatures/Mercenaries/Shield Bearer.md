@@ -60,3 +60,8 @@ A tradition in both Lithenic and Emerian cultures, the shield bearer is a squire
 ---------------------
 
 **Agile Blocker**: So lng as the shield bearer is not prone at the beginning of the round, it is considered braced to block.
+
+-----
+
+#### Shield Bearers of Other Species'
+A shield bearer of a species other than manfolk should have their attributes, size, and creature type adjusted appropriately- however infigura, ephemera, beasts, and any species with a feature which includes the word "natue" in it should be excluded as these can complicate things a bit. Such a shield bearer still eats, drinks, breathes, etc. as a normal member of that species.
