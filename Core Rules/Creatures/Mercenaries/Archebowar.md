@@ -59,7 +59,9 @@ These elite soldiers have been trained since boyhood to use the longbow.
 
 ---------------------
 
-**Longbow Specialty**: When using a shortbow (even an enchanted shortbow, but no other magical bow) within its optimal range, it gains a +1 to its attack roll.
+**Longbow Specialty**: When using a longbow (even an enchanted longbow, but no other magical bow) within its optimal range, it gains a +1 to its attack roll.
+
+**Yeomancy**: When firing at a foe who is at least 20 yards away, but no more than 50 yards, with any ranged weapon- it gains a +1 bonus for the purpose of inflicting a critical hit. The required [Body] to use any bow is reduced by 1.
 
 -----
 
