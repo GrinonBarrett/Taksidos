@@ -27,7 +27,7 @@ These represent particular skills anyone can do, but the character excels at. If
 
 **• Masonry**: A knowledge of, and ability to perform, stonework.
 
-**• Medicine**: The ability to diagnose medical conditions. Also includes the ability to identify, produce, and prescribe medicines.
+**• Medicine**: The ability to diagnose medical conditions. Also includes the ability to identify, produce, and prescribe medicines. This skill encompasses humanoid creatures, but can also be applied to any playable species (with disadvantage).
  
 **• Merchantry**: The ability to keep records and inventory. Can also be used to study business ledgers and provide successful business strategies.
  
@@ -47,4 +47,4 @@ These represent particular skills anyone can do, but the character excels at. If
   
 **• Wrestling**: The ability to manipulate another’s body using your own.
 
-**• Zoology**: A knowledge of creatures and their habitats. Also functions as a medicine skill for creatures of the associated type. This is actually a group of skills. There is one skill for each creature type except humanoids.
+**• Zoology**: A knowledge of creatures and their habitats. Also functions as a medicine skill for creatures of the associated type (playable species or otheerwise). This is actually a group of skills. There is one skill for each creature type except humanoids.
