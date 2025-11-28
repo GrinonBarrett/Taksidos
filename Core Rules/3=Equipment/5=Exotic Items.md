@@ -76,8 +76,8 @@ Found only in containers that can magically preserve their contents for centurie
 **Elixir of Invulnerability**, $2,750, .7 lb.  
 A concoction which requires an entire minute to consume properly. *For the next 1d6+4 hours, you gain a +1 bonus to defense against all attacks. +2 if unarmored. Additionally, the imbiber is unaffected by damage from unarmed attacks. Furthermore, the imbiber gains a bonus to defense against non-magical attacks equal to half the number of hours remaining in the effect’s duration*.
 
-**Healing Tonic**, $480, .4 lb.  
-To be consumed while taking a short rest (though any rest can benefit from it), _this potion allows the user to restore their most recent wound. Additionally, the user gains a +2 bonus to saves against any condition (such as poisons, diseases, enchantments, curses, etc) during the course of the short/long rest.
+**Healing Tonic**, $620, .4 lb.  
+To be consumed while taking a short rest (though any rest can benefit from it), _this potion allows the user to restore their most recent wound if received within an hour of starting the rest. Additionally, the user gains a +2 bonus to saves against any condition (such as poisons, diseases, enchantments, curses, etc) during the course of the short/long rest.
 Furthermore, when attempting any form of medical procedure, this potion can be used in a variety of manners to provide a 1d4+1 bonus to such a check_.
 
 **Liquid Bravery**, $320, neg.  
