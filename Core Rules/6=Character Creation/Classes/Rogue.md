@@ -122,6 +122,8 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 
 • **Tumble**. You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
 
+• **Tumbling Defense**. You must possess the Tumble feature before selecting this edge. When you are aware of an attack against you, you may use your reaction to expend the use of your Tumbvle feature. If you do, you gain a bonus to defense against that attack equal to your [Rflx] bonus and your minimum possible defense against the attack cannot be lower than your [Rflx] score. Additionally, if the attack is a critical failure or would qualify to damage armor against you, you may oerform a leap (representing your fantastic gymnastic getaway). That atacker cannot perform an attack of opportunity against this movement.
+
 • **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
 
