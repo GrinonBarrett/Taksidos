@@ -8,7 +8,7 @@ Centuries ago, a dethroned nomad king waged a campaign of vengeance. In desperat
 **Ability Score Modification**: As an Itunari, you have the following adjustments to your attributes  
 +1 [Body]  
 -1 [Fort]  
--1 [Inte]
+-1 [Inte]  
 -1 [Will]  
 -2 [Empy]  
 Choose an attribute. It is increased by 1.
