@@ -8,10 +8,15 @@ Description
 Special Notes
 
 **Aeon Sting**, (*unique*)  
-$25,000, 3.75 lb.  
+$25,000, 3.75 lbs.  
 Longsword  
 A beautifully crafted sword with fine balance for its length.  
 You may wield this sword with two hands. If you do, you may treat the range as 4 feet. A larger creature simply treats it as an appropriately sized longsword with a range of 4 feet. *You may roll a d4 when you attack. If you do, you take on spell sickness equal to the result and gain a bonus to equal to the result for the purpose of determining a critical hit. When the attack of this weapon would be a critical hit, you may treat it as a single type of attack of your choice*.
+
+**Afechea**, (*unique*)  
+$3,900, 3 lbs.  
+Handaxe  
+A finely made axe. When it successfully harms a foe with spell sickness, that foe accrues an additional point of spell sickness. If name is known, *it gains a +1 to attacks against foes with spell sickness*.
 
 **Archeburn** (*unique*)  
 $12,000 , 5 lbs.  
