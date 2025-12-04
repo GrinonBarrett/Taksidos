@@ -44,6 +44,11 @@ $15,000 , 3.5 lbs.
 Longsword  
 A finely made ancient sword which lay resting in a frozen castle. *If an attack by this weapon would be successful or qualifies for damaging a foe's armor, even if they wear none, it applies the effect of a Cold critical hit. Water which comes in contact with the blade is frozen. The blade can slide out from such ice with minimal effort. If name is known, and the user inflicts a critical hit, they may apply a cold attack as well*.
 
+**Brutinus** (*unique*)  
+$14,000 , 2 lbs.  
+Brusgiatta  
+A smooth weighty disc intended to be thrown at stuff really, really, hard.  When thrown at a foe *it gains a 1d4 bonus for the purpose of inflicting a critical hit*. If name is known, *user may opt to not have the bonus to the attack. If so, the d4 is still rolled. On impact, the brusgiatta will inflict a force attack against everything within a number of feet equal to the result*.
+
 **Calling Sting** (*unique*)  
 $5,000 , 2.5 lbs.  
 Shortbow  
@@ -195,6 +200,11 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 $4,900 , neg.  
 Unarmed  
 Technically, two of these exist, but they only function if both are adorned on a single creature. The linen wraps have been dyed with the writings of ancient prayers and magic. When wrapped around a limb, and that limb delivers a critical hit with an unarmed attack, *the attack also inflicts the result of a fire attack's critical hit*. Additionally, follow up attacks made this way *can be treated as fire attacks*. The wraps cannot be destroyed by fire and can allow a wrapped limb to be used to parry or beat fire attacks (and weapons which deliver fire attacks) without ill effect.
+
+**Glairing Glaive** (*unique*)  
+$7,300 , 5 lbs.  
+Poleaxe  
+A weapon found in the most unlikely of places. As an action, *the user may have the blade emit a bright light. It produces bright light out for 1 yard, fair light out 1 yard beyond that, and dim light out for a yard beyond that. It also inflicts a radiant attack when inflicting any other attack*. The light can be snuffed by the user as an action. When the user successfully parries a weapon attack beyond half of its range (1 yards), and that foe is within 3 yards, the user may use their reaction *to have the sword flash with intense light, inflicting a radiant attack against that foe*.
 
 **Greaving Tear** (*unique*)  
 $3,000 , 2 lbs.  
@@ -362,6 +372,11 @@ $1,225 , neg.
 Broadhead Arrow
 Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shaft is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
 If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
+
+**Spooky Tooth**, (*unique*)  
+$9,500 , .6 lb.  
+Dagger (small)  
+The blade seems reluctant to allow reflections from its surface. When an attack roll against a foe is an odd result *it must succeed a [Will] save with a DV equal to the attack total or be overcome with fear, causing it to attempt to flee from the wielder for a number of rounds equal to 1 + the point of failure*.
 
 **Storm Fang** (*unique*)  
 $22,000 , 5 lbs.  
