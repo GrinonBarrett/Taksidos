@@ -1,5 +1,6 @@
 ### Warwyf
-Despite the rather patriarchal nature of Emerian courts, there is a tradition by which women can achieve titles of nobility. Inspired by tales of heroic women in days long gone, women will leave the lands to adventure and build their fortune. Upon return, they purchase from their previous lord a fief. Such motivated individuals are rare and often take lower rates so long as they can retain looting rights and are confidant about the success of whatever campaign they embark on. They do not take slights lightly.
+Despite the rather patriarchal nature of Emerian courts, there is a tradition by which women can achieve titles of nobility. Inspired by tales of heroic women in days long gone, women will leave the lands to adventure and build their fortune. Upon return, they purchase from their previous lord a fief. Such motivated individuals are rare and often take lower rates so long as they can retain looting rights and are confidant about the success of whatever campaign they embark on. They do not take slights lightly.  
+They are often well armed or armored, as the only ones that seem to make it so far are either extremely good at what they do or are already coming from some means.
 
 **Creature Type**: A warwyfe is a humanoid, specifically manfolk.
 
