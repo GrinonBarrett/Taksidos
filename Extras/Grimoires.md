@@ -165,6 +165,15 @@ The personal tome of Haldre, writ before his untimely demise nearly a decade ago
 * Frost Lance, 3rd
 * Grasp, 2nd
 
+**Tome of the Moonlit Night**  
+*Unique*  
+$8,300, 4 lbs.  
+This tome was created as a sort of instuction manual for a mage's pupil. Despite this, it is rarher poetic in its manner of writing. This grimoire contains the followibg spells at the indicated tiers;  
+* Moonfire, 4th
+* Nightburn, 2nd
+* Threads of the Stars, 4th
+* Wild Orb, 3rd
+
 **Zorne's Tome**  
 *Unique*  
 $10,350, 5 lbs.  
