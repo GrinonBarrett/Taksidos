@@ -1666,7 +1666,23 @@ If you have the foe grappled, both attacks gain a bonus equal to the spell's tie
 
 **Critical Failure**: The force you conjure is channeled into your body rather than the foe. The crushing attack is instead inflicted against you, and you become prone for a number of rounds equal to the spell's tier.
 
-### K (3
+### K (4
+
+#### Kafteropidimatism
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 4 yards
+
+**Effect**: You disappear in a puff of smoke. At the end of the next phase, you appear at a point within range you deignate, causing an explosion to burst out from you 1 yard in all directions. This inflicts a fire attack against everything within the area (excluding yourself).
+
+A critical success with the spellcheck allows you to increases the range traveled by a number of feet equal to your [magic] bonus.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the range traveled by 2 yards or increases the explosion radius by .5 yard.
+
+**Critical Failure**: You instead reappear in the place you were... potentially on fire. This inflicts a fire attack against your and everything else withi 1 foot. The attack gains a bonus against you equal to the spells tier for the purpose of inflicting a critical hit.
 
 #### Kathrepturgy
 
