@@ -1921,7 +1921,7 @@ This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty
 
 **Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
 
-### N (2 
+### N (3 
 
 #### Nightburn
 
@@ -1940,6 +1940,25 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 **At Higher Tiers**: The benefits for casting at higher times is noted above
 
 **Critical Failure**: You fail to ignite the flame properly, inflicting an attack roll against yourself. If the attack roll is odd, its a fire attack. If even, necrotic. It gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit against you.
+
+#### Noseblind
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Effect**: You you direct concentrated scent of an unknown nature around you, etending out 1 yard, and directed away from you in a 4 yard cone. Everything caught within the area (including yourself) must succeed a [Rflx] or [Fort] save, whichever is lower for that creature, or become incapable of smelling anything at all for a number of minutes equal to the points of failure. The DV is equal to the spellcheck result + spell tier. A critical failure causes the creature to also be dazed for a number of phases equal to the points of failure as a result of the overwhelming sensation.
+
+If the caster has a handful of matter (solid,liquid/gaseos) in their hand or a container in their possession when casting the spell, they may have it consumed by the spell to cause the smell generated to be that of the material. Regardless, the scent of the spell itself is detectable for a number of hours equal to 2+spell tier.
+
+A critical success with the spellcheck prevents the caster from blasting themselves with the overwhelming scent.
+
+**At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, you may choose one of the following  
+* The length of the cone is increased by 1 yard
+* The distance the scent emits from you, other than the cone, is increased or decreased by 1 yard. If reduced to 0 this way, it does not affect you
+* The duration of the scent is increased or decreased by 1.5 hours
+
+**Critical Failure**: You overwhelm only yourself with the scent. Your save DV is instead equal to the points of failure multiplied by the spell's tier. The scent lingers on you to the point that it is repulsive and is sure to make socializing near impossible. This lasts for the intended duration of the spell as cast normally. While affected by the spell this way, the DV of tracking you by scenet is reduced by an amount equal to the spell's tier doubled.
 
 #### Nralling
 
