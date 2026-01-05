@@ -2287,7 +2287,7 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (17
+### S (18
 
 #### Sapiafi
 
@@ -2504,6 +2504,22 @@ If the spell check was a critical success, you may replace the d10 with any of t
 * Casting time is reduced by 2 actions
 
 **Critical Failure**: You conjure the starfall over yourself, wherever you are when it resolves. You count as a number of creatures equal to the spell's tier for the purpose of determining how many attacks are directed at you. For example, a 5th tier spell will attack you as 5 individual creatures- potentially causing a great number of attacks against you.
+
+#### Stranging
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Duration**: Spellcheck result + spell tier rounds
+
+**Effect**: You produce a 1 yard diameter sphere of translucent fog or smoke which eminates from you. At the end of each phase, the fog spreads out 1 foot in all directions. Creatures which you are not familiar with where either breathe in the medium or are half in the medium are subject to a psychic attack at the end of the phase. This cannot affect mindless creatures, ephemera, or eldritch creatures.
+
+If the spellcheck was a critical success, the caster is aware of the location of any creature so affected by this spell.
+
+**At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, the caster may choose to have the fog/smoke manifest an additional foot outwards when the spell is cast or increase the maximum duration by 2 rounds.
+
+**Critical Failure**: The fog centers on you, inficting a psychic attack against you. If the attack would qualify to damage armor or the attack result is the same as the spell's tier- you accrue spell sickness equal to the spell's tier.
 
 #### Stupify
 
