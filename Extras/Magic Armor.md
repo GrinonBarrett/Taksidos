@@ -17,10 +17,11 @@ $8,000 , 26 lbs.
 A magical breastplate which calls thrown blades and other non-magical projectiles towards the wearer of this armor. *Ranged non-magical attacks made by someone within, or against someone within, 10 yards are redirected to the wearer. Any redirected attack which was not intended for the wearer has disadvantage. Meanwhile any ranged attack, including those of a magical nature, against the wearer with the intent to harm the wearer have advantage. This magic is only active if worn by a creature which is not currently dead/destroyed*.  
 Cost to repair is $600 per point.
 
-**Blessed Vestments**, $18,000, 12 lb.  
-2/2  
+**Blessed Vestments**,  
 Gambeson  
-Leather, silk, and linen fashioned into the garb of a particular temple's clergy. These are worn by warpriest and the occasional cult leader. They provide the wearer *immunity to necrotic attacks and a +2 bonus to defense against magical attacks, but grants any magical attack against the wearer a +4 bonus for the purpose of inflicting a critical hit*. the bonus to defense is reduced by the tital instance of Archeblight affecting the wearer, if any.
+$18,000, 12 lb.  
+2/2  
+Leather, silk, and linen fashioned into the garb of a particular temple's clergy. These are worn by warpriest and the occasional cult leader. They provide the wearer *immunity to necrotic attacks and a +2 bonus to defense against magical attacks, but grants any magical attack against the wearer a +4 bonus for the purpose of inflicting a critical hit*. the bonus to defense is reduced by the total instances of Archeblight affecting the wearer, if any.
 Cost to repair is $135.  
 
 **Dragon Scale**  
@@ -106,3 +107,12 @@ $4,800, 12 lb.
 2/4  
 A fine coat of natural fibers, adorned with charms and pauldrons of leather dyed by bark extractives. The style is based on traditional practices and is the desirable choice for wardens and druids. The wearer *may spend an action to affect themselves as though by the Xylary Form spell for five minutes. Once this is done, it cannot be done again during the same day. It also provides a +1 bonus to defense against bare, biting, and cutting attacks*.
 Cost to repair is $200 per point.  
+
+
+**Zerician Links**  
+Maile  
+$43,000 , 30 lbs.  
+3/4  
+Ancient elven maile composed of thin hammered rings riveted together using a now forgotton alloy. *The armor provides a +4 bonus to defense against magical ray attacks which is not factored when determining if the attack qualifies to be a critical hit*.  
+Can only be repaired by an elfish smith with the prerequisite knowledge at a cost of $330 per point.  
+Interestingly, some very rare examples of this being made for other species' have been found but are now considered collectors items and have their price doubled.  
