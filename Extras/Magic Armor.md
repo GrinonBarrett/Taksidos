@@ -67,6 +67,12 @@ $21,500, 37 lb.
 Fine alder-dyed sliken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
 Cost to repair is $900 per point.  
 
+**Mirror Plate**  
+Cuirass  
+$50,000 , 32 lbs.  
+1/3  
+A set of polished round plates that offers moderate protection against blades and exquisite protection against supernatural attacks. *Magical attacks which would qualify to damage armor or have a natural result of 1 are reflected back to their attacker*.
+
 **Obsidian Plate**  
 Plate  
 $400,000, 55 lb.  
