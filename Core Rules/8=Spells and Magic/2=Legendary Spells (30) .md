@@ -45,7 +45,7 @@ If you have the foe grappled or the spellcheck is a critical success, the necrot
 
 **At Higher Tiers**: For each tier beyond minimum, the necrotic attack gains a +1 bonus for the purpose of determining if the attackl is a critical hit.
 
-**Critical Failure**: You have invoked a very angry power. A necrotic attack is inflicted against you with a bonus equal to the spell's tier. If it was a critical hit or would qualify to damage armor- it instead inflicts a radiant attack as well..
+**Critical Failure**: You have invoked a very angry power. A necrotic attack is inflicted against you with a bonus equal to the spell's tier. If it was a critical hit or would qualify to damage armor- it instead inflicts a radiant attack as well.
 
 ### Alekora (3
 Right hand to alekard.
