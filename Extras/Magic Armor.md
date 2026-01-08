@@ -88,6 +88,12 @@ A full suit of plate armor made of materials which cannot be wholly gathered on 
 On the ethereal and psychic planes, the armor is considered to be half of its weight.  
 Cost to repair is $1,625 per point and can only be done by one with a very special set of tools.
 
+**Qua-Anrauleidh's Robe** (*unique*)  
+Unarmored  
+$31,500 , 3.25 lbs.  
+1/1  
+A fine robe of violet and maroon, and a couple of colors beyond the human eye's visible range. It belonged to a mage known for his relentless lust for battle... against fellow magic users. *The wearer's minimum defense against magical attacks is equal to the spell sickness of the wearer plus the spell sickness of the attacker*.
+
 **Robe of the Nomad**  
 Unarmored  
 $24,500 , 4 lbs.  
