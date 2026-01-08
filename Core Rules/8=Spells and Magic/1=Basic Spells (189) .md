@@ -3251,7 +3251,21 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Critical Failure**: You fail to transfer the transmutation properly. Your body stiffens, making you prone so long as you have spell sickness.
 
-### Y (1
+### Y (2
+
+#### Ventrilurgy
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You must concentrate on the spell after casting, granting you the ability to cause any sound you produce to originate from a point you can perceive within range. If the spellcheck is a critical success, you may benefit from the spell for a number of rounds equal to the spell tier even after you stop concentrating on the spell.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum range by 10 yards or allow you to have the sound originate from an additional point within range.
+
+**Critical Failure**: You manage to harm your own hearing with the attempted funneling of sound, infliting a sonic attack against yourself. It gains a bonus equal to half of the spell's tier (round down) for the purpose of inflicting a critical hit against yourself.
 
 #### Ygroapothy
 
