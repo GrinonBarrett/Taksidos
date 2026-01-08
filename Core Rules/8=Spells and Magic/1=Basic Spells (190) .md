@@ -1751,7 +1751,7 @@ If the spellcheck is a critical success, you know the precise location of the so
 
 **Critical Failure**: You instead feel some of the pain, making you vulnerable until the end of the round.
 
-### L (4
+### L (5
 
 #### Lafiancy
 
@@ -1806,6 +1806,20 @@ Alternatively, you could cast this spell in anticpation of coming in contact wit
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
 **Critical Failure**: The axe explodes infront of you, inflicting the effect against you instead.
+
+#### Leech Life
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Effect**: You touch a foe, which also inflicts toxic attack against the foe. If the attack would qualify to damage armor or inflict a critical hit, it instead inflicts a level of fatigue against the foe. If a critical hit, you may choose to either recover an instance of fatigue or recover a single hitpoint.
+
+If the spellcheck is a critical success, you may inflict a melee attack aqgainst the foe instead of simply touching them as part of the spell. Such an attack is resolved before the toxic attack.
+
+**At Higher Tiers**: For each tier beyond minimum, you may choose to either grant the toxic attack an additional range of 5 yards or modify the attack result by 1.
+
+**Critical Failure**: You seem to exhaust yourself instead. If you are immune to exhaustion, you instead gain spell sickness equal to half (round down) of the spell tier.
 
 #### Levitation
 
