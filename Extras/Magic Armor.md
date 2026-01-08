@@ -107,6 +107,12 @@ $400,000, 60 lb.
 A full suit of plate armor made of silver and silks. All forms of magical attacks have disadvantage against the user. Electric and Fire attacks gain advantage against the wearer. *Undead cannot perceive the wearer*.  
 Cost to repair is $1,000 per point.
 
+**Sturian Jacketry**  
+Brigindine  
+$51,000 , 26 lbs.  
+2/4  
+A sturdy coat of plates with proper accompaniment of maile and padding. *Fire, cold, and electric attacks with an odd attack roll result have no effect on the wearer*.
+
 **Yebris' Kit** (*unique*)  
 Plate   
 $37,750 , 68 lb.  
