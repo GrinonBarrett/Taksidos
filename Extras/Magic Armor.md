@@ -126,6 +126,12 @@ $4,800, 12 lb.
 A fine coat of natural fibers, adorned with charms and pauldrons of leather dyed by bark extractives. The style is based on traditional practices and is the desirable choice for wardens and druids. The wearer *may spend an action to affect themselves as though by the Xylary Form spell for five minutes. Once this is done, it cannot be done again during the same day. It also provides a +1 bonus to defense against bare, biting, and cutting attacks*.
 Cost to repair is $200 per point.  
 
+**Zerician Cuirass**  
+Cuirass  
+$40,000 , 30 lbs.  
+2/4  
+Ancient Elven plate which cover the torso and includes bracers and vambraces. *The armor provides a bonus to defense against magical attacks equal to the damage still required to ruin the armor*.  
+Can only be tepaired by an elfish smith with the prerequisite knowledge at a cost of $275 per point.
 
 **Zerician Links**  
 Maile  
