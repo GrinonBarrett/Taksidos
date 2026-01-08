@@ -797,7 +797,7 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (7
+### E (8
 
 #### Edify
 
@@ -810,6 +810,27 @@ When used against a forcefield created by a spell of less than half of this spel
 **At Higher Tiers**: For each tier beyond minimum, the total capacity for learning the creature gains is increased to the tier of the spell.
 
 **Critical Failure**: You cause the creature to become overwhlemed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
+
+#### Eering
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 actions + 1 action per illusory element
+
+**Range**: 20 yards
+
+**Effect**: You create an illusion in the mind of a target which appears to be a hostile creature or harmful force that you imagine. This illusion is made up of up to 2 such elements. Each element inflicts a psychic attack against the target, though the critical hit affect is replaced with that of an appropriate type to the illusory element. If an attack roll is greater than the target's [Inte] score, it will gain a bonus for the purpose of inflicting a critical hit equal to that creature's [Prcp] bonus.
+
+A creature must see you cast the spell to be affected. The attack does not damage armor when it would qualify to damage armor.
+
+A critical success allows you to inflict one of the following when an attack would qualify to damage armor;  
+* The armor is damaged.
+* The foe is dazed until the end of the round.
+* The foe is knocked back a number of feet up to the tier of the spell.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of elements by 1 or increase the range of the spell by 5 yards. Additionally, if cast at 4th tier or higher, you may attempt to affect multiple creatures with this spell, up to half of the spell's tier. You must divide the attacks against all affected creatures this way, but may divide them as you see fit.
+
+**Critical Failure**: You instead manifest an illusion based on your own fears. The creature(s) you intended to affect are able to see it. For a number of rounds equal to the spell's tier, you are subject to a psychic attack which gains a bonus equal to your [Prcp] bonus for the purpose of inflicting a critical hit. The psychic attacks are otherwise identical in nature to those that would be created by this spell normally.
 
 #### Empathic Ward
 
