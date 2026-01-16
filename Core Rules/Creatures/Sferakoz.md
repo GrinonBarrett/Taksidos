@@ -3,7 +3,7 @@ A perfect sphere of crystal. Inside it is a cloud of an iris centered around a p
 
 **Creature Type**: Sferakozi are Eldritch.
 
-**Size**: They are between 13 inches. They weigh 33 pounds. They are small creatures.
+**Size**: They are between 10-13 inches. They weigh 33 pounds. They are small creatures.
 
 **Hitpoints**: A Sferakoz has no hitpoints.
 
