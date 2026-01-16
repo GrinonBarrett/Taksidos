@@ -42,7 +42,7 @@ An unsual handmade trinket worn around the neck. If the wearer is to be affected
 
 **Charm of Wardance**, $2,800  
 1 lb.  
-A custom made runic necklace. The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell.**
+A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
 
 **Cloak of Silverwinds**, $3,600  
 1.75 lb.  
