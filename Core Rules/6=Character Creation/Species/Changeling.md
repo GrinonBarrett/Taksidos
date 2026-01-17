@@ -5,7 +5,7 @@ One of the rarest sapient creatures abound. Changelings appear much like manfolk
 
 **Size**: Changeling are between 3-6 feet in height in their natural form, and weigh between 60-120 pounds. They can be small or medium creatures.
 
-**Ability Score Modification**: As a changeling, each of your attributes are reduced by 2.
+**Ability Score Modification**: As a changeling, choose two attributes. Each of your other attributes are reduced by 2.
 
 **Languages**: You gain competency in the Common Tongue, the Wild Tongue, and one other language of your choice.
 
