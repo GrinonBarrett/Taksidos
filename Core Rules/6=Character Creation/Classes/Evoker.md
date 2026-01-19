@@ -84,7 +84,7 @@ Furthermore, you may add your [Body] bonus to your counterspell checks.
 
 -----
 
-##### Super Techniques
+#### Super Techniques
 Unless otherwise mentioned, all ranged attacks from super techniques are considered within their optimal range.
 
 **Apex Assault**  
