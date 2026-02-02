@@ -1,5 +1,5 @@
 ### Septepus
-These squid like creatures can be found in nearly any environment. They are intelligent predators that often ambush adventurers to seize the prize of their appetite, gold, in form of coinage or jewelry. Often times, they otherwise await dormant. As they mature, they develop horn like protrusions. The plural is septepi. Their collective noun is a smackering.
+These squid like creatures can be found in nearly any environment. They are intelligent predators that often ambush adventurers to seize the prize of their appetite, gold, in form of coinage or jewelry. Often times, they otherwise await dormant. As they mature, they develop horn like protrusions. These horn like protrusions are made up of a combination of carbon  calcium, and gold. Though one would expect larger protrusions would tempt others to cannibalism, they appear to be repulsed by the makeup of the horn. The plural is septepi. Their collective noun is a smackering.
 
 **Creature Type**: Septepi are drakomadiae.
 
