@@ -85,7 +85,7 @@ These squid like creatures can be found in nearly any environment. They are inte
 
 **Unusual Diet**: A septepus does not need to breathe or drink to survive. It must consume gold to persist however. An ounce of gold can sustain most specimens for 7-10 (1d4+6) days.
 
-**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the ajhas is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
+**Grapplock**: When performing an opposed check while brawling or grappling, the die level of any dice rolled by the septepus is increased by 1. If an unarmed attack by this creature against a foe is a critical hit, and it has at least two free appendages, it may grapple that creature.
 
 **Antimagic Spray**: As an action, the septepus may project a jelly-like substance at a creature. Inflict an undamaging attack. If successful, the substance will cover it. A creature covered in the jelly has disadvantage on spellchecks and counterspell checks. Non-unique items covered in the jelly have their magical effects supressed. The effects of the jelly lasts 1d4+2 hours. The jelly can be washed off with alchemic soap and water. It cannot perform more than 3 sprays between rests.
 
