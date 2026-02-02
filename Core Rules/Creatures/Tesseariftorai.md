@@ -105,7 +105,7 @@ A somewhat slender body features a fore pair and aft pair of wings. Its claws ca
 
 **Quadrachroma**: Tessariftoroi have 4 chroma in their eyes. As a result they gain a +3 to all [Prcp] checks involving sight.
 
-**Breath Weapon**: Tessariftoroi are capable of exhaling a line of flames, as an action. The line is 3 yards long and is a quarter foot high and wide. Anything caught within the line suffers a Fire attack. Once it draconne has used this ability, it cannot do so again until if finishes a lonf or full rest.  
+**Breath Weapon**: Tessariftoroi are capable of exhaling a line of flames, as an action. The line is 3 yards long and is a quarter foot high and wide. Anything caught within the line suffers a Fire attack. Once it has used this ability, it cannot do so again until if finishes a lonf or full rest.  
 Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to a single yard as it sweeps its head side to side.
 
 **Additional Wings**: The tessariftorai only needs three of its wings to operate, but gains advantages for devoting all four to flight for the round. Its flight speed is increased by 5 yards if it is not prone.
