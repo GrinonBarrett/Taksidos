@@ -70,7 +70,7 @@ These squid like creatures can be found in nearly any environment. They are inte
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Appendage         | Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 3 times. |
 |   11   | Glancing Blow     | No ill effect. |
-|   12   | Psychoactive Explosion | Everything within 100 yards, including the ajhas, has a psychic attack inflicted against them. |
+|   12   | Diffusive Blow| Everything else with8n 3 yards receives a point of spell sickness. |
 |   13   | Appendage         | **Biased wound**. Until this wound is healed, it loses the use of one of its limbs. This wound may be inflicted up to 2 times. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
 |   15   | Bell Rung         | The next attack made against you before the end of the next round gets advantage.  |
