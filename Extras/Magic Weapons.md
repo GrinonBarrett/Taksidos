@@ -13,10 +13,15 @@ Longsword
 A beautifully crafted sword with fine balance for its length.  
 You may wield this sword with two hands. If you do, you may treat the range as 4 feet. A larger creature simply treats it as an appropriately sized longsword with a range of 4 feet. *You may roll a d4 when you attack. If you do, you take on spell sickness equal to the result and gain a bonus to equal to the result for the purpose of determining a critical hit. When the attack of this weapon would be a critical hit, you may treat it as a single type of attack of your choice*.
 
-**Afechea**, (*unique*)  
+**Afechea** (*unique*)  
 $3,900, 3 lbs.  
 Handaxe  
 A finely made axe. When it successfully harms a foe with spell sickness, that foe accrues an additional point of spell sickness. If name is known, *it gains a +1 to attacks against foes with spell sickness*.
+
+**Amratakalget** (*unique*)  
+$12,000 , 5.5 lbs.  
+Spear  
+This spear reaches a mighty 12 feet (meaining the -1 penalty occurs to attacks within 2 yards). The unusual head of this spear is quite an artistic piece which seems to be unneccessary, but grants a +4 bonus for the purpose of determining a critical hit against Monsters. If an attack roll result with this weapon is a 20, *the user may use their reaction to take on a point of spell sickness. If they do, it also inflicts an exotic attack of their choice*.
 
 **Archeburn** (*unique*)  
 $12,000 , 5 lbs.  
@@ -346,6 +351,12 @@ Longsword
 A sword which has saved many a man and woman in desperate times. *WHile user is vulnerable, they gain a +3 bonus to attacks*.  
 If name is known, *anytime the user presses attack while already vulnerable- they gain a bonus to the attack for the purpose of determining a critical equal to their current number of wounds*.
 
+**Rai** (*unique*)  
+$13,000 , 3.25 lbs.  
+Longsword (Large)  
+This shortsword is made for a gaint and features a wonderful keen blade. When the wielder presses attack, the attack type may be treated as a Cutting attack. *If the attack roll result of any attack with the weapon would be a 7, 13, or qualify to damage armor, it also inflicts an electrical attack*.  
+If its name is known, *an electrical attack is inflicted against each foe within a cleave performed by the wielder*.
+
 **Ralafasse** (*unique*)  
 $30,000 , 4 lbs.  
 A blade brighter than any silver is adorned with a hilt of brass and the finest leather grip. The user will feel the thoughts of something wanting to fight a strong opponent. Eventually, it might start talking to the user. It will not reveal its name voluntarily unless a mighty foe is best by the user. *The sword gets to take a reaction each round so long as it is in a user's hand, but it must be an action involving the sword itself. A user attempting to prevent this by using their reaction in response. If name is known, they may have Ralafasse brace for reactions of their choice at the start of a combat- although Ralafasse may still choose to perform its own reaction. If the user has Warrior Mastery with longswords, Ralafasse can live up to its full potential- granting a +1 to all attacks, beats, and parries with the weapon*. 
@@ -355,6 +366,11 @@ $500, 2 lbs.
 Club  
 A femur which has arcane markings carved into it, explaining some ritual. On a critical hit, *treat as a necrotic attack*. If the wielder has any spell sickness, *the attack inflicted is necrotic*.  
 Can be found in any size, with each size category increasing the weight by half of its current weight.
+
+**Roz** (*unique*)  
+$9,000 , 4 lbs.  
+Flail  
+This flail is more akin to a threshing flail than a chain mace w3ith a handle. It inflicts a club attack. *When an attack is performed, a number if is called and damaage type declared by the wielder. If the attack roll result is equal to the called number, it also inflicts an attack of the chosen type*.
 
 **Shakasawt**  
 $10,000 , 6 lbs.  
