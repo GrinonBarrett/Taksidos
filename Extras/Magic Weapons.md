@@ -509,7 +509,7 @@ When this weapon's attack would qualify to damage armor, the foe instead receive
 **Zryf**  
 $23,875 , 4 lbs.  
 Longsword  
-Upon a successful attack with this weapon, *it inflicts a Cutting attack and Ki attack against that foe. It will also inflict a random wound against the wielder (treat a wound rrsult of 1 as an instance of Archeblight). This does not lower the hitpoints of the wielder or cause an incapacitation save. The wielder may use their reaction in response to the initial attack being successful to avoid receiving this wound*.
+This arming sword seems to feature a blued steel blade. Upon a successful attack with this weapon, *it flashes with a neon teal flame. It inflicts a Cutting attack and Ki attack against that foe. It will also inflict a random wound against the wielder (treat a wound rrsult of 1 as an instance of Archeblight). This does not lower the hitpoints of the wielder or cause an incapacitation save. The wielder may use their reaction in response to the initial attack being successful to avoid receiving this wound*.
 
 **Zupod** (*unique*)  
 $1,300 , 2 lbs.  
