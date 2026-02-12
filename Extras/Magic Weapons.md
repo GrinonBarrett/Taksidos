@@ -504,7 +504,12 @@ The wearer gains a +1 to defense against magical and electrical attacks. Additio
 **Zrianian Throwing Spear**  
 $5,970 , 2.5 lbs.  
 Javelin  
-When this weapon's attack would qualify to damage armor, the foe instead receives 2 additional points of spell sickness. On a critical hit, *it instead inflicts 1d4 points of spell sickness*.
+When this weapon's attack would qualify to damage armor, the foe instead receives 2 additional points of spell sickness. On a critical hit, *it inflicts 1d4 points of spell sickness*.
+
+**Zryf**  
+$23,875 , 4 lbs.  
+Longsword  
+Upon a successful attack with this weapon, *it inflicts a Cutting attack and Ki attack against that foe. It will also inflict a random wound against the wielder (treat a wound rrsult of 1 as an instance of Archeblight). This does not lower the hitpoints of the wielder or cause an incapacitation save. The wielder may use their reaction in response to the initial attack being successful to avoid receiving this wound*.
 
 **Zupod** (*unique*)  
 $1,300 , 2 lbs.  
