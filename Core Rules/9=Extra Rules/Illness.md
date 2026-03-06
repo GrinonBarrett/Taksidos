@@ -45,7 +45,7 @@ Mundane
 DV 7  
 **Incubation**: 1d20 years  
 **Average Duration**: Permanent   
-**Effect**: A more "compassionate" illness in that it can slowly affect the infected. One afflicted will slowly suffer ongoing nerve damage, deformation of skin, nose, and extremeties, and loss of vision. Every week, a new [Fort] save is made. If it is a failure, the the afflicted suffers a reduction in either their [Body] or [Prcp] score by 1 (randomly determined). If it is a critical failure, they also suffer either a reduction in the other attribute. After three consecutive critical failures, an afflicted indivudual will also see their [Empy] reduced by 1. This is a combination of the physical deformities which not only affect appearence but also speech, and the psychological toll of living with the disease.
+**Effect**: A more "compassionate" illness in that it can slowly affect the infected. One afflicted will slowly suffer ongoing nerve damage, deformation of skin, nose, and extremeties, and loss of vision. Every week, a new [Fort] save is made. If it is a failure, the the afflicted suffers a reduction in either their [Body] or [Prcp] score by 1 (randomly determined). If it is a critical failure, they also suffer either a reduction in the other attribute. After three consecutive critical failures, an afflicted indivudual will also see their [Empy] reduced by 1. This is a combination of the physical deformities which not only affect appearence but also speech, and the psychological toll of living with the disease.  
 **Notes**: This diseas seems to only affect humanoids and non-human primeates). It also affects armadillos?
 
 **Mad Fox Disease**  
