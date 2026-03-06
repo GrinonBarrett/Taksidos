@@ -20,8 +20,8 @@ Some points of exposure also inccur a penalty to the save.
 
 Incubation time is how long it takes from contact to onset of symptoms.
 
-Name 
-Magical or Mundane   
+Name  
+*Magical* or Mundane   
 Means of Contagion  
 Contagion DV  
 Incubation Time  
