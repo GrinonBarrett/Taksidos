@@ -139,6 +139,9 @@ This canvas container may hold 14 bolts or arrows and can be strapped over the b
 #### Rope
 Rope is purchased in increments of yard. Once cut, the rope can't typically be rejoined. It has a strength value which determines the maximum weight of a standing load it can bear. If the intended load is to be jostled or produce a sudden shock to the rope, treat the strength as half. When a rope is damaged in any way, its strength is reduced to one third. Rope is not affected by toxic damage, psychic damage, or unarmed attacks.
 
+* **Reinforced Fiber Rope, $32 per yard, .5 lb**  
+A rope made of stronger material than the common rope and in a tigher form of cordage. Strength 600.
+
 * **Standard Fiber Rope, $11 per yard, .3 lb**  
 A common rope. Strength 350.
 
