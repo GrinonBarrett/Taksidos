@@ -31,7 +31,7 @@ Notes
 
 **Bluste Exposure**  
 Mundane (with magical aspects)  
-**Means of Contagion**: Respitory, ingestion 
+**Means of Contagion**: Respitory, ingestion  
 DV 15  
 **Incubation**: 1d6 minutes  
 **Average Duration**: 4d6+14 days   
