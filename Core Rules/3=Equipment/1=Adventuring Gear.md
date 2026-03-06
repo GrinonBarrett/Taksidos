@@ -91,7 +91,7 @@ Holds about 50 pounds of gear.
 An alchemically treated paper which can create sparks if something firm is rubbed across it quickly. Combined with Tinder Slivers it produces instant fire. Wears out after about 50 such slivers, though larger forms of tinder may wear it out faster.
 
 #### Mechanical Tools
-Mechanical tools are used to inspect, operate, disable, sabotage, and occasionally repair various forms of mechanisms. They can also be used for burglery. They come in a variety of sizes. A good burgler has the rights tolls for their task. A bad burgler gets caught improvising.  
+Mechanical tools are used to inspect, operate, disable, sabotage, and occasionally repair various forms of mechanisms. They can also be used for burglery. They come in a variety of sizes. A good burgler has the right tools for their task. A bad burgler gets caught improvising.  
 Custom tools can grant a +1 bonus to checks involving locks if used by a creature of the appropriate size, but this doubles the price. Fine tolls can only be custom made to diminutive, small, or medium creatures. Standard tools may only be custom made to small, medium, or large creatures. Large tools may only be made custom for large creatures, and exotic tools may only be made custom for creatures of the appropriate size.
 
   **• Fine, $350, 1.25 lb.**  
