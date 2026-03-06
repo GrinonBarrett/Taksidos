@@ -39,6 +39,15 @@ DV 15
 **Notes**: Bluste is a microorganism found feeding on the corrosion of metals in dark damp environments. It is most commonly found feeding on copper oxide but can be found on any osixde potentially. It is known by its distinctly rich blue sploching appearence when brought into the light. The bluste itself is often destroyed with fire pretty easily but only a finite amount of spores need enter the body to offend it. It is common practice to light many fires (such as torches) if entering an area suspected of containing bluste as a means of combatting airborne spores.  
 For the purpose of "infected" or "carrier" simply treat any instance of where it grows as being valid.
 
+**Leprosy**  
+Mundane  
+**Means of Contagion**: Respitory  
+DV 7  
+**Incubation**: 1d20 years  
+**Average Duration**: Permanent   
+**Effect**: A more "compassionate" illness in that it can slowly affect the infected. One afflicted will slowly suffer ongoing nerve damage, deformation of skin, nose, and extremeties, and loss of vision. Every week, a new [Fort] save is made. If it is a failure, the the afflicted suffers a reduction in either their [Body] or [Prcp] score by 1 (randomly determined). If it is a critical failure, they also suffer either a reduction in the other attribute. After three consecutive critical failures, an afflicted indivudual will also see their [Empy] reduced by 1. This is a combination of the physical deformities which not only affect appearence but also speech, and the psychological toll of living with the disease.
+**Notes**: This diseas seems to only affect humanoids and non-human primeates). It also affects armadillos?
+
 **Mad Fox Disease**  
 *Magical*  
 **Means of Contagion**: Physical contact, respitory, fluid contact  
