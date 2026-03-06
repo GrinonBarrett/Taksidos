@@ -29,6 +29,15 @@ Average Duration
 Effect  
 Notes
 
+**Bluste Exposure**  
+Mundane (with magical aspects)  
+**Means of Contagion**: Respitory, ingestion 
+DV 15  
+**Incubation**: 1d6 minutes  
+**Average Duration**: 4d6+14 days   
+**Effect**: When that has been exposed to even the smallest amount of airborne spores or has otherwise ingested smal amount of bluste will find their immune system overwhelmed and seizures take hold. Their [Fort] bonus is reduced to 0. Their [Body] and [Rflx] bonuses are reduced to one third. They suffer a -1 to all checks, saves, and attack rolls. Every 1d4 hours, they must succeed an incapacitation save. A creature *has a penalty to their save against this and the incapacitation save equal to their spell sickness and instances of Archeblight*. When the infection ends, they must succeed a [Fort] save (with their returned strength) with a DV of 18 or suffer an instance of Archeblight.  
+**Notes**: Bluste is a microorganism found feeding on the corrosion of metals in dark damp environments. It is most commonly found feeding on copper oxide but can be found on any osixde potentially. It is known by its distinctly rich blue sploching appearence when brought into the light. The bluste itself is often destroyed with fire pretty easily but only a finite amount of spores need enter the body to offend it. It is common practice to light many fires (such as torches) if entering an area suspected of containing bluste as a means of combatting airborne spores.
+
 **Mad Fox Disease**  
 *Magical*  
 **Means of Contagion**: Physical contact, respitory, fluid contact  
