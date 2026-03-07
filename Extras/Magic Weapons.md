@@ -413,7 +413,7 @@ Made of bone, in the tradition of merfolk weapons, this blade has been passed do
 **Stormfist** (*unique*)  
 $11,750 , 17 lbs.  
 Maul  
-This "maul" is an oak shaft magically hewn iinto anrough cut shape of stone. Requires [Body] 17 to use in just two hands, or or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
+This "maul" is an oak shaft magically hewn into a rough cut shape of stone. Requires [Body] 17 to use in just two hands, or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
 It is said that large creatures can use it as though it were a large weapon, but still require the minimum [Body].
 
 **Syphoning Sabre** (*unique*)  
@@ -442,6 +442,11 @@ Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffe
 $6,000 , .33 lb.  
 Thrown Blade  
 The finest crafted throwing knife you have seen in your life. While stuck in a foe, the wielder may use their reaction *to call a bolt of lightning just like the spell Call Lightning*. If the user has Warrior Mastery with thrown blades, they always treat their attacks as being in optimal range.
+
+**Thunder's Whisper** (*unique*)  
+$6,000 , 9 lb.  
+Pike  
+This pike seems to reaonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the use have disadvantage*.
 
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
