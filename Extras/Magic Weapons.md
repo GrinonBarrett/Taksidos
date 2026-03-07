@@ -201,6 +201,11 @@ Longsword
 A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against fire attacks is lower than longsword, use its defense against fire*. It is always warm to the touch.  
 If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a fire attack*.
 
+**Frostfang**, (*unique*)  
+$6,300 , 1 lb.  
+Dagger  
+A dagger that appers to be made of crystal clear glass. When pressing attack, or if the attack qualifies to damage armor, *it also inflicts a cold attack*. If name is known, *cold attacks have disadvantage against user while it is held*.
+
 **Galosle's Wrap** (*unique*)  
 $4,900 , neg.  
 Unarmed  
