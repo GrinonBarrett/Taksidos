@@ -1751,7 +1751,7 @@ If the spellcheck is a critical success, you know the precise location of the so
 
 **Critical Failure**: You instead feel some of the pain, making you vulnerable until the end of the round.
 
-### L (5
+### L (6
 
 #### Lafiancy
 
@@ -1792,6 +1792,35 @@ Alternatively, you could cast this spell in anticpation of coming in contact wit
 **At Higher Tiers**: Each tier beyond minimum allows you to modify the range of the spell by 1 per tier beyond 2nd.
 
 **Critical Failure**: You instead increase the effect distance of your fall/knockback, in feet, by the points of failure multiplied by the spell's tier. If you cast it on another creature, it is protected from the fall/knockback damage, and you take it instead- including the aforementiond penalty for critically failing the spell check.
+
+#### Lash
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 3 yards
+
+**Duration**: Concentration, up to a number of rounds equal to the spellcheck result
+
+**Effect**: You animate a length of rope with range, whether it be standard rope, chain, vines, or some other exotic material. While animated this way, you may perform standard ropework (without having to occupy your hands of course).   You may also use it to inflict a club attack against a foe as an action, with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.  
+You may also attempt to lasso a creature within range if it has enough length (see below) as an action or reaction. It must succeed a [Rflx] save or be knocked prone or grappled (your choice). A critical failure allows you to bind the creature, making it immobile unless it can break free of the rope in some way (Though this requires more length to affect) or simply do both knock them prone and grapple them.
+
+Length required for each size category;  
+* Insurmountable 10 miles (double its size to bind)
+* Jormungous 1.5 miles (4 miles to bind)
+* Titanous 750 yards (1800 yards to bind)
+* Big 120 yards (275 yards to bind)
+* Huge 40 yards (100 yards to bind)
+* Great 8 yards (21 yards to bind)
+* Large 3 yards (7 yards to bind)
+* Medium 1.5 yard (4 yards to bind)
+* Small, 2 feet (2 yards to bind)
+* Diminutive, half foot (1.5 feet to bind)
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may choose to either increase the range by 1 yard or the DV of the [Rflx] save by 1.
+
+**Critical Failure**: The rope binds you. This functions identically to a critical failure on the save, except you cannot leave the bindings under your own power for a number of rounds equal to the points of failure.
 
 #### Lava Axe
 
