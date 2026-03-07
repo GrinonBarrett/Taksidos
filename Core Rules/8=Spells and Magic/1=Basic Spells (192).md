@@ -1866,7 +1866,28 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (7
+### M (8
+
+#### Mage Sword
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 3 yards
+
+**Effect**: You produce a blade that reaches out up to a number of feet equal to 1 + your size category. This blade inflicta a cutting attack and is used to perform a cleave before disappearing. This cleave functions just like a normal cleave attack. 
+
+The created blade can take any form you choose. If the spell check was a critical success, you may choose an exotic damage type. The sword will be bathed in an aura that appears appropriate to the choose  type. A critical hit will inflict the critical hit effect of that type instead of cutting.
+
+**Critical Failure**: The sword attempts to be produced from inside of you instead. It inflicta a cutting attack against yourself, with a critical hit inflicting a level of fatigue against you instead.
+
+Furthermore, if the spellcheck roll is the exact result of your level + [Magic] bonus, you become a magical sword (or other appropriate bladed weapon). See below.
+
+You function as an enchanted sword of your choice (per the item). After a week of being in one's possession, you may begin giving a single telepathic message to the wielder each round consisting of a single word. After a month with the possessor, you may speak 2 word sentences each round. After 6 months with the possessor, you may speak freely. After a year, you may telepathically send a single word sentence to the possessor if they are within 30 feet once per round. After 2 years, you may send a one word sentence to the possessor if within 60 feet per round or a two word sentence if within 30 feet. After 5 years, you may speak freely to the possessor telepathically if within 30 feet,a two word sentence per round if within 150 feet, or a single word if within a mile.  
+You cannot give your name this way and must speak a proper word, no gibberish.  
+If the user figures out your name and has spent at least 3 months with you, they may use their reaction to turn an attack into the appropriate attack type to your enchantment. If they do, they may choose to keep the critical hit effect of the weapon or the enchantment.
+
 
 #### Metamogrify
 
