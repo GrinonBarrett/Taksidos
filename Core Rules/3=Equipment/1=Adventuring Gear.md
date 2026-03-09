@@ -45,10 +45,14 @@ Primarily laid beneath a tent, a canvas tarp is invaluable in creative hands.
 #### Casamirian Device  
 A casamirian device is used for seeing through another casamirian device. A casamirian device can only provide as much vision as a normal eye might, but some devices can be rotated or moved in some way. So long as one is familiar with a casamirian device, they can gaze through it using another. The level of familiarity one must have to gaze through such an item is like that of a focus.
 
+**• Casamirian Mirror, $120,000, 25 lb.**  
+A collection of finely crafted thin silver wedges. When one with the Spellcraft skill seeks to operate it, *the pieces will begin to fly up and allow the user to peer through any casamirian device they are familiar with. The mirror pieces will form a sort of wall to show this, so one looking through a casamirian sphere will find the wall forms in a circle around them as they rotate their view*. The mirror is rather frail.
+
+  **• Casamirian Monocle, $23,000, neg.**  
+This monocle features a glass made of opal, diamond, and fulgurite. It is always prestine. A wearer with competency in the Spellcraft skill can *see through another casamirian device that they are familiar with*. The craftsmanship required for such an artisan glasss contributes greatly to its price.
+
   **• Casamirian Sphere, $10,000, 10 lb.**  
 This clear quartz orb can be used to *see through another casamirian device* if the user is competent with Spellcraft. This sphere requires three total hits to destroy. Sonic and Psychic attacks against it have advantage. It is immune to necrotic, radiant, and toxic sources of damage. Acid, fire, and cold attacks against the sphere have disadvantage.
-
-###### More casamirian devices to come.
 
 **Chip Log, $160, 60 lb.**  
 A length of rope with knots tied at specific intervals. It is attached to a buoyant board at the end. The board is thrown overboard and the number of knots is counted to determine the ship’s speed.
