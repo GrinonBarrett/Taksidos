@@ -2281,7 +2281,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (5
+### R (6
 
 #### Rage Fist
 
@@ -2357,6 +2357,27 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 **At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
 
 **Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+
+#### Rockslide
+
+**Minimum Tier**: 5
+
+**Casting Time**: 6 actions
+
+**Range**: 30 yards
+
+**Duration**: Concentration, up to 5 + spell tier phases
+
+**Effect**: You must cast this spell near a cliff side, in which the cliff is ascended above your intended zone. You designate a circle with a 5 yard radius within range. At the end of the following phase, and each phase afterwards for the duration, rocks will begin to fall on everything within the area. A number of force attacks are inflicted equal to 6 divided by the number of creatures in the area. If their is a fraction, you may inflict a single additional force attack against a creature in the area. Each successful force attack will also cause a crushing attack to be inflicted against that creature.
+
+**At Higher Tiers**: When cast at 6th tier or higher, for each tier beyond 5th, you may choose one of the following
+* Increase the range by 15 yards
+* Increase the number of attacks by 1
+* Increase the radius of the circle by 2 yards.
+
+Additionaly, for every two tiers beyond 5th, the number of attacks (before being divided) may be 8ncreased by 1.
+
+**Critical Failure**: The spell's area instead becomes centered on you, with the extra attack from a fraction being allocated to you. The attacks of this spell gain a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Rotword
 
