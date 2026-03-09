@@ -342,7 +342,7 @@ Where X is the tier of this spell.
 
 **Critical Failure**: You have jammed the portal in such a way that it cannot function as you intended when casting the spell (opening or closing). If you sought to undo any locks or barres, they are instead fixed shut by the spell and vice versa. This last for a number of minutes equal to the points of failure times the spell's tier. Additionally, you have set off any magical alarms set to the portal. To make things worse, you seem to be effected as though an identical alarm (or alarms) had been set to you. Have fun getting out of trouble.
 
-### Tinto (2
+### Tinto (3
 An ancient magi who managed to illustrate uses of magic in ageiculture, medicine, and war.
 
 #### Tinto's Circle
@@ -377,6 +377,22 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 **At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus.
 
 **Critical Failure**: You must perform an incapacitation save with a penalty equal to the spell's tier. A critical failure will not kill you, but you will instead receive spell sickness equal to the points of failure.
+
+#### Tinto's Storm
+
+**Minimum Tier**: 6
+
+**Casting Time**: 7 actions
+
+**Range**: 50 yards
+
+**Duration***:  5 rounds
+
+**Effect**: You designate a circle with a 15 yard radius within range. At the end of the following phase, and each phase afterwards for the duration, an unusual dust storm will rage in the area. A number of cutting attacks are inflicted equal to 4 divided by the number of creatures in the area. Then inflict a number of electrical attacks equal to the spell's tier divided by the number of creatures in the area to each creature in the area. Then inflict a number of cold attacks equal to your [Magic] bonus divided by the number of creatures in the area against each creature within the area. It then inflicts a fire attack against each creature wihin the area.
+
+**At Higher Tiers**: When cast at 7th tier or higher, for every tier beyond 6th, the range and radius are both increased by 5 yards. Additionally, for every two tiers beyond 6th, the number of attacks for each type (before dividing) is increased by 1. This does not increase the number of fire attacks inflicted.
+
+**Critical Failure**: You are surrounded by a dust storm that causes disadvantage on [Prcp] checks and saves for a number of rounds equal to the spell's tier. You also receive a cutting attack, electric attack, cold attack and fire attack. The attacks receive a bonus against you for the purpose of inflicting a critical attack equal to half (round down) of the spell's tier.
 
 ### Vehemente (3
 Arguably the most intelligent arcanist of his world, he claims to hail from a world opporessed by warring forces of light.
