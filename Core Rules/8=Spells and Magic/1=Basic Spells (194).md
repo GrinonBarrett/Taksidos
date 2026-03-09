@@ -797,7 +797,7 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (8
+### E (9
 
 #### Edify
 
@@ -847,6 +847,26 @@ If the spellcheck is a critical success, you may choose to have the bonus grante
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
 **Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
+
+#### Empower
+
+**Minimum Tier**: 1
+
+**Casting Time**: 15 actions
+
+**Range**: 1 yard
+
+**Effect**: You begin to channel power into a magical vessel. This vessel may be a relic or even a creature prepared to receive this power. This provides a single point of Empowerment to the vessel.
+
+A creature which gains empowerment while casting a spell gains a +1 bonus to that spellcheck for each point of empowerment they have, but all empowerment is lost once the spellcheck is made or the spellcasting ceases.
+
+A creature not casting a spell when gaining empowerment that happens to also possess spell sickness has the remaining time to lose that point of spell sickness halved instead of the traditional effect if it would apply. 
+
+An object which is empowered can bestow that empowerment to a spellcaster utilizing the item. Such empowerment lasts a number of minutes equal to the spell's tier.
+
+**At Higher Tiers**: For each tier beyond minimum, the range of the spell is increased by 1 yard. Additionally, for every two tiers beyond minimum, the total value of the empowerment is increased by 1 (which allows one to halve the remaining time of the current spell sickness again).
+
+**Critical Failure**: You fail to empower anything and instead suffer spell sickness equal to the spell's tier.
 
 #### Enkefalophagy
 
