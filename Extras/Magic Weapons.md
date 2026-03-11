@@ -11,7 +11,7 @@ Special Notes
 $25,000, 3.75 lbs.  
 Longsword  
 A beautifully crafted sword with fine balance for its length.  
-You may wield this sword with two hands. If you do, you may treat the range as 4 feet. A larger creature simply treats it as an appropriately sized longsword with a range of 4 feet. *You may roll a d4 when you attack. If you do, you take on spell sickness equal to the result and gain a bonus to equal to the result for the purpose of determining a critical hit. When the attack of this weapon would be a critical hit, you may treat it as a single type of attack of your choice*.
+You may wield this sword with two hands. If you do, you may treat the range as 4 feet. A larger creature simply treats it as an appropriately sized longsword with a range of 4 feet. *You may roll a d4 when you attack. If you do, you take on spell sickness equal to the result and gain a bonus equal to the result for the purpose of determining a critical hit. When the attack of this weapon would be a critical hit, you may treat it as a single critical hit type of attack of your choice*.
 
 **Afechea** (*unique*)  
 $3,900, 3 lbs.  
@@ -27,6 +27,12 @@ This spear reaches a mighty 12 feet (meaining the -1 penalty occurs to attacks w
 $12,000 , 5 lbs.  
 Longsword  
 A longsword with a reach of 1.5 yards. It can be wielded with two hands to be treated as a greatsword. Upon a critical hit, *you may treat it as also inflicting a critical hit of a fire attack*. When you press attack with this weapon, *you may also inflict a fire attack against the foe. If you do, you may choose to give that fire attack the advantage instead of the weapon attack*.
+
+**Ash Sower** (*unique*)  
+$25,000 , 3.5 lbs.  
+Longsword  
+This beautiful blade is never cold to the touch but not exactly warm. When it successfully is used against a creature of undeath, *it also inflicts a fire attack against that creature*. If a creature fails an incapaciation save as a result of a wound received from this weapon, *it inflicts a fire attack against that creature. Any creature slain with this weapon burns to ash and cannot be reanimated*.
+
 
 **Banelfror** (*unique*)  
 $20,000, 7 lbs.  
