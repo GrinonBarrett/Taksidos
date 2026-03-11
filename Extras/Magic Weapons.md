@@ -33,6 +33,7 @@ $25,000 , 3.5 lbs.
 Longsword  
 This beautiful blade is never cold to the touch but not exactly warm. When it successfully is used against a creature of undeath, *it also inflicts a fire attack against that creature*. If a creature fails an incapaciation save as a result of a wound received from this weapon, *it inflicts a fire attack against that creature. Any creature slain with this weapon burns to ash and cannot be reanimated*.
 
+If name is known, the attacks inflicted by this weapon get a +1 bonus for the purpose of inflicting a critical hit.
 
 **Banelfror** (*unique*)  
 $20,000, 7 lbs.  
@@ -91,6 +92,11 @@ If the sword's name is known to the user, *their attack rolls with the weapon ga
 $12,000 , 4 lbs.  
 Mace  
 This mace has slight flanges to it. Each flange bears a crimson stripe. The handle is a leather wrapped grip. *Grants a +1 to all attack rolls made with the weapon. If name is known, this in increased to a +2*.
+
+**Crimson Tongue** (*unique*)  
+$17,000 , 4 lbs.  
+Longsword  
+This sword features a metallic red sheen to the blade. Though it doesn't seem to provide any function, this sword is none the lesser for it. *Cold and Fire attacks against the wielder have disadvantage*. If name is known, *necrotic attacks against the wielder also have disadvantage. Additionally, an attack roll result of 12 or 18 inflicts a fire attack as the blade sears the foe*.
 
 **Curious Katana** (*unique*)  
 $5,500 , 3.25 lbs.  
