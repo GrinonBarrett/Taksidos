@@ -92,6 +92,10 @@ Contains the spell *Xylary Form*.
 Uses [Inte]. Can produce a psychic attack.  
 Contains the spell *Jinx*.
 
+**Staff of Boulders**, $4,800  
+Uses [Fort]. Produces a semireal rock to be fired at the foe  producing a force attack.  
+Contains the spell *Rockslide*.
+
 **Staff of Brightening**, $4,800  
 Uses [Inte]. Can produce a radiant attack.  
 Contains the spell *Flare*.
