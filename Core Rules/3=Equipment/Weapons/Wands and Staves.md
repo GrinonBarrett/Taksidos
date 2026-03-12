@@ -70,6 +70,9 @@ Uses [Will]. When used, a horrid scream can be heard- and its force is directed 
 **Wand of Whispers**, $1,800  
 Uses [Empy]. When used, the foe hears voices just quiet enough that it can't understand. This inflicts a psychic attack.
 
+**Wand of Wounds**, $1,800  
+Uses [Will]. When used, the foe's skin begins to crack as it is assault with near invisible beams of energy. This inflicts a necrotic attack.
+
 **Wand of the Wraith**, $1,800  
 Uses [Will]. When used, a dark shadow cries forth at a foe before enveloping them and disappearing. This inflicts a ki attack.
 
