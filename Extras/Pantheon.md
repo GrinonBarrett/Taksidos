@@ -6,13 +6,13 @@ Here are listed various deities of each pantheon.
 Meolasine deities are shared with outside cultures and are not exactly a trademark of the meolasine culture. Likewise, deities of other cultures may also see some tributes from the meolas peoples. This pantheon represents the core of deities which the state supports publicly.
 
 #### Akhrer
-A god of death, fermentation, and knowledge. A quadron of death and the patron deity of alchemists. Akhrer is also worshiped by makers of win, beer, and any distillate. It is said the Akhrer onced walked the lands making substances from whatever he could find and sharing it with the people. This brought beer, wine, spirits, and even alchemy to all- but also cursed us with poisons and death in the process. AS punishment, akhrer's role became that of an observant guide. He is not an uncommon alernative patron for clergy.
+A god of death, fermentation, and knowledge. A quadron of death and the patron deity of alchemists. Akhrer is also worshiped by makers of win, beer, and any distillate. It is said the Akhrer onced walked the lands making substances from whatever he could find and sharing it with the people. This brought beer, wine, spirits, and even alchemy to all- but also cursed us with poisons and death in the process. As punishment, akhrer's role became that of an observant guide. He is not an uncommon alernative patron for clergy.
 
 #### Breretha
 Goddess of life and harvest. She draws in each seed a plan for its growth that it may thrive just as intended. It is said that if one of your seeds grows into a different plant than expected, she has a plan for it. Some small temples have been errected at the sites of such plants and their attendants can be quite hospitable to adventurers. The most common of patron deities in the meolasine pantheon.
 
 #### Imuria
-Sower of clouds and warden against evil. She sows clouds into the very tapestry  of the sky that the might unfurl where needed. SHe made Zyclode's shield and set him about on his mission to ensure the rrains. Interestingly, the Korventennain have a similar goddess in their pantheon.
+Sower of clouds and warden against evil. She sows clouds into the very tapestry  of the sky that the might unfurl where needed. She made Zyclode's shield and set him about on his mission to ensure the rains. Interestingly, the Korventennain have a similar goddess in their pantheon.
 
 #### Othmazdo
 A god of life, death, and vengeance. He is one of the quadrons of the afterlife. He is a common patron for members of the military class.
@@ -54,7 +54,7 @@ Smith of the gods, he is responsible for the creation of many items. He does not
 Father of Zerun, among others, he is the passionate and charismatic father. His domain is knowledge and leadership, along with misery and burden.
 
 #### Xif
-The patron of soft femeninity and wife to Zerun. She is the the goddess of maternity, understaning, and teaching. She is also know as the beautiful goddess.
+The patron of soft femeninity and wife to Zerun. She is the the goddess of maternity, understaning, and teaching. She is also known as the beautiful goddess.
 
 #### Xrea
 The patron of hard femininity. She is a source of magic, a passionate warrior, and a tender lover. She is also known as the lonely goddess.
@@ -66,3 +66,24 @@ Daughter of Zerun. She is the one who reacts honestly and with full emotion.
 A god of protection, strength of character, forewardness, simple action, violence, lightning, and fury. Zerun's symbol is either an axe or a hammer depending on who you ask.
 
 -----
+
+## Wildhe
+A pantheon worshipped by the grandfolk and some other creatures in the western lands. Because of the variety of creatures (and thus cultures) which seem to have appropriated these gods, they may have some variance to the names or exact nature.
+
+#### Brezus, Lightbearer
+The god of the sun. He provides its light during the day for the mortal realm, but must withdraw it for the heavens. He presides over the afterlife, caring for those who died outside of battle, natural disaster, and poisoning.
+
+#### Dreathulus, Vile One
+Possessing the jaw and fangs of a snake and strikers in addition to his arms. He lives in still pools, swamp bogs, and deep mines. He is reviled by the gods, but his potential services are quite tempting. He has a habit of making deals with nasty impacts to the otherside. Those who die of poisoning find their soul in his clutch.
+
+#### Emurya, Cloudweaver
+The goddess that provudes rains, clouds, and the homes of the korventennain. She is the high lady of the skies and uses storms to affect the world for better or worse.
+
+#### Fralla, Ashsower
+The goddess of fire, destruction, rebirth, and fertillity. She presides over every birth and death by natural disaster. Her followers advicate for turning the worst circumstances into means of positive change. She is the lady of the earth and the one who inspired the name of the legendary sword.
+
+#### Mauthis, Tidesender
+The god who presides over the seas and travel. It is said he uses the oceans to serve for the heavens, soups and spirits. His ladling will cause tsunamis. He is not malicious, but rather dutiful. He is often absent in stories but can be reasonable at times. He is also quick to anger over insults and its is said that he will serve a soup of insultors of the gods as an offering to the other gods- so one must be respectful if setting out to sea.
+
+#### Nekaur, Warlord of the Stars
+A god who loves battle for the sake of battle. For himself, he sees it as an expression of cunning. For lesser mortal beings, he sees it as a test of mettle. He plays a game of war among the stars. Every star that ceases to shine is a game won or lost. His followers will proclaim his habit of ignoring pleads and in some instances, he will curse those that beg for his aide. Those that prove their capability beyond their peers with seek of favor or boon will find his favor.
