@@ -237,8 +237,43 @@ A war wizard of some renown in old texts. Little is known about him and the reco
 
 **Critical Failure**: You have imprisoned yourself for a number of rounds equal to the points of failure. This leaves you completely Immobile for a number of rounds equal to the points of failure. You still benefit from the spell's protection during this time.
 
-### Jinora (2
+### Jinora (3
 A diviner of astrological events. Their work is an important study for anyone seeking to provide prophetic capacities to their institution.
+
+#### Jinora's Detection
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You spend a few seconds to focus on the ambient natures of magic around you. This allows you to detect creatures affected by magic, creatures with the ability to cast spells, what creatures are currently casting spells, and the presence of a casmirian device or or a crassine device. You can also detect creatures and objects affected by the Empower spell. Such things must be within range.
+
+A critical success also provides the following:  
+* You can tell if the affect of magic on a creature is by their own feature, a spell, or an item in their possession.
+* If a creature is capable of casting spells, you know the exact feature it can use to cast spells (but not what spells it can cast or know).
+* If a creature is casting a spell, you know what tier the spell is.
+* If you detect an active casamirian device, you know the location of the other casmairian device it is currently operated (or operating) through.
+* If you detect a crassine device, you know what frequncy it is currently set to (positive, neutral, or negative) or if it is attuned at all.
+
+**At Higher Tiers**: When cast at 4th tier or higher, for each tier beyond minimum, the range is increased by half
+
+**Critical Failure**: You stun yourself, becoming dazed and prone for a number of rounds equal to the spell tier -1 and learning nothing of the local magic.
+
+#### Jinora's Forewarning
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 hours
+
+**Effect**: You spend the casting time meditating and practicing the use of some divination item and consulting the position of the stars. You learn of any impending celestial events, whether it be mundane (such as an eclipse) or supernatural event (such as the coming of a celestial entity) which is to occur in the next 4 days. You can also identify if there is a magic affecting the weather within a number of miles equal to the spell's tier.
+
+The actions of a few free willed individuals (such as player characters) and powerful magics can alter the future from what is orewarned. The day such a deviation occurs, the caster is notified if the spellcheck was a critical success.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the above noted benefit, you may choose to either halve the casting time or foresee an additional day into the future.
+
+**Critical Failure**: The reading is itself horribly wrong in such a manner as the narrator sees fit.
 
 #### Jinora's Meteor
 
@@ -254,19 +289,6 @@ A diviner of astrological events. Their work is an important study for anyone se
 
 **Critical Failure**: The meteor instead targets you. You swear you can see a panicked smile in the flames.
 
-#### Jinora's Forewarning
-
-**Minimum Tier**: 2
-
-**Casting Time**: 4 hours
-
-**Effect**: You spend the casting time meditating and practicing the use of some divination item and consulting the position of the stars. You learn of any impending celestial events, whether it be mundane (such as an eclipse) or supernatural event (such as the coming of a celestial entity) which is to occur in the next 4 days. You can also identify if there is a magic affecting the weather within a number of miles equal to the spell's tier.
-
-The actions of a few free willed individuals (such as player characters) and powerful magics can alter the future from what is orewarned. The day such a deviation occurs, the caster is notified if the spellcheck was a critical success.
-
-**At Higher Tiers**: For each tier beyond minimum, in addition to the above noted benefit, you may choose to either halve the casting time or foresee an additional day into the future.
-
-**Critical Failure**: The reading is itself horribly wrong in such a manner as the narrator sees fit.
 
 ### Kostas (3
 An alchemist and a master of conjury. His influence can be seen in many an chemister's treatise.
