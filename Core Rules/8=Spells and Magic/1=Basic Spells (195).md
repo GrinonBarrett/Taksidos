@@ -367,7 +367,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (11
+### C (12
 
 #### Call Lightning
 
@@ -508,6 +508,20 @@ This lasts until the end of the next round.
 * Increase the duration of the the spell by 1 round.
 
 **Critical Failure**: You fail to move anything and instead gain spell sickness equal to half (round down) of the spell. You also seem unbable to begin casting this spell again for a number of rounds equal to the spell's tier.
+
+#### Crassinism
+
+**Minimum Tier**: 3
+
+**Casting Time**: 6 actions
+
+**Effect**: You target either an object you can perceive or a cone extending out a number of feet equal to 6 + spell tier. Choose either positive, neutral, or negative. The target(s) are affected as though a properly attuned crassine charm had been set to the selected frequency.
+
+A critical success with the spellcheck allows you to attune it to your own charm if you have one in your possession. If you do, you may set it to a new frequency.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may reduce the casting time by 1 action (to a minimum of 1)
+
+**Critical Failure**: You casue some form of interference, inducing spell sickness equal to half (round down) of the spell's tier and preventing you from affecting any crassine charm attuned to you so long as you have spell sickness.
 
 #### Creeping Death
 
