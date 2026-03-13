@@ -57,4 +57,13 @@ DV 8
 **Effect**: Foxes will allows be 1 degree more hostile to the infected, unless they themselves are also infected. Additionally, every 1d10+7 days, they will experience a fit of seizures every 1d4 hours. This lessens their rest by one degree, causes their [Rflx] bonus to be treated as 0, their [Body] bonus to be treated as one-third, and a *13% chance to transform into a rabbid fox on the anniversary of their contracting the disease. This transformation functions identically to the Therianthrope template* (see the Creatures chapter).  
 **Notes**: Often, patient zero is bitten by a fox afflicted by a curse which affects the mind. It is also said that eating a fox could do this. A creature transformed by this disease which would qualify for damaging armor instead produces another point of exposure to the one bitten. A fox never experiences the typical symptoms of this disease and instead finds itself making irrational decisions more often.
 
-###### Recommended DV for something as simple as the common cold should be 4-6. Modern flu should be 7-9. Historicaly accurate flus should be in the 12-15 range. I need to add some proper diseases to the game.
+**Typhoid**  
+Mundane  
+**Means of Contagion**: Ingestion  
+DV 7  
+**Incubation**: 2d6+1d8 days  
+**Average Duration**: Until 5 total critical successes have been made on [Fort] saves (see below) or 3 consecutive days of critical successes (any number for the day)  
+**Effect**: caused by ingestion of humanoid waste, this disease attacks the fortitude and can cause rash and delirium among other effects.Once affected, a creature must succeed a [Fort] save with a DV of 10 each day or haver their [Fort] reduced by 1. They will ecpress a fever and bloody nose is common during this time. Beginning in the second week, the afflicted must also make a daily [Fort] save with a DV of 10 or receive a level of exhaustion at the beginning of the day. Beginning in the third week, the inflicted must also succeed a daily incapacitation save. A critical failure will not kill the creature, but instead reduce its maximum hitpoints by 1. If it has no further hitpoint capacity due to its maximum being reduced to 0, it can die as a result of the critical failure.
+**Notes**: This disease seems to only affect humanoids.
+
+###### Recommended DV for something as simple as the common cold should be 6-7. Modern flu should be 7-9. Historicaly accurate flus should be in the 11-14 range. I need to add some more proper diseases to the game.
