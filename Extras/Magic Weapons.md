@@ -213,6 +213,13 @@ Longsword
 A scimitar which only reaches 2 feet. It gains a +1 bonus for the purpose of determining critical hits. When attacking a foe, *if the foe's defense against fire attacks is lower than longsword, use its defense against fire*. It is always warm to the touch.  
 If the weapon's name is known, the user may *treat a critical hit with the weapon as though it were a fire attack*.
 
+**Fœtith** (*unique*)  
+$9,000 , 3.5 lbs.  
+Longsword  
+This blade is nothing extraordinary, and the hilt is slightly uncomrfortable to the touch and nose. When the user presses attack, *they may inflict a toxic or electric, as energy blasts from the blade*. The sword is cursed so that anytime a strike from it would qualify to damage armor, it will *inflict a toxic attack against both the foe and the user*.  
+If the name is known, the sword also functions as a staff for the spells Volt Switch and Vapors. If the sword is still cursed, a critical failure casting one of those spells *will inflict a toxic attack against the user*.  
+Removing the curse increases the value by about $3,000.
+
 **Frostfang**, (*unique*)  
 $6,300 , 1 lb.  
 Dagger  
@@ -244,7 +251,7 @@ Flail
 An item that has been occasionally found in the armory of ancient dungeons and often seen wielded by the ominous Frostlashed Knights. Both of the jagged heads of this flail seem to be made of an ice that never melts. Inflicts attacks like a morningstar, *but also inflicts the critical hit effect of a cold attack*. If it would ever qualify to damage armor, one of the heads will shatter, *inflicting a cold attack against that foe*. If one of the heads is missing, the attacks of this weapon suffer a -1 in the future. If the magic of this item is ever supressed, the heads will immediately melt.
 
 **Grim Raveler** (*unique*)  
-$6,000  
+$6,000, 6 lbs.
 Poleaxe  
 Technically, a scythe. This weapon inflicts attacks like a warpick. Upon a critical hit *the foe must perform an incapacitation save*. When performing a cleave attack, you may treat the attacks as cutting attacks if you have at least proficiency with poleaxes or spears.
 
