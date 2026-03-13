@@ -545,3 +545,9 @@ $1,300 , 2 lbs.
 Club  
 A well designed club made of altyprium. It's slender profile can be deceiving.  
 Upon inflicting a critical hit, *also inflicts a force critical hit effect*. If the user has warrior mastery with clubs, it does not have disadvantage on follow up attacks made with this weapon.
+
+**Zyclod's Javelin** (*unique*)  
+$2,500,000 , 7 lbs.  
+Javelin (large)  
+Composed of an eternal lightning boltning bolt, this item will inflict an electrical attack against any creature in contact with it at the end of each phase. Anytime an attack would be made with it, it instead inflicts an electric attack and a piercing attack. A creature applies their heroism to attack rolls made with the weapon for the purpose of inflicting a critical hit. If an attack would qualify to damage armor, *it inflicts an electric attack against each other creature with a number of yards equal to the attack roll result*.  
+If name is known (the narrator decides its name), *it can be returned to the user's hand by using their reaction*.
