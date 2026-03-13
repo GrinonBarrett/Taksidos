@@ -237,7 +237,7 @@ A war wizard of some renown in old texts. Little is known about him and the reco
 
 **Critical Failure**: You have imprisoned yourself for a number of rounds equal to the points of failure. This leaves you completely Immobile for a number of rounds equal to the points of failure. You still benefit from the spell's protection during this time.
 
-### Jinora (1
+### Jinora (2
 A diviner of astrological events. Their work is an important study for anyone seeking to provide prophetic capacities to their institution.
 
 #### Jinora's Meteor
@@ -253,6 +253,20 @@ A diviner of astrological events. Their work is an important study for anyone se
 **At Higher Tiers**: For each tier beyond minimum, the range is doubled and you grant either the Force attack or initial Fire attack a +1 bonus.
 
 **Critical Failure**: The meteor instead targets you. You swear you can see a panicked smile in the flames.
+
+#### Jinora's Forewarning
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 hours
+
+**Effect**: You spend the casting time meditating and practicing the use of some divination item and consulting the position of the stars. You learn of any impending celestial events, whether it be mundane (such as an eclipse) or supernatural event (such as the coming of a celestial entity) which is to occur in the next 4 days. You can also identify if there is a magic affecting the weather within a number of miles equal to the spell's tier.
+
+The actions of a few free willed individuals (such as player characters) and powerful magics can alter the future from what is orewarned. The day such a deviation occurs, the caster is notified if the spellcheck was a critical success.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the above noted benefit, you may choose to either halve the casting time or foresee an additional day into the future.
+
+**Critical Failure**: The reading is itself horribly wrong in such a manner as the narrator sees fit.
 
 ### Kostas (3
 An alchemist and a master of conjury. His influence can be seen in many an chemister's treatise.
