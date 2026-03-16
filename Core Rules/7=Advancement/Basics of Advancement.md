@@ -18,6 +18,7 @@ Level Experience Total
   10 =	99 (level 9 + 19)  
 
 If the character has the Quick Study feature, they use the following instead;
+
 Level	Experience Total  
   2 =	3  
   3 =	6  
