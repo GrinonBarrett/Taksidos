@@ -32,7 +32,8 @@ When attempting to use stealth, you may use your reaction to roll a d4 and reduc
 
 **Somatic Components**, 2 items  
 You can perform gestures to grant you a bonus to your spell check. You gain a d4+X bonus to your spell check, where X is the spell tier. When wearing Gambeson armor, this is reduced to 1d4. In other armor, you gain only a +1 bonus.  
-You cannot use equipment in your hands when casting a spell with somatic components, save for a tome you may be using as reference to the spell, nor can you benefit from this if you are in anyway bound or restrained.
+You cannot use equipment in your hands when casting a spell with somatic components, save for a tome you may be using as reference to the spell, nor can you benefit from this if you are in anyway bound or restrained.  
+If you have initiated this within reach of another's melee attack range, you provoke an attack of opportunity from that creature if they choose to expens their reaction.
 
 **Spin Strikes**, 1 item  
 If you inflict a critical hit with your cleave and are not prone or vulnerable, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
@@ -41,7 +42,7 @@ If you inflict a critical hit with your cleave and are not prone or vulnerable, 
 Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus for the purpose of determining a critical hit. This does not apply against foes in Plate Armor.
 
 **Traditional Fighting**, 1 item  
-You gain a +1 bonus to melee attacks for the purpose of inflicting critical hits.
+You gain a +1 bonus to melee attacks for the purpose of inflicting critical hits. If your attack roll result is a 20, this is a +2 instead.
 
 **Vigilance**, 1 item  
 When rolling for initiative, roll an additional d6 and add it to your result. Additionally, so long as another chit has yet to be claimed, another creature cannot assign you a chit normally unless you allow it.
@@ -50,4 +51,4 @@ When rolling for initiative, roll an additional d6 and add it to your result. Ad
 Anytime you would roll an attack roll as the result of one of your spells, you may gain a +1 bonus to that roll.
 
 **Zen Archery**, 1 item  
-When you perform a ranged attack, if you are not concentrating on anything else, you gain a +1 bonus to the attack and an additional +1 for the purpose of inflicting a critical hit.
+When you perform a ranged attack, if you are not concentrating on anything else, you gain a +1 bonus to the attack and an additional +1 for the purpose of inflicting a critical hit. You cannot fo so more than once per round.
