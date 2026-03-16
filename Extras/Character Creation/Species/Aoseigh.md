@@ -1,5 +1,5 @@
 ## Aoseigh
-Elves which choose to live beyond the reach of manfolk, in the woods and caves. Occasionally, one will find the impulse to adventure. The plural is Aosith. Aoseigh characters get the following features;
+Fair folk which choose to live beyond the reach of manfolk, in the woods and caves. Occasionally, one will find the impulse to adventure. The plural is Aosith. Aoseigh characters get the following features;
 
 **Creature Type**: Aosith are sylvan.
 
