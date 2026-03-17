@@ -19,7 +19,7 @@ Choose two attributes. Each are increased by 1.
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
-**Unarmed Attacks**: When your unarmed attack inflicts a critical hit, you may treat it as a fire attack. If a foe is vulnerable, you may treat your unarmed attack as being a fire attack.
+**Unarmed Attacks**: When your unarmed attack inflicts a critical hit, you may treat it as a fire attack. If a foe is vulnerable, or you have advantage on your unarmed attack, you may treat your unarmed attack as being a fire attack.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
