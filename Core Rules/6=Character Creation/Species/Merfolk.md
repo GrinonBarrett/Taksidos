@@ -48,7 +48,21 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Merfolk Form**: Armor suitable for a merfolk must be fashioned for that form specifically. This does not increase cost or weight, thoubutgh most armor is made of materials unsuitbale for the aquatic environments that they occupy.
 
-**Advantaged**: You gain one Edge of your choice (see Rogue class).
-
 **Waterborne**: You are treated as proficient in Athletics while submerged. If you become proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  
 Once per encounter, when performing a [Body] or [Rflx] save while underwater- you gain advantage on that check/save.
+
+**Advantaged**: You gain one feature from the following. Once this decision is made, it cannot be undone. Alternatively, you may simply choose an Edge offered by the Rogue class (see the Extra folder).
+
+• **Adept**. Select a skill, Anytime you use that skill to perform a check (whether you are proficient or not), you gain a +2 bonus to that check. You may select this multiple times, choosing a new skill each time.
+
+• **Magic Resistance**. Anytime you roll a save against a magical effect, you gain a 1d6 bonus. This is cumulative with similarly named features one has acquired from their species.
+
+• **Student of War**. You gain training in two weapons of your choice or specialization in a weapon of your choice. 
+
+• **Swole**. Your hitpoints increase by 1.
+
+• **Tongue and Cheek**. Select two languages. You learn both instantly. This does not count against your items learned.
+
+• **Wiz**. The time required to learn a new spell for you is halved. This is cumulative with other features.
+
+• **Wizardry**. The bonus to spell checks you gain from staves for spells you know is increased by 1. When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack. 
