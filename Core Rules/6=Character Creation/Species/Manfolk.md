@@ -46,6 +46,20 @@ Representing mankind and several functionally similar species. Manfolk are the m
 
 **Some Education**: You gain proficiency in two skills of your choice.
 
-**Advantaged**: You gain one Edge of your choice (see Rogue class).
-
 **Versatility**: When you perform a skill check with a skill you are not proficient with, if you do not have advantage or disadvantage, you may choose to grant yourself advantage on that roll. You must complete a full rest before doing so again.
+
+**Advantaged**: You gain one feature from the following. Once this decision is made, it cannot be undone. Alternatively, you may simply choose an Edge offered by the Rogue class (see the Extra folder).
+
+• **Adept**. Select a skill, Anytime you use that skill to perform a check (whether you are proficient or not), you gain a +2 bonus to that check. You may select this multiple times, choosing a new skill each time.
+
+• **Magic Resistance**. Anytime you roll a save against a magical effect, you gain a 1d6 bonus. This is cumulative with similarly named features one has acquired from their species.
+
+• **Student of War**. You gain training in two weapons of your choice or specialization in a weapon of your choice. 
+
+• **Swole**. Your hitpoints increase by 1.
+
+• **Tongue and Cheek**. Select two languages. You learn both instantly. This does not count against your items learned.
+
+• **Wiz**. The time required to learn a new spell for you is halved. This is cumulative with other features.
+
+• **Wizardry**. The bonus to spell checks you gain from staves for spells you know is increased by 1. When you perform an attack with a wand, staff, or spell, you may use your reaction to gain a +1 bonus to that attack. 
