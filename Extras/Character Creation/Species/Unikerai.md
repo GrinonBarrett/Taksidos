@@ -41,15 +41,15 @@ A variety of unicorns, the unikeroi are a noble race known for aiding just and p
 
 ### Special Features
 
-**Unikeroi Porificiency**: You gain proficiency in two Zoology skills of your choice. You also gain proficiency in Animal Empathy.
+**Unikeroi Porificiency**: You gain proficiency in two Zoology skills of your choice. You also gain proficiency in either Animal Empathy, Spellcraft, or Lore (your choice).
 
-**Equine Form**: Armor must be made especially for an unikeroi. Any variant of armor which is to be fit for an unikeroi costs thrice as much and weighs double what it would typically. 
+**Equine Form**: Armor must be made especially for an unikeroi. Any variant of armor which is to be fit for an unikeroi costs thrice as much and weighs double what it would typically.  It can wear tack and saddle intended for a horse of similar size.
 
 **Hooves**: Unikeroi cannot use most equipment unless it specifies it can be used by an Unikerai. The Unikerai tramples, as though it were a mount, in place of brawling.
 
-**Carrying Capacity**: An unikeroi's weight load capacity is thrice that of a normal character.
+**Carrying Capacity**: An unikerai's weight load capacity is thrice that of a normal character.
 
-**Impalement**: Anytime you would perform an attack of opportunity with an unarmed attack or you would perform a counter attack, you may have it treated as a Piercing attack so long as you are not prone or restrained. You may also use your horn as a lance, treating your own movement as that of a mount's. If you do, and the attack is not a critical success- you are dazed until the end of the next round by the impact. Additionally, if the attack was not successful, you are vulnerable during that time. Such an attack is piercing and unarmed.
+**Impalement**: Anytime you would perform an attack of opportunity with an unarmed attack or you would perform a counter attack, you may have it treated as a Piercing attack so long as you are not prone or restrained. You may also use your horn as a lance, treating your own movement as that of a mount's and adding a number of yards to the effective total equal to your heroism (this cannot bonus exceed actual yards moved however). If you do, and the attack is not a critical success- you are dazed until the end of the next round by the impact. Additionally, if the attack was not successful, you are vulnerable during that time. Such an attack is piercing and unarmed.
 
 **Unikeroi Magic**: An unikerai has innate magical abilities. It has a pool magic points, whose maximum is equal to its level. A long rest recovers a single point. A full rest recovers 2 points. The following features are available and each considered magical effects.
 
@@ -59,7 +59,7 @@ The unikerai recites an inaudible magic word to another creature within 5 yards 
 • **Glow**. Costs 1 point.  
 The unikerai’s horn emits light like a torch. This will last for up to a number of minutes equal to the unikeroi’s [Will]. The unikeroi may use this ability again while it is active to extend the duration appropriately. It may choose to end this ability at will.  
 
-• **Spark of Light**. 3 points.  
+• **Spark of Light**. 2 points.  
 The unikerai hurls a beam or shape of light from its horn towards a target instantly. This functions as a wand attack using the unikerai’s [Will]. It is a radiant attack.  
 
 • **Curative Touch**. Costs 4 points.  
