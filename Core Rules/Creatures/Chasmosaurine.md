@@ -26,7 +26,9 @@ Representing a number of similar creatures, chasmosaurines are large herbivore w
 
  • Smash: The chasmosaurine may use any part of its body to strike a foe within .5 yard. This is a melee bare attack.
 
- • Gore: The kentrosaurus may us its tail against any creature behind or among one of two its sides within 2 yards. This is treated as either a melee bare attack or melee piercing attack.
+ • Gore: The chasmosaurine may use its horns to gore a foe withi 1 yard. This is a melee piercing attack.
+
+ • Bite: The chasmosaurine may bite a foe within 1 foot. It inflicts a melee bite attack with a +1 bonus when it does so.
 
 -----
 
@@ -34,21 +36,21 @@ Representing a number of similar creatures, chasmosaurines are large herbivore w
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
-| **Club**                | 21   | **Pole Axe** | 13     | **Arrow, Bodkin Point**    | 16    |
-| **Longsword**              | 14     | **Greatsword** | 13     | **Arrow, Broadhead**       | 15    |
-| **Mace**                   | 15    | **Maul** | 14     | **Bolt** | 15    |
-| **Spear**                  | 14     | **Pike** | 13     | **Brusgiata** | 17     |  |     |
-| **Hand Axe**               | 15     | **Madu** | 16     | **Chakram** | 17    |
-| **Katar**                  | 15     | **Javelin** | 14    | **Arquebus** | 12    |
-| **Dagger**                 | 18     | **Throwing Blade** |19    | **Musket** | 11    |
-| **Morningstar**            | 15     | **Sling** | 20    | **Tronutonante** | 14    |
-| **Warpick**                | 15     |  |  |  **Bare** |   22  |
+| **Club**                  | 21      | **Pole Axe**        | 14    | **Arrow, Bodkin Point**    | 16    |
+| **Longsword**              | 15     | **Greatsword**      | 14    | **Arrow, Broadhead**       | 15    |
+| **Mace**                   | 15     | **Maul**            | 14    | **Bolt** | 15    |
+| **Spear**                  | 14     | **Pike**            | 14    | **Brusgiata** | 16     |  |     |
+| **Hand Axe**               | 15     | **Madu**            | 16    | **Chakram** | 17    |
+| **Katar**                  | 15     | **Javelin**         | 15    | **Arquebus** | 13    |
+| **Dagger**                 | 18     | **Throwing Blade**  | 19    | **Musket** | 12    |
+| **Morningstar**            | 15     | **Sling**           | 20    | **Tronutonante** | 15    |
+| **Warpick**                | 15     |             |               |  **Bare** |   23  |
 |                        |           |          |            |         |            |
-| **Acid**                   | 11     | **Fire** | 14     | **Psychic** | 15     |
-| **Cold**                   | 14     | **Force** | 15     | **Toxic**  | 14     |
-| **Crushing**               | 15     | **Ki** | 16     | **Radiant** | 16     |
-| **Cutting**                | 13     | **Necrotic** | 13     | **Sonic** | 15    |
-| **Electrical**             | 14     | **Piercing** | 14     | **Biting** | 13    |
+| **Acid**                   | 11     | **Fire**     | 13     | **Psychic** | 14     |
+| **Cold**                   | 13     | **Force**    | 15     | **Toxic**  | 13     |
+| **Crushing**               | 15     | **Ki**       | 15     | **Radiant** | 16     |
+| **Cutting**                | 14     | **Necrotic** | 12     | **Sonic** | 15    |
+| **Electrical**             | 13     | **Piercing** | 15     | **Biting** | 14    |
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 14 |    |     | **Undamaging** | 14 |
 
@@ -65,7 +67,7 @@ Representing a number of similar creatures, chasmosaurines are large herbivore w
 |   8    | Glancing Blow     | No ill effects _this time_.                                     |
 |   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Glancing Blow     | No ill effect. |
-|   11   | Knock Down        | Make a [Body] save against the attack result or be knocked prone. |
+|   11   | Broken Frill      | **Biased Wound**. The Chasmosaurine no longer benefits from its Frill Shield feature. |
 |   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
 |   13   | Glancing Blow     | **Biased wound**. No ill effect. |
 |   14   | Flesh Wound       | Attacks made against it until the end of the enounter get a +1 bonus. |
@@ -79,7 +81,6 @@ Representing a number of similar creatures, chasmosaurines are large herbivore w
 
 -----
 
-**Thagomizer Precision**: Presuming it is not prone, if a kentrosaurus strikes a foe with its Thagomizer attack, it may use its reaction to inflict an additional piercing attack against the foe.
+**Frill SHield**: The chasmosaurine gets a +1 bonus to attack made against it from its front direction. If an attack would qualify to damage armor against the chasmosaurine, it instead accrues the Broken Frill wound.
 
-**Spiked Defense**: If a melee attack is made against the kentrosaurus within 1 yard of the kentrosaurus, it may use its reaction to inflict a piercing attack against that creature. If foe's attack was a critical failure, it gains advantage on its attack.  
-Additionally, a creature of equal or greater size which attempts to brawl or trample the kentrosaurus is subject to a piercing attack.
+**Goring Charge**: If the chasmosaurine has performed a movement which would cause contact with a foe, it may use its reaction to inflict a piercing unarmed attack against that foe. This attack gains a bonus equal to the number of yards it has moved in a straight line since it last performed an action. If the attack is successful, it may then choose to slam or shove the foe as as though it brawled. If the attack qualified to damage armor or was a critical hit, a Gore attack is also inflicted against the foe (no bonus from movement). If the chasmosaurine had remaining movement allowed from its mode of movement and the attack was successful, it may complete its move (trampling or brawling as appropriate).
