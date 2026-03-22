@@ -81,6 +81,6 @@ Representing a number of similar creatures, chasmosaurines are large herbivore w
 
 -----
 
-**Frill SHield**: The chasmosaurine gets a +1 bonus to attack made against it from its front direction. If an attack would qualify to damage armor against the chasmosaurine, it instead accrues the Broken Frill wound.
+**Frill Shield**: The chasmosaurine gets a +1 bonus to attack made against it from its front direction. If an attack would qualify to damage armor against the chasmosaurine, it instead accrues the Broken Frill wound.
 
 **Goring Charge**: If the chasmosaurine has performed a movement which would cause contact with a foe, it may use its reaction to inflict a piercing unarmed attack against that foe. This attack gains a bonus equal to the number of yards it has moved in a straight line since it last performed an action. If the attack is successful, it may then choose to slam or shove the foe as as though it brawled. If the attack qualified to damage armor or was a critical hit, a Gore attack is also inflicted against the foe (no bonus from movement). If the chasmosaurine had remaining movement allowed from its mode of movement and the attack was successful, it may complete its move (trampling or brawling as appropriate).
