@@ -1,4 +1,4 @@
-## Garguilar
+## GARGUILAR
 Nobles who broke an oath made to steward over a domain, they have been made into monsters whose very nature compulses them to protective service. Their skin appears to be colored as some sort of stone (sometimes semiprecious stone even) and their wings are like velvet in a pattern inspired by their taste in fashion when they were cursed. The plural is Garguilain. Garguilar characters get the following features;
 
 **Creature Type**: Garguilain are Monsters.

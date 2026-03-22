@@ -1,27 +1,19 @@
-## IPTEMENOI
-Iptemenoi resemble large insects- something related to wasps and bees. They have a habit of bonding well with others despite having what many might consider a repulsive appearance. The singular is iptemenai. Iptemenoi characters get the following features;
+## Aoseigh
+Fair folk which choose to live beyond the reach of manfolk, in the woods and caves. Occasionally, one will find the impulse to adventure. The plural is Aosith. Aoseigh characters get the following features;
 
-**Creature Type**: Iptemenoi are insects.
+**Creature Type**: Aosith are sylvan.
 
-**Size**: Iptemenoi stand between 10" - 1'8" tall and are equal in length. They can weigh between 22-39 pounds. They are small creatures.
+**Size**: Aosith stand between 5" to 6'4" tall. They can weigh between 110-200 pounds. They are medium creatures.
 
-**Ability Score Modification**: As an Iptemenai, you have the following adjustments to your attributes  
--1 [Body]  
-+1 [Rflx]  
-+2 [Empy]  
-Choose an attribute. It is increased by 1.
+**Ability Score Modification**: Choose an attribute. It is increased by a +1.
 
-**Languages**: You gain competency in the Common Tongue and one other language of your choice.
+**Languages**: You gain competency in the Common Tongue and the Wild Tongue.
 
-**Run Speed**: You may run up to 2 yards per move.
+**Run Speed**: You may run up to 5.5 yards per move.
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
-
-**Fly speed**: You can fly at a speed of 6 yards per move. You must fly at least 3 yards per round to remain airborne.
-
-**Unarmed Attacks**: Your unarmed attacks have a range of one foot.
+**Swim speed**: You may swim up to 1.5 yards per move, presuming the water isn’t too rough.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -33,7 +25,7 @@ Choose an attribute. It is increased by 1.
 |   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
-|   8    | Glancing Blow     | No ill effects.                                     |
+|   8    | System Shock      | Until this wound is healed, you cannot benefit from your Innate Magica or Magical Resistance features. |
 |   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
@@ -48,22 +40,12 @@ Choose an attribute. It is increased by 1.
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
---------
-
 ### Special Features
 
-**Some Education**: You gain proficiency in two skills of your choice.
+**Many Years of Experience**: You gain proficiency in a skill of your choice. Choose a spell with a minimum tier of 1 or 2, you learn the selected spell.
 
-**Meagre Apetite**: You require half as much food and water as a normal adventurer.
+**Innate Magica**: When performing a wyrding and not benefitting from an attribute bonus to your spell check, you may grant yourself advantage on that spell check. You must complete a full rest before doing so again. You gain a +1 to all spell checks.
 
-**No Hands**: Unless otherwise noted, iptemeneoi cannot use equipment.
+**Magical Resistance**: Anytime you would perform a save against a magical effect, you roll 1d8 and add it to your result.
 
-**Odd Form**: Armor must be made especially for an iptemenai. Any variant of armor which is to be fit for an iptemenai weighs half as much. The cost of the armor, despite requiring less material, is the same as armor for a standard form.  
-
-**Physical Alacrity**: Once per encounter, you may grant yourself a bonus to an Athletics check or save equal to your level.
-
-**Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your stinger. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
-
-**Venom**: When you successfully attack with your stinger, you may choose to inject venom into the struck creature. If you do, it must succeed a [Fort] save or lose 1 hitpoint. At the end of each round, for a number of rounds equal to your level, a new save must be made or the creature will lose another hitpoint. Once the venom has been injected, you cannot produce enough to do so again until you complete a long or full rest.  
-THe DV of the save is equal to double your level.  
-You are immune to the venom of another iptemenoi.
+**Infravision**: Aosith have a limited ability to see infrared emissions. They can see a typical warm blooded creature up to 45 yards away in this manner, or see through 4 inches of soft material if the source of heat is pressed against the other side of an obstacle. Any visible light will negate this feature.

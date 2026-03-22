@@ -1,21 +1,27 @@
-## MYRATHIRIN
-Sentient arachnids which have played a prominent role in the Meolasine Empire, the myrathirin have a few advantages. They are known for their speed and climbing ability. They lack manipulators on their hands, thus are known for being less capable with certain tasks. They do have fairly powerful innate psychic abilities compared to other creatures. Their telepathy typically leads them to xenophobia as they find themselves more easily capable of utilizing it with others of their kind, though it does not completely replace speech in their communities. Myrathirin characters get the following features;
+## IPTEMENOI
+Iptemenoi resemble large insects- something related to wasps and bees. They have a habit of bonding well with others despite having what many might consider a repulsive appearance. The singular is iptemenai. Iptemenoi characters get the following features;
 
-**Creature Type**: Myrathirin are insects.
+**Creature Type**: Iptemenoi are insects.
 
-**Size**: Myrthirin stand between 3'4"-4'2" tall. They can weigh between 44-55 pounds. They are medium creatures.
+**Size**: Iptemenoi stand between 10" - 1'8" tall and are equal in length. They can weigh between 22-39 pounds. They are small creatures.
 
-**Ability Score Modification**: As a myrathirin character, you have the following changes to your attributes  
--1 [Empy]  
-Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not already chosen. They are increased by 1 each.
+**Ability Score Modification**: As an Iptemenai, you have the following adjustments to your attributes  
+-1 [Body]  
++1 [Rflx]  
++2 [Empy]  
+Choose an attribute. It is increased by 1.
 
-**Languages**: You gain competency in the Common Tongue, Fithirin, and Meolas languages.
+**Languages**: You gain competency in the Common Tongue and one other language of your choice.
 
-**Run Speed**: You may run up to 4 yards per move.
+**Run Speed**: You may run up to 2 yards per move.
 
-**Climb Speed**: You may climb up to 4 yard per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
 **Swim speed**: You may swim up to .5 yard per move, presuming the water isn’t too rough.
+
+**Fly speed**: You can fly at a speed of 6 yards per move. You must fly at least 3 yards per round to remain airborne.
+
+**Unarmed Attacks**: Your unarmed attacks have a range of one foot.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -28,7 +34,7 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
-|   9    | Psionic Shock     | Your Mild Telepathy and Mind Spike features do not function until the end of the round. Until this wound is healed, you Mild Telepathy's range is halved. |
+|   9    | Muscle Damage     | You have a -2 to all [Body] checks and saves until this wound is healed. |
 |   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
 |   11   | Knock Down | Make a [Body] save against the attack result  or be knocked prone. |
 |   12   | Concussion | You suffer a -2 penalty to saves until the end of the next round. All attacks made against you gain a +1 bonus during this time. Until this wound is healed, you suffer a -1 penalty to all [Inte] and [Will] checks and saves. |
@@ -42,17 +48,22 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 |   20   | Defender's choice |                                   |
 |        |                                                |                                   |
 
+--------
+
 ### Special Features
 
-**Some Education**: You gain proficiency in a skill of your choice.
+**Some Education**: You gain proficiency in two skills of your choice.
 
-**Arachnid Form**: Myrathirin cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by half.
+**Meagre Apetite**: You require half as much food and water as a normal adventurer.
 
-**Strikers**: Myrathirin do not have manipulators (hands) on the end of their limbs, instead they end in points (known as strikers). This prevents them from using equipment unless it specifically states it can be used by myrathirin. This also grants them an alternative to their standard unarmed attack which is treated as a piercing attack with a range of .5 yard.
+**No Hands**: Unless otherwise noted, iptemeneoi cannot use equipment.
 
-**Mild Telepathy**: A myrathirin can convey a single sentence of information during each phase. This has a range of 5 yards. If communicating with another Myrathirin, the range is increased by a number of yards equal to the lowest of either’s [Inte] score.
+**Odd Form**: Armor must be made especially for an iptemenai. Any variant of armor which is to be fit for an iptemenai weighs half as much. The cost of the armor, despite requiring less material, is the same as armor for a standard form.  
 
-**Mind Spike**: Once per encounter, a myrathirin may unleash a spike of psychic energy. It must choose to use [Will] or [Inte] when using this. The myrathirin targets a creature it is aware of within a number of feet equal to the chosen attribute. The target must succeed an opposed check of the selected ability score or be knocked back a number of feet equal to double the points of failure. If the myrathirin’s ability score is higher, the target is also knocked prone on a failure.  
-The myrathirin receives a level of exhaustion when it uses this feature.
+**Physical Alacrity**: Once per encounter, you may grant yourself a bonus to an Athletics check or save equal to your level.
 
-**Psychoresistance**: A myrathirin's defense against psychic attacks can never be lower than their heroism.
+**Stinger**: As an additional option when you achieve a critical success while brawling, you may strike the foe with your stinger. This is a piercing attack. You may also perform such an attack against a foe within 1 foot as a reaction.
+
+**Venom**: When you successfully attack with your stinger, you may choose to inject venom into the struck creature. If you do, it must succeed a [Fort] save or lose 1 hitpoint. At the end of each round, for a number of rounds equal to your level, a new save must be made or the creature will lose another hitpoint. Once the venom has been injected, you cannot produce enough to do so again until you complete a long or full rest.  
+The DV of the save is equal to double your level.  
+You are immune to the venom of another iptemenoi.
