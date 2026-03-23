@@ -26,17 +26,17 @@ When you perform a counterspell check, you may add your [Body] bonus.
 ### Ki Blast
 You are capable of producing a burst of energy which can be propelled at a foe using your ki, by spending a single ki point as an action. This is a ranged Ki attack. It has a total range extending a number of yards equal to your [Body] plus your [Will].
 
-You may also treat a single ki blast as though it were a thrown weapon attack with a total range in feet equal to your [Body] score. This means it can be used for attacks of opportunity.
+You may also treat a single ki blast as though it were a thrown weapon attack with a total range in feet equal to your [Body] score. This means it can be used for attacks of opportunity. The foe does not gain the usual bonus to defense against a thrown weapon attack of opportunity this way.
 
 ### Ki Step
-You may spend at least 2 points of ki to instantly move up to a number of yards equal to the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you- bit have disadvantage.
+You may spend at least 2 points of ki to instantly move up to a number of yards equal to the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you can stil be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you- but have disadvantage.
 
 ### Super Techniques
 You are capable of learning special techniques which harness your ki in more powerful ways. You may learn a total number of super techniques equal to your heroism.
 
 ### 2) Empowered Strikes
 When you perform a melee attack, you may spend 1 point of ki to gain a +1 bonus to that attack. If it was not a wand or staff attack (except a staff being treated as a club), you may choose to have that attack become a ki attack by spending an additional ki point.  
-You may treat your ki attacks from Evoler features as being magical.
+You may treat your ki attacks from Evoker features as being magical.
 
 ### 2) Step Dash
 Once per round as an action, if you performed a Ki Step during the previous phase, you may perform a movement.
