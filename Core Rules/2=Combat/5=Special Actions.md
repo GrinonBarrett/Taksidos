@@ -15,7 +15,8 @@ You perform an attack with an equipped weapon you are capable of attacking with 
 
 #### Attack of Opportunity
 Reaction  
-When a combatant enters or exits the range of your melee weapon (or unarmed attack), you may make a melee attack against them as appropriate.
+When a combatant enters or exits the range of your melee weapon (or unarmed attack), you may make a melee attack against them as appropriate.  
+You may also attempt to use a thrown weapon this way.
 
 #### Beat
 Action or Reaction  
