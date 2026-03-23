@@ -94,7 +94,7 @@ Unless otherwise mentioned, all ranged attacks from super techniques are conside
 The user spends at least 5 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way -1. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as one of the following (bare, cutting, crushing, force, ki, piercing, psychic, or sonic). The final attack gains a bonus equal to the ki spent this way for the purpose of inflicting a critical hit.
 
 **Apex Push**  
-The evoker uses their reaction to spend at least 1 ki point in respone to coming contact with a foe which would result in a brawl or trample. Before the brawl/trample occurs, that foe is knocked back a number of yards equal to the ki spent on this technique.
+The evoker uses their reaction to spend at least 1 ki point in response to coming contact with a foe which would result in a brawl or trample. Before the brawl/trample occurs, that foe is knocked back a number of yards equal to the ki spent on this technique.
 
 **Bold Blast**  
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
