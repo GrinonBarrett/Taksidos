@@ -126,7 +126,7 @@ The user spends at least 6 ki as an action to perform a movement, then hurl a nu
 The user spends 3 ki points to perform a *magical* unarmed attack. If the attack is successful, a necrotic attack is also inflicted against the foe with a bonus equal to the user's remaining ki for the purpose of determining a critical hit.
 
 **Dragon Fist**  
-The user spends 3 ki as an action to perform a movement and then inflict a melee ki attack against a foe within range.
+The user spends 3 ki as an action to perform a movement and then inflict a melee unarmed attack against a foe within range, with the attack type changed to ki.
 
 **Evil Blast**  
 The user expends 10 ki to *fire a single magical ki blast against a foe* as an action. If it is successful, it will then inflict 10 total additional attacks. The user declares which type each attack is from the following (cold, cutting, crushing, electric, fire, force, ki, necrotic, piercing, psychic). Afterwards, the foe is knocked back Xd4 feet, where X is the number of total successful attacks inflicted by this technique.
