@@ -1785,7 +1785,7 @@ If the spellcheck is a critical success, you know the precise location of the so
 
 **Critical Failure**: You instead feel some of the pain, making you vulnerable until the end of the round.
 
-### L (6
+### L (7
 
 #### Lafiancy
 
@@ -1855,6 +1855,27 @@ Length required for each size category;
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may choose to either increase the range by 1 yard or the DV of the [Rflx] save by 1.
 
 **Critical Failure**: The rope binds you. This functions identically to a critical failure on the save, except you cannot leave the bindings under your own power for a number of rounds equal to the points of failure.
+
+#### Lashing Grasp
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature beginning its movement within range
+
+**Range**: 3 yards
+
+**Effect**: Choose an exotic damage type. You produce a tether of magical energy which lashes out against the target. It inflicts a sling attack. If the attack would qualify to damage armor, it instead grapples that foe for as long as you concentrate on the spell (or until the grapple is broken). Additionally, if the attack is a critical hit or qualifies to damage armor, it applies the critical hit effect of the chosen damage type.
+
+A critical success with the spell check allows you to choose not to inflict a wound with the atttack roll. If so, you may choose to grapple that foe (per the spell's fescription) or knock it prone.
+
+**At Higher Tiers**: Each tier beyond minimum affords you one of the following;
+
+* the attack ga8ns a +1 bonus
+* the attack gains a +2 bonus for the purpose of inflicting a critical hit
+* increase the range by 1 yard
+
+**Critical Failure**: You find the tether attempts to harm you instead of functioning properly. It inflicts an attack of the chosen type against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. If the attack would qualify to damage your armor, it instead knocks you prone.
+
 
 #### Lava Axe
 
@@ -1994,7 +2015,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **Critical Failure**: You hurl the bolts of light, and as they scatter, the redirect themselves against you. Any combined missiles remain so. Each missile is staggered, with only one attacking each phase until each has had its turn (you may determine the order in which they attack you).
 
-[Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to be a misunderstanding, so the Flare spell is also to be made."
+[Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to be a misunderstanding, so the Flare spell was also made."
 
 #### Molten Form
 
