@@ -20,6 +20,15 @@ A copy of a tome written by Hu'Althur of the Sanctorum on those spells he though
 * Unmaking Aura, 5th
 * Voluntariance, 2nd
 
+**Macabre Manual**  
+$11,000, 6 lbs  
+A more intensive study of a grimoire. This tome includes knowledge of taboo magicas and the undead. If using the Grimoire as a reference for Spellcraft or Zoology (undead) checks, it grants a +1 bonus . This grimoire contains the following spells at the indicated tiers;  
+* Abolish Abomination, 3rd
+* Animation, 3rd
+* Defiling Detonation, 3rd
+* Enkephalophagy, 3rd
+* Jaunt Macabre, 3rd
+
 **On Fighting with Ice**  
 $10,000, 3.5 lbs.  
 A treatise on the hazards of military campaigns in arctic conditions. Its not a great reference for learning spells, but it can provide a +1 bonus to Survival checks involving arctic environments if used as a reference. This grimoire contains the following spells at the indicated tiers;  
