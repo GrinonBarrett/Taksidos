@@ -128,6 +128,11 @@ Unique
 It appears to be a garden shovel, of the hand trowel sort, though the handle is in line with its blade.  
 *If name is known, the user may pull out or retract the handle as appropriate by using an action or reaction to convert it into one of a number of forms. It can become a dagger, thrown blade, javelin, or spear. Furthermore- it may be of the appropriate size for a small, medium, or large creature when doing so. It may also be returned to its original form this way. Its weight remains the same regardless, but it will always function as the appropriate weapon. If something would supress the magic- it retains its current form*.
 
+**Rarac's Left Hand**, $5,000  
+Unique  
+.5 lb.  
+The petrified hand of a trowar to be worn as a charm around the neck. *Necrotic attacks against the wearer have disadvantage*. If an attack is foiled as a result of this disadvantage, the hand will clench briefly. *If an attack is a critical hit against the wearer, the hand will choke the wearer*. This is treated as a grapple which (the hand has a result of 17).
+
 **Ring of Arcane Charge**, $20,000  
 Neg.  
 A ring that can very in quality, but always has either a pearl or piece of amber in its clutch.
