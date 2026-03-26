@@ -2208,7 +2208,27 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (7
+### P (8
+
+#### Pagomancy
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 Actions
+
+**Range**: 20 yards
+
+**Effect**: You cause all the heat to dissipate from a point you deisgnate within range. This is a sphere with a radius in feet equal to to 3 + spell tier. All nonmagical liquids within the area freeze immediately and a cold attack is inflicted against each creature within the sphere.You then may choose to either return the thermal energy or not. If you do, inflict a fire attack against each creature within the area. This does not inflict the traditional critical hit effect and instead reduce that creature's remaining hitpoints (if it has any) by 1. If the heat is not returned, a cold attack is inflicted instead, though its critical hit effect is also replaced.
+
+If the spellcheck is a critical success, the initial attack gains a bonus equal to your [Magic] bonus for the purpose of inflicting a critical hit. You may also choose to unfreeze the liquids if heat is returned.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to apply one of the following; 
+* The radius of the sphere is increased by 1 yard
+* The range of the spell is increased by 2 yards
+* The initial attack gains a +1 bonus
+* The secondary attack gains a +1 bonus
+
+**Critical Failure**: You seem to cast the spell as intended, except it originates at your space.
 
 #### Pain Split
 
