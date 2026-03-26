@@ -28,3 +28,5 @@ A slam is a means of knocking a foe off balance. An opposed [Body] check occurs,
 Trampling occurs when a creature moves to engage a significantly smaller foe and is done in place of a brawl. To determine the effects of trampling, the attacker and defender make an opposed [Rflx] check (called "evading the charge") or an opposed [Body] check (called "holding your ground"), defender’s choice. If the trampling unit succeeds, the defender is knocked prone and a crushing attack is inflicted by the trampling mount.
 If the defender has a critical success while holding their ground, they stop the mount and may choose to use their reaction to knock them prone.
 If the defender has a critical success while evading the charge, they may use their reaction to perform a melee attack against the trampler or its rider (if it has one).
+
+A trampling unit may choose to inflict one of their traditional unarmed attacks in place of the crushing attack.
