@@ -23,9 +23,11 @@ A rare breed capable of powering superliminal effects with the energy stored in 
 When you cast a tier 1 spell, you may take on any number of levels of exhaustion. If you do, you gain a 1d12+1 bonus to the spellcheck for each level of exhaustion taken this way.
 
 ### Sorcery
-You are capable of tapping into the latent magics. When you perform a spell check, a skill check involving the nature of magic, or a save against a magical effect, you gain a bonus equal to your [Fort] bonus.  
+You are capable of tapping into the latent magics. When you perform a spell check or a skill check involving the nature of magic you gain a bonus equal to your [Fort] bonus.  
 Additionally, when you perform a spell check, you may choose to roll 2d12 instead of 1d20, but cannot apply your [Fort] bonus if you do so.  
-Furthermore, you may apply your [Fort] bonus to your counterspell checks.
+Furthermore, you may apply your [Fort] bonus to your counterspell checks.  
+You may use [Fort] as your [Magic] attribute.
+
 
 ### Spark of Sorcery
 You learn a basic spell of your choice with a minimum tier of 1.
