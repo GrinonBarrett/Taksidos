@@ -41,8 +41,8 @@ Requires two hands. Range is increased to 1.5 yards. If properly wound, gains a 
 
 **Halberd**, $230 , 5 lb.  
 Pole Axe  
-A variant of pole axe which is shortened to 5 feet. It featurs a spear tip and a hook on the back of the head. The design lends itself as an anti-polearm weapon.  
-It may also be used to inflict spear attacks. When used against attacks made outside of the nearest half of the eapon's range (2.5 feet and beyond), this weapon gains a +1 bonus to parrying melee weapon attacks made outside of half of their range.
+A variant of pole axe which is shortened to 5 feet. It featurs a spear tip and a hook on the back of the head. The design lends itself as an anti-polearm weapon, though the range is limiting in this capacity.  
+It may also be used to inflict spear attacks. When used against attacks made outside of the nearest half of the weapon's range (2.5 feet and beyond), this weapon gains a +1 bonus to parrying melee weapon attacks.
 
 **Heanswyrd**, $205, 5 lb.  
 Greatsword  
