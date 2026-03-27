@@ -31,6 +31,6 @@ Level	Experience Total
   10 =	75  
 
 ### Attribute Improvements
-Anytime a character gains a new level, they may improve an attribute of their choice. They cannot improve an ability beyond 18 this way, unless otherwise noted.
+Anytime a character gains a new level, they may improve an attribute of their choice. They cannot improve an attribute beyond 18 this way, unless otherwise noted.
 
-Additionally, most classes have levels which feature an "Attribute Improvement". During these levels, you may choose an additional attibute to improve.
+Additionally, most classes have levels which feature an "Attribute Improvement". During these levels, you may choose an additional attribute to improve.
