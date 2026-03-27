@@ -42,7 +42,7 @@ If you have initiated this within reach of another's melee attack range, you pro
 Anytime you would perform a melee attack while you are not mobile or prone, you may choose to have the attack instead resolve at the beginning of the next phase. If you do, you gain a bonus equal to your [Body] bonus or [Rflx] bonus for the purpose of inflicting a critical hit. If you do, you are vulnerable until the end of the phse the attack is resolved. If an attack against you is successful, you no longer are vulnerable and your attack will not resolve.
 
 **Sport Fighting**, 1 item  
-Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus for the purpose of determining a critical hit. This does not apply against foes in Plate Armor.
+Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus for the purpose of determining a critical hit (your choice). This does not apply against foes in Plate Armor or a foe that attempts to block the attack.
 
 **Traditional Fighting**, 1 item  
 You gain a +1 bonus to melee attacks for the purpose of inflicting critical hits. If your attack roll result is a 20, this is a +2 instead.
