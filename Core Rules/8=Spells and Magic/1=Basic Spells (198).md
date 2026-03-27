@@ -1344,7 +1344,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (8
+### H (9
 
 #### Habroism
 
@@ -1393,6 +1393,24 @@ This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
 
 **Critical Failure**: The spell instead afflicts you with the inability to silence your noise hole(s). You are dazed for a number of minutes equal to the spell's tier as you partake in such a fit. If you are incapable of speech, you seem instead to have been afflicted by tremors but suffer the same dazed condition for the same time regardless.
+
+#### Heebiejeeby
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 Action
+
+**Range**: 10 yards
+
+**Effect**: You assault the mind and senses of another creature with a supernatural force. Choose one of the following damage types (Ki, Necrotic, Psychic, Radiant). You inflict an attack of that kind against the [Prcp] of a creature you can perceive within range. In place of inflicting a wound, it bestows the foe a sense of anxious fear for a number of minutes equal to the points of success. While affected, the creature has a -1 to attack rolls  defense, skill checks, saves, and choice of wound placement (if they inflicted a wound against another creature and would be able to modify it in any degree).
+
+A creature may spend its action to perform a [Will] save to snap out of the effect. The DV is equal to the spell check's points of success + spell tier + number of minutes remaining for the effect.
+
+A critical success with this spell will allow the caster to choose prevent any critical hit effect from the spell (decided before the attack roll is made). If they do, the attack roll gets a bonus equal to the foe's [Empy] bonus as they prey on the subject's intuitions.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose to either target an additional creature within range or increase the range by 5 yards.
+
+**Critical Failure**: You spook yourself, being affected for a number of rounds equal to the spellcheck's points of failure and receiving spell sickness equal to half of the spell's tier. If you are immune to fear, you receive an additional point of spell sickness.
 
 #### Highlife
 
