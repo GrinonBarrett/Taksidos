@@ -12,6 +12,9 @@ When you press attack, and that attack is successful, you may either jump or cho
 **Guarding**, 2 items  
 Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
 
+**Hack and Slash**, 1 item  
+If you inflict a critical hit with your cleave and are not prone or vulnerable, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
+
 **Hiding**, 1 item  
 When attempting to use stealth, if you are not moving more than 1 foot, you may roll a d4 and it to your visual stealth. Furthermore, while hiding this way, you may spend a whole round to reroll that d4 and take the new result.
 
@@ -36,7 +39,7 @@ You cannot use equipment in your hands when casting a spell with somatic compone
 If you have initiated this within reach of another's melee attack range, you provoke an attack of opportunity from that creature if they choose to expens their reaction.
 
 **Spin Strikes**, 1 item  
-If you inflict a critical hit with your cleave and are not prone or vulnerable, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
+Anytime you would perform a melee attack while you are not mobile or prone, you may choose to have the attack instead resolve at the beginning of the next phase. If you do, you gain a bonus equal to your [Body] bonus or [Rflx] bonus for the purpose of inflicting a critical hit. If you do, you are vulnerable until the end of the phse the attack is resolved. If an attack against you is successful, you no longer are vulnerable and your attack will not resolve.
 
 **Sport Fighting**, 1 item  
 Your unarmed attacks gain a bonus equal to either your [Body] or [Rflx] bonus for the purpose of determining a critical hit. This does not apply against foes in Plate Armor.
