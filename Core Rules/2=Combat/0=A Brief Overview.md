@@ -16,4 +16,4 @@ At the beginning of each combat, each combatant rolls a d20 and adds it to their
 
  **Secondary Action phase**: During this phase, each combatant may choose to use one of their various abilities or perform an attack. They may only perform one action phase.
 
- ###### For a little extra spice, a narrator may have each particpant roll for initiative during each round or when the total particpants changes. 
+ ###### For a little extra spice, a narrator may have each particpant roll for initiative during each round or when the total participants changes. 
