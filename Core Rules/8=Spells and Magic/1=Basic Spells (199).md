@@ -1214,7 +1214,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (7
+### G (8
 
 #### Glacial Brand
 
@@ -1265,6 +1265,32 @@ Hypothetically, 5 whole minutes of fully submerged washing could preemtively dis
 **Critical Failure**: You bind yourself in a jaw shaped forcefield instead, making you prone and unable to escape. At the end of each round, it inflicts a biting and crushing attack against you. It lasts for a number of rounds equal to the spell's tier.
 
 [Gnash Spell]: # "Created in response to someone joking about there being a Gnash spell in an XP to Level 3 video. Also, adds a nice powerful combat spell that has a high risk for the user."
+
+#### Godsight
+
+**Minimum Tier**: 2
+
+**Casting Time**: 7 actions
+
+**Effect**: With your touch, you grant a creature one of the following forms of sight. The duration varies by vision type.
+
+**Thermal Vision**. The subject can see body heat signatures from warm-blooded creatures and other sources of heat if they are unobscured. They can also see a warm-blooded creature through a thin wall or a fire on the the other side of a stone surface. Duration is 2 hours.
+
+**Low-light Vision**. The creature can see in dim light as though it were fair light and bright light is intensified until it is as difficult to see in as darkness while fair light is treated as dimlight. If the creature also possesses a mode of vision which is better suited to the current light level- it can use that. The creature can only see in black and white with this mode of vision. Duration is 3 hours.
+
+**Psychovision**. The subject is able to see into the psychic plane. This allows it to see any non-mondless creature's mind, ignoring the material and ethereal boundries. Such minds glow to them in a manner that can be perceived a number of yards away equal to their [Inte] score + the subject's [Prcp] score. The creature also onows its [Inte] bonus automatically upon perceiving it. It can also see psychic communications flow like streams of particles (but does not know their contents) if a direct line between the transmitter and receiver would cross within a number of yards of the subject equal to its [Prcp] score. Furthermore, psychic attacks inflicted by any spurce within a mile appear as a brief popping flash. Duration is 1 hour.
+
+**Arcane Sight**. The subject gains the ability to distinguish whatever the see as being magical. This will cause illusions and shapeshifted creatures to produce a faint glow, as well as those protected by some magical ward. It can allow one to tell if runes have a magical nature or if a creature is casting a spell. Additionally, if something is hidden by magic it can be perceived this way. Duration for 3 hours.
+
+**Mortal Eye**. The creature gains a new magical sensor which functions like the eye of a Draconne. Treat this as a human eye with a +1 bonus to [Prcp] checks and saves as it has four chroma and is capable of seeing colors the human eye cannot. If the subject already has an eye, it gains an additional +1 to [Prcp] checks and saves. If it has more than one eye, this is instead an additional +2 bonus (making the total +3). Duration is 4 hours.
+
+**Veiled Vision**. The creature can see what is obscured by magical darkness as though it were perfectly illuminated. Duration is 1 hour.
+
+If the spellcheck is a critical success, you may override a creature's inherent form of vision with the selected form of vision.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either affect an additional creature or increase the duration by half.
+
+**Critical Failure**: You have stripped yourself of all senses for a number of minutes equal to the spell's tier. After each minute, you may return one of your senses.
 
 #### Grasp
 
@@ -1407,6 +1433,8 @@ This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
 A creature may spend its action to perform a [Will] save to snap out of the effect. The DV is equal to the spell check's points of success + spell tier + number of minutes remaining for the effect.
 
 A critical success with this spell will allow the caster to choose prevent any critical hit effect from the spell (decided before the attack roll is made). If they do, the attack roll gets a bonus equal to the foe's [Empy] bonus as they prey on the subject's intuitions.
+
+If you are familiar with the creature to be affected, the attack has advantage.
 
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose to either target an additional creature within range or increase the range by 5 yards.
 
