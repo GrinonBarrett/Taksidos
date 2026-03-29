@@ -1967,7 +1967,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (8
+### M (9
 
 #### Mage Sword
 
@@ -1989,6 +1989,23 @@ You function as an enchanted sword of your choice (per the item). After a week o
 You cannot give your name this way and must speak a proper word, no gibberish.  
 If the user figures out your name and has spent at least 3 months with you, they may use their reaction to turn an attack into the appropriate attack type to your enchantment. If they do, they may choose to keep the critical hit effect of the weapon or the enchantment.
 
+#### Mantlery
+
+**Minimum Tier**: 2
+
+**Casting Time**: 10 actions
+
+**Duration**: 1 hour or concentration (your choice when casting)
+
+**Effect**: You create a false projection over all surfaces you wish which fit within a cube that is 1 yard × 1 yard × 1 yard. You may have the surface look and feel as you wish. It can't harm a creature and any gap between object/terrain surfaces is still a gap in this illusion.
+
+A creature may perform a [Inte] check using their Spellcraft as an action to attempt to identify the illusion. The DV is equal to the spellcheck's points of success + spell tier. A success allows them to know there is an illusion but not discern the reality. A critical success allows it to discern the true surface and the illusion.
+
+If the spellcheck is a critical success, any you were concentrating on the spell, you may have the spell remain for half the remaining duration it would have had if you had not chosen to base its duration on concentration. If you do, [Inte] checks to discern the illusion have advantage.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double each dimension of the cube or increase the duration by half. Additionally, for every two tiers beyond 2nd, you may add stimuli for an additional sense (such as scent).
+
+**Critical Failure**: You have blasted your own senses. You are dazed and vulnerable for a number of rounds equal to the points of failure multiplied by the spell's tier.
 
 #### Metamogrify
 
@@ -2041,7 +2058,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **Casting Time**: 2 actions
 
-**Effect**: Using a combination of metaphysical forces and a spark of psychic energy, you bestow a mindless creature you touch with a missive or order, which can take the form of a single word, that is accompanied by a gesture.
+**Effect**: Using a combination of metaphysical forces and a spark of psychic energy, you bestow a mindless creature you touch with a missive or order, which can take the form of a single word, that is accompanied by a gesture. It will follow it to the best of its ability, but mind that it will take the demand in the most literal manner as it is a mindless creature.
 
 **At Higher Tiers**: For each tier above minimum, you may increase the range by 5 yards.
 
@@ -2149,7 +2166,7 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 
 **Casting Time**: 2 actions
 
-**Effect**: You you direct concentrated scent of an unknown nature around you, etending out 1 yard, and directed away from you in a 4 yard cone. Everything caught within the area (including yourself) must succeed a [Rflx] or [Fort] save, whichever is lower for that creature, or become incapable of smelling anything at all for a number of minutes equal to the points of failure. The DV is equal to the spellcheck result + spell tier. A critical failure causes the creature to also be dazed for a number of phases equal to the points of failure as a result of the overwhelming sensation.
+**Effect**: You direct concentrated scent of an unknown nature around you, extending out 1 yard, and directed away from you in a 4 yard cone. Everything caught within the area (including yourself) must succeed a [Rflx] or [Fort] save, whichever is lower for that creature, or become incapable of smelling anything at all for a number of minutes equal to the points of failure. The DV is equal to the spellcheck result + spell tier. A critical failure causes the creature to also be dazed for a number of phases equal to the points of failure as a result of the overwhelming sensation.
 
 If the caster has a handful of matter (solid,liquid/gaseos) in their hand or a container in their possession when casting the spell, they may have it consumed by the spell to cause the smell generated to be that of the material. Regardless, the scent of the spell itself is detectable for a number of hours equal to 2+spell tier.
 
@@ -2710,7 +2727,6 @@ A creature's Mucous feature protects it from this.
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's line by 1 yard or the duration by 1 minute.
 
 **Critical Failure**: You manage to spray yourself with a strange fluid. Make a [Fort] save with a DV equal to the points of failure + the spell's tier. Attacks of both chosen types have advantage against you for a number of minutes equal to the points of failure.
-
 
 #### Starfall
 
