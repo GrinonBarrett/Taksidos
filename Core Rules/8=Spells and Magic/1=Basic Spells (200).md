@@ -1999,7 +1999,7 @@ If the user figures out your name and has spent at least 3 months with you, they
 
 **Effect**: You create a false projection over all surfaces you wish which fit within a cube that is 1 yard × 1 yard × 1 yard. You may have the surface look and feel as you wish. It can't harm a creature and any gap between object/terrain surfaces is still a gap in this illusion.
 
-A creature may perform a [Inte] check using their Spellcraft as an action to attempt to identify the illusion. The DV is equal to the spellcheck's points of success + spell tier. A success allows them to know there is an illusion but not discern the reality. A critical success allows it to discern the true surface and the illusion.
+A creature may perform a [Inte] check using their Spellcraft as an action to attempt to identify the illusion. The DV is equal to the spellcheck's result + spell tier. A success allows them to know there is an illusion but not discern the reality. A critical success allows it to discern the true surface and the illusion.
 
 If the spellcheck is a critical success, any you were concentrating on the spell, you may have the spell remain for half the remaining duration it would have had if you had not chosen to base its duration on concentration. If you do, [Inte] checks to discern the illusion have advantage.
 
