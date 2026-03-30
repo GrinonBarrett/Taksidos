@@ -1,4 +1,4 @@
- # Warrior
+# Warrior
 You are among the elite in the world of arms. It is unlikely for you to find your match among the common ranks on the battlefield. 
 
 **Class Skills**: Select one of the following (Athletics, Riding, or Roping).
