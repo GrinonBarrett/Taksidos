@@ -62,7 +62,7 @@ You may use an action to grant another encouragement, giving them your Bravery f
 If you had any features that affected your Bravery, that ally gains those as well.
 
 ### 8) Supreme Authority
-Anytime you roll a die for commands, you may choose to increase the die level by a single step. Additionally, your Command Mark has its die level increased by 1 automatically.
+Anytime you roll a die for commands, you may choose to increase the die level by a single step. Additionally, your Command Mark has its die level increased by 1 automatically. Additionally, when you give a command- you may spend additional authority. If you do, you may affect a total number of additional creatures equal to the additional authority spent minus one.
 
 ### 9) Command: Recitation
 You target a creature within 10 yards which is casting a spell. When that creature performs its spellcheck, you roll a d4 and choose to either add or subtract the result from the spellcheck.
