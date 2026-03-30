@@ -28,7 +28,6 @@ Additionally, when you perform a spell check, you may choose to roll 2d12 instea
 Furthermore, you may apply your [Fort] bonus to your counterspell checks.  
 You may use [Fort] as your [Magic] attribute.
 
-
 ### Spark of Sorcery
 You learn a basic spell of your choice with a minimum tier of 1.
 
