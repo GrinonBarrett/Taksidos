@@ -38,7 +38,7 @@ If an attack is parried, a critical failure, your weapon is successfully beat, o
 
 #### Counter Attack
 Reaction  
-If a creature attempted an attack against you and it was a critical failure, you peform a melee or thrown attack against them if they are within.
+If a creature attempted an attack against you and it was a critical failure, you peform a melee or thrown attack against them if they are within melee range.
 
 #### Counterspell
 Reaction  
