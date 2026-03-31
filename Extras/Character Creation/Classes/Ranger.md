@@ -19,7 +19,7 @@ Members of a community of outsiders that walk the realms, maintaining the order 
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
 ### Graceful Retort
-Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe. Alternatively, if it is within melee range, you may shove or slam that foe.
+Anytime you dodge an attack, if the attack is a critical failure, you may perform a counter attack against that foe without expending a reaction. Alternatively, if it is within melee range, you may shove or slam that foe.
 
 ### Wildeling
 You gain training with two weapons of your choice and learn two languages of your choice.
@@ -37,7 +37,7 @@ Anytime you make a save against a fear effect, you may roll a d6 and add the res
 Anytime you Aim or inflict a critical hit against a creature whose creature type is of one you possess the appropriate Zoology skill for, you know how many hitpoints it has remaining so long as they are not greater than your level. Additionally, when you would wound a creature of a type you possess the appropriate Zoology skill for, you may modify the wound result by 1 step. If it does not receive wounds or their effects, you instead gain a +1 bonus to determine if the attack is a critical hit.
 
 ### 4) Impressive Blow
-When you perform an attack against a foe with a single attack which you have aimed against, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
+When you perform a single attack against a foe you have aimed against, you gain a bonus equal to your heroism for the purpose of determinng if it is a critical hit.
 
 ### 4) Wicked Dance
 When you successfully attack a foe with multiple simultaneous weapons, you may move up to a number of feet equal to the number of successful attacks. Attacks of opportunity cannot be made in response to this movement. You may choose whether this movement results in a brawl/trample or not.
