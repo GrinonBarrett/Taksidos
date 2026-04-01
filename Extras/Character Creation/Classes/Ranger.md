@@ -1,4 +1,4 @@
- # Ranger
+# Ranger
 Members of a community of outsiders that walk the realms, maintaining the order of the natural world and fulfilling the will of whispering voice of the world.
 
 **Class Skills**: Select one of the following (Riding, Survival, or Lore).
