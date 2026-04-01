@@ -112,6 +112,8 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 
 • **Spring Attack**. Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
+• **Spring Step**. When you side-step, the next attack made against you before the end of the round has disadvantage if you are aware of it. Additionally, your side-steps do not provoke attacks of opportunity.
+
 • **Student of War**. You gain training in two weapons of your choice or specialization in a weapon of your choice. 
 
 • **Swole**. Your hitpoints increase by 1.
