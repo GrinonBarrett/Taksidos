@@ -1,11 +1,11 @@
-## GHOUL
-Created by the result of a curse, a desperate act of cannibalism to survive, or having simply been raised by other ghouls- these flesh eaters are reviled by all they encounter. Ghoul characters get the following features;
+## DYNKIR
+Created by the result of a curse, a desperate act of cannibalism to survive, or having simply been raised by ghouls- these flesh eaters are reviled by all they encounter. Dynkirs characters get the following features;
 
-**Creature Type**: Ghouls are monsters.
+**Creature Type**: Dynkirs are monsters.
 
-**Size**: Ghouls stand between 3'9" and 7' tall. They can weigh between 75-140 pounds. They are medium creatures.
+**Size**: Dynkirs stand between 3'9" and 7' tall. They can weigh between 75-140 pounds. They are medium creatures.
 
-**Ability Score Modification**: As a Ghoul, you have the following adjustments to your attributes  
+**Ability Score Modification**: As a Dynkir, you have the following adjustments to your attributes  
 -1 [Inte]  
 -1 [Will]  
 -1 [Fort]  
@@ -48,7 +48,7 @@ Choose three attributes. Each are increased by 1.
 
 ### Special Features
 
-**Dead-like**: Anytime an effect would affect an undead creature, it might include yourself. Magical effects may target and/or affect you as though your were undead. If an effect inflicts and attack or save against you but does not also affect monsters, the attack value or dave DV is treated as half.  
+**Dead-like**: Anytime an effect would affect an undead creature, it might include yourself. Magical effects may target and/or affect you as though your were undead. If an effect inflicts and attack or save against you but does not also affect monsters, the attack value or save DV is treated as half.  
 You do not need to breathe.  
 Any effect which would heal wounds to you has a 50% chance of not affecting you unless it specifically affects undead.  
 You cannot be instantly killed by magic unless it specifies otherwise. A wound you receive from Necrotic sources cannot kill you, even if you fail your incapacitation save.
