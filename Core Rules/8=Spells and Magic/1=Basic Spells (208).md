@@ -992,7 +992,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (16
+### F (17
 
 #### Fallen Words
 
@@ -1114,6 +1114,22 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1 or grant one of the attacks a +1 bonus for the purpose of determining a critical hit.
 
 **Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
+
+#### Flee
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 5 yards
+
+**Effect**: You force a creature you can perceive to be overcome with fear. It must succeed a [Will] save with a DV equal to the spellcheck result or become filled with fear to such an extant that it must use its movement phases to move as far away from you as possible. It must do so for a number of rounds equal to their points of fsilure.
+
+If the spellcheck is a critical success, it applies an additional fear based effect against any creature that has a critical failure on its save. That creature must sprint away so long as it does not cause it to be fatigued as a result.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may either increase the range by 2 years or affect an additional creature.
+
+**Critical Failure**: You instead incur spell sickness equal to half of the spell tier plus one.
 
 #### Flowany
 
