@@ -2172,7 +2172,21 @@ This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty
 
 **Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
 
-### N (3 
+### N (4
+
+#### Needle Burst
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: You loose magically created needles of no more than an inch in length out with incredible force. This is 15 yards in a line. It is up to 1 foot wide and 1 foot tall. Everything in the line is subject to a piercing attack, which is resolved in the order of nearest (to point of origin) to farthest. A creature or intervening object will protect a creature behind it, unless the attack against that creature/onject qualified to damage armor or was a critical success.
+
+If the spell check was a critical hit, a cone of effect can be super imposed with its origin point matching that of the line's. This cone is a number of feet equal to the spell's tier. It does not inflict a secondary attack against anything caught within both it and the line- but it can affect anything which was not already affected by the line.
+
+**At Higher Tiers**: For each tier beyond 2nd, in addition to the above noted benefits, you may grant the attacks an additional +1 bonus for the purpose of inflicting a critical hit.
+
+**Critical Failure**: You produce needles from within your body, which attempt to exit from you. Inflict a number of unlisted damage type attacks against yourself equal to half of the spell's tier. A critical hit will inflict a hemorrhage against you (or an additional wound if you are immune to bleeding). If such an attack would qualify to damage armor, you still project the stream of needles as though you successfully cast the spell- but those attacks have disadvantage.
 
 #### Nightburn
 
