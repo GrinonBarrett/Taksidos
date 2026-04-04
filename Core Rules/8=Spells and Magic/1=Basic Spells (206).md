@@ -2921,7 +2921,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (8
+### T (9
 
 #### Telekinesis 
 
@@ -3059,6 +3059,18 @@ If you have the foe grappled, both initial attacks gain a bonus equal to the spe
 **Critical Failure**: Your fist (or other appropriate bodypart) catches on fire. The spell instead inflicts a fire attack against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. Residual burning causes you to emit light like a torch for a number of phases equal to the spell's tier.
 
 [Torching Fist]: # "Inspired by Michael Hasty choosing an element and name for this spell while brainstorming ideas for a melee combat spell."
+
+#### Turn
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature you can perceive either ending its movement or attempting an attack (including that of a spell) against you
+
+**Effect**: You immediately face the triggering creature, instilling such fear into that creature so as to inflict a psychic attack. If the spellcheck is a critical success, the target must succeed a [Will] save with a DV equal to the spellcheck result o suffer a -2 penalty to all checks, saves, and attack rolls for a number of rounds equal to the spell's tier.
+
+**At Higher Tiers**: The benefits of casting at higher levels is mentioned above.
+
+**Critical Failure**: You turn to face the triggering subject, but find yourself dazed for a number of rounds equal to the spell's tier.
 
 ### U (4
 
