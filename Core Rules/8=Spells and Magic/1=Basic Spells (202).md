@@ -811,7 +811,7 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
 
-### E (9
+### E (10
 
 #### Edify
 
@@ -845,6 +845,20 @@ A critical success allows you to inflict one of the following when an attack wou
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of elements by 1 or increase the range of the spell by 5 yards. Additionally, if cast at 4th tier or higher, you may attempt to affect multiple creatures with this spell, up to half of the spell's tier. You must divide the attacks against all affected creatures this way, but may divide them as you see fit.
 
 **Critical Failure**: You instead manifest an illusion based on your own fears. The creature(s) you intended to affect are able to see it. For a number of rounds equal to the spell's tier, you are subject to a psychic attack which gains a bonus equal to your [Prcp] bonus for the purpose of inflicting a critical hit. The psychic attacks are otherwise identical in nature to those that would be created by this spell normally.
+
+#### Elemental Blast
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to your melee attack being successful (including a sunder)
+
+**Effect**: Choose one of the following damage types (cold, fire, electric). An melee attack of that type is influcted against that same foe.
+
+If the spellcheck is a critical success, you may alter the critical hit rffect of this spell's attack to become that of one of the unselected damage types.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond 1st, you may choose to grant the spell's attack a +1 bonus or a +2 bonus for the purpose of inflicting a critical hit.
+
+**Critical failure**: You fail to get any effect out of the spell and receive spell sickness equal to double the spell's tier then divided by 1d4 (minimum of 1).
 
 #### Empathic Ward
 
