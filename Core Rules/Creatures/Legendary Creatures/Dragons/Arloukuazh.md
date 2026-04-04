@@ -103,7 +103,7 @@ Arloukazh's total bonus to spell checks and counter spell checks as a result of 
 
 **Mighty Slam**: When he successfully strikes a foe with his slam or tail attack, it may use its reaction to force that creature to succeed an opposed [Body] check. If the check is a tie or success in any degree, he knocks the foe prone and knocks them back a number of feet equal to the points of success mulitplied by his weight in stones divided by the foe's weight in stones. If he had a critical success, the foe is also vulnerable while they are prone.
 
-**Breath Weapon**: He is capable of exhaling a line of flames, as an action. The line is a number of yards in length equal to 10 + 1/1,000,000 of his horde's wealth and is a foot high and wide. Anything caught within the line suffers a Fire attack. Once he has used this ability, he cannot do so again for an hour.  
+**Breath Weapon**: He is capable of exhaling a line of flames, as an action. The line is a number of yards in length equal to 10 + 1/100,000 of his horde's wealth and is a foot high and wide. Anything caught within the line suffers a Fire attack. Once he has used this ability, he cannot do so again for an hour.  
 Alternatively, he may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as he sweeps his head side to side.  
 So long as his horde is worth more than $20,000,000- the attacks from this are made with advantage.
 
