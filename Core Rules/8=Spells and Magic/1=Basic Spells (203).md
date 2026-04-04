@@ -203,7 +203,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
 
-### B (10
+### B (11
 
 #### Behest
 
@@ -270,6 +270,24 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Bouncing Ooze
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 5 yards
+
+**Effect**: You conjure a mysterious blob of a creature to assault a single foe within range, inflicting an acid attack. When you do, secretly call a number from 1 to 20. The target does the same secretly. If the attack roll result is equal to either number, the ooze bounces to a new target of your choice within a number of feet equal to 3 + spell tier. If also the called numbers matched, it will inflict a sundering acid attack instead and then inflict an additional acid attack.
+
+The ooze creature(s) then disappear.
+
+A creature can only be harmed by a single such ooze once (save for an additional attack caused by both called numbers matching). The ooze must bounce if it can. A critical success with the spellcheck will allow you to prevent it.
+
+**At Higher Tiers**: For each tier beyond minimum, you conjure an additional ooze. A creature may only be hit by a single original ooze and a single bounced ooze by this spell.
+
+**Critical Failure**: Your conjuring has backfired. The narrator will roll a d20. After a number of rounds equal to the result, a mysterious ooze creature briefly appears on you- inflicting an acid attack before it suddenly disappears. This is then repeated until the number of such attacks matches the spell's tier -1.
 
 #### Bounding
 
