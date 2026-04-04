@@ -1,9 +1,9 @@
 Legendary spells are named for their creator. These spells are listed by creator rather than letter. Legendary spells cannot simply be learned by a character. The creators' notes are often lost or buried and require deciphering. Alternatively, if such a magician is still alive, direct tutalege could allow a character to learn such a spell.
 
-### Alekard (3
+### Alucard (3
 A blood sucking priest from another world which gained divinity. His original name was corrupted into its current form in the process.
 
-#### Alekard's Blood Barrage
+#### Alucard's Blood Barrage
 
 **Minimum Tier**: 3
 
@@ -17,7 +17,7 @@ A blood sucking priest from another world which gained divinity. His original na
 
 **Critical Failure**: You seem to cast the spell, but afflict yourself instead. You may still direct the club attacks as normal.
 
-#### Alekard's Radiant Smite
+#### Alucard's Radiant Smite
 
 **Minimum Tier**: 4
 
@@ -31,9 +31,9 @@ On a critical success, you may alter the damage type of the initial attack to be
 
 **At Higher Tiers**: Each tier beyond its minimum can grant the initial attack a +1 bonus or increase the explosion radius by 1 yard.
 
-**Critical Failure**: You have offended Alekard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
+**Critical Failure**: You have offended Alucard in some way. You are subject to a necrotic attack, fire attack, and radiant attack. For each of these attacks, you may choose to take on a level of fatigue to ignore the attack before it is rolled.
 
-#### Alekard's Syphoning Strike
+#### Alucard's Syphoning Strike
 
 **Minimum Tier**: 2
 
@@ -48,7 +48,7 @@ If you have the foe grappled or the spellcheck is a critical success, the necrot
 **Critical Failure**: You have invoked a very angry power. A necrotic attack is inflicted against you with a bonus equal to the spell's tier. If it was a critical hit or would qualify to damage armor- it instead inflicts a radiant attack as well.
 
 ### Alekora (3
-Right hand to alekard.
+Right hand to alucard.
 
 #### Alekora's Rebuke
 
