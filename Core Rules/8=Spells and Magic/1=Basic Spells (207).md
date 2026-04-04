@@ -2576,7 +2576,6 @@ If the spellcheck was a critical success and you have any tra8ning with bows/cro
 
 **Critical Failure**: You inflict a splinterous explosion in front of you. This influcts a pircing attack and fire attack against you. Each gains a bonus equal to half of the spell's tier for the purpose of inflicting a critical hit. This destroys the missile you were to use for the spell.
 
-
 #### Rockslide
 
 **Minimum Tier**: 5
@@ -2612,7 +2611,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (18
+### S (19
 
 #### Sapiafi
 
@@ -2674,6 +2673,29 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
 **Critical Failure**: The create the sentinel, but it seems to have a mind of its own. It will attempt to attack you during each action phase. In addition, it can attempt to attack the nearest creature to it at the end of each movement phase. A creature must be illuminated in at least dim light for the sphere to see it, but does not require that light to attack you. The sentinel always lasts for a minute this way.
+
+#### Sentry
+
+**Minimum Tier**: 2
+
+**Casting Time**: 14 actions
+
+**Duration**: 4 hours
+
+**Effect**: You produce a trap at a point within 1 yard that you deignate. The traps area will contain the trigger. The trigger's area is half of the trap's range. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presnce of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it projects magically created blades out in the appointed shape. The trap then disappears. The trap will inflict thrown blades within the appropriate shape.
+
+The trap is a 20 yard mikrofan traditionally, but alternatives are available;  
+* 18 yard minifan
+* 15 yard fan
+* 10 yard cone
+* 6.5 yard hemisphere
+* 5 yard sphere
+
+If the spellcheck is a critical success, you may choose an exotic damage type. The critical hit effect is replaced with that of the chosen type.
+
+**At Higher Tiers**: When cast at 3rd tier or higher, for each tier beyond 2nd, the duration is increased by half.
+
+**Critical Failure**: For a number of hours equal to the spell tier, all attacks against you have advantage until you receive two wounds during this time.
 
 #### Set Breath
 
