@@ -2317,7 +2317,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (8
+### P (9
 
 #### Pagomancy
 
@@ -2352,6 +2352,24 @@ If the spellcheck is a critical success, the initial attack gains a bonus equal 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 2 yards.
 
 **Critical Failure**: You have failed to call upon the power needed for this, granting the attack a bonus against you equal to the spell's tier. You also gain spell sickness equal to the spell's tier.
+
+#### Phantom Chain
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Duration**: Concentration, up to 1 minute
+
+**Effect**: You produce a magical chain within a yard which is capable of operating on its own to a limited degree. Anytime a creature moves within 1 yard of the chain, it reaches out and inflicts a club attack against it. Anytime it would inflict an attack and you can perceive it and the target, you may use your reaction to either negate the attack or to change the attack type to an exotic type of your choice. Additionally, anytime the chain successfully attacks a creature- it also inflicts a necrotic attack.
+
+If the spellcheck is a critical success, you may choose to exclude any creatures from being valid targets for the chain.
+
+The chain can also be used as a rope. It has a strength equal to the spellcheck total multiplied by the sum of the spell's tier plus [Magic] bonus.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the maximum duration by half or the range of the chain by 1 yard.
+
+**Critical Failure**: You bind yourself in a magical chain and receive a club attack. You are immobile for a number of phases equal to the spell's tier plus one.
 
 #### Phasic Wave
 
