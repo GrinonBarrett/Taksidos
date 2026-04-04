@@ -2419,7 +2419,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (6
+### R (7
 
 #### Rage Fist
 
@@ -2495,6 +2495,23 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 **At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
 
 **Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+
+#### Roaring Arrow
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 acation + 1 action per missile
+
+**Range**: 75 Yards
+
+**Effect**: You enchant a nonmagical arrow or bolt in your possession to fly towards a target of your choice within range, inflicting an appropriate attack per the arrow/bolt. If such a missile successfully wounds a foe or qualifies to damage their armor, it also inflicts a fire attack.
+
+If the spellcheck was a critical success and you have any tra8ning with bows/crossbows as appropriate to the missile, you gain the benefit of that training.
+
+**At Higher Tiers**: When cast at 3rd tier, for each tier beyond 2nd, you may either loose an additional missile or reduce the casting time by 1 action (to a minimum of 1 action). Each missile must have a different target.
+
+**Critical Failure**: You inflict a splinterous explosion in front of you. This influcts a pircing attack and fire attack against you. Each gains a bonus equal to half of the spell's tier for the purpose of inflicting a critical hit. This destroys the missile you were to use for the spell.
+
 
 #### Rockslide
 
