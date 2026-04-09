@@ -2363,7 +2363,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (9
+### P (10
 
 #### Pagomancy
 
@@ -2444,6 +2444,22 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 **At Higher Tiers**: Each tier beyond minimum lets you either grant the attck a +1 bonus or grant it a +2 bonus for the purpose of inflicting a critical hit.
 
 **Critical Failure**: The conjured plasma is unstable, inflicting a a radiant attack against you and an additional attack. If the additional attack roll is even, its an electric attack. If odd, its a fire attack. The radiant attack gains a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
+
+#### Poison Nova
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: You explode with noxious fumes and conjured poisons, this reaches out from you up to a number feet equal to the spellcheck's total. The intensity of the explosions will also inflict a force attack against anything within a number of yards equal to the spell's tier. If the tocic attack would qualify to damage armor, it instead influcts exhaustion.
+
+Any creature that hears the loop repeat can attempt a [Prcp] check with a DV equal to the spellcheck's result + tier to discern its illusory nature and be unproturbed by it.
+
+A critical success with the spell check will also cause the force attack to inflict knockback in half-feet equal to the attack total against that creature.
+
+**At Higher Tiers**: When cast at 4th tier or higher, in addition to the benefits noted above, the toxic attack gains a bonus for each tier beyond 3rd for the purpose of influcting a critical hit.
+
+**Critical Failure**: You seem to have poisoned yourself in a strange manner. At the end of each round for a nimber of rounds equal to the spell's tier, an unlisted attack is influcted against your [Fortitude]. A critical hit will inflict a toxic attack against your [Fort].
 
 #### Portalence
 
