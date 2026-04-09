@@ -1496,7 +1496,7 @@ If you are familiar with the creature to be affected, the attack has advantage.
 
 **Duration**: 30 Minutes
 
-**Effect**: You touch a creature, bringing out its latent potential. Its maximum hitpoints are increased by 1 and it gets a +1 to all checks and saves while it still has that hitpoint. When this spell ends, that creature suffer a level of fatigue. If it loses a hitpoint before the spell ends, it incurs a level of fatigue- but a critical success with the spellcheck can prevent this if you wish.
+**Effect**: You touch a creature, bringing out its latent potential. Its maximum hitpoints are increased by 1 and it gets a +1 to all checks and saves while it still has that hitpoint. When this spell ends, that creature suffers a level of fatigue. If it loses a hitpoint before the spell ends, it incurs a level of fatigue- but a critical success with the spellcheck can prevent this if you wish.
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
@@ -2015,7 +2015,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (9
+### M (10
 
 #### Mage Sword
 
@@ -2111,6 +2111,22 @@ If the spell check is a critical success, the initial hit will also apply the ef
 **At Higher Tiers**: For each tier above minimum, you may increase the range by 5 yards.
 
 **Critical Failure**: You have managed to attract the attention of the creature you sought to command. For a number of days equal to the points of failure, it will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, it gains a bonus to its attacks for the purposes of determing if they are a critical hit and gains a bonus to opposed checks against you, with both bonuses being equal to the spell's tier. Additionally, during this time, it will know the general direction towards you- but not how far exactly.
+
+#### Mirage
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Duration**: Concentration
+
+**Effect**: You cause a creature to be affixed by a distant hallucinatoon. You choose what it appears as and if it moves. The illusion is always perceived as being far away, too distant to reasonably reach. The creature attempts a [Prcp] save with a DV equal to the spellcheck result + spell tier to ignore it. If it fails it is subject to the illusion for a number of minutes equal to the points of failure (unless the spell ends prematurely) before a new save can be attempted.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose to either affect an additional creature or increase the range by 10 yards.
+
+**Critical Failure**: You can't be entirely sure if you are being stalked by something or if it is the spell backfiring. You have this sensation for 1d100 days per spell tier.
 
 #### Missiles of Light
 
