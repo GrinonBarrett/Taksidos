@@ -992,7 +992,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (17
+### F (18
 
 #### Fallen Words
 
@@ -1166,6 +1166,20 @@ If the spellcheck was a critical success, the caster may deignate a maximum boun
 **At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, the range is increased by 3 yards.
 
 **Critical Failure**: The fog centers on you when it manifests and you are stuporous for a number of rounds equal to the spell's tier.
+
+#### Foil
+
+**Minimum Tier**: 4
+
+**Casting Time**: 2 actions
+
+**Effect**: You project a destructive force out in a 7 yard cone. This inflicts a crushing attack against everything within the area. If there is an armored creature, it is first afflicted with a sundering crushing attack. Construct creatures are then subject to an additional crushing attack which gains a bonus equal to the spell's tier.
+
+This cannot affect eldritch, elemental, ephemeral, or infigura creatures.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond 4th, the size of the cone can be increased by 1 yard.
+
+**Critical Failure**: The forces you sought to master prove to be more difficult to control. You inflict an unlisted attack against yourself and then a number of crushing attacks equal to half of the spell's tier.
 
 #### Fortify
 
