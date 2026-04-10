@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (13
+### A (14
 
 #### Abatis
 
@@ -202,6 +202,27 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 **At Higher Tiers**: For each tier beyond minimum, you may either reduce the casting time by 1 action (to a minimum of 1) or the range by 15 yards. Alternatively, you may devote some of the additional tiers to creating a larger Artificicheir (per that creature's description).
 
 **Critical Failure**: You fail to properly manifest the forcefield, leaving yourself prone and vulnerable for a number of rounds equal to the tier of the spell.
+
+#### Auditism
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions
+
+**Range**: 15 yards
+
+**Duration**: Concentration
+
+**Effect**: You cause any sound you have encountered, or some vague eerie and unnatural sound, to emit from a point you choose within range of you. The sound will continue, as a loop of a number of seconds up to the spellcheck's points of success. You may use your reaction to move that point a number of tards equal to the spell's tier. The sound is never loud enough to inflict damage, but can be extremely uncomfortable and disturb rest.
+
+Any creature that hears the loop repeat can attempt a [Prcp] check with a DV equal to the spellcheck's result + tier to discern its illusory nature and be unproturbed by it.
+
+A critical success with the spell check will allow you to change the loop as an action.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may increase the range by 15 yards.
+
+**Critical Failure**: You seem to produce the sound as intended. It lasts for a number of rounds equal to the spell's tier. The sound also emits from yourself. The only sound you can hear during this time is the sound from the spell. You also receive 1d3 points of spell sickness.
+
 
 ### B (11
 
