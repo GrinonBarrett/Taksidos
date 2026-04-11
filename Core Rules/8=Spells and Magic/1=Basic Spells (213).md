@@ -1616,7 +1616,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (8
+### I (9
 
 #### Icebreaker
 
@@ -1645,6 +1645,26 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
 
 **Critical Failure**: You gain 1d4-1 points of spell sickness and appear ill so long as you have spell sickness.
+
+#### Inflict Pane
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action or reaction
+
+**Range**: 5 yards
+
+**Effect**: You cause an object of glass within range to shatter. Upon doing so, the shards are directed as a thrown blade attack against a foe within 5 yards of the shattering glass.
+
+You cannot instantly shatter glass which is magical or contains a magical substance. Instead, there is a percentage chance equal to your spellcheck result multiplied by the spell's tier.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose one of the following;
+* The range is increased by 3 yards
+* The attack(s) may reach a foe 1 yard further away
+* The percentage chance of destroying glass of a magical nature or containing a magical substance is increased by your [Magic] score
+* You may inflict an additional attack. Only 1 attack per 2 pounds of glass may be inflicted this way. Each attack must have a different target
+
+**Critical Failure**: You instead cause a terrible ringing sound that can be heard by every creature within range. You inflict a number of sonic attacks against yourself equal to the spell's tier. If such an attack is successful against you, the next attack has disadvantage.
 
 #### Inspoil
 
