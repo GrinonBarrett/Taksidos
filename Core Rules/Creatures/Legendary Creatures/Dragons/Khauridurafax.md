@@ -1,5 +1,5 @@
 ### Khauridurafax
-A true dragon of adoration. He seeks to grow the reach of his temple far beyond his monastic complex. The group know as the Fraeduzri worship him like a god and will kill (and die) for him.
+A true dragon of adoration. He seeks to grow the reach of his temple far beyond his monastic complex. The group known as the Fraeduzri worship him like a god and will kill (and die) for him.
 
 **Creature Type**: He is a drakomadeia.
 
@@ -111,6 +111,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Bestride
 * Blast Lightning
 * Blessed Orb
+* Coagulaturgy
 * Collapse
 * Conjure Water
 * Deep Chant
