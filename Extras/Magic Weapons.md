@@ -508,6 +508,13 @@ $8,400 , 4 lbs.
 Mace  
 This warhammer is well made. It can be thrown as a thrown blade, but inflicts an attack as a club when thrown this way. *When thrown while aimed, you may have it inflict its critical hit as though it were a fire attack. If user has warrior mastery with maces, they gain a +2 bonus for the purpose of inflicting a critical hit*.
 
+**Whip of Thorns and Frost** (*unique*)  
+$10,000 , 2 lbs.  
+Flail  
+Made of a smooth slender and flexible branch of an unknown plant. Unlike most whips, this can actually harm a foe. It needs not be wound to attack, but still gains the bonus for having an additional winding action before attacking. Inflicts a thrown blade attack. If the attack qualifies to damage armo, is a critical hit, *or is successful in any degree against an undead creature*, it also inflicts a piercing attack.  
+
+If name is known, when pressing attack, *the attack can be changed to either cutting or cold. Alternatively the critical hit effect of the standard attack can be changed to that of a cold, cutting, or piercing*.
+
 **Wicked Spike** (*unique*)  
 $5,700 , 4 lbs.  
 Warpick  
