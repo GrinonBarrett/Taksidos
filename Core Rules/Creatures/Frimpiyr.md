@@ -34,7 +34,7 @@ A shapeshifting creature which feeds on books to acquire all knowledge contained
 
 -----
 
-**Table**: *Attack versus Creature* ***fix later***
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
