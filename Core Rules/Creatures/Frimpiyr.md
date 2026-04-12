@@ -94,6 +94,6 @@ Every time a frimpiyr reads a completely new volume which contains a meaningful 
 
 **Spew**: Once per encounter, as an action, the frimpiyr may spew acid in a 1.5 yard semifan. This inflicts an acid attack. It smells awful.
 
-**Unnatural Creeping**: When you it is prone, you do not suffer the usual penalty to movement.
+**Unnatural Creeping**: When you it is prone, it does not suffer the usual penalty to movement.
 
 **Natural Magic**: The frimpiyr is capable of casting wyrdings, such as those spells obtained from its Book Eater festure. It also knows a random basic spell and a random legendary spell. When casting a spell it knows, it gains a bonus to its spellcheck equal to its [Inte] bonus. It also gains this bonus for counterspell checks with such spells. When casting a spell obtained through its Book Eater feature, the bonus is instead equal to the number of different tiers available to it. It gains no bonus to counterspell checks for spells obtained through Book Eater.
