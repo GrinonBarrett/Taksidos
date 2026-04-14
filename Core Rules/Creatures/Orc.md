@@ -20,7 +20,7 @@ Horrific in appeareance, they appear as grotesque sculptures of what an animalis
 
 **Run Speed**: It may run up to 6 yards per move.
 
-Climb Speed: It may climb up to 3 yards per move, presuming it is reasonable terrain to climb.
+**Climb Speed**: It may climb up to 3 yards per move, presuming it is reasonable terrain to climb.
 
 **Swim speed**: It may swim up to 1 yard per move, presuming the water isn’t too rough.
 
