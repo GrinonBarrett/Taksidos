@@ -8,7 +8,7 @@ Enriched in culture and capable of fighting- you are the warsingers, skalds, and
 | Level | HP | Heroism  | Features                                          |
 |-------|----|----------|---------------------------------------------------|
 | 1st   | 1  |    +1    | Warrior-Poet, Odd, Random Piece of Knowledge      |
-| 2nd   | 1  |    +2    | Resist Wands, Called Defense                      |
+| 2nd   | 1  |    +2    | Called Defense, Resist Wands                      |
 | 3rd   | 1  |    +3    | Attribute Improvement, Warsong                    |
 | 4th   | 2  |    +4    | Soften Spell, Weapon Training                     |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
@@ -31,11 +31,11 @@ Choose a creature type or a type of object (such as swords, vases, boats, etc). 
 Anytime you perform a skill check to identify a creature/object of that type, one of its characteristics, or perform a save against one of its innate special abilities, you may replace one of your save/check dice with a d12. This decision is made before rolling. You must rest before doing so again.  
 Alternatively, anytime another creature within 2 yards attempts a Lore or Spellcraft check (pertaining to any subject), you may use this feature to grant it a +2 bonus.
 
-### 2) Resist Wands
-When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
-
 ### 2) Called Defense
 When an attack is inflicted against you that you are aware of, you may call a number. If the attack roll die result is the number you called, you gain a +3 bonus to defense against that attack. You may also expened your reaction while you do so if it is a magical attack. If you do, and you call it correctly, you ignore the attack altogether.
+
+### 2) Resist Wands
+When a wand or staff's magical attack would target you, you may impose disadvantage against that attack. You must rest before doing so again.
 
 ### 3) Warsong
 Your power of Oratory is incredible. So much so, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). While doing so, you may use your reaction to grant an attack or save a +4 bonus for the purpose of determining if it is a critical success. The creature must be able to hear your performance to be affected, but need not truly understand the words.
