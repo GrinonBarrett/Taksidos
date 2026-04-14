@@ -12,7 +12,7 @@ Enriched in culture and capable of fighting- you are the warsingers, skalds, and
 | 3rd   | 1  |    +3    | Attribute Improvement, Warsong                    |
 | 4th   | 2  |    +4    | Soften Spell, Weapon Training                     |
 | 5th   | 2  |    +4    | Splash or Specialize                              |
-| 6th   | 2  |    +5    | Attribute Improvement, Useful Tidbit, Myth Speaking|
+| 6th   | 2  |    +5    | Attribute Improvement, Myth Speaking, Useful Tidbit|
 | 7th   | 2  |    +6    | Jammy, More Random Knowledge                      |
 | 8th   | 3  |    +7    | Spurn Spell, Verses of Greatness                  |
 | 9th   | 3  |    +8    | Attribute Improvement, Bardic Resistance          |
@@ -46,13 +46,13 @@ You may use your reaction to provide a creature within a number of yards equal t
 ### 4) Weapon Training
 You gain training in two weapons of your choice.
 
-### 6) Useful Tidbit
-You may expend the use of your Random Piece of Information to benefit a creature within 2 yards if it is attempting to make an appropriate check/save pertaining to your chosen subject.
-
 ### 6) Myth Speaking
 Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. An affected creature which has heard the performance for at least two whole rounds gains the benefit of your Odd feature so long as they hear it and for a number of rounds after equal to your heroism.  
 Additionally, when such an affected creature would be affected by the attack of a wand or staff, you may expend the use of your Random Piece of Knowledge to apply disadvantage to that attack.  
 Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
+
+### 6) Useful Tidbit
+You may expend the use of your Random Piece of Information to benefit a creature within 2 yards if it is attempting to make an appropriate check/save pertaining to your chosen subject.
 
 ### 7) Jammy
 When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must complete a long or full rest before doing so again.
