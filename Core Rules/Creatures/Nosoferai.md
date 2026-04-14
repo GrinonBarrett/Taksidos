@@ -1,5 +1,5 @@
 ### Nosoferai
-A fiend born out of the destruction brought about by plagues. They are born when the light of an incomplete moon bathes a still open mass grave. It feeds of the the tragedy and writhes in the empty condolences afforded to the fallen by the fearful living. The plural is nosoferoi. Their collective noun is a pandemmic.
+A fiend born out of the destruction brought about by plagues. They are born when the light of an incomplete moon bathes a still open mass grave. It feeds on the tragedy and writhes in the empty condolences afforded to the fallen by the fearful living. The plural is nosoferoi. Their collective noun is a pandemmic.
 
 **Creature Type**: Nosoferoi are fiends.
 
