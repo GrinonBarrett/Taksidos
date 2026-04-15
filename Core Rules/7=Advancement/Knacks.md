@@ -24,6 +24,9 @@ You memorize an incantation for casting your spells. When you roll your spellche
 **Mobile Strikes**, 1 item  
 Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round or your previous action- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
+**Polydextrous Counter**, 1 item
+When performing a counterattack, you may use two appropriate weapons/unarmed attacks.
+
 **Ritualism**, 2 items  
 So long as you are capable of casting a spell of a rite being performed, you may choose to forego actions and reactions to concentrate on the caster of the spell. If You have concentrated for at least half of the casting time and have cast the spell at an equal or higher tier before, it gains a +1 bonus to any spellcheck result. Additionally, if you manage to concentrate this way for the entire time, you grant a +1 bonus to any spellcheck. These bonuses are cumulative and multiple creatures with this knack can support the same spellcaster.
 
@@ -34,7 +37,7 @@ If you press attack with a Musket or Arquebus attack against a foe at least 25 y
 When attempting to use stealth, you may use your reaction to roll a d4 and reduce the penalty to sound by an amount equal to the result for the round.
 
 **Somatic Components**, 2 items  
-You can perform gestures to grant you a bonus to your spell check. You gain a d4+X bonus to your spell check, where X is the spell tier. When wearing Gambeson armor, this is reduced to 1d4. In other armor, you gain only a +1 bonus.  
+You can perform gestures to grant youself a bonus to your spell check. You gain a d4+X bonus to your spell check, where X is the spell tier. When wearing Gambeson armor, this is reduced to 1d4. In other armor, you gain only a +1 bonus.  
 You cannot use equipment in your hands when casting a spell with somatic components, save for a tome you may be using as reference to the spell, nor can you benefit from this if you are in anyway bound or restrained.  
 If you have initiated this within reach of another's melee attack range, you provoke an attack of opportunity from that creature if they choose to expens their reaction.
 
