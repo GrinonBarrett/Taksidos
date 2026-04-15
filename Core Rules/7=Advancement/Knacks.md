@@ -24,7 +24,7 @@ You memorize an incantation for casting your spells. When you roll your spellche
 **Mobile Strikes**, 1 item  
 Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round or your previous action- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
-**Polydextrous Counter**, 1 item
+**Polydextrous Counter**, 1 item  
 When performing a counterattack, you may use two appropriate weapons/unarmed attacks.
 
 **Ritualism**, 2 items  
