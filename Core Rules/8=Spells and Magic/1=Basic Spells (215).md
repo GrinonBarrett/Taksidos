@@ -2602,7 +2602,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (7
+### R (9
 
 #### Rage Fist
 
@@ -2678,6 +2678,28 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 **At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
 
 **Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+
+#### Rhúns
+
+**Minimum Tier**: 1
+
+**Casting Time**: 10 actions
+
+**Duration**: 1 minute
+
+**Effect**: You draft glowing runes into the air as an expression of your magical powers. These runes hover about you for the duration of the spell. While accompanied by the runes, you gain a bonus to all Spellcraft checks equal to the spell's tier. Additionally, you may rearrange the runes to produce one of the following effects. If you do, they disappear into a momentary flash of light as the spell ends prematurely.
+
+***Slow***. You attempt to hold a creature's movements within 10 yards as a reaction. Its movement speed is halved (including fall apeed and knockback effects) until end of round.
+
+***Restrain***. You cause the runes to adhere to a creature within 15 yards until end of round as an action, causing it to be prone and have disadvantage on brawl checks during this time.
+
+***Blast***. Choose an exotic damage type. You hurl the runes at a foe within 10 yards, inflicting an attack of the chosen type as an action. In place of inflicting a wound, it knocks a foe prone.
+
+***Guard***. As a reaction to an attack you are aware of made against yourself, you arrange the runes to protect yourself against it. You gain a bonus to defense equal to the spell tier for the purpose of determining if the attack is a critical hit. If the attack was magical, it has disadvantage.
+
+**At Higher Tiers**: When cast at 2nd tier or higher, you may choose to either increase the duration by a minute or reduce the casting time by 1 action. Additionally, for every two tiers beyond 1st, the casting time is reduced by 1 action. The casting time cannot be reduced below 1 action.
+
+**Critical Failure**: You draw tour runes but find they do not maintain their shape and instead surround you. You are prone until end of round and are afflicted by a random exotic attack. You also receive additional spwll sickness equal to half (round down) of the spell's tier.
 
 #### Roaring Arrow
 
