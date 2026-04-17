@@ -621,7 +621,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 
-### D (12
+### D (13
 
 #### Damper
 
@@ -629,7 +629,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Casting Time**: 9 actions
 
-**Duration**: A number of minutes equal to the spellcheck's points of success + the spell's tier.
+**Duration**: A number of minutes equal to the spellcheck's points of success + the spell's tier
 
 **Effect**: You touch a creature, causing a a swirling force to enshroud them. The subject gains a +3 bonus to defense against magical attacks and saves against magical effects. It also suffers a -3 to spell checks and counterspell checks.
 
@@ -837,6 +837,22 @@ When used against a forcefield created by a spell of less than half of this spel
 **At Higher Tiers**: For each tier beyond minimum, you may increase the time it is surpressed by 1d4 minutes or have the spell affect a magic of one tier higher.
 
 **Critical Failure**: You accidentally disrupt your own magical connection gaining spell sickness equal to the tier of this spell.
+
+#### Disturbing
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 15 yards
+
+**Effect**: You create an entity of immense psychic energy at a point you designate withon range. Choose one of your senses, the entity produces stimuli as appropriate to that sense as you choose. Any non-mindless creature within 15 yards of the entity must succeed an [Inte] save with a DV equal to the spellcheck or be dazed for a number of rounds equal to the spell's tier. Additionally, any creature within that reach which can perceive stimuli produced by the entity must succeed a [Will] save with a DV equal to the spellcheck result or be so overcome with fear that they have disadvantage on all checks, saves, and attack rolls until the spell ends.
+
+The spell lasts until the end of the next phase so long as the caster concentrates on the effect. If the spellcheck was a critical success it may continue for a total number of phases equal to the points of success so long as the caster is concentrating.
+
+**At Higher Tiers**: When cast at 4th tier or higher, for each tier beyond minimum, you may choose to either increase the range of the spell (and the reach of the entity) by 1 yard or increases the number of senses it can produce stimuli for.
+
+**Critical Failure**: You instead conjure a number of Kefalypors equal to half of the spell tier and a number of Nralls equal to half of the spell tier (round up). These creatures are all hostile towards your and seek your end. The kefalypors will prioritize you as food.
 
 #### Dragon's Breath
 
