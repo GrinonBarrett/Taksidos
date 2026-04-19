@@ -1819,7 +1819,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (4
+### J (5
 
 #### Jaunt Macabre
 
@@ -1857,7 +1857,6 @@ If the spell check is a critical success, you may change the effect of a critica
 
 **Critical Failure**: Your attempt at conjuring the spray has failed horribly. Inflict an acid attack against everything within a number of feet equal to the spell's tier (including yourself), and then a number of acid attacks against yourself equal to half of the spell's tier (round down).
 
-
 #### Jinx
 
 **Minimum Tier**: 3
@@ -1871,6 +1870,26 @@ If the spell check is a critical success, you may change the effect of a critica
 **At Higher Tiers**: Each tier beyond the minimum can eiter increases the range by 3 yards or the duration by 1 hour, in addition to the benefit noted above.
 
 **Critical Failure**: You find yourself the subject of misfortune, as the spell affects you instead.
+
+#### Jocularity
+
+**Minimum Tier**: 2
+
+**Casting Time**: 6 actions
+
+**Duration**: concentration + 1 round
+
+**Effect**: You create a field which induces a jolly feeling in all that are within. The field is a 30 yard sphere which originates from a point you touch. Creatures in the area gain a bonus to Athletics checks and saves equal to the spell's tier and cannot inflict wounds with attacks. A creature entring the area (or in the area when it is created) may use their reaction to perform a [Will] check to dispel the magic wholesale. A creature in the area may also use its action to attempt to do so. The check DV is equal to the spellcheck's result.
+
+A critical success with the spellcheck will disallow a creature from being able to use its reaction to perform the [Will] check when the area is created.
+
+A creature being wounded by an attack (or suffering the critical hit wffect of an attack) could cause the spell to end if the attack total is greater the the spellcheck result + spell tier + [Magic] bonus.
+
+This spell can also be dismissed 8f the caster is the subject of an equal or greater tier Quell spell or becomes subject to a fear effect.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the sphere by 5 yards.
+
+**Critical Failure**: You instead suffer a fit of madness as you find everything either intensely hilarious or very groovy. You are dazed for a number of minutes equal to the spell's tier and cannot influct wounds from attacks during this time.
 
 #### Jolting Grasp
 
@@ -2040,7 +2059,6 @@ A critical success with the spell check allows you to choose not to inflict a wo
 * increase the range by 1 yard
 
 **Critical Failure**: You find the tether attempts to harm you instead of functioning properly. It inflicts an attack of the chosen type against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. If the attack would qualify to damage your armor, it instead knocks you prone.
-
 
 #### Lava Axe
 
