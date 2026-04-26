@@ -46,7 +46,7 @@ When you successfully perform a melee attack against a creature which is casting
 If you have any arcanae memorized and are subject to an attack from a magical effect, *you may use choose to loose one of those memorized arcanae to gain a bonus to defense against that attack equal to the tier of its spell*. If you do, and the attack is not a critical failure, you still suffer the effects of prematurely loosing the arcanae.
 
 ### 6) Improved Studies
-The time to memorize spells is reduced to 12 minutes plus 10 minutes per spell tier.  
+The number of hours required to learn a spell from proper materials cannot exceed its minimum tier multiplied by its recorded tier.  
 You do not suffer a point of Spell Sickness as a result of using your reaction for Reflexive Casting.
 You gain a bonus to your saves against magical effects equal to your [Inte] bonus.
 
