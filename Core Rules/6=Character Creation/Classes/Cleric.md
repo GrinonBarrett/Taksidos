@@ -1,5 +1,5 @@
 # Cleric
-Servents to a higher purpose than the simple pursuit of the lay life, clerics can draw from great traditions to aid others.
+Servants to a higher purpose than the simple pursuit of the lay life, clerics can draw from great traditions to aid others.
 
 **Class Skills**: Select one of the following (Carousing, Lore, Spellcraft).
 
