@@ -69,6 +69,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as an cleric, you gain the following:  
 Your maximum hitpoints are increased by 1.  
 When performing a rite, you may grant yourself a bonus up to your heroism + [Empy] bonus or heroism + [Will] bonus, but take on spell-sickness equal to the bonus you grant yourself.
+When using your Desperate Magic feature, you gain a bonus to the spellcheck equal to your [EMpy] bonus.
 
 #### Splash
 If you splash cleric as a member of another class, you gain the following:  
