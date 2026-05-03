@@ -92,7 +92,7 @@ Unarmed follow up attacks the Ba'Adan makes against a foe the Ba'Adan is brawlin
 
 **Horrid Marring**: If its unarmed attack against a foe it is brawling with or grappled is successful, it also *inflicts a magical attack against that foe. If the attack roll is even, it is fire. If it is odd, it is psychic*.
 
-**Infernal Regeneration**: At the end of any round the hellhound receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers a single hitpoint. It must perform a rest before doing so again.
+**Infernal Regeneration**: At the end of any round the Ba'Adan receives a wound and has any hitpoints remaining, it may use its reaction to roll a d20 and compare it to its current hitpoints. If the result is lower, it recovers a single hitpoint. It must perform a rest before doing so again.
 
 **Blink**: Once per encounter, the Ba'Adan can take on 1d4-1 points of spell sickness as an action to instantly be transported to an unoccupied area it can perceive.
 
