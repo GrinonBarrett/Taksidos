@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (14
+### A (15
 
 #### Abatis
 
@@ -98,6 +98,24 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 **At Higher Tiers**: Each tier above minimum increases the range by 1 yard and the casting time by 1 action.
 
 **Critical Failure**: You accidentally are affected by this spell instead. Additionally, as a result of the spell, you must succeed a [Fort] save or be Obtunded for a number of rounds equal to the tier of the spell.
+
+#### Abridgement
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Range**: 1 yard
+
+**Effect**: When you cast this spell, you may choose to have the duration be a number of rounds equal to the spellcheck result or your concentration. You cannot change this after casting it.
+
+You create a shaped forcefield originating from a point within range which can appear as a bridge, ramp, stairs, knotted rope, ladder, or a beam with handholds. It can bridge a gap or be set aside some natural (or manufactured) feature to make scaling it easier. It can reach no greater than 5 yards this way. The amount of cover such a thing could provide can be dictated by the narrator by your description.
+
+If something would attempt to damage the forcefield, you must attempt a [Magic] check to keep it intact. If you do not have a [Magic] attribute, you perform the check with no attribute bonus. The DV is equal to the attack result.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the distance of the abridgement by half.
+
+**Critical Failure**: You fail to form the proper forcefield and find youself with 1d2 additional points of spell sickness. You also cannot recast the spell while you possess spell sickness.
 
 #### Absenting
 
