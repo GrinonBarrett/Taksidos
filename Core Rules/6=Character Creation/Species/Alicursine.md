@@ -52,6 +52,6 @@ Choose an attribute. It is increased by 1.
 
 **Rough Hide**: Alicursines cannot use armor unless it states otherwise. When unarmored, an alicursine is treated as having Gambeson.
 
-**Innate Power**: You have an innate ability to use magic. When you cast a wyrding and do not apply a [Magic] bonus, you may roll a d4 and add the result to your check. At 4th level, this is increased to a d6. At 7th level this is increased to a d8. At 10th level, this is increased to a d10.
+**Innate Power**: You have an innate ability to use magic. When you cast a wyrding and do not apply a an attribute bonus to the spellcheck, you may roll a d4 and add the result to your check. At 4th level, this is increased to a d6. At 7th level this is increased to a d8. At 10th level, this is increased to a d10.
 
 **Innate Magic**: You have been born with some innate magic power. Choose a spell with a minimum tier of 1. You learn the spell. At 4th level and 9th level each, you may choose a spell with a minimum tier of 1 or 2. You learn the selected spell.
