@@ -424,7 +424,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (12
+### C (13
 
 #### Call Lightning
 
@@ -439,6 +439,28 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 **At Higher Tiers**: For each tier beyond minimum, the range is tripled.
 
 **Critical Failure**: The spell instead targets the closest creature to you. If no creature is within half of the range of this spell, it instead attacks you.
+
+#### Celestial Swords
+
+**Minimum Tier**: 5
+
+**Casting Time**: 2 actions
+
+**Range**: 30 yards
+
+**Duration**: 3 rounds
+
+**Effect**: You designate a point within range from which you wish to materialize a cylinder area of effect. The cylinder stands upright with a base of 15 yards and a height of 50 yards. Any creature even partially within the cylinder's area will find themselves surrounded by sharp blades of radiant energy which prevent all but the most subtle of movements. Creatures within are immobile (though the protection of the very swords holding them in place prevents in loss in defense value). Bright light is shed for 2 yards from the wall of the cylinder, with fair light shed 13 yards further out. Anything within the light produced by this spell loses its invisibility. This can even affect creatures such as Glitterenain.
+
+If a creature attempts to come within a number of yards equal to double the spell's tier, it will suffer a radiant attack. A creature that crosses into the area as a result of that movement suffers a cutting attack and is now bound by the spell.
+
+Any creature which ends an action phase within a number of yards equal to the spell tier of the cylinder suffer an attack roll. If even, it is radiant. If odd, it is cutting.
+
+This spell is capable of binding amorphous creatures and ephemera. Creatures bound by the cylinder are not attacked by it.
+
+**At Higher Tiers**: When cast at 5th tier or higher, in addition to the benefits noted above, you may increase the range by 3 yards.
+
+**Critical Failure**: You exclusively bind yourself with the radiant swords instead, for a number of phases equal to the spell's tier doubled. During this time you are immobile (as the spell would notmally do). At the end of each action phase, you are subject to an attack. If even, it is radiant. If odd, it is a cutting attack. These attacks do not concern themselves with the protection afforded by the blades. The spell produces light from you as though you were the cylinder edge.
 
 #### Charged Wave
 
