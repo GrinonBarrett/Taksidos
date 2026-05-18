@@ -2478,7 +2478,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (10
+### P (11
 
 #### Pagomancy
 
@@ -2545,6 +2545,26 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 **At Higher Tiers**:  Each tier beyond its minimum allows you to increease the level of the d4 die (to a d6, then a d8, etc, until it reachs a d12) and/or increase the size of the fan by 1 yard.
 
 **Critical Failure**: You unintentionally localize the energy... inside of you. You suffer a psychic attack with advantage. After 1d12 rounds, a sphere of energy explodes out from you a number of feet equal to the spell tier. Everything in the sphere suffers a psychic attack, including yourself.
+
+#### Pillar of Flame
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 25 yards
+
+**Duration**: Concentration plus a number of rounds equal to the spell's tier
+
+**Effect**: When you cast this spell, you cause a pillar of flame to erupt from the ground centered on a point you designate within range. The cylinder has a ciricular base 3 yards in width and 15 yards in height. When you summon it, you either give it a direction to head in (it moves a number of yards equal to the spell tier during each movement phase) or have it stand in place.
+
+So long as you are concentrating on the spell, you may expend an action or reaction to move the pillar up to a number of yards equal to the spell's tier.
+
+Anytime the pillar comes in contact with something, it inflicts a fire attack. Additionally, if a creature ends a phase completely within its boundries, that creature suffers a fire attack with a bonus equal to the spell's tier.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may increase the size of the cylinder base and its height by 1 yard.
+
+**Critical Failure**: You produce a pillar of flame centered on yourself instead. The base extends out a number of feet from you equal to the spell's tier. The piller lasts a number of rounds equal to the spell's tier. You cannot be healed or otherwise benefit from fire attacks this spell inflicts against you this way.
 
 #### Plasma Ray
 
