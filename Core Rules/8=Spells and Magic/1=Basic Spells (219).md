@@ -3142,7 +3142,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (9
+### T (10
 
 #### Telekinesis 
 
@@ -3194,6 +3194,33 @@ Clearly, a creature already incapable of hearing has no benefit from this spell.
 **At Higher Tiers**: For each tier above minimum, you may target an additional creature within range.
 
 **Critical Failure**: You have managed to attract the attention of those creatures you sought to tell. For a number of days equal to the points of failure, they will attempt to destroy you in any way they can. So long as you still have spell sickness during this time, they gain advantage on their attacks against you. Additionally, during this time, they will know the general direction towards you- but not how far exactly.
+
+#### Tempestry
+
+**Minimum Tier**: 5
+
+**Casting Time**: 4 actions
+
+**Duration**: as long as you concentrate, up to spell tier rounds
+
+**Effect**: You call the wild power of the storm to enshroud you. The exact effect of the aura varies each phase, depending on which element the aura is channeling. To determine the element channeled when the spell is cast, roll a d4. If your spell check was a critical success, you may choose the initial element instead. At the beginning of each phase, the aura either channels the next element in the cycle (returning to the first after the fourth) or the element is randomly decided via d4 roll (your choice).
+
+1. Wind  
+2. Lightning  
+3. Thunder  
+4. Tide
+
+While the wind is channeled, you gain a fly speed (in yards) equal to double the spell's tier and see any flying or levitation speeds you already possess increased by half of this amount. Additionally, anytime an attack made against you by a creature you can perceive is a success or a critical failure, you may use your reaction to loose a ray of super chilled air at them. This is a cold attack. In place of damaging armor, it can knock a foe back a number of feet equal to the spell tier squared divided by the target's weight in stones. You cannot receive damge from falling.
+
+While the lightning is channeled, you may loose a ray of charged energy at a foe you can perceive within 25 yards as an action or reaction. This is an electrical attack. You are immune to electrical damage and gain a levitation speed of 1 yard. All of your other forms of movement are increased by a third.
+
+While channeling the thunder, your unarmed attacks may be treated as force attacks. Anytime your attack would qualify to damage armor, you inflict a sonic attack against that foe. Anytime you are knocked back or fall, your impact will inflict a sonic attack against everything else within a range equal to your fall/knockback distance as a clap of thunder rolls outwards. Your jump distance is tripled.
+
+While channeling the tide, you gain a swim speed of 15 + spell tier yards and see any other means of swim speed you possessed increase by a number of yards equal to the spell's tier. All nonmagical attacks have disadvantage against you.
+
+**At Higher Tiers**: The benefits of casting at a higher tier are noted above.
+
+**Critical Failure**: You conjure the storm but find it a bit unforgiving. Roll 3 d4s. According to the element indicated, an attack is inflicted against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. Wind inflicts cold, lightning inflicts electric, thunder inflicts sonic, and tide inflicts force.
 
 #### Temporialysis
 
