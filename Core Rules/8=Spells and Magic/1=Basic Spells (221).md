@@ -3558,7 +3558,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (11
+### W (12
 
 #### Waedervalder
 
@@ -3616,6 +3616,24 @@ Something like the Creeping Death spell could move around the barrier if it does
 * The duration is increased by 1 minute.
 
 **Critical Failure**: The forcefield fails to form properly as pieces of forcefield form around your joints until the field eventually shatter. You are prone for a number of rounds equal to the points of failure and receive 1d4 spell sickness.
+
+#### Wardrune
+
+**Minimum Tier**: 2
+
+**Casting Time**: 30 actions
+
+**Duration**: 1 day
+
+**Effect**: You inscribe a rune onto a surface you touch (presumably carving or impressing it in some way while casting) which is to activate as a trap when triggered. This trigger may be set to activate based on visual changes (such as light changing), sound, touch, a command word, or the presnce of a creature. The trigger must be within the range of the explosion radius to activate. Additionally you may set the trap to delay its activation by a number of rounds up to the spellcheck's points of success. Once the rune activates, it explodes out in a 1 yard hemisphere- inflicting a ki attack against everything with range.
+
+If a creature was attempting to identify the rune with spellcraft, the DC is equal to the spellcheck result. A critical failure will trigger the rune to explode and inflict an additional ki attack against the attemptor. If the check is a success, they identify that the rune is destructive in some manner, what the trigger is, and do not set it off. If the check is a critical success, they identify the rune/trigger and can prevent its trigger for a number of phases equal to their points of success. They will know how long they have before it can activate.
+
+**At Higher Tiers**: When cast at 3rd tier or higher, for each tier beyond 2nd, you may choose one of the following
+* Double the duration
+* Increase the radius of the hemisphere by .5 yard.
+
+**Critical Failure**: You create the rune. It immediately explodes, inflicting a ki attack against you with a bonus equal to the spell's tier.
 
 #### Waterworking
 
