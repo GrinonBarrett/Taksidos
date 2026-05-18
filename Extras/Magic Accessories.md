@@ -74,6 +74,11 @@ Neg.
 A silver ring with a small pink topaz nested in its clutch.  
 *The caster may cast the Faux Fos spell as though they knew it. The light put out from this Faux Fos is a neon pink. If the wearer already knew the spell, their casting time is reduced by 1 action*.
 
+**Girdle of Adequacy**, $3,000  
+1.25 lbs.  
+A well made brace to be worn around the torso. Anytime the wearer attempts a [Body] check or save, *they may treat their lowest die result as being equal to their [Body] bonus*.
+
+
 **Green Giant's Bands**, $18,000  
 Unique  
 Neg.  
