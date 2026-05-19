@@ -93,7 +93,7 @@ Additionally, if name is known, *the wearer may cast the spell Sludgery as thoug
 **Humble Band**, $1,700  
 Unique  
 Neg.  
-A plain looking ring. *The wearer's minimum result of a skill check or save is equal to their level if they have a character class. They canmot say anything positive about themself*.
+A plain looking ring. *The wearer's minimum result of a skill check or save is equal to their level if they have a character class. This does not apply to spellchecks. They cannot say anything positive about themself*.
 
 **Imploding Band**, $23,000  
 Unique  
