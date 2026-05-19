@@ -44,9 +44,9 @@ A beautiful cape of the finest design. These items are fairly rare and often cer
 1.5 lb.  
 A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxerious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wesring this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
 
-**Cape of Carpes**, $8,500  
+**Cape of Carpes**, $9,500  
 1 lb.  
-A cape of some blue shade like the waters nearest its weaver. It has a faint waving pattern to its composition. *Once per day, when the iser has swam with the cape in clean enough waters, they may use the cape as a trap to mysteriously catch enough fish to provide 1d4 servings of food when properly prepared*.
+A cape of some blue shade like the waters nearest its weaver. It has a faint waving pattern to its composition. *Once per day, when the user has swam with the cape in clean enough waters, they may use the cape as a trap to mysteriously catch enough fish to provide 1d4 servings of food when properly prepared*.
 
 **Charm of Mitigation**, $3,300  
 1 lb.  
