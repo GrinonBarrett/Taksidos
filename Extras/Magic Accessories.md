@@ -78,7 +78,6 @@ A silver ring with a small pink topaz nested in its clutch.
 1.25 lbs.  
 A well made brace to be worn around the torso. Anytime the wearer attempts a [Body] check or save, *they may treat their lowest die result as being equal to their [Body] bonus*.
 
-
 **Green Giant's Bands**, $18,000  
 Unique  
 Neg.  
@@ -90,6 +89,11 @@ Unique
 Neg.  
 A riing which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
 Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
+
+**Humble Band**, $1,700  
+Unique  
+Neg.  
+A plain looking ring. *The wearer's minimum result of a skill check or save is equal to their level if they have a character class. They canmot say anything positive about themself*.
 
 **Imploding Band**, $23,000  
 Unique  
