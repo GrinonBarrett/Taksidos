@@ -40,6 +40,10 @@ A cloak which seems to glitter as though the threads had brass interwoven into t
 1.5 lb.  
 A beautiful cape of the finest design. These items are fairly rare and often ceremonial. *The wearer gains a +1 to all attributes*.
 
+**Cape of Assurance**, $7,000
+1.5 lb.  
+A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxerious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wesring this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
+
 **Charm of Mitigation**, $3,300  
 1 lb.  
 An unsual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell.
