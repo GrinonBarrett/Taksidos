@@ -49,6 +49,8 @@ Choose three attributes. Each are increased by 1.
 
 ### Special Features
 
+**Fine Apetite**: You require half as much food and water as a standard adventurer.
+
 **Sylphen Knowledge**: You gain proficiency in two skills of your choice.
 
 **Unusual Form**: Unless otherwise noted, sylphes cannot use equipment or armor. 
