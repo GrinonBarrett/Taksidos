@@ -134,15 +134,28 @@ A scholarly tome which is directed at magics involving liquids. It's kind has be
 * Waterworking, 1st
 * Ygroapathy, 3rd
 
-**Codex Valder**  
+**Codex Valder, Volume I**  
 *Unique*  
-$12,000, 5 lbs  
+$6,500, 5 lbs  
 An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
 * Aldervalder, 4th
+* Thornvalder, 4th
+* Wengevalder, 4th
+
+**Codex Valder, Volume II**  
+*Unique*  
+$6,500, 5 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
 * Ertvalder, 4th
-* Isevalder, 4th
+* Fyrvalder, 4th
 * Waedervalder, 4th
-* Wengvalder, 4th
+
+**Codex Valder, Volume III**  
+*Unique*  
+$6,500, 5 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Isevalder, 4th
+* Wildervalder, 4th
 * Wurmvalder, 4th
 
 **Fanijin's Tome**  
