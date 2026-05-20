@@ -1961,7 +1961,7 @@ A critical success with the spellcheck allows you to increases the range travele
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the range traveled by 2 yards or increases the explosion radius by .5 yard.
 
-**Critical Failure**: You instead reappear in the place you were... potentially on fire. This inflicts a fire attack against your and everything else withi 1 foot. The attack gains a bonus against you equal to the spells tier for the purpose of inflicting a critical hit.
+**Critical Failure**: You instead reappear in the place you were... potentially on fire. This inflicts a fire attack against your and everything else within 1 foot. The attack gains a bonus against you equal to the spells tier for the purpose of inflicting a critical hit.
 
 #### Kathrepturgy
 
@@ -1973,7 +1973,7 @@ A critical success with the spellcheck allows you to increases the range travele
 
 **Range**: A number of miles equal to the spell's tier cubed
 
-**Effect**: You touch a reflective surface, transforming it into a portal. This portal leads to another portal you are familiar with within range and which you imagine when casting the spell. If the other portal is not valid, the reflection will instead flash in various colors and become dark for an entire round.
+**Effect**: You touch a reflective surface, transforming it into a magical portal. This portal leads to another magical portal you are familiar with within range and which you imagine when casting the spell. If the other portal is not valid, the reflection will instead flash in various colors and become dark for an entire round.
 
 The caster may spend an entire round concentrating to end the connection prematurely. Additionally, a critical success allows the caster to simply close the portal by using a reaction.
 
@@ -2508,7 +2508,7 @@ If the spellcheck is a critical success, the initial attack gains a bonus equal 
 
 **Range**: 2 yards
 
-**Effect**: You have harnessed some supernatural force. If the attack resolves in a way that inflicts a wound against you, it also inflicts a wound against that creature. The wound die result for both yourself and the other creature will be the same die roll result. If either you or the opposing creature do not receive wounds, the spell will fail unless you use the same alternative (such as creatures of undeath losing points of undeath)- in which case it is considered that an attack of identical nature has been inflicted upon the other creature.
+**Effect**: You have harnessed some supernatural force. If the attack resolves in a way that inflicts a wound against you, it also inflicts a wound against that creature. The wound die result for both yourself and the other creature will be the same die roll result. If either you or the opposing creature do not receive wounds, the spell will fail unless you use the same alternative (such as creatures of undeath losing points of undeath)- in which case it is considered that of an attack of identical nature has been inflicted upon the other creature.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 2 yards.
 
@@ -2586,15 +2586,13 @@ Anytime the pillar comes in contact with something, it inflicts a fire attack. A
 
 **Casting Time**: 2 actions
 
-**Effect**: You explode with noxious fumes and conjured poisons, this reaches out from you up to a number feet equal to the spellcheck's total. The intensity of the explosions will also inflict a force attack against anything within a number of yards equal to the spell's tier. If the tocic attack would qualify to damage armor, it instead influcts exhaustion.
-
-Any creature that hears the loop repeat can attempt a [Prcp] check with a DV equal to the spellcheck's result + tier to discern its illusory nature and be unproturbed by it.
+**Effect**: You explode with noxious fumes and conjured poisons, this reaches out from you up to a number feet equal to the spellcheck's total. The intensity of the explosion will also inflict a force attack against anything within a number of yards equal to the spell's tier. If the toxic attack would qualify to damage armor, it instead inflicts exhaustion.
 
 A critical success with the spell check will also cause the force attack to inflict knockback in half-feet equal to the attack total against that creature.
 
 **At Higher Tiers**: When cast at 4th tier or higher, in addition to the benefits noted above, the toxic attack gains a bonus for each tier beyond 3rd for the purpose of influcting a critical hit.
 
-**Critical Failure**: You seem to have poisoned yourself in a strange manner. At the end of each round for a nimber of rounds equal to the spell's tier, an unlisted attack is influcted against your [Fortitude]. A critical hit will inflict a toxic attack against your [Fort].
+**Critical Failure**: You seem to have poisoned yourself in a strange manner. At the end of each round for a number of rounds equal to the spell's tier, an unlisted attack is inflicted against your [Fortitude]. A critical hit will inflict a toxic attack against your [Fort].
 
 #### Portalence
 
@@ -2739,7 +2737,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards or grants a +1 bonus to the redirected ray's attack roll.
 
-**Critical Failure**: You direct the ray towards yourself, granting it a bonus to its attack roll equal to this spell's tier.
+**Critical Failure**: You direct the ray towards yourself, granting it a bonus to its (initial) attack roll equal to this spell's tier.
 
 #### Resilireism
 
@@ -2783,13 +2781,13 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 
 **Minimum Tier**: 2
 
-**Casting Time**: 1 acation + 1 action per missile
+**Casting Time**: 1 action + 1 action per missile
 
 **Range**: 75 Yards
 
 **Effect**: You enchant a nonmagical arrow or bolt in your possession to fly towards a target of your choice within range, inflicting an appropriate attack per the arrow/bolt. If such a missile successfully wounds a foe or qualifies to damage their armor, it also inflicts a fire attack.
 
-If the spellcheck was a critical success and you have any tra8ning with bows/crossbows as appropriate to the missile, you gain the benefit of that training.
+If the spellcheck was a critical success and you have any training with bows/crossbows as appropriate to the missile, you gain the benefit of that training.
 
 **At Higher Tiers**: When cast at 3rd tier, for each tier beyond 2nd, you may either loose an additional missile or reduce the casting time by 1 action (to a minimum of 1 action). Each missile must have a different target.
 
@@ -2852,7 +2850,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Casting Time**: 10 minutes
 
-**Effect**: You produce a magical circle, filled with some incomprehensible fomrulae, which stretches out between 1 and 5 yards- either on the ground or the ceiling. The circle lasts for a number of days equal to the spell's tier.
+**Effect**: You produce a magical circle, filled with some incomprehensible formulae, which stretches out between 1 and 5 yards- either on the ground or the ceiling. The circle lasts for a number of days equal to the spell's tier.
 
 Anything inside of the circle is incapable of influencing anything outside of the circle. This includes cast spells, using wands or other magic items, or the magical aspects of some feature. This circle can affect something regardless of how high or low from the circle it is, so long as no structure exists between them.
 
@@ -3558,7 +3556,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (12
+### W (13
 
 #### Waedervalder
 
@@ -3715,6 +3713,20 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 **At Higher Tiers**: Each tier beyond its minimum can can affect the implosion radius (increasing or decreasing) by 1 yard, this decision is made after the d12 is rolled.
 
 **Critical Failure**: Instead of forming the orb, the shadows swirl around you. For a number of rounds equal to the spell's tier, you are subject to a necrotic attack at the end of each round. When one of these attacks fails to harm you, you accrue a point of spell sickness. You also have disadvantage on all [Prcp] checks and saves during this time. 
+
+#### Wildervalder
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 10 yards
+
+**Effect**: You conjure a spirit of nature to strike a foe within range, treat as a toxic attack against the target's [Prcp]. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a ki against the same foe at the end of each action phase. In place of inflicting a wound, it inflicts a point of inebriation. It cannot damage armor and has disadvantage on attacks against any creature immune to the effects of illusions.
+
+**At Higher Tiers**: When cast at 4th tier or greater for each tier beyond 3rd, the range (including the range at which can be directed towards a new target) are both increased by 5 yards.
+
+**Critical Failure**: You conjure the spirit but it is angered. It chooses you as its sole target and will remain for a number of phases equal to your points of failure. Additionally, if its attack would qualify to damage your armor- it instead inflicts a psychic attack against you.
 
 #### Wisp Away
 
