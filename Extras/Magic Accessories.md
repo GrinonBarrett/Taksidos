@@ -102,6 +102,11 @@ Neg.
 A riing which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
 Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
 
+**Helm of Silence**, $6,800  
+Unique  
+2 lbs.  
+This fairly ordinary steel helm provides proper protection like any helm should. *Wearer is immune to sonic attacks. Wearer is also unable to hear anything. If name is known  the user may take on 1d4+2 points of spell sickness as an action to cause a sphere stretching a number of feet out from them equal to the spell sickness gained to be affected the same way for a total of 1 minute. The sphere does not move with the helm*.
+
 **Humble Band**, $1,700  
 Unique  
 Neg.  
