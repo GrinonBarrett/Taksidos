@@ -86,6 +86,10 @@ A silver ring with a small pink topaz nested in its clutch.
 1.25 lbs.  
 A well made brace to be worn around the torso. Anytime the wearer attempts a [Body] check or save, *they may treat their lowest die result as being equal to their [Body] bonus*.
 
+**Glowing Ring**, $900  
+Neg.  
+A ring of any style or material. Much foner craftsmanship will incur a greater value than is listed, of course. *Produces dim light for .5 feet when worn*.
+
 **Green Giant's Bands**, $18,000  
 Unique  
 Neg.  
@@ -124,6 +128,10 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 **Jeel in a Jar**, $8,500  
 1 lb, plus contents.  
 A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to reutrn. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
+
+**Lambant Cloak**, $4,000  
+1.5 lb.  
+A well enough cloak, it is comforting to some. *The user may choose to take on a point of spell sickness to activate the cloak. It radiates a smooth, if flickering  loght. This is fair light extending 1 foot and dim light reaching 5 feet beyond that. For every hour it is still active, it will incur the wearer an additional point of spell sickness. In combat, the flickering intensifies and the spell sickness will be 8ncirred at the end of every round instead. The light can be turned off at will*.
 
 **Nefalesider**, $600 per yard  
 1.5 lb. per yard.  
