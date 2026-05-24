@@ -2678,7 +2678,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (9
+### R (10
 
 #### Rage Fist
 
@@ -2695,6 +2695,22 @@ You cannot use items with any body part affected this way.
 **At Higher Tiers**: For each tier beyond minimum, you may either increase the duration by 5 rounds or reduce the casting time by 1 action (to a minimum of 1 action).
 
 **Critical Failure**: You channel the magical energy but fail to control it, an attack of the chosen type is inflicted against you of the chosen type with a bonus equal to the spell's tier for the purpose of determining a critical hit.
+
+#### Refulgence Barrier
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 5 yards
+
+**Effect**: You summon a bright shimmoring wall wall between 2 inches and 1 foot thick, up to 10 feet high, and up to 25 feet wide. The barrier does not impose itself into or through any object which was already in place when the wall materializes. It produces bright light out for 3 yards, fair light for 2 yards beyond that, and dimlight for 1 yard beyond that. The wall itself is so intense in its brightness that it cannot be seen through. Any creature which attempts to pass through the barrier is subject to a rafiant attack. A success does not inflict a wound, and instead prevents a creature from moving past the barrier.
+
+The barrier lasts as long as you concentrate on it plus an additional number of phases equal to the spell tier. If the spellcheck was a critical success  it lasts a gurther number of phases equal to your [Magic] bonus.
+
+**At Higher Tiers**: When cast at 3rd tier or greater for each tier beyond 2nd, the width and height of the wall can each be inscreased by 1 yard.
+
+**Critical Failure**: You see the brightest light you will ever know, in a color your eyes have never been able to see before. You receive a number of radiant attacks equal to the spell's tier, which each gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. In place of standard wounds, you receive an instance of archeblight.
 
 #### Regeneration
 
