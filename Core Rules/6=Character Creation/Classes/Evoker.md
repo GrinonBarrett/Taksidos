@@ -45,7 +45,7 @@ Once per round as an action, if you performed a Ki Step during the previous phas
 When you use your action to fire a Ki Blast, you may fire any number of ki blasts by spending an amount of Ki equal to the attacks fired +1. Each attack may have the same or different target. Each attack against the same target gets a -1 penalty for each other ki blast targeted against them.
 
 ### 4) Empowered Slam
-You may spend any amount of ki when you slam a foe to gain a bonus to your result equal to the ki spent this way.
+You may spend any amount of ki when you slam a foe to gain a bonus to your result equal to the ki spent this way. For every three points of ki spent this way, you gain an additional +2 bonus to your check result.
 
 ### 4) Some Training
 Choose an attribute. It is improved by 1. You gain training in a weapon of your choice.
