@@ -2478,7 +2478,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (11
+### P (12
 
 #### Pagomancy
 
@@ -2545,6 +2545,20 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 **At Higher Tiers**:  Each tier beyond its minimum allows you to increease the level of the d4 die (to a d6, then a d8, etc, until it reachs a d12) and/or increase the size of the fan by 1 yard.
 
 **Critical Failure**: You unintentionally localize the energy... inside of you. You suffer a psychic attack with advantage. After 1d12 rounds, a sphere of energy explodes out from you a number of feet equal to the spell tier. Everything in the sphere suffers a psychic attack, including yourself.
+
+#### Phoinixurgy
+
+**Minimum Tier**: 4
+
+**Casting Time**: 1 reaction, which you make to failing an incapacitation save
+
+**Effect**: You rise to stand in an explosion of flame, inlicting a fire attack against everything else within 5 yards. You function as though you weren't incapacitated regardless of whether you would have been or not. Anything which inflicts an attack against you from within 1 yard receives a fire attack. You gain a fly speed equal to the spell's tier doubled plus the number of wounds you have. You may use your action or reaction to inflict a fire attack against a creature you can perceive within 25 yards.
+
+You continue for a number of rounds equal to the spell's tier. If the spellcheck was a critical success, this is extended by your [Magic] bonus. When it ends, you explode in flames- inflicting a fire attack against everything within a number of yards equal to the spell's tier squared. You cannot cast the spell again before completing a full rest.
+
+**At Higher Tiers**: The benefits for casting the spell at higher tiers is noted above.
+
+**Critical Failure**: You explode in fire, causing a fire attack to be inflicted against everything within a number of yards equal to the spell's tier squared (including yourself). You must perform an incapacitation save afterwards with a penalty equal to the spell's tier.
 
 #### Pillar of Flame
 
