@@ -20,7 +20,7 @@ Naturally magical individuals who have the ability to access a magical field whi
 
 
 ### Spell Points
-You have a pool of spell points which represent your ability to draw from the weave. This pool takes time to recover, regaining 1 point upon completing a long rest and half of your missing spell points upon completing a full rest.
+You have a pool of spell points which represent your ability to draw from the weave. This pool takes time to recover, regaining 1 point upon completing a long rest and half of your missing spell points upon completing a full rest. The maximum amount possessed is shown on the Magi table.
 
 ### Magicraft
 You are capable of tapping into the latent magics. When you perform a spell check, a skill check involving the nature of magic, or a save against a magical effect, you may spend a single spell point to gain a bonus equal to your [Will] bonus.  
