@@ -40,7 +40,7 @@ The creature gains a 1d4 bonus to the next save the make and a +1 bonus to any s
 Anytime you make a save against a fear effect, you may roll a d6 and add the result to your total.
 
 ### 3) Command: Mark
-The next attack made against the target of this command before the end of the next round gains a 1d2 bonus.
+The next attack made against the target of this command before the end of the next round gains a 1d2 bonus. Any creatures that you choose and are able to perceive you know the exact location of a foe marked this way until end of round (they are considered to be able to perceive them if they choose).
 
 ### 4) Command: Run
 Target creature may use their reaction in response to this command to take a movement. This cannot result in brawling or trampling.
