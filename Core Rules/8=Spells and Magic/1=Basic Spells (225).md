@@ -1353,7 +1353,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (8
+### G (9
 
 #### Glacial Brand
 
@@ -1470,6 +1470,29 @@ A critical success with the spellcheck does not consume the skull.
 **Critical Failure**: The skull levitates and faces you, blasting you with unintended powers. It inflicts two attacks against you, one of each chosen type. These attacks gains a bonus against you equal to half of the spell's tier for the purpose of inflicting a critical hit. It then disintigrates.
 
 ###### In case someone decides to use a perdrine as the skull, it receives a wound in place of being destroyed.
+
+#### Grave Mark
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 15 yards
+
+**Effect**: You carve a vile sigil in the thick air and direct it towards a creature within range, influcting an undamaging attack. If the attack is successful, the creature is marked. If it is a critical success, it suffers Archblight. If the attack is a critical failure, you suffer a point of spell sickness.
+
+If a marked creature dies before the end of the next round, you may choose one of the following benefits (chosen at the moment of death);  
+* You recover a hitpoint, so long as your current hitpoints don't exceed its maximum hitpoints.
+* You recover a level of fatigue, so long as its fatigue was not greater than yours.
+* You cause a shadowy vapor to reach out towards a creature within 15 yards of it that you can perceive. This inflicts a necrotic attack.
+* The creature cannot be reanimated or restored to life by any means.
+* The sigil explodes, inflicting a necrotic attack against everything within 1 yard of the creature.
+
+The sigil disappears if the creature remains when time expires, but will make itself permanent if the creature perishes in time. No spell of an equal or lower tier can remove such a sigil made permanent this way.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either increase the duration the sigil lasts by 1 round or 8ncrease the range of the spell by 2.5 yards.
+
+**Critical Failure**: You have played with powers you ought not too. You suffer a necrotic attack with a bonus equal to the spell's tier for the purpose if inflicting a critical hit. Additionally, the harmful attacks of undead and ephemera creatures have advantage against you for a number of days equal to the spell's tier.
 
 #### Gravitic Disruption
 
