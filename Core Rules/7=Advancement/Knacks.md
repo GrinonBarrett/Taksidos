@@ -39,7 +39,7 @@ When attempting to use stealth, you may use your reaction to roll a d4 and reduc
 **Somatic Components**, 2 items  
 You can perform gestures to grant youself a bonus to your spell check. You gain a d4+X bonus to your spell check, where X is the spell tier. When wearing Gambeson armor, this is reduced to 1d4. In other armor, you gain only a +1 bonus.  
 You cannot use equipment in your hands when casting a spell with somatic components, save for a tome you may be using as reference to the spell, nor can you benefit from this if you are in anyway bound or restrained.  
-If you have initiated this within reach of another's melee attack range, you provoke an attack of opportunity from that creature if they choose to expens their reaction.
+If you have initiated this within reach of another's melee attack range, you provoke an attack of opportunity from that creature if they choose to expend their reaction.
 
 **Spin Strikes**, 1 item  
 Anytime you would perform a melee attack while you are not mobile or prone, you may choose to have the attack instead resolve at the beginning of the next phase. If you do, you gain a bonus equal to your [Body] bonus or [Rflx] bonus for the purpose of inflicting a critical hit. If you do, you are vulnerable until the end of the phse the attack is resolved. If an attack against you is successful, you no longer are vulnerable and your attack will not resolve.
