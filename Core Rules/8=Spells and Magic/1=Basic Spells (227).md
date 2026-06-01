@@ -1532,7 +1532,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (9
+### H (10
 
 #### Habroism
 
@@ -1659,6 +1659,35 @@ If you are damaged more than once, fail an incapacitation save in any degree, or
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
 
 **Critical Failure**: You transform successfully, but have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
+
+#### Hyper Rot
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 1 yard
+
+**Duration**: A number of rounds equal to the spell's tier
+
+**Effect**: You cause the flesh of a creature to turn in a manner that will ultimately cause its downfall... or leave it horribly disfigured. It is subject to the following;  
+
+ • Necrotic attacks against it gain advantage.  
+ • It is vulnerbale if donning armor. The armor and its skin greatly disagree. 
+ • Minimum [Body] bonus is equal to its [Will] bonus.
+ • Disadvantage on [Fort] saves and [Empy] checks.
+ • Advantage on [Body] checks.
+ • Unaffected by spells which would affect flesh.
+ • Any wounds received become permanent.
+ • Any effect which would heal the subject has a 1 in 3 chance not to.  
+ • Loses a hitpoint anytime an attack against it would qualify to damage armor.
+ • Receives a necrotic attack at the end of each round.
+
+A Disimpress of equal or greater level can end the duration.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the above noted benefits, you may choose to either increase the range by 2 yards or affect an additional creature.
+
+**Critical Failure**: You fail to transfer the transmutation properly. You are affected by it yourself. Furthermore, you are vulnerable so long as you have spell sickness.
 
 #### Hyperstride
 
