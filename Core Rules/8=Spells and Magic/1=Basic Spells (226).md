@@ -2715,7 +2715,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
 
-### R (10
+### R (11
 
 #### Rage Fist
 
@@ -2807,6 +2807,28 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 **At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
 
 **Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+
+#### Return Life
+
+**Minimum Tier**: 9
+
+**Casting Time**: 30 actions
+
+**Range**: 1 yard
+
+**Effect**: You seek to bring to life a creature within range that has been dead for no more phases than the spell's tier squared (upon completion of the spell, not commencing of it). It is restored to life with wounds and conditions it had before (such as spell sickness, hermorrhage, fatigue, etc) but is considered stable for the purpose of determining if it needs to make incapacitation saves. It must make a [Will] save and a [Fort] save. Both saves have a DV equal to the number of whole rounds the creature had been dead. 
+
+A critical success with the [Will] save will grant it a bonus equal to the spell's tier to saves against fear effects for a number of days equal to the spellcheck's points of success as the creature grapples with a feeling of nesr immortality as death's certainty is made ill proven. A failure with the [Will] save will daze the creature for a number of rounds equal to the points of failure as its senses return to it. A critical failure also dazes, but causes the creature to suffer disadvantage on all saves against fear effects and [Prcp] saves and checks for a number of days equal to the total number of phases it was dead as it struggles to grasp the reality of what has occured and feels an overwhelming paranoia.
+
+A critical success with the [Fort] save grants advantage on the next incapacitation save it would make before the end of the next round. A failure causes the creature to be prone, as it struggles with its motor skills, for a number of rounds equal to the points of failure. A critical failure causes it to also be vulnerable during this time.
+
+A creature returned this way is completely unresponsive for 2d6+5 rounds before it is animate. Eldritch, Elemental, Ephemera, Fiend, Fey, and Undead creatures cannot be restored to life this way.
+
+If the caster has already cast this spell successfully, they will continue to feel as though they are being watched by something they cannot uncover until their untimely demise. The spell never seems to work on the same creature twice.
+
+**At Higher Tiers**: The benefits for casting the spell at higher tiers is noted above.
+
+**Critical Failure**: You bestow animating force to the creature, with it animating in 2d12+6 rounds. It animates as a Vengeful Dead, whose sole purpose is to destroy their creator. They will always know the general direction of their creator, if not the distance.
 
 #### Rhúns
 
