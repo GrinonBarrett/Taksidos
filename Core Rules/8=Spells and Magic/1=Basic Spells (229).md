@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (15
+### A (16
 
 #### Abatis
 
@@ -240,6 +240,20 @@ A critical success with the spell check will allow you to change the loop as an 
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may increase the range by 15 yards.
 
 **Critical Failure**: You seem to produce the sound as intended. It lasts for a number of rounds equal to the spell's tier. The sound also emits from yourself. The only sound you can hear during this time is the sound from the spell. You also receive 1d3 points of spell sickness.
+
+#### Autobelisk
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to failing (but not critically failing) an incapacitation save
+
+**Effect**: You die. In your place, your remains warp and transmute into a macabre memorial. Those you are familiar with may treat a 1 yard space around the monument as a magical portal they are familiar with. When the monument is destroyed, a Nrall is summoned and will take vengeance on the one(s) that defiled your memorial. It will cease to be after that.
+
+Uf the spellcheck was a critical success, you may choose to explode with necrotic energies, inflicting a necrotic attack against everything a number of yards equal to the spell's tier- except those creatures you may wish to protect from this.
+
+**At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may increase the area that the portal encompasses by 1 yard in all directions. Additionally, when cast at 5th tier or above, an additional Nrall is summoned for every 3 tiers beyond minimum.
+
+**Critical Failure**: You die.
 
 
 ### B (11
