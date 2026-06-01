@@ -1546,7 +1546,7 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
-### H (10
+### H (11
 
 #### Habroism
 
@@ -1629,6 +1629,18 @@ If you are familiar with the creature to be affected, the attack has advantage.
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
 **Critical Failure**: You and the subject both incur a level of fatigue. If you had targeted yourself, you enjoy both levels of fatigue.
+
+#### Holding Form
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action or reaction
+
+**Effect**: You choose an amount of time upto a number of phases equal to the spellcheck result. You become a statue of yourself for this time. You may choose to appear crafted of any earthen material you are aware of or painted. You are petrified during this time. If you would be damaged in any degree, you may choose to return to your normal form.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, you may multiply the maximum duration by the number of tiers beyond minimum squared.
+
+**Critical Failure**: You still transform yourself into a statue, but fo not have the same control over the specifics. You are petrified for a number of minutes equaal to the spell's tier.
 
 #### Hydravidity
 
