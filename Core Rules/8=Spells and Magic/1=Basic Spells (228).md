@@ -3264,7 +3264,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (10
+### T (11
 
 #### Telekinesis 
 
@@ -3357,6 +3357,39 @@ Improve the die level of the d6 by one.
 THe caster may affect an additional creature through touch. The total time passed this way is divided by 1 + the total number of creatures affected this way.
 
 **Critical Failure**: The time that passess is multiplied by the points of failure. Additionally, you gain spell sickness eqal to the points of failure.
+
+
+#### Vol d'esprit
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature you can perceive dying
+
+**Range**: 5 yards
+
+**Effect**: You steal a little essence from a passing creature. Until the end of the encounter, you have that creature's turn order chit. At the start of each round, you may choose which chit to use. While you possess an excess chit this way- you may choose to loose one you are not using in exchange for gaining advantage on a check or save.
+
+If the creature did not actually die when you cast this, the spell fails.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the range by 2.5 yards.
+
+**Critical Failure**: You instead peer into a realm you should not have accessed. You gain inebriation equal to the spell's tier.
+
+#### Theft of Essence
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to a creature you can perceive dying
+
+**Range**: 5 yards
+
+**Effect**: You steal a little essence from a passing creature. Until the end of the encounter, you have that creature's turn order chit. At the start of each round, you may choose which chit to use. While you possess an excess chit this way- you may choose to loose one you are not using in exchange for gaining advantage on a check or save.
+
+If the creature did not actually die when you cast this, the spell fails.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the range by 2.5 yards.
+
+**Critical Failure**: You instead peer into a realm you should not have accessed. You gain inebriation equal to the spell's tier.
 
 #### Thornvalder
 
