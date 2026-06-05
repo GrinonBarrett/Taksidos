@@ -2556,7 +2556,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (12
+### P (13
 
 #### Pagomancy
 
@@ -2577,6 +2577,22 @@ If the spellcheck is a critical success, the initial attack gains a bonus equal 
 * The secondary attack gains a +1 bonus
 
 **Critical Failure**: You seem to cast the spell as intended, except it originates at your space.
+
+#### Passage
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Effect**: You touch a solid surface, tracing a door and (optionally) a handle. The outline becomes a door made of the very same material as the wall. Where there would be hinges, the space the material would occupy instead folds itself in such a way as to not disturb the material itself yet still allow the "door" to swing. This door can be as thick as a number of inches equal to the spell's tier doubled. The door lasts until the end of the second round following the casting of this spell. When the spell ends, space unfolds in such a way so as to appear almost as though the spell was never cast in the first place.
+
+If cast on a surface with material thicker than the door, the door is still created- with the remainder of the material remaining on the other side of the door. This cannot be cast on a portal which already exists.
+
+If the spellcheck is a critical success, you may spend an action to prematurely end the spell. Alternatively, you could choose to eliminate any trace of the spell having been cast. This decision is made when the spell is cast.
+
+**At Higher Tiers**: The benefits for casting at a higher tier are noted above.
+
+**Critical Failure**: Your tracing glows as though its about to form. You and creatures you are familiar with cannot interact with it in anyway nor can such creatures pass through. You gain an additional point of spell sickness.
 
 #### Pain Split
 
