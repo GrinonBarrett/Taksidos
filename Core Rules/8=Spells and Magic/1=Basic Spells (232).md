@@ -3306,7 +3306,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (11
+### T (12
 
 #### Telekinesis 
 
@@ -3400,23 +3400,6 @@ THe caster may affect an additional creature through touch. The total time passe
 
 **Critical Failure**: The time that passess is multiplied by the points of failure. Additionally, you gain spell sickness eqal to the points of failure.
 
-
-#### Vol d'esprit
-
-**Minimum Tier**: 2
-
-**Casting Time**: 1 reaction, which you take in response to a creature you can perceive dying
-
-**Range**: 5 yards
-
-**Effect**: You steal a little essence from a passing creature. Until the end of the encounter, you have that creature's turn order chit. At the start of each round, you may choose which chit to use. While you possess an excess chit this way- you may choose to loose one you are not using in exchange for gaining advantage on a check or save.
-
-If the creature did not actually die when you cast this, the spell fails.
-
-**At Higher Tiers**: For each tier beyond minimum, you may increase the range by 2.5 yards.
-
-**Critical Failure**: You instead peer into a realm you should not have accessed. You gain inebriation equal to the spell's tier.
-
 #### Theft of Essence
 
 **Minimum Tier**: 2
@@ -3504,6 +3487,29 @@ If you have the foe grappled, both initial attacks gain a bonus equal to the spe
 **Critical Failure**: Your fist (or other appropriate bodypart) catches on fire. The spell instead inflicts a fire attack against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. Residual burning causes you to emit light like a torch for a number of phases equal to the spell's tier.
 
 [Torching Fist]: # "Inspired by Michael Hasty choosing an element and name for this spell while brainstorming ideas for a melee combat spell."
+
+#### Transference
+
+**Minimum Tier**: 5
+
+**Casting Time**: 1 reaction, which you take in response to your own incapacitation save result being any result except a critical failure.
+
+**Range**: 3 yards
+
+**Effect**: You cause a creature you can perceive within range, or the nearest creature to you perform (if unconscious, your choice if conscious), an incapacitation save. If it critically fails, it does not die. Instead, your consciousness now occupies its body and vice versa. Both of you have your creature type changed to Monster.
+
+The exact effect of this transfer is at the discretion of the narrator, but each creature statblock will lose [Inte] and [Empy] equal to its current bonus respectively and gain [Inte] and [Empy] equal to the other creature's bonus respectively. Both creatures will also be dazed for a number of rounds equal to 100 divided by their new [Fort] score.
+
+If the spell targets a monster, and its save result is odd, it suffers a penalty equal to the spell's tier.
+
+This cannot be cast by, or target, any of the following creatures;  
+Avatar, Construct, Eldritch, Elemental, Ephemera, Fiend, Undead, a Mindless Creature, or a Creature of Undeath.
+
+If the spell check is a critical success, you may halve the time you and/or th other creature are dazed.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, you may choose to either increase the range by half or increase the incapacitation save DV by 1.
+
+**Critical Failure**: You feel an existential crisis come over you. You suffer a penalty to your next incapacitation save equal to the spell's tier, regardles of when that happens.
 
 #### Turn
 
