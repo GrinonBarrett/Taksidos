@@ -173,6 +173,14 @@ Neg.
 A simple gloden ring with a little embelishment.  
 *As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time*.
 
+**Ring of Electrocution**, $15,500  
+Unique  
+Neg.  
+A band of gold and copper twisted together.  
+*Anytime an electric attack would inflict an attack against a creature other than the wearer, but it could reach the wearer instead, it is redirected to the wearer. If an electric attack was originally targeted against the wearer, it has advantage. The wearer may use their reaction to impose disadvantage against any incoming electrical attack. If they do, and the attack is a critical failure, they may choose one of the following*;  
+* *Regain use of their reaction*.
+* May inflict an unarmed attack against a creature within range. *If they do, they may choose to either treat the attack as an electrical attack or also apply the effect of an electrical attack if the attack is a critical hit*.
+
 **Ring of Elemental Charge**, $ 10,000 + $3,000 per maximum charge  
 Neg.  
 A fine ring with a twisting pattern engraved.  
