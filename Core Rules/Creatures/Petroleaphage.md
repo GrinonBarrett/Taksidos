@@ -32,7 +32,7 @@ A silky amber-black ooze which glistens with rainbow refraction when light catch
  
 ---------------------
 
-**Table**: *Attack versus Creature* ***needs to be fixed later***
+**Table**: *Attack versus Creature*
 | Weapon                 |          |            |         |            |         |
 |------------------------|-----------|----------|------------|---------|------------|
 |                        |          |            |         |            |         |
