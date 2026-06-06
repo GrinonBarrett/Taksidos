@@ -1560,7 +1560,21 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Critical Failure**: You see the goobe flicker into alexistance and flicker out. You receive spell sickness equal to 1d2 + half of the spell's tier.
 
-### H (11
+### H (12
+
+#### Hablliwism
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Duration**: Concentration + a number of rounds equal to spell tier
+
+**Effect**: You produce an invisible sphere in which all senses are dulled, sounds become hazy, and color departs. This sphere projects out for 10 yards and grows an additional yard at the end of each phase you concentrate on the spell. All creatures within the sphere have disadvantage on [Prcp] checks and saves. When a creature attempts to cast a spell within the area, after the attempt has been made (regardless of result) they receive spell sickness equal to the spell's tier. Checks/saves made against the effects of illusions inside the sphere gain advantage. Illusory creatures within the sphere have disadvantage on any checks/saves they perform inside of the sphere. If a counterspell check result made within the sphere is ever the exact same as the spell's tier, that creature's result is treated as 0.
+
+**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above,for each tier beyond minimum- you may chose to either increases the intitial stretch of the sphere by 1.5 yards or the growth rate by 1 foot.
+
+**Critical Failure**: You have localized the effect to just yourself, and it lasts so long as you have spell sickness.
 
 #### Habroism
 
