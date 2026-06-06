@@ -1367,7 +1367,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (9
+### G (10
 
 #### Glacial Brand
 
@@ -1545,6 +1545,20 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the size of the thorns by a foot.
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
+
+#### Guarding Globe
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Duration**: Concentration + a number of phases equal to the spell's tier
+
+**Effect**: You project a shimmering translucent sphere which stretches out 5 yards from yourself. The sphere does not interpose itself in occupied space. Ray attacks which would pass through the sphere have no effect. Ray attacks of spells of a higher tier than this spell are not affected. If the ray is of an equal or lower tier spell, but it is greater than half of this spell's tier, the attack suffers a penalty equal to this spell's tier.
+
+**At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, you may chose to have the sphere stretch out up to 2 additional yards per tier beyond minimum.
+
+**Critical Failure**: You see the goobe flicker into alexistance and flicker out. You receive spell sickness equal to 1d2 + half of the spell's tier.
 
 ### H (11
 
