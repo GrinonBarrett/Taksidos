@@ -3769,7 +3769,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (13
+### W (14
 
 #### Waedervalder
 
@@ -3898,6 +3898,28 @@ As a reaction, if the spirit attacks a foe casting a spell, you may attempt to c
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary phase, you incur 1d2-1 points of spell sickness. You are prone during this time.
+
+#### Wet Globe
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Duration**: Concentration
+
+**Effect**: You produce a a globe of strange fluid which hovers at a point you designate within range. It stretches out 2 yards. It does not function like most expected fluids. The globe cannot be bypassed except by creatures with a swim speed. Their movement within the globe is divided by the spell's tier. Creatures/objects which might normally float on water are instead pulled into the center of the globe. Creatures which normally sink in water or similar liquids cannot pass the globe at all. No creature can breathe within the globe. Projectiles that pass through the globe treat the distance traveled within as being multiplied by 10.
+
+A creature pulled into the globe can attempt to wrestle free if it has a swim speed by using their reaction when attempting to move. This is a [Body] Athletics check. The DV is equal to double the spell's tier plus the points of success on the spellcheck. If it cannot clear the sphere with its movement, it is returned to the center.
+
+The globe evaporates when you leave range of it, unless your spellcheck was a critical success.
+
+The fluid cannot be removed from the globe or consumed.
+
+**At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, for each tier beyond minimum- you may chose to either increase the range by 3 yards or the size of the globe by 1 yard.
+
+**Critical Failure**: You have created the globe and trapped yourself in it for a number of rounds equal to the points of failure. Anytime you would move, you may expend your reaction to try to swim out of it if you have a swim speed. The DV of this is triple the spell's tier + the points of failure on the spellcheck. A success only barely grants any movement, reducing the number of rounds you would be trapped by 1. You may also expend your action by taking on a level of fatigue to perform such a check.
 
 #### Wicked Ray
 
