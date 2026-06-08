@@ -1367,7 +1367,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (10
+### G (11
 
 #### Glacial Brand
 
@@ -1559,6 +1559,35 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, you may chose to have the sphere stretch out up to 2 additional yards per tier beyond minimum.
 
 **Critical Failure**: You see the goobe flicker into alexistance and flicker out. You receive spell sickness equal to 1d2 + half of the spell's tier.
+
+#### Gunkitude
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Duration**: 1 minute
+
+**Effect**: A creature you touch will begin to transform into an ooze, a transformation which is completed by the end of the round. This confers a few changes to it;  
+
+ • It does not need to breathe.  
+ • It and all of its possessions on its person meld into you in the new form. This new form can fit into a space of 1 liquid ounce per half-pound pound of its being. Its size category is reduced by 1 if possible.   
+ • Its defense against all attacks is 15.  
+ • It does not receive damage from being crushed (including crushing attacks), falling, or knockback.
+ • Acid attacks against them have disadvantage and cause them to be prone for a number of rounds equal to the points of success. This is cumulative.  
+ • Bare attacks have no effect on it.   
+ • Other than noted above, you are immune to critical hits.  
+ • It cannot speak in this form.  
+ • Its run speed is 4.5 yards.  
+ • Its climb speed is 3 yards.  
+ • It ignores any form of non-magical Acid, Club, or Toxic attacks of an odd result.  
+ • Any effect which would heal it has a 3 in 8 chance not to.    
+
+If it is damaged, fails an incapacitation save in any degree, or would be divided while in this form- it will immediately reconstitute into its previous form. If it reverts as a result of damage, it must immediately perform an incapcitation save.
+
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
+
+**Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
 ### H (12
 
