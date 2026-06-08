@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (16
+### A (17
 
 #### Abatis
 
@@ -178,6 +178,25 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. You are prone during this time.
+
+#### Amperism
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Duration**: 10 rounds
+
+**Range**: 20 yards
+
+**Effect**: A field of constant sparks erupts out for 25 yards from the point you originate witihin range. The field itself is rather harmless, but does ignite flammable materials. Additionally, electrical attacks within the area have advantage.
+
+**At Higher Tiers**: When cast at 4th tier, for each tier beyond minimum, you may choose one of the following;  
+* Increase the duration by 5 rounds
+* Increase the range by 1.5 yards
+* Increase the stretch of the field in all directiions by 1 yard
+
+**Critical Failure**: You instead cause yourself to be electrocuted. You suffer an electric attack with a bonus equal to the spell's tier. If the attack would qualify to damage armor, a second attack is inflicted instead. Only a single additional attack could occur.
 
 #### Animation
 
