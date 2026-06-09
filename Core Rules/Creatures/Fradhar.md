@@ -74,4 +74,4 @@ Appearing as a pseudo-bipedal reptilian, their face represents a massive heater 
 
 **Deeply Disturbing**: The fradhar gets a d4 bonus to counterspell checks made against another creature casting a spell. If that creature critically fails its counterspell check, it receives a level of exhaustion.
 
-**Wyrding**: The fradhar is capable of casting spells by wyrding. It knows the following spells (Arc Lightning, Burning Mote, Dragon's Breath, Exploding Sphere, Frostbite, Volt Switch,, Wicked Ray). It gains a +3 bonus to the spellcheck of the first spell its casts during an encounter.
+**Wyrding**: The fradhar is capable of casting spells by wyrding. It knows the following spells (Arc Lightning, Burning Mote, Dragon's Breath, Exploding Sphere, Frostbite, Volt Switch, and Wicked Ray). It gains a +3 bonus to the spellcheck of the first spell its casts during an encounter.
