@@ -115,7 +115,7 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 
 **Fey**. 
 * All inebriation you receive from magical effects is reduced by half.
-* You gain a +1 bonus to saves against magical effects.
+* You gain a +2 bonus to saves against magical effects.
 
 **Fiends**. 
 * You know when a creature within a number of yards equal to your [Prcp] score plus heroism, which you can perceive, is activating a feature with magical components to its nature.
