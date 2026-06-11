@@ -28,7 +28,7 @@ You may use your reaction to lose a hitpoint when performing an attack roll. If 
 ### 2) Zealous Retort
 When you are wounded, you may use your reaction to gain one of the following benefits;
 * Perform a counterattack using an unarmed or melee attack against that foe
-* Move a number of feet equal to your missing hitpoints + heroism (so long as it does not exceed your mode ov movement).
+* Move a number of feet equal to your missing hitpoints + heroism (so long as it does not exceed your mode of movement).
 * Gain a bonus to your next attack against that foe equal to your heroism, for the purpose of inflicting a critical, until the end of the next round.
 * Gain a bonus to defense equal to your herosim against the next attack made by that foe against you before the end of the next round.
 
