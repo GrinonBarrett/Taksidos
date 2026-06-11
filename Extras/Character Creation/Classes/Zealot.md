@@ -58,12 +58,12 @@ At levels 5 and 10, you may choose to splash another class into your training or
 
 #### Specialize
 If you specialize as a zealot, you gain the following:  
-When you perform a counter attack or attack of opportunity, you gain a bonus equal to your missing hitpoints for the purpose of inflicting a critical hit.
-Anytime you are wounded, you gain a bonus to the next spellcheck or counterspell check you make until the end of the next round equal to your missing hitpoints. This is cumulative, but lasts only until the end of the next day.
+When you perform a counter attack or attack of opportunity, you gain a bonus equal to your missing hitpoints for the purpose of inflicting a critical hit.  
+Anytime you are wounded, you gain a bonus to the next spellcheck or counterspell check you make until the end of the next round equal to your missing hitpoints.  
+If you are wounded while you have no hitpoints, you may expend your reaction to gain advantage on the next attack roll you make before the end of the next round. 
 
 #### Splash
-If you splash zealot as a member of another class, you gain the Battle Momentum feature and Touch and Go feature.  
-You gain the use of the Zeal, Dire Cleave, and Grievous Clutch features.
+If you splash zealot as a member of another class, you gain the use of the Zeal, Dire Cleave, and Grievous Clutch features.
 
 
 ### Foolhardy
