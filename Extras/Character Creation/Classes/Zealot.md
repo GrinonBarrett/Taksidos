@@ -1,5 +1,5 @@
 # Zealot
-You live for the thrill of battle. The only time you feel alive is when you put your limits to the test. Most zealots are ardent members of some faith, while others seek out heroic quests to maake gains of gold and glory while fulfilling their drive.
+You live for the thrill of battle. The only time you feel alive is when you put your limits to the test. Most zealots are ardent members of some faith, while others seek out heroic quests to make gains of gold and glory while fulfilling their drive.
 
 **Class Skills**: Select one of the following (Athletics, Survival, or Wrestling).
 
