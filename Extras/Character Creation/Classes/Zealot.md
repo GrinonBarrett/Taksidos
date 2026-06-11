@@ -14,7 +14,7 @@ You live for the thrill of battle. The only time you feel alive is when you put 
 | 5th   | 3  |    +4    | Splash or Specialize                              |
 | 6th   | 4  |    +5    | Attribute Improvement, Spring Step                |
 | 7th   | 4  |    +6    | Dire Cleave, Grievous Clutch                      |
-| 8th   | 4  |    +7    | SKilled Defense                                   |
+| 8th   | 4  |    +7    | Skilled Defense                                   |
 | 9th   | 4  |    +8    | Attribute Improvement, Greater Zeal               |
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
@@ -29,7 +29,7 @@ You may use your reaction to lose a hitpoint when performing an attack roll. If 
 When you are wounded, you may use your reaction to gain one of the following benefits;
 * Perform a counterattack using an unarmed or melee attack against that foe
 * Move a number of feet equal to your missing hitpoints + heroism (so long as it does not exceed your mode of movement).
-* Gain a bonus to your next attack against that foe equal to your heroism, for the purpose of inflicting a critical, until the end of the next round.
+* Gain a bonus to your next attack against that foe equal to your heroism, for the purpose of inflicting a critical hit, until the end of the next round.
 * Gain a bonus to defense equal to your herosim against the next attack made by that foe against you before the end of the next round.
 
 ### 3) Sentinel Response
