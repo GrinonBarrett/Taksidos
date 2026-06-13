@@ -31,7 +31,7 @@ Notes
 
 **Bluste Exposure**  
 Mundane (with magical aspects)  
-**Means of Contagion**: Respitory, ingestion  
+**Means of Contagion**: Respiratory, ingestion  
 DV 15  
 **Incubation**: 1d6 minutes  
 **Average Duration**: 4d6+14 days   
@@ -41,7 +41,7 @@ For the purpose of "infected" or "carrier" simply treat any instance of where it
 
 **Leprosy**  
 Mundane  
-**Means of Contagion**: Respitory  
+**Means of Contagion**: Respiratory  
 DV 7  
 **Incubation**: 1d20 years  
 **Average Duration**: Permanent   
@@ -50,7 +50,7 @@ DV 7
 
 **Mad Fox Disease**  
 *Magical*  
-**Means of Contagion**: Physical contact, respitory, fluid contact  
+**Means of Contagion**: Physical contact, respiratory, fluid contact  
 DV 8   
 **Incubation**: 3d4 days  
 **Average Duration**: 2d12+26 years   
