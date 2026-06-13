@@ -59,14 +59,14 @@ Lasts 3d12+4 days. Most cheeses are of this variety. A pound offers 2 servings.
 **Pemmican**, $17 per lb.  
 Lasts 1d20 years. An unsavory concoction of dense dehydrated meat and rendered fat, garnished with nuts or fruit, and coated againt in rendered soft fats. If stored away from moisture, this will last longer than any other food- but can quickly spoil if hot and humid. Provides 3 servings, but serves best when it can be cooked with other items. A great source of calories.
 
-**Cured meat**, $5 per serving (weighs .7 lb)  
+**Cured Meat**, $5 per serving (weighs .7 lb)  
 Lasts 8d6+6 weeks. The exact nature of the meat varies, but the yield is the same. Water is strongly recommended.
 
 **Dehydrated Meat**, $7 per serving (weighs .3 lb)  
 Lasts 6d6+10 days. The exact protein source varies, but the yield is the same. This meat has been dehydrated by magic.
 
 #### Bread
-A diet cannt consist of more than one-third bread to gain any benefit and two portions of bread does not a meal make. All forms of bread count as one type of food.
+A diet cannot consist of more than one-third bread to gain any benefit and two portions of bread does not a meal make. All forms of bread count as one type of food.
 
 **Quick-loaf**, $1 each  
 A simple loaf of bread which can contribute a single serving to the adventurer's meal. Filling enough on its own, but not the most nutritively rich food, requiring one to supplement it with other foods. Quick-loaf is good for 1d2+1 days before it becomes host to undesirable lifeforms.
