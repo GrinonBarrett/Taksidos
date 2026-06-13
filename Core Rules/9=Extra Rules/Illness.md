@@ -1,7 +1,7 @@
 ## ILLNESS
 During the course of an adventure, it is entirely possible for a character to become the carrier of a disease of some sort. At the end of each adventuring day, if the adventurers have been exposed to a disease, they roll a number of [Fort] saves based on their total exposure to the disease. If they fail one, they are a carrier. If they fail two, they sick. A carrier can still pass on a sickness even if they don't experience it, at least for the duration of the incubation time. Anyone afflicted by the effects of a disease is still treated as a carrier and not just an infected individual.
 
-A roll need only be made for a point of exposure that is relevent. A creature which does not need to breathe probably isn't catching a respitory disease. Realisitically, it can be more complex than that but we are going to draw the line on game crunch here.
+A roll need only be made for a point of exposure that is relevant. A creature which does not need to breathe probably isn't catching a respitory disease. Realistically, it can be more complex than that but we are going to draw the line on game crunch here.
 
 ### Points of Exposure
 Some points of exposure also inccur a penalty to the save.  
