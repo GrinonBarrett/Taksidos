@@ -54,7 +54,7 @@ DV 7
 DV 8   
 **Incubation**: 3d4 days  
 **Average Duration**: 2d12+26 years   
-**Effect**: Foxes will allows be 1 degree more hostile to the infected, unless they themselves are also infected. Additionally, every 1d10+7 days, they will experience a fit of seizures every 1d4 hours. This lessens their rest by one degree, causes their [Rflx] bonus to be treated as 0, their [Body] bonus to be treated as one-third, and a *13% chance to transform into a rabbid fox on the anniversary of their contracting the disease. This transformation functions identically to the Therianthrope template* (see the Creatures chapter).  
+**Effect**: Foxes will be 1 degree more hostile to the infected, unless they themselves are also infected. Additionally, every 1d10+7 days, they will experience a fit of seizures every 1d4 hours. This lessens their rest by one degree, causes their [Rflx] bonus to be treated as 0, their [Body] bonus to be treated as one-third, and a *13% chance to transform into a rabbid fox on the anniversary of their contracting the disease. This transformation functions identically to the Therianthrope template* (see the Creatures chapter).  
 **Notes**: Often, patient zero is bitten by a fox afflicted by a curse which affects the mind. It is also said that eating a fox could do this. A creature transformed by this disease which would qualify for damaging armor instead produces another point of exposure to the one bitten. A fox never experiences the typical symptoms of this disease and instead finds itself making irrational decisions more often.
 
 **Typhoid**  
