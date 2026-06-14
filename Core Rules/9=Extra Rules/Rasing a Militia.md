@@ -24,7 +24,7 @@ Each day of training can be as little as 3 hours or as much as 10 hours. After a
 | Mace                   | 5D12+40 | Similar to morningstar, allowing half of this training to be applied to morningstar as well. |
 | Madu                   | 7D8+34  | |
 | Maul                   | 5D10+45 | |
-| Morningstar            | 5D12+40 | |
+| Morningstar            | 5D12+40 | Similar to mace, allowing half of this training to be applied to mace as well. |
 | Musket                 | 5d8+5   | Every hour costs 2d6+13 rounds of ammunition. Similar to arquebus, allowing half of this training to be applied to arquebus as well. |
 | Pike                   | 5d10+20 | Similar to spear, allowing half of this training to be applied to spear as well. |
 | Pole Axe               | 6D10+45 | |
