@@ -3691,7 +3691,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (9
+### V (10
 
 #### Vapors
 
@@ -3710,6 +3710,20 @@ The save DV is equal to your [Magic] bonus + double the spell's tier. If the spe
 * The DV of the spell is increased by 1
 
 **Critical Failure**: You take a whiff of the vapors yourself instead of producing the typical area and become dazed and obtunded for a number of rounds equal to the tier of the spell.
+
+#### Veil
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Effect**: You produce a mostly translucent barrier of vaguely patterened colors to stretch out from a point you touch. This may be a sphere of up to 5 yards, A hemisphere of 7 yards, or a pillar whose base and top are 3 yard circle and height is 30 yards. The barrier lasts as long as you concentrate on it. If the spellcheck was a critical success, it can last for a number of phases beyond this equal to your [Magic] bonus.
+
+Within the area of this barrier; creatures are unable to move from, interact with, or sense creatures on the material plane while they are ethereal and vice versa. Additionally, Ephemera and Fiend creatures cannot enter the area. Such a creature in the area when the barrier initially expands performs an incapacitation save even if it would not normally. If it is a critical failure, it is instead ejected from the space of the barrier (treat as knockback equal to one and a half of the distance between its current location and the edge of the barrier). A failure will instead treat it as prone while it occupies the space. A success has no effect and a critical success allows it to completely ignore the effects of the barrier and even end the spell if the points of success are equal to or greater than the spellcheck's. For the purpose of this incapacitation save, if a creature is a creature of undeath, it receives penalties equal to the % of missing points of undeath rather than penalties based on its wounds.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may increase the dimensions of the area by half.
+
+**Critical Failure**: You lose one of your senses (chosen at random) and have disadvantage on [Prcp] saves for as long as you have spell sickness. You suffer a penalty to spellchecks and counterspell checks equal to the spell's tier for a number of rounds equal to the points of failure.
 
 #### Venting Burst
 
