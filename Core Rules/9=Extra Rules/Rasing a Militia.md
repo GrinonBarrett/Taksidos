@@ -28,6 +28,7 @@ Each day of training can be as little as 3 hours or as much as 10 hours. After a
 | Musket                 | 5d8+5   | Every hour costs 2d6+13 rounds of ammunition. Similar to arquebus, allowing half of this training to be applied to arquebus as well. |
 | Pike                   | 5d10+20 | Similar to spear, allowing half of this training to be applied to spear as well. |
 | Pole Axe               | 6D10+45 | |
+| Scattergun             | 10d8+5  | Every hour of training costs 1d4+4 pieces of munition. |
 | Sling                  | 10d10+50| |
 | Spear                  | 5D12+40 | Similar to pike, allowing half of this training to be applied to pike as well. |
 | Staff                  | 5d20+75 | |
