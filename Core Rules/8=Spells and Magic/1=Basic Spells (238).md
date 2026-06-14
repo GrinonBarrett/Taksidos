@@ -2554,7 +2554,23 @@ A critical success with the spellcheck prevents the caster from blasting themsel
 
 **Critical Failure**: The spell seems to function as normal, but it only remains subservient to you for a number of rounds equal to your [Magic] bonus minus the spell's tier (minimum of 1 round).
 
-### O (4
+### O (5
+
+#### Ominous Mist
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to a failed incapacitation save
+
+**Duration**: A number of rounds equal to 3 + spell tier
+
+**Effect**: You produce a 2 yard diameter sphere of mist. At the end of each phase, the mist spreads out 1 foot in all directions. Attacks made by creatures in the mist which rely on sight have disadvantage. Everying within the mist has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the mist suffer a 1d6 penalty. Creatures in the mist have disadvantage on all saves. Attempts to heal wounds or restore hitpoints have a percentage chance to fail in the mist equal to the spell's tier. Additionally, any time a creature would restore points of undeath 8n the mist, the recovered points are reduced by the spell's tier.
+
+The mist lasts for a number of rounds equal to the spellcheck's result multiplied by the spell's tier. 
+
+**At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, you may choose to increase the initial size of the sphere by 1 foot.
+
+**Critical Failure**: You gain spell sickness equal to half of the spell's tier and suffer an equal penalty on your next incapacitation save made by the end of the next round.
 
 #### Oozery
 
