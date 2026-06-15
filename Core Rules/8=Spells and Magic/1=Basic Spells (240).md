@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (17
+### A (18
 
 #### Abatis
 
@@ -211,6 +211,22 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 **At Higher Tiers**: For each tier beyond minimum, the casting time is increased. It will be a number of actions equal to the tier squared. At certain tiers it can create a creature as a result of its usage. This is not recommended for anyone to do.
 
 **Critical Failure**: If you cast it in its traditional manner, you create a comical moment from your ineptitude. If you used this spell to create a creature, things will be much worse.
+
+#### Aquiency
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Effect**: You convert a quart of clean water into another liquid. The maximum value of this liqud cannot exceed a $ value of the spell's tier squared. The liquid also cannot be of a magical nature unless the spellcheck is a critical success.
+
+You cannot mimic the exact taste/feel of some specific form of a liquid (such as mimicing an exact batch of beer) but get pretty close.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, in addition to the benefits noted above, you may choose to convert up to an additional quart of water this way so long as the total value does not exceed the spell's limit.
+
+**Critical Failure**: You find the water becomes stale and you have disadvantage on saves against magical effects for a number of hours equal to the spell's tier.
+
+[Aquiency Spell]: # " Spell created at the behest of Michael Hasty."
 
 #### Arc Lightning
 
