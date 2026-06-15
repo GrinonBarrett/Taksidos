@@ -222,7 +222,9 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 You cannot mimic the exact taste/feel of some specific form of a liquid (such as mimicing an exact batch of beer) but get pretty close.
 
-**At Higher Tiers**: When cast at 3rd tier or greater, in addition to the benefits noted above, you may choose to convert up to an additional quart of water this way so long as the total value does not exceed the spell's limit.
+The susbtance will return to a nasty tasting water that provides half the usual hydration after a number of rounds equal to the spellcheck.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, in addition to the benefits noted above; for each tier beyond minimum, you may choose to convert up to an additional quart of water this way so long as the total value does not exceed the spell's limit or increase the duration of the spell by half.
 
 **Critical Failure**: You find the water becomes stale and you have disadvantage on saves against magical effects for a number of hours equal to the spell's tier.
 
