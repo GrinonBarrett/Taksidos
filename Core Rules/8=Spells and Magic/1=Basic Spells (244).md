@@ -4333,7 +4333,7 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Effect**: You invoke spirits, or some other entites, which rush around in a circle, semisphere, or sphere (your choice) which extends out 3 yards. Choose an exotic damage type.
 
-Anything entering or exiting the area of the spell is subject to an attack. If the attack die roll is even, it is of the chosen type for the spell. If the attack roll is odd, it is of a nature determined by the narrator as appropriate to the spirit(s) summoned. In place of damaging armor, a creature is prone until the end of the next round.
+Anything entering or exiting the area of the spell is subject to an attack. If the attack die roll is even, it is of the chosen type for the spell. If the attack roll is odd, it is of a nature determined by the narrator as appropriate to the spirit(s) summoned. In place of damaging armor, a creature is knocked prone until the end of the next round.
 
 You may use your reaction to inflict an attack against a creature within the area of the spell. An attack inflicted this way gains a bonus equal to the spell's tier if you are also within the area of the spell.
 
