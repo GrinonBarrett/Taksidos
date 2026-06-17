@@ -2316,7 +2316,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (10
+### M (11
 
 #### Mage Sword
 
@@ -2355,6 +2355,20 @@ If the spellcheck is a critical success, any you were concentrating on the spell
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double each dimension of the cube or increase the duration by half. Additionally, for every two tiers beyond 2nd, you may add stimuli for an additional sense (such as scent).
 
 **Critical Failure**: You have blasted your own senses. You are dazed and vulnerable for a number of rounds equal to the points of failure multiplied by the spell's tier.
+
+#### Mataxism
+
+**Minimum Tier**: 3
+
+**Casting Time**: 12 actions
+
+**Effect**: You transform up to half a pound of silk you touch into another material whose value does not exceed the spellcheck's result multiplied by the spell tier.
+
+Unless the spellcheck is a critical success, the transformation will only last a number of hours equal to the spellcheck's result squared.
+
+**At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, you may choose to convert up to an additional half a pound.
+
+**Critical Failure**: The silk withers into nothing. You receive spell sickness equal to half of the spell tier.
 
 #### Metamogrify
 
