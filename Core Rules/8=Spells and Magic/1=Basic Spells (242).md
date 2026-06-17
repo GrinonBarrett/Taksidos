@@ -711,8 +711,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-
-### D (13
+### D (14
 
 #### Damper
 
@@ -865,6 +864,20 @@ Size = Explosion
 * You may inflict 2 additional cutting/piercing/toxic attacks. Each additional pair of attacks this way requires a size category larger than medium corpse be used.
 
 **Critical Failure**: Your body nearly tears apart. Inflict a number of unlisted damage attacks against yourself equal to the spell's tier. If you die as a result, the spell occurs as though you had successfully cast it upon your own corpse. 
+
+#### Defunctary
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions
+
+**Range**: 7 yards
+
+**Effect**: You cause a a magical portal or scrying device (such as a casamirian sphere) to cease to function for a number of minutes equal to the spell check multiplied by the spell's tier. If the spellcheck is a critical success, you may choose to only include or exclude yourself to its functionality during this time.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, in addition to the benefits noted above, you may choose to increase the range by 1.5 yards.
+
+**Critical Failure**: You gain spell sickness equal to half of the spell's tier and cry out in the most paranoid voice and train of thought you could contain.
 
 #### Deject 
 
