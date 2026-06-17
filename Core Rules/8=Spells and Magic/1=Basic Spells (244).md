@@ -2345,7 +2345,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (11
+### M (12
 
 #### Mage Sword
 
@@ -2547,6 +2547,49 @@ This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by an hour. Alternatively, if cast as a 3rd tier or higher spell, you may halve the total duration to have the corpse formed to appear as any member of the same species so long as your are familiar with that subject or have a detailed reference.
 
 **Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
+
+#### Mutate
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 3 yards
+
+**Effect**: You subject a creature to horrid mutations, these mutations take affect at the end of the round. Roll a d12, and apply the appropriate result on the first list below. Then, roll another d10 an apply the appropriate result on the second list below. If both die results match, the creature instead grows a new limb which counts as an offhand. The limb has a reach of .5 yard. This is halved for each size below medium and doubled for each size beyond medium.
+If a creature suffers an individual effect of the spell, it cannot be subject to the same effect of this spell.
+
+The spell's effects last a number of minutes equal to the spell check result multiplied by the spell's tier. A critical success allows the caster to choose to either modify one of the dice results by 1 degree or make the effects permanent (their choice before rolling).
+
+1. [Body] reduced by 1.
+2. [Rflx] reduced by 1.
+3. [Fort] reduced by 1.
+4. [Fort] reduced by 2.
+5. [Rflx] reduced by 2.
+6. [Fort] reduced by 2.
+7. [Inte] reduced by 1.
+8. All modes of movement reduced by 1/3.
+9. Creature cannot perform a reaction if it performed one during the current or previous previous round.
+10. Creature's flesh softens, reducing its defense by 1.
+11. Choose an attribute other than [Empy], it is reduced by 1. It suffers a -1 to [Empy] saves.
+12. Its greatest attribute of [Body], [Rflx], or [Fort] is reduced by 3. This can affect a creature multiple times  so long as it would not affect the same attribute.
+
+Second list;
+
+1. [Body] increased by 1.
+2. [Rflx] increased by 1.
+3. [Fort] increased by 1.
+4. [Fort] increased by 2.
+5. [Rflx] increased by 2.
+6. [Fort] increased by 2.
+7. A randomly chosen mode of movement is increased 1/3.
+8. No effect.
+9. Creature can choose to forego its move/action during the next phase to perform an additional reaction.
+10. Its flesh hardens, providing a +1 bonus to defense against non-magical attacks.
+
+**At Higher Tiers**: In addition to the benefits listed above, each tier beyond minimum allows the caster to reach out an additional 2 yards with the spell.
+
+**Critical Failure**: You have inverted the spell completely causing it to instead afflict you for as long as you have spell sickness. You also suffer an instance of Archeblight.
 
 ### N (4
 
