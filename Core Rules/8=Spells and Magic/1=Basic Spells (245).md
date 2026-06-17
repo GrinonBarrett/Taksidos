@@ -3951,7 +3951,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (14
+### W (15
 
 #### Waedervalder
 
@@ -4190,6 +4190,30 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards or the explosion radius by 1 yard.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a acid attack. You are prone during this time.
+
+#### Wyrming
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Duration**: A number of rounds equal to the spell's tier -1
+
+**Effect**: You conjure worms, snakes, and/or a similar creatures (or alternatively, a very long singular thing of a similar nature) which cover an area stretching out 5 yards.
+
+Anything ending the movement phase inside of or exiting the area of the spell is subject to an attack. If wnding the phase inside, it is crushing. If attempting to exit, it is biting. If the attack would qualify to damage armor or is a critical hit, the creature is restrained and grappled by the spell (treat any opposed grapple check result as being equal to the spellcheck die result + spell tier).
+
+If the spellcheck is a critical success, you may choose to move the area up to .5 yard at the end of each phase. Any creatures restrined by the spell remain where they are.
+
+You may use your reaction to inflict a biting or crushing attack against a creature within the area of the spell. If the attack would qualify to damage armor or would be a critical hit, the foe is restrained and grappled as above. An attack inflicted this way gains a bonus equal to the spell's tier if you are also within the area of the spell.
+
+Any creature other than those you designate at the time the spell is cast find the distance ran in the spell's area consumes twice as much movement.
+
+Because of the activity in the area, all [Prcp] checks involving sense of hearing or touch within the area have disadvantage.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range of the spell's shape by up to 1 yard or grant a bonus to any attacks made by the spell against a creature attempting to exit
+
+**Critical Failure**: The conjured creatures instead seek to consume you. For a number of phases equal to the spell's tier, at the end of each phase, you are subject to a crushing attack and a biting attack. You are prone during this time.
 
 ### X (3
 
