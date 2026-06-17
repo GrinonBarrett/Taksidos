@@ -1417,7 +1417,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (11
+### G (12
 
 #### Glacial Brand
 
@@ -1595,6 +1595,22 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the size of the thorns by a foot.
 
 **Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
+
+#### Grim Return
+
+**Minimum Tier**: 4
+
+**Casting Time**: 1 reaction, which you take in rrsponse to dying
+
+**Effect**: You empower your final thoughts with magic as you picture someone you care tonprtect (you choice of a creature you know). Your flesh begins to loosen itself from your skeleton in a subtle fashion. After 1d12+2 rounds, a reanimated skeleton forms from your remains- though it retains your class features and heroism. For a number of hours equal to the spwll's tier, it retains a semblence of your consciousness and is not mindless. When this wears off, it will become mondless again- with its core perogotive to protect that creature which you had imagined.
+
+If the spellcheck was a critical success, it also reatins any spells you knew and retains its skills and weapon training.
+
+This spell fails if cast by a creature with no skeletal structure.
+
+**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above, the skeleton's points of undeath are increased by 5% for each tier beyond minimum.
+
+**Critical Failure**: The spell seems to function as normal, but no portion of your consciousness is retained. Instead, for a number of days equal to the spell's tier, it will seek to hunt down and destroy the creature you imagined. It is mindless during this time. It knows the general direction of the creature but not the exact distance.
 
 #### Guarding Globe
 
