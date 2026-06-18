@@ -2345,7 +2345,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (12
+### M (13
 
 #### Mage Sword
 
@@ -2384,6 +2384,22 @@ If the spellcheck is a critical success, any you were concentrating on the spell
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double each dimension of the cube or increase the duration by half. Additionally, for every two tiers beyond 2nd, you may add stimuli for an additional sense (such as scent).
 
 **Critical Failure**: You have blasted your own senses. You are dazed and vulnerable for a number of rounds equal to the points of failure multiplied by the spell's tier.
+
+#### Mar
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 10 yards
+
+**Effect**: You cause scarring and disfigurement to begin upon a creature you can perceive within range. It must succeed a [Fort] save or have its [Fort] reduced by 1. If the save is a critical failure, it will either reduce its [Body] by 1 if the save result is even, or reduce its [Empy] by 1 if odd. This lasts for a number of minutes equal to the points of success on the spellcheck and the points of value on the save.
+
+If the spellcheck was a critical success, this effect is instead a wound and must be healed as such to be removed.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range 5 yards or affect an additional creature within range 
+
+**Critical Failure**: The afflict yourself with it instead, having a penalty to your save equal to the spell's tier. This is a wound.
 
 #### Mataxism
 
