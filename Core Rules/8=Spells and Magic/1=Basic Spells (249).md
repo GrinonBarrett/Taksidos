@@ -3844,7 +3844,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (10
+### V (11
 
 #### Vapors
 
@@ -3893,6 +3893,22 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
 
 **Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
+
+#### Vex of Night
+
+**Minimum Tier**: 4
+
+**Casting Time**: 6 actions
+
+**Duration**: 2 days
+
+**Effect**: You attempt to bestow a hex upon the foe, influcting a psychic attack. In place of wounding, you successfully place the hex on the foe. A creature so afflicted is subject to a cutting attack when they attempt to rest as a mysterious seems to render scratches like a cat's claws across the subject's skin. If it would rest long enough to have a long rest, it is also subject to a psychic attack as nightmares assail it. If its rest would be long enough to be full rest, it finds itself subject to a necrotic attack as it begins to see itself mysteriously bruised by the nightmarish forces.
+
+Attacks from this spell treat an affected creature as though it was not wearing its armor. The first critical hit by an attack of this spell against a creature during a particular attempt at a rest sesssion reduces the overall rest received by 1 stage instead. If an attack would qualify to damage armor, it instead reduces the rest received by 1 stage instead. If it would be negative rest received- the creature received no rest and has actually taken a level of fatigue.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to afflict an additional creature or 8ncrease the duration by 1 day.
+
+**Critical Failure**: The hex has backfired. At the end of the first phase after attempting to cast this spell, you receive a psychic attack. After the second phase, a cutting attack. The third phase, a necrotic attack. The fourth phase, you take a level of fatigue. At the end of the fifth phase, you receive 1d4 spell sickness. These attacks treat you as though you were not wearing armor and gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You cannot rest while you still have spell sickness.
 
 #### Vile Vibration
 
