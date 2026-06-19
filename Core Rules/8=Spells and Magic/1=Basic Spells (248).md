@@ -3203,7 +3203,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (19
+### S (20
 
 #### Sapiafi
 
@@ -3320,6 +3320,22 @@ A critical success with the undamaging attack disallows the attempts to break fr
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 3 yards.
 
 **Critical Failure**: You fumble with the bindings and bind yourself with this spell instead, pending the undamaging attack of course. The DV becomes the points of failure plus the spell's tier.
+
+#### Shared Sight
+
+**Minimum Tier**: 3
+
+**Casting Time**: 10 actions
+
+**Effect**: You rub a sprinkling of dirt and either clean water or your tears around the eye of the subject of the spell and your own eye (a very visible change). You and the subject both become capable of adjusting your vision to be that of the other's. Additionally, if there are any bonuses or penalties to vision based [Prcp] checks/saves possessed by one of the creatures, the other gains half of that benefit while using their own vision. Changing vision requires a single action and a [Prcp] check with a DV of 15. If successful  they see what the remaining original eye of the other creature sees. If unsuccessful, there is no change. If it is a critical failure, the creature gets all of the visual information miced up and is so overwhelmed they are essentially blind. Such an affected creature may use their action to perform a DV 18 [Prcp] check to sort out their vision (returning to their own mode of vision). If this is a critical failure, they will hallucinate.
+
+A creature must have an organ to "see" with for this spell to be cast by or affect it. If a creature has more than two eyes, it can be affected by this spell multiple times. A creature cannot exchange its last eye by this spell.
+
+This spell lasts for as long as the caster concentrates, 0lus a number of minutes equal to the spellcheck's points of success multiplied by the spell's tier.
+
+**At Higher Tiers**: The benefits for casting at higher tiers is noted above.
+
+**Critical Failure**: You lose function of the eye you chose and will begin to hallucinate warped visions influenced by what the other creature sees, resulting in disadvantage on [Prcp] checks and saves as long as you still have spell aickness.
 
 #### Silent Alarm
 
