@@ -3844,7 +3844,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (12 
+### V (13  
 
 #### Vapors
 
@@ -3909,6 +3909,22 @@ Attacks from this spell treat an affected creature as though it was not wearing 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to afflict an additional creature or 8ncrease the duration by 1 day.
 
 **Critical Failure**: The hex has backfired. At the end of the first phase after attempting to cast this spell, you receive a psychic attack. After the second phase, a cutting attack. The third phase, a necrotic attack. The fourth phase, you take a level of fatigue. At the end of the fifth phase, you receive 1d4 spell sickness. These attacks treat you as though you were not wearing armor and gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You cannot rest while you still have spell sickness.
+
+#### Vex of Shadows
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 20 yards
+
+**Duration**: 1 hour
+
+**Effect**: You must have a candle, match, torch, lantern or some other light source to snuff out while casting this spell. You cause a creature to become deathly afraid of the dark and shadows cast by blocked light. It must succeed a [Will] save to avoid this effect. If it failed in any degree, the creature cannot willingly move into a dark area. If forced into such an area, it is dazed and vulnerable. If the save was a critical failure, they will also find the light to bother their eyes, causing a cumulative -1 penalty for every minute they are in any lighting condition other than dim light. If this penalty ever reaches the negative equivalent of their [Will] score, they will receive a psychic attack against their [Will] every 10 minutes for the remainder of the spell.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the duration by half or affect an additional creature within range.
+
+**Critical Failure**: You have blinded yourself for as long as you have spell sickness and can seem only to perceive those you would have affected with the spell for a number of hours equal to the spell's tier.
 
 #### Vex of Stones
 
