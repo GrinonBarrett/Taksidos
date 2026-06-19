@@ -3844,7 +3844,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (11
+### V (12 
 
 #### Vapors
 
@@ -3909,6 +3909,22 @@ Attacks from this spell treat an affected creature as though it was not wearing 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to afflict an additional creature or 8ncrease the duration by 1 day.
 
 **Critical Failure**: The hex has backfired. At the end of the first phase after attempting to cast this spell, you receive a psychic attack. After the second phase, a cutting attack. The third phase, a necrotic attack. The fourth phase, you take a level of fatigue. At the end of the fifth phase, you receive 1d4 spell sickness. These attacks treat you as though you were not wearing armor and gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You cannot rest while you still have spell sickness.
+
+#### Vex of Stones
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Range**: 30 yards
+
+**Duration**: 3 hours
+
+**Effect**: You attempt to bestow a hex upon the foe within range, inflicting an undamaging attack. If successful, after a number of minutes equal to the attack roll result, a stone will be hurled out the foe from out of sight to influct a sling attack. A number of minutes after that, equal to the attack roll result, another such attack is made. This continues until the end of the spell's duration. The stone must originate from a point where it is not being observed. If this is impossible, the attack will wait until it can commence unobserved and will have disadvantage. A critical failure from an attack will bounce harmlessly off of the subject.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the duration by an hour or afflict an additional creature.
+
+**Critical Failure**: The hex has backfired, it now affects you as though you targeted yourself.
 
 #### Vile Vibration
 
