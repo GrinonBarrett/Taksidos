@@ -4032,7 +4032,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (15
+### W (16
 
 #### Waedervalder
 
@@ -4145,6 +4145,22 @@ Construct, Ephemera, and Undead creatures, creatures of undeath, and those produ
 **At Higher Tiers**: Each tier beyond the minimum allows you to pulse the wave 1 yard further or reduce the casting time by 1 action (to a minimum of 2 actions).
 
 **Critical Failure**: You lose hitpoints equal to the tier of this spell. If you do not have enough hitpoints, you must succeed a number of incapacitation saves equal to the difference. Then you and any non-undead creature within 3 yards suffer a necrotic attack.
+
+#### Weaken
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Effect**: You cause the flesh and muscles of a creature you touch to soften and become limp. It must succeed a [Fort] save or be subject to the following effects for a number of minutes equal to the points of failure multiplied by the spell's tier.
+
+The creature's weight capacity is halved, it has disadvantage on [Body] checks and saves  and tocic and necrotic attacks gain advantage against it. If the save was a critical failure, it is vulnerable during this time.
+
+This spell cannot affect anything which would be uneffected by spells that affect flesh.
+
+**At Higher Tiers**: The benefits for casting at a higher tier are noted above.
+
+**Critical Failure**: You seem to have affected yourself instead, even if you would normally be immune. You do not roll the [Fort] save to avoid it and instead use the spellcheck's points of failure to determine what the points of failure would have been for your save.
 
 #### Wengevalder
 
