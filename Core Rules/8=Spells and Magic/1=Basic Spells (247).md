@@ -2156,7 +2156,7 @@ If you have the foe grappled, both attacks gain a bonus equal to the spell's tie
 
 **Range**: 4 yards
 
-**Effect**: You disappear in a puff of smoke. At the end of the next phase, you appear at a point within range you deignate, causing an explosion to burst out from you 1 yard in all directions. This inflicts a fire attack against everything within the area (excluding yourself).
+**Effect**: You disappear in a puff of smoke. At the end of the next phase, you appear at a point within range you designate, causing an explosion to burst out from you 1 yard in all directions. This inflicts a fire attack against everything within the area (excluding yourself).
 
 A critical success with the spellcheck allows you to increases the range traveled by a number of feet equal to your [magic] bonus.
 
@@ -2345,7 +2345,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (13
+### M (14
 
 #### Mage Sword
 
@@ -2503,6 +2503,23 @@ If the spell check is a critical success, the initial hit will also apply the ef
 **Critical Failure**: You hurl the bolts of light, and as they scatter, the redirect themselves against you. Any combined missiles remain so. Each missile is staggered, with only one attacking each phase until each has had its turn (you may determine the order in which they attack you).
 
 [Missiles of Light Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. This turned out to be a misunderstanding, so the Flare spell was also made."
+
+#### Miroiry
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to a creature casting a spell
+
+**Range**: 7 yards
+
+**Effect**: You produce a sterling mirror veiled in a shimmering fog for the breifest moment. That creature's spell is redurected towards them. If it affects a space, that space is centered on them (a shape that projects away from them instead inverts into them). If it instead targets a number of creatures, it affects them first and foremost and then is applied to the closest valid target until it affects the proper number of creatures. This cannot affect a spell of a higher tier.
+
+If the spell check is a critical success and you know the spell, you get advantage on any save made against it.
+
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range by half.
+
+**Critical Failure**: You gain spell sickness equal to half of this spell's tier and half of that spell's tier. If you would be affected by the spell and do not know it, you have disadvantage on any save you would make against it.
 
 #### Molten Form
 
