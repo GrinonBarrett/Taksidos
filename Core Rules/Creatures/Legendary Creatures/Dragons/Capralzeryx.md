@@ -111,6 +111,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Animation
 * Behest
 * Decombustion
+* Flee
 * Fallen Words
 * Havery
 * Hypoaftepathy (which he will use to create a false copy of itself)
@@ -118,4 +119,6 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Portalence
 * Rotword
 * Tell Undead
+* Turn
+* Vex of Shadows
 * Voice of Familiarity
