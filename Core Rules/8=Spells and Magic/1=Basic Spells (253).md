@@ -2785,7 +2785,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (13
+### P (14
 
 #### Pagomancy
 
@@ -2916,6 +2916,30 @@ Anytime the pillar comes in contact with something, it inflicts a fire attack. A
 **At Higher Tiers**: Each tier beyond minimum lets you either grant the attck a +1 bonus or grant it a +2 bonus for the purpose of inflicting a critical hit.
 
 **Critical Failure**: The conjured plasma is unstable, inflicting a a radiant attack against you and an additional attack. If the additional attack roll is even, its an electric attack. If odd, its a fire attack. The radiant attack gains a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
+
+#### Plight of Paranoia
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 30 yards
+
+**Duration**: 1 hour
+
+**Effect**: After a minute of time has passed since the spell was cast, the target must perform a [Prcp] save with a DV of 10 + points of spellcheck success + spell tier. If failed (but not critically failed), they see something out of the corner of their eye. This repeats every minute for the duration of the spell. Next time they interact with a creature, this spell is transfered to that creature. The spell can continue to transfer, but requires its current subject to perform a [Prcp] save (either as a result of this spell or otherwise) before it can be transfered again.  
+If the spellcheck is a critical success, the spell isn't transfered but instead duplicated to that creature.
+
+If a creature has a critical success with their save, they no longer are subject to further saves from the spell but can still have it transfered/duplicated from themself.
+
+A creature affected this way can see the effects of a Habroism spell as a result of their save if it is a success (but not a critical success) and the narrator deems it is reasonable to do so.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose one of the following;
+* Afflict an additional creature within range.
+* Increase range by 3 yards
+* Increase the duration by half an hour
+
+**Critical Failure**: You are being watched. You have disadvantage on [Empy] checks and saves and counterspell checks so long as you still have spell sickness. You also have disadvantage on saves against illusiry effects during this time.
 
 #### Poison Nova
 
