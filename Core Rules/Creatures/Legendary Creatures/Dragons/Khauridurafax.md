@@ -130,6 +130,7 @@ Alternatively, he may cause the breath weapon to take the form of a cone. Doing 
 * Know Pain
 * Mindless Command
 * Mortal Masque
+* Plight of Paranoia
 * Stupify
 * Voice of Familiarity
 * Wisp Away
