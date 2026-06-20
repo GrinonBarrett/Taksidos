@@ -2932,7 +2932,7 @@ If the spellcheck is a critical success, the spell isn't transfered but instead 
 
 If a creature has a critical success with their save, they no longer are subject to further saves from the spell but can still have it transfered/duplicated from themself.
 
-A creature affected this way can see the effects of a Habroism spell as a result of their save if it is a success (but not a critical success) and the narrator deems it is reasonable to do so.
+A creature affected this way can see the effects of a Hypoaftepathy spell as a result of their save if it is a success (but not a critical success) and the narrator deems it is reasonable to do so.
 
 **At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose one of the following;
 * Afflict an additional creature within range.
