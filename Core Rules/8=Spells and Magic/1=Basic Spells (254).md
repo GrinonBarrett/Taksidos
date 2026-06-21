@@ -3850,7 +3850,6 @@ If the spellcheck was a critical success, the caster may knock back any affected
 
 **Critical Failure**: You fail to ground the power correctly, inflicting a number of electic attacks against yourself equal to the spell's tier -1.
 
-
 #### Unrest for Undeath
 
 **Minimum Tier**: 3
@@ -3868,7 +3867,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (13  
+### V (14  
 
 #### Vapors
 
@@ -3917,6 +3916,27 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
 
 **Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
+
+#### Vex of Flames
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 30 yards
+
+**Duration**: 2 days
+
+**Effect**: You attempt to rather forcefully open up a creature within range to the voice of the embers. The subject must make a [Prcp] save or find flames fill their vision entirely until the end of the next round. Regardless of the save result, anytime the subject is within a number of yards of an open fire equal to the spell's tier, they will hear whispers and intrusive statements that seem to originate in their own mind. During this time, they will have disadvantage on [Prcp] checks and saves as well as [Will] checks, initiative checks, and are unable to concentrate. Magical fire attacks gain advantage against them, as do any psychic attack so long as they hear the muttering of the flames.
+
+You may speak into a flame within 1 foot of you while the spell is active and concentrating on a number of creatures you have affected with this spell. If such a creature is currently subject to the mutterings of flame, your speech is also transmitted to them.  
+A critical success with this spell makes those creatures familiar to you for the spell's duration.
+
+A creature which does not normally see or hear can still experience equivalent sensation througg uts ither senses this way. This cannot affect a mindless creature.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose either to increase the duration by one day or affect an additional creature.
+
+**Critical Failure**: You ignite yourself on fire as though by a critical fire attack. At the end of each round, for a number of rounds equal to the spell's tier, an attack is rolled against you with a bonus equal to the spell's tier. If odd, it is a paychic attack. If even, it is a fire attack.
 
 #### Vex of Night
 
