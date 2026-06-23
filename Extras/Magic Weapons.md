@@ -467,6 +467,12 @@ $6,000 , 9 lb.
 Pike  
 This pike seems to reaonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the use have disadvantage*.
 
+**Tolminth** (*unique*)  
+$12,000, .33 lb.  
+Throwing Blade  
+This well made blade features a handle of copper and bone. When an attack result with this weapon is the exact number required to successfully afflict a foe, *it also inflicts a sonic attack as a cracking sound can be heard for a mile*.  
+If name is known, *when either attack from the weapon qualifies to inflict damage to armor, it also inflicts a foce attack. If the force attack is a critical hit, it instead inflicts knockback for xd4 feet, where X is the number of attacks successfully inflicted against the creature with the single action/reaction*.
+
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
 Mace  
