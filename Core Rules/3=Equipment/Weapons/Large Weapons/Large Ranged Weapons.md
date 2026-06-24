@@ -7,7 +7,7 @@ Unless noted otherwise, all ranged weapons use ammunition of the same size as th
 | Shortbow†               | $130 | 3 lb | Two handed. Uses arrows for ammunition. Requires [Body] 9+ to use. | 150 yards    | 3 - 50 yards |
 | Longbow†                | $290 | 4.5 lb | Two handed. Uses arrows for ammunition. Requires [Body] 14+ to use. | 240 yards    | 15 - 110 yards |
 | Crossbow               | $310 | 8 lb | Two handed. Uses bolts for ammunition. Requires [Body] 12+ to reload. Loading requires a movement or an action.   | 315 yards    | 5 - 75 yards |
-| Throwing Blade         | $35 | .5 lb | Can be used as a dagger with a range of 1.5 feet, but does so with disadvantage. Total/Optimal range increased by a number of yards/feet equal to either [Body] modifier or [Rflx] modifier (which ever is better).  | 22 yards | 3 - 18 feet |
+| Throwing Blade         | $35 | .5 lb | Can be used as a dagger with a range of 1.5 feet, but does so with disadvantage.  | 23 yards | 3 - 20 feet |
 | Brusgiata              | $140 | 2.75 lb | Cannot be used within 3 yards. | 48 yards  | 6 - 25 yards |
 | Chakram                | $110 | 1 lb | Cannot be used within 3 yards. | 48 yards  | 6 - 25 yards |
 | Sling‡                 | $6 | neg. | Uses sling bullets as ammunition. Must be wound as an action or in place of movement during a round. If wound twice in a round, the attack gets a +1 bonus. In place of damaging armor with standard ammunition, the foe is dazed until the end of the round.  | 75 yards | 8 - 30 yards |
