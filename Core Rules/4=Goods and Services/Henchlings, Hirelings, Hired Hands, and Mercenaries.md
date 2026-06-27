@@ -1,5 +1,5 @@
 ## Hired Hands
-Many adventurers will find themselves in need of additional support themselves, which can be found in the form of Hired Help. Though mercenary warrriors can be quite expensive, noncombatants can be secured for a reasonable fee and still provide much improvement to the experience. The cost of a hired hand will vary by the cost of living, and so is multiplied just as the rent would be based on living conditions. An example of the various types of hired hand can be found below. Unless otherwise noted, an adventurer must also cover an employee's room and board.
+Many adventurers will find themselves in need of additional support themselves, which can be found in the form of Hired Help. Though mercenary warriors can be quite expensive, noncombatants can be secured for a reasonable fee and still provide much improvement to the experience. The cost of a hired hand will vary by the cost of living, and so is multiplied just as the rent would be based on living conditions. An example of the various types of hired hand can be found below. Unless otherwise noted, an adventurer must also cover an employee's room and board.
 
 | Type | Cost per day | General Function |
 |-|-|-|
@@ -8,7 +8,7 @@ Many adventurers will find themselves in need of additional support themselves, 
 | Local Henchman | $90 | Functions as a man-at-arms. Will fight, but may opt to retreat if victory is not at hand (does not appear to be likely or will be too tough of a fight to achieve). |
 
 ## Mercenaries
-A cut above the hired hands of everyday work, these mercenaries are professionals that command longer contracts (often 3 months). A retainer must be paid, which is half of their estimated value, and the remainder is tio be paid as negotiated between the mercenary and their employer. Sometimes, they will agree to have the remainder of their contract paid in loot during the course of the contract. One should be keen and careful in the negotion of their mercenaries.
+A cut above the hired hands of everyday work, these mercenaries are professionals that command longer contracts (often 3 months). A retainer must be paid, which is half of their estimated value, and the remainder is to be paid as negotiated between the mercenary and their employer. Sometimes, they will agree to have the remainder of their contract paid in loot during the course of the contract. One should be keen and careful in the negotiation of their mercenaries.
 
 | Type | Cost per contract | General Function |
 |-|-|-|
