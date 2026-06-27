@@ -1,5 +1,5 @@
 #### Common Horses
-Most horses are classifed by purpose rather than specific breed.  Here some examples of horses are given. A quick reference table is given here for convenience. When buying one of these horses, roll a d4 to determine its temperment.
+Most horses are classified by purpose rather than specific breed.  Here some examples of horses are given. A quick reference table is given here for convenience. When buying one of these horses, roll a d4 to determine its temperament.
 * 1: Cold-blooded.
 * 2: Warm-blooded.
 * 3: Hot-blooded.
