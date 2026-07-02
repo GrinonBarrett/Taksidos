@@ -2785,7 +2785,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (14
+### P (15
 
 #### Pagomancy
 
@@ -3022,6 +3022,22 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
 
 **Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic conncetion. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
+
+#### Puncture
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 15 yards
+
+**Effect**: You fire a fine ray of rapidly rotating energy at a foe within range, inflicting a piercing attack.
+
+If the spell check is a critical hit, you may have the spell's ray continue through any obstacle on its way. This can cause it to inflict a piercing attack against that obstacle.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose to increase the range by 15 yards.
+
+**Critical Failure**: You fail to focus the energy properly, inflicting a ki attack against yourself with a bonus equal to the spell's tier minus one. The attack ignores your armor.
 
 ### Q (1
 
