@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (18
+### A (19
 
 #### Abatis
 
@@ -243,6 +243,20 @@ The susbtance will return to a nasty tasting water that provides half the usual 
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 15 yards.
 
 **Critical Failure**: You fail to ground yourself properly. The spell functions as normal, but attacks you as the original target.
+
+#### Archlance
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Range**: 80 yards
+
+**Effect**: You fire a powerful surge of energy as a ray against a creature within range. This inflicts a force attack. If the attack qualifies to damage armor or is a critical hit, it also inflicts a crushing attack. The force attack has disadvantage on attacks made against a foe which is more than half of the spell's maximum distance away unless the spellcheck is a critical hit.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to increase the range by up to 20 yards.
+
+**Critical Failure**: You fail to focus the energy properly. This inflicts a force attack against yourself with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Artificial Hand
 
