@@ -3257,7 +3257,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (20
+### S (21
 
 #### Sapiafi
 
@@ -3474,6 +3474,20 @@ Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead.
 **At Higher Tiers**: Each tier beyond minimum sees the sphere extend out an additional foot in all directions.
 
 **Critical Failure**: Flip a coin. If tails, you produce the sphere centered on you lasting for a single round. Regardless, you are completely frozen (see condition).
+
+#### Spook
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you cast in response to the target's action or movement being completed
+
+**Range**: 10 yards
+
+**Effect**: You cause a momentary jump of scary imagery, sound, or some other stimuli of an illusory nature. This inflicts a psychic attack against the foe. Instead of damaging armor, it causes the creature to be vulnerable until the end of the next phase. Additionally, the target must perform a [Rflx] save with a DV equal to the attack total + spell tier or be afflicted with a lingering wave of fear. If they failed the save, for a number of rounds equal to the points of failure, the subject has disadvantage on [Will], [Prcp], and [Empy] checks and saves.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to increase the range by 15 yards.
+
+**Critical Failure**: You are certain you are being stalked by something. For a number of days equal to the spell's tier, you have disadvantage on saves against fear. Additionally, as long as you have spell sickness, you have disadvantages on saves.
 
 #### Spritzery
 
