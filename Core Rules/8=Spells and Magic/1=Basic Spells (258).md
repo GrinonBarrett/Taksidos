@@ -300,14 +300,28 @@ A critical success with the spell check will allow you to change the loop as an 
 
 **Effect**: You die. In your place, your remains warp and transmute into a macabre memorial. Those you are familiar with may treat a 1 yard space around the monument as a magical portal they are familiar with. When the monument is destroyed, a Nrall is summoned and will take vengeance on the one(s) that defiled your memorial. It will cease to be after that.
 
-Uf the spellcheck was a critical success, you may choose to explode with necrotic energies, inflicting a necrotic attack against everything a number of yards equal to the spell's tier- except those creatures you may wish to protect from this.
+If the spellcheck was a critical success, you may choose to explode with necrotic energies, inflicting a necrotic attack against everything a number of yards equal to the spell's tier- except those creatures you may wish to protect from this.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may increase the area that the portal encompasses by 1 yard in all directions. Additionally, when cast at 5th tier or above, an additional Nrall is summoned for every 3 tiers beyond minimum.
 
 **Critical Failure**: You die.
 
 
-### B (11
+### B (12
+
+#### Beckon
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 20 yards
+
+**Effect**: You call the attention of all non-mindless creatures within range to a point of space, an object, a portal, or creature. Those creatures make a [Will] save. If a critical success, they are made aware of the exact point of the subject but are not remotely distracted by it. If successful, they are made aware of the subject and will turn to face it. If the save is a failure, they will stop concentrating and focus on the subject. If the save is a critical failure, they wil also cease casting any spell and be dazed until the end of the next round.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose either to increase the range by up to 5 yards or exclude one creature.
+
+**Critical Failure**: You cause all creatures within range to be aware of your exact position for a number rounds equal to the spell's tier. Their attacks have advantage against you during this time. You gain spell sickness equal to 1d2 + half of the spell tier (round down).
 
 #### Behest
 
