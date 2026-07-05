@@ -3271,7 +3271,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (21
+### S (22
 
 #### Sapiafi
 
@@ -3540,6 +3540,22 @@ If the spell check was a critical success, you may replace the d10 with any of t
 * Casting time is reduced by 2 actions
 
 **Critical Failure**: You conjure the starfall over yourself, wherever you are when it resolves. You count as a number of creatures equal to the spell's tier for the purpose of determining how many attacks are directed at you. For example, a 5th tier spell will attack you as 5 individual creatures- potentially causing a great number of attacks against you.
+
+#### Startle
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 15 yards
+
+**Effect**: You make a combination of sounds and gestures to offput a foe by triggering a fear response in them. They must succeed a [Rflx] save or lose their reaction for the round and the next round. If the save result is a critical failure, it is also dazed during this time.
+
+If the spellcheck is a critical success, a targeted creature is unable to perform a reaction in response to this spell.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose either to increase the range by up to 3 yards or afflict an additional creature
+
+**Critical Failure**: You lose your mind temporarily. For a number of rounds equal to the spell's tier, your cannot perfom a reaction. You are also vulnerable for a number of phases equal to the spell's tier.
 
 #### Stranging
 
