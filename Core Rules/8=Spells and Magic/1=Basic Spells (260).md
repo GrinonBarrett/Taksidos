@@ -2373,7 +2373,23 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (14
+### M (15
+
+#### Macabre Messenger
+
+**Minimum Tier**: 4
+
+**Casting Time**: 40 actions
+
+**Duration**: 1 day
+
+**Effect**: You take a written note, a scroll, a coin, or tablet and put it in the mouth of a corpse while imagining a creature you are familiar with or can describe. 1d12 rounds after completing the spell, the corpse animates into a Walking corpse. It knows the direction of the subject of your message and will seek them out. Upon finding them, it will reveal its message and then return from wence it came. It is not an overtly hostile creature unless it is attacked or something attempts to retrieve the message other than the intended recipient. If it is destroyed, the spell ends.
+
+The corpse must be from within a number of hours equal to the spell's tier unless the spellcheck is a ceitical success.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may double the duration of the spell.
+
+**Critical Failure**: Animate the corpse, but it instead seeks to harm the subject and yourself for the duration of the spell. It remains animated after the spell ends. As long as you have spell sickness, it.knows your exact location and has advantage on attack rolls against you.
 
 #### Mage Sword
 
