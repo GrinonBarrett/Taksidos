@@ -83,10 +83,10 @@ A creature native to the plane of fire. They have been spotted in the Alnuskogs 
 
 **Defy Stupor**: Anytime the enrokumar would recieve points of inebriation, that is reduced by 1d4-1.
 
-**Breath Weapon**: The enrokumar may exhale a burst of flame as an action. This is a line up to 15 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. It may continue to do so until it has exhaled 20 yards of fire. A rest restores thi
+**Breath Weapon**: The enrokumar may exhale a burst of flame as an action. This is a line up to 15 yards in length and is half a foot high and wide. Anything caught within the line suffers a Fire attack. A rest restores this the use of this feature.
 Alternatively, it may cause the breath weapon to take the form of a cone. Doing so reduces the length to one third of its usual length as it sweeps its head side to side. Use the orinial line length to determine the amount used if converted into a cone.
 
-**Controlled Burst**: The peludar may loose a small blast using the same mechanism as its breath weapon. This is a ranged attack against a foe within 15 yards. Optimal range is 10 yards or less. This inflicts two fire attacks. It may do this once per encounter and an additional time between rests.
+**Controlled Burst**: The enrokumar may loose a small blast using the same mechanism as its breath weapon. This is a ranged attack against a foe within 15 yards. Optimal range is 10 yards or less. This inflicts two fire attacks. It may do this once per encounter and an additional time between rests.
 
 **Burning Attacks**: Anytime the enrokumar inflicts a critical hit with an unarmed attack, it may treat it as a fire attack.
 
