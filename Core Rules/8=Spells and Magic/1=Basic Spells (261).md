@@ -2646,7 +2646,7 @@ The spell's effects last a number of minutes equal to the spell check result mul
 6. [Fort] reduced by 2.
 7. [Inte] reduced by 1.
 8. All modes of movement reduced by 1/3.
-9. Creature cannot perform a reaction if it performed one during the current or previous previous round.
+9. Creature cannot perform a reaction if it performed one during the current or previous round.
 10. Creature's flesh softens, reducing its defense by 1.
 11. Choose an attribute other than [Empy], it is reduced by 1. It suffers a -1 to [Empy] saves.
 12. Its greatest attribute of [Body], [Rflx], or [Fort] is reduced by 3. This can affect a creature multiple times  so long as it would not affect the same attribute.
@@ -3083,7 +3083,7 @@ If the spell check is a critical hit, you may have the spell's ray continue thro
 
 **Critical Failure**: You fail to focus the energy properly, inflicting a ki attack against yourself with a bonus equal to the spell's tier minus one. The attack ignores your armor.
 
-### Q (1
+### Q (2
 
 #### Quell
 
@@ -3098,6 +3098,33 @@ If the spell check is a critical hit, you may have the spell's ray continue thro
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 1 yard and you may target an additional creature.
 
 **Critical Failure**: The spell instead enters you into a trance devoid of emotion or active engagement. You are dazed for a number of minutes equal to the spell's tier.
+
+#### Questing Beast
+
+**Minimum Tier**: 4
+
+**Casting Time**: 30 actions
+
+**Duration**: 1 day
+
+**Effect**: You call to a creature for aid from beyond your typical senses. Picture a creature or object you are familiar with. Choose one of the following creatures;
+* Alligator, Common
+* Dog, Wrangler
+* Cat, Common
+* Corvid
+* Mantispidon
+* Rodent, Mutated
+* Shorehound
+
+One will rush towards the caster after 1d4 rounds, acknowledge the caster, seek out the object/creature the caster imagined and attempt to bring it to the caster. If it would be killed, you lose 1d3 hitpoints. For each hitpoint you do not have to lose, you make an incapacitation save instead.
+
+If the creature believes a task will put itself in unreasonable jeopardy- it will find an alternative means to complete the task or simply wait until the danger abides.
+
+If the spellcheck is a critical success, the creature will always know the direction to the subject, otherwise it relies on direction from the caster and its own senses.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may double the duration of the spell.
+
+**Critical Failure**: There is no creature coming to your call. All creatures of its kind will be hostile to you as long as you have spell sickness. You cannot conjure a creature of that kind so long as you have spell sickness.
 
 ### R (11
 
