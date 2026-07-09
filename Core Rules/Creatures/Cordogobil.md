@@ -87,14 +87,14 @@ It appears to be a cordo gourd which has sprouted two short eye stalks on the fr
 
 #### Gaining a Cordogobil Servile
 
-By casting the Animate spell on a ripe cordo, an invoker can create their own cordogobil servile. When created this way, it is treated as having a single hitpoint.
+By casting the Animate spell on a ripe cordo, an invoker can create their own cordogobil lesser servile. When created this way, it is treated as having a single hitpoint.
 
 **Dominion Benefits**: The cordogobil gains the benefit as appropriate to your domain.  
 * **Chosen Spirit**. Anytime the cordogobil's unarmed attack would qualify to damage armor, it applies the effect of a necrotic critical hit. Alternatively, it may simply treat any unarmed attack as a *magical* necrotic attack.
 * **The Earth**. The cordogobil cannot be knocked back by magical means.
 * **The Flame**. The cordogobil gains a bonus to defense against cold attacks equal to your heroism.
 * **The Grave**. Anytime its spines would qualify to damage armor, the foe is subject to a toxic attack.
-* **The Light**. When cordogobil dies, you may have it explode in a *magical* flash of light.
+* **The Light**. When the cordogobil dies, you may have it explode in a *magical* flash of light. This produces bright light out a number of yards equal to your heroism and can inflict a radiant attack against any creatures within that area you choose.
 * **Nobility**. The cordogobil gains a bonus to all saves against magical effects equal to your heroism.
 * **The Sea**. The cordogobil gains the ability to float along the surface of any liquid which does not overtly damage it. It gains a swim speed of 3 yards.
 * **The Sky**. It learns the Bounding, Landing, and Wisp Away spells. It can cast them as wyrdings.
