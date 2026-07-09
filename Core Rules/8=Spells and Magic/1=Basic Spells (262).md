@@ -503,7 +503,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (13
+### C (14
 
 #### Call Lightning
 
@@ -714,6 +714,22 @@ A creature may opt to grant the spell's attack against them advantage if they ca
 **At Higher Tiers**: In addition to the benefits noted above, for each tier beyond minimum, you may opt to increase the range by 3 yards or the duration by 5 minutes.
 
 **Critical Failure**: The crown binds to you regardless of your target. Additionally, so long as you have spell sickness, you are Blind and have a penalty to [Prcp] checks and saves equal to the spell's tier.
+
+#### Crowsong
+
+**Minimum Tier**: 3
+
+**Casting Time**: 18 actions
+
+**Duration**: 1 day
+
+**Effect**: You perform a sick sounding call accompanied by some melody. After 1d4 rounds, a number of corvids equal to the result +2 will arrive and acknowledge you. You may give them a dictate of no more words than the spells tier, which they will attempt to follow if it is possible to do so before the spell ends.. They will only engage in a combat if they believe themselves capable of winning. If a corvid dies, you receive an unlisted attack. A critical hit from such will leave you with 2 points of spell sickness.
+
+If you intentionally summon the corvids into mortal danger, you will find future castings of the spell will have a penalty equal to the number of corvids falled to satisfy your demands.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to either increase the die step of the d4 or increase the duration of the spell by half.
+
+**Critical Failure**: Instead of conjuring corvids, you call crobolds. 2d4+1 crobolds, with an additional 1d4-1 per tier beyond minimum, have been magically displaced to a location near to you. They are very confused and quite displeased with you. For a number of hours equal to the points of failure, they will pursue you with lethal intent. During this time they have advantage on saves against your abilities and spell and your attacks have disadvantage against them.
 
 #### Cryoschimurgy
 
