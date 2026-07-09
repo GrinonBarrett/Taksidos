@@ -1,5 +1,5 @@
 ### Shorehound
-This creature resmbles a canine with leathery skin in place of fur and a tortoise shell. Where one would expect its rear paws are instead flippers and its front paws resemble webbed claws. Their collective noun is a pack.
+This creature resembles a canine with leathery skin in place of fur and a tortoise shell. Where one would expect its rear paws are instead flippers and its front paws resemble webbed claws. Their collective noun is a pack.
 
 **Creature Type**: Shorehounds are Bigenerae. They are affected by magic as though they were Reptiles.
 
@@ -16,11 +16,11 @@ This creature resmbles a canine with leathery skin in place of fur and a tortois
 [Prcp] 10 (+3)  
 [Empy] 10 (+3)  
 
-**Languages**: Shorhounds don't speak, but can convey very basic information by barking.
+**Languages**: Shorehounds don't speak, but can convey very basic information by barking.
 
-**Run Speed**: It may run up to 35 yards per move.
+**Run Speed**: It may run up to 9 yards per move.
 
-**Swim speed**: It may swim up to 9 yards per move, presuming the water isn’t too rough.
+**Swim speed**: It may swim up to 35 yards per move, presuming the water isn’t too rough.
 
 **Unarmed Attacks**;
 
