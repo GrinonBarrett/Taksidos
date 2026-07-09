@@ -2389,7 +2389,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (15
+### M (16
 
 #### Macabre Messenger
 
@@ -2474,6 +2474,23 @@ Unless the spellcheck is a critical success, the transformation will only last a
 **At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, you may choose to convert up to an additional half a pound.
 
 **Critical Failure**: The silk withers into nothing. You receive spell sickness equal to half of the spell tier.
+
+#### Menace
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Range**: 40 yards
+
+**Effect**: You cast a growl, cry, gesture, or posture from yourself. Choose a creature type. All creatures of that type which can perceive you must succeed a [Will] save or become so overcome by fear that they are physically sickened. For as long as they can perceive you and a number of minutes after the fact, they are dazed (the lost action is when they feel a wave of sickness over them). If they perceive you again during this time, it resets. A critical failure also has the creature treated as being vulnerable against your attacks. A creature whoch failed its save, but not critically, can spend an entire round in which it does not perceive the caster to reroll their save and take the new result.  
+A creature so affected has disadvantage on [Fort] saves and also disadvantage on saves against your abilities.
+
+A creature that critically succeeds its save is immune to the same spell from the caster for a number of hours equal to the points of success.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may increase the range by 4 yards.
+
+**Critical Failure**: You have directed all the attention of those creatures towards yourself. Those creatures are instilled with a unique kind of fear, the kind that grants them advantage on attacks against your for a number of rounds equal to the points of failure multiplied by the spell's tier.
 
 #### Metamogrify
 
