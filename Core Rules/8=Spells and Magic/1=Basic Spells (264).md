@@ -3725,7 +3725,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (12
+### T (13
 
 #### Telekinesis 
 
@@ -3929,6 +3929,37 @@ If the spell check is a critical success, you may halve the time you and/or th o
 **At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, you may choose to either increase the range by half or increase the incapacitation save DV by 1.
 
 **Critical Failure**: You feel an existential crisis come over you. You suffer a penalty to your next incapacitation save equal to the spell's tier, regardles of when that happens.
+
+#### Trick Jars
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 20 yards
+
+**Duration**: Concentration + a number of phases equal to the spell's tier
+
+**Effect**: You create 3 opaque containers composed of forcefields which take on a shape and simple pattern as you choose (such as barrels, vases, hats, etc) each large enough to hold a medium size or smaller creature withon range. One of them can entrap a creature of your choice unless it succeeds a [Rflx] save with a DV equal to the spellcheck result plus the spell's tier. Another contains an explosive charge, which detonates when the forcefield is disturbed- inflicting a force attack and a fire attack against anything within 1 yard and the attacker if within 3 yards. Any remaining forcefields may be empty or contain willing creatures of an appropriate size.  
+A critical failure if the save against this will prevent the trapped creature from taking any action against the forcefield.
+
+Once the forcefields are created, you may have any number of them instantly exhange their location with any other. As an action or reaction, you may dismiss any number of the forcefields.
+
+An attack roll of any kind of 12 + spell tier will destroy the forcefield. A creature unwillingly trapped inside of a forcefield is prone and cannot take a reaction. Additionally, it has disadvantage on all checks and attacks against the forcefield.
+
+If the spellcheck was a critical success, you may choose to replace one of the attacks of the explosion with unlisted. The critical hit effect will then be that of an exotic damage type of your choice.
+
+The forcefield impair senses.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose one of the following;
+* Create an additional container
+* Increase the explosion radius by 1 yard and an additional foot towards the attacker.
+* The spell's range is increased by 1/3
+* The maximum size of a creature which can be held is increased by 1 size category.
+* The defense of the containers is increased by 1.
+* The DV of the save is increased by 2.
+
+**Critical Failure**: You have locked yourself in a forcefield for as long as you have spell sickness. You can do nothing during this time. The container can survive a number of hits equal to the tier of the spell and its defense is equal to 10 + your points of failure.
 
 #### Turn
 
