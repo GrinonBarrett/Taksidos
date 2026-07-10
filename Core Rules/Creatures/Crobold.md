@@ -60,6 +60,31 @@ These feathery goblins sport wings and have a habit of wandering into ruins and 
 |                        |           |          |            |         |            |
 | **Unlisted Damage Type** | 7 |    |     | **Undamaging** | 13 |
 
+**Table**: *Wound Allocation*
+| Result | **Name of Wound** | Effects                                                        |
+|--------|-------------------|----------------------------------------------------------------|
+|   1    | Attacker's Choice |                                                                |
+|   2    | Crippled          | Its movement speed is halved until this wound is healed.      |
+|   3    | Favored Limb      | Its main hand is no longer functional until this wound is healed. |
+|   4    | Mortal Blow       | Until the this wound is healed, it has disadvantage on saves which prevent death. |
+|   5    | Panic             | It cannot take any action except Sprinting during the action phases until the end of the next round. |
+|   6    | Winded            | It must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. It has a -1 to all other saves during this time.|
+|   7    | Stumble           | **Biased wound**. It is prone or vulnerable until the end of the round, its choice. If it already suffers from one, it must choose the other. |
+|   8    | Glancing Blow     | No ill effects.                                     |
+|   9    | Muscle Damage     | It has a -2 to all [Body] checks and saves until this wound is healed. |
+|   10   | Stinging Wound    | -1 penalty to checks until end of next round. |
+|   11   | Knock Down        | It must make a [Body] save against the attack result or be knocked prone. |
+|   12   | Concussion        | It suffers a -2 penalty to saves until the end of the next round. All attacks made against it gain a +1 bonus during this time. Until this wound is healed, it suffers a -1 penalty to all [Inte] and [Will] checks and saves. |
+|   13   | Vital Organ       | **Biased Wound**. A mortal wound has been inflicted against a vital organ. It must perform an incapacitation save or die immediately. It is hemorrhaging. |
+|   14   | Fatal Blow        | **Biased Wound**. It dies instantly. |
+|   15   | Bell Rung         | The next attack made against it before the end of the next round gets advantage.  |
+|   16   | Flesh Wound       | **Biased wound**. Attacks made against it until the end of the enounter get a +1 bonus.  |
+|   17   | Trip Up           | Make a [Rflx] save against the attack total or be knocked prone.                                  |
+|   18   | Off Limb          | **Biased wound**. Its off hand no longer is functional until this wound is healed. |
+|   19   | Disrupted Spirit  | Until this wound is healed, all magical attacks gain a +1 bonus against it and it suffers a -2 penalty to all saves against magical effects. |
+|   20   | Defender's choice |                                   |
+|        |                                                |                                   |
+
 -----
 
 **Nimble Flight**: While flying, the crobold adds its [Rflx] bonus to its defense against all attacks made at a range of 5 yards or greater.
