@@ -3725,7 +3725,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (13
+### T (14
 
 #### Telekinesis 
 
@@ -3804,6 +3804,32 @@ While channeling the tide, you gain a swim speed of 15 + spell tier yards and se
 **At Higher Tiers**: The benefits of casting at a higher tier are noted above.
 
 **Critical Failure**: You conjure the storm but find it a bit unforgiving. Roll 3 d4s. According to the element indicated, an attack is inflicted against you with a bonus equal to the spell's tier for the purpose of inflicting a critical hit. Wind inflicts cold, lightning inflicts electric, thunder inflicts sonic, and tide inflicts force.
+
+#### Temporeality
+
+**Minimum Tier**: 6
+
+**Casting Time**: 40 actions
+
+**Range**: 30 yards
+
+**Duration**: Up to a number of hours equal to the spellcheck result muliplied by the spell's tier.
+
+**Effect**: You create a field in the shape of either a 25 yard sphere or a cube whose sides each equal 15 yards. All matter within that space, living and inanimate, is cutoff from space and time itself. In its relative position, there is only a hardened dark void which cannot be penetrated. Light does not reflect on it. Nothing inside can be perceived, for nothing anything technically exists. There is an unusual coldness within 25 yards of it, causing cold and fire attacks to have advantage on creatures within that are. Aditionally, spellchecks made within 50 yards of the space have disadvantage.
+
+If a creature would have been inside the space and too large to fit inside the space- they are shunted 1d20+spell tier yards away. A creature touching it receives a cold attack. If the attack roll is odd, it will also inflict a necrotic attack.
+
+A creature which can perceive the area of the spell for a minute or so can make a Spellcraft check with a DV of 16 to identify the nature of the area. A spellcraft check made by a creature that knows this spell automatically succeeds and one by a creature which knows the temporialysis spell has advantage.
+
+Gold of .999 purity and weighing at least 1.5 ounces per spell tier which is in contact with the area of the spell and electrified will dispell its effect. When the spell ends, by this effect or otherwise, everything that was inside will seem to be completely undisturbed from the moment the spell took effect.
+
+**At Higher Tiers**: When cast at 7th tier or greater, for each tier beyond minimum, you may choose one of the following;
+* The spell's area is increased by 1/3
+* The spell's range is increased by 1/3
+* The duration is doubled
+* The distance a creature is shunted is increased by [Magic] yards.
+
+**Critical Failure**: You disappear for a number of days equal to 1d12 per point of failure. When you return, you receive an unlisted attack which ignores armor for each day you had disappeared. A critical success by such an attack will inflict a point of spell sickness and an instance of archeblight. You are also dazed for a number of rounds equal to the spell's tier when you return.
 
 #### Temporialysis
 
