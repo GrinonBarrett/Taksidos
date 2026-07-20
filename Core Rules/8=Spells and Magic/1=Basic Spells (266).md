@@ -4299,7 +4299,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (16
+### W (17
 
 #### Waedervalder
 
@@ -4508,6 +4508,22 @@ The fluid cannot be removed from the globe or consumed.
 **At Higher Tiers**: When cast at 4th tier or greater for each tier beyond 3rd, the range (including the range at which can be directed towards a new target) are both increased by 5 yards.
 
 **Critical Failure**: You conjure the spirit but it is angered. It chooses you as its sole target and will remain for a number of phases equal to your points of failure. Additionally, if its attack would qualify to damage your armor- it instead inflicts a psychic attack against you.
+
+#### Wildsense
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Duration**: 1 hour
+
+**Effect**: You draw upon the power of the wild. Your oralfactory senses (if you have any) are empowered, granting a bonus to all [Prcp] checks using sense of smell equal to the spell's tier. Additionally, if you can perceive a fey or sylvan creature with two or more senses, you know its creature type. Furthermore, while the spell is in effect, all magical forms of inebriation inflicted against you is halved and you have a bonus to saves against the magical abilities and spells of fey creatures equal the spell's tier.
+
+If the spell check was a critical success  you may choose to have it empower a different of the five basic senses instead.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the duration by half.
+
+**Critical Failure**: You receive inebriation equal to half of the spell's tier and have disadvantage on [Prcp] saves so long as you have spell sickness.
 
 #### Wisp Away
 
