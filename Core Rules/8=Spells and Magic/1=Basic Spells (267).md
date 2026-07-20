@@ -2862,7 +2862,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (15
+### P (16
 
 #### Pagomancy
 
@@ -2931,6 +2931,20 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the maximum duration by half or the range of the chain by 1 yard.
 
 **Critical Failure**: You bind yourself in a magical chain and receive a club attack. You are immobile for a number of phases equal to the spell's tier plus one.
+
+#### Phantom's Mire
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 actions
+
+**Duration**: 1 minute
+
+**Effect**: You conjure spirits to haunt an area of no more than 50 cubic yards. Any creature within the area that is afflicted by Archeblight has its movement speeds divided by the tier of the spell and has a penalty to all saves against magic equal to their spell sickness. Additionally  ki attacks have advantage against all creatures in the area which are afflicted by Archeblight. All other creatures have their movement speed halved in the area.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double the duration or increase the maximimum volume by half.
+
+**Critical Failure**: You produce such an area but it is centered on you. You cannot escape the mire during this time.
 
 #### Phasic Wave
 
