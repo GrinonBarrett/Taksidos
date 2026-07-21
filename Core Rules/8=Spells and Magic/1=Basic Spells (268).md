@@ -1699,7 +1699,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
-### H (12
+### H (13
 
 #### Hablliwism
 
@@ -1709,9 +1709,9 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Duration**: Concentration + a number of rounds equal to spell tier
 
-**Effect**: You produce an invisible sphere in which all senses are dulled, sounds become hazy, and color departs. This sphere projects out for 10 yards and grows an additional yard at the end of each phase you concentrate on the spell. All creatures within the sphere have disadvantage on [Prcp] checks and saves. When a creature attempts to cast a spell within the area, after the attempt has been made (regardless of result) they receive spell sickness equal to the spell's tier. Checks/saves made against the effects of illusions inside the sphere gain advantage. Illusory creatures within the sphere have disadvantage on any checks/saves they perform inside of the sphere. If a counterspell check result made within the sphere is ever the exact same as the spell's tier, that creature's result is treated as 0. Forcefield cannot be created within the space of the sphere, but it will not disrupt those that already exist.
+**Effect**: You produce an invisible sphere in which all senses are dulled, sounds become hazy, and color departs. This sphere projects out for 10 yards and grows an additional yard at the end of each phase you concentrate on the spell. All creatures within the sphere have disadvantage on [Prcp] checks and saves. When a creature attempts to cast a spell within the area, after the attempt has been made (regardless of result) they receive spell sickness equal to the spell's tier. Checks/saves made against the effects of illusions inside the sphere gain advantage. Illusory creatures within the sphere have disadvantage on any checks/saves they perform inside of the sphere. If a counterspell check result made within the sphere is ever the exact same as the spell's tier, that creature's result is treated as 0. Forcefields cannot be created within the space of the sphere, but it will not disrupt those that already exist.
 
-**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above,for each tier beyond minimum- you may chose to either increases the intitial stretch of the sphere by 1.5 yards or the growth rate by 1 foot.
+**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above, for each tier beyond minimum- you may chose to either increases the intitial stretch of the sphere by 1.5 yards or the growth rate by 1 foot.
 
 **Critical Failure**: You have localized the effect to just yourself, and it lasts so long as you have spell sickness.
 
@@ -1808,6 +1808,20 @@ If you are familiar with the creature to be affected, the attack has advantage.
 **At Higher Tiers**: When cast at 2nd tier or greater, you may multiply the maximum duration by the number of tiers beyond minimum squared.
 
 **Critical Failure**: You still transform yourself into a statue, but fo not have the same control over the specifics. You are petrified for a number of minutes equaal to the spell's tier.
+
+#### Howl
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 40 yards
+
+**Effect**: You loose a loud cry eerily similar to that of a monstrous wolf or other such terrifying beast. You imagine any number of creatures you know when doing so. All creatures within range will manage to hear this howl and must perform a [Prcp] save. If a critical success, they know its exact nature and source. If a success, they do not know the source but understand it is of an unnatural nature. If a failure, they are unable to make out its source or nature. If a critical failure they not only are unable to identify the spurce or nature, but will disadvantage on the following save.
+
+A creature which fails to any degree must also perform a [Will] save or be so overcome with fear that they have disadvantage on attacks/checks against the caster and on saves against their spells and abilities. This fear lasts for a number of minutes equal to the points of failure. A creature which has succeeded the check to any degree can spend 3 entire rounds addressing the frightened one. This allows them to attempt another save against the fear for the purpose of determining if it is a success or not.
+
+**Critical Failure**: You let any creature within range know your location. Inflict a sonic attack against each of those creatures against their [Prcp] score. This attack causes no wound or effect if successful to any degree. If the attack failed, an afflicted creature knows your location for a number of phases equal to the points of failure and has advantage on attacks against you during this time. You cannot cast the spell again as long as you have spell sickness and your voice will feel strained during this time.
 
 #### Hydravidity
 
