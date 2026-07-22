@@ -1461,7 +1461,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (12
+### G (13
 
 #### Glacial Brand
 
@@ -1538,6 +1538,25 @@ If the spellcheck is a critical success, you may override a creature's inherent 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either affect an additional creature or increase the duration by half.
 
 **Critical Failure**: You have stripped yourself of all senses for a number of minutes equal to the spell's tier. After each minute, you may return one of your senses.
+
+#### Gorgonurgy
+
+**Minimum Tier**: 5
+
+**Casting Time**: 4 actions
+
+**Range**: 25 yards
+
+**Effect**: You channel a supernatural magic. All creatures within range which can perceive you must succeed their choice of a [Fort] or [Rflx] save or finds their flesh begin to harden into stone. A failure will cause the creature to become prone immediately. Then, at the start of the next round, the creature will be immobile. At the start of the next round, it will be petrified for a number of rounds equal to the points of failure. A critical failure causes the petrification to begin immediately.
+
+A critical success on the save prenets the creature from being affected by the spell from the same caster for a number of hours equal to the points of success.
+
+**At Higher Tiers**: When cast at 6th tier or higher, for each tier beyond minimum, you may choose one of the following;  
+* The range is increased by 5 yards
+* The DV of the save is increased by 2
+* The casting time is reduced by 1 action (to a minimum of 1 action)
+
+**Critical Failure**: The powers you sought to invoke have burdened you with deformity and a touch of madness. You lose [Empy] equal to the spell's tier and are perrified as long as you have spell sickness. Each point of [Empy] lost this way can be recovered as a wound.
 
 #### Grasp
 
