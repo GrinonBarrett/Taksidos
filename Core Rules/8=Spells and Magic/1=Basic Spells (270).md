@@ -755,7 +755,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (14
+### D (15
 
 #### Damper
 
@@ -922,6 +922,22 @@ Size = Explosion
 **At Higher Tiers**: When cast at 2nd tier or greater, in addition to the benefits noted above, you may choose to increase the range by 1.5 yards.
 
 **Critical Failure**: You gain spell sickness equal to half of the spell's tier and cry out in the most paranoid voice and train of thought you could contain.
+
+#### Degas
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Range**: 5 yards
+
+**Effect**: You remove all air (and other gasses/vapors) from a space of up to 2 cubic feet within range. You cannot affect the space immediately occupied by a creature or a part therof (so no emptying of one's lungs), but you can affect apace adjacent to a creature. If performed to remove air from a given space in an atmosphere like ours, air from surrounding space will quickly fill the void- causing a feeling of a light gust. If performed in a sealed space/container, and the last of the air is removed, it creates a vacuum.
+
+If the spellcheck was a critical success, you may choose to have that removed gas into a container you are holding- though too much gas can cause most containers to burst.
+
+**At Higher Tiers**: For each tier beyond minimum, you may choose to either double the range or increase the volume affected by half.
+
+**Critical Failure**: You have deprived yourself of air, dazing you for a number of rounds equal to the apell's tier and receive a single additional point of spell sickness.
 
 #### Deject 
 
