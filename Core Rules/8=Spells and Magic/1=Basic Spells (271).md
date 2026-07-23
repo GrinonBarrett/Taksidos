@@ -2911,7 +2911,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (16
+### P (17
 
 #### Pagomancy
 
@@ -2962,6 +2962,27 @@ If the spellcheck is a critical success, you may spend an action to prematurely 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 2 yards.
 
 **Critical Failure**: You have failed to call upon the power needed for this, granting the attack a bonus against you equal to the spell's tier. You also gain spell sickness equal to the spell's tier.
+
+#### Peals of the Cosmos
+
+**Minimum Tier**: 6
+
+**Casting Time**: 6 actions
+
+**Range**: 30 yards
+
+**Effect**: You tear at the outer edges of the weave that makes up reality itself. This inflicts a sonic attack and ki attack against everything within range, including yourself. After 1d4 phases, the range is multiplied by that result and a new ki attack is inflicted. This repeats, with the die step being reduced by one step each time until it would be reduced below 1- at which point the spell ceases.
+
+Anything at a distance of no less than 10 times the spell's range can hear the most unnerving crack of sound each time it inflicts an attack.
+
+If your spellcheck is a critical success, the attacks have disadvantage against you.
+
+**At Higher Tiers**: When cast at 7th tier or higher, for each tier beyond minimum, you may choose one of the following;
+* The die level is increased by one step
+* The initial range is is increased by half.
+* The attacks each gain a +1 bonus for the purpose of inflicting a critical hit. This does not affect the attacks against you.
+
+**Critical Failure**: You are immediately afflicted with a number of unlisted attacks equal to the spell's tier. There is also a % chance equal to the spell's tier that you summon a Deep Lord at a point within range of the spell at the narrator's discretion.
 
 #### Phantom Chain
 
@@ -3678,7 +3699,7 @@ If the spell check was a critical success, you may replace the d10 with any of t
 * area of effect is increased or reduced by 2 yards in both dimensions.
 * Casting time is reduced by 2 actions
 
-**Critical Failure**: You conjure the starfall over yourself, wherever you are when it resolves. You count as a number of creatures equal to the spell's tier for the purpose of determining how many attacks are directed at you. For example, a 5th tier spell will attack you as 5 individual creatures- potentially causing a great number of attacks against you.
+**Critical Failure**: You conjure the starfall over yourself, wherever you are when it resolves. You count as a number of creatures equal to half of the spell's tier plus one for the purpose of determining how many attacks are directed at you. For example, a 6th tier spell will attack you as 4 individual creatures- potentially causing a great number of attacks against you. Additionally, if the division leads to a fraction, the additional attack is inflicted against you.
 
 #### Startle
 
