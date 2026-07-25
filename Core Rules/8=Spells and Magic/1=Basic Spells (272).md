@@ -3431,7 +3431,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (22
+### S (23
 
 #### Sapiafi
 
@@ -3582,6 +3582,24 @@ This spell last a day.
 **At Higher Tiers**: If cast as second tier or beyond, the alarm can last a number of days equal to the points of success. Each tier beyond 1st also increases the area you may have alarmed. The total area is a number of square feet equal to the spell's tier squared.
 
 **Critical Failure**: You seem to have set the alarm just fine. The alarm does nothing when disturbed though.
+
+#### Silver Wind
+
+**Minimum Tier**: 5
+
+**Casting Time**: 3 actions
+
+**Duration**: Concentration plus a number of rounds equal to the spell's tier
+
+**Effect**: You cause a vortex of sharp winds to swirl about you. This is an inverted cone whose base is centered between your feet, with a length of 15 yards  This shape moves with you. It kicks up dirt and causes metallic-appearing streaks to swirl around as even light is distorted and the sound is rather loud. [Prcp] checks and saves made by those within the area or through the area have disadvantage. Non-magical ranged attacks and the ray attacks of wands and staves into the area have disadvantage. Anytime the area comes in contact with something, or a creature ends the phase within the area (other than yourself) it is subject to a cutting attack.
+
+If the spellcheck was a critical success, you may have it originate at a point within a number of yards up to the spell's tier. It will not effect you regardless.
+
+Narural winds cannot penetrate the spell's area. If the spellcheck is a critical success, the effects of winds and gasses/vapors of a lower tier which would enter the area are also nullified.
+
+**At Higher Tiers**: When cast at 6th tier or higher, for each tier beyond minimum, in addition to the benefits noted above- you may increase the length of the area by 3 yards.
+
+**Critical Failure**: You produce the whirlwind as normal, but it willl affect you as it would any other creature except the attacks gain a bonus against you equal to rhe spell's tier for the purpose of inflicting a critical hit. It will last for a number of phases eaual to the points of failure.
 
 #### Sludgery
 
