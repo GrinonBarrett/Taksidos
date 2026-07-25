@@ -94,6 +94,23 @@ A critical success with the spell check allows you to increase the rotation to 4
 
 **Critical Failure**: You throw the orb but it eventually curves too much and returns to you, inflicting an attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as ki, necrotic, and radiant.
 
+### Auraklos (1
+Anauz Auraklos was a sorcer of some small innate talent. Most that know of him have heard of his quest for his ass, Abernathy.
+
+#### Auraklos' Snap
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 30 yards
+
+**Effect**: You snap your fingers. This inflicts a sonic attack against a creature within range. If the attack is a critical hit, in place of the traditional effect, it will influct a psychic attack against the tsrget.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, it grants both attacks a +1 bonus for the purpose of inflicting a critical hot.
+
+**Critical Failure**: You find your snap causes an intense migraine. It inflicts a psychoc attack against you with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit.
+
 ### Ba'Althazar AEtherkin (3
 The founder of the now forgotten Aetherkin College of Arcana and the Sciences and former mentor of Hu'Althur of the Sanctorum. Ba'Althazar's work drove one of the most sought after educationss in the world of arcanists before being corrupted by some force and turning the campus into a haunted ghost town. Though his life's work iscontributed greatly to an understanding of magic and the undead, it should not be studied too hard.
 
