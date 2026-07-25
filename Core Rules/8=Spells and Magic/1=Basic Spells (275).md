@@ -1193,7 +1193,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (18
+### F (19
 
 #### Fallen Words
 
@@ -1409,6 +1409,29 @@ This cannot affect eldritch, elemental, ephemeral, or infigura creatures.
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
 
 **Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
+
+#### Freezing Aura
+
+**Minimum Tier**: 6
+
+**Casting Time**: 7 actions
+
+**Range**: 3 yards
+
+**Duration**: 3 rounds
+
+**Effect**: You produce an aura of deathly cold aura. At the end of each phase, creatures within range which can perceive you must succeed their choice of a [Fort] save or be frozen for a number of phases equal to the points of failure up to the spell's tier. A critical failure also see's that creature subject to a cold attack. Frozen creatures are immune to this effect.
+
+Cold and fire attacks have advantage on any creature within range, including yourself.
+
+All liquids within the aura's space will freeze, magical or otherwise.
+
+**At Higher Tiers**: When cast at 7th tier or higher, for each tier beyond minimum, you may choose one of the following;  
+* The range is increased by 2 yards
+* The DV of the save is increased by 1
+* The duration is increased by 1 round
+
+**Critical Failure**: You become frozen for a number of rounds equal to the spell's tier. When you freeze, you are subject to a cold attack which ignores your armor. When you are thawed, you are vulnerable for a number of phases equal to the spell's tier.
 
 #### Frost Lance
 
