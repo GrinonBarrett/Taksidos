@@ -503,7 +503,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (14
+### C (15
 
 #### Call Lightning
 
@@ -552,6 +552,28 @@ This spell is capable of binding amorphous creatures and ephemera. Creatures bou
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1 yard.
 
 **Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
+
+#### Cloak of Nether
+
+**Minimum Tier**: 7
+
+**Casting Time**: 7 actions
+
+**Range**: 7 yards
+
+**Duration**: 7 rounds
+
+**Effect**: You blanket everything within range in magical darkness which you can see through. This darkness billows, folds, and weaves around everything within the range and seems to be connected to you. Attacks made into this area have disadvantage. You have advantage on all attacks made against creatures within range (undoing your disadvantage against a creature within the cloak). Spells cannot be cast within. Forcefields, illusions, and portals within the cloak cease to function unless cast by a spell of a higher tier. At the end of each round, an attack is rolled against each creature other than yourself within the area. If even, it is a crushing attack. If odd, it is a necrotic attack.  Regardless, a critical hit will apply the effect of both attack types and inflict a point of spell sickness.  
+You may use your action or reaction to inflict an unlisted attack against a creature within the cloak. If it is a critical hit  inflicts the effect of a radiant attack.
+
+You cannot leave the area of the cloak. If the spellcheck is a critical success, you may move about- having the center of the cloak move with you.
+
+**At Higher Tiers**: When cast at 8th tier or higher, for each tier beyond minimum, you may choose one of the following;  
+* The range is increased by 2 yards
+* The casting time is reduced by 1 action (to a minimum of 1)
+* The duration is increased by 1 round
+
+**Critical Failure**: You are blind and vulnerable for a number of rounds equal to the spell's tier. The cloak never materializes.
 
 #### Cloaking Aura
 
