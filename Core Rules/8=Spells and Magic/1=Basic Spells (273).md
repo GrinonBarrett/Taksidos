@@ -4077,7 +4077,7 @@ An attack roll of any kind of 12 + spell tier will destroy the forcefield. A cre
 
 If the spellcheck was a critical success, you may choose to replace one of the attacks of the explosion with unlisted. The critical hit effect will then be that of an exotic damage type of your choice.
 
-The forcefield impair senses.
+The forcefield impairs senses.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose one of the following;
 * Create an additional container
@@ -4176,7 +4176,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (14  
+### V (15  
 
 #### Vapors
 
@@ -4209,6 +4209,27 @@ Within the area of this barrier; creatures are unable to move from, interact wit
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may increase the dimensions of the area by half.
 
 **Critical Failure**: You lose one of your senses (chosen at random) and have disadvantage on [Prcp] saves for as long as you have spell sickness. You suffer a penalty to spellchecks and counterspell checks equal to the spell's tier for a number of rounds equal to the points of failure.
+
+#### Veil of Moths
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 20 yards
+
+**Effect**: You conjure a swarm of moths that don't appear to be of any known species and direct them against a foe. At the end of each action phase, these morhs will cause an attack against the creature it is directed towards. Roll a die, the attack is of the appropriate attack type. If the spellcheck was a critical success, it also adds the die result as a bonus for the purpose of inflicting a critical hit.  
+1. Necrotic  
+2. Biting  
+3. Toxic  
+4. Psychic
+
+The moths will continue for a number of rounds equal to the spell's tier. As an action, you may redurect moths from one target to another.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or afflict an additional creature.
+
+**Critical Failure**: You have angered a mysterious entity. The moths will instead attack you, and will continue to do so for a number of rounds equal to the spell's tier +1.
+
 
 #### Venting Burst
 
