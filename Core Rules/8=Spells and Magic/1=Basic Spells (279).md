@@ -2041,7 +2041,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (9
+### I (10
 
 #### Icebreaker
 
@@ -2056,6 +2056,20 @@ You may give the illusion psychic commands as an action or reaction, however it 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
 **Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it with a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
+
+#### Illfaring
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Duration**: 1 hour
+
+**Effect**: Your touch causes a creature be warded from magical healing wffects, such as those that restore wounds or recover hitpoints (or points of undeath) for the duration of the spell. Additionally, the afflicted creature must succeed a [Fort] save or receive a point of inebriation. A creature of yndeath has disadvantage on this save.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may double the duration.
+
+**Critical Failure**: You instead afflict yourself with the spell.
 
 #### Illproofing
 
