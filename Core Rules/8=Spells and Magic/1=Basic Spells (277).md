@@ -777,7 +777,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (15
+### D (16
 
 #### Damper
 
@@ -1051,6 +1051,22 @@ The spell lasts until the end of the next phase so long as the caster concentrat
 **At Higher Tiers**: Each tier beyond the minimum allows you to spew the flames 1 yard further.
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
+
+#### Dragon's Leer
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Range**: 60 yards
+
+**Effect**: From your eyes, beams of energy are produced to strike a foe. This is a ki ray attack against a creature. If the attack is a critical hit, it inflicts the effect of an acid attack instead. If the attack would qualify to damage armor, the foe is instead vulnerable until the end of the round.
+
+If the spellcheck is a critical success, the spell ignores shields and cover.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, the attack gains a +2 bonus for the purpose of determining a critical hit.
+
+**Critical Failure**: Your eyes burn, causing you to lose a hitpoint if you had any (or 1d8 points of undeath) and you have disadvantage on [Prcp] checks and saves for a number of rounds equal to the points of failure.
 
 ### E (10
 
