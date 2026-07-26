@@ -307,7 +307,7 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 **Critical Failure**: You die.
 
 
-### B (12
+### B (13
 
 #### Beckon
 
@@ -388,6 +388,20 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Break
+
+**Minimum Tier**: 3
+
+**Casting Time**: 7 actions
+
+**Effect**: You cause a magical forcefield you touch created by a spell of equal or lower tier to instantly shatter. If a magical effect would interact with the Dismipress spell, treat this spell as the same- but its tier is considered to be doubled.
+
+Alternatively, if cast against a construct or undead creature (or some object), it will inflict a sonic attack against it.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to either reduce the casting time by 2 actions (to a minimum of 1 action) or allow the spell to reach out 15 yards further.
+
+**Critical Failure**: You gain 1d2 points of spell sickness. This die level is increased by 1 step for each tier beyond minimum.
 
 #### Bouncing Ooze
 
