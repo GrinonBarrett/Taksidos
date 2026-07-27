@@ -13,7 +13,7 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Climb Speed**: You may climb up to 2 yards per move, presuming it is reasonable terrain to climb.
 
-**Swim speed**: You may swim up to 6 yards per move, presuming the water isn’t too rough.
+**Swim speed**: You may swim up to 8 yards per move, presuming the water isn’t too rough.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
@@ -50,6 +50,8 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Waterborne**: You are treated as proficient in Athletics while submerged. If you become proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  
 Once per encounter, when performing a [Body] or [Rflx] save while underwater- you gain advantage on that check/save.
+
+**Landshark**: Your run speed is increased by a number of feet qual to your heroism.
 
 **Advantaged**: You gain one feature from the following. Once this decision is made, it cannot be undone. Alternatively, you may simply choose an Edge offered by the Rogue class (see the Extra folder).
 
