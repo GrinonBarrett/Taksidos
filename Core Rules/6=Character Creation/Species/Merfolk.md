@@ -46,10 +46,10 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 
 **Marine Breathing**: Merfolk are equally capable of breathing normal air and breathing in untainted bodies of water.
 
-**Merfolk Form**: Armor suitable for a merfolk must be fashioned for that form specifically. This does not increase cost or weight, thoubutgh most armor is made of materials unsuitbale for the aquatic environments that they occupy.
+**Merfolk Form**: Armor suitable for a merfolk must be fashioned for that form specifically. This does not increase cost or weight, though most armor is made of materials unsuitbale for the aquatic environments that they occupy.
 
-**Waterborne**: You are treated as proficient in Athletics while submerged. If you become proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  
-Once per encounter, when performing a [Body] or [Rflx] save while underwater- you gain advantage on that check/save.
+**Waterborne**: You are treated as proficient in Athletics while submerged. If you would already be proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  
+Once per encounter, when performing a [Body] or [Rflx] save while underwater- you gain advantage on that save.
 
 **Strong Pace**: When you sprint, if you already sprinted this round, you do not incur additional fatigue from this sprint.
 
@@ -57,7 +57,7 @@ Once per encounter, when performing a [Body] or [Rflx] save while underwater- yo
 
 • **Adept**. Select a skill, Anytime you use that skill to perform a check (whether you are proficient or not), you gain a +2 bonus to that check. You may select this multiple times, choosing a new skill each time.
 
-• **Magic Resistance**. Anytime you roll a save against a magical effect, you gain a 1d6 bonus. This is cumulative with similarly named features one has acquired from their species.
+• **Magic Resistance**. Anytime you roll a save against a magical effect, you gain a 1d6 bonus. This is cumulative with similarly named features one has acquired from their class.
 
 • **Student of War**. You gain training in two weapons of your choice or specialization in a weapon of your choice. 
 
