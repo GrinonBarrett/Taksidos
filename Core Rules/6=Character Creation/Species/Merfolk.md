@@ -51,7 +51,7 @@ Mythical creatures who have been mistaken for undine creatures. Merfolk live in 
 **Waterborne**: You are treated as proficient in Athletics while submerged. If you become proficient in Athletics, you gain advantage on Athletics related checks and saves while underwater.  
 Once per encounter, when performing a [Body] or [Rflx] save while underwater- you gain advantage on that check/save.
 
-**Landshark**: Your run speed is increased by a number of feet qual to your heroism.
+**Strong Pace**: When you sprint, if you already sprinted this round, you do not incur additional fatigue from this sprint.
 
 **Advantaged**: You gain one feature from the following. Once this decision is made, it cannot be undone. Alternatively, you may simply choose an Edge offered by the Rogue class (see the Extra folder).
 
