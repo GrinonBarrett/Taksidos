@@ -1263,7 +1263,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (19
+### F (20
 
 #### Fallen Words
 
@@ -1276,6 +1276,24 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 **At Higher Tiers**: When cast at higher tiers, there is more leeway in how long they can be dead for you to retrieve their statement. At second tier, you can affect one that has been dead. At 3rd tier, it functions so long as they dead the same day. You can affect a corpse as old as a week at 4th tier. A month at 5th tier. A year at 6th tier. For 7th tier and beyond, you may affect a corpse which has has been dead for a number of years equal to the tier of the spell.
 
 **Critical Failure**: You hear something else calling, from a plane beyond. It will terrify you and apply points of spell sickness equal to half of the spell's tier (round up).
+
+#### Fascinate
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 action
+
+**Range**: 3 yards
+
+**Effect**: You inspire interest and wonder in a creature which can perceive you, penetrating its mind to charm them. That creature must succeed a [Will] save or become dazed for a number of rounds equal to the points of failure. If you have more [Empy] than that creature, it makes the save with disadvantage. A creature which is immune to illusions gains advantage on this save.
+
+If the spell check is a critical success, the range of the spell is increased by a number of yourds equal to your [Magic] bonus and the DV is increased by [Magic] bonus.
+
+A creature which is damaged is no longer dazed by this spell.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose to either double the range or affect an additional creature.
+
+**Critical Failure**: Your efforts have the opposite effect than intended and everyone within range who can perceive feels an unease they cannot explain. You gain spell sickness equal to the spell's tier and receive a level of exhaustion.
 
 #### Faux Fos
 
