@@ -307,7 +307,25 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 **Critical Failure**: You die.
 
 
-### B (13
+### B (14
+
+#### Band of Thorns
+
+**Minimum Tier**: 4
+
+**Casting Time**: 7 actions
+
+**Range**: 15 yards
+
+**Duration**: 2 days
+
+**Effect**: You must have a tether or curcular band of some form when you cast this spell. This inflicts a crushing attack against a creature within range. If successful in any degree, it will not inflict a wound but instead subjects them to this vex. A band of a similar appearance to what you held when casting this spell manifest around part of the target. Anytime a weapon or spell attack roll by the afflicted creature is successful and the result attack roll reault is odd, a piercing attack is inflicted against the subject which ignores armor as the thorny band constructs briefly. If the piercing attack is a critical hit, it inflicts the effect of a psychic attack instead.
+
+If the spellcheck is a critical success, you may choose to change the critical hit effect of the band to that of a crushing or piercing attack when you cast the spell. This cannot be changed.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or increase the duration by a day.
+
+**Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will influct a crushing attack which influcts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
 
 #### Beckon
 
