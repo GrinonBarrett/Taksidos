@@ -1,6 +1,6 @@
 Basic spells are those that a newer player could be exposed to knowing. Anytime a class or species' feature allows a character to gain a spell, it should be selected from this list.
 
-### A (19
+### A (20
 
 #### Abatis
 
@@ -291,6 +291,21 @@ A critical success with the spell check will allow you to change the loop as an 
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may increase the range by 15 yards.
 
 **Critical Failure**: You seem to produce the sound as intended. It lasts for a number of rounds equal to the spell's tier. The sound also emits from yourself. The only sound you can hear during this time is the sound from the spell. You also receive 1d3 points of spell sickness.
+
+#### Auracy
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Effect**: Your unarmed attack or touch causes strange vibrations in the target. After a number of hours, the target is subject to a ki attack and a sonic attack as the vibrations finish their dissonant function. These attacks ifnore armor.  
+This is 1d12+1d10+1d8+1d6+1d4+1d3+1d2+1 hours. If the spell check is a critical success, you may modify the number by your [Magic] bonus.
+
+An ephemera creature (and any other creature not occupying the same plane of existence as the caster) is immune to the sonic attack of this spell, however it can still be subject to the ki attack. Against infigura creatures, the time until it is subject to the attack is measured in days instead of hours. Against a construct, the measurement is minutes.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or modify each of the dice' result by 1.
+
+**Critical Failure**: Feel yourself afflicted instead. You receive an attack. If odd, sonic. If even, ki. The attack gains a bonus equal to the spell's tier for the purpose of influcting a critical hit. You also receive a point of spell sickness and are dazed for an entire minute. All of this happens when the spell would have affected the foe had it been cast correctly.
 
 #### Autobelisk
 
