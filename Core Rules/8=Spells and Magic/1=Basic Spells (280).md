@@ -3520,7 +3520,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (23
+### S (24
 
 #### Sapiafi
 
@@ -3787,6 +3787,23 @@ A creature's Mucous feature protects it from this.
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's line by 1 yard or the duration by 1 minute.
 
 **Critical Failure**: You manage to spray yourself with a strange fluid. Make a [Fort] save with a DV equal to the points of failure + the spell's tier. Attacks of both chosen types have advantage against you for a number of minutes equal to the points of failure.
+
+#### Starblind
+
+**Minimum Tier**: 4
+
+**Casting Time**: 5 actions
+
+**Range**: 25 yards
+
+**Duration**: 2 days
+
+**Effect**: You cast a wisping mote of bright light at a creature, inflicting a radiant attack. In place of wounding, it will apply a hex. A creature so affected cannot perceive magical effects , including magical light/darkness, illusory effects, etc. The creature also has disadvantage on all spellchecks, [Prcp] saves, and [Empy] saves. Their eyes have an unnatural glow to them.  
+If the attack was a critical hit, the critical hit effect is replaced with either bestowing a point of spellsickness or inflicting a wound.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or increase the duration by a day.
+
+**Critical Failure**: Your eyes glow unnaturally. You are afflicted by a radiant attack with a bonus equal to the spell's tier and an additional radiant attack which ignores armor. You lose all of your senses for a number of minutes equal to the spell's tier. This leaves you vulnerable, reduces you move speed to 1/12, and prevents you from holding your breath (as you would not know to).
 
 #### Starfall
 
