@@ -322,7 +322,7 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 **Critical Failure**: You die.
 
 
-### B (15
+### B (16
 
 #### Band of Thorns
 
@@ -437,6 +437,24 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
 **Critical Failure**: You have angered some great power, having a radiant attack inflicted against you and receiving an additional 1d4+X spell-sickness. Where X is half (round down) of the spell's tier. You produce light like a torch for a number of rounds equal to the spell's tier. Anyone gazing upon the light will get an eerie feeling.
+
+#### Bonding Shackle
+
+**Minimum Tier**: 2
+
+**Casting Time**: 4 actions
+
+**Range**: 5 yards
+
+**Duration**: 1 hour
+
+**Effect**: You cast a shackle which exists primarily on the ethereal plane but can bind two creatures within 3 yards of each other that are on the same plane of existance as yourself. Those creatures cannot exceed a fistance of 3 yard from each other as they become tether by a neigh un reakable chain of forcefield links. The links exist entirely on the ethereal plane but still cause the tether to keep the subjects bound together regardless of the plane they occupy. A magical attack originating on the ethereal plane with a total equal to the spellcheck result + spell tier can break the shackle.
+
+A critical success with the spellcheck allows you to tether a creature to a moveable object instead.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may either increase the range by 3 yards or adjust the range of the tether length by up to half (an increase or decrease).
+
+**Critical Failure**: The spell explodes in your face, inflicting an unlisted attack with a bonus equal to the spell tier. A critical hit from the spell will immobilize you until the end of the next round.
 
 #### Break
 
