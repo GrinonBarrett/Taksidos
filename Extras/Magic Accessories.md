@@ -262,6 +262,10 @@ Unique
 1.5 lb.  
 A fine helm polished to perfection. When worn, *it emits bright light out 1 yard, fair light a yard beyond that, and dim light 1 foot beyond that. When the wearer is wounded, the reach of the bright light is extended by a number a of feet equal to the attack result. Qhen this occurs, it inflicts a rafiant attack against every creature within the bright light other than the wearer.
 
+**Spore Pouch**, $19,000
+1 lb.
+This pouch can be looped into one's belt for cobcenience. Inside it contains a strange pollen like substance. It can hold up to 12 "doses" of spores. *It can restore a single "dose" after 1d3 days. When hurled, the spores function exactly like one of the following spells of your choice (Scorching Spores, Syphon Spores, Wild Spores) with the user casting it as a wyrding regardless of whether they naturally have the capability or not. The tier of the spell is how many doses are required to be thrown. Additionally, if the wearer was already capable of casting one of those spells, they gain a +1 to spellchecks and counterspell checks involving said spell*. If the pouch is submerged, the spores inside are ruined and will disappear.
+
 **Sring**, $4,936  
 Neg.  
 A silver band of a ring which looks quite nice in the light.  
