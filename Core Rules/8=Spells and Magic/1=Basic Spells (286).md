@@ -322,7 +322,7 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 **Critical Failure**: You die.
 
 
-### B (14
+### B (15
 
 #### Band of Thorns
 
@@ -341,6 +341,22 @@ If the spellcheck is a critical success, you may choose to change the critical h
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or increase the duration by a day.
 
 **Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will influct a crushing attack which influcts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
+
+#### Barre
+
+**Minimum Tier**: 2
+
+**Casting Time**: 3 actions
+
+**Range**: 5 yards
+
+**Effect**: You cause thin bars of forcefields to close a gap or portal of no more then 2.5 yards in any dimension. These forcefields deny passage by anything larger than diminutive in size. Air, liquids  and even fine sand can still pass through. These barrings last for a number of rounds equal to the spellcheck + spell tier. The bars can be broken by a number of attacks whose attack roll result is 18 or greater, so long as the number of attacks reaching that total is equal to the spell tier and made within the span of two adjacent rounds.
+
+A critical success with the spellcheck allows you to deny diminutive creatures from passage as well.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may either increase the range by 3 yards or reach of the gap/portal which can be barred by half.
+
+**Critical Failure**: You bind yourself with forcefields instead. You are immobile for a number of phases equal to half of the points of failure (rounded down, minimum of 1).
 
 #### Beckon
 
