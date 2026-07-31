@@ -4608,7 +4608,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (17
+### W (18
 
 #### Waedervalder
 
@@ -4804,6 +4804,18 @@ The fluid cannot be removed from the globe or consumed.
 
 **Critical Failure**: Instead of forming the orb, the shadows swirl around you. For a number of rounds equal to the spell's tier, you are subject to a necrotic attack at the end of each round. When one of these attacks fails to harm you, you accrue a point of spell sickness. You also have disadvantage on all [Prcp] checks and saves during this time. 
 
+#### Wild Spores
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 action
+
+**Effect**: You cast spores out on a 7 yard cone, inflicting a Toxic attack against the foe. In place of the traditional critical hit effect, the creature receives a point of inebriation and a point of spell sickness. If the attack would qualify to damage armor, it instead inflicts a point of inebriation.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to either increase the range of the cone by 2 yards or grant the attacks a +1 for purpose of inflicting a critical hit.
+
+**Critical Failure**: The spores float in the air and disappate, not affecting any creature. After a number of phases equal to the spell's tier, you receive a point of inebriation and a point of apell sickness. You also receive a toxic attack which ignores armor with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
 #### Wildervalder
 
 **Minimum Tier**: 3
@@ -4890,7 +4902,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Effect**: You conjure worms, snakes, and/or a similar creatures (or alternatively, a very long singular thing of a similar nature) which cover an area stretching out 5 yards.
 
-Anything ending the movement phase inside of or exiting the area of the spell is subject to an attack. If wnding the phase inside, it is crushing. If attempting to exit, it is biting. If the attack would qualify to damage armor or is a critical hit, the creature is restrained and grappled by the spell (treat any opposed grapple check result as being equal to the spellcheck die result + spell tier).
+Anything ending the movement phase inside of or exiting the area of the spell is subject to an attack. If ending the phase inside, it is crushing. If attempting to exit, it is biting. If the attack would qualify to damage armor or is a critical hit, the creature is restrained and grappled by the spell (treat any opposed grapple check result as being equal to the spellcheck die result + spell tier).
 
 If the spellcheck is a critical success, you may choose to move the area up to .5 yard at the end of each phase. Any creatures restrined by the spell remain where they are.
 
