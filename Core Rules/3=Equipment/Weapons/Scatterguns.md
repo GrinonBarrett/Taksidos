@@ -22,7 +22,7 @@ Blunderbuss Shot (per), $9.5, .25 lb.
 Not too dissimilar from the same paper cartridge of most firearms, though it contains multiple smaller bullets within the shot.
 
 Standard Trommor Cannister (per shot), $16, .6 lb.  
-A paper drum shaped cartidge with boning of pine. It is burnt almost completely in the process of firing. It contains various sized pieces of muniton inside. Anything successfully wounded by the trommor is also subject to a sling attack.
+A paper drum shaped cartridge with boning of pine. It is burnt almost completely in the process of firing. It contains various sized pieces of muniton inside. Anything successfully wounded by the trommor is also subject to a sling attack.
 
 Incendiary Cannister (per shot), $19, .5 lb.  
 A this drum is filled with slower burning powder and metal shaving. Anything successfully wounded is also subject to a fire attack. This fire attack does not inflict the traditional critical hit effect, and instead causes such intense pain that a creature loses 1 hitpoint as the result of the critical hit.
