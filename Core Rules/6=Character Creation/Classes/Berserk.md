@@ -33,10 +33,10 @@ This trance ends at the end of any 2nd consecutive round you do not successfuly 
 The first attack you make each round while in your battle-rage trance gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
 
 ### 2) Wrathful Strike
-If you are successfully wounded by a creature you can perceive while vulnerable, you may use your reaction to face that foe and perform either a melee or thrown attack against them with disadvantage. If your attack roll total is greater than theirs, this does not count against the use of your reaction for the round.
+If you are successfully wounded by a creature you can perceive while vulnerable, you may use your reaction to face that foe and perform either a melee or thrown attack against them with disadvantage. If your attack roll total is greater than theirs, this does not count against the use of your reaction for the round. If your attack is a critical hit, you may choose to intimidate the foe. If you do, they become so overcome with fear that they are either vulnerable or dazed (your choice) until the end of the next round.
 
 ### 3) Panicked Frenzy
-When you fail a save against a fear effect, but not critically fail, you may use your action to into Panicked Frenzy. This frenzy funtions identically to your battlerage trance, but is not cumulative with it. If you are already in your battlerage trance, it is replaced by the panicked frenzy (thus you are not afflicted by the battlerage trance ending). Any features which benefit your battlerage trance also affect your panicked frenzy. This frenzy lasts as long as you are affected by the fear.
+When you fail a save against a fear effect, but not critically fail, you may use your action to enter a Panicked Frenzy. This frenzy funtions identically to your battlerage trance, but is not cumulative with it. If you are already in your battlerage trance, it is replaced by the panicked frenzy (thus you are not afflicted by the battlerage trance ending). Any features which benefit your battlerage trance also affect your panicked frenzy. This frenzy lasts as long as you are affected by the fear.
 
 ### 3) Shout
 You may use your reaction to produce a shout which affects any number of creatures you can perceive within 3 yards. Those creatures get a -2 penalty to the next d20 they roll before the end of the next round.
@@ -52,7 +52,7 @@ If in your battlerage trance, you also gain a bonus for the purpose of inflictin
 When you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round- you may use your reaction to grant yourself a bonus to your attack equal to 1/4 the distance in yards you moved since the start of the round or your previous action (whichever is most recent). If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
 
 ### 6) Savagery
-The first time you inflict a critical hit against a foe in a round, you may perform a follow-up without requiring your reaction. If this follow-up attack is a critical failure, you are vulnerable until the end of the next round.
+The first time you inflict a critical hit against a foe in a round, you may perform a follow-up attack without requiring your reaction. If this follow-up attack is a critical failure, you are vulnerable until the end of the next round.
 
 ### 7) Relentless Strike
 Once per round, when performing a follow up attack or your cleave attacks a creature, you may grant yourself advantage on that single attack roll.
@@ -74,7 +74,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 
 #### Specialize
 If you specialize as a berserk, you gain the following:  
-Receiving wounds can now extend the duration of your rage just as successfully inflicting a wound would, if you choose.  
+Receiving wounds can now extend the duration of your rage just as successfully as inflicting a wound would, if you choose.  
 While in your battlerage trance, you gain a +2 bonus to your incapacitation saves.  
 You are now affected by your Warcry ability.
 You may now use your War Cry ability an additional time per encounter, so long as it is the first round and you do not have all of your hitpoints.
