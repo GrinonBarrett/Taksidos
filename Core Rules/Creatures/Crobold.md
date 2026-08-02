@@ -30,7 +30,7 @@ These feathery goblins sport wings and have a habit of wandering into ruins and 
 
 **Weapon Attacks**: The crobold is capable of using weapons if it can find any small enough to wield properly. If it finds something larger than appropriate for its size, it will try to use it with both hands.
 
-**Defenses**: A crobold cannot use armor, but can use a shield if they find any of the appropriate size.
+**Defenses**: A crobold cannot use armor, but can use a shield if they find any of the appropriate size. This does not provide passive defense but it can block.
 
 **Unarmed Attacks**;
 
