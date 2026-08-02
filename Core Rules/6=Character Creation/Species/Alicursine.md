@@ -19,7 +19,7 @@ Choose an attribute. It is increased by 1.
 
 **Swim speed**: You may swim up to 2.5 yards per move, presuming the water isn’t too rough.
 
-**Unarmed Attacks**: Your unarmed attacks may inflict a critcal hit as though they were slashing attacks.
+**Unarmed Attacks**: Your unarmed attacks may inflict a critcal hit as though they were cutting attacks.
 
 **Table**: *Wound Allocation*
 | Result | **Name of Wound** | Effects                                                        |
