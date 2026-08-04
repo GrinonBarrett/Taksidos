@@ -1,5 +1,5 @@
 ## Mikrai
-A relatively peaceful folk from the east. They are known for being fairly amicable and centered emotionally- a trait which seems to stem from less tendency to emotion rather than a matter of consideration of others. They enjoy simple schedules and take great pride in their work. 1 in 15 mikroi is likely the inverse of the norm in some way and is bound to become adventurers, as most other mikori would rather not have anything to do with such ignoble affairs. The plural is mikroi. Mikrai characters get the following features;
+A relatively peaceful folk from the east. They are known for being fairly amicable and centered emotionally- a trait which seems to stem from less tendency to emotion rather than a matter of consideration of others. They enjoy simple schedules and take great pride in their work. 1 in 15 mikroi is likely the inverse of the norm in some way and is bound to become adventurers, as most other mikroi would rather not have anything to do with such ignoble affairs. The plural is mikroi. Mikroi characters get the following features;
 
 **Creature Type**: Mikroi are humanoids.
 
