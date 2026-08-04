@@ -858,7 +858,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (16
+### D (17
 
 #### Damper
 
@@ -879,6 +879,28 @@ If the spellcheck is a critical success, the bonus to saves is increased by your
 * Reduce the casting time of the spell by 1 action (to a minimum of 1 action).
 
 **Critical Failure**: You have surronded yourself in a foggy veil for a moment and receive spellsickness equal to the spell's tier minus 1 and an instance of Archblight.
+
+#### Dance Macabre
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Duration**: Concentration
+
+**Range**: 10 yards
+
+**Effect**: You begin a dance unlike any other, to music unheard by any but yourself and the most cultured of those who have seen the veil of death (not to mention those touched by madness). As you concentrate on the spell, you must move at least half of the available movement of one of your modes of movement during each movement phase. You cannot take actions or reactions while continuing the spell other than those listed below. Anytime you have moved at least 1.5 yards since you last inflicted a necrotic attack from this spell, you may choose to loose a ray of necrotic energy. This functions identically to the ray of a wand which inflicts a necrotic attack (using your [Magic] attribute if applicable). A critical hit will inflict a point of inebriation instead of the traditional effect. Any creature killed by this spell (including failing an incapacitation save) will rise as a Walking Corpse° at the end of the next round. Such creatures cannot be hostile towards you for the duration of the spell. You may sprint and dodge while continuing this spell.
+
+Additionally, creatures within range while the spell continues suffer a penalty to defense against your attacks and those of the reanimated from the spell's effect equal to their inebriation. Creatures within range cannot be reanimated unless you choose to allow it.
+
+A critical success with the spell check will allow you to cause the creatures animated by this spell to cease to be so when it ends.
+
+° Cannot reanimate a Construct, Drakomadiae, Elemental, Ephemera, Fey, Fiend, Plant, or Undead.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the defense bonus gained while dodging during the spell or increase the range by 5 yards.
+
+**Critical Failure**: You suffer a number of attacks equal to the spell's tier. The first attack, and each odd numbered attack thereafter, is necrotic. The remaining attacks are sonic. These attacks gain a +2 bonus against you for the purpose of jnflicting a critical hit.
 
 #### Darkveil
 
