@@ -3619,7 +3619,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (25
+### S (26
 
 #### Sapiafi
 
@@ -3969,6 +3969,19 @@ If the spellcheck was a critical success, the caster is aware of the location of
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 5 yards.
 
 **Critical Failure**: You become stuporous so long as you have spell-sickness.
+
+#### Subversate
+
+**Minimum Tier**: 4
+
+**Casting Time**: 1 reaction, which you take in response to a creature you can perceive attempting to cast a spell
+
+**Effect**: You grant that creature such an insight into the terror of the magic's potential that it becomes overcome with fear. Anytime it attempts to cast that spell again, it must perform a [Will] save with a DV equal to triple the spell's minimum tier + double its intended tier. If the save is a critical success, the fear is entirely dispelled. If the spell is a success, they manage to keep themself together enough to cast the spell- but suffer disadvantage on the spellcheck. If the save is a failure, they fail to complete their spell. If the spell is a critical failure, they automatically suffer the critical failure effects of the spell instead of casting it and are considered to have points of failure on the spellcheck equal to the save's points of failure.  
+A creature affected by this fear also has disadvantage on saves against the spell and counterspell checks involving the spell.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to affect an additional creature you can perceive with the same fear or increase the save of the [Will] save by 2.
+
+**Critical Failure**: You are dazed until the end of the round as you see a million different scenarios that can derive from the spell, then you suffer the critical failure effect of that spell using this spellcheck's points of failure.
 
 #### Sun Globe
 
