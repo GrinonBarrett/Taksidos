@@ -46,9 +46,9 @@ One of the rarest sapient creatures abound. Changelings appear much like manfolk
 
 **Disturbing**: You gain a 1d4 bonus to counterspell checks made against another creature casting a spell, but creatures gain a 1d4 bonus to counterspells checks made against spells you are casting.
 
-**Hone Form**: The Changeling is capable of semi-permaanent changes to its muscular, skeletal, and nervous systems. Anytime the changeling performs a long or full rest, it can choose one of its attibutes. It is increased by 3. Next time the changeling performs such a rest, it must choose again (and my choose the same attribute). AN attribute is not increased by more than 3 this way.
+**Hone Form**: The Changeling is capable of semi-permanent changes to its muscular, skeletal, and nervous systems. Anytime the changeling performs a long or full rest, it can choose one of its attibutes. It is increased by 3. Next time the changeling performs such a rest, it must choose again (and my choose the same attribute). AN attribute is not increased by more than 3 this way.
 
-**Form Shift**: A changeling is capable of changing its form into that of a number of species. It may transform into a member of a playable species which has a head and four limbs. This requires an amount of time equal to 120 minutes divided by the changeling's level. You must transform into a creature of the same size category. The changeling must concentrate on maintaing the form. Once concentration is dropped, the changeling will begin to change into its natural form. Such a chage takes 1 minute. While transforming, a changeling is prone. If it would already be prone, it is also vulnerable. It does not gain any features of that form, although its movement speeds and natural attacks are replaced by that species' movement speeds.
+**Form Shift**: A changeling is capable of changing its form into that of a number of species. It may transform into a member of a playable species which has a head and four limbs. This requires an amount of time equal to 120 minutes divided by the changeling's level. You must transform into a creature of the same size category. The changeling must concentrate on maintaing the form. Once concentration is dropped, the changeling will begin to change into its natural form. Such a chage takes 1 minute. While transforming, a changeling is prone. If it would already be prone, it is also vulnerable. It does not gain any features of that form, although its movement speeds and natural attacks are replaced by that species' such features.
 
 **Vocalism**: A changeling can imitate the sound of another sapient creature's voice. Any creature which hears it must make a [Prcp] save with a DV equal to the changeling's [Fort] + its level or believe the intended creature is making the intended sound. The changeling must be familiar with a creature and its speech pattern to convincingly sound like a specific creature.
 
@@ -63,6 +63,6 @@ Each additional fin increaes swim speed by 1 yard.
  • Leg  
 Each additional leg can increase its run speed by .5 yard.  
  • Striker  
-A sharpened point of a limb which inflicts a piercing attack when performing an unarmed attack. For the purpose of inflicting a critcal hit, it gains a +2 bonus.  
+A sharpened point of a limb which inflicts a piercing attack when performing an unarmed attack and is unable to use items. For the purpose of inflicting a critcal hit, it gains a +2 bonus.  
  • Whipping Tentacle  
-This appendage may be used for unarmed bare attacks within 1 yard. Additionally, on a critical hit, the changeling may attempt to grapple the struck foe as though they were brawling.  
+This appendage may be used for unarmed bare attacks within 1.5 yards. Additionally, on a critical hit, the changeling may attempt to grapple the struck foe as though they were brawling. It has disadvantage on using items.  
