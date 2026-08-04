@@ -101,7 +101,7 @@ The evoker uses their reaction to spend at least 1 ki point in response to comin
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe, inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
 **Breaker Send**  
-Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this echnique + your [Body] score + your heroism, dvided by that foe's [Body] bonus. The ki attack also gains a +1 bonus for the purpose of determining a critical hit for each ki point spent beyond 2.
+Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this technique + your [Body] score + your heroism, divided by that foe's [Body] bonus. The ki attack also gains a +1 bonus for the purpose of determining a critical hit for each ki point spent beyond 2.
 
 **Burst Cannon**  
 The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction. Alternatively, they can use their reaction on a critical hit with the attack to use a technique which would normally be an action.
@@ -113,12 +113,12 @@ You are capable of producing a burst of energy which can be propelled at a foe u
 You spend 1 ki to perform a *magical* unarmed attack against a creature as an action, gaining a bonus to the attack result equal to your [Body] bonus for the purpose of determining if it is a critical hit. If that creature is casting a spell, you perform a counterspell check against them, even if you do not know the spell.
 
 **Critical Overload**  
-The user spends 2 ki as an action to eplode outward with uncontrollable force. At the end of the next phase, everything within a number of yards equal to the user's level subject to a ki attack. The user continues to overload themselves with energy, preventing them from taking any actions, reactions, or movement. At the end of each phase, the explosion expands outwards a number of yards equal to the user's remaining ki. The user's ki is then reduced by 1 and an attack is inflicted on everything within the explosion (including the user). If the attack roll is even, it is a ki attack. If the attack roll is odd, it is a necrotic attack.
+The user spends 2 ki as an action to explode outward with uncontrollable force. At the end of the next phase, everything within a number of yards equal to the user's level subject to a ki attack. The user continues to overload themselves with energy, preventing them from taking any actions, reactions, or movement. At the end of each phase, the explosion expands outwards a number of yards equal to the user's remaining ki. The user's ki is then reduced by 1 and an attack is inflicted on everything within the explosion (including the user). If the attack roll is even, it is a ki attack. If the attack roll is odd, it is a necrotic attack.
 The explosion will continue to expand until the user becomes incapacitated or dies. Anytime the user is wounded while the explosion continues, it inflicts an additional attack against everything else in the explosion.  
 User is vulnerable during this time and for a number of hours afterwards equal to the number phases the explosion lasted.
 
 **Cruel Strike**  
-The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack, and then perfoms a movement.
+The user spends 4 ki as an action or reaction to hurl a ball of energy at a foe within a number of yards equal to their level, inflicting a ki attack, and then performs a movement.
 
 **Darting Strikes**  
 The user spends at least 6 ki as an action to perform a movement, then hurl a number of energy blasts at a foe within a number of yards equal to their level, and then perfoms another movement. This inflicts 2 thrown blade attacks plus a number of additional thrown blade attacks equal to the amount of additional ki spent.
@@ -133,11 +133,11 @@ The user spends 3 ki as an action to perform a movement and then inflict a melee
 The user expends 10 ki to *fire a single magical ki blast against a foe* as an action. If it is successful, it will then inflict 10 total additional attacks. The user declares which type each attack is from the following (cold, cutting, crushing, electric, fire, force, ki, necrotic, piercing, psychic). Afterwards, the foe is knocked back Xd4 feet, where X is the number of total successful attacks inflicted by this technique.
 
 **Explosive Wave**  
-To use this technique, the user must declare so as an action. They can take no action, reaction, or perform movements during that phase and the following phase as they conentrate their power. THe user may choose to further the time spent doing so at the start of any phase after this by not performing any actions, reactions, or performing movements. At the end of this time, they spend either 2 ki points or a ki point and suffer a level of exhaustion to erupt with intense power. This causes an explosion going out a number of yards equal to the evoker's level. Everything within the explosion, other than the user, is subject to a ki attack.  
+To use this technique, the user must declare so as an action. They can take no action, reaction, or perform movements during that phase and the following phase as they concentrate their power. THe user may choose to further the time spent doing so at the start of any phase after this by not performing any actions, reactions, or performing movements. At the end of this time, they spend either 2 ki points or a ki point and suffer a level of exhaustion to erupt with intense power. This causes an explosion going out a number of yards equal to the evoker's level. Everything within the explosion, other than the user, is subject to a ki attack.  
 At the end of the phase of the explosion, the user may pay 2 ki points to continue the eplosion. THis will inflict another ki attack against everything within the explosion. they may also make this decision at the end of each following phase so long as no other actions, reactions, or movements have been performed by the user and they have not been wounded. If they do, the ki attack inflicted by the explosion gains a bonus for the purpose of determining a critical hit equal to the previous number of phases the explosion has lasted.  
-Everuthing caught in the explosion is prone until the end of the next phase.  
-Each additional phase spent intensifying the user's power increases the range of the explosion by a number of yards equal to their herosim.  
-The user may use their reaction in respone to the explosion beginning. If they do, they may hover a number of yards equal to their heroism before the explosion begins or alter the attack type of the explosion's inital attack.  
+Everything caught in the explosion is prone until the end of the next phase.  
+Each additional phase spent intensifying the user's power increases the range of the explosion by a number of yards equal to their heroism.  
+The user may use their reaction in response to the explosion beginning. If they do, they may hover a number of yards equal to their heroism before the explosion begins or alter the attack type of the explosion's inital attack.  
 After the explosion ends, the user is vulnerble for a number of rounds equal to the number of phases the explosion lasted +1.
 
 **Flash Step**  
@@ -152,7 +152,7 @@ The user spends 2 ki points as an action to produce a frosty blast. This is a 5 
 **Ghost Rage Fist**  
 The user spends 2 ki points to perform an unarmed attack. Against ephemera and fiends, this is treated as a *magical* ki attack. If the attack is successful, a ki attack is also inflicted against the foe with a bonus equal to the evoker's heroism for the purpose of determining a critical hit.
 
-**Great Thundrous Blast**  
+**Great Thunderous Blast**  
 The user spends 3 ki as an action to hurl a massive blast of ki at a foe within a number of yards equal to their [Body] + 25. Inflicts a ki attack against a foe with a 1d12 bonus for the purpose of determining if the attack is a critical hit. Anything within 2 yards of the impact point must succeed a [Body] save with a DV equal to the attack roll result or be knocked back a number of feet equal to the points of failure.
 
 **Horrifying Fist**  
@@ -165,7 +165,7 @@ The user spends 3 ki as an action to hurl a ball of energy at a point within a n
 The user spends 1 ki to inflict a ranged undamaging attack against a creature within a number of yards equal to their level + remaining ki. For a number of minutes equal to their level, the struck foe retain a mildly glowing marking. While marked this way, the evoker may have that foe emit light like a torch. Additionally, it may use an action or reaction to inflict both a radiant attack and a ki attack against that foe, but ends this technique's effect when they do.
 
 **Mortal Ray**  
-The user spends 2 ki as an action or reaction to fire a very narrow beam of energy at a foe within a number of yards equal to their level + their remaining ki points. This is a piercing attack and is a ray (like that of a wand or spell).
+The user spends 2 ki as an action or reaction to fire a very narrow beam of energy at a foe within a number of yards equal to their level + their remaining ki points. This is a piercing ray attack.
 
 **Penultimate Wave**  
 User spends at least 12 ki as an action to focus their ki. As an action or reaction within a number of phases equal to the amount of ki spent on the technique -10, the user may loose a blast of energy against a foe within a number of yards equal to the sum of their total attributes + their heroism. This inflicts 10 ki attacks against the foe. Additionally, if any of the attacks were successful, the user may inflict a single attack against the foe of any type of their choice. If 10 total attacks were successful as a result of this technique, the user recuperates 1d4-1 points of ki.
@@ -177,25 +177,25 @@ The user spends 6 ki as an action to perform a total of 8 ki attacks with a rang
 The user spends 2 ki as a reaction to having an attack inflicted against them. Against that attack, their defense is equal to their remaining ki + their heroism.
 
 **Resonance Blast**  
-The user performs a standard Ki Blast or Ki Blast volley, though the attacks are Sonic in nature. For each attack performed this way, the user declares if the efect of a critical hit is to be that of a ki attack or a sonic atack (decision is made before the attack roll).
+The user performs a standard Ki Blast or Ki Blast volley, though the attacks are Sonic in nature. For each attack performed this way, the user declares if the efect of a critical hit is to be that of a ki attack or a sonic attack (decision is made before the attack roll).
 
 **Shining Strike**  
 The user spends 2 ki to perform an unarmed or weapon attack as an action. It is treated as a *magical* attack. If successful, it also inflicts a Ki attack. If either is a critical hit, the user recovers a point of ki spent this way and does not have disadvantage on follow up attacks against that foe until the end of the round.
 
-**Sinister Disappearence**  
-The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level mulitplied by the number of rounds they were missing.
+**Sinister Disappearance**  
+The user spends at least 3 ki and disappears for a number of rounds equal to the ki spent this way. The evoker is transported to an unoccupied space of their choice within a number of yards equal to their level multiplied by the number of rounds they were missing.
 
 **Sinister Drill**  
 The user spends 3 ki to inflict 3 individual standard ki blasts against a foe as an action. If 2 are successful attacks, the third may be treated as one of the following types (cold, cutting, electric, fire, force, necrotic, or piercing). If all three attacks are successful, an additional attack of the selected type is inflicted against the foe.
 
 **Thunderous Fist**  
-The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is succcessful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
+The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is successful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
 
 **Thuring**  
-Te user spends 4 ki as an action to inflict 2 ki attacks, an electric attack, then an attack of one of the following types (crushing, electric, ki, force). This has a range in yards equal to the user's [Will] or [Body] + their heroism. A critical hit with 2 of the attacks will incur an additonal attack of the chosen type. This cannot be performed twice in the same round.
+The user spends 4 ki as an action to inflict 2 ki attacks, an electric attack, then an attack of one of the following types (crushing, electric, ki, force). This has a range in yards equal to the user's [Will] or [Body] + their heroism. A critical hit with 2 of the attacks will incur an additional attack of the chosen type. This cannot be performed twice in the same round.
 
 **Vicious Blast**  
-User spend 3 ki points to hurl a blast of energy at a foe within a number of yards equal to their [Body] score + level as an action. If the attack is successful or qualifies to damage armor, it will inflict an acid attack at the end of the phase for the next two phases. These acid attacks gain a 1d4 bonus for the purpose of determinng a critical hit and inflict the critical hit effect of a ki attack.
+User spend 3 ki points to hurl a blast of energy at a foe within a number of yards equal to their [Body] score + level as an action. If the attack is successful or qualifies to damage armor, it will inflict an acid attack at the end of the phase for the next two phases. These acid attacks gain a 1d4 bonus for the purpose of determining a critical hit and inflict the critical hit effect of a ki attack.
 
 **Vicious Grasp**  
 Use this technique as an additional option when you get a critical success with a brawl check. Spend 1 ki to do so. Inflict a ki attack against the brawling foe. If the attack is a critical hit or qualifies to damage armor, the foe is also grappled. A critical hit from this attack is treated like that of a cutting attack.
