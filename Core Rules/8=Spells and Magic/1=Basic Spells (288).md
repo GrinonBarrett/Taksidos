@@ -1190,9 +1190,9 @@ A critical success allows you to inflict one of the following when an attack wou
 
 **Casting Time**: 1 reaction, which you take in response to your melee attack being successful (including a sunder)
 
-**Effect**: Choose one of the following damage types (cold, fire, electric). An melee attack of that type is influcted against that same foe.
+**Effect**: Choose one of the following damage types (cold, fire, electric). A melee attack of that type is inflicted against that same foe.
 
-If the spellcheck is a critical success, you may alter the critical hit rffect of this spell's attack to become that of one of the unselected damage types.
+If the spellcheck is a critical success, you may alter the critical hit effect of this spell's attack to become that of one of the unselected damage types.
 
 **At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond 1st, you may choose to grant the spell's attack a +1 bonus or a +2 bonus for the purpose of inflicting a critical hit.
 
@@ -1637,7 +1637,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (13
+### G (14
 
 #### Glacial Brand
 
@@ -1672,6 +1672,20 @@ Hypothetically, 5 whole minutes of fully submerged washing could preemtively dis
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the duration by 1 minute or the range of the explosion by 1 yard.
 
 **Critical Failure**: You create a small puff of the glitter- just enough to coat yourself. It lasts as long as you have spell sickness.
+
+#### Gloom Maw
+
+**Minimum Tier**: 5
+
+**Casting Time**: 5 actions
+
+**Effect**: You create a large area of darkness and everything inside (including yourself) is subject to biting attacks equal to half of the spell's tier. At the end of each phase, the area stretches out a yard further and inflicts its attacks again. The movement speed of everything within the area is reduced to 1/3. A creature which dies in the area leaves no traces behind as the darkness itself swallows them.
+
+This area stretches out a number of yards equal to the spell's tier squared. A critical success with the spellcheck reduces your movement only to 1/2.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may grant yourself a +1 to defense against the attacks.
+
+**Critical Failure**: You conjure a darkness that envelops you, inflicring a number of biting attacks equal to half of the spell's tier which gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Gnash
 
