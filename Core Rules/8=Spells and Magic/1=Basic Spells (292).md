@@ -1930,7 +1930,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
-### H (13
+### H (14
 
 #### Hablliwism
 
@@ -2013,6 +2013,22 @@ If you are familiar with the creature to be affected, the attack has advantage.
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose to either target an additional creature within range or increase the range by 5 yards.
 
 **Critical Failure**: You spook yourself, being affected for a number of rounds equal to the spellcheck's points of failure and receiving spell sickness equal to half of the spell's tier. If you are immune to fear, you receive an additional point of spell sickness.
+
+#### Hengery
+
+**Minimum Tier**: 5
+
+**Casting Time**: 30 minutes
+
+**Duration**: 4 days
+
+**Effect**: You cause a circle of stones, within which you must be present for the entirety of casting, to become a sort of magical portal. You may choose a number of creatures you are familiar with (including yourself) up to the spell's tier. The circle becomes a magical portal those creatures are familiar with. If the circle is broken, the spell will end.
+
+A critical success with the spell check allows for you to use a different geometic shape, but there must be some design to the shape's outline and stones at each of the points to which the sides would meet. Either component being disturbed will break the spell.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to affect an additional creature (including one you are not familiar with) or increase the duration by half.
+
+**Critical Failure**: The power you have attempted to draw on seems tainted by some fey magic. You gain spell sickness equal to half of the spell's tier and inebriati9n equal to half of the spell's tier.
 
 #### Highlife
 
