@@ -4693,7 +4693,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (18
+### W (19
 
 #### Waedervalder
 
