@@ -2783,12 +2783,18 @@ A creature that critically succeeds its save is immune to the same spell from th
 * The creature increases in size category by 1. The creature gets a bonus equal to double the spell tier to its save against this spell. The spell's duration is reduced to 1/3.
 * The creature decreases in size category by 1. The creature gets a bonus equal to double the spell tier to its save against this spell. The spell's duration is reduced to 1/2.
 * Choose one of its unarmed attacks that inflicts one of the following types of attacks (bare, club, cutting, force, piercing, thrown blade) and replace it with another such damage type.
-* Choose one of following movement sppeds possessed by the creature (run, climb, swim, flying). You increase or decrease it (your choice) by a number of feet equal to the spell's tier +1. This may be selected multiple times if cast at a higher tier (see below).
+* Choose one of following movement speeds possessed by the creature (run, climb, swim, flying). You increase or decrease it (your choice) by a number of feet equal to the spell's tier +1. This may be selected multiple times if cast at a higher tier (see below).
+* Increase or decrease the minimum speed the creature must fly to remain aloft by up to 1/3.
+* The creature loses the Rough Hide feature.
+* The creature gains or loses the Great Leap feature, per your choice (Its jump distance is doubled)
+* The creature gains or loses the Mucous feature, per your choice (See Anurai species).
+* The creature gains or loses the Stiff Joints feature, per your choice (Any sprint action it takes requires it take a level of fatigue).
+* The creature gains or loses the Waterborne feature (See Merfolk species).
 * The creature becomes vulnerable.
 * The creature becomes prone.
 * The creature receives a level of fatigue.
 
- It is allowed a [Fort] save to prevent this, with a DV equal to the spellcheck's points of success + triple spell tier. A critical success with the spell check allows you to select an additional option with the spell. This spell cannot affect ephemera.
+ It is allowed a [Fort] save to prevent this, with a DV equal to the spellcheck's points of success + triple spell tier. A critical success with the spell check allows you to select an additional option with the spell. This spell cannot affect ephemera and, of course, any creature which is immune to spells that would affect flesh.
 
 **At Higher Tiers**: For each tier beyond minimum, you may choose one of the following,  
 * The range is increased by 3 yards.
