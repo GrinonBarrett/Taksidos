@@ -4861,6 +4861,24 @@ The fluid cannot be removed from the globe or consumed.
 
 **Critical Failure**: You have created the globe and trapped yourself in it for a number of rounds equal to the points of failure. Anytime you would move, you may expend your reaction to try to swim out of it if you have a swim speed. The DV of this is triple the spell's tier + the points of failure on the spellcheck. A success only barely grants any movement, reducing the number of rounds you would be trapped by 1. You may also expend your action by taking on a level of fatigue to perform such a check.
 
+#### Wicked Grasp
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to a creature using its movement to leave the spell's range
+
+**Range**: 5 yards
+
+**Effect**: You produce a narrow forcefield which is shaped in such a way that it pins the creature, lifting it a foot into the air, and hovering in place. Inflict a crushing attack against that creature. If successful, it does not wound that creature and instead restrains them and forces them prone so long as they are restrained. A critical success also leaves it vulnerable during this time. A creature affected this way is being suffocated. If the attack fails, but is not a critical failure, the forcefield forms to keep the creature levitating- but can be broken by that creature as an action or reaction and it is not being sufficated while in place.
+
+The forcefield remains for a number of rounds equal to the spellcheck's points of success + attack's points of success, or until dissmissed at the will of the caster.
+
+A critical success with the spell check allows you to move the creature a number of feet equal to the spell tier as an action or reaction.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to increase the range 5 yards or grant the attack a +1 bonus.
+
+**Critical Failure**: You receive spell sickness equal to half of the spell's tier and suffer a crushing attack with a bonus equal to the spell's tier for the purpose of a critical hit.
+
 #### Wicked Ray
 
 **Minimum Tier**: 1
