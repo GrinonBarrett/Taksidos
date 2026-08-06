@@ -1948,7 +1948,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
-### H (14
+### H (15
 
 #### Hablliwism
 
@@ -2046,7 +2046,25 @@ A critical success with the spell check allows for you to use a different geomet
 
 **At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to affect an additional creature (including one you are not familiar with) or increase the duration by half.
 
-**Critical Failure**: The power you have attempted to draw on seems tainted by some fey magic. You gain spell sickness equal to half of the spell's tier and inebriati9n equal to half of the spell's tier.
+**Critical Failure**: The power you have attempted to draw on seems tainted by some fey magic. You gain spell sickness equal to half of the spell's tier and inebriation equal to half of the spell's tier.
+
+#### Hexing Knell
+
+**Minimum Tier**: 4
+
+**Casting Time**: 7 actions
+
+**Range**: 30 yards
+
+**Duration**: 1 hour
+
+**Effect**: You curse a creature so that all successful attacks against it become its bane. Inflict a sonic or psychic attack (your choice) against it. A grim toll from a phantasmal bell can be heard. If the attack type chosen was sonic, it is audible to anyone within 10 yards of yourself or the target. If the attack was psychic, only those familiar with the target and the target themself can hear the bell if within that space. In place of wounding the target, the curse is set. If the attack would qualify to damage armor, it instead inflicts a point of spell sickness. Any intentional attack made against the cursed creature does not need to have a wound die rolled, as the attacker will automatically get to choose their result. Additionally, if an attacker would have had the ability to modify that wound result- their attack instead gains a bonus for the purpose of inflicting a critical hit equal to half of the steps they could have modified the wound.
+
+If your spellcheck was a critical success, the initial attack can still inflict a wound.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to target an additional creature or increase the duration by half.
+
+**Critical Failure**: Ask not for whom the bell tolls, it tolls for thee as you experience a number of attacks equal to the spell's tier. If the attack roll is odd, it is a sonic attack. If even, psychic and it ignores armor. Afterwards, you suffer the curse for as long as you have spell sickness.
 
 #### Highlife
 
