@@ -1659,7 +1659,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (14
+### G (15
 
 #### Glacial Brand
 
@@ -1786,7 +1786,7 @@ If slamming a foe, treat as a normal slam with the following exceptions. Your va
 
 If holding, treat as a normal grapple with the following exceptions. Your value is equal to the spell check result + spell tier + [magic] bonus. The grappled target cannot use [Rflx]. You must concentrate for the entirety of the hold for it to continue. The grappled target gets a +1 bonus for every whole round that passes while held. A critical success breaks the grasp of the spell, ending it.
 
-**At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, can increase the range by 10 yards or reduce the casting time by 1 action (to aminimum of 2).
+**At Higher Tiers**: Each tier beyond minimum, in addition to the benefits noted above, can increase the range by 10 yards or reduce the casting time by 1 action (to a minimum of 2).
 
 **Critical Failure**: The field you create instead surrounds yourself, making you prone and vulnerable for a number of rounds equal o the spell's tier. Your movement speeds are reduced by half during this time.
 
@@ -1798,7 +1798,7 @@ If holding, treat as a normal grapple with the following exceptions. Your value 
 
 **Range**: 30 yards
 
-**Effect**: As an additional cost to cast this spell, you must hold the skull of a sapiant creature. The skull will disintigrate if the spell is successfully cast. Choose two exotic damage types. From the skull a pitch black ball of energy fired. On impact it will inflict a necrotic attack. In place of a traditional critical hit, it inflicts the critical hit effects of the two damage types selected. If the attack would qualify to damage armor, it instead dazes the foe until the end of the next round.
+**Effect**: As an additional cost to cast this spell, you must hold the skull of a sapiant creature. The skull will disintegrate if the spell is successfully cast. Choose two exotic damage types. From the skull a pitch black ball of energy fired. On impact it will inflict a necrotic attack. In place of a traditional critical hit, it inflicts the critical hit effects of the two damage types selected. If the attack would qualify to damage armor, it instead dazes the foe until the end of the next round.
 
 If the attack roll against the foe was successful and the die roll result was odd, you may choose to either have the foe emit dim light out for 1 foot or reduce the level of light within 1 foot of the foe for a number of rounds equal to the spell's tier + [Magic] bonus.
 
@@ -1806,9 +1806,27 @@ A critical success with the spellcheck does not consume the skull.
 
 **At Higher Tiers**: Each tier beyond minimum grants the attack an additional +1 bonus.
 
-**Critical Failure**: The skull levitates and faces you, blasting you with unintended powers. It inflicts two attacks against you, one of each chosen type. These attacks gains a bonus against you equal to half of the spell's tier for the purpose of inflicting a critical hit. It then disintigrates.
+**Critical Failure**: The skull levitates and faces you, blasting you with unintended powers. It inflicts two attacks against you, one of each chosen type. These attacks gains a bonus against you equal to half of the spell's tier for the purpose of inflicting a critical hit. It then disintegrates.
 
 ###### In case someone decides to use a perdrine as the skull, it receives a wound in place of being destroyed.
+
+#### Grave Grasp
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 30 yards
+
+**Effect**: You create a phantasmal hand which reaches out to clutch your target within range. This inflicts an attack roll. If odd, it is cold. If even, it is necrotic. This attack cannot damage armor. If it would qualify to damage armor against a creature of undeath, that creature will lose points of undeath equal to the spellcheck's result. If this spell is a critical hit, it does not inflict the traditional critical hit effect and instead causes the foe to be so overcome with fear that they will not be able to perform any movement until the end of the round. Then, they must succeed a [Will] save or be unable to perform a move during the following round.  
+This spell can reach into the ethereal plane when cast from the material plane and vice versa.  
+If the spellcheck is a critical success, your attacks (other than those of this spell) have advantage on that creature while it is afeared.
+
+Though the target cannot move from the compulsion of fear, it is not considered immobile and does not suffer the other penalties of that condition.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may either increase the range by 5 yards or modify the attack roll die result by one step.
+
+**Critical Failure**: You tap into a nihilistic force but are unable to control it. You are subject to a cold attack and a necrotic attack. If either attack roll result is odd, that attack gains a bonus equal to the spell's tier. If even, it ignores armor.
 
 #### Grave Mark
 
@@ -1823,7 +1841,7 @@ A critical success with the spellcheck does not consume the skull.
 If a marked creature dies before the end of the next round, you may choose one of the following benefits (chosen at the moment of death);  
 * You recover a hitpoint, so long as your current hitpoints don't exceed its maximum hitpoints.
 * You recover a level of fatigue, so long as its fatigue was not greater than yours.
-* You cause a shadowy vapor to reach out towards a creature within 15 yards of it that you can perceive. This inflicts a necrotic attack.
+* You cause a shadowy vapor to reach out towards a creature within 15 yards of it that you can perceive.
 * The creature cannot be reanimated or restored to life by any means.
 * The sigil explodes, inflicting a necrotic attack against everything within 1 yard of the creature.
 
