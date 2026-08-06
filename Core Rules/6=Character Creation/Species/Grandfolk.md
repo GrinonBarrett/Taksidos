@@ -1,11 +1,11 @@
 ## GRANDFOLK
-Giants of a more civilized demeanor than most. Grandfolk societies are not dissimilar to those of manfolk or other spient species. Grand Folk characters get the following features;
+Giants of a more civilized demeanor than most. Grandfolk societies are not dissimilar to those of manfolk or other sapient species. Grand Folk characters get the following features;
 
 **Creature Type**: Grandfolk are humanoids.
 
 **Size**: Grandfolk stand between 7'9" and 9'6" tall. They can weigh between 400-650 pounds. They are large creatures.
 
-**Ability Score Modification**: Choose an attribute. It is increased by a 1.
+**Ability Score Modification**: Choose three attributes. Each are increased by a 1.
 
 **Languages**: You gain competency in the Common Tongue, Jotine, and one other language of your choice.
 
@@ -44,7 +44,7 @@ Giants of a more civilized demeanor than most. Grandfolk societies are not dissi
 
 **Massive Humanoid**: The size of grandfolk means they suffer a -4 penalty to any task involving delicate tools not sized properly for them. They can otherwise use gear just fine, save for armor. Armor must be fitted for grandfolk, costing thrice its normal price and weighing two and a half times as much as most humanoids would have to bear.
 
-**Large Apetite**: You require half again as much food and water as a normal adventurer.
+**Large Appetite**: You require half again as much food and water as a normal adventurer.
 
 **Carrying Capacity**: Grandfolks' weight load limits are twice that of a normal character.
 
@@ -59,10 +59,10 @@ You gain training in a weapon of your choice.
 
 **Islands**: Grandfolks from the islands pride themselves on study and ingenuity. They are sometimes called Shore-kin.  
 You gain proficiency in a skill of your choice.  
-Your [Inte] increases by 1.  
+Your [Inte] increases by 2.  
 You learn two languages of your choice.
 
-**Swamps**: The grandfolks from the swamps have left behind a life of struggle for self-fulfilment. They are sometimes called Bog-kin. Of all of the grandfolk, these face the most universal scorn.  
+**Swamps**: The grandfolks from the swamps have left behind a life of struggle for self-fulfillment. They are sometimes called Bog-kin. Of all of the grandfolk, these face the most universal scorn.  
 When you cast a spell whose tier is greater than your heroism, you gain a bonus equal to your heroism.  
 You learn a spell of your choice whose minimum tier is 2 or 3.  
 Choose an attribute, it is increased by 1.
@@ -71,6 +71,7 @@ Choose an attribute, it is increased by 1.
 You gain an edge of your choice (see Rogue class).  
 Your [Body] is increased by 1.
 
-**Forests**: Grandfolks which have sought to fill the role they believe they are to fulfil in the natural order. They are sometimes called Glade-Kin.  
-You learn theWild.Tongue. If you already were fluent in this language, you learn a language of your choice.  
+**Forests**: Grandfolks which have sought to fill the role they believe they are to fulfill in the natural order. They are sometimes called Glade-Kin.  
+You learn the Wild Tongue. If you already were fluent in this language, you learn a language of your choice.  
+You gain training in a weapon of your choice.  
 Each of your attributes are increased by 2.
