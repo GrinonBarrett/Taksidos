@@ -47,8 +47,8 @@ Choose an attribute, it is increased by 1.
 
 ### Special Features
 
-**Education**: You gain proficiency in a skill of your choice.
+**Kappai Education**: You gain proficiency in a zoology skill of your choice and another skill of your choice.
 
 **Shelled Form**: A kappai cannot wear armor and instead is considered unarmored with a defense bonus equal to its heroisim.
 
-**Tuck in Shell**: A kappai may retreat into (or come out of) its shell as an action. While in its shell, the kappa is considered prone. Additionally, its defense is its level +10. Furthermore, the only wounds which may be dealt to it are biased wounds. If it has no such wounds options remaining, it is no longer limited to only receiving biased wounds.
+**Tuck in Shell**: A kappai may retreat into (or come out of) its shell as an action. While in its shell, the kappai is considered prone. Additionally, its defense is its level +10. Furthermore, the only wounds which may be dealt to it are biased wounds. If it has no such wounds options remaining, it is no longer limited to only receiving biased wounds.
