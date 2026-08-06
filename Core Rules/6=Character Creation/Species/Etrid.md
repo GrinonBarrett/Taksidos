@@ -1,7 +1,7 @@
 ## ETRID
 A reptilian species which was instrumental in the founding of the Meolasine Empire. Etrids are known for their passionate personalities. Etrid characters get the following features;
 
-**Creature Type**: Etrids are humanoids.
+**Creature Type**: Etrids are reptiles.
 
 **Size**: Etrids stand between 4-5 feet tall. They can weigh between 90-180 pounds. They are medium creatures.
 
