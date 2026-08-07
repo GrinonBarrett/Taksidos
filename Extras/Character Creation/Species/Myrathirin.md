@@ -11,7 +11,7 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 
 **Languages**: You gain competency in the Common Tongue, Fithirin, and Meolas languages.
 
-**Run Speed**: You may run up to 4 yards per move.
+**Run Speed**: You may run up to 5 yards per move.
 
 **Climb Speed**: You may climb up to 4 yard per move, presuming it is reasonable terrain to climb.
 
@@ -46,7 +46,9 @@ Choose one of [Rflx], [Will], or [Inte]. Then choose any attribute you have not 
 
 **Some Education**: You gain proficiency in a skill of your choice.
 
-**Arachnid Form**: Myrathirin cannot wear unless it is tailored to the arachnid form. This raises the cost of the armor by half.
+**Arachnid Form**: Myrathirin cannot wear armor unless it is tailored to the arachnid form. This raises the cost of the armor by half.
+
+**Momentum**: During any move phase, if the myrathirin used the whole of its movement of that mode during the previous movement phase or sprinted during the previous phase, its movement speed is increased by half for the purpose of that move.
 
 **Strikers**: Myrathirin do not have manipulators (hands) on the end of their limbs, instead they end in points (known as strikers). This prevents them from using equipment unless it specifically states it can be used by myrathirin. This also grants them an alternative to their standard unarmed attack which is treated as a piercing attack with a range of .5 yard.
 
