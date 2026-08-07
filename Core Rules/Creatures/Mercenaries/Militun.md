@@ -1,7 +1,7 @@
 ### Militun
 Former Etrid members of the Meolasine army. They have turned their experiences into skills for "independant contracts".
 
-**Creature Type**: Etrids are humanoids.
+**Creature Type**: Etrids are reptiles.
 
 **Size**: Etrids stand between 4-5 feet tall. They can weigh between 90-180 pounds. They are medium creatures.
 
