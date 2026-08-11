@@ -1,7 +1,7 @@
 ## NAGHAI
 A serpentine creature with use of a pair of forelimbs. They have been a minority in the Meolasine Empire, but have founded small states of their own in the surrounding regions. Naghai characters get the following features;
 
-**Creature Type**: Naghai are humanoids.
+**Creature Type**: Naghai are reptiles.
 
 **Size**: Naghai stand about 4'4, but can be between 4'10" to 6'6" in length. They can weigh between 110-150 pounds. They are medium creatures.
 
