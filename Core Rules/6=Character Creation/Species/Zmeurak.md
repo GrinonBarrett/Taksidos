@@ -46,9 +46,9 @@ Choose two attributes. They are each increased by 1.
 
 ### Special Features
 
-**Plant Thing**: Aytime you make a check or save with the Survival skill or Zoology (Plant) skill, you roll an additional d6 and add it to your result.
+**Plant Thing**: Anytime you make a check or save with the Survival skill or Zoology (Plant) skill, you roll an additional d6 and add it to your result.
 
-**Zmeurak Apetite**: You require half as much food as normal, but require half again as much hydration as the typical adventurer. When you perform a long or full rest, if you rest in rich soil, you are considered to have gained a portion of food.
+**Zmeurak Appetite**: You require half as much food as normal, but require half again as much hydration as the typical adventurer. When you perform a long or full rest, if you rest in rich soil, you are considered to have gained a portion of food.
 
 **Bushly Form**: Zmeuraks are incapable of wearing armor and suffer a -5 penalty to any task involving an item unless it is specifically able to be used by a Zmeurak.
 Zmeuraks get a bonus to any checks or saves involving the ability to blend in with plant life equal to their level.
