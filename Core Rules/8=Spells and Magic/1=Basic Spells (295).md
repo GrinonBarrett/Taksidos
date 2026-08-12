@@ -3181,7 +3181,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (17
+### P (18
 
 #### Pagomancy
 
@@ -3333,6 +3333,30 @@ Anytime the pillar comes in contact with something, it inflicts a fire attack. A
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may increase the size of the cylinder base and its height by 1 yard.
 
 **Critical Failure**: You produce a pillar of flame centered on yourself instead. The base extends out a number of feet from you equal to the spell's tier. The piller lasts a number of rounds equal to the spell's tier. You cannot be healed or otherwise benefit from fire attacks this spell inflicts against you this way.
+
+#### Pillar of Smoke
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Range**: 30 yards
+
+**Duration**: Concentration plus a number of rounds equal to the spell's tier
+
+**Effect**: When you cast this spell, you cause a tubular vortex to spawn from the ground centered on a point you designate within range. The cylinder has a ciricular base 5 yards in width and 25 yards in height. When you summon it, you either give it a direction to head in (it moves a number of yards equal to the spell tier during each movement phase) or have it stand in place.
+
+So long as you are concentrating on the spell, you may expend an action or reaction to move the pillar up to a number of yards equal to the spell's tier.
+
+Anytime the pillar comes in contact with something, it must succeed a [Body] save with a DV equal to the spellcheck + double the spell's tier or be knocked back a number of yards equal to the points of failure. A critical failure will also knock the creature prone. Additionally, if a creature ends a phase completely within its boundries, that creature suffers a cutting attack.
+
+Nothing can be seen through the pillar and non-magical ranged attacks are stopped by it.
+
+Anything within 30 yards suffers a penalty to [Prcp] checks/saves as the whipping of the wind obscure vision, muffle sounds, causes slight vibrations in the ground, and the smell of the smoke all interfere with one's senses.
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond 4th, in addition to the benefits noted above- you may increase the size of the cylinder base and its height by 1 yard.
+
+**Critical Failure**: You produce the pillar, but it is centered on you and follows you. Your speed is reduced to 1/3 and its attacks have advantage against you.
 
 #### Plasma Ray
 
