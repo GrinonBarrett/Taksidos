@@ -3,7 +3,7 @@ They appear to be massive earthworm with folding wings. Their "face" features a 
 
 **Creature Type**: Z'Koulikhain are Fiends.
 
-**Size**: Thwy have a length between 44-48 feet and a wingspan between 33-48% of their length. They weigh between 270 and 300 pounds. They are great creatures.
+**Size**: They have a length between 44-48 feet and a wingspan between 33-48% of their length. They weigh between 270 and 300 pounds. They are great creatures.
 
 **Hitpoints**: A Z'Koulikhar has 7 hitpoints.
 
@@ -94,7 +94,7 @@ They appear to be massive earthworm with folding wings. Their "face" features a 
 
 **Venomous Bite**: When the z'koulikhar successfully completes a biting attack against a foe, it also inflicts a toxic attack. If the toxic attack is successful, the creature will be subject to an acid attack after one minute and another acid attack a minute after that. This occurs for each initial toxic attack which is successful.
 
-**Breath Weapon**:  It is capable of exhaling a toxic spay, as an action. This is a line of 154 yards in length and is a foot high and wide. Anything caught within the line suffers an acid attack. It also produces a cone whose area also overlaps with this line. The cone is 12 yards in length. Anything caught within suffers a toxic attack. Once it has used this ability, it cannot do so again for an hour.
+**Breath Weapon**:  It is capable of exhaling a toxic spay, as an action. This is a line of 15 yards in length and is a foot high and wide. Anything caught within the line suffers an acid attack. It also produces a cone whose area also overlaps with this line. The cone is 12 yards in length. Anything caught within suffers a toxic attack. Once it has used this ability, it cannot do so again for an hour.
 
 **Dive**: If the z'koulikhar flies at least 50 yards in the previous round, it gets a bonus on its first attack made before the secondary movement phase of the current round. This bonus is equal to one-fifth of the total yards moved since the beginning of the previous round.
 
