@@ -584,7 +584,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (15
+### C (16
 
 #### Call Lightning
 
@@ -621,6 +621,37 @@ This spell is capable of binding amorphous creatures and ephemera. Creatures bou
 **At Higher Tiers**: When cast at 5th tier or higher, in addition to the benefits noted above, you may increase the range by 3 yards.
 
 **Critical Failure**: You exclusively bind yourself with the radiant swords instead, for a number of phases equal to the spell's tier doubled. During this time you are immobile (as the spell would notmally do). At the end of each action phase, you are subject to an attack. If even, it is radiant. If odd, it is a cutting attack. These attacks do not concern themselves with the protection afforded by the blades. The spell produces light from you as though you were the cylinder edge.
+
+#### Changing
+
+**Minimum Tier**: 4
+
+**Casting Time**: 2 actions
+
+**Duration**: 5 minutes
+
+**Effect**: You cause a creature you touch (including possibly yourself) to transform into one of a number of creatures°. An opposed [Will] check is made when affecting another creature to potentially prevent this. The afflicted creature gains a bonus equal to its [Fort] bonus against this and you may apply your [Magic] bonus if your spellcheck was a critical success. A creature cannot willingly fail the check. This transformation requires a number of phases equal to the difference in weight measured by stones between the target's original form and its new form. It can take no action or reaction during this time and is considered vulnerable (minimum of 1 phase).
+
+A creature affected by this spell must succeed a [Fort] save with a DV of 13 + spell tier or be disoriented by the transformation, causing it to be dazed until the end of the next round.
+
+While in the new form, the character uses the statblock of the creature it transformed into. It still retains its memories, understands any language it knew, and retains its knowledge of spells and the ability to wyrd if it possessed such a talent. A player character loses all of their class features while in this form except for their heroism. It does not benefit from any skills or weapon training of the new form,but retains its own.
+
+If the subject fails an incapacitation save to any degree, it will revert prematurely.  
+When reverting to the original form, any wounds received in the new form are retained if the original form had a like wound option- otherwise they are simply treated as wounds with no effect. 
+
+° The available forms are as follows;  
+* Any Common Trade Animal
+* Draftsnail
+* Nag Horse
+* Crobold
+* Any creature which can become a lesser servile
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond 4th, in addition to the benefits noted above- you may choose one of the following;  
+* Double the spell's duration
+* Modify the DV of the [Fort] save by up to 3
+* Increase the maximum hitpoints of the assumed form by 1
+
+**Critical Failure**: You have managed to transform yourself into some ungodly horror instead. You spend the rest of the round vulnerable as you transform, preventing you from performing any action/reaction or movement during this time. Your new form makes you a Monster type creature. Your attributes in this form are each reduced by an amount equal to your current modifier plus the spell's tier. You movement speeds are halved. You must also perform an incapacitation save (this does not cause you to revert form if failed). This transformation lasts for a number of minutes equal to the points of failure multiplied by the spell's tier. If you still have spell sickness at this time, you do not revert form. When you do revert form, perform an incapacitation save.
 
 #### Charged Wave
 
