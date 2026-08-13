@@ -90,6 +90,6 @@ An extremely rare sight among the eastern saltflats, a salriner is a sort of wit
 **Targeted Screech**: As an action, the salriner can loose a horrid screech. Treat as a *sonic attack against a foe within a number of yards equal to the target's [Prcp]*. It gets a bonus for the purpose of inflicting a critical hit equal to its [Empy] bonus against a vulnerable foe.
 
 **Spellcasting**: The salriner is an adept spellcaster. They add their [Int] bonus to their spellchecks and counterspell checks. They know the following spells;  
-_Abaxiate_, _Absend_, _Behest_, _Calm_, _Decombustion_, _Deep Chant_, _Feyding Gesture_, _Imbue_, _Rotword_, _Stupify_, _Volt Switch_, and two other spells.
+_Abaxiate_, _Absend_, _Behest_, _Calm_, _Decombustion_, _Deep Chant_, _Ertvalder_, _Feyding Gesture_, _Imbue_, _Rotword_, _Stupify_, _Volt Switch_, _Water's Edge_, and two other spells.
 
 **Conjure Saltsinger**: A salriner may *devote 5 actions as though they were casting a spell to materialize a saltsinger they have made a bond with to a point they can perceive, so long as no other creature is observing that point. The saltsinger conjured will fight on behalf of the salriner. After the enounter, or an hour, the saltsinger is returned to its previous place*. When a saltsinger is conjured this way, there is a 50% chance that their chorus will decide to investigate the salriners location to determine why one of their own was conjured.
