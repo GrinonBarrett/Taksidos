@@ -4806,7 +4806,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (19
+### W (20
 
 #### Waedervalder
 
@@ -4882,6 +4882,21 @@ If a creature was attempting to identify the rune with spellcraft, the DC is equ
 * Increase the radius of the hemisphere by .5 yard.
 
 **Critical Failure**: You create the rune. It immediately explodes, inflicting a ki attack against you with a bonus equal to the spell's tier.
+
+#### Water's Edge
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Duration**: 2 days
+
+**Effect**: You curse a creature you can perceive by creating an illusory entity that stalks them. The entity can only be seen in the reflection of the surface of water, or reflective surfaces underwater. Additionally, anytime the subject consumes a serving of water, it suffers a psychic attack.
+
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond 4th, you may choose to either increase the duration by 1 day or affect an additional creature.
+
+**Critical Failure**: You are hunted by something you can only see in the water. At the end of every phase, if you are in contact with water, an attack is inflicted against you. If odd, acid. If even, psychic. This lasts for a number of days equal to the spell's tier. You cannot benefit from consuming water for as long as you have spell sickness.
 
 #### Waterworking
 
