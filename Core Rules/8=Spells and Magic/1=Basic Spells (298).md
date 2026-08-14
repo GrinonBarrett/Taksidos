@@ -1690,7 +1690,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (15
+### G (16
 
 #### Glacial Brand
 
@@ -1707,6 +1707,22 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 **At Higher Tiers**: When cast at 5th tier or higher, the range increases by 5 yards per tier beyond minimum.
 
 **Critical Failure**: The brand forms on you instead and lasts for a total of 5 rounds per spell tier.
+
+#### Generovulnusism
+
+**Minimum Tier**: 5
+
+**Casting Time**: 5 actions
+
+**Range**: 20 yards
+
+**Effect**: You cause a creature you can perceive to perform an incapacitation save. It does not inflict the typical effect if it is a failure in any degree, instead causing a wound to be inflicted. A critical failure with the save will also cause the creature to hemorrhage. Regardless, if a wound is inflicted this way, it will create a Wrathful Fiend which will manifest after 1d100 rounds. A creature which does not suffer wounds or their effects has its maximum hitpoints reduced by 1 as the effect of this spell's wound (granting the Wrathful Fiend an increased maximum hitpoint total).
+
+If your spellcheck was a critical success, the fiend is not hostile towards you in any way until the end of the round following its creation unless. It being harmed before then will end this peace.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond 5th, you may choose to either increase the range by 10 yards or increase the DV of the incapacitation save by 1. Additionally, every three tiers beyond minimum increases the Wrathful Fiend's maximum hitpoints by 1.
+
+**Critical Failure**: You afflict yourself with great malady. Roll a wound a number of times equal to half of the spell's tier. You suffer the indicated wounds, and Wrathful Fiend are created from them. If you do not receive wounds or their effects, your maximum hitpoints are reduced by 1 (for each wound) as the effect of the wound- causing that Wrathful Fiend's hitpoint maximum to be increased accordingly.
 
 #### Glitter
 
