@@ -3541,7 +3541,23 @@ If the spell check is a critical hit, you may have the spell's ray continue thro
 
 **Critical Failure**: You fail to focus the energy properly, inflicting a ki attack against yourself with a bonus equal to the spell's tier minus one. The attack ignores your armor.
 
-### Q (2
+### Q (3
+
+#### Quasificiory
+
+**Minimum Tier**: 2
+
+**Casting Time**: 64 actions
+
+**Effect**: As part of the casting, you draw a geometric diagram involving some arcane formula. In contact with this diagram must be a drop of sudokahest, a source of carbon (such as coal or charcoal) and an amount of gold which is to be lost by the casting of the spell. In an instant, the required materials flash and form into a non-magical item of your design. This item must be one you have handled before and whose value does not exceed the value of the gold lost to the spell. This item will last for a number of minutes equal to the spellcheck's points of success multiplied by the spell's tier. Afterwards, it will fail and crumble to dust.
+
+You may use a drop of alkahest instead of sudokahest. If you do, the spellcheck gains a 1d4 bonus.
+
+If the spellcheck was a critical success, some of the dust will be a substance called "Quasient Powder". This material has not been well studied. You will have 1 dram for every pound of gold.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either double the duration or halve the casting time (to a minimum of 1 action).
+
+**Critical Failure**: You lose the gold as it transmutes into nothingness and suffer an instance of archeblight.
 
 #### Quell
 
