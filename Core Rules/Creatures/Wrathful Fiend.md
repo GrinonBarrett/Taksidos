@@ -64,7 +64,7 @@ Demons created by a powerful magic. Each of them bears a portion of some victim 
 
 **Woundless**: The wrathful fiend receives wounds, but not the effects of them.
 
-**Subject of Suffering**: The Wrathful fiend is connected to a creature as a result of the magic which creates tit. It always knows the direction of that creature. Its attacks gain a +2 bonus against that creature for the purpose of determining if it is a critical hit.
+**Subject of Suffering**: The Wrathful fiend is connected to a creature as a result of the magic which creates tit. It always knows the direction of that creature. Its attacks gain a +2 bonus against that creature for the purpose of determining if it is a critical hit. The wound which was suffered to create the Wrathful Fiend cannot be healed by any means, including magic, so long as the wrathful fiend still exists. WHen the wrathful fiend is destroyed, the wound can then be healed (but is not automatically restored).
 
 **Driven by Suffering**: As reaction at the end of any round, the Wrathful Fiend may exchange its turn order chit with its subject.
 
