@@ -5253,7 +5253,21 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Critical Failure**: You fail to transfer the transmutation properly. Your body stiffens, making you prone so long as you have spell sickness.
 
-### Y (2
+### Y (3
+
+#### Yaloperasmathy
+
+**Minimum Tier**: 2
+
+**Casting Time**: 7 actions
+
+**Duration**: 10 rounds
+
+**Effect**: You sprinkle sand from one hand into another which contains a fluff of cotton, then toss it upon yourself or another creature within 1 foot- causing it to disappear. Until the spell ends, the subject completely ignores glass as a physical object. This allows them to pass through it as though you existed on an entirely different plane of existence (like how material and ethereal objects do not interact unless it exists in both planes simultaneously).
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either increase the duration by half or affect an additional creature.
+
+**Critical Failure**: You feel yourself become sleepy and stiff. You are prone for a number of rounds equal to the spellcheck's points of failure. At the end of this time, you become immobile for a number of rounds equal to the spell's tier. You are then petrified for an entire round. Following that, you suffer a level of exhaustion and are immobile for a number of rounds equal to the spell's tier.
 
 #### Ventrilurgy
 
