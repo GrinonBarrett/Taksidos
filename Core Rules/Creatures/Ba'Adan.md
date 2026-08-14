@@ -5,10 +5,10 @@ Said to enter our world after a quarry has been long abandoned. They are large b
 
 **Size**: Ba'Adans stand between 13-17 feet and weigh 665-667 pounds. They are large creatures.
 
-**Hitpoints**: A Ba'Adan 8 hitpoints.
+**Hitpoints**: A Ba'Adan has 8 hitpoints.
 
 **Attributes**:  
-[Body] 18 (+5)  
+[Body] 18 (+6)  
 [Fort] 25 (+8)  
 [Rflx] 14 (+4)  
 [Will] 25 (+8)  
