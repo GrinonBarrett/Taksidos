@@ -3567,7 +3567,7 @@ If the spellcheck was a critical success, some of the dust will be a substance c
 
 **Range**: 3 yards
 
-**Effect**: You manage to ease some of a creature's excitment or meloncholy through seemingly intangible means. The intensity of its emotions are reduced by 1 degree. This lasts for a number of rounds equal to the spell's tier + your [Magic] score.
+**Effect**: You manage to ease some of a creature's excitement or melancholy through seemingly intangible means. The intensity of its emotions are reduced by 1 degree. This lasts for a number of rounds equal to the spell's tier + your [Magic] score.
 
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 1 yard and you may target an additional creature.
 
