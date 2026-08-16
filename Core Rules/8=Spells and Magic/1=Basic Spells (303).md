@@ -173,7 +173,7 @@ Once the alarum has been triggered, you may return it to its passive state as an
 
 **Effect**: You conjure a spirit of nature to strike a foe within range, treat as a biting attack. The spirit ceases to be after a number of rounds equal to the spell's tier +1 and can be redirected against a new foe as a reaction. If no new target is chosen, it will inflict a bite against the same foe at the end of the secondary action phase.
 
-As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirt ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
+As a reaction, it can be directed at a creature which is missing hitpoints. It must succeed an incapacitation save. If successful to any degree, the creature recovers a hitpoint. A failure yields no negative consequences. The spirit ceases to exist upon such an attempt. It may only recover a hitpoint lost while the spirit existed.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
@@ -222,7 +222,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 You cannot mimic the exact taste/feel of some specific form of a liquid (such as mimicing an exact batch of beer) but get pretty close.
 
-The susbtance will return to a nasty tasting water that provides half the usual hydration after a number of rounds equal to the spellcheck.
+The susbstance will return to a nasty tasting water that provides half the usual hydration after a number of rounds equal to the spellcheck.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, in addition to the benefits noted above; for each tier beyond minimum, you may choose to convert up to an additional quart of water this way so long as the total value does not exceed the spell's limit or increase the duration of the spell by half.
 
@@ -340,7 +340,7 @@ If the spellcheck is a critical success, you may choose to change the critical h
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or increase the duration by a day.
 
-**Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will inflict a crushing attack which influcts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
+**Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will inflict a crushing attack which inflicts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
 
 #### Barre
 
@@ -366,7 +366,7 @@ A critical success with the spellcheck allows you to deny diminutive creatures f
 
 **Range**: 20 yards
 
-**Effect**: You call the attention of all non-mindless creatures within range to a point of space, an object, a portal, or creature. Those creatures make a [Will] save. If a critical success, they are made aware of the exact point of the subject but are not remotely distracted by it. If successful, they are made aware of the subject and will turn to face it. If the save is a failure, they will stop concentrating and focus on the subject. If the save is a critical failure, they wil also cease casting any spell and be dazed until the end of the next round.
+**Effect**: You call the attention of all non-mindless creatures within range to a point of space, an object, a portal, or creature. Those creatures make a [Will] save. If a critical success, they are made aware of the exact point of the subject but are not remotely distracted by it. If successful, they are made aware of the subject and will turn to face it. If the save is a failure, they will stop concentrating and focus on the subject. If the save is a critical failure, they will also cease casting any spell and be dazed until the end of the next round.
 
 **At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose either to increase the range by up to 5 yards or exclude one creature.
 
@@ -715,7 +715,7 @@ If the spellcheck was a critical success, you may concentrate on the spell. Whil
 * The range of the light amplification is increased by 1.
 * The range of the light amplification is reduced by 1.5 yards.
 
-**Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard betond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
+**Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard beyond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
 
 #### Cloaking Aura
 
@@ -739,7 +739,7 @@ Anytime you receive a wound or spell sickness while under the effect of this spe
 
 **Casting Time**: 3 Actions
 
-**Effect**: You touch a creature, beginning the process of coagulation in an attempt to stop bloodless. It must make an incapacitation save using its [Fort]. It does not suffer negative results of the roll. A success will still inflict fatigue, but recovers an instance of hemorrhage.  A critical effects simply recovers an instance of hemorrhage. This recovery will occur at the end of the round unless they are afflicted by another instance of hemorrhage.
+**Effect**: You touch a creature, beginning the process of coagulation in an attempt to stop bloodless. It must make an incapacitation save using its [Fort]. It does not suffer negative results of the roll. A success will still inflict fatigue, but recovers an instance of hemorrhage.  A critical success simply recovers an instance of hemorrhage. This recovery will occur at the end of the round unless they are afflicted by another instance of hemorrhage.
 
 If you have proficiency with medicine (or an appropriate zoology skill), you may grant a bonus to the save equal to your [Magic] bonus- up to the spell's tier.
 
@@ -799,7 +799,7 @@ This lasts until the end of the next round.
 * Increase the speed of movement (for non-creatures) by 2 yards.
 * Increase the duration of the the spell by 1 round.
 
-**Critical Failure**: You fail to move anything and instead gain spell sickness equal to half (round down) of the spell. You also seem unbable to begin casting this spell again for a number of rounds equal to the spell's tier.
+**Critical Failure**: You fail to move anything and instead gain spell sickness equal to half (round down) of the spell. You also seem unable to begin casting this spell again for a number of rounds equal to the spell's tier.
 
 #### Crassinism
 
@@ -813,7 +813,7 @@ A critical success with the spellcheck allows you to attune it to your own charm
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, you may reduce the casting time by 1 action (to a minimum of 1)
 
-**Critical Failure**: You casue some form of interference, inducing spell sickness equal to half (round down) of the spell's tier and preventing you from affecting any crassine charm attuned to you so long as you have spell sickness.
+**Critical Failure**: You cause some form of interference, inducing spell sickness equal to half (round down) of the spell's tier and preventing you from affecting any crassine charm attuned to you so long as you have spell sickness.
 
 #### Creeping Death
 
