@@ -4445,7 +4445,7 @@ If you have the foe grappled, both initial attacks gain a bonus equal to the spe
 
 **Casting Time**: 1 reaction, which you take in response to a melee unarmed attack being successful against you in any degree or a critical failure
 
-**Effect**: You produce such extrem toxins from your body in an attampt to fight back against the creature, that it inflicts a number of toxic attacks against it equal to the spell's tier. The first of these attacks ignores any armor.
+**Effect**: You produce such extreme toxins from your body in an attempt to fight back against the creature, that it inflicts a number of toxic attacks against it equal to the spell's tier. The first of these attacks ignores any armor.
 
 **At Higher Tiers**: The benefits for casting at higher tiers is noted above.
 
