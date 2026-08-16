@@ -10,7 +10,7 @@ Basic spells are those that a newer player could be exposed to knowing. Anytime 
 
 **Range**: 20 yards
 
-**Effect**: You cause a number of trees or rocks within range to fall in such a way as to provide barriers that feature protrusions up to 2 feet in front of you (or enough to block about 1/3 of your form), with the barrier itself being dependant upon the materials. Any large or larger creature, or medium or larger mount, moving into contact with the barrier is subject to a piercing attack and must succeed either a [Body] or [Rflx] save (their choice) or be stopped. If a [Body] save is failed this way, treat the creature as impacting against the barrier, receiving knockback damage as though the remainder of the distance it was traveling was the knockback distance. If a [Rflx] save is failed this way, the creature is knocked prone.  
+**Effect**: You cause a number of trees or rocks within range to fall in such a way as to provide barriers that feature protrusions up to 2 feet in front of you (or enough to block about 1/3 of your form), with the barrier itself being dependent upon the materials. Any large or larger creature, or medium or larger mount, moving into contact with the barrier is subject to a piercing attack and must succeed either a [Body] or [Rflx] save (their choice) or be stopped. If a [Body] save is failed this way, treat the creature as impacting against the barrier, receiving knockback damage as though the remainder of the distance it was traveling was the knockback distance. If a [Rflx] save is failed this way, the creature is knocked prone.  
 This barrier lasts for a number of rounds equal to the spell check's points of success multiplied by the spell's tier.
 
 If the caster is larger or smaller than Medium, adjust the size of the barrier accordingly.
@@ -31,7 +31,7 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 
 **Duration**: 3 rounds
 
-**Effect**: You hold this spell for its duration, during which you may use your reaction in response to an object or creature moving (before knowing what direction it plans to move in) to designate a new direction for it to move. If it is not phsyically possible for it to move in that direction with its chosen mode of movement, the movement is treated as knockback movement.
+**Effect**: You hold this spell for its duration, during which you may use your reaction in response to an object or creature moving (before knowing what direction it plans to move in) to designate a new direction for it to move. If it is not physically possible for it to move in that direction with its chosen mode of movement, the movement is treated as knockback movement.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 round.
 
@@ -59,7 +59,7 @@ The DV of the save is equal to double the spell's tier + the number of size clas
 
 A critical hit by an unlisted attack of this spell inflicts an additional wound or reduces a creature's points of undeath by the spellcheck's points of success.
 
-A creature killed by this spell is completely destroyed and almost unrecognisable. It cannot be reanimated by any means.
+A creature killed by this spell is completely destroyed and almost unrecognizable. It cannot be reanimated by any means.
 
 **At Higher Tiers**: For each tier beyond minimum, the caster may choose one of the following;
 * The casting time is reduced by 1 action (to a minimum of 1 action)
@@ -83,7 +83,7 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
-**Critical Failure**: You fail to counter the spell and infact have strengthened the caster against further counterspells equal to the difference in tier of this spell and their own.
+**Critical Failure**: You fail to counter the spell and, in fact, have strengthened the caster against further counterspells equal to the difference in tier of this spell and their own.
 
 #### Absend
 
@@ -99,7 +99,7 @@ If you critcally fail your counterspell check, you cannot affect the spell with 
 
 **Critical Failure**: You accidentally are affected by this spell instead. Additionally, as a result of the spell, you must succeed a [Fort] save or be Obtunded for a number of rounds equal to the tier of the spell.
 
-#### Abridgement
+#### Abridgment
 
 **Minimum Tier**: 2
 
@@ -113,9 +113,9 @@ You create a shaped forcefield originating from a point within range which can a
 
 If something would attempt to damage the forcefield, you must attempt a [Magic] check to keep it intact. If you do not have a [Magic] attribute, you perform the check with no attribute bonus. The DV is equal to the attack result.
 
-**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the distance of the abridgement by half.
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the distance of the abridgment by half.
 
-**Critical Failure**: You fail to form the proper forcefield and find youself with 1d2 additional points of spell sickness. You also cannot recast the spell while you possess spell sickness.
+**Critical Failure**: You fail to form the proper forcefield and find yourself with 1d2 additional points of spell sickness. You also cannot recast the spell while you possess spell sickness.
 
 #### Absenting
 
@@ -137,7 +137,7 @@ If something would attempt to damage the forcefield, you must attempt a [Magic] 
 
 **Casting Time**: 1 reaction, which you take in response to rolling for initiative
 
-**Effect**: You move a number of yards up to the spell's tier or a number of feet equal to the points of success (your choice). If you choose to move based on the spell's tier and ths spellcheck is a critical success, you may move an additional number of yards equal to your [Magic] bonus.
+**Effect**: You move a number of yards up to the spell's tier or a number of feet equal to the points of success (your choice). If you choose to move based on the spell's tier and this spellcheck is a critical success, you may move an additional number of yards equal to your [Magic] bonus.
 
 **At Higher Tiers**: Other than the above listed benefit, for each tier beyond minimum, the distance you move if basing the distance on the spell check result is increased by 1d4+1 feet.
 
@@ -189,7 +189,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Range**: 20 yards
 
-**Effect**: A field of constant sparks erupts out for 25 yards from the point you originate witihin range. The field itself is rather harmless, but does ignite flammable materials. Additionally, electrical attacks within the area have advantage.
+**Effect**: A field of constant sparks erupts out for 25 yards from the point you originate within range. The field itself is rather harmless, but does ignite flammable materials. Additionally, electrical attacks within the area have advantage.
 
 **At Higher Tiers**: When cast at 4th tier, for each tier beyond minimum, you may choose one of the following;  
 * Increase the duration by 5 rounds
@@ -206,7 +206,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Range**: 3 yards
 
-**Effect**: You grant a magical form of movement to an object as appropriate to the object. Toy soldiers march for a few seconds, a broom can sweep a section of floor, marbles roll away, a pan can flip and stir, diningware can stack or be set across the table, etc.
+**Effect**: You grant a magical form of movement to an object as appropriate to the object. Toy soldiers march for a few seconds, a broom can sweep a section of floor, marbles roll away, a pan can flip and stir, dining ware can stack or be set across the table, etc.
 
 **At Higher Tiers**: For each tier beyond minimum, the casting time is increased. It will be a number of actions equal to the tier squared. At certain tiers it can create a creature as a result of its usage. This is not recommended for anyone to do.
 
@@ -218,7 +218,7 @@ As a reaction, it can be directed at a creature which is missing hitpoints. It m
 
 **Casting Time**: 5 actions
 
-**Effect**: You convert a quart of clean water into another liquid. The maximum value of this liqud cannot exceed a $ value of the spell's tier squared. The liquid also cannot be of a magical nature unless the spellcheck is a critical success.
+**Effect**: You convert a quart of clean water into another liquid. The maximum value of this liquid cannot exceed a $ value of the spell's tier squared. The liquid also cannot be of a magical nature unless the spellcheck is a critical success.
 
 You cannot mimic the exact taste/feel of some specific form of a liquid (such as mimicing an exact batch of beer) but get pretty close.
 
@@ -252,7 +252,7 @@ The susbtance will return to a nasty tasting water that provides half the usual 
 
 **Range**: 80 yards
 
-**Effect**: You fire a powerful surge of energy as a ray against a creature within range. This inflicts a force attack. If the attack qualifies to damage armor or is a critical hit, it also inflicts a crushing attack. The force attack has disadvantage on attacks made against a foe which is more than half of the spell's maximum distance away unless the spellcheck is a critical hit.
+**Effect**: You fire a powerful surge of energy as a ray against a creature within range. This inflicts a force attack. If the attack qualifies to damage armor or is a critical hit, it also inflicts a crushing attack. The force attack has disadvantage on attacks made against a foe which is more than half of the spell's maximum distance away unless the spellcheck is a critical success.
 
 **At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to increase the range by up to 20 yards.
 
@@ -282,9 +282,9 @@ The susbtance will return to a nasty tasting water that provides half the usual 
 
 **Duration**: Concentration
 
-**Effect**: You cause any sound you have encountered, or some vague eerie and unnatural sound, to emit from a point you choose within range of you. The sound will continue, as a loop of a number of seconds up to the spellcheck's points of success. You may use your reaction to move that point a number of tards equal to the spell's tier. The sound is never loud enough to inflict damage, but can be extremely uncomfortable and disturb rest.
+**Effect**: You cause any sound you have encountered, or some vague eerie and unnatural sound, to emit from a point you choose within range of you. The sound will continue, as a loop of a number of seconds up to the spellcheck's points of success. You may use your reaction to move that point a number of yards equal to the spell's tier. The sound is never loud enough to inflict damage, but can be extremely uncomfortable and disturb rest.
 
-Any creature that hears the loop repeat can attempt a [Prcp] check with a DV equal to the spellcheck's result + tier to discern its illusory nature and be unproturbed by it.
+Any creature that hears the loop repeat can attempt a [Prcp] check with a DV equal to the spellcheck's result + tier to discern its illusory nature and be unperturbed by it.
 
 A critical success with the spell check will allow you to change the loop as an action.
 
@@ -298,14 +298,14 @@ A critical success with the spell check will allow you to change the loop as an 
 
 **Casting Time**: 2 actions
 
-**Effect**: Your unarmed attack or touch causes strange vibrations in the target. After a number of hours, the target is subject to a ki attack and a sonic attack as the vibrations finish their dissonant function. These attacks ifnore armor.  
+**Effect**: Your unarmed attack or touch causes strange vibrations in the target. After a number of hours, the target is subject to a ki attack and a sonic attack as the vibrations finish their dissonant function. These attacks ignore armor.  
 This is 1d12+1d10+1d8+1d6+1d4+1d3+1d2+1 hours. If the spell check is a critical success, you may modify the number by your [Magic] bonus.
 
 An ephemera creature (and any other creature not occupying the same plane of existence as the caster) is immune to the sonic attack of this spell, however it can still be subject to the ki attack. Against infigura creatures, the time until it is subject to the attack is measured in days instead of hours. Against a construct, the measurement is minutes.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or modify each of the dice' result by 1.
 
-**Critical Failure**: Feel yourself afflicted instead. You receive an attack. If odd, sonic. If even, ki. The attack gains a bonus equal to the spell's tier for the purpose of influcting a critical hit. You also receive a point of spell sickness and are dazed for an entire minute. All of this happens when the spell would have affected the foe had it been cast correctly.
+**Critical Failure**: Feel yourself afflicted instead. You receive an attack. If odd, sonic. If even, ki. The attack gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You also receive a point of spell sickness and are dazed for an entire minute. All of this happens when the spell would have affected the foe had it been cast correctly.
 
 #### Autobelisk
 
@@ -334,13 +334,13 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 
 **Duration**: 2 days
 
-**Effect**: You must have a tether or curcular band of some form when you cast this spell. This inflicts a crushing attack against a creature within range. If successful in any degree, it will not inflict a wound but instead subjects them to this vex. A band of a similar appearance to what you held when casting this spell manifest around part of the target. Anytime a weapon or spell attack roll by the afflicted creature is successful and the result attack roll reault is odd, a piercing attack is inflicted against the subject which ignores armor as the thorny band constructs briefly. If the piercing attack is a critical hit, it inflicts the effect of a psychic attack instead.
+**Effect**: You must have a tether or circular band of some form when you cast this spell. This inflicts a crushing attack against a creature within range. If successful in any degree, it will not inflict a wound but instead subjects them to this vex. A band of a similar appearance to what you held when casting this spell manifest around part of the target. Anytime a weapon or spell attack roll by the afflicted creature is successful and the result attack roll reault is odd, a piercing attack is inflicted against the subject which ignores armor as the thorny band constructs briefly. If the piercing attack is a critical hit, it inflicts the effect of a psychic attack instead.
 
 If the spellcheck is a critical success, you may choose to change the critical hit effect of the band to that of a crushing or piercing attack when you cast the spell. This cannot be changed.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or increase the duration by a day.
 
-**Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will influct a crushing attack which influcts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
+**Critical Failure**: You bind yourself with this spell but it seems more effective against you. Firstly, it will apply to all attacks you perform (other than those of this spell of course). Additionally, it will trigger on your unsuccessful even attack rolls as well. When it does, it will inflict a crushing attack which influcts the critical hit effect of a piercing attack as well if it is a critical hit. This attack also ignores armor.
 
 #### Barre
 
@@ -382,7 +382,7 @@ A critical success with the spellcheck allows you to deny diminutive creatures f
 
 **Effect**: You utter an implication to another creature which is no longer than a single sentence. If it understands, it must succeed a [Will] save or follow through with the suggestion. Whatever is suggested cannot be something whose effect would be greater than a number of hours equal to the spell's tier. This cannot be something that would cause great harm or violate one's moral tenets. Additionally, you may only target a playable species (at narrator's discretion) or a creature of the same creature type as yourself with this spell. You cannot target a creature of undeath unless you are also a creature of undeath.
 
-The subject will be aware that something is off, even if they don't understand a spell was reaponsible for their actions. A critical success with the spellcheck will instead make them feel like it was their own idea the whole time.
+The subject will be aware that something is off, even if they don't understand a spell was responsible for their actions. A critical success with the spellcheck will instead make them feel like it was their own idea the whole time.
 
 **At Higher Tiers**: As seen above, a higher tier provides several benefits.
 
@@ -396,11 +396,11 @@ The subject will be aware that something is off, even if they don't understand a
 
 **Range**: 10 yards
 
-**Effect**: You manage to hook yourself to the creature within range, appearing in phsyical contact with them at their destination (treat as a brawl).
+**Effect**: You manage to hook yourself to the creature within range, appearing in physical contact with them at their destination (treat as a brawl).
 
 **At Higher Tiers**: When cast at higher tiers, the range of the spell in yards becomes the spell's tier squared. Additionally, if you get a critical success with the spell check- the range is further increased by your [Magic] score.
 
-**Critical Failure**: You nearly split yourself intwain. This inflicts a crushing attack against you with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit. Then, you must perform an incapacitation save, even if you are not normally subject to one, but gain a bonus to this save equal to your [Magic] bonus.
+**Critical Failure**: You nearly split yourself in twain. This inflicts a crushing attack against you with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit. Then, you must perform an incapacitation save, even if you are not normally subject to one, but gain a bonus to this save equal to your [Magic] bonus.
 
 #### Blast Lightning
 
@@ -412,7 +412,7 @@ The subject will be aware that something is off, even if they don't understand a
 
 **Effect**: You conjure a bolt of lightning against a target within range. It, and everything in a straight line to it, are subject to an electrical attack. Anything struck by the lightning is knocked back a number of feet equal to the points of success of the attack. The target is knocked back directly, anything else may choose to be knocked back away from you or away from the path of the lightning. During consecutive phases, in place of moving or performing an action, you may launch a follow-up bolt against the same target as part of this spell's effect. You may do this until one of the following occurs:  
 • The target leaves the range of the spell.  
-• The spell's attack fails to hit.  
+• The spell's attack fails.  
 • You perform a reaction.  
 • You move.  
 • The total number of phases exceeds the tier of the spell.
@@ -432,7 +432,7 @@ If an attack is a critical failure, the spell inflicts an electrical attack agai
 **Range**: 30 yards
 
 **Effect**: You hurl a sphere of light which moves in a straight line. An undead creature struck by this is subject to a radiant attack. Any ephemera or fiend is subject to an undamaging attack, which will leave the creature prone if successful. If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint.
-This globe produces bright light in it path, which extends fairlight out 5 yards and dim light outwards further another yard.
+This globe produces bright light in it path, which extends fair light out 5 yards and dim light outwards further another yard.
 
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
 
@@ -448,9 +448,9 @@ This globe produces bright light in it path, which extends fairlight out 5 yards
 
 **Duration**: 1 hour
 
-**Effect**: You cast a shackle which exists primarily on the ethereal plane but can bind two creatures within 3 yards of each other that are on the same plane of existance as yourself. Those creatures cannot exceed a fistance of 3 yard from each other as they become tether by a neigh un reakable chain of forcefield links. The links exist entirely on the ethereal plane but still cause the tether to keep the subjects bound together regardless of the plane they occupy. A magical attack originating on the ethereal plane with a total equal to the spellcheck result + spell tier can break the shackle.
+**Effect**: You cast a shackle which exists primarily on the ethereal plane but can bind two creatures within 3 yards of each other that are on the same plane of existence as yourself. Those creatures cannot exceed a distance of 3 yard from each other as they become tether by a neigh unbreakable chain of forcefield links. The links exist entirely on the ethereal plane but still cause the tether to keep the subjects bound together regardless of the plane they occupy. A magical attack originating on the ethereal plane with a total equal to the spellcheck result + spell tier can break the shackle.
 
-A critical success with the spellcheck allows you to tether a creature to a moveable object instead.
+A critical success with the spellcheck allows you to tether a creature to a movable object instead.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may either increase the range by 3 yards or adjust the range of the tether length by up to half (an increase or decrease).
 
@@ -462,7 +462,7 @@ A critical success with the spellcheck allows you to tether a creature to a move
 
 **Casting Time**: 7 actions
 
-**Effect**: You cause a magical forcefield you touch created by a spell of equal or lower tier to instantly shatter. If a magical effect would interact with the Dismipress spell, treat this spell as the same- but its tier is considered to be doubled.
+**Effect**: You cause a magical forcefield you touch created by a spell of equal or lower tier to instantly shatter. If a magical effect/spell (but not a magical item) would interact with the Dismipress spell, treat this spell as the same- but its tier is considered to be doubled.
 
 Alternatively, if cast against a construct or undead creature (or some object), it will inflict a sonic attack against it.
 
@@ -518,7 +518,7 @@ If the spellcheck is a critical success, a critical failure in the check by the 
 
 **At Higher Tiers**: For each tier above minimum, you may choose one of the following,  
 * The range of the spell is increased by 2 yards
-* The range the plant can grapplefrom is increased by 1 yard
+* The range the plant can grapple from is increased by 1 yard
 * The effective [Body] modifier of the plant is increased by +1
 * the spell last an additional round after concentration is dropped.
 
@@ -536,7 +536,7 @@ If the spellcheck is a critical success, a critical failure in the check by the 
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either grant the attack a +2 bonus for the purpose of inflicting a critical hit or increase the range by 5 yards.
 
-**Critical Failure**: You attempt to form the atack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
+**Critical Failure**: You attempt to form the attack but it fails. You receive spell sickness equal to half of the spell's tier (minimum 1).
 
 #### Bright Reach
 
@@ -576,7 +576,7 @@ A critical success with the spell check increases the length of the fan by a num
 
 **Casting Time**: 2 actions
 
-**Effect**: You release a cloud of spores in a 7 yard semifan, mikrofan, or fan (your choice). At the end of the following rounds, anything covered in the spores or within 1 foot of them is subject to a fire attack as the spores burst open with flame. For 2 phases folowing that, at the end of the phase, an additional fire attack is inflicted against anything covered by the spores as they continue burning.
+**Effect**: You release a cloud of spores in a 7 yard semifan, mikrofan, or fan (your choice). At the end of the following rounds, anything covered in the spores or within 1 foot of them is subject to a fire attack as the spores burst open with flame. For 2 phases following that, at the end of the phase, an additional fire attack is inflicted against anything covered by the spores as they continue burning.
 
 The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also be affected. This is ignored if the spell check is a critical success.
 
@@ -620,7 +620,7 @@ This spell is capable of binding amorphous creatures and ephemera. Creatures bou
 
 **At Higher Tiers**: When cast at 5th tier or higher, in addition to the benefits noted above, you may increase the range by 3 yards.
 
-**Critical Failure**: You exclusively bind yourself with the radiant swords instead, for a number of phases equal to the spell's tier doubled. During this time you are immobile (as the spell would notmally do). At the end of each action phase, you are subject to an attack. If even, it is radiant. If odd, it is a cutting attack. These attacks do not concern themselves with the protection afforded by the blades. The spell produces light from you as though you were the cylinder edge.
+**Critical Failure**: You exclusively bind yourself with the radiant swords instead, for a number of phases equal to the spell's tier doubled. During this time you are immobile (as the spell would normally do). At the end of each action phase, you are subject to an attack. If even, it is radiant. If odd, it is a cutting attack. These attacks do not concern themselves with the protection afforded by the blades. The spell produces light from you as though you were the cylinder edge.
 
 #### Changing
 
@@ -659,9 +659,9 @@ When reverting to the original form, any wounds received in the new form are ret
 
 **Casting Time**: 1 Action
 
-**Effect**: You direct a stream of energized particles in a 3 yard mikrofan. Anything within the cone is subject to a ki attack.
+**Effect**: You direct a stream of energized particles in a 3 yard mikrofan. Anything within the area is subject to a ki attack.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1 yard.
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1.5 yards.
 
 **Critical Failure**: You gather and charge the particles, but lose control. This inflicts a Ki attack against yourself with a bonus equal to the spell's tier.
 
@@ -686,22 +686,6 @@ You cannot leave the area of the cloak. If the spellcheck is a critical success,
 * The duration is increased by 1 round
 
 **Critical Failure**: You are blind and vulnerable for a number of rounds equal to the spell's tier. The cloak never materializes.
-
-#### Cloaking Aura
-
-**Minimum Tier**: 2
-
-**Casting Time**: 5 actions
-
-**Duration**: 1 hour
-
-**Effect**: You create a field of nullified sensory stimuli that extends the entirety of your body. This causes the the minimum DV of any check to detect you when attempt to use stealth to be equal to the spellcheck's points of success. Additionally, you suffer a penalty to all [Prcp] checks and saves equal to the spell's tier.
-
-Anytime you receive a wound or spell sickness while under the effect of this spell, the spell's effect is temporarily lost until the end of the next round.
-
-**At Higher Tiers**: For each tier beyond minimum, the caster may choose to either increase the duration by 30 minutes or reduce the penalty to [Prcp] checks/saves by 2 (to a minimum of 0).
-
-**Critical Failure**: You fail to produce a proper effect and instead gain spell sickness equal to the spell's tier- but you believe it has worked until proven otherwise.
 
 #### Cloak of Radiance
 
@@ -733,17 +717,33 @@ If the spellcheck was a critical success, you may concentrate on the spell. Whil
 
 **Critical Failure**: You wrap yourself in blinding light. As long as you have spell sickness, you are blind. Additionally, you put out bright light for 1 yard, fair light 1 yard betond that, and dim light for a number of yards beyond that equal to the spell's tier. This lasts for a number of minutes equal to the spell's tier.
 
+#### Cloaking Aura
+
+**Minimum Tier**: 2
+
+**Casting Time**: 5 actions
+
+**Duration**: 1 hour
+
+**Effect**: You create a field of nullified sensory stimuli that extends the entirety of your body. This causes the minimum DV of any check to detect you when attempt to use stealth to be equal to the spellcheck's points of success. Additionally, you suffer a penalty to all [Prcp] checks and saves equal to the spell's tier.
+
+Anytime you receive a wound or spell sickness while under the effect of this spell, the spell's effect is temporarily lost until the end of the next round.
+
+**At Higher Tiers**: For each tier beyond minimum, the caster may choose to either increase the duration by 30 minutes or reduce the penalty to [Prcp] checks/saves by 2 (to a minimum of 0).
+
+**Critical Failure**: You fail to produce a proper effect and instead gain spell sickness equal to the spell's tier- but you believe it has worked until proven otherwise.
+
 #### Coagulaturgy
 
 **Minimum Tier**: 3
 
 **Casting Time**: 3 Actions
 
-**Effect**: You touch a creature, beginning the process of coagulation in an attempt to stop bloodless. It must make an incapacitation save using its [Fort]. It does not suffer negative results of the roll. A success will still inflict fatigue, but recovers an instance of hemorrahge.  A critical effects simply recovers an instance of hemorrhage. This recovery will occur at the end of the round unless they are afflicted by another instance of hemorrhage.
+**Effect**: You touch a creature, beginning the process of coagulation in an attempt to stop bloodless. It must make an incapacitation save using its [Fort]. It does not suffer negative results of the roll. A success will still inflict fatigue, but recovers an instance of hemorrhage.  A critical effects simply recovers an instance of hemorrhage. This recovery will occur at the end of the round unless they are afflicted by another instance of hemorrhage.
 
 If you have proficiency with medicine (or an appropriate zoology skill), you may grant a bonus to the save equal to your [Magic] bonus- up to the spell's tier.
 
-If you attempt to affect a creature which is not suffering an instance of hemmorrhage, it must perform a standard Incapacitation save using [Fort].
+If you attempt to affect a creature which is not suffering an instance of hemorrhage, it must perform a standard Incapacitation save using [Fort].
 
 This cannot affect a creature which is not affected by bloodloss.
 
@@ -790,7 +790,7 @@ If your spellcheck was a critical success, the foe must succeed a [Fort] save or
 **Range**: 10 yards
 
 **Effect**: You call all fluids within range to center on a point within range you designate. The fluids all move at roughly a pace of 10 yards during each phase. A critical success with the spell check allows you to only affect a single type of fluid or to exclude a fluid.  
-Fluids which are part of a creature are not affected by this. A cretaure composed exclusively of fluids instead finds itself moving towards the designated point at a speed measured in feet equal to the spell's tier each phase.
+Fluids which are part of a creature are not affected by this. A creature composed exclusively of fluids instead finds itself moving towards the designated point at a speed measured in feet equal to the spell's tier each phase.
 
 This lasts until the end of the next round.
 
@@ -839,7 +839,7 @@ A critical success with the spellcheck allows you to attune it to your own charm
 
 **Duration**: 5 minutes
 
-**Effect**: You inflict an undamaging attack against a creature within range. If successful, it finds an obsidian crown bind to its head (or some similar portion of its body). A magical osbcuremnt exhudes from the creature a number of feet equal to the spell's tier. This blocks even forms of vision which do not really on light. Visions based on magic is also obscured, as the whole of this darkness is a magical material. As an action, the creature to which the crown is affixed may project out a cone of this darkness whose length is equal to the spell's tier in yards. The obscurement provided by the cones lasts until the end of the next round.
+**Effect**: You inflict an undamaging attack against a creature within range. If successful, it finds an obsidian crown bind to its head (or some similar portion of its body). A magical osbcuremnt exudes from the creature a number of feet equal to the spell's tier. This blocks even forms of vision which do not really on light. Visions based on magic is also obscured, as the whole of this darkness is a magical material. As an action, the creature to which the crown is affixed may project out a cone of this darkness whose length is equal to the spell's tier in yards. The obscurement provided by the cones lasts until the end of the next round.
 
 A creature adorned with the crown may attempt a [Will] check with a DV of 10 + the spell's tier as an action to peer through the obscurement until the end of the round. If the check is a critical success, they may remove the crown- dispelling the magic entirely.
 
@@ -863,7 +863,7 @@ If you intentionally summon the corvids into mortal danger, you will find future
 
 **At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to either increase the die step of the d4 or increase the duration of the spell by half.
 
-**Critical Failure**: Instead of conjuring corvids, you call crobolds. 2d4+1 crobolds, with an additional 1d4-1 per tier beyond minimum, have been magically displaced to a location near to you. They are very confused and quite displeased with you. For a number of hours equal to the points of failure, they will pursue you with lethal intent. During this time they have advantage on saves against your abilities and spell and your attacks have disadvantage against them.
+**Critical Failure**: Instead of conjuring corvids, you call crobolds. 2d4+1 crobolds, with an additional 1d4-1 per tier beyond minimum, have been magically displaced to a location near to you. They are very confused and quite displeased with you. For a number of hours equal to the points of failure, they will pursue you with lethal intent. During this time they have advantage on saves against your abilities and spells and your attacks have disadvantage against them.
 
 #### Cryoschimurgy
 
@@ -885,9 +885,9 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 * The casting time is reduced by 1 action.
 * The range is increased by 1 yard.
 * The item last an additional half-minute.
-* You may produce an addtional item.
+* You may produce an additional item.
 
-**Critical Failure**: The ice shatters, inflicting a piercing attack aginst you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
+**Critical Failure**: The ice shatters, inflicting a piercing attack against you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
 ### D (17
 
@@ -909,7 +909,7 @@ If the spellcheck is a critical success, the bonus to saves is increased by your
 * The penalty to spellchecks and counterspell checks is reduced by 1.
 * Reduce the casting time of the spell by 1 action (to a minimum of 1 action).
 
-**Critical Failure**: You have surronded yourself in a foggy veil for a moment and receive spellsickness equal to the spell's tier minus 1 and an instance of Archblight.
+**Critical Failure**: You have surrounded yourself in a foggy veil for a moment and receive spell sickness equal to the spell's tier minus 1 and an instance of Archblight.
 
 #### Dance Macabre
 
@@ -1000,7 +1000,7 @@ Effects that restore points of undeath from within the field or affecting a targ
 
 **Range**: 1 yard
 
-**Effect**: You suppress fire within a space which is no greater than a number of cubic feet equal to the points of success multiplied by the spell's tier. You may choose to do any of the follwing with the fire:
+**Effect**: You suppress fire within a space which is no greater than a number of cubic feet equal to the points of success multiplied by the spell's tier. You may choose to do any of the following with the fire:
 
 * Prevent fire from entering the area.
 * Prevent fire from exiting the area.
@@ -1087,19 +1087,19 @@ Size = Explosion
 
 **Range**: 5 yards
 
-**Effect**: You remove all air (and other gasses/vapors) from a space of up to 2 cubic feet within range. You cannot affect the space immediately occupied by a creature or a part therof (so no emptying of one's lungs), but you can affect apace adjacent to a creature. If performed to remove air from a given space in an atmosphere like ours, air from surrounding space will quickly fill the void- causing a feeling of a light gust. If performed in a sealed space/container, and the last of the air is removed, it creates a vacuum.
+**Effect**: You remove all air (and other gasses/vapors) from a space of up to 2 cubic feet within range. You cannot affect the space immediately occupied by a creature or a part thereof (so no emptying of one's lungs), but you can affect apace adjacent to a creature. If performed to remove air from a given space in an atmosphere like ours, air from surrounding space will quickly fill the void- causing a feeling of a light gust. If performed in a sealed space/container, and the last of the air is removed, it creates a vacuum.
 
 If the spellcheck was a critical success, you may choose to have that removed gas into a container you are holding- though too much gas can cause most containers to burst.
 
 **At Higher Tiers**: For each tier beyond minimum, you may choose to either double the range or increase the volume affected by half.
 
-**Critical Failure**: You have deprived yourself of air, dazing you for a number of rounds equal to the apell's tier and receive a single additional point of spell sickness.
+**Critical Failure**: You have deprived yourself of air, dazing you for a number of rounds equal to the spell’s tier and receive a single additional point of spell sickness.
 
 #### Deject 
 
 **Minimum Tier**: 1
 
-**Casting TIme**: 1 reaction, which you take in response to a projectile attack against yourself
+**Casting Time**: 1 reaction, which you take in response to a projectile attack against yourself
 
 **Effect**: You gain a bonus to defense against that attack equal to the spell's tier as a web of glowing particles forms a screen between yourself and the projectile. If the attack is a critical failure, the projectile ceases to exist. This cannot affect a magical projectile unless the spell check is a critical success.
 
@@ -1115,7 +1115,7 @@ Note that as it only affects projectiles, meaning rays are unaffected by the spe
 
 **Casting Time**: 2 actions
 
-**Effect**: You overload a wand in your possesion, causing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
+**Effect**: You overload a wand in your possession, causing it to spew 1d4+1 rays, each as though the wand was being fired by you at a target of your choice. This causes the wand to be destroyed by the process.
 
 If the spellcheck was a critical success, you may gain a bonus to one of the attacks equal to the points of success for the purpose of determining if the attack is a critical hit.
 
@@ -1132,7 +1132,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 **Effect**: You touch a creature and attempt to free it from a mind influencing effect or a magical condition it has placed upon itself. This functions as a counterspell check against such an effect with a few of exceptions.  
 * You have disadvantage on the check unless it was caused by a spell you know.
 * If the caster of that effect can perceive the afflicted creature, it has advantage on its check.
-* You gain a bonus equal to the the tier of the spell.
+* You gain a bonus equal to the tier of the spell.
 
 **At Higher Tiers**: For each tier beyond minimum, you may have the spell reach out 1 yard to affect a creature or reduce the casting time by 1 action.
 
@@ -1148,7 +1148,7 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 
 **Effect**: You touch a weapon, piece of ammunition, piece of armor, or some other object.
 
-If it has been affected by a 1st tier spell, or a source determined to be equivalent by the narrator, the effect is supressed for this spell's duration. 
+If it has been affected by a 1st tier spell, or a source determined to be equivalent by the narrator, the effect is suppressed for this spell's duration. 
 
 If such a magic's tier would be less than half of this spell's, there is also a percentage chance that the magic is disrupted to the point that it no longer functions (though can be "repaired" by certain means). This is equal to this spell's tier plus the points of success on the spellcheck.
 
@@ -1166,19 +1166,19 @@ When used against a forcefield created by a spell of less than half of this spel
 
 **Range**: 15 yards
 
-**Effect**: You create an entity of immense psychic energy at a point you designate withon range. Choose one of your senses, the entity produces stimuli as appropriate to that sense as you choose. Any non-mindless creature within 15 yards of the entity must succeed an [Inte] save with a DV equal to the spellcheck or be dazed for a number of rounds equal to the spell's tier. Additionally, any creature within that reach which can perceive stimuli produced by the entity must succeed a [Will] save with a DV equal to the spellcheck result or be so overcome with fear that they have disadvantage on all checks, saves, and attack rolls until the spell ends.
+**Effect**: You create an entity of immense psychic energy at a point you designate within range. Choose one of your senses, the entity produces stimuli as appropriate to that sense as you choose. Any non-mindless creature within 15 yards of the entity must succeed an [Inte] save with a DV equal to the spellcheck or be dazed for a number of rounds equal to the spell's tier. Additionally, any creature within that reach which can perceive stimuli produced by the entity must succeed a [Will] save with a DV equal to the spellcheck result or be so overcome with fear that they have disadvantage on all checks, saves, and attack rolls until the spell ends.
 
 The spell lasts until the end of the next phase so long as the caster concentrates on the effect. If the spellcheck was a critical success it may continue for a total number of phases equal to the points of success so long as the caster is concentrating.
 
 **At Higher Tiers**: When cast at 4th tier or higher, for each tier beyond minimum, you may choose to either increase the range of the spell (and the reach of the entity) by 1 yard or increases the number of senses it can produce stimuli for.
 
-**Critical Failure**: You instead conjure a number of Kefalypors equal to half of the spell tier and a number of Nralls equal to half of the spell tier (round up). These creatures are all hostile towards your and seek your end. The kefalypors will prioritize you as food.
+**Critical Failure**: You instead conjure a number of Kefalypors equal to half of the spell tier and a number of Nralls equal to half of the spell tier (round up). These creatures are all hostile towards you and seek your end. The kefalypors will prioritize you as food.
 
 #### Dragon's Breath
 
 **Minimum Tier**: 2
 
-**Casting Time**: 1 Action
+**Casting Time**: 1 action
 
 **Effect**: You spew forth a jet of flames out 2 yards in a line. It is up to 1 foot wide and equally tall. Anything in the area suffers a fire attack. Additionally, when you cast this, you may target an individual. You may choose to either impose advantage on the attack against that foe or have the spell produce an additional fire attack against them as you focus the flames towards them.
 
@@ -1214,13 +1214,13 @@ If the spellcheck is a critical success, the spell ignores shields and cover.
 
 **At Higher Tiers**: For each tier beyond minimum, the total capacity for learning the creature gains is increased to the tier of the spell.
 
-**Critical Failure**: You cause the creature to become overwhlemed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
+**Critical Failure**: You cause the creature to become overwhelmed by the raw eidetic stimuli you send it, causing a psychic attack against it. If the psychic attack is a critical failure, you become subject to a psychic attack which gains a bonus equal to the spell's tier.
 
 #### Eering
 
 **Minimum Tier**: 3
 
-**Casting Time**: 1 actions + 1 action per illusory element
+**Casting Time**: 1 action + 1 action per illusory element
 
 **Range**: 20 yards
 
@@ -1265,7 +1265,7 @@ If the spellcheck is a critical success, you may choose to have the bonus grante
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 10 minutes.
 
-**Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vlunerable for a number of minutes equal to the spell's tier.
+**Critical Failure**: You have failed to produce the proper field over the target, presenting a shimmering field that exposes your weakest point, making yourself vulnerable for a number of minutes equal to the spell's tier.
 
 #### Empower
 
@@ -1295,11 +1295,11 @@ An object which is empowered can bestow that empowerment to a spellcaster utiliz
 
 **Range**: 1 yard
 
-**Effect**: You convert a sapiant creature's brain into a fine meal for yourself, or another, to consume. If consumed within a number of minutes equal to the spell's tier, the brain will provide a number of servings of food equal to the former creature's [Inte] score. Additionally, for the next five minutes, a creature that consumes the entire brain gains a bonus to [Inte] equal the [Inte] modifier of the brain's former - up to the tier of this spell.
+**Effect**: You convert a sapient creature's brain into a fine meal for yourself, or another, to consume. If consumed within a number of minutes equal to the spell's tier, the brain will provide a number of servings of food equal to the former creature's [Inte] score. Additionally, for the next five minutes, a creature that consumes the entire brain gains a bonus to [Inte] equal the [Inte] modifier of the brain's former - up to the tier of this spell.
 
 A brain so affected cannot be reanimated by any means and becomes visible to anything on the psychic plane for a number of miles equal the the brain's [Inte] score minus the number of hours since the spell was cast.
 
-Any creature which consumes even a portion of brain this way will become a Brainseeker when it dies. Additionally, for a number of days equal to the number of servings they consumed, they must peform an incapaciation save at the end of the day.
+Any creature which consumes even a portion of brain this way will become a Brainseeker when it dies. Additionally, for a number of days equal to the number of servings they consumed, they must perform an incapacitation save at the end of the day.
 
 **At Higher Tiers**: The benefits of higher tiers are noted above.
 
@@ -1335,7 +1335,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **At Higher Tiers**: For each tier beyond minimum, you may either affect an additional creature which is touching yourself or another affected by the spell or you may extend the duration by 2 hours.
 
-**Critical Failure**: You have failed to create the magical filed that properly balances thermal regulation. Roll an attack roll against yourself. If odd, it is a crushing attack. If even, it is a cold attack.
+**Critical Failure**: You have failed to create the magical field that properly balances thermal regulation. Roll an attack roll against yourself. If odd, it is a crushing attack. If even, it is a cold attack.
 
 #### Exploding Sphere
 
@@ -1349,7 +1349,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **At Higher Tiers**: Each tier beyond its minimum can either increase the range of the sphere's journey by 20 yards or the explosion radius by 1 yard.
 
-**Critical Failure**: The sphere doesn't stablize as it forms, inflicting a cold attack against you before it explodes in front of you, inflicting attacks as normal.
+**Critical Failure**: The sphere doesn't stabilize as it forms, inflicting a cold attack against you before it explodes in front of you, inflicting attacks as normal.
 
 #### Expulsion Sphere
 
@@ -1389,7 +1389,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Effect**: You inspire interest and wonder in a creature which can perceive you, penetrating its mind to charm them. That creature must succeed a [Will] save or become dazed for a number of rounds equal to the points of failure. If you have more [Empy] than that creature, it makes the save with disadvantage. A creature which is immune to illusions gains advantage on this save.
 
-If the spell check is a critical success, the range of the spell is increased by a number of yourds equal to your [Magic] bonus and the DV is increased by [Magic] bonus.
+If the spell check is a critical success, the range of the spell is increased by a number of yards equal to your [Magic] bonus and the DV is increased by [Magic] bonus.
 
 A creature which is damaged is no longer dazed by this spell.
 
@@ -1407,9 +1407,9 @@ A creature which is damaged is no longer dazed by this spell.
 
 **Effect**: You produce a floating amorphous blue-violet flame within range that exists by feeding on the ambient thermal energy. It provides fair light for a number of yards up to the spell's tier, and dim light for an equal number of yards beyond that. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you or cease to exist.
 
-The flame is not automatically snuffed out by water or other liquids so long as it does not spend two consecutive rounds engulfed by it. It will flicker (causing it to only produce dim light for the entirety of its range). It cannot move while engulfed by the liquid.
+The flame is not automatically snuffed out by water or other liquids so long as it does not spend two consecutive rounds engulfed by it. It will flicker (causing it to only produce dim light for the entirety of its range) during this time. It cannot move while engulfed by the liquid.
 
-If the flame is directed into an object or creature, it inflicts a cold attack which treats a critical hit like a fire attack, and is snuffed out.
+If the flame is directed into an object or creature, it inflicts a cold attack which treats a critical hit like a fire attack’s, and is snuffed out.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
@@ -1425,7 +1425,7 @@ If the flame is directed into an object or creature, it inflicts a cold attack w
 
 **Effect**: You call an object you have physically possessed before, which you are able to perceive, to come to you. It moves at a speed of 20 yards per move. If an obstacle comes between you and the object, it harmlessly bounces off the obstacle and falls instead of continuing. The object can fall at your feet, conveniently slip into the appropriate container on your person, or enter you hand seamlessly once it arrives.
 
-If a creature has possessed the object since you did, the spell will not work and you will know that the item has been distrubed in some way.
+If a creature has possessed the object since you did, the spell will not work and you will know that the item has been disturbed in some way.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 25 yards, and the speed by 5 yards. It can travel for a number of rounds equal to double the tier of the spell if need be to reach you
 
@@ -1439,7 +1439,7 @@ If a creature has possessed the object since you did, the spell will not work an
 
 **Range**: 10 yards
 
-**Effect**: Target must succeed a [Prcp] save or become dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of enebriation.  
+**Effect**: Target must succeed a [Prcp] save or become dazed for a number of rounds equal to half of the points of failure. Additionally, regardless of their save, they receive 2 points of inebriation.  
 Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 3 yards. It also increases the points of inebriation a creature receives to be equal to the spell's tier.
@@ -1472,7 +1472,7 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 These flares last 15 minutes
 
-**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, increase the range by 5 yards, or increase the durations by a number of minutes equal to 10 + [magic] bonus. Additionally, for every 2 tiers above minimum, you may launch an additional flare.
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of missiles by 1, increase the range by 5 yards, or increase the duration by a number of minutes equal to 10 + [magic] bonus. Additionally, for every 2 tiers above minimum, you may launch an additional flare.
 
 **Critical Failure**: You produce a flare, but it automatically sticks to you. When this occurs, it inflicts a proper radiant attack against you, with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit.
 
@@ -1514,7 +1514,7 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 
 **Range**: 5 yards
 
-**Effect**: You force a creature you can perceive to be overcome with fear. It must succeed a [Will] save with a DV equal to the spellcheck result or become filled with fear to such an extant that it must use its movement phases to move as far away from you as possible. It must do so for a number of rounds equal to their points of fsilure.
+**Effect**: You force a creature you can perceive to be overcome with fear. It must succeed a [Will] save with a DV equal to the spellcheck result or become filled with fear to such an extant that it must use its movement phases to move as far away from you as possible. It must do so for a number of rounds equal to their points of failure.
 
 If the spellcheck is a critical success, it applies an additional fear based effect against any creature that has a critical failure on its save. That creature must sprint away so long as it does not cause it to be fatigued as a result.
 
@@ -1530,7 +1530,7 @@ If the spellcheck is a critical success, it applies an additional fear based eff
 
 **Range**: 10 yards
 
-**Effect**: You designate a point within range which attracts all loose and naturally moving fluids towards it. This includes running water, perspiration dropping from the body, or a spilled liquid. This can affect fluids out up to a number of yards equal to the spell's tier multiplied by the spellcheck's points of success. This occurs at a speed of 3 yards per phase. This can affect creatures compsed of fluids as well, such as a wellarch.
+**Effect**: You designate a point within range which attracts all loose and naturally moving fluids towards it. This includes running water, perspiration dropping from the body, or a spilled liquid. This can affect fluids out up to a number of yards equal to the spell's tier multiplied by the spellcheck's points of success. This occurs at a speed of 3 yards per phase. This can affect creatures composed of fluids as well, such as a wellarch.
 
 Alternatively you may have fluids repulsed from the area.
 
@@ -1548,11 +1548,11 @@ This spell lasts as long as the caster concentrates on it.
 
 **Range**: 20 + [Magic] bonus yards
 
-**Effect**: You produce a 1 yard diameter sphere of fog. At the end of each phase, the fog spreads out 1 foot in all directions. Attacks made by creatures in the fog which rely on sight have disadvantage. Everying within the fog has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the fog suffer a 1d4 penalty. At the end of each round, a creature inside the fog receives 1 point of inebriation if it also started the round in the fog.
+**Effect**: You produce a 1 yard diameter sphere of fog. At the end of each phase, the fog spreads out 1 foot in all directions. Attacks made by creatures in the fog which rely on sight have disadvantage. Everything within the fog has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the fog suffer a 1d4 penalty. At the end of each round, a creature inside the fog receives 1 point of inebriation if it also started the round in the fog.
 
 The fog lasts for a number of rounds equal to the spellcheck's points of success multiplied by the spell's tier. The caster may use their reaction during any phase to prevent the fog from spreading for that phase.
 
-If the spellcheck was a critical success, the caster may deignate a maximum boundry for the expanse of the fog.
+If the spellcheck was a critical success, the caster may designate a maximum boundary for the expanse of the fog.
 
 **At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, the range is increased by 3 yards.
 
@@ -1734,9 +1734,9 @@ If your spellcheck was a critical success, the fiend is not hostile towards you 
 
 **Duration**: 1 minute
 
-**Effect**: You cause an explosion of reflective powder to burst out from a point you designate. This powder coats everything within 1d4+3 yards and hangs in the air for the duration. Anything within the initial explosion receives 1d2 points of spell sickness. Additionally, anything covered in the powder suffers a -1 to spellchecks, counterspell checks, and saves against spell. If a creature covered in the glitter brawls with, tramples, or is trampled by another creature- that creature also finds some of the shiny dust on themself (suffering the proper penalties). Radiant attacks moving through the cloud of powder have disadvantage. Illusory magics caused by spells of a tier less than half of this spell's has its nature exposed by the dust. Because is it a glittering powder, an invisible creature afflicted by it can still be tracked visually.
+**Effect**: You cause an explosion of reflective powder to burst out from a point you designate. This powder coats everything within 1d4+3 yards and hangs in the air for the duration. Anything within the initial explosion receives 1d2 points of spell sickness. Additionally, anything covered in the powder suffers a -1 to spellchecks, counterspell checks, and saves against spells. If a creature covered in the glitter brawls with, tramples, or is trampled by another creature- that creature also finds some of the shiny dust on themselves (suffering the proper penalties). Radiant attacks moving through the cloud of powder have disadvantage. Illusory magics caused by spells of a tier less than half of this spell's has its nature exposed by the dust. Because is it a glittering powder, an invisible creature afflicted by it can still be tracked visually.
 
-Hypothetically, 5 whole minutes of fully submerged washing could preemtively dissolve the powder before its natural expiration.
+Hypothetically, 5 whole minutes of fully submerged washing could preemptively dissolve the powder before its natural expiration.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the duration by 1 minute or the range of the explosion by 1 yard.
 
@@ -1754,7 +1754,7 @@ This area stretches out a number of yards equal to the spell's tier squared. A c
 
 **At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may grant yourself a +1 to defense against the attacks.
 
-**Critical Failure**: You conjure a darkness that envelops you, inflicring a number of biting attacks equal to half of the spell's tier which gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+**Critical Failure**: You conjure a darkness that envelops you, inflicting a number of biting attacks equal to half of the spell's tier which gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Gnash
 
@@ -1780,13 +1780,13 @@ This area stretches out a number of yards equal to the spell's tier squared. A c
 
 **Effect**: With your touch, you grant a creature one of the following forms of sight. The duration varies by vision type.
 
-**Thermal Vision**. The subject can see body heat signatures from warm-blooded creatures and other sources of heat if they are unobscured. They can also see a warm-blooded creature through a thin wall or a fire on the the other side of a stone surface. Duration is 2 hours.
+**Thermal Vision**. The subject can see body heat signatures from warm-blooded creatures and other sources of heat if they are unobscured. They can also see a warm-blooded creature through a thin wall or a fire on the other side of a stone surface. Duration is 2 hours.
 
 **Low-light Vision**. The creature can see in dim light as though it were fair light and bright light is intensified until it is as difficult to see in as darkness while fair light is treated as dimlight. If the creature also possesses a mode of vision which is better suited to the current light level- it can use that. The creature can only see in black and white with this mode of vision. Duration is 3 hours.
 
 **Psychovision**. The subject is able to see into the psychic plane. This allows it to see any non-mondless creature's mind, ignoring the material and ethereal boundries. Such minds glow to them in a manner that can be perceived a number of yards away equal to their [Inte] score + the subject's [Prcp] score. The creature also onows its [Inte] bonus automatically upon perceiving it. It can also see psychic communications flow like streams of particles (but does not know their contents) if a direct line between the transmitter and receiver would cross within a number of yards of the subject equal to its [Prcp] score. Furthermore, psychic attacks inflicted by any spurce within a mile appear as a brief popping flash. Duration is 1 hour.
 
-**Arcane Sight**. The subject gains the ability to distinguish whatever the see as being magical. This will cause illusions and shapeshifted creatures to produce a faint glow, as well as those protected by some magical ward. It can allow one to tell if runes have a magical nature or if a creature is casting a spell. Additionally, if something is hidden by magic it can be perceived this way. Duration for 3 hours.
+**Arcane Sight**. The subject gains the ability to distinguish whatever the see as being magical. This will cause illusions and shapeshifted creatures to produce a faint glow, as well as those protected by some magical ward. It can allow one to tell if runes have a magical nature or if a creature is casting a spell. Additionally, if something is hidden by magic, it can be perceived this way. Duration for 3 hours.
 
 **Mortal Eye**. The creature gains a new magical sensor which functions like the eye of a Draconne. Treat this as a human eye with a +1 bonus to [Prcp] checks and saves as it has four chroma and is capable of seeing colors the human eye cannot. If the subject already has an eye, it gains an additional +1 to [Prcp] checks and saves. If it has more than one eye, this is instead an additional +2 bonus (making the total +3). Duration is 4 hours.
 
@@ -1808,14 +1808,14 @@ If the spellcheck is a critical success, you may override a creature's inherent 
 
 **Effect**: You channel a supernatural magic. All creatures within range which can perceive you must succeed their choice of a [Fort] or [Rflx] save or finds their flesh begin to harden into stone. A failure will cause the creature to become prone immediately. Then, at the start of the next round, the creature will be immobile. At the start of the next round, it will be petrified for a number of rounds equal to the points of failure. A critical failure causes the petrification to begin immediately.
 
-A critical success on the save prenets the creature from being affected by the spell from the same caster for a number of hours equal to the points of success.
+A critical success on the save prevents the creature from being affected by the spell from the same caster for a number of hours equal to the points of success.
 
 **At Higher Tiers**: When cast at 6th tier or higher, for each tier beyond minimum, you may choose one of the following;  
 * The range is increased by 5 yards
 * The DV of the save is increased by 2
 * The casting time is reduced by 1 action (to a minimum of 1 action)
 
-**Critical Failure**: The powers you sought to invoke have burdened you with deformity and a touch of madness. You lose [Empy] equal to the spell's tier and are perrified as long as you have spell sickness. Each point of [Empy] lost this way can be recovered as a wound.
+**Critical Failure**: The powers you sought to invoke have burdened you with deformity and a touch of madness. You lose [Empy] equal to the spell's tier and are petrified as long as you have spell sickness. Each point of [Empy] lost this way can be recovered as a wound.
 
 #### Grasp
 
@@ -1845,7 +1845,7 @@ If holding, treat as a normal grapple with the following exceptions. Your value 
 
 **Range**: 30 yards
 
-**Effect**: As an additional cost to cast this spell, you must hold the skull of a sapiant creature. The skull will disintegrate if the spell is successfully cast. Choose two exotic damage types. From the skull a pitch black ball of energy fired. On impact it will inflict a necrotic attack. In place of a traditional critical hit, it inflicts the critical hit effects of the two damage types selected. If the attack would qualify to damage armor, it instead dazes the foe until the end of the next round.
+**Effect**: As an additional cost to cast this spell, you must hold the skull of a sapient creature. The skull will disintegrate if the spell is successfully cast. Choose two exotic damage types. From the skull a pitch black ball of energy fired. On impact it will inflict a necrotic attack. In place of a traditional critical hit, it inflicts the critical hit effects of the two damage types selected. If the attack would qualify to damage armor, it instead dazes the foe until the end of the next round.
 
 If the attack roll against the foe was successful and the die roll result was odd, you may choose to either have the foe emit dim light out for 1 foot or reduce the level of light within 1 foot of the foe for a number of rounds equal to the spell's tier + [Magic] bonus.
 
@@ -1883,7 +1883,7 @@ Though the target cannot move from the compulsion of fear, it is not considered 
 
 **Range**: 15 yards
 
-**Effect**: You carve a vile sigil in the thick air and direct it towards a creature within range, influcting an undamaging attack. If the attack is successful, the creature is marked. If it is a critical success, it suffers Archblight. If the attack is a critical failure, you suffer a point of spell sickness.
+**Effect**: You carve a vile sigil in the thick air and direct it towards a creature within range, inflicting an undamaging attack. If the attack is successful, the creature is marked. If it is a critical success, it suffers Archblight. If the attack is a critical failure, you suffer a point of spell sickness.
 
 If a marked creature dies before the end of the next round, you may choose one of the following benefits (chosen at the moment of death);  
 * You recover a hitpoint, so long as your current hitpoints don't exceed its maximum hitpoints.
@@ -1930,21 +1930,21 @@ Once this effect ends, the power of gravity becomes intensified until the end of
 
 **Casting Time**: 1 reaction, which is taken in response to a creature attacking or coming in contact with you or a creature/object you are touching
 
-**Effect**: A number of thorns errupt from yourself or the target, extending out 1 foot. Any creature within that space suffers a piercing attack, except yourself.
+**Effect**: A number of thorns erupt from yourself or the target, extending out 1 foot. Any creature within that space suffers a piercing attack, except yourself.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to extend the size of the thorns by a foot.
 
-**Critical Failure**: The thorns stil emerge, but damage all clothes and armor worn by a ceature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
+**Critical Failure**: The thorns still emerge, but damage all clothes and armor worn by a creature from which they grow. The thorns inflict an attack against you with a bonus equal to the tier of the spell.
 
 #### Grim Return
 
 **Minimum Tier**: 4
 
-**Casting Time**: 1 reaction, which you take in rrsponse to dying
+**Casting Time**: 1 reaction, which you take in response to dying
 
-**Effect**: You empower your final thoughts with magic as you picture someone you care tonprtect (you choice of a creature you know). Your flesh begins to loosen itself from your skeleton in a subtle fashion. After 1d12+2 rounds, a reanimated skeleton forms from your remains- though it retains your class features and heroism. For a number of hours equal to the spwll's tier, it retains a semblence of your consciousness and is not mindless. When this wears off, it will become mondless again- with its core perogotive to protect that creature which you had imagined.
+**Effect**: You empower your final thoughts with magic as you picture someone you care to protect (you choice of a creature you know). Your flesh begins to loosen itself from your skeleton in a subtle fashion. After 1d12+2 rounds, a reanimated skeleton forms from your remains- though it retains your class features and heroism. For a number of hours equal to the spell’s tier, it retains a semblance of your consciousness and is not mindless. When this wears off, it will become mindless again- with its core prerogative to protect that creature which you had imagined.
 
-If the spellcheck was a critical success, it also reatins any spells you knew and retains its skills and weapon training.
+If the spellcheck was a critical success, it also retains any spells you knew and retains its skills and weapon training.
 
 This spell fails if cast by a creature with no skeletal structure.
 
@@ -1960,11 +1960,11 @@ This spell fails if cast by a creature with no skeletal structure.
 
 **Duration**: Concentration + a number of phases equal to the spell's tier
 
-**Effect**: You project a shimmering translucent sphere which stretches out 5 yards from yourself. The sphere does not interpose itself in occupied space. Ray attacks which would pass through the sphere have no effect. Ray attacks of spells of a higher tier than this spell are not affected. If the ray is of an equal or lower tier spell, but it is greater than half of this spell's tier, the attack suffers a penalty equal to this spell's tier.
+**Effect**: You project a shimmering translucent sphere which stretches out 5 yards from yourself. The sphere does not interpose itself in occupied space. Ray attacks which would pass through the sphere have no effect. Ray attacks of spells of a higher tier than this spell are not affected. If the ray is of an equal or lower tier spell, but it is greater than half of this spell's tier, the attack instead suffers a penalty equal to this spell's tier.
 
 **At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefits noted above, you may chose to have the sphere stretch out up to 2 additional yards per tier beyond minimum.
 
-**Critical Failure**: You see the goobe flicker into alexistance and flicker out. You receive spell sickness equal to 1d2 + half of the spell's tier.
+**Critical Failure**: You see the globe flicker into existence and flicker out. You receive spell sickness equal to 1d2 + half of the spell's tier.
 
 #### Gunkitude
 
@@ -1977,7 +1977,7 @@ This spell fails if cast by a creature with no skeletal structure.
 **Effect**: A creature you touch will begin to transform into an ooze, a transformation which is completed by the end of the round. This confers a few changes to it;  
 
  • It does not need to breathe.  
- • It and all of its possessions on its person meld into you in the new form. This new form can fit into a space of 1 liquid ounce per half-pound pound of its being. Its size category is reduced by 1 if possible.   
+ • It and all of its possessions on its person meld into the new form. This new form can fit into a space of 1 liquid ounce per half-pound of its being. Its size category is reduced by 1 if possible.   
  • Its defense against all attacks is 15.  
  • It does not receive damage from being crushed (including crushing attacks), falling, or knockback.
  • Acid attacks against them have disadvantage and cause them to be prone for a number of rounds equal to the points of success. This is cumulative.  
@@ -1989,9 +1989,9 @@ This spell fails if cast by a creature with no skeletal structure.
  • It ignores any form of non-magical Acid, Club, or Toxic attacks of an odd result.  
  • Any effect which would heal it has a 3 in 8 chance not to.    
 
-If it is damaged, fails an incapacitation save in any degree, or would be divided while in this form- it will immediately reconstitute into its previous form. If it reverts as a result of damage, it must immediately perform an incapcitation save.
+If it is damaged, fails an incapacitation save in any degree, or would be divided while in this form- it will immediately reconstitute into its previous form. If it reverts as a result of damage, it must immediately perform an incapacitation save.
 
-**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
+**At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentioned above.
 
 **Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
@@ -2007,7 +2007,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Effect**: You produce an invisible sphere in which all senses are dulled, sounds become hazy, and color departs. This sphere projects out for 10 yards and grows an additional yard at the end of each phase you concentrate on the spell. All creatures within the sphere have disadvantage on [Prcp] checks and saves. When a creature attempts to cast a spell within the area, after the attempt has been made (regardless of result) they receive spell sickness equal to the spell's tier. Checks/saves made against the effects of illusions inside the sphere gain advantage. Illusory creatures within the sphere have disadvantage on any checks/saves they perform inside of the sphere. If a counterspell check result made within the sphere is ever the exact same as the spell's tier, that creature's result is treated as 0. Forcefields cannot be created within the space of the sphere, but it will not disrupt those that already exist.
 
-**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above, for each tier beyond minimum- you may chose to either increases the intitial stretch of the sphere by 1.5 yards or the growth rate by 1 foot.
+**At Higher Tiers**: When cast at 5th tier or greater, in addition to the benefits noted above, for each tier beyond minimum- you may chose to either increases the initial stretch of the sphere by 1.5 yards or the growth rate by 1 foot.
 
 **Critical Failure**: You have localized the effect to just yourself, and it lasts so long as you have spell sickness.
 
@@ -2021,7 +2021,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Duration**: 1 minute
 
-**Effect**: You inspire grace in the target creature's movements. For the duration, impedements to its movement speed by terrain or obstacles is halved and it may take an additional reaction each round. If it does, it is vulnerable until the end of the next round.
+**Effect**: You inspire grace in the target creature's movements. For the duration, impediments to its movement speed by terrain or obstacles is halved and it may take an additional reaction each round. If it does, it is vulnerable until the end of the next round.
 
 **At Higher Tiers**: Each tier beyond minimum increases the range by 1 yard and duration by 1 minute.
 
@@ -2053,7 +2053,7 @@ This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
 
 **Range**: 10 yards
 
-**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is- speak nonesensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exlcusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telapathy. A creature rambling this way is dazed during this time.
+**Effect**: Inflict an undamaging attack against target creature. If successful, it begins to ramble on, that is- speak nonsensically. It does so for a number of rounds equal to the points of success. A creature which cannot speak is immune to this. A creature which communicates exclusively through a means of telepathy can be affected only by a critical hit, at which point it rambles on through use of its telepathy. A creature rambling this way is dazed during this time.
 
 **At Higher Tiers**: For each tier beyond minimum, you may affect an additional creature within range or increase the range by 5 yards.
 
@@ -2089,7 +2089,7 @@ If you are familiar with the creature to be affected, the attack has advantage.
 
 **Effect**: You cause a circle of stones, within which you must be present for the entirety of casting, to become a sort of magical portal. You may choose a number of creatures you are familiar with (including yourself) up to the spell's tier. The circle becomes a magical portal those creatures are familiar with. If the circle is broken, the spell will end.
 
-A critical success with the spell check allows for you to use a different geometic shape, but there must be some design to the shape's outline and stones at each of the points to which the sides would meet. Either component being disturbed will break the spell.
+A critical success with the spell check allows for you to use a different geometric shape, but there must be some design to the shape's outline and stones at each of the points to which the sides would meet. Either component being disturbed will break the spell.
 
 **At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to affect an additional creature (including one you are not familiar with) or increase the duration by half.
 
@@ -2137,7 +2137,7 @@ If your spellcheck was a critical success, the initial attack can still inflict 
 
 **At Higher Tiers**: When cast at 2nd tier or greater, you may multiply the maximum duration by the number of tiers beyond minimum squared.
 
-**Critical Failure**: You still transform yourself into a statue, but fo not have the same control over the specifics. You are petrified for a number of minutes equaal to the spell's tier.
+**Critical Failure**: You still transform yourself into a statue, but fo not have the same control over the specifics. You are petrified for a number of minutes equal to the spell's tier.
 
 #### Howl
 
@@ -2147,7 +2147,7 @@ If your spellcheck was a critical success, the initial attack can still inflict 
 
 **Range**: 40 yards
 
-**Effect**: You loose a loud cry eerily similar to that of a monstrous wolf or other such terrifying beast. You imagine any number of creatures you know when doing so. All creatures within range will manage to hear this howl and must perform a [Prcp] save. If a critical success, they know its exact nature and source. If a success, they do not know the source but understand it is of an unnatural nature. If a failure, they are unable to make out its source or nature. If a critical failure they not only are unable to identify the spurce or nature, but will disadvantage on the following save.
+**Effect**: You loose a loud cry eerily similar to that of a monstrous wolf or other such terrifying beast. You imagine any number of creatures you know when doing so. All creatures within range will manage to hear this howl and must perform a [Prcp] save. If a critical success, they know its exact nature and source. If a success, they do not know the source but understand it is of an unnatural nature. If a failure, they are unable to make out its source or nature. If a critical failure they not only are unable to identify the source or nature, but will have disadvantage on the following save.
 
 A creature which fails to any degree must also perform a [Will] save or be so overcome with fear that they have disadvantage on attacks/checks against the caster and on saves against their spells and abilities. This fear lasts for a number of minutes equal to the points of failure. A creature which has succeeded the check to any degree can spend 3 entire rounds addressing the frightened one. This allows them to attempt another save against the fear for the purpose of determining if it is a success or not.
 
@@ -2163,7 +2163,7 @@ A creature which fails to any degree must also perform a [Will] save or be so ov
 
 **Effect**: A creature you target within range gains an unquenchable thirst. It is considered to have lost hydration equal to the spell's tier. For a number of hours equal to the spell's tier, there is a 1 in 4 chance that a serving of liquids consumed will not hydrate as it would normally. A creature which does not suffer from thirst will instead be dazed for a number rounds equal to the spell's tier as it contends with a new sensation.
 
-**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier (or a number of roounds if immune to thirst).
+**At Higher Tiers**: For each tier beyond minimum, you may target an additional creature or increase the duration by a number of hours equal to the spell's tier (or a number of rounds if immune to thirst).
 
 **Critical Failure**: You feel an immediate need. Your whole body aches for refreshment. You require an additional number of servings of water equal to the spell's tier. Additionally, so long as you still have spell-sickness, you have a 1 in 4 chance not to benefit from a serving of water. If you do not require hydration, you are instead dazed for a number of rounds equal to the tier of the spell squared.
 
@@ -2191,7 +2191,7 @@ A creature which fails to any degree must also perform a [Will] save or be so ov
  • You understand Hydroglossa, even if you do not speak it.  
  • Any effect which would heal you has a 3 in 8 chance not to.    
 
-If you are damaged more than once, fail an incapacitation save in any degree, or would be divided while in this form- you will immediately reconstitute into your previous form. If you revert as a result of damage, you must immediately perform an incapcitation save.
+If you are damaged more than once, fail an incapacitation save in any degree, or would be divided while in this form- you will immediately reconstitute into your previous form. If you revert as a result of damage, you must immediately perform an incapacitation save.
 
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by 30 seconds in addition to the benefit mentiond above.
 
@@ -2275,7 +2275,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **At Higher Tiers**: Each tier beyond its minimum increase the volume of ice you may affect as described above.
 
-**Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it with a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
+**Critical Failure**: The ice you sought to affect explodes, inflicting a piercing attack with disadvantage against anyone within a number of feet of the ice equal to the spell's tier. If it was a creature, you still inflict the attack, but have disadvantage on the attack and do not receive a bonus based on the spell's tier.
 
 #### Illfaring
 
@@ -2285,7 +2285,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Duration**: 1 hour
 
-**Effect**: Your touch causes a creature be warded from magical healing wffects, such as those that restore wounds or recover hitpoints (or points of undeath) for the duration of the spell. Additionally, the afflicted creature must succeed a [Fort] save or receive a point of inebriation. A creature of yndeath has disadvantage on this save.
+**Effect**: Your touch causes a creature be warded from magical healing effects, such as those that restore wounds or recover hitpoints (or points of undeath) for the duration of the spell. Additionally, the afflicted creature must succeed a [Fort] save or receive a point of inebriation. A creature of undeath has disadvantage on this save.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may double the duration.
 
@@ -2299,7 +2299,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Duration**: 1 hour
 
-**Effect**: You touch a creature or object to grant it protection against sickness and disease. The warded creature is immune to the effects of a toxic attack's critical hit and there is a percentage chance that any point of contact, for the purpose of contracting a disease or other illness, will be ignored equal to the spell's tier squard. The entire duration of such a contact must be during the spell's duration to provide protection this way. Additionally, non-magical toxic attacks against the warded creature have disadvantage, as do any toxic attacks as a result of a poison or disease.
+**Effect**: You touch a creature or object to grant it protection against sickness and disease. The warded creature is immune to the effects of a toxic attack's critical hit and there is a percentage chance that any point of contact, for the purpose of contracting a disease or other illness, will be ignored equal to the spell's tier squared. The entire duration of such a contact must be during the spell's duration to provide protection this way. Additionally, non-magical toxic attacks against the warded creature have disadvantage, as do any toxic attacks as a result of a poison or disease.
 
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 1 hour.
 
@@ -2403,7 +2403,7 @@ This spell may only be cast during the day and cannot be cast during an eclipse.
 
 **Duration**: 18 hours + 3 hours per tier
 
-**Effect**: You produce a trap which possesses a 2 yard cone-shaped trigger. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presnce of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it secretly inflicts a toxic attack against each creature within the cone. This attack does not inflict a wound like normal. The trap then disappears. For the remainder of the spell, the caster may use their reaction to force any creatures they perceive which were successfully attacked to succeed a [Fort] save or have their hitpoints reduced by 1.
+**Effect**: You produce a trap which possesses a 2 yard cone-shaped trigger. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presence of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it secretly inflicts a toxic attack against each creature within the cone. This attack does not inflict a wound like normal. The trap then disappears. For the remainder of the spell, the caster may use their reaction to force any creatures they perceive which were successfully attacked to succeed a [Fort] save or have their hitpoints reduced by 1.
 
 **At Higher Tiers**: For each tier beyond minimum, trap's cone is increased by 1 yard.
 
@@ -2438,7 +2438,7 @@ Additionally, you may choose some traits of the metal.
  • _Appearance_. You choose the sheen of the metal.  
 Once these decisions are made, they can't be changed.
 
-After the spell ends, for a number of hours equal to the total minutes of duration, the affeted creature has a -1 penalty to all [Body] and [Fort] checks/saves and a -1 penalty to all attacks.
+After the spell ends, for a number of hours equal to the total minutes of duration, the affected creature has a -1 penalty to all [Body] and [Fort] checks/saves and a -1 penalty to all attacks.
 
 A creature may make a [Fort] save to avoid this if they wish.
 
@@ -2476,7 +2476,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 A corpse must be entered by the end of the next phase or it will not transport the creature. If such transportation is not valid, the spell fails and you receive a point of spell sickness.
 
-If the spellcheck is a critical success, you may have an explosion escape from the destination corpse. This will inflict either a cutting, necrotic, or piercing attack (your choice) to anything within 1 yard (other than the creatures transprted by the spell) per size category.
+If the spellcheck is a critical success, you may have an explosion escape from the destination corpse. This will inflict either a cutting, necrotic, or piercing attack (your choice) to anything within 1 yard (other than the creatures transported by the spell) per size category.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose one of the following
 * The range is increased by 1 yard.
@@ -2484,7 +2484,7 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 * The explosion caused by a critical success may be increased by an additional yard per size category and the attacks gain a +1 for the purpose of inflicting a critical hit.
 * You may affect an additional corpse to allow an additional crreature to transport. They may exit through the same corpse or a different corpse.
 
-**Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of thise attacks is successful against you, the following attacks each get an instance of advantage.
+**Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of those attacks is successful against you, the following attacks each get an instance of advantage.
 
 #### Jet
 
@@ -2492,7 +2492,7 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 
 **Casting Time**: 2 actions
 
-**Effect**: You create a tap to access a supernatural source of damaging fluid, producing a jet of acid 15 yards in a line which is .5 feet high and wide. Everything in the line is subject to an acid attack, which is resolved in the order of nearest (to point of origin) to farthest. This spell can break through intersposing barriers so long as the total thickness is no greater than a number of half feet equal to the spell's tier.
+**Effect**: You create a tap to access a supernatural source of damaging fluid, producing a jet of acid 15 yards in a line which is .5 feet high and wide. Everything in the line is subject to an acid attack, which is resolved in the order of nearest (to point of origin) to farthest. This spell can break through interposing barriers so long as the total thickness is no greater than a number of half feet equal to the spell's tier.
 
 If the spell check is a critical success, you may change the effect of a critical hit by this attack to be that of any one exotic damage type. Additionally, if the attack would qualify to damage armor, it also inflicts an attack of that type.
 
@@ -2510,7 +2510,7 @@ If the spell check is a critical success, you may change the effect of a critica
 
 **Effect**: You have influenced some force affecting the target, giving them the worst luck possible. Inflict an undamaging attack against the foe. If successful, they suffer a penalty to all saves, checks, and attack rolls for the purpose of determining if any failure is actually a critical failure equal to the tier of this spell. This lasts for an hour. Each time this causes a critical failure, the penalty is reduced by 1.
 
-**At Higher Tiers**: Each tier beyond the minimum can eiter increases the range by 3 yards or the duration by 1 hour, in addition to the benefit noted above.
+**At Higher Tiers**: Each tier beyond the minimum can either increases the range by 3 yards or the duration by 1 hour, in addition to the benefit noted above.
 
 **Critical Failure**: You find yourself the subject of misfortune, as the spell affects you instead.
 
@@ -2526,13 +2526,13 @@ If the spell check is a critical success, you may change the effect of a critica
 
 A critical success with the spellcheck will disallow a creature from being able to use its reaction to perform the [Will] check when the area is created.
 
-A creature being wounded by an attack (or suffering the critical hit wffect of an attack) could cause the spell to end if the attack total is greater the the spellcheck result + spell tier + [Magic] bonus.
+A creature being wounded by an attack (or suffering the critical hit effect of an attack) could cause the spell to end if the attack total is greater the the spellcheck result + spell tier + [Magic] bonus.
 
-This spell can also be dismissed 8f the caster is the subject of an equal or greater tier Quell spell or becomes subject to a fear effect.
+This spell can also be dismissed if the caster is the subject of an equal or greater tier Quell spell or becomes subject to a fear effect.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may increase the sphere by 5 yards.
 
-**Critical Failure**: You instead suffer a fit of madness as you find everything either intensely hilarious or very groovy. You are dazed for a number of minutes equal to the spell's tier and cannot influct wounds from attacks during this time.
+**Critical Failure**: You instead suffer a fit of madness as you find everything either intensely hilarious or very groovy. You are dazed for a number of minutes equal to the spell's tier and cannot inflict wounds from attacks during this time.
 
 #### Jolting Grasp
 
@@ -2604,7 +2604,7 @@ The caster may spend an entire round concentrating to end the connection prematu
 
 **Range**: 15 yards
 
-**Effect**: You draw insight into the force assailing a creature. You know the total of the attack roll and the attack type. If the attack would be treated as having an alternative critical hit efffect or effect if it qualifies for damaging armor, you know that as well. If the successful attack causes other effects to trigger, you know what effects it triggers.
+**Effect**: You draw insight into the force assailing a creature. You know the total of the attack roll and the attack type. If the attack would be treated as having an alternative critical hit effect or effect if it qualifies for damaging armor, you know that as well. If the successful attack causes other effects to trigger, you know what effects it triggers.
 
 If the spellcheck is a critical success, you know the precise location of the source of that attack if you can perceive it or it is within range.
 
@@ -2632,7 +2632,7 @@ If the spellcheck is a critical success, you know the precise location of the so
 
 **At Higher Tiers**: These benefits are listed above.
 
-**Critical Failure**: You have potentially liquified yourself. Inflict unlisted damage attacks against yourself equal to the tier of the spell -1. Then peform a [Fort] save with a DV equal to the points of failure of the spell check. If you fail, you are immobile for a number of rounds equal to the points of failure of the save multiplied by the spells tier. If you die as a result of this spell, your remains are liquified.
+**Critical Failure**: You have potentially liquified yourself. Inflict unlisted damage attacks against yourself equal to the tier of the spell -1. Then perform a [Fort] save with a DV equal to the points of failure of the spell check. If you fail, you are immobile for a number of rounds equal to the points of failure of the save multiplied by the spells tier. If you die as a result of this spell, your remains are liquified.
 
 [Lafiancy Spell]: # "Derived from old english Lafian."
 
@@ -2644,15 +2644,15 @@ If the spellcheck is a critical success, you know the precise location of the so
 
 **Range** 3 yards
 
-**Effect**: You mangae to divert some of the force of your impact. Divide the feet you travled as a result of the fall or knockback by the number of other creatures within range. Then apply falling/knockback damage to each creature within range as though all were affected by it. If no other creatures were within range, you simply reduce your fall distance by number of yards equal to the spell's tier + your [Magic] bonus.
+**Effect**: You mangae to divert some of the force of your impact. Divide the feet you traveled as a result of the fall or knockback by the number of other creatures within range. Then apply falling/knockback damage to each creature within range as though all were affected by it. If no other creatures were within range, you simply reduce your fall distance by number of yards equal to the spell's tier + your [Magic] bonus.
 
 A critical success with the spell check will allow you to modify the distance applied to you (after any division of distance) by a number of feet equal to the points of success. 
 
-Alternatively, you could cast this spell in anticpation of coming in contact with a creature travelling as a result of falling/knockback. If you do, and it would be reasonable to assume that you make contact, treat it as the subject of the spell.
+Alternatively, you could cast this spell in anticipation of coming in contact with a creature travelling as a result of falling/knockback. If you do, and it would be reasonable to assume that you make contact, treat it as the subject of the spell.
 
 **At Higher Tiers**: Each tier beyond minimum allows you to modify the range of the spell by 1 per tier beyond 2nd.
 
-**Critical Failure**: You instead increase the effect distance of your fall/knockback, in feet, by the points of failure multiplied by the spell's tier. If you cast it on another creature, it is protected from the fall/knockback damage, and you take it instead- including the aforementiond penalty for critically failing the spell check.
+**Critical Failure**: You instead increase the effect distance of your fall/knockback, in feet, by the points of failure multiplied by the spell's tier. If you cast it on another creature, it is protected from the fall/knockback damage, and you take it instead- including the aforementioned penalty for critically failing the spell check.
 
 #### Lash
 
@@ -2693,7 +2693,7 @@ Length required for each size category;
 
 **Effect**: Choose an exotic damage type. You produce a tether of magical energy which lashes out against the target. It inflicts a sling attack. If the attack would qualify to damage armor, it instead grapples that foe for as long as you concentrate on the spell (or until the grapple is broken). Additionally, if the attack is a critical hit or qualifies to damage armor, it applies the critical hit effect of the chosen damage type.
 
-A critical success with the spell check allows you to choose not to inflict a wound with the atttack roll. If so, you may choose to grapple that foe (per the spell's fescription) or knock it prone.
+A critical success with the spell check allows you to choose not to inflict a wound with the attack roll. If so, you may choose to grapple that foe (per the spell's fescription) or knock it prone.
 
 **At Higher Tiers**: Each tier beyond minimum affords you one of the following;
 
@@ -2715,7 +2715,7 @@ A critical success with the spell check allows you to choose not to inflict a wo
 
 **At Higher Tiers**: Each tier beyond minimum sees the attack gain a +1 bonus.
 
-**Critical Failure**: The axe explodes infront of you, inflicting the effect against you instead.
+**Critical Failure**: The axe explodes in front of you, inflicting the effect against you instead.
 
 #### Leech Life
 
@@ -2763,7 +2763,7 @@ The corpse must be from within a number of hours equal to the spell's tier unles
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may double the duration of the spell.
 
-**Critical Failure**: Animate the corpse, but it instead seeks to harm the subject and yourself for the duration of the spell. It remains animated after the spell ends. As long as you have spell sickness, it.knows your exact location and has advantage on attack rolls against you.
+**Critical Failure**: Animate the corpse, but it instead seeks to harm the subject and yourself for the duration of the spell. It remains animated after the spell ends. As long as you have spell sickness, it knows your exact location and has advantage on attack rolls against you.
 
 #### Mage Sword
 
@@ -2925,7 +2925,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **Duration**: Concentration
 
-**Effect**: You cause a creature to be affixed by a distant hallucinatoon. You choose what it appears as and if it moves. The illusion is always perceived as being far away, too distant to reasonably reach. The creature attempts a [Prcp] save with a DV equal to the spellcheck result + spell tier to ignore it. If it fails it is subject to the illusion for a number of minutes equal to the points of failure (unless the spell ends prematurely) before a new save can be attempted.
+**Effect**: You cause a creature to be affixed by a distant hallucination. You choose what it appears as and if it moves. The illusion is always perceived as being far away, too distant to reasonably reach. The creature attempts a [Prcp] save with a DV equal to the spellcheck result + spell tier to ignore it. If it fails it is subject to the illusion for a number of minutes equal to the points of failure (unless the spell ends prematurely) before a new save can be attempted.
 
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may choose to either affect an additional creature or increase the range by 10 yards.
 
@@ -2955,7 +2955,7 @@ If the spell check is a critical success, the initial hit will also apply the ef
 
 **Range**: 7 yards
 
-**Effect**: You produce a sterling mirror veiled in a shimmering fog for the breifest moment. That creature's spell is redurected towards them. If it affects a space, that space is centered on them (a shape that projects away from them instead inverts into them). If it instead targets a number of creatures, it affects them first and foremost and then is applied to the closest valid target until it affects the proper number of creatures. This cannot affect a spell of a higher tier.
+**Effect**: You produce a sterling mirror veiled in a shimmering fog for the briefest moment. That creature's spell is redirected towards them. If it affects a space, that space is centered on them (a shape that projects away from them instead inverts into them). If it instead targets a number of creatures, it affects them first and foremost and then is applied to the closest valid target until it affects the proper number of creatures. This cannot affect a spell of a higher tier.
 
 If the spell check is a critical success and you know the spell, you get advantage on any save made against it.
 
@@ -3075,7 +3075,7 @@ Second list;
 
 **Casting Time**: 2 actions
 
-**Effect**: You loose magically created needles of no more than an inch in length out with incredible force. This is 15 yards in a line. It is up to 1 foot wide and 1 foot tall. Everything in the line is subject to a piercing attack, which is resolved in the order of nearest (to point of origin) to farthest. A creature or intervening object will protect a creature behind it, unless the attack against that creature/onject qualified to damage armor or was a critical success.
+**Effect**: You loose magically created needles of no more than an inch in length out with incredible force. This is 15 yards in a line. It is up to 1 foot wide and 1 foot tall. Everything in the line is subject to a piercing attack, which is resolved in the order of nearest (to point of origin) to farthest. A creature or intervening object will protect a creature behind it, unless the attack against that creature/object qualified to damage armor or was a critical success.
 
 If the spell check was a critical hit, a cone of effect can be super imposed with its origin point matching that of the line's. This cone is a number of feet equal to the spell's tier. It does not inflict a secondary attack against anything caught within both it and the line- but it can affect anything which was not already affected by the line.
 
@@ -3093,7 +3093,7 @@ If the spell check was a critical hit, a cone of effect can be super imposed wit
 
 **Effect**: You produce an unnaturally colored flame which does not seem to emit light. You may psychically move this flame during each movement phase up to a number of yards equal to the spell's tier. You may also use your reaction to move the spell a number of yards equal to the tier + your [Magic] bonus. The flame must remain in range of you, and you must maintain concentration on it, or it ceases to exist.
 
-The flame is not automatically snuffed out by water or other liquids, but can be extinquished by light. If it is exposed to fair light for a number of consecutive phases equal to the spell's tier- it is extinquished. Each phase in bright light is treated as 1d4 phases.
+The flame is not automatically snuffed out by water or other liquids, but can be extinguished by light. If it is exposed to fair light for a number of consecutive phases equal to the spell's tier- it is extinguished. Each phase in bright light is treated as 1d4 phases.
 
 If the flame is directed into an object or creature, it inflicts a fire attack.
 
@@ -3109,7 +3109,7 @@ If the flame is directed into an object or creature, it inflicts a fire attack.
 
 **Effect**: You direct concentrated scent of an unknown nature around you, extending out 1 yard, and directed away from you in a 4 yard cone. Everything caught within the area (including yourself) must succeed a [Rflx] or [Fort] save, whichever is lower for that creature, or become incapable of smelling anything at all for a number of minutes equal to the points of failure. The DV is equal to the spellcheck result + spell tier. A critical failure causes the creature to also be dazed for a number of phases equal to the points of failure as a result of the overwhelming sensation.
 
-If the caster has a handful of matter (solid,liquid/gaseos) in their hand or a container in their possession when casting the spell, they may have it consumed by the spell to cause the smell generated to be that of the material. Regardless, the scent of the spell itself is detectable for a number of hours equal to 2+spell tier.
+If the caster has a handful of matter (solid, liquid, or gases) in their hand or a container in their possession when casting the spell, they may have it consumed by the spell to cause the smell generated to be that of the material. Regardless, the scent of the spell itself is detectable for a number of hours equal to 2+spell tier.
 
 A critical success with the spellcheck prevents the caster from blasting themselves with the overwhelming scent.
 
@@ -3144,7 +3144,7 @@ A critical success with the spellcheck prevents the caster from blasting themsel
 
 **Duration**: A number of rounds equal to 3 + spell tier
 
-**Effect**: You produce a 2 yard diameter sphere of mist. At the end of each phase, the mist spreads out 1 foot in all directions. Attacks made by creatures in the mist which rely on sight have disadvantage. Everying within the mist has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the mist suffer a 1d6 penalty. Creatures in the mist have disadvantage on all saves. Attempts to heal wounds or restore hitpoints have a percentage chance to fail in the mist equal to the spell's tier. Additionally, any time a creature would restore points of undeath 8n the mist, the recovered points are reduced by the spell's tier.
+**Effect**: You produce a 2 yard diameter sphere of mist. At the end of each phase, the mist spreads out 1 foot in all directions. Attacks made by creatures in the mist which rely on sight have disadvantage. Everything within the mist has its cover doubled and then gain an additional quarter coverage. Ranged attacks made from, into, or through the mist suffer a 1d6 penalty. Creatures in the mist have disadvantage on all saves. Attempts to heal wounds or restore hitpoints have a percentage chance to fail in the mist equal to the spell's tier. Additionally, any time a creature would restore points of undeath in the mist, the recovered points are reduced by the spell's tier.
 
 The mist lasts for a number of rounds equal to the spellcheck's result multiplied by the spell's tier. 
 
@@ -3181,11 +3181,11 @@ The forcefield prevents contact between the creature and anything else. The cast
 
 **Duration**: Minutes equal to the spell's tier
 
-**Effect**: You create a sphere whose appearence is at your discretion on a surface you can touch. The size of this sphere is at least 1 foot in diameter, but can be up to a number of feet equal to the spell's tier + [Magic] bonus. This sphere moves in a direction of your choice at a speed of at least 2 yards per move, but no greater then a number of yards equal to the tier of the spell. If the surface bends more than 45 degrees, the sphere "drops" from the surface (having lost its grip) or impacts (if it is already rolling on the ground). The sphere leaves a trail of mucous everywhere it goes. Once the sphere impacts against something, it implodes. This spews acid everywhere for a number of yards equal to spell tier + 1d3. This acid has disadvantage on creatures with the Mucous feature. If the sphere never impacts, it never implodes and simply leaves that mucous behind.
+**Effect**: You create a sphere whose appearance is at your discretion on a surface you can touch. The size of this sphere is at least 1 foot in diameter, but can be up to a number of feet equal to the spell's tier + [Magic] bonus. This sphere moves in a direction of your choice at a speed of at least 2 yards per move, but no greater then a number of yards equal to the tier of the spell. If the surface bends more than 45 degrees, the sphere "drops" from the surface (having lost its grip) or impacts (if it is already rolling on the ground). The sphere leaves a trail of mucous everywhere it goes. Once the sphere impacts against something, it implodes. This spews acid everywhere for a number of yards equal to spell tier + 1d3. This acid has disadvantage on creatures with the Mucous feature. If the sphere never impacts, it never implodes and simply leaves that mucous behind.
 
 On a critical success with your spellcheck, you may have the spell end at a set time before the normal end of duration, deciding so before the sphere begins to travel.
 
-An attack on the sphere is successful with an attack total of 5 or mroe and will cause it to explode, spewing acid against everything within a number of feet equal to spell tier + 1d4.
+An attack on the sphere is successful with an attack total of 5 or more and will cause it to explode, spewing acid against everything within a number of feet equal to spell tier + 1d4.
 
 **At Higher Tiers**: The benefits for higher tiers is noted above.
 
@@ -3201,12 +3201,12 @@ An attack on the sphere is successful with an attack total of 5 or mroe and will
 
 **Effect**: Select an exotic damage type. You create 2 glowing motes that orbit around you in swirling patterns. Each mote produces dim light out for an inch, just enough for them to be visible in the dark but not enough to see anything else. For the duration of the spell, when you are attacked you may use your reaction to do one of the following;  
 * Attempt to reduce the impact with a mote. The mote provides a 1d4 bonus to defense- which is increased to 1d6 against attacks of the same type (the type you selected when casting the spell).
-* Attempt to retialiate with a mote, flinging it at the source of that attack if it is within 10 yards.
-* Detonate a mote, casuing an explosion that inflicts an attack against all within 1 foot (including yourself). You gain a bonus to defense against the attack equal to the spell's tier.
+* Attempt to retaliate with a mote, flinging it at the source of that attack if it is within 10 yards.
+* Detonate a mote, causing an explosion that inflicts an attack against all within 1 foot (including yourself). You gain a bonus to defense against the attack equal to the spell's tier.
 
 Additionally, while brawling with a foe, you may have the mote inflict a normal attack or detonate as above by using your reaction. The single attack suffers a penalty for brawling but not the attack from the explosion.
 
-When the duration expires, the motes fade from existance. When a mote is used, it ceases to be.
+When the duration expires, the motes fade from existence. When a mote is used, it ceases to be.
 
 **At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose one of the following;  
 * The duration is increased by 5 rounds
@@ -3238,7 +3238,7 @@ When the duration expires, the motes fade from existance. When a mote is used, i
 
 **Range**: 20 yards
 
-**Effect**: You cause all the heat to dissipate from a point you deisgnate within range. This is a sphere with a radius in feet equal to to 3 + spell tier. All nonmagical liquids within the area freeze immediately and a cold attack is inflicted against each creature within the sphere.You then may choose to either return the thermal energy or not. If you do, inflict a fire attack against each creature within the area. This does not inflict the traditional critical hit effect and instead reduce that creature's remaining hitpoints (if it has any) by 1. If the heat is not returned, a cold attack is inflicted instead, though its critical hit effect is also replaced.
+**Effect**: You cause all the heat to dissipate from a point you designate within range. This is a sphere with a radius in feet equal to to 3 + spell tier. All nonmagical liquids within the area freeze immediately and a cold attack is inflicted against each creature within the sphere. You then may choose to either return the thermal energy or not. If you do, inflict a fire attack against each creature within the area. This does not inflict the traditional critical hit effect and instead reduce that creature's remaining hitpoints (if it has any) by 1. If the heat is not returned, a cold attack is inflicted instead, though its critical hit effect is also replaced.
 
 If the spellcheck is a critical success, the initial attack gains a bonus equal to your [Magic] bonus for the purpose of inflicting a critical hit. You may also choose to unfreeze the liquids if heat is returned.
 
@@ -3327,9 +3327,9 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 
 **Duration**: 1 minute
 
-**Effect**: You conjure spirits to haunt an area of no more than 50 cubic yards. Any creature within the area that is afflicted by Archeblight has its movement speeds divided by the tier of the spell and has a penalty to all saves against magic equal to their spell sickness. Additionally  ki attacks have advantage against all creatures in the area which are afflicted by Archeblight. All other creatures have their movement speed halved in the area.
+**Effect**: You conjure spirits to haunt an area of no more than 50 cubic yards. Any creature within the area that is afflicted by Archeblight has its movement speeds divided by the tier of the spell and has a penalty to all saves against magic equal to their spell sickness. Additionally, ki attacks have advantage against all creatures in the area which are afflicted by Archeblight. All other creatures have their movement speed halved in the area.
 
-**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double the duration or increase the maximimum volume by half.
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either double the duration or increase the maximum volume by half.
 
 **Critical Failure**: You produce such an area but it is centered on you. You cannot escape the mire during this time.
 
@@ -3353,7 +3353,7 @@ The chain can also be used as a rope. It has a strength equal to the spellcheck 
 
 **Casting Time**: 1 reaction, which you make to failing an incapacitation save
 
-**Effect**: You rise to stand in an explosion of flame, inlicting a fire attack against everything else within 5 yards. You function as though you weren't incapacitated regardless of whether you would have been or not. Anything which inflicts an attack against you from within 1 yard receives a fire attack. You gain a fly speed equal to the spell's tier doubled plus the number of wounds you have. You may use your action or reaction to inflict a fire attack against a creature you can perceive within 25 yards.
+**Effect**: You rise to stand in an explosion of flame, inflicting a fire attack against everything else within 5 yards. You function as though you weren't incapacitated regardless of whether you would have been or not. Anything which inflicts an attack against you from within 1 yard receives a fire attack. You gain a fly speed equal to the spell's tier doubled plus the number of wounds you have. You may use your action or reaction to inflict a fire attack against a creature you can perceive within 25 yards.
 
 You continue for a number of rounds equal to the spell's tier. If the spellcheck was a critical success, this is extended by your [Magic] bonus. When it ends, you explode in flames- inflicting a fire attack against everything within a number of yards equal to the spell's tier squared. You cannot cast the spell again before completing a full rest.
 
@@ -3375,7 +3375,7 @@ You continue for a number of rounds equal to the spell's tier. If the spellcheck
 
 So long as you are concentrating on the spell, you may expend an action or reaction to move the pillar up to a number of yards equal to the spell's tier.
 
-Anytime the pillar comes in contact with something, it inflicts a fire attack. Additionally, if a creature ends a phase completely within its boundries, that creature suffers a fire attack with a bonus equal to the spell's tier.
+Anytime the pillar comes in contact with something, it inflicts a fire attack. Additionally, if a creature ends a phase completely within its boundaries, that creature suffers a fire attack with a bonus equal to the spell's tier.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may increase the size of the cylinder base and its height by 1 yard.
 
@@ -3395,7 +3395,7 @@ Anytime the pillar comes in contact with something, it inflicts a fire attack. A
 
 So long as you are concentrating on the spell, you may expend an action or reaction to move the pillar up to a number of yards equal to the spell's tier.
 
-Anytime the pillar comes in contact with something, it must succeed a [Body] save with a DV equal to the spellcheck + double the spell's tier or be knocked back a number of yards equal to the points of failure. A critical failure will also knock the creature prone. Additionally, if a creature ends a phase completely within its boundries, that creature suffers a cutting attack.
+Anytime the pillar comes in contact with something, it must succeed a [Body] save with a DV equal to the spellcheck + double the spell's tier or be knocked back a number of yards equal to the points of failure. A critical failure will also knock the creature prone. Additionally, if a creature ends a phase completely within its boundaries, that creature suffers a cutting attack.
 
 Nothing can be seen through the pillar and non-magical ranged attacks are stopped by it.
 
@@ -3415,7 +3415,7 @@ Anything within 30 yards suffers a penalty to [Prcp] checks/saves as the whippin
 
 **Effect**: You conjure an unstable source of energy and direct it as a ray at a foe within range. This inflicts a radiant attack against the target. If the attack is a critical hit, it also inflicts the critical hit effect of an electric attack and a fire attack.
 
-**At Higher Tiers**: Each tier beyond minimum lets you either grant the attck a +1 bonus or grant it a +2 bonus for the purpose of inflicting a critical hit.
+**At Higher Tiers**: Each tier beyond minimum lets you either grant the attack a +1 bonus or grant it a +2 bonus for the purpose of inflicting a critical hit.
 
 **Critical Failure**: The conjured plasma is unstable, inflicting a a radiant attack against you and an additional attack. If the additional attack roll is even, its an electric attack. If odd, its a fire attack. The radiant attack gains a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
 
@@ -3429,10 +3429,10 @@ Anything within 30 yards suffers a penalty to [Prcp] checks/saves as the whippin
 
 **Duration**: 1 hour
 
-**Effect**: After a minute of time has passed since the spell was cast, the target must perform a [Prcp] save with a DV of 10 + points of spellcheck success + spell tier. If failed (but not critically failed), they see something out of the corner of their eye. This repeats every minute for the duration of the spell. Next time they interact with a creature, this spell is transfered to that creature. The spell can continue to transfer, but requires its current subject to perform a [Prcp] save (either as a result of this spell or otherwise) before it can be transfered again.  
-If the spellcheck is a critical success, the spell isn't transfered but instead duplicated to that creature.
+**Effect**: After a minute of time has passed since the spell was cast, the target must perform a [Prcp] save with a DV of 10 + points of spellcheck success + spell tier. If failed (but not critically failed), they see something out of the corner of their eye. This repeats every minute for the duration of the spell. Next time they interact with a creature, this spell is transfered to that creature. The spell can continue to transfer, but requires its current subject to perform a [Prcp] save (either as a result of this spell or otherwise) before it can be transferred again.  
+If the spellcheck is a critical success, the spell isn't transferred but instead duplicated to that creature.
 
-If a creature has a critical success with their save, they no longer are subject to further saves from the spell but can still have it transfered/duplicated from themself.
+If a creature has a critical success with their save, they no longer are subject to further saves from the spell but can still have it transfered/duplicated from themselves.
 
 A creature affected this way can see the effects of a Hypoaftepathy spell as a result of their save if it is a success (but not a critical success) and the narrator deems it is reasonable to do so.
 
@@ -3441,7 +3441,7 @@ A creature affected this way can see the effects of a Hypoaftepathy spell as a r
 * Increase range by 3 yards
 * Increase the duration by half an hour
 
-**Critical Failure**: You are being watched. You have disadvantage on [Empy] checks and saves and counterspell checks so long as you still have spell sickness. You also have disadvantage on saves against illusiry effects during this time.
+**Critical Failure**: You are being watched. You have disadvantage on [Empy] checks and saves and counterspell checks so long as you still have spell sickness. You also have disadvantage on saves against illusory effects during this time.
 
 #### Poison Nova
 
@@ -3453,7 +3453,7 @@ A creature affected this way can see the effects of a Hypoaftepathy spell as a r
 
 A critical success with the spell check will also cause the force attack to inflict knockback in half-feet equal to the attack total against that creature.
 
-**At Higher Tiers**: When cast at 4th tier or higher, in addition to the benefits noted above, the toxic attack gains a bonus for each tier beyond 3rd for the purpose of influcting a critical hit.
+**At Higher Tiers**: When cast at 4th tier or higher, in addition to the benefits noted above, the toxic attack gains a bonus for each tier beyond 3rd for the purpose of inflicting a critical hit.
 
 **Critical Failure**: You seem to have poisoned yourself in a strange manner. At the end of each round for a number of rounds equal to the spell's tier, an unlisted attack is inflicted against your [Fortitude]. A critical hit will inflict a toxic attack against your [Fort].
 
@@ -3465,7 +3465,7 @@ A critical success with the spell check will also cause the force attack to infl
 
 **Range**: 5 yards
 
-**Effect**: You open or close a portal (a door, window, container, etc) of a non-magical nature. You may lock/unlock any number of non-magical locks attached to the portal. A barre (or other lock which can run the entiry of one of the portal's dimensions) cannot be affected by this spell.
+**Effect**: You open or close a portal (a door, window, container, etc) of a non-magical nature. You may lock/unlock any number of non-magical locks attached to the portal. A barre (or other lock which can run the entirety of one of the portal's dimensions) cannot be affected by this spell.
 
 **At Higher Tiers**: If cast as second tier or beyond, you may lock/unlock any number of barres to the door. The spell can undo a magical lock of a spell whose tier is half or less of this spell's. Each tier beyond 1st also doubles the range of the spell.
 
@@ -3500,7 +3500,7 @@ A mindless creature is immune to this, but you will learn of its mindless nature
 
 **Range**: 15 yards
 
-**Effect**: You attempt the difficult task of seperating a creature's very consciousness temporarily, an art not easily mastered nor ever recommended. Target must succeed an [Inte] save or become dazed for a number of rounds equal to half of the points of failure. On a critical failure, the creature becomes Mindless° for a number of rounds equal to the spell's tier before becoming dazed.  
+**Effect**: You attempt the difficult task of separating a creature's very consciousness temporarily, an art not easily mastered nor ever recommended. Target must succeed an [Inte] save or become dazed for a number of rounds equal to half of the points of failure. On a critical failure, the creature becomes Mindless° for a number of rounds equal to the spell's tier before becoming dazed.  
 
 You may cast this on a creature that is already mindless. If it critically fails the save, it forgets any orders it had received and cannot receive any for a number of rounds equal to the spell's tier.
 
@@ -3523,7 +3523,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
 
-**Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic conncetion. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
+**Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic connection. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
 
 #### Puncture
 
@@ -3610,7 +3610,7 @@ If the spellcheck is a critical success, the creature will always know the direc
 
 **Duration**: 5 rounds
 
-**Effect**: You surround your fists (or some oher part of your body) so that it exhudes magical energy. Choose a means of unarmed attack to be affected by this spell. Attacks made by that means can be treated as magical for the purpose of overcoming protective features. Additionally, you choose a damage type when casting this spell. When making an attack roll with the unarmed attack, if the attack roll result is odd, it is treated as the selected damage type. Regardless, a critical hit will always apply the standard effect of the unarmed attack and that of the chosen damage type.
+**Effect**: You surround your fists (or some other part of your body) so that it exudes magical energy. Choose a means of unarmed attack to be affected by this spell. Attacks made by that means can be treated as magical for the purpose of overcoming protective features. Additionally, you choose a damage type when casting this spell. When making an attack roll with the unarmed attack, if the attack roll result is odd, it is treated as the selected damage type. Regardless, a critical hit will always apply the standard effect of the unarmed attack and that of the chosen damage type.
 
 You cannot use items with any body part affected this way.
 
@@ -3626,21 +3626,21 @@ You cannot use items with any body part affected this way.
 
 **Range**: 5 yards
 
-**Effect**: You summon a bright shimmoring wall wall between 2 inches and 1 foot thick, up to 10 feet high, and up to 25 feet wide. The barrier does not impose itself into or through any object which was already in place when the wall materializes. It produces bright light out for 3 yards, fair light for 2 yards beyond that, and dimlight for 1 yard beyond that. The wall itself is so intense in its brightness that it cannot be seen through. Any creature which attempts to pass through the barrier is subject to a rafiant attack. A success does not inflict a wound, and instead prevents a creature from moving past the barrier.
+**Effect**: You summon a bright shimmoring wall wall between 2 inches and 1 foot thick, up to 10 feet high, and up to 25 feet wide. The barrier does not impose itself into or through any object which was already in place when the wall materializes. It produces bright light out for 3 yards, fair light for 2 yards beyond that, and dimlight for 1 yard beyond that. The wall itself is so intense in its brightness that it cannot be seen through. Any creature which attempts to pass through the barrier is subject to a radiant attack. A success does not inflict a wound, and instead prevents a creature from moving past the barrier.
 
 The barrier lasts as long as you concentrate on it plus an additional number of phases equal to the spell tier. If the spellcheck was a critical success  it lasts a gurther number of phases equal to your [Magic] bonus.
 
-**At Higher Tiers**: When cast at 3rd tier or greater for each tier beyond 2nd, the width and height of the wall can each be inscreased by 1 yard.
+**At Higher Tiers**: When cast at 3rd tier or greater for each tier beyond 2nd, the width and height of the wall can each be increased by 1 yard.
 
 **Critical Failure**: You see the brightest light you will ever know, in a color your eyes have never been able to see before. You receive a number of radiant attacks equal to the spell's tier, which each gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. In place of standard wounds, you receive an instance of archeblight.
 
 #### Regeneration
 
-**Minimum Tier**: 5
+**Minimum Tier**: 6
 
 **Casting Time**: 10 minutes
 
-**Effect**: You touch a creature which has remained within a yard of you the entire time you cast the spell. It performs an incapacitation save which gains a bonus equal to the number of remaining hitpoints it currently has divided by the number of wounds it currently has. If the check is succesful, you heal a wound of your choice from the creature. If it is a critical success, it also recovers a hitpoint or an instance of hemorhaging (your choice as caster).  
+**Effect**: You touch a creature which has remained within a yard of you the entire time you cast the spell. It performs an incapacitation save which gains a bonus equal to the number of remaining hitpoints it currently has divided by the number of wounds it currently has. If the check is successful, you heal a wound of your choice from the creature. If it is a critical success, it also recovers a hitpoint or an instance of hemorrhaging (your choice as caster).  
 Failure on the save does not harm the creature in anyway, but a critical failure prevents the creature from being affected by another Regeneration from the same caster of an equal or lower tier in the same day.
 
 **At Higher Tiers**: For every tier beyond minimum, the save is made with a +1 bonus and increases the casting time by 1 minute.
@@ -3661,7 +3661,7 @@ Failure on the save does not harm the creature in anyway, but a critical failure
 
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by half an hour (before dividing per the spell tier) or have the range is increased by 5 yards.
 
-**Critical Failure**: You accidentally effect yourself, but suffer a level of fatigue in the process.
+**Critical Failure**: You accidentally affect yourself, but suffer a level of fatigue in the process.
 
 #### Resend
 
@@ -3691,7 +3691,7 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 
 **At Higher Tiers**: If cast at 2nd tier or higher, for each tier beyond minimum, the maximum weight of a weapon which may be produced by the spell is increased by 2 pounds.
 
-**Critical Failure**: You fail to properly draw the disapating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
+**Critical Failure**: You fail to properly draw the dissipating energy of the attack. Instead, for a number of rounds equal to the spell's tier, attacks of that type gain advantage against you.
 
 #### Return Life
 
@@ -3701,9 +3701,9 @@ A critical success allows you to create a thrown weapon or piece of munition ins
 
 **Range**: 1 yard
 
-**Effect**: You seek to bring to life a creature within range that has been dead for no more phases than the spell's tier squared (upon completion of the spell, not commencing of it). It is restored to life with wounds and conditions it had before (such as spell sickness, hermorrhage, fatigue, etc) but is considered stable for the purpose of determining if it needs to make incapacitation saves. It must make a [Will] save and a [Fort] save. Both saves have a DV equal to the number of whole rounds the creature had been dead. 
+**Effect**: You seek to bring to life a creature within range that has been dead for no more phases than the spell's tier squared (upon completion of the spell, not commencing of it). It is restored to life with wounds and conditions it had before (such as spell sickness, hemorrhage, fatigue, etc) but is considered stable for the purpose of determining if it needs to make incapacitation saves. It must make a [Will] save and a [Fort] save. Both saves have a DV equal to the number of whole rounds the creature had been dead. 
 
-A critical success with the [Will] save will grant it a bonus equal to the spell's tier to saves against fear effects for a number of days equal to the spellcheck's points of success as the creature grapples with a feeling of nesr immortality as death's certainty is made ill proven. A failure with the [Will] save will daze the creature for a number of rounds equal to the points of failure as its senses return to it. A critical failure also dazes, but causes the creature to suffer disadvantage on all saves against fear effects and [Prcp] saves and checks for a number of days equal to the total number of phases it was dead as it struggles to grasp the reality of what has occured and feels an overwhelming paranoia.
+A critical success with the [Will] save will grant it a bonus equal to the spell's tier to saves against fear effects for a number of days equal to the spellcheck's points of success as the creature grapples with a feeling of nesr immortality as death's certainty is made ill proven. A failure with the [Will] save will daze the creature for a number of rounds equal to the points of failure as its senses return to it. A critical failure also dazes, but causes the creature to suffer disadvantage on all saves against fear effects and [Prcp] saves and checks for a number of days equal to the total number of phases it was dead as it struggles to grasp the reality of what has occurred and feels an overwhelming paranoia.
 
 A critical success with the [Fort] save grants advantage on the next incapacitation save it would make before the end of the next round. A failure causes the creature to be prone, as it struggles with its motor skills, for a number of rounds equal to the points of failure. A critical failure causes it to also be vulnerable during this time.
 
@@ -3725,7 +3725,7 @@ If the caster has already cast this spell successfully, they will continue to fe
 
 **Effect**: You draft glowing runes into the air as an expression of your magical powers. These runes hover about you for the duration of the spell. While accompanied by the runes, you gain a bonus to all Spellcraft checks equal to the spell's tier. Additionally, you may rearrange the runes to produce one of the following effects. If you do, they disappear into a momentary flash of light as the spell ends prematurely.
 
-***Slow***. You attempt to hold a creature's movements within 10 yards as a reaction. Its movement speed is halved (including fall apeed and knockback effects) until end of round.
+***Slow***. You attempt to hold a creature's movements within 10 yards as a reaction. Its movement speed is halved (including fall speed and knockback effects) until end of round.
 
 ***Restrain***. You cause the runes to adhere to a creature within 15 yards until end of round as an action, causing it to be prone and have disadvantage on brawl checks during this time.
 
@@ -3735,7 +3735,7 @@ If the caster has already cast this spell successfully, they will continue to fe
 
 **At Higher Tiers**: When cast at 2nd tier or higher, you may choose to either increase the duration by a minute or reduce the casting time by 1 action. Additionally, for every two tiers beyond 1st, the casting time is reduced by 1 action. The casting time cannot be reduced below 1 action.
 
-**Critical Failure**: You draw tour runes but find they do not maintain their shape and instead surround you. You are prone until end of round and are afflicted by a random exotic attack. You also receive additional spwll sickness equal to half (round down) of the spell's tier.
+**Critical Failure**: You draw your runes but find they do not maintain their shape and instead surround you. You are prone until end of round and are afflicted by a random exotic attack. You also receive additional spell sickness equal to half (round down) of the spell's tier.
 
 #### Roaring Arrow
 
@@ -3751,7 +3751,7 @@ If the spellcheck was a critical success and you have any training with bows/cro
 
 **At Higher Tiers**: When cast at 3rd tier, for each tier beyond 2nd, you may either loose an additional missile or reduce the casting time by 1 action (to a minimum of 1 action). Each missile must have a different target.
 
-**Critical Failure**: You inflict a splinterous explosion in front of you. This influcts a pircing attack and fire attack against you. Each gains a bonus equal to half of the spell's tier for the purpose of inflicting a critical hit. This destroys the missile you were to use for the spell.
+**Critical Failure**: You cause a splintery explosion in front of you. This inflicts a piercing attack and fire attack against you. Each gains a bonus equal to half of the spell's tier for the purpose of inflicting a critical hit. This destroys the missile you were to use for the spell.
 
 #### Rockslide
 
@@ -3770,7 +3770,7 @@ If the spellcheck was a critical success and you have any training with bows/cro
 * Increase the number of attacks by 1
 * Increase the radius of the circle by 2 yards.
 
-Additionaly, for every two tiers beyond 5th, the number of attacks (before being divided) may be 8ncreased by 1.
+Additionally, for every two tiers beyond 5th, the number of attacks (before being divided) may be increased by 1.
 
 **Critical Failure**: The spell's area instead becomes centered on you, with the extra attack from a fraction being allocated to you. The attacks of this spell gain a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit.
 
@@ -3786,7 +3786,7 @@ Additionaly, for every two tiers beyond 5th, the number of attacks (before being
 
 **At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards.
 
-**Critical Failure**: You words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
+**Critical Failure**: Your words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
 ### S (26
 
@@ -3837,10 +3837,10 @@ You may designate a material. A creature may use this material to dispel the cir
 If you can perceive it, you may use your action to guide it up to a number of feet equal to the spell's tier. You may also use your action to "set" it, causing it to fire on the next thing to enter its range or to move within its range (your choice). Such a thing must be illuminated in at least dim light to be visible to the sphere. It will ignore you for this purpose.
 
 If the spellcheck was a critical success, you may have the sentinel gain an additional effect depending on the damage type you chose.  
-* Acid: Anything below the sentinel is subjact to an acid attack at the end of each round as acid rythmically drips from the sphere. When the spell ends, you may have the sentinel explode, inflicting an acid attack against anyting within a number of half-feet equal to the spell's tier.
+* Acid: Anything below the sentinel is subject to an acid attack at the end of each round as acid rhythmically drips from the sphere. When the spell ends, you may have the sentinel explode, inflicting an acid attack against anything within a number of half-feet equal to the spell's tier.
 * Cold: Instead of potentially damaging armor, the sentinel's attack freezes a foe for a number of phases equal to the spell's tier -1.
 * Cutting: The sphere can also attack in melee. When it does so, blades spin around it to inflict a cutting attack against everything within a number of half-feet equal to the spell's tier.
-* Electric: Instead of potentially damaging armo, the attack arcs, inflicting an electric attack against the nearst creature within a number of yards equal to the spell's tier- even if it is not illuminated. A creature struck by any attack from this sentinel, including an arced attack, cannot be struck by an arced attack in the same phase.
+* Electric: Instead of potentially damaging armo, the attack arcs, inflicting an electric attack against the nearest creature within a number of yards equal to the spell's tier- even if it is not illuminated. A creature struck by any attack from this sentinel, including an arced attack, cannot be struck by an arced attack in the same phase.
 * Fire: The sentinel puts out light like a torch. When the spell ends, you may have it explode. Anything within 1 foot must succeed a [Rflx] save with DV of 10+spell tier or be set ablaze as though by a critical hit from a fire attack.
 * Force: A struck creature is knocked back a number of half-feet equal to the spell's tier +1.
 * Piercing: The attacks of the sentinel can pierce through a struck foe in a straight line, potentially hitting other creatures.
@@ -3859,7 +3859,7 @@ If the spellcheck was a critical success, you may have the sentinel gain an addi
 
 **Duration**: 4 hours
 
-**Effect**: You produce a trap at a point within 1 yard that you deignate. The traps area will contain the trigger. The trigger's area is half of the trap's range. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presnce of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it projects magically created blades out in the appointed shape. The trap then disappears. The trap will inflict thrown blades within the appropriate shape.
+**Effect**: You produce a trap at a point within 1 yard that you designate. The traps area will contain the trigger. The trigger's area is half of the trap's range. This trigger may be set to activate based on visual changes (such as light changing), sound, or the presence of a creature. Additionally you may set the trap to delay its activation by a number of rounds up to its tier. Once the trap itself activates, it projects magically created blades out in the appointed shape. The trap then disappears. The trap will inflict thrown blades within the appropriate shape.
 
 The trap is a 20 yard mikrofan traditionally, but alternatives are available;  
 * 18 yard minifan
@@ -3920,7 +3920,7 @@ This spell lasts for as long as the caster concentrates, 0lus a number of minute
 
 **At Higher Tiers**: The benefits for casting at higher tiers is noted above.
 
-**Critical Failure**: You lose function of the eye you chose and will begin to hallucinate warped visions influenced by what the other creature sees, resulting in disadvantage on [Prcp] checks and saves as long as you still have spell aickness.
+**Critical Failure**: You lose function of the eye you chose and will begin to hallucinate warped visions influenced by what the other creature sees, resulting in disadvantage on [Prcp] checks and saves as long as you still have spell sickness.
 
 #### Silent Alarm
 
@@ -3952,11 +3952,11 @@ This spell last a day.
 
 If the spellcheck was a critical success, you may have it originate at a point within a number of yards up to the spell's tier. It will not effect you regardless.
 
-Narural winds cannot penetrate the spell's area. If the spellcheck is a critical success, the effects of winds and gasses/vapors of a lower tier which would enter the area are also nullified.
+Natural winds cannot penetrate the spell's area. If the spellcheck is a critical success, the effects of winds and gasses/vapors of a lower tier which would enter the area are also nullified.
 
 **At Higher Tiers**: When cast at 6th tier or higher, for each tier beyond minimum, in addition to the benefits noted above- you may increase the length of the area by 3 yards.
 
-**Critical Failure**: You produce the whirlwind as normal, but it willl affect you as it would any other creature except the attacks gain a bonus against you equal to rhe spell's tier for the purpose of inflicting a critical hit. It will last for a number of phases eaual to the points of failure.
+**Critical Failure**: You produce the whirlwind as normal, but it will affect you as it would any other creature except the attacks gain a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit. It will last for a number of phases equal to the points of failure.
 
 #### Sludgery
 
@@ -3988,7 +3988,7 @@ Narural winds cannot penetrate the spell's area. If the spellcheck is a critical
 
 **Casting Time**: 3 Actions
 
-**Effect**: You project a wave of phantasmal energy 10 yards in a line. It is up to .5 foot wide and 1 yard tall. Everything in the line is subject to a necrotic attack, which is resolved in the order of nearest (to point of origin) to farthest. For each creature other than one of an exlcuded type mentioned below which has been successfully wounded by this spell, the attack gains a +1 bonus. A creature killed as a result of this spell (including a failed incapacitation save caused by the spell) provides a further +1 to further attacks in the same instance of this spell. A creature of undeath successfully struck by this spell loses additional points of undeath equal to the spell's tier.
+**Effect**: You project a wave of phantasmal energy 10 yards in a line. It is up to .5 foot wide and 1 yard tall. Everything in the line is subject to a necrotic attack, which is resolved in the order of nearest (to point of origin) to farthest. For each creature other than one of an excluded type mentioned below which has been successfully wounded by this spell, the attack gains a +1 bonus. A creature killed as a result of this spell (including a failed incapacitation save caused by the spell) provides a further +1 to further attacks in the same instance of this spell. A creature of undeath successfully struck by this spell loses additional points of undeath equal to the spell's tier.
 
 Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead. These creatures still suffer an attack (with any accrued bonuses) but do not contribute any additional bonus to further attacks from the spell, even if destroyed this way.
 
@@ -4004,11 +4004,11 @@ Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead.
 
 **Range**: 5 yards
 
-**Effect**: You produce a striking spray of radiant color, inflicting a radiant attack against the foe. On a critical hit, you may have the target emit light like a torch for a number of rounds equal to the points of success. A foe emitting light this way cannot be hidden in any visual manner, including invisbility. Furthermore, your attacks against that foe gain a +1 bonus while they glow in this manner. You may choose the color of the struck foe's glow when they are hit.
+**Effect**: You produce a striking spray of radiant color, inflicting a radiant attack against the foe. On a critical hit, you may have the target emit light like a torch for a number of rounds equal to the points of success. A foe emitting light this way cannot be hidden in any visual manner, including invisibility. Furthermore, your attacks against that foe gain a +1 bonus while they glow in this manner. You may choose the color of the struck foe's glow when they are hit.
 
 **At Higher Tiers**: For each tier beyond minimum, you gain a +1 bonus to your attack.
 
-**Critical Failure**: You produce a flash of light, blinding yourself until your spell sicknesss recovers. Additionally, you glow a shifting hue, as though you had been affected by the spell, for a number of minutes equal to the spell's tier. The hue varies as time goes on.
+**Critical Failure**: You produce a flash of light, blinding yourself until your spell sickness recovers. Additionally, you glow a shifting hue, as though you had been affected by the spell, for a number of minutes equal to the spell's tier. The hue varies as time goes on.
 
 #### Sphere of Oppressive Cold
 
@@ -4046,7 +4046,7 @@ Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead.
 
 **Duration**: 1 + [Magic] bonus minutes
 
-**Effect**: You project a strange foaming fluid in a 5 yard line, which is .5 foot high and wide. Choose two different exotic damage types, one for protection and one for vulnerability. Anything within the line is covered in a strange concoction of your making for the duration of the spell. Attacks of the type choosen for protection have disadvantage against someone covered. Attacks of the type chosen for vulnerability have advantage against something covered this way. You may choose to spray a cone instead of a line, ut this reduces the range to one third.
+**Effect**: You project a strange foaming fluid in a 5 yard line, which is .5 foot high and wide. Choose two different exotic damage types, one for protection and one for vulnerability. Anything within the line is covered in a strange concoction of your making for the duration of the spell. Attacks of the type choose n for protection have disadvantage against someone covered. Attacks of the type chosen for vulnerability have advantage against something covered this way. You may choose to spray a cone instead of a line, ut this reduces the range to one third.
 
 A critical success with the spell check will allow you to produce an additional line as an action so long as there is still duration to the spell.
 
@@ -4117,13 +4117,13 @@ If the spellcheck is a critical success, a targeted creature is unable to perfor
 
 **Duration**: Spellcheck result + spell tier rounds
 
-**Effect**: You produce a 1 yard diameter sphere of translucent fog or smoke which eminates from you. At the end of each phase, the fog spreads out 1 foot in all directions. Creatures which you are not familiar with where either breathe in the medium or are half in the medium are subject to a psychic attack at the end of the phase. This cannot affect mindless creatures, ephemera, or eldritch creatures.
+**Effect**: You produce a 1 yard diameter sphere of translucent fog or smoke which emanates from you. At the end of each phase, the fog spreads out 1 foot in all directions. Creatures which you are not familiar with where either breathe in the medium or are half in the medium are subject to a psychic attack at the end of the phase. This cannot affect mindless creatures, ephemera, or eldritch creatures.
 
 If the spellcheck was a critical success, the caster is aware of the location of any creature so affected by this spell.
 
 **At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, the caster may choose to have the fog/smoke manifest an additional foot outwards when the spell is cast or increase the maximum duration by 2 rounds.
 
-**Critical Failure**: The fog centers on you, inficting a psychic attack against you. If the attack would qualify to damage armor or the attack result is the same as the spell's tier- you accrue spell sickness equal to the spell's tier.
+**Critical Failure**: The fog centers on you, inflicting a psychic attack against you. If the attack would qualify to damage armor or the attack result is the same as the spell's tier- you accrue spell sickness equal to the spell's tier.
 
 #### Stupify
 
@@ -4145,7 +4145,7 @@ If the spellcheck was a critical success, the caster is aware of the location of
 
 **Casting Time**: 1 reaction, which you take in response to a creature you can perceive attempting to cast a spell
 
-**Effect**: You grant that creature such an insight into the terror of the magic's potential that it becomes overcome with fear. Anytime it attempts to cast that spell again, it must perform a [Will] save with a DV equal to triple the spell's minimum tier + double its intended tier. If the save is a critical success, the fear is entirely dispelled. If the spell is a success, they manage to keep themself together enough to cast the spell- but suffer disadvantage on the spellcheck. If the save is a failure, they fail to complete their spell. If the spell is a critical failure, they automatically suffer the critical failure effects of the spell instead of casting it and are considered to have points of failure on the spellcheck equal to the save's points of failure.  
+**Effect**: You grant that creature such an insight into the terror of the magic's potential that it becomes overcome with fear. Anytime it attempts to cast that spell again, it must perform a [Will] save with a DV equal to triple the spell's minimum tier + double its intended tier. If the save is a critical success, the fear is entirely dispelled. If the spell is a success, they manage to keep themselves together enough to cast the spell- but suffer disadvantage on the spellcheck. If the save is a failure, they fail to complete their spell. If the spell is a critical failure, they automatically suffer the critical failure effects of the spell instead of casting it and are considered to have points of failure on the spellcheck equal to the save's points of failure.  
 A creature affected by this fear also has disadvantage on saves against the spell and counterspell checks involving the spell.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to affect an additional creature you can perceive with the same fear or increase the save of the [Will] save by 2.
@@ -4198,7 +4198,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 3 yards. 
 
-**Critical Failure**: You fail to ground yourself aginst the charge of the tether, causing yourself to be afflicted by the attack instead. The attack gains a +1 bonus against you for each tier beyond first.
+**Critical Failure**: You fail to ground yourself against the charge of the tether, causing yourself to be afflicted by the attack instead. The attack gains a +1 bonus against you for each tier beyond first.
 
 #### Synnefopothy
 
@@ -4243,7 +4243,7 @@ A creature must have remaining hitpoints to contribute to the perntage chance of
 
 **Effect**: You magically grasp an object weighing no more than 2 stones (28 pounds) within range. You can move it up to a number of feet equal to the spellcheck's points of success.
 
-You may concentrate on the spell, This allows you to move it on movement phases so long as you perform no other actions and maintain concentration. If an object is capable of moving or being moved this way, subtract the macimum distance you can move the object by an amount equal to that movemnt, but the other movement is not applied. If the other movement would be greater than the maximum movement you can move the object- your grasp is broken and you have no affect on the object.
+You may concentrate on the spell, This allows you to move it on movement phases so long as you perform no other actions and maintain concentration. If an object is capable of moving or being moved this way, subtract the maximum distance you can move the object by an amount equal to that movemnt, but the other movement is not applied. If the other movement would be greater than the maximum movement you can move the object- your grasp is broken and you have no affect on the object.
 
 A creature can be moved this way but counts as triple its weight.
 
@@ -4262,7 +4262,7 @@ If increasing the maximum weight of the object moved, the new weight maximum (me
 
 **Duration**: 1 Hour
 
-**Effect**: You touch a creature's mouth or other noise making orface. For the duration of the spell, you can hear any noise made from that orface as though it were right next to your ear. At any point, you may drop the spell's effect. Anytime you or the subject are wounded while the spell is active, there is a 5% chance the spell drops automatically.
+**Effect**: You touch a creature's mouth or other noise making oraface. For the duration of the spell, you can hear any noise made from that oraface as though it were right next to your ear. At any point, you may drop the spell's effect. Anytime you or the subject are wounded while the spell is active, there is a 5% chance the spell drops automatically.
 
 Clearly, a creature already incapable of hearing has no benefit from this spell.
 
@@ -4305,7 +4305,7 @@ While the lightning is channeled, you may loose a ray of charged energy at a foe
 
 While channeling the thunder, your unarmed attacks may be treated as force attacks. Anytime your attack would qualify to damage armor, you inflict a sonic attack against that foe. Anytime you are knocked back or fall, your impact will inflict a sonic attack against everything else within a range equal to your fall/knockback distance as a clap of thunder rolls outwards. Your jump distance is tripled.
 
-While channeling the tide, you gain a swim speed of 15 + spell tier yards and see any other means of swim speed you possessed increase by a number of yards equal to the spell's tier. All nonmagical attacks have disadvantage against you.
+While channeling the tide, you gain a swim speed of 15 + spell tier yards and see any other means of swim speed you possessed increase by a number of yards equal to the spell's tier. All non-magical attacks have disadvantage against you.
 
 **At Higher Tiers**: The benefits of casting at a higher tier are noted above.
 
@@ -4319,7 +4319,7 @@ While channeling the tide, you gain a swim speed of 15 + spell tier yards and se
 
 **Range**: 30 yards
 
-**Duration**: Up to a number of hours equal to the spellcheck result muliplied by the spell's tier.
+**Duration**: Up to a number of hours equal to the spellcheck result multiplied by the spell's tier.
 
 **Effect**: You create a field in the shape of either a 25 yard sphere or a cube whose sides each equal 15 yards. All matter within that space, living and inanimate, is cutoff from space and time itself. In its relative position, there is only a hardened dark void which cannot be penetrated. Light does not reflect on it. Nothing inside can be perceived, for nothing anything technically exists. There is an unusual coldness within 25 yards of it, causing cold and fire attacks to have advantage on creatures within that are. Aditionally, spellchecks made within 50 yards of the space have disadvantage.
 
@@ -4327,7 +4327,7 @@ If a creature would have been inside the space and too large to fit inside the s
 
 A creature which can perceive the area of the spell for a minute or so can make a Spellcraft check with a DV of 16 to identify the nature of the area. A spellcraft check made by a creature that knows this spell automatically succeeds and one by a creature which knows the temporialysis spell has advantage.
 
-Gold of .999 purity and weighing at least 1.5 ounces per spell tier which is in contact with the area of the spell and electrified will dispell its effect. When the spell ends, by this effect or otherwise, everything that was inside will seem to be completely undisturbed from the moment the spell took effect.
+Gold of .999 purity and weighing at least 1.5 ounces per spell tier which is in contact with the area of the spell and electrified will dispel its effect. When the spell ends, by this effect or otherwise, everything that was inside will seem to be completely undisturbed from the moment the spell took effect.
 
 **At Higher Tiers**: When cast at 7th tier or greater, for each tier beyond minimum, you may choose one of the following;
 * The spell's area is increased by 1/3
@@ -4349,7 +4349,7 @@ Gold of .999 purity and weighing at least 1.5 ounces per spell tier which is in 
 Improve the die level of the d6 by one.  
 THe caster may affect an additional creature through touch. The total time passed this way is divided by 1 + the total number of creatures affected this way.
 
-**Critical Failure**: The time that passess is multiplied by the points of failure. Additionally, you gain spell sickness eqal to the points of failure.
+**Critical Failure**: The time that passes is multiplied by the points of failure. Additionally, you gain spell sickness eqal to the points of failure.
 
 #### Theft of Essence
 
@@ -4415,7 +4415,7 @@ This spell is capable of binding ephemera. Undead, Fiends, and Ephemera have dis
 
 **Effect**: You cause some amount of metal whose total volume could fit within a cube whose total weight is X squared (where X is the spells tier -1), to soften. The material can be shaped like dough. It will gradually reharden. Alternatively, if the material to be affected is a creature composed of metal, inflict an undamaging attack against that creature. If successful, it becomes vulnerable for a number of rounds equal to the attack's points of success + spell's tier. If it is a critical hit, it treats its [Body] as being halved during this time and all attacks against it gain advantage during this time.
 
-Metal Armor affected by this becomes like gambeson until it rehardens. It can be warped while soft to inflict damage to the armor. Any damage done this way costs 1d2+1 times as much to repair. Metal weapons affected by this have disadvantage on their attack rolls.
+Metal Armor affected by this becomes like gambeson until it re-hardens. It can be warped while soft to inflict damage to the armor. Any damage done this way costs 1d2+1 times as much to repair. Metal weapons affected by this have disadvantage on their attack rolls.
 
 **At Higher Tiers**: These benefits are listed above.
 
@@ -4525,7 +4525,7 @@ The forcefield impairs senses.
 
 **Casting Time**: 10 actions
 
-**Effect**: A sphere of necromantic energy expands out 10 yards from yourself. This globe is an incorporeal entity with points of undeah equal to 25 + [Magic] bonus per spell tier. Being incorporeal, others may occupy the same space it does. Any creature† which attempts to enter the space of the globe must succeed a [Will] save with a DV of triple the spell's tier + your [Magic] bonus or fail to do so. Additionally, if such a cretaure attempts to enter the globe, the caster may use their reaction to preven them from doing so.
+**Effect**: A sphere of necromantic energy expands out 10 yards from yourself. This globe is an incorporeal entity with points of undeath equal to 25 + [Magic] bonus per spell tier. Being incorporeal, others may occupy the same space it does. Any creature† which attempts to enter the space of the globe must succeed a [Will] save with a DV of triple the spell's tier + your [Magic] bonus or fail to do so. Additionally, if such a cretaure attempts to enter the globe, the caster may use their reaction to prevent them from doing so.
 
 The globe can be destroyed as though it were a creature of undeath. Non-magical attacks must be made against the outer barrier of the globe itself to be effective. Magical atttacks passing through the barrier from outside are inflicted against the globe instead of their target. Other magical attacks against or through the space of the barrier function normally.
 
@@ -4551,13 +4551,13 @@ You may concentrate on this spell when you cast it, forfeiting actions to do so.
 
 **Duration**: As long as you concentrate on the spell, up to 5 rounds
 
-**Effect**: You reach out around you with unnatural power. For the duration of the spell, the aura moves with you at the center of it. At the end of each round, this spell inflicts a crushing attack against 3 creatures- The nearest creature to you in range, the heavist creature in range (other than you), and a creature of your choice within range. It is possible for two or three attacks from this spell to affect a creature.
+**Effect**: You reach out around you with unnatural power. For the duration of the spell, the aura moves with you at the center of it. At the end of each round, this spell inflicts a crushing attack against 3 creatures- The nearest creature to you in range, the heaviest creature in range (other than you), and a creature of your choice within range. It is possible for two or three attacks from this spell to affect a creature.
 
 This spell cannot affect ephemera.
 
 **At Higher Tiers**: Each tier beyond minimum sees the maximum number of rounds the aura can last increased by 1.
 
-**Critical Failure**: You produce the aura and do not need to concentrate on it for it to remain, although instead of geeting to choose a creature to attack, it will attack you. Additionally, if you are heavier than any other creature in range, that attack is inflicted against you. Furthermore, if no other creature is within range, another attack is inflicted against you. This can harm you even if you would otherwise be immune to crushing attacks.
+**Critical Failure**: You produce the aura and do not need to concentrate on it for it to remain, although instead of getting to choose a creature to attack, it will attack you. Additionally, if you are heavier than any other creature in range, that attack is inflicted against you. Furthermore, if no other creature is within range, another attack is inflicted against you. This can harm you even if you would otherwise be immune to crushing attacks.
 
 #### Unnatural Lightning
 
@@ -4571,9 +4571,9 @@ When you cast this spell, you may use your reaction to grant advantage on a sing
 
 If the spellcheck was a critical success, the caster may knock back any affected creature a number of feet equal to the spellcheck's points of success divided by the creatre's weight in stones.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to either extend the range of the spell's semifanfan by 1 yard or grant a single attack from the spell a +1 bonus.
+**At Higher Tiers**: Each tier beyond minimum allows you to either extend the range of the spell's semifan by 1 yard or grant a single attack from the spell a +1 bonus.
 
-**Critical Failure**: You fail to ground the power correctly, inflicting a number of electic attacks against yourself equal to the spell's tier -1.
+**Critical Failure**: You fail to ground the power correctly, inflicting a number of electric attacks against yourself equal to the spell's tier -1.
 
 #### Unrest for Undeath
 
@@ -4583,14 +4583,14 @@ If the spellcheck was a critical success, the caster may knock back any affected
 
 **Range**: 3 yards
 
-**Effect**: From you emits a circle of energy which disturbs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, raadiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
-Any undead creature first affected by the circle of the spell is subject to an undamaging attack. If it is a critical sucess, the creature is destroyed.
+**Effect**: From you emits a circle of energy which disturbs the very nature of the necromantic bindings of undead creatures, which extends out to the range of the spell. Choose either crushing, psychic, radiant, or necrotic. An attack of the chosen type is inflicted on all undead creatures within the circle. Additionally, creatures of undeath within the circle lose 1d12+[Magic] bonus points of undeath per tier of the spell.  
+Any undead creature first affected by the circle of the spell is subject to an undamaging attack. If it is a critical success, the creature is destroyed.
 
-You may concentrate on this spell when you cast it, forfeiting actions, reactions, and movement to do so. If you do, at the end of each action phase, the effects of the ciricle are applied again. Furthermore, you may use your reaction to inflict an additional attack against an undead or ephermal creature of a type not chosen from the options of the circle without breaking your concentration on the spell. Note that a creature is only affected by the undamaging attack the first time the casting of the spell affects it.
+You may concentrate on this spell when you cast it, forfeiting actions, reactions, and movement to do so. If you do, at the end of each action phase, the effects of the circle are applied again. Furthermore, you may use your reaction to inflict an additional attack against an undead or ephemeral creature of a type not chosen from the options of the circle without breaking your concentration on the spell. Note that a creature is only affected by the undamaging attack the first time the casting of the spell affects it.
 
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 1.5 yards.
 
-**Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat ou as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
+**Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat you as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
 ### V (15  
 
@@ -4607,7 +4607,7 @@ The save DV is equal to your [Magic] bonus + double the spell's tier. If the spe
 
 **At Higher Tiers**: In addition to the above noted benefits, for each tier beyond minimum, you may choose one of the following  
 * The length of the area is increased by 1 yard
-* The duration of the vapros is increased by 1 round
+* The duration of the vapors is increased by 1 round
 * The DV of the spell is increased by 1
 
 **Critical Failure**: You take a whiff of the vapors yourself instead of producing the typical area and become dazed and obtunded for a number of rounds equal to the tier of the spell.
@@ -4618,7 +4618,7 @@ The save DV is equal to your [Magic] bonus + double the spell's tier. If the spe
 
 **Casting Time**: 3 actions
 
-**Effect**: You produce a mostly translucent barrier of vaguely patterened colors to stretch out from a point you touch. This may be a sphere of up to 5 yards, A hemisphere of 7 yards, or a pillar whose base and top are 3 yard circle and height is 30 yards. The barrier lasts as long as you concentrate on it. If the spellcheck was a critical success, it can last for a number of phases beyond this equal to your [Magic] bonus.
+**Effect**: You produce a mostly translucent barrier of vaguely patterned colors to stretch out from a point you touch. This may be a sphere of up to 5 yards, A hemisphere of 7 yards, or a pillar whose base and top are 3 yard circle and height is 30 yards. The barrier lasts as long as you concentrate on it. If the spellcheck was a critical success, it can last for a number of phases beyond this equal to your [Magic] bonus.
 
 Within the area of this barrier; creatures are unable to move from, interact with, or sense creatures on the material plane while they are ethereal and vice versa. Additionally, Ephemera and Fiend creatures cannot enter the area. Such a creature in the area when the barrier initially expands performs an incapacitation save even if it would not normally. If it is a critical failure, it is instead ejected from the space of the barrier (treat as knockback equal to one and a half of the distance between its current location and the edge of the barrier). A failure will instead treat it as prone while it occupies the space. A success has no effect and a critical success allows it to completely ignore the effects of the barrier and even end the spell if the points of success are equal to or greater than the spellcheck's. For the purpose of this incapacitation save, if a creature is a creature of undeath, it receives penalties equal to the % of missing points of undeath rather than penalties based on its wounds.
 
@@ -4640,7 +4640,7 @@ Within the area of this barrier; creatures are unable to move from, interact wit
 3. Toxic  
 4. Psychic
 
-The moths will continue for a number of rounds equal to the spell's tier. As an action, you may redurect moths from one target to another.
+The moths will continue for a number of rounds equal to the spell's tier. As an action, you may redirect moths from one target to another.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the range by 5 yards or afflict an additional creature.
 
@@ -4655,7 +4655,7 @@ The moths will continue for a number of rounds equal to the spell's tier. As an 
 
 **Range**: 1 yard
 
-**Effect**: You produce a line up to 6 yards long and up to 1 yard high and wide. Everything in the way of this line is pushed back a number of feet equal to the spell check result + spell tier + [Magic] score divided by their weight in stones. Alternatively, you may have the shap of the effect by a cone. If so, the range is reduced to a third of its length. Furthermore, you may opt to have the shape changed to a fan or semifan, but this halves the length.
+**Effect**: You produce a line up to 6 yards long and up to 1 yard high and wide. Everything in the way of this line is pushed back a number of feet equal to the spell check result + spell tier + [Magic] score divided by their weight in stones. Alternatively, you may have the shape of the effect by a cone. If so, the range is reduced to a third of its length. Furthermore, you may opt to have the shape changed to a fan or semifan, but this halves the length.
 
 This can blow away gasses and vapors, including those of a magical nature.
 
@@ -4678,11 +4678,11 @@ This can blow away gasses and vapors, including those of a magical nature.
 You may speak into a flame within 1 foot of you while the spell is active and concentrating on a number of creatures you have affected with this spell. If such a creature is currently subject to the mutterings of flame, your speech is also transmitted to them.  
 A critical success with this spell makes those creatures familiar to you for the spell's duration.
 
-A creature which does not normally see or hear can still experience equivalent sensation througg uts ither senses this way. This cannot affect a mindless creature.
+A creature which does not normally see or hear can still experience equivalent sensation through its other senses this way. This cannot affect a mindless creature.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose either to increase the duration by one day or affect an additional creature.
 
-**Critical Failure**: You ignite yourself on fire as though by a critical fire attack. At the end of each round, for a number of rounds equal to the spell's tier, an attack is rolled against you with a bonus equal to the spell's tier. If odd, it is a paychic attack. If even, it is a fire attack.
+**Critical Failure**: You ignite yourself on fire as though by a critical fire attack. At the end of each round, for a number of rounds equal to the spell's tier, an attack is rolled against you with a bonus equal to the spell's tier. If odd, it is a psychic attack. If even, it is a fire attack.
 
 #### Vex of Night
 
@@ -4692,9 +4692,9 @@ A creature which does not normally see or hear can still experience equivalent s
 
 **Duration**: 2 days
 
-**Effect**: You attempt to bestow a hex upon the foe, influcting a psychic attack. In place of wounding, you successfully place the hex on the foe. A creature so afflicted is subject to a cutting attack when they attempt to rest as a mysterious seems to render scratches like a cat's claws across the subject's skin. If it would rest long enough to have a long rest, it is also subject to a psychic attack as nightmares assail it. If its rest would be long enough to be full rest, it finds itself subject to a necrotic attack as it begins to see itself mysteriously bruised by the nightmarish forces.
+**Effect**: You attempt to bestow a hex upon the foe, inflicting a psychic attack. In place of wounding, you successfully place the hex on the foe. A creature so afflicted is subject to a cutting attack when they attempt to rest as a mysterious seems to render scratches like a cat's claws across the subject's skin. If it would rest long enough to have a long rest, it is also subject to a psychic attack as nightmares assail it. If its rest would be long enough to be full rest, it finds itself subject to a necrotic attack as it begins to see itself mysteriously bruised by the nightmarish forces.
 
-Attacks from this spell treat an affected creature as though it was not wearing its armor. The first critical hit by an attack of this spell against a creature during a particular attempt at a rest sesssion reduces the overall rest received by 1 stage instead. If an attack would qualify to damage armor, it instead reduces the rest received by 1 stage instead. If it would be negative rest received- the creature received no rest and has actually taken a level of fatigue.
+Attacks from this spell treat an affected creature as though it was not wearing its armor. The first critical hit by an attack of this spell against a creature during a particular attempt at a rest session reduces the overall rest received by 1 stage instead. If an attack would qualify to damage armor, it instead reduces the rest received by 1 stage instead. If it would be negative rest received- the creature received no rest and has actually taken a level of fatigue.
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to afflict an additional creature or 8ncrease the duration by 1 day.
 
@@ -4766,7 +4766,7 @@ Attacks from this spell treat an affected creature as though it was not wearing 
 
 **Casting Time**: 1 action
 
-**Effect**: You send a telpathic message to any number of creatures you are personally familiar with on the same plane of existence. The length of the message is a number of words equal to the spell's tier divided by the number of creatures you choose to communicate with. This spell does not allow you to know if a creature received your message or if it is even on the same plane of existence.
+**Effect**: You send a telepathic message to any number of creatures you are personally familiar with on the same plane of existence. The length of the message is a number of words equal to the spell's tier divided by the number of creatures you choose to communicate with. This spell does not allow you to know if a creature received your message or if it is even on the same plane of existence.
 
 When you cast this, you may choose for recipients to understand the message to be of your voice or as an unknown voice.
 
@@ -4774,7 +4774,7 @@ A critical success with the spell allows you to do one of the following;
 Increase the word count to increase to spell tier + [Magic] bonus divided by number of intended recipients, or  
 Treat the "voice" of the spell as being one of another creature you are familiar with.
 
-**At Higher TIers**: The benefits are noted above.
+**At Higher Tiers**: The benefits are noted above.
 
 **Critical Failure**: The message fails to reach anything.
 
@@ -4804,7 +4804,7 @@ Treat the "voice" of the spell as being one of another creature you are familiar
 
 **At Higher Tiers**: As noted above, each tier increases the number of attacks by 1. Additionally, you may increases one dimension or both of the affected area by up to 2 yards for each tier beyond minimum.
 
-**Critical Failure**: You conjure a volley but have given it the worng direction. Instead, the area is centered on you.
+**Critical Failure**: You conjure a volley but have given it the wrong direction. Instead, the area is centered on you.
 
 #### Voluntariance
 
@@ -4814,7 +4814,7 @@ Treat the "voice" of the spell as being one of another creature you are familiar
 
 **Range**: X feet, where X is the spell tier squared
 
-**Effect**: If you are within range of that attack, it is redirected against you. A creature performing a melee attack may make a [Body] or [Will] check against a DV of the spellcheck's points of success + your [Magic] bonus to prevet this.
+**Effect**: If you are within range of that attack, it is redirected against you. A creature performing a melee attack may make a [Body] or [Will] check against a DV of the spellcheck's points of success + your [Magic] bonus to prevent this.
 
 If the spell check is a critical success, the attack suffers a penalty equal to the spell's tier for the purpose of determining a critical hit.
 
@@ -4830,7 +4830,7 @@ You cannot cast this spell as a result of another creature's magical influence o
 
 **Casting Time**: 2 actions
 
-**Effect**: You produce a a swirling vortex of air which takes the shape of a 2 yard inverted cone. An undamaging attack is inflicted on everything in the area. If successful, a creature will be knocked back a number of feet equal to the points of success divided by its weight in stones. On a critical hit, an affected creature is knocked prone until they spend an action or their movement as they are thrown off balance.
+**Effect**: You produce a swirling vortex of air which takes the shape of a 2 yard inverted cone. An undamaging attack is inflicted on everything in the area. If successful, a creature will be knocked back a number of feet equal to the points of success divided by its weight in stones. On a critical hit, an affected creature is knocked prone until they spend an action or their movement as they are thrown off balance.
 
 This can blow away gasses and vapors, including those of a magical nature.
 
@@ -4905,9 +4905,9 @@ Something like the Creeping Death spell could move around the barrier if it does
 
 **Duration**: 1 day
 
-**Effect**: You inscribe a rune onto a surface you touch (presumably carving or impressing it in some way while casting) which is to activate as a trap when triggered. This trigger may be set to activate based on visual changes (such as light changing), sound, touch, a command word, or the presnce of a creature. The trigger must be within the range of the explosion radius to activate. Additionally you may set the trap to delay its activation by a number of rounds up to the spellcheck's points of success. Once the rune activates, it explodes out in a 1 yard hemisphere- inflicting a ki attack against everything with range.
+**Effect**: You inscribe a rune onto a surface you touch (presumably carving or impressing it in some way while casting) which is to activate as a trap when triggered. This trigger may be set to activate based on visual changes (such as light changing), sound, touch, a command word, or the presence of a creature. The trigger must be within the range of the explosion radius to activate. Additionally you may set the trap to delay its activation by a number of rounds up to the spellcheck's points of success. Once the rune activates, it explodes out in a 1 yard hemisphere- inflicting a ki attack against everything with range.
 
-If a creature was attempting to identify the rune with spellcraft, the DC is equal to the spellcheck result. A critical failure will trigger the rune to explode and inflict an additional ki attack against the attemptor. If the check is a success, they identify that the rune is destructive in some manner, what the trigger is, and do not set it off. If the check is a critical success, they identify the rune/trigger and can prevent its trigger for a number of phases equal to their points of success. They will know how long they have before it can activate.
+If a creature was attempting to identify the rune with spellcraft, the DC is equal to the spellcheck result. A critical failure will trigger the rune to explode and inflict an additional ki attack against the challenger. If the check is a success, they identify that the rune is destructive in some manner, what the trigger is, and do not set it off. If the check is a critical success, they identify the rune/trigger and can prevent its trigger for a number of phases equal to their points of success. They will know how long they have before it can activate.
 
 **At Higher Tiers**: When cast at 3rd tier or higher, for each tier beyond 2nd, you may choose one of the following
 * Double the duration
@@ -4938,7 +4938,7 @@ If a creature was attempting to identify the rune with spellcraft, the DC is equ
 
 **Range**: 1 yard
 
-**Effect**: You manipulate the water within a space which is no greater than a number of cubic feet equal to the points of success multiplied by the spell's tier. You may choose to do any of the follwing with the water:
+**Effect**: You manipulate the water within a space which is no greater than a number of cubic feet equal to the points of success multiplied by the spell's tier. You may choose to do any of the following with the water:
 
 * Prevent water from entering the space.
 * Prevent water from exiting the space.
@@ -4975,9 +4975,9 @@ Construct, Ephemera, and Undead creatures, creatures of undeath, and those produ
 
 **Effect**: You cause the flesh and muscles of a creature you touch to soften and become limp. It must succeed a [Fort] save or be subject to the following effects for a number of minutes equal to the points of failure multiplied by the spell's tier.
 
-The creature's weight capacity is halved, it has disadvantage on [Body] checks and saves  and tocic and necrotic attacks gain advantage against it. If the save was a critical failure, it is vulnerable during this time.
+The creature's weight capacity is halved, it has disadvantage on [Body] checks and saves, and toxic and necrotic attacks gain advantage against it. If the save was a critical failure, it is vulnerable during this time.
 
-This spell cannot affect anything which would be uneffected by spells that affect flesh.
+This spell cannot affect anything which would be unaffected by spells that affect flesh.
 
 **At Higher Tiers**: The benefits for casting at a higher tier are noted above.
 
@@ -5029,9 +5029,9 @@ The fluid cannot be removed from the globe or consumed.
 
 **Range**: 5 yards
 
-**Effect**: You produce a narrow forcefield which is shaped in such a way that it pins the creature, lifting it a foot into the air, and hovering in place. Inflict a crushing attack against that creature. If successful, it does not wound that creature and instead restrains them and forces them prone so long as they are restrained. A critical success also leaves it vulnerable during this time. A creature affected this way is being suffocated. If the attack fails, but is not a critical failure, the forcefield forms to keep the creature levitating- but can be broken by that creature as an action or reaction and it is not being sufficated while in place.
+**Effect**: You produce a narrow forcefield which is shaped in such a way that it pins the creature, lifting it a foot into the air, and hovering in place. Inflict a crushing attack against that creature. If successful, it does not wound that creature and instead restrains them and forces them prone so long as they are restrained. A critical success also leaves it vulnerable during this time. A creature affected this way is being suffocated. If the attack fails, but is not a critical failure, the forcefield forms to keep the creature levitating- but can be broken by that creature as an action or reaction and it is not being suffocated while in place.
 
-The forcefield remains for a number of rounds equal to the spellcheck's points of success + attack's points of success, or until dissmissed at the will of the caster.
+The forcefield remains for a number of rounds equal to the spellcheck's points of success + attack's points of success, or until dismissed at the will of the caster.
 
 A critical success with the spell check allows you to move the creature a number of feet equal to the spell tier as an action or reaction.
 
@@ -5077,7 +5077,7 @@ A critical success with the spell check allows you to move the creature a number
 
 **At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, you may choose to either increase the range of the cone by 2 yards or grant the attacks a +1 for purpose of inflicting a critical hit.
 
-**Critical Failure**: The spores float in the air and disappate, not affecting any creature. After a number of phases equal to the spell's tier, you receive a point of inebriation and a point of apell sickness. You also receive a toxic attack which ignores armor with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+**Critical Failure**: The spores float in the air and dissipate, not affecting any creature. After a number of phases equal to the spell's tier, you receive a point of inebriation and a point of apell sickness. You also receive a toxic attack which ignores armor with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
 
 #### Wildervalder
 
@@ -5101,7 +5101,7 @@ A critical success with the spell check allows you to move the creature a number
 
 **Duration**: 1 hour
 
-**Effect**: You draw upon the power of the wild. Your oralfactory senses (if you have any) are empowered, granting a bonus to all [Prcp] checks using sense of smell equal to the spell's tier. Additionally, if you can perceive a fey or sylvan creature with two or more senses, you know its creature type. Furthermore, while the spell is in effect, all magical forms of inebriation inflicted against you is halved and you have a bonus to saves against the magical abilities and spells of fey creatures equal the spell's tier.
+**Effect**: You draw upon the power of the wild. Your olfactory senses (if you have any) are empowered, granting a bonus to all [Prcp] checks using sense of smell equal to the spell's tier. Additionally, if you can perceive a fey or sylvan creature with two or more senses, you know its creature type. Furthermore, while the spell is in effect, all magical forms of inebriation inflicted against you is halved and you have a bonus to saves against the magical abilities and spells of fey creatures equal the spell's tier.
 
 If the spell check was a critical success  you may choose to have it empower a different of the five basic senses instead.
 
@@ -5121,7 +5121,7 @@ If the spell check was a critical success  you may choose to have it empower a d
 
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 2 yards or allow you to tranpsort one additional willing creature you are touching.
 
-**Critical Failure**: You manage to get halfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds a another round in which you are disoriented, leaving you prone.
+**Critical Failure**: You manage to get halfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds another round in which you are disoriented, leaving you prone.
 
 #### Wretched Ray
 
@@ -5167,7 +5167,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 Anything ending the movement phase inside of or exiting the area of the spell is subject to an attack. If ending the phase inside, it is crushing. If attempting to exit, it is biting. If the attack would qualify to damage armor or is a critical hit, the creature is restrained and grappled by the spell (treat any opposed grapple check result as being equal to the spellcheck die result + spell tier).
 
-If the spellcheck is a critical success, you may choose to move the area up to .5 yard at the end of each phase. Any creatures restrined by the spell remain where they are.
+If the spellcheck is a critical success, you may choose to move the area up to .5 yard at the end of each phase. Any creatures restrained by the spell remain where they are.
 
 You may use your reaction to inflict a biting or crushing attack against a creature within the area of the spell. If the attack would qualify to damage armor or would be a critical hit, the foe is restrained and grappled as above. An attack inflicted this way gains a bonus equal to the spell's tier if you are also within the area of the spell.
 
@@ -5230,14 +5230,13 @@ This ball of energy lasts until the end of the round, or it would qualify to dam
  • Cannot wear armor.  
  • Critical hits of Fire and Lightning attacks leave the subject vulnerable until the end of the round, even if the subject would not be wounded by it.  
  • The subject gains a +6 bonus to any checks saves involving hiding among plant life so long as it remains still, or a +2 bonus while moving.  
- • Undead and Plant creatures cannot recognise the subject as a creature while still and until the end of any round it first perceives it moving.  
+ • Undead and Plant creatures cannot recognize the subject as a creature while still and until the end of any round it first perceives it moving.  
  • Unarmed attacks gain a 1d6 bonus against undead creatures.  
  • Unarmed attacks from undead and plant creatures against the creature have disadvantage.  
  • Any effect which would heal the subject has a 1 in 6 chance not to.  
  • They do not have to swim in water, instead walking on the surface below.  
- • It is not as dependant on whatever medium it must breathe, if any, being able to hold it for twice as long.  
- • If the creature is subject to the standard tables for defense, it uses the table below. If not it is subject to the following;  
-*  Cold, Cutting, and Fire attacks have advantage against the creature. Bare, Club, Force, Ki and Radiant attacks have disadvantage on the creature.
+ • It is not as dependent on whatever medium it must breathe, if any, being able to hold it for twice as long.  
+ • If the creature is subject to the standard tables for defense, it uses the table below. If not it is subject to the following;  Cold, Cutting, and Fire attacks have advantage against the creature. Bare, Club, Force, Ki and Radiant attacks have disadvantage on the creature.
 
 **Table**: *Attack versus Xylary Form*
 | Weapon                 |          |            |         |            |         |
@@ -5297,7 +5296,7 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum range by 10 yards or allow you to have the sound originate from an additional point within range.
 
-**Critical Failure**: You manage to harm your own hearing with the attempted funneling of sound, infliting a sonic attack against yourself. It gains a bonus equal to half of the spell's tier (round down) for the purpose of inflicting a critical hit against yourself.
+**Critical Failure**: You manage to harm your own hearing with the attempted funneling of sound, inflicting a sonic attack against yourself. It gains a bonus equal to half of the spell's tier (round down) for the purpose of inflicting a critical hit against yourself.
 
 #### Ygroapothy
 
@@ -5333,7 +5332,7 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Casting Time**: 10 rounds or more
 
-**Effect**: You invoke spirits, or some other entites, which rush around in a circle, semisphere, or sphere (your choice) which extends out 3 yards. Choose an exotic damage type.
+**Effect**: You invoke spirits, or some other entities, which rush around in a circle, semisphere, or sphere (your choice) which extends out 3 yards. Choose an exotic damage type.
 
 Anything entering or exiting the area of the spell is subject to an attack. If the attack die roll is even, it is of the chosen type for the spell. If the attack roll is odd, it is of a nature determined by the narrator as appropriate to the spirit(s) summoned. In place of damaging armor, a creature is knocked prone until the end of the next round.
 
