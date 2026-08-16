@@ -1855,7 +1855,7 @@ A critical success with the spellcheck does not consume the skull.
 
 **Critical Failure**: The skull levitates and faces you, blasting you with unintended powers. It inflicts two attacks against you, one of each chosen type. These attacks gains a bonus against you equal to half of the spell's tier for the purpose of inflicting a critical hit. It then disintegrates.
 
-###### In case someone decides to use a perdrine as the skull, it receives a wound in place of being destroyed.
+####### In case someone decides to use a perdrine as the skull, it receives a wound in place of being destroyed.
 
 #### Grave Grasp
 
@@ -2261,7 +2261,7 @@ You may give the illusion psychic commands as an action or reaction, however it 
 
 **Critical Failure**: The hallucination feels real to you in all regards. It might also seem to have a mind of its own.
 
-### I (10
+### I (11
 
 #### Icebreaker
 
@@ -3788,7 +3788,7 @@ Additionally, for every two tiers beyond 5th, the number of attacks (before bein
 
 **Critical Failure**: Your words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (26
+### S (27
 
 #### Sapiafi
 
@@ -4592,7 +4592,7 @@ You may concentrate on this spell when you cast it, forfeiting actions, reaction
 
 **Critical Failure**: The circle is produced, but only inflicts the initial attack. Immediately after, runes and mystical shapes produced by the circle swirl and close in on you, inflicting the same sort of attack against yourself. Any undead or ephemeral creature, must succeed a [Will] save with a DV equal to triple the spell's tier + 4 or treat you as the target of its hostility for a number of rounds equal to the spell's tier. Such a creature must attempt to harm you in any way it can, even if it was friendly.
 
-### V (15  
+### V (16  
 
 #### Vapors
 
@@ -4646,7 +4646,6 @@ The moths will continue for a number of rounds equal to the spell's tier. As an 
 
 **Critical Failure**: You have angered a mysterious entity. The moths will instead attack you, and will continue to do so for a number of rounds equal to the spell's tier +1.
 
-
 #### Venting Burst
 
 **Minimum Tier**: 2
@@ -4662,6 +4661,20 @@ This can blow away gasses and vapors, including those of a magical nature.
 **At Higher Tiers**: Each tier beyond minimum increases the length by 3 yards in addition to the above mentioned benefit. You may instead choose to increase the range of the spell by 3 yards for any tiers above minimum.
 
 **Critical Failure**: You knockback yourself in a random direction as though you were affected by the spell's effect and gain a point of spell sickness.
+
+#### Ventrilurgy
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Range**: 10 yards
+
+**Effect**: You must concentrate on the spell after casting, granting you the ability to cause any sound you produce to originate from a point you can perceive within range. If the spellcheck is a critical success, you may benefit from the spell for a number of rounds equal to the spell tier even after you stop concentrating on the spell.
+
+**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum range by 10 yards or allow you to have the sound originate from an additional point within range.
+
+**Critical Failure**: You manage to harm your own hearing with the attempted funneling of sound, inflicting a sonic attack against yourself. It gains a bonus equal to half of the spell's tier (round down) for the purpose of inflicting a critical hit against yourself.
 
 #### Vex of Flames
 
@@ -5268,7 +5281,7 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 
 **Critical Failure**: You fail to transfer the transmutation properly. Your body stiffens, making you prone so long as you have spell sickness.
 
-### Y (3
+### Y (2
 
 #### Yaloperasmathy
 
@@ -5283,20 +5296,6 @@ A creature using the table with a shield sees a +1 bonus to defense while they w
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to either increase the duration by half or affect an additional creature.
 
 **Critical Failure**: You feel yourself become sleepy and stiff. You are prone for a number of rounds equal to the spellcheck's points of failure. At the end of this time, you become immobile for a number of rounds equal to the spell's tier. You are then petrified for an entire round. Following that, you suffer a level of exhaustion and are immobile for a number of rounds equal to the spell's tier.
-
-#### Ventrilurgy
-
-**Minimum Tier**: 1
-
-**Casting Time**: 2 actions
-
-**Range**: 10 yards
-
-**Effect**: You must concentrate on the spell after casting, granting you the ability to cause any sound you produce to originate from a point you can perceive within range. If the spellcheck is a critical success, you may benefit from the spell for a number of rounds equal to the spell tier even after you stop concentrating on the spell.
-
-**At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum range by 10 yards or allow you to have the sound originate from an additional point within range.
-
-**Critical Failure**: You manage to harm your own hearing with the attempted funneling of sound, inflicting a sonic attack against yourself. It gains a bonus equal to half of the spell's tier (round down) for the purpose of inflicting a critical hit against yourself.
 
 #### Ygroapothy
 
