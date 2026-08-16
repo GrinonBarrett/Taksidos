@@ -153,7 +153,7 @@ If something would attempt to damage the forcefield, you must attempt a [Magic] 
 
 **Effect**: You magically mark a set point, up to 1 square foot, or a single portal (such as a door, window, or the opening of a container) you touch to produce stimuli of one of the five basic senses which can be perceived by anything within range. In the case of a specific point, it is disturbed if something comes in contact with it. In the case of a portal, it is disturbed if opened or closed.
 
-So long as a creature has use of the selected sense and there is no obstruction to the stimuli, any creature within the tange will detect the stimuli.
+So long as a creature has use of the selected sense and there is no obstruction to the stimuli, any creature within the range will detect the stimuli.
 
 This spell lasts a number of hours equal to the points of success (minimum of 1) multiplied by the total number of minutes spent casting the spell.
 
