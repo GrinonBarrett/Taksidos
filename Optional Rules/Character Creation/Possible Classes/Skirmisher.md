@@ -66,7 +66,8 @@ At levels 5 and 10, you may choose to splash another class into your training or
 If you specialize as a skirmisher, you gain the following:  
 Your maximum hitpoints are increased by 1.
 You gain a skill of your choice or training in two weapons of your choice.
-When you perform a reaction, you may spend 3 points of battle momentum. If you do, it does not count against your reaction for the round.
+When you perform a reaction, you may spend 4 points of battle momentum. If you do, it does not count against your reaction for the round.  
+Your expenditure of battle momentum to gain a bonus to your attack for the purpose of inflicting a critical hit is now equal to your heroism.
 
 #### Splash
 If you splash skirmisher as a member of another class, you gain the Battle Momentum feature and Touch and Go feature.  
