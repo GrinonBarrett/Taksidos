@@ -931,7 +931,7 @@ A critical success with the spell check will allow you to cause the creatures an
 
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the defense bonus gained while dodging during the spell or increase the range by 5 yards.
 
-**Critical Failure**: You suffer a number of attacks equal to the spell's tier. The first attack, and each odd numbered attack thereafter, is necrotic. The remaining attacks are sonic. These attacks gain a +2 bonus against you for the purpose of jnflicting a critical hit.
+**Critical Failure**: You suffer a number of attacks equal to the spell's tier. The first attack, and each odd numbered attack thereafter, is necrotic. The remaining attacks are sonic. These attacks gain a +2 bonus against you for the purpose of inflicting a critical hit.
 
 #### Darkveil
 
@@ -1295,7 +1295,7 @@ An object which is empowered can bestow that empowerment to a spellcaster utiliz
 
 **Range**: 1 yard
 
-**Effect**: You convert a sapient creature's brain into a fine meal for yourself, or another, to consume. If consumed within a number of minutes equal to the spell's tier, the brain will provide a number of servings of food equal to the former creature's [Inte] score. Additionally, for the next five minutes, a creature that consumes the entire brain gains a bonus to [Inte] equal the [Inte] modifier of the brain's former - up to the tier of this spell.
+**Effect**: You convert a sapient creature's brain into a fine meal for yourself, or another, to consume. If consumed within a number of minutes equal to the spell's tier, the brain will provide a number of servings of food equal to the former creature's [Inte] score. Additionally, for the next five minutes, a creature that consumes the entire brain gains a bonus to [Inte] equal the [Inte] modifier of the brain's former owner- up to the tier of this spell.
 
 A brain so affected cannot be reanimated by any means and becomes visible to anything on the psychic plane for a number of miles equal the the brain's [Inte] score minus the number of hours since the spell was cast.
 
@@ -1504,7 +1504,7 @@ You may choose not to have the beam inflict a wound on a successful hit. If you 
 
 **At Higher Tiers**: Each tier beyond minimum allows you to either increase the maximum number of projectiles by 1 or grant one of the attacks a +1 bonus for the purpose of determining a critical hit.
 
-**Critical Failure**: You fail to properly form they projectiles, resulting in a small explosin which only harms you, inflictng a thrown blade attack against you with bonus to the attack equal to the spell's tier.
+**Critical Failure**: You fail to properly form they projectiles, resulting in a small explosion which only harms you, inflicting a thrown blade attack against you with bonus to the attack equal to the spell's tier.
 
 #### Flee
 
