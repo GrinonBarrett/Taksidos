@@ -1594,9 +1594,9 @@ This cannot affect eldritch, elemental, ephemeral, or infigura creatures.
 
 **Range**: 1 foot
 
-**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you deisgnate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession and is lost.
+**Effect**: You produce a blast of shrapnel which projects outward in a 2 yard cone, fan, or semifan (as you choose) from the point you designate. Everything caught in the area suffers a cutting attack. You may use metal as a material component to increases the lethality. Divide the number of pounds by the number creatures attacked by the spell. This is a bonus to the attacks. Alternatively, you may use the material to ease the difficulty of casting the spell- each pound granting a +2 bonus to the spellcheck. Any metal used must be in the caster's possession and is lost.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard.
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's area by 1 yard.
 
 **Critical Failure**: You explode with shrpanel, causing you to lose a hitpoint before causing a slashing attack against yourself and everything within 1 foot.
 
@@ -1666,11 +1666,11 @@ You may choose to treat the piercing attack as a spear attack or pike attack ins
 * If you critically fail the spell, you gain spell sickness equal to this spell's tier.
 * You gain spell sickness equal to the tier of that spell unless it is less than half of this spell's tier.
 
-A spell duplicated this way cannot be duplicated again by a spell of equal or lower level. Fugalism cannot be duplicated.
+The spell you recall cannot be one which was ccast more than a number of rounds earlier equal to your spellcheck result multiplied by the spell’s tier. A spell duplicated this way cannot be duplicated again by a spell of equal or lower level. Fugalism cannot be duplicated.
 
 **At Higher Tiers**: The benefits of higher tiers are presented above.
 
-**Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instanxe of that spell.
+**Critical Failure**: Roll d4s equal to this spell's tier. You gain spell sickness equal to the result and cannot attempt to cast this spell to duplicate the same instance of that spell.
 
 #### Fyrvalder
 
@@ -1888,7 +1888,7 @@ Though the target cannot move from the compulsion of fear, it is not considered 
 If a marked creature dies before the end of the next round, you may choose one of the following benefits (chosen at the moment of death);  
 * You recover a hitpoint, so long as your current hitpoints don't exceed its maximum hitpoints.
 * You recover a level of fatigue, so long as its fatigue was not greater than yours.
-* You cause a shadowy vapor to reach out towards a creature within 15 yards of it that you can perceive.
+* You cause a shadowy vapor to reach out towards a creature within 15 yards of it that you can perceive. Inflicting a necrotic attack.
 * The creature cannot be reanimated or restored to life by any means.
 * The sigil explodes, inflicting a necrotic attack against everything within 1 yard of the creature.
 
@@ -2137,7 +2137,7 @@ If your spellcheck was a critical success, the initial attack can still inflict 
 
 **At Higher Tiers**: When cast at 2nd tier or greater, you may multiply the maximum duration by the number of tiers beyond minimum squared.
 
-**Critical Failure**: You still transform yourself into a statue, but fo not have the same control over the specifics. You are petrified for a number of minutes equal to the spell's tier.
+**Critical Failure**: You still transform yourself into a statue, but do not have the same control over the specifics. You are petrified for a number of minutes equal to the spell's tier.
 
 #### Howl
 
@@ -2210,7 +2210,7 @@ If you are damaged more than once, fail an incapacitation save in any degree, or
 **Effect**: You cause the flesh of a creature to turn in a manner that will ultimately cause its downfall... or leave it horribly disfigured. It is subject to the following;  
 
  • Necrotic attacks against it gain advantage.  
- • It is vulnerbale if donning armor. The armor and its skin greatly disagree. 
+ • It is vulnerable if donning armor. The armor and its skin greatly disagree. 
  • Minimum [Body] bonus is equal to its [Will] bonus.
  • Disadvantage on [Fort] saves and [Empy] checks.
  • Advantage on [Body] checks.
@@ -2482,7 +2482,7 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 * The range is increased by 1 yard.
 * The casting time is reduced by 1 action.
 * The explosion caused by a critical success may be increased by an additional yard per size category and the attacks gain a +1 for the purpose of inflicting a critical hit.
-* You may affect an additional corpse to allow an additional crreature to transport. They may exit through the same corpse or a different corpse.
+* You may affect an additional corpse to allow an additional creature to transport. They may exit through the same corpse or a different corpse.
 
 **Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of those attacks is successful against you, the following attacks each get an instance of advantage.
 
