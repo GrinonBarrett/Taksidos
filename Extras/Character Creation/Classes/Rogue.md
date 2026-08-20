@@ -66,6 +66,7 @@ You gain an Edge of your choice.
 -----
 
 ### Edges
+If you posses an Edge and later receive an ability that is identical, you may choose a new edge to replace the it.
 
 • **Unwavering Strength**. You gain a +2 bonus to all [Body] saves. Once per [Body] save, you may spend a luck point to grant an additional +2 bonus.
 
