@@ -88,7 +88,13 @@ If you posses an Edge and later receive an ability that is identical, you may ch
 
 • **Bob and Weave**. When an attack against you fails, you may use your reaction to spend any number of luck points. You may move a number of feet equal to the luck spent this way +1. This movement does not have to cause brawling/trampling. The source of that attack cannot perform an Attack of Opportunity against you as a result of this movement.
 
+• **Bravery**. When rolling a save against a fear effect, you may roll an additional d6.
+
+• **Bravery Among Friends**. You must possess the Bravery feature before selecting this edge. Anytime you perform a save against a Fear affect, you may spend any amount of Luck. Yourself and each creature of your choice which can perceive you gain a bonus to their save equal to the luck spent this way.
+
 • **Fortune**. Your maximum luck pool increases by 2.
+
+• **Fortune Favors**. You must possess the Fortune feature before selecting this edge. Your Fortune feature now increases your maximum luck pool by an amount equal to your heroism.
 
 • **Grand Feat**. When performing a check or save, you may choose to roll 2d8 + your heroism in place of the 3d6. You must perform a rest before doing so again.
 
