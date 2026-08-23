@@ -179,6 +179,9 @@ The user spends 2 ki as a reaction to having an attack inflicted against them. A
 **Resonance Blast**  
 The user performs a standard Ki Blast or Ki Blast volley, though the attacks are Sonic in nature. For each attack performed this way, the user declares if the efect of a critical hit is to be that of a ki attack or a sonic attack (decision is made before the attack roll).
 
+**Resounding Leap**  
+The user spends at least 2 ki when they leap. The distance the evoker's leap distance is multiplied by 1 + the amount of ki spent this way. The evoker may use their reaction at any point during the leap to spend a ki point to loose a ki blast.
+
 **Shining Strike**  
 The user spends 2 ki to perform an unarmed or weapon attack as an action. It is treated as a *magical* attack. If successful, it also inflicts a Ki attack. If either is a critical hit, the user recovers a point of ki spent this way and does not have disadvantage on follow up attacks against that foe until the end of the round.
 
@@ -204,4 +207,4 @@ Use this technique as an additional option when you get a critical success with 
 The user spends at least 3 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as either crushing, force, or ki.
 
 **Zenith Wave**  
-The user spends at least 10 ki as an action to unleash a massive wave of energy. This produces both a line which is a 30 yards in length and .5 foot high and wide and also a 30 yard cone super imposed with the same origin point. Each of these  areas will inflict a ki attack eith a bonus equal to the ki spent for the purpose of inflicting a critical hit. A creature in the overlapping area is subject to both attacks. Additionally, the user may use their reaction to inflict an additional ki attack against a foe within the area of the line which receives the same bonus for the purpose of inflicting a critical hit. For every point of ki spent beyond the minimum, the length of both shapes is increased by 1.5 yards.
+The user spends at least 7 ki as an action to unleash a massive wave of energy. This produces both a line which is a 30 yards in length and .5 foot high and wide and also a 30 yard cone super imposed with the same origin point. Each of these  areas will inflict a ki attack eith a bonus equal to the ki spent for the purpose of inflicting a critical hit. A creature in the overlapping area is subject to both attacks. Additionally, the user may use their reaction to inflict an additional ki attack against a foe within the area of the line which receives the same bonus for the purpose of inflicting a critical hit. For every point of ki spent beyond the minimum, the length of both shapes is increased by 1.5 yards.
