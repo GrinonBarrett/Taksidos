@@ -202,3 +202,6 @@ Use this technique as an additional option when you get a critical success with 
 
 **Zenith Combo**  
 The user spends at least 3 ki as an action or reaction. User inflicts a number of unarmed attacks against a foe within reach equal to the amount of ki spent this way. If an attack is successful, the next attack in the combo gains advantage. If three previous attacks in the combo were successful, the user may choose to give up their advantage to have the next attack in the combo treated as either crushing, force, or ki.
+
+**Zenith Wave**  
+The user spends at least 10 ki as an action to unleash a massive wave of energy. This produces both a line which is a 30 yards in length and .5 foot high and wide and also a 30 yard cone super imposed with the same origin point. Each of these  areas will inflict a ki attack eith a bonus equal to the ki spent for the purpose of inflicting a critical hit. A creature in the overlapping area is subject to both attacks. Additionally, the user may use their reaction to inflict an additional ki attack against a foe within the area of the line which receives the same bonus for the purpose of inflicting a critical hit. For every point of ki spent beyond the minimum, the length of both shapes is increased by 1.5 yards.
