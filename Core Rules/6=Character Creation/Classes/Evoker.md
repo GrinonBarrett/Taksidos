@@ -97,6 +97,9 @@ The user spends at least 5 ki as an action or reaction. User inflicts a number o
 **Apex Push**  
 The evoker uses their reaction to spend at least 1 ki point in response to coming contact with a foe which would result in a brawl or trample. Before the brawl/trample occurs, that foe is knocked back a number of yards equal to the ki spent on this technique.
 
+**Apex Ray**  
+The evoker concentrates for a number of actions up to their level. They cannot perform a movement or reaction during this time. The evoker will use their reaction during this time to spend 3 ki to loose a ray of energy which can extend out a number of yards equal to the evoker's level multiplied by the number of phases the evoker concentrated. This will inflict a ki attack with advanatage against the target with a bonus equal to the number of phases the evoker concentrated for the purpose of inflicting a critical hit.
+
 **Bold Blast**  
 The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe within a nimber of yards equal to their level multiplied by their remaining ki (minimum 1), inflicting a ki attack and an undamaging attack. If the undamaging attack succeeds, the foe is knocked by a number of feet equal to the user's remaining ki + [Body] bonus.
 
