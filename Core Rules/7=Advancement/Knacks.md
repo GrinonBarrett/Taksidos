@@ -16,10 +16,10 @@ Anytime you block with a shield and the triggering attack is a critical failure,
 If you inflict a critical hit with your cleave and are not prone or vulnerable, you may choose to become prone and vulnerable until the end of the round. If you do, it does not count against your reaction for the round.
 
 **Hiding**, 1 item  
-When attempting to use stealth, if you are not moving more than 1 foot, you may roll a d4 and it to your visual stealth. Furthermore, while hiding this way, you may spend a whole round to reroll that d4 and take the new result.
+When attempting to use stealth, if you are not moving more than 1 foot, you may roll a d4 and add it to your visual stealth. Furthermore, while hiding this way, you may spend a whole round to reroll that d4 and take the new result.
 
 **Incantations**, 2 items  
-You memorize an incantation for casting your spells. When you roll your spellcheck, you gain a +1 bonus for each whole round the spellcasting takes. If the spell's casting times is measured in minutes or hours, the bonus is based on that unit of measurement instead. This bonus is not taken into account for determining if the spell check is a critical success.
+You memorize an incantation for casting your spells. When you roll your spellcheck, you gain a +1 bonus for each whole round the spellcasting takes. If the spell's casting times is measured in minutes or hours, the bonus is based on that unit of measurement instead. This bonus is not taken into account for determining if the spell check is a critical success and cannot exceed the spell's tier.
 
 **Mobile Strikes**, 1 item  
 Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round or your previous action- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
