@@ -57,4 +57,4 @@ When rolling for initiative, roll an additional d6 and add it to your result. Ad
 Anytime you would roll an attack roll as the result of one of your spells, you may gain a +1 bonus to that roll.
 
 **Zen Archery**, 1 item  
-When you perform a ranged attack, if you are not concentrating on anything else, you gain a +1 bonus to the attack and an additional +1 for the purpose of inflicting a critical hit. You cannot fo so more than once per round.
+When you perform a ranged attack, if you are not concentrating on anything else, you gain a +1 bonus to the attack and an additional +1 for the purpose of inflicting a critical hit. You cannot do so more than once per round.
