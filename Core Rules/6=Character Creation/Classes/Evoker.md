@@ -106,6 +106,9 @@ The user spends 2 ki as an action or reaction to hurl a ball of energy at a foe 
 **Breaker Send**  
 Use this technique while you have a foe grappled as an action or reaction, spending atleast 2 ki to do so. This inflicts a ki attack against the foe. Additionally, the foe is knocked back a number of feet equal to the amount of ki spent on this technique + your [Body] score + your heroism, divided by that foe's [Body] bonus. The ki attack also gains a +1 bonus for the purpose of determining a critical hit for each ki point spent beyond 2.
 
+**Burning Assault**  
+The user performs a Ki Blast or Ki Volley as normal, spending an additional point of ki. Each attack gains a +1 bonus for the purpose of inflicting a critical hit and will inflict the critical hit effect of a fire attack in addition to their traditional effect.
+
 **Burst Cannon**  
 The user spends 2 ki to fire a ki blast against a foe, with its range doubled. On a successful attack, the foe is knocked back 1d2+1 yards. On a critical hit, the user may launch a standard ki blast against that foe as a reaction. Alternatively, they can use their reaction on a critical hit with the attack to use a technique which would normally be an action.
 
@@ -173,6 +176,9 @@ The user spends 2 ki as an action or reaction to fire a very narrow beam of ener
 **Penultimate Wave**  
 User spends at least 12 ki as an action to focus their ki. As an action or reaction within a number of phases equal to the amount of ki spent on the technique -10, the user may loose a blast of energy against a foe within a number of yards equal to the sum of their total attributes + their heroism. This inflicts 10 ki attacks against the foe. Additionally, if any of the attacks were successful, the user may inflict a single attack against the foe of any type of their choice. If 10 total attacks were successful as a result of this technique, the user recuperates 1d4-1 points of ki.
 
+**Raging Orb**  
+User performs a standard Ki Blast as normal, spending 4 additional ki points. On impact, the energy ball explodes. This inflicts a fire attack against everything within 5 yards and a force attack against everything within 3 yards.
+
 **Raging Volley**  
 The user spends 6 ki as an action to perform a total of 8 ki attacks with a range of [Body] score + 15 yards. The attacks each have disadvantage. If an attack successfully harms a foe, each consecutive attack of the technique gains an instance of advantage. Once an attack is unsuccessful this way, all instances of advantage are lost.
 
@@ -193,6 +199,9 @@ The user spends at least 3 ki and disappears for a number of rounds equal to the
 
 **Sinister Drill**  
 The user spends 3 ki to inflict 3 individual standard ki blasts against a foe as an action. If 2 are successful attacks, the third may be treated as one of the following types (cold, cutting, electric, fire, force, necrotic, or piercing). If all three attacks are successful, an additional attack of the selected type is inflicted against the foe.
+
+**Storm Volley**  
+The evoker performs a Ki Volley as normal, spending an additional point of ki. Their ki blasts become electrified bolts, changing their attack type to electrical. If an electrical attack would qualify to damage armor, it also inflicts a ki attack. If three or more attacks were successful as a result of this technique, the evoker may use their reaction to inflict an additional ki attack against a foe struck by the technique.
 
 **Thunderous Fist**  
 The user spend 2 ki points to inflict an unarmed attack as an action. If successful, it also inflicts an electrical attack. If that attack is also successful, it inflicts a sonic attack. If the sonic attack is successful, the user may expend 1 ki point or use their reaction to knock the foe back a number of feet equal to the points of success.
