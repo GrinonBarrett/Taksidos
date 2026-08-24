@@ -146,6 +146,9 @@ Each additional phase spent intensifying the user's power increases the range of
 The user may use their reaction in response to the explosion beginning. If they do, they may hover a number of yards equal to their heroism before the explosion begins or alter the attack type of the explosion's inital attack.  
 After the explosion ends, the user is vulnerble for a number of rounds equal to the number of phases the explosion lasted +1.
 
+**Five Point Strike**
+User spends 5 ki points to perform 5 unarmed attacks as an action. The first attacks type will be force or piercing (evoker's choice), electrical, the second fire, the third cold, the fourth necrotic, and the fifth crushing.
+
 **Flash Step**  
 The user spends any number of ki points as an action to move a number of yards in any direction equal to the ki spent +1.
 
@@ -175,6 +178,9 @@ The user spends 2 ki as an action or reaction to fire a very narrow beam of ener
 
 **Penultimate Wave**  
 User spends at least 12 ki as an action to focus their ki. As an action or reaction within a number of phases equal to the amount of ki spent on the technique -10, the user may loose a blast of energy against a foe within a number of yards equal to the sum of their total attributes + their heroism. This inflicts 10 ki attacks against the foe. Additionally, if any of the attacks were successful, the user may inflict a single attack against the foe of any type of their choice. If 10 total attacks were successful as a result of this technique, the user recuperates 1d4-1 points of ki.
+
+**Phantasmal Blast**  
+User performs a Ki Blast or Ki Volley as normal. *The attacks are considered magical*. The critical hit effect of these attacks instead becomes that of a necrotic attack.
 
 **Raging Orb**  
 User performs a standard Ki Blast as normal, spending 4 additional ki points. On impact, the energy ball explodes. This inflicts a fire attack against everything within 5 yards and a force attack against everything within 3 yards.
