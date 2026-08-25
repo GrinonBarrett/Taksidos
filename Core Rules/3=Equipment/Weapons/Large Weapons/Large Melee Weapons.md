@@ -16,7 +16,7 @@
 | Morningstar            | $225 | 5 lb | 4 feet   | - | The punk-rock cousin of the mace, the morningstar's orb of a head is adorned with spikes to really get the point across. |
 | Pike                   | $235 | 10 lb | 6 yards   | Requires two hands. Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within three-quarters range (13.5 feet) have disadvantage. | A timeless weapon. |
 | Pole Axe               | $290 | 6.5 lb | 3 yards   | Requires two hands. | A large axe intended for use with both hands. The shaft is shorter than most polearms while the blade is longer and in greater embrace of the shaft. |
-| Spear                  | $195 | 7 lb | 4 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (2 yards) have disadvantage. | The common spear to be found on the battlefield. |
+| Spear                  | $205 | 7 lb | 4 yards   | Requires two hands. You can potentially attack over someone between yourself and the foe, but this imposes a -1 on the attack for each intervening creature. Attacks made against a foe within half range (2 yards) have disadvantage. | The common spear to be found on the battlefield. |
 | Warpick                | $240 | 5 lb | 4 feet   | - | A widely misunderstood weapon. It is intended to be used against a foe once they have been cast off balance, such as when they have been laid out. |
 
 
