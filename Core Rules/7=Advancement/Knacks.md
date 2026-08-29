@@ -12,7 +12,7 @@ When you press attack, and that attack is successful, you may either jump or cho
 **Guarding**, 2 items  
 Anytime you block with a shield and the triggering attack is a critical failure, it does not count against your reaction for the round.
 
-**Gunplay**. 1 item
+**Gunplay**. 1 item  
 You can use handheld firearms to perform an attack of opportunity with a range extending out a number of yards equal to your [Rflx] score and no closer than 1 yard (unless it is a tronutonante). The attack has disadvantage.
 
 **Hack and Slash**, 1 item  
