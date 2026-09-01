@@ -64,6 +64,8 @@ All radiant attacks have advantage against you. Radiant critical hits, in additi
 
 **Unnatural Creeping**: When you are prone, you do not suffer the usual penalty to movement.
 
-**Scramble**: Once per encounter, when the function of your reaction (such as a feint or parry) would allow you to perform an attack, you may choose instead to move.
+**Scramble**: Once per encounter, when the function of your reaction (such as a feint or parry) would allow you to perform an attack, you may choose instead to move. This movement does not provoke an attack of opportunity.
 
 **Ghoulish Grasp**: Your unarmed attacks gain a 1d4+1 bonus and can be treated as magical. You also gain a 1d4+1 bonus to checks related to maintaing your grapple against a foe.
+
+**Even The Dead Dismiss You**: Mindless undead creatures will not attack you. Attacks against you from undead creatures, other than the attacks of spells, have disadvantage against you.
