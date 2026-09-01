@@ -1,5 +1,5 @@
 # Arcanist
-Students of arcane magic. Arcanists are capable of memorizing spells broken into formulas.
+Students of arcane magic. Arcanists are capable of memorizing spells broken into formulas. They are copnsidered the most learned of magicians.
 
 **Class Skills**: Select one of the following (Alchemy, Lore, Spellcraft).
 
