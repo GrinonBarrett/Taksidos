@@ -92,9 +92,11 @@ If you posses an Edge and later receive an ability that is identical, you may ch
 
 • **Bravery Among Friends**. You must possess the Bravery feature before selecting this edge. Anytime you perform a save against a Fear affect, you may spend any amount of Luck. Yourself and each creature of your choice which can perceive you gain a bonus to their save equal to the luck spent this way.
 
+• **Focused Efforts**. If you spend 5 or more luck on a skill check and it is acritical success, you recover a point of luck.
+
 • **Fortune**. Your maximum luck pool increases by 2.
 
-• **Fortune Favors**. You must possess the Fortune feature before selecting this edge. Your Fortune feature now increases your maximum luck pool by an amount equal to your heroism.
+• **Fortune Favors**. You must possess the Fortune feature before selecting this edge. Your Fortune feature now increases your maximum luck pool by an amount equal to half of your level. 
 
 • **Grand Feat**. When performing a check or save, you may choose to roll 2d8 + your heroism in place of the 3d6. You must perform a rest before doing so again.
 
@@ -113,7 +115,11 @@ If you posses an Edge and later receive an ability that is identical, you may ch
 • **Riposte**. Once per round, if you parry an attack and that attack would have been a critical failure, you may perform a melee attack against that foe.
 Additionally, each level of training in your weapon grants you a +1 to your Parry attempts.
 
+• **Rogue Magic**. Once per counterpsell check, you may spend 2 points of luck to gain a +3 bonus to your counterspell check result.
+
 • **Shield Mastery**. You are able to use a shield like a true warrior. You may use it as a weapon, treating it as a club. You do not benefit from the warrior's weapon mastery of the club when used this way. You can gain training with them as though it were a weapon. If you gain Mastery with it, by specializing (or splashing) in the warrior class, you gain a bonus to parry checks equal to the shield's bonus. You also gain an additional +1 bonus to defense when blocking.  
+
+• **Skin of your Teeth**. If you spend 5 or more points of luck to modify a save, and it is a critical success, you recover a point of luck.
 
 • **Slick**. As a reaction, you may spend at least 2 luck points to grant yourself a +3 bonus to defense against a single attack. For each point spent beyond the first two, this bonus is increased by +1.
 
