@@ -45,7 +45,7 @@ When you side-step, the next attack made against you before the end of the round
 When you cleave, for each successful attack inflicted by the cleave, the attack gains a bonus for the purpose of inflicting a critical hit equal to the number of successful attacks made by the cleave so far. If an attack is a failure, this bonus is lost.
 
 ### 7) Grievous Clutch
-As an additional option when you have a critical success during a brawl, you may trade your turn order chit with the foe's.
+As an additional option when you have a critical success during a brawl, you may trade your turn order chit with the foe's. even if they do not consent to it.
 
 ### 8) Skilled Defense
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
