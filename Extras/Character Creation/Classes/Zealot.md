@@ -19,7 +19,7 @@ You live for the thrill of battle. The only time you feel alive is when you put 
 | 10th  | 5  |    +8    | Splash or Specialize                              |
 
 ### Fervance
-You gain the Lore skill. If you were already competent in the Lore skill you instead gain training ine two weapons of your choice.
+You gain the Lore skill. If you were already competent in the Lore skill you instead gain training in two weapons of your choice.
 Then, you gain training in a weapon of your choice (this may be a weapon already selected for having the Lore skill).
 
 ### Zeal
