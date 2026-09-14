@@ -10,11 +10,11 @@ Special creatures which may use it
 **Aesadov's Ring**, $7,000  
 Unique.  
 Neg.  
-A gold ring with the name "Aesadov" inscribed in the band. *Allows the wearer to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dimissed*.
+A gold ring with the name "Aesadov" inscribed in the band. *Allows the wearer to summon a specific Skirtterfalkh, for which the ring was named, to their side. It manifests approximately anywhere 1d12+1d20 yards away where it cannot be seen manifesting into existance. It is loyal, though it does have its own mind. If it dies, it will be forever perished. As an action, you may dismiss it- causing it to flee and dematerializing after some distance. While dismissed, it is considered to be resting. If it is dismissed for a whole week, it can benefit from an additional full rest for every whole week it is dismissed*.
 
 **Amulet of Near-Invulnerability**, $6,000  
 .5 lb.  
-A gaudy charm to be displayed from the wearer's breast. *The amount of additional wounds required to kill the wearer through massive damage is doubled. The wearer also gains a +2 to all saves against magical effects that would kill them, including incapicitation saves from such sources*.
+A gaudy charm to be displayed from the wearer's breast. *The amount of additional wounds required to kill the wearer through massive damage is doubled. The wearer also gains a +2 to all saves against magical effects that would kill them, including incapacitation saves from such sources*.
 
 **Amulet of Vitality**, $3,860  
 Neg.  
@@ -42,7 +42,7 @@ A beautiful cape of the finest design. These items are fairly rare and often cer
 
 **Cape of Assurance**, $7,000  
 1.5 lb.  
-A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxerious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wesring this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
+A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxurious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wesring this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
 
 **Cape of Carpes**, $9,500  
 1 lb.  
@@ -50,11 +50,11 @@ A cape of some blue shade like the waters nearest its weaver. It has a faint wav
 
 **Charm of Mitigation**, $3,300  
 1 lb.  
-An unsual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, they gain an addiitional +3 bonus to defense against attacks from it and +5 bonus to saves against the spell.
+An unusual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, they gain an additional +3 bonus to defense against attacks from it and +5 bonus to saves against the spell.
 
 **Charm of Wardance**, $2,800  
 1 lb.  
-A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an addiitional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
+A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an additional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
 
 **Cloak of Silverwinds**, $3,600  
 1.75 lb.  
@@ -73,7 +73,7 @@ A broad gold band which makes the most pleasent resonating sound when struck by 
 
 **Elfen Amulet**, $ 36,000  
 Neg.  
-A fine altyprium chain bears a likeclytch holding any manner of precious gemstone.  
+A fine altyprium chain bears a like clutch holding any manner of precious gemstone.  
 *A player character wearing this may choose to make a spellcheck a success with a single point of success automatically so long as the DV is not greater than level + heroism + [Magic] bonus. If they do, the stone dissolves and the amulet loses its power*.
 
 **False Torch**, $20,000  
@@ -88,18 +88,18 @@ A well made brace to be worn around the torso. Anytime the wearer attempts a [Bo
 
 **Glowing Ring**, $900  
 Neg.  
-A ring of any style or material. Much foner craftsmanship will incur a greater value than is listed, of course. *Produces dim light for .5 feet when worn*.
+A ring of any style or material. Much finer craftsmanship will incur a greater value than is listed, of course. *Produces dim light for .5 feet when worn*.
 
 **Green Giant's Bands**, $18,000  
 Unique  
 Neg.  
-Woven reeds, seqoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
+Woven reeds, sequoia bark, and some unfamiliar moss hold these primitive yet well made bracers together.
 *For the purpose of interacting with any creature native to the woods, or interacting with an object which resides therein, the wearer may treat themselves as having a [Body] of 23 (which brings a bonus of +7). Additionally, if the wearer is of great size, during the first round of any combat, the user's defense is increased by 1*.
 
 **Grulth**, $4,400  
 Unique  
 Neg.  
-A riing which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
+A ring which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
 Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
 
 **Helm of Silence**, $6,800  
@@ -132,11 +132,11 @@ A creature which has worn the ring to benefit finds the rust has stained their s
 
 **Jeel in a Jar**, $8,500  
 1 lb, plus contents.  
-A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to reutrn. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
+A resealable jar. It stores a 6" jeel inside which weighs a meager pound. When one opens it and allows the jeel to escape, they will find *they can command the jeel to a destination as an action*. The jeel is always able to sense where its home jar is. A morsel of food in the jar will tempt it to return. *No matter how large the jeel gets, it will manage to fit inside the jar, but will require a number of seconds equal to its weight in pounds*.
 
 **Lambant Cloak**, $4,000  
 1.5 lb.  
-A well enough cloak, it is comforting to some. *The user may choose to take on a point of spell sickness to activate the cloak. It radiates a smooth, if flickering  loght. This is fair light extending 1 foot and dim light reaching 5 feet beyond that. For every hour it is still active, it will incur the wearer an additional point of spell sickness. In combat, the flickering intensifies and the spell sickness will be 8ncirred at the end of every round instead. The light can be turned off at will*.
+A well enough cloak, it is comforting to some. *The user may choose to take on a point of spell sickness to activate the cloak. It radiates a smooth, if flickering  light. This is fair light extending 1 foot and dim light reaching 5 feet beyond that. For every half-hour it is still active, it will incur the wearer an additional point of spell sickness. In combat, the flickering intensifies and the spell sickness will be incurred at the end of every round instead. The light can be turned off at will*.
 
 **Nefalesider**, $600 per yard  
 1.5 lb. per yard.  
@@ -146,7 +146,7 @@ So long as it is being handled by a creature which is not affected by synnefopat
 **Periapt of Propulsion**, $10,000  
 1 lb.  
 A simpler metal amulet. It has minimal adornment.  
-*The caster may cast the bounding spell while wearing this as though it were a staff if the have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 1dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice. It can be used as a reaction by taking on an adittional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result*.
+*The caster may cast the Bounding spell while wearing this as though it were a staff if they have 15+ [Will]. As an action, the wearer may take on 2 points of spell sickness to have themselves move 1d12 + 2dx feet or yards (wearer's choice) in a direction of their choice. Where x is a die of the wearer's choice (it should be a die the player has physical access to). It can be used as a reaction by taking on an additional 1d4+1 points of spell sickness. If the distance of such a movement is ever equal to or less than the wearer's spell sickness, it will cease to function for a number of hours equal to the result*.
 
 **Periapt of Light**, $3,900  
 .5 lb.  
@@ -161,7 +161,7 @@ It appears to be a garden shovel, of the hand trowel sort, though the handle is 
 **Rarac's Left Hand**, $5,000  
 Unique  
 .5 lb.  
-The petrified hand of a trowar to be worn as a charm around the neck. *Necrotic attacks against the wearer have disadvantage*. If an attack is foiled as a result of this disadvantage, the hand will clench briefly. *If an attack is a critical hit against the wearer, the hand will choke the wearer*. This is treated as a grapple which (the hand has a result of 17).
+The petrified hand of a trowar to be worn as a charm around the neck. *Necrotic attacks against the wearer have disadvantage*. If an attack is foiled as a result of this disadvantage, the hand will clench briefly. *If an attack is a critical hit against the wearer, the hand will choke the wearer*. This choking is treated as a grapple which asphyxiates the wearer while it continues (the hand has a result of 17).
 
 **Ring of Arcane Charge**, $20,000  
 Neg.  
@@ -170,7 +170,7 @@ A ring that can very in quality, but always has either a pearl or piece of amber
 
 **Ring of Days**, $18,000  
 Neg.  
-A simple gloden ring with a little embelishment.  
+A simple golden ring with a little embellishment.  
 *As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time*.
 
 **Ring of Electrocution**, $15,500  
@@ -195,15 +195,15 @@ When first worn by a creature for the day, it must succeed a DV 20 [Will] save o
 
 **Ring of Greatness**, $7,800  
 Neg.  
-This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attibute of its wearer by 1.
+This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attribute of its wearer by 1.
 
 **Ring of Guarding**, $8,600  
 Neg.  
-The user may use their reaction *to create a forcefield in shape like a shield, blocking as though it were a shield. Roll 1d4, this is the defense from blocking. The wearer also gains this much spell sickness. If their spell sickness is ever equal to or greater than the defense bonus- the forcefield fails to materialize and the wearer simply gains a single point of spell sickness*.
+The user may use their reaction *to create a forcefield in shape like a shield, blocking as though it were a shield. Roll 1d4, this is the defense from blocking. The wearer also gains this much spell sickness. If their spell sickness already possessed by the user is ever equal to or greater than the defense bonus- the forcefield fails to materialize and the wearer simply gains a single point of spell sickness*.
 
 **Ring of Hiding**, $4,000  
 Neg.  
-A simple band with dull colored gemstones embedded. *Stimuli produced by the wearer is somewhat distorted when they wish to be hidden. For the purpose of stealth, the weaer's base DV is increased by +4. A wearer may only benefit from a single such ring at once*.
+A simple band with dull colored gemstones embedded. *Stimuli produced by the wearer is somewhat distorted when they wish to be hidden. For the purpose of stealth, the wearer's base DV is increased by +4. A wearer may only benefit from a single such ring at once*.
 
 **Ring of Lorylean**, $50,000  
 Unique.  
@@ -217,9 +217,9 @@ An altyprium ring of good quality clutching a small gem. This ring can store a m
 
 **Ring of Oppressive Force**, $28,000  
 Neg.  
-This thick banded ring features an intricate design and an inscritption in a dead tongue.  
+This thick banded ring features an intricate design and an inscription in a dead tongue.  
 When the user's attack against a foe is successful, including the attack of a spell, they may use their reaction to *impose one of the following*:  
-* Inflict a force attack againt the foe.
+* Inflict a force attack against the foe.
 * Inflict a crushing attack against the foe.
 * Inflict a force and a crushing attack against the foe, each with a -4 penalty.
 * Impose 1 yard of knockback against the foe.
@@ -260,11 +260,11 @@ This satchel magically refills itself with a single "dose" after 1d20+1d12+16 ho
 **Shining Helm**, $68,000  
 Unique  
 1.5 lb.  
-A fine helm polished to perfection. When worn, *it emits bright light out 1 yard, fair light a yard beyond that, and dim light 1 foot beyond that. When the wearer is wounded, the reach of the bright light is extended by a number a of feet equal to the attack result. Qhen this occurs, it inflicts a rafiant attack against every creature within the bright light other than the wearer.
+A fine helm polished to perfection. When worn, *it emits bright light out 1 yard, fair light a yard beyond that, and dim light 1 foot beyond that. When the wearer is wounded, the reach of the bright light is extended by a number a of feet equal to the attack result. Qhen this occurs, it inflicts a radiant attack against every creature within the bright light other than the wearer.
 
 **Spore Pouch**, $19,000
 1 lb.
-This pouch can be looped into one's belt for cobcenience. Inside it contains a strange pollen like substance. It can hold up to 12 "doses" of spores. *It can restore a single "dose" after 1d3 days. When hurled, the spores function exactly like one of the following spells of your choice (Scorching Spores, Syphon Spores, Wild Spores) with the user casting it as a wyrding regardless of whether they naturally have the capability or not. The tier of the spell is how many doses are required to be thrown. Additionally, if the wearer was already capable of casting one of those spells, they gain a +1 to spellchecks and counterspell checks involving said spell*. If the pouch is submerged, the spores inside are ruined and will disappear.
+This pouch can be looped into one's belt for convenience. Inside it contains a strange pollen like substance. It can hold up to 12 "doses" of spores. *It can restore a single "dose" after 1d3 days. When hurled, the spores function exactly like one of the following spells of your choice (Burning Spores, Psyphon Spores, Siphon Spores, Wild Spores) with the user casting it as a wyrding regardless of whether they naturally have the capability or not. The tier of the spell is how many doses are required to be thrown. Additionally, if the wearer was already capable of casting one of those spells, they gain a +1 to spellchecks and counterspell checks involving said spell*. If the pouch is submerged, the spores inside are ruined and will disappear.
 
 **Sring**, $4,936  
 Neg.  
@@ -288,4 +288,4 @@ A humble golden ring which appears to be worth only a tenth of its value at firs
 Unique.  
 2 pounds  
 A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
-*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and puporpses, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.
+*The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and purposes, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.
