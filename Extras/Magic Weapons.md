@@ -281,7 +281,7 @@ $15,800 , 4 lbs.
 Morningstar  
 A morning star notable for the twisted base of its spikes. When the user presses attack and the attack is a critical hit, *it also inflicts the effect of a critical sonic attack*.
 
-If name is the user may also sinply choose to apply this to a single attack they make each round.
+If name is the user may also simply choose to apply this to a single attack they make each round.
 
 **Kalazael** (*unique*)  
 $14,200 , 5.5 lbs.  
