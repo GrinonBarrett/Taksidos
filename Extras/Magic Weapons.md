@@ -21,7 +21,7 @@ A finely made axe. When it successfully harms a foe with spell sickness, that fo
 **Amratakalget** (*unique*)  
 $12,000 , 5.5 lbs.  
 Spear  
-This spear reaches a mighty 12 feet (meaining the -1 penalty occurs to attacks within 2 yards). The unusual head of this spear is quite an artistic piece which seems to be unneccessary, but grants a +4 bonus for the purpose of determining a critical hit against Monsters. If an attack roll result with this weapon is a 20, *the user may use their reaction to take on a point of spell sickness. If they do, it also inflicts an exotic attack of their choice*.
+This spear reaches a mighty 12 feet (meaining the -1 penalty occurs to attacks within 2 yards). The unusual head of this spear is quite an artistic piece which seems to be unnecessary, but grants a +4 bonus for the purpose of determining a critical hit against Monsters. If an attack roll result with this weapon is a 20, *the user may use their reaction to take on a point of spell sickness. If they do, it also inflicts an exotic attack of their choice*.
 
 **Archeburn** (*unique*)  
 $12,000 , 5 lbs.  
@@ -31,7 +31,7 @@ A longsword with a reach of 1.5 yards. It can be wielded with two hands to be tr
 **Ash Sower** (*unique*)  
 $25,000 , 3.5 lbs.  
 Longsword  
-This beautiful blade is never cold to the touch but not exactly warm. When it successfully is used against a creature of undeath, *it also inflicts a fire attack against that creature*. If a creature fails an incapaciation save as a result of a wound received from this weapon, *it inflicts a fire attack against that creature. Any creature slain with this weapon burns to ash and cannot be reanimated*.
+This beautiful blade is never cold to the touch but not exactly warm. When it successfully is used against a creature of undeath, *it also inflicts a fire attack against that creature*. If a creature fails an incapacitation save as a result of a wound received from this weapon, *it inflicts a fire attack against that creature. Any creature slain with this weapon burns to ash and cannot be reanimated*.
 
 If name is known, the attacks inflicted by this weapon get a +1 bonus for the purpose of inflicting a critical hit.
 
@@ -64,7 +64,7 @@ A smooth weighty disc intended to be thrown at stuff really, really, hard.  When
 **Calling Sting** (*unique*)  
 $5,000 , 2.5 lbs.  
 Shortbow  
-A shortbow made of flexible layers of yew and horn. It is said that this weapon brought down a Drakon in a single shot once. If an attack from this weapon would qualify to damage armor *it also inflicts a sonic attack*. If name is known, *it gains a 1d4-1 bonus for the purpose of determinin if the attack is a critical hit*. If user has warrior mastery with bows, an attack not made within optimal range gain a +1 bonus.
+A shortbow made of flexible layers of yew and horn. It is said that this weapon brought down a Drakon in a single shot once. If an attack from this weapon would qualify to damage armor *it also inflicts a sonic attack*. If name is known, *it gains a 1d4-1 bonus for the purpose of determining if the attack is a critical hit*. If user has warrior mastery with bows, an attack not made within optimal range gain a +1 bonus.
 
 **Ciurn** (*unique*)  
 $2,000 , 2.75 lbs.  
@@ -80,7 +80,7 @@ The blade stretches out 10 feet on this massive weapon. As an action, the user m
 **Cocomayal** (*unique*)  
 $14,000 , 5 lbs.  
 Flail  
-A haft and chain of silver match the skull which serves as this flail's head. The skull is addorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also inflicted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winding, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
+A haft and chain of silver match the skull which serves as this flail's head. The skull is adorned with spikes of hadrium, causing it be be treated as a morningstar for the defense type. If the attack roll of this weapon is a 2, 7, or 13, or if it would qualify for damaging a foe's armor, or the attack is a critical hit- *a necrotic attack is also inflicted against the foe*. Additionally, if wound for the entirety of the previous round, and no action has been made with it other than winding, you may cleave with it. If you do, *every creature successfully hit by the cleave is also subject to a necrotic or crushing attack (your choice)*.
 
 **Coolsong** (*unique*)  
 $10,400, 3.5 lbs.  
@@ -117,7 +117,7 @@ When the user presses attack with this weapon, or performs an aimed attack with 
 **Dimaye** (*unique*)  
 $2,600, 3 lbs.  
 Longsword  
-A finely made sword, somehwat lighter than would be expected. User gains *a +1 bonus for the purpose of inflicting a critical hit*.
+A finely made sword, somewhat lighter than would be expected. User gains *a +1 bonus for the purpose of inflicting a critical hit*.
 If name is known, bonus is instead a standard bonus to attack roll.
 
 **Dragon's Fear** (*unique*)  
@@ -140,7 +140,7 @@ If name is known, user may *treat the standard attack by this weapon as a fire o
 **Dreafaer**, (*unique*)  
 $6,535 , 3.5 lbs.  
 Madu  
-Used by many heros, this madu has somehow managed to save more lives than it has taken. *The user may block with this as though it was a shield. The bonus is equal to the user's training with the weapon +2. The weapon also gains a +2 bonus to parries and +2 bonus for the purpose of inflicting critical hits*.
+Used by many heroes, this madu has somehow managed to save more lives than it has taken. *The user may block with this as though it was a shield. The bonus is equal to the user's training with the weapon +2. The weapon also gains a +2 bonus to parries and +2 bonus for the purpose of inflicting critical hits*.
 
 **Dyrwyn** (*unique*)  
 $20,000 , 3.5 lbs.  
@@ -151,7 +151,7 @@ It is said that it currently is half buried by the tip in a molten river, which 
 **Echelon's Sting** (*unique*)  
 $15,000 , 2.25 lbs.  
 Katar  
-A punching dagger of great renown. It is said to fell all it has tasted. *WHen this weapon's attack would qualify to damage armor, it also inflicts a piercing attack. If it would inflict a critical hit but not qualify to damage armor, it inflicts an additional cutting attack. If name is known, and the successful attack roll is odd, the user may use their reaction to inflict an additional ki attack*.
+A punching dagger of great renown. It is said to fell all it has tasted. *When this weapon's attack would qualify to damage armor, it also inflicts a piercing attack. If it would inflict a critical hit but not qualify to damage armor, it inflicts an additional cutting attack. If name is known, and the successful attack roll is odd, the user may use their reaction to inflict an additional ki attack*.
 
 **Elfen Scour** (*unique*)  
 $7,600, 3.8 lbs.  
@@ -184,7 +184,7 @@ An enchanted weapon costs 3 times the base price and an additional $5,000. Depen
 **Elderfist** (*unique*)  
 $3,500 , 4.5 lbs.  
 Morningstar  
-This spiked weapon is capable of *projecting its protusions out in a hemisphere out 1.5 yards, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
+This spiked weapon is capable of *projecting its protrusions out in a hemisphere out 1.5 yards, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
 
 **Fanijin's Blade**, (*unique*)  
 $600, 3 lbs.  
@@ -194,7 +194,7 @@ This curved blade only reaches out 2 feet. *The user may take on a point of spel
 **Fearful Fang**, (*unique*)  
 $5,680 , 5 lbs.  
 Pole Axe  
-This pole axe features a serrated backhead. It's not the most practical design but it has been known to terrify foes. *WHen an attack would qualify to damage armor or is a critical hit, the foe is filled with fear. It suffers a -1 to all attack rolls, checks, penalties, and defense until the end of the next round*.  
+This pole axe features a serrated backhead. It's not the most practical design but it has been known to terrify foes. *When an attack would qualify to damage armor or is a critical hit, the foe is filled with fear. It suffers a -1 to all attack rolls, checks, penalties, and defense until the end of the next round*.  
 Additionally, if name is known, *and user presses attack, a necrotic attack is also inflicted. Instead of inflicting the standard necrotic critical hit effect- the foe is filled with such terror that they must move away from the user using all of their m,ovement until the end of the next round*.
 
 **Fetid Falchion** (*unique*)  
@@ -216,7 +216,7 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 **Fœtith** (*unique*)  
 $9,000 , 3.5 lbs.  
 Longsword  
-This blade is nothing extraordinary, and the hilt is slightly uncomrfortable to the touch and nose. When the user presses attack, *they may inflict a toxic or electric, as energy blasts from the blade*. The sword is cursed so that anytime a strike from it would qualify to damage armor, it will *inflict a toxic attack against both the foe and the user*.  
+This blade is nothing extraordinary, and the hilt is slightly uncomfortable to the touch and nose. When the user presses attack, *they may inflict a toxic or electric, as energy blasts from the blade*. The sword is cursed so that anytime a strike from it would qualify to damage armor, it will *inflict a toxic attack against both the foe and the user*.  
 If the name is known, the sword also functions as a staff for the spells Volt Switch and Vapors. If the sword is still cursed, a critical failure casting one of those spells *will inflict a toxic attack against the user*.  
 Removing the curse increases the value by about $3,000.
 
@@ -341,12 +341,12 @@ If name is known, *it can also inflict an additional acid attack when the user p
 **The Malachite Mace** (*unique*)  
 $12,800 , 4.25 lbs.  
 Mace  
-An earthen handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, influct 1d4 points of spell sickness against the foe. The mark left by this mace bears un unaturally wavering green hue*.
+An earthen handle accompanies the roughly hewn gemstone orb of a head to this weapon, as though the whole thing was carved from a single piece of raw ore. *Upon a successful hit, the foe is subject to a Xanthic Sign spell as though you successfully cast it against them. If the attack was a critical hit, inflict 1d4 points of spell sickness against the foe. The mark left by this mace bears an unnaturally wavering green hue*.
 
 **Moon Reaver** (*unique*)  
 $7,000 , 4.5 lbs.  
 Pole Axe  
-A finely made pole axe featuring crescent moon blades. *When user presses attack, it also inflicts an addttional attack roll. If Odd, it is radiant. If even, it is a ki attack*.  
+A finely made pole axe featuring crescent moon blades. *When user presses attack, it also inflicts an additional attack roll. If Odd, it is radiant. If even, it is a ki attack*.  
 If the name is known *the user may replace any critical hit effect caused by this weapon with that of either a bare attack or necrotic attack*.
 
 **Needle** (*unique*)  
@@ -362,7 +362,7 @@ A rather normal longsword with a vaguely magical aura. *If name is known, the sw
 **Palefist**, (*unique*)  
 $9,000 , 4 lbs.  
 Mace  
-This glorious beater is made almost entriely of a single piece of ivory, save for a flanged crown of altyprium which rests securely inside it.W  When inflicting a critical hit, *if the name is known, it can inflict an additional exotic critical hit effect of the user's choice*.
+This glorious beater is made almost entriely of a single piece of ivory, save for a flanged crown of altyprium which rests securely inside it. When inflicting a critical hit, *if the name is known, it can inflict an additional exotic critical hit effect of the user's choice*.
 
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
@@ -372,7 +372,7 @@ A mace made with a copious amount of platinum in its flanges. If its name is kno
 **Plight Swing** (*unique*)  
 $7,000 , 4.25 lbs.  
 Longsword  
-A sword which has saved many a man and woman in desperate times. *WHile user is vulnerable, they gain a +3 bonus to attacks*.  
+A sword which has saved many a man and woman in desperate times. *While user is vulnerable, they gain a +3 bonus to attacks*.  
 If name is known, *anytime the user presses attack while already vulnerable- they gain a bonus to the attack for the purpose of determining a critical equal to their current number of wounds*.
 
 **Rai** (*unique*)  
@@ -410,8 +410,8 @@ Uses [Prcp]. *When used, a beam of energy is fired at the foe, inflicting a soni
 **Sormreir** (*unique*)  
 $1,225 , neg.  
 Broadhead Arrow
-Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shaft is alder wood and the fletching are shishpare feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
-If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent pwrson to know its name and possess it*.
+Not a weapon per se, but a magical piece of ammunition of fine craftsmanship. Its shaft is alder wood and the fletching are shishpara feathers. When making an attack roll, *roll a d4 as well. Depending on the result, the arrow will deal a different critical hit effect. It also gains a bonus for the purpose of determining if it is a critical hit equal to the d4 result. If 1, it is fire. If 2, it is radiant, if 3 it is electric, if 4 it is piercing*.  
+If the user knows the arrow's name, they may choose to inflict the traditional critical hit effect instead. Additionally, *the arrow will always find its way back in their possession within 1d10 minutes so long as they are the most recent person to know its name and possess it*.
 
 **Spooky Tooth**, (*unique*)  
 $9,500 , .6 lb.  
@@ -422,7 +422,7 @@ The blade seems reluctant to allow reflections from its surface. When an attack 
 $22,000 , 5 lbs.  
 Greatsword  
 A legendary emerian sword said to bring many a villain and monster to fell. The reach is only 2 yards. If user has any training with greatswords and longsword, it can be used as either. *If the attack is a critical hit or would qualify to damage armor, it inflicts an additional attack. If the attack roll is odd, it is cold. If even, it electric*.  
-*If name is known, the user may choose which of the two damage types the damage type is. Additionally, if the additional attack is a critical hit or would qulify to damage armor, there is yet another additional attack of the other type*.
+*If name is known, the user may choose which of the two damage types the damage type is. Additionally, if the additional attack is a critical hit or would qualify to damage armor, there is yet another additional attack of the other type*.
 
 **Storm Spewer** (*unique*)  
 $20,000 , 3.75 lbs.  
@@ -455,7 +455,7 @@ Contains the spell *Pain Split*.
 $5,000 , 3.5 lbs.  
 Club  
 An oak staff bearing crystal inlays and iron bands. It was once wielded by the hero Hasavur.  
-Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffers an additional -2 penalty. One hand strikes may be performed at a range of 2 yards with disadvantage, otherwise the range is 1 yard regardless of hands. Follow up attacks do not have disadvantage with this weapon so long as you have training with clubs and spears and have two hands available. If you have Warrior Mastery with Clubs, Mauls, Pole Axes, or Spears, you may choose to benefit from one of those when declaring an attack. Furthermore, if you have Warrior Matery with clubs, you reduce the panalty to any attack with this weapons by 1. If name is known, *inflicts a crushing attack whenever it would qualify to damage armor*.
+Two handed. All attacks suffer a -1 penalty. Can be used with one hand but suffers an additional -2 penalty. One hand strikes may be performed at a range of 2 yards with disadvantage, otherwise the range is 1 yard regardless of hands. Follow up attacks do not have disadvantage with this weapon so long as you have training with clubs and spears and have two hands available. If you have Warrior Mastery with Clubs, Mauls, Pole Axes, or Spears, you may choose to benefit from one of those when declaring an attack. Furthermore, if you have Warrior Mastery with clubs, you reduce the penalty to any attack with this weapons by 1. If name is known, *inflicts a crushing attack whenever it would qualify to damage armor*.
 
 **Thunder Fang** (*unique*)  
 $6,000 , .33 lb.  
@@ -465,13 +465,13 @@ The finest crafted throwing knife you have seen in your life. While stuck in a f
 **Thunder's Whisper** (*unique*)  
 $6,000 , 9 lb.  
 Pike  
-This pike seems to reaonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the use have disadvantage*.
+This pike seems to resonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the use have disadvantage*.
 
 **Tolminth** (*unique*)  
 $12,000, .33 lb.  
 Throwing Blade  
 This well made blade features a handle of copper and bone. When an attack result with this weapon is the exact number required to successfully afflict a foe, *it also inflicts a sonic attack as a cracking sound can be heard for a mile*.  
-If name is known, *when either attack from the weapon qualifies to inflict damage to armor, it also inflicts a foce attack. If the force attack is a critical hit, it instead inflicts knockback for xd4 feet, where X is the number of attacks successfully inflicted against the creature with the single action/reaction*.
+If name is known, *when either attack from the weapon qualifies to inflict damage to armor, it also inflicts a force attack. If the force attack is a critical hit, it instead inflicts knockback for xd4 feet, where X is the number of attacks successfully inflicted against the creature with the single action/reaction*.
 
 **Torch Of Dulzorn**  
 $1,000 , 4 lb.  
@@ -492,7 +492,7 @@ A sword which may have been finely made, but has seen many damaging battles. Whe
 **Vengeance Burn** (*unique*)  
 $10,000 , 3.5 lbs.  
 Spear  
-An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
+An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less unwieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
 
 **Vehemente's Escape** (*unique*)  
 $6,000 , 2 lbs.  
@@ -502,7 +502,7 @@ A staff of maple with a blade affixed quit smoothly into its shape. It can infli
 **Vicious Fang** (*unique*)  
 $5,000 , 2 lbs.  
 Katar  
-A keen blade and ornamented handle might deceive one into believing it to be a cermonial weapon. If the wielder has Warr Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
+A keen blade and ornamented handle might deceive one into believing it to be a cermonial weapon. If the wielder has Warrior Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
 
 **Vrelard's Way**  
 $ 1,900, 3 lb.  
@@ -517,7 +517,7 @@ This warhammer is well made. It can be thrown as a thrown blade, but inflicts an
 **Whip of Thorns and Frost** (*unique*)  
 $10,000 , 2 lbs.  
 Flail  
-Made of a smooth slender and flexible branch of an unknown plant. Unlike most whips, this can actually harm a foe. It needs not be wound to attack, but still gains the bonus for having an additional winding action before attacking. Inflicts a thrown blade attack. If the attack qualifies to damage armo, is a critical hit, *or is successful in any degree against an undead creature*, it also inflicts a piercing attack.  
+Made of a smooth slender and flexible branch of an unknown plant. Unlike most whips, this can actually harm a foe. It needs not be wound to attack, but still gains the bonus for having an additional winding action before attacking. Inflicts a thrown blade attack. If the attack qualifies to damage armor, is a critical hit, *or is successful in any degree against an undead creature*, it also inflicts a piercing attack.  
 
 If name is known, when pressing attack, *the attack can be changed to either cutting or cold. Alternatively the critical hit effect of the standard attack can be changed to that of a cold, cutting, or piercing*.
 
@@ -530,7 +530,7 @@ A gnarled warpick forged in curses against humanity. Anytime it inflicts an atta
 $7,410 , 3 lbs.  
 Longsword  
 This altyprium sword is somewhat light for its design, and features a small strange curve on the last few inches of the blade. It is one of the most comfortable swords to swing by most skilled swordsmen. *A critical hit with this weapon also inflicts the effect of an electric attack*.  
-If name is known, *user gains a +1 bonus to attacks with it. Additionally, anytime they peform a critical hit with any melee attack or slam a foe- they may use their reaction to also inflict an electric attack. This may occur even if the sword is sheathed*.
+If name is known, *user gains a +1 bonus to attacks with it. Additionally, anytime they perform a critical hit with any melee attack or slam a foe- they may use their reaction to also inflict an electric attack. This may occur even if the sword is sheathed*.
 
 **Zenetessore** (*unique*)  
 $8,650 , 8.75 lbs.  
@@ -540,7 +540,7 @@ This oaken crossbow features inlays gilded in copper and brass depicting some cr
 **Zerun's Eye**  
 $11,500 , neg.  
 None (see below)  
-A medallion which looks to be a short handled two-headed axe at first glance, though carful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
+A medallion which looks to be a short handled two-headed axe at first glance, though careful observation will find that one head is a hammer. This is considered a holy symbol to those that are in deep reverence for Zerun.  
 The wearer gains a +1 to defense against magical and electrical attacks. Additionally, *this medallion can grow into an appropriately sized weapon for its wearer and detach from its chain as an action, though this requires a full round to complete*. In its weapon form, the weapon can be used as either a hand axe or a mace. Additionally, *on a critical hit, the user may treat it as an electric attack*. *Anytime the user presses attack with this weapon, they may treat it as an electric attack*. One with either training in hand axes or maces, and thrown blades, may throw it like a javelin (treating it as the hand axe/mace upon impact). If they do, *they may use their reaction to recall it to their hand*. *Returning it to its original size is an action, but requires a full round to complete*.
 
 **Zrianian Throwing Spear**  
@@ -551,7 +551,7 @@ When this weapon's attack would qualify to damage armor, the foe instead receive
 **Zryf**  
 $23,875 , 4 lbs.  
 Longsword  
-This arming sword seems to feature a blued steel blade. Upon a successful attack with this weapon, *it flashes with a neon teal flame. It inflicts a Cutting attack and Ki attack against that foe. It will also inflict a random wound against the wielder (treat a wound rrsult of 1 as an instance of Archeblight). This does not lower the hitpoints of the wielder or cause an incapacitation save. The wielder may use their reaction in response to the initial attack being successful to avoid receiving this wound*.
+This arming sword seems to feature a blued steel blade. Upon a successful attack with this weapon, *it flashes with a neon teal flame. It inflicts a Cutting attack and Ki attack against that foe. It will also inflict a random wound against the wielder (treat a wound result of 1 as an instance of Archeblight). This does not lower the hitpoints of the wielder or cause an incapacitation save. The wielder may use their reaction in response to the initial attack being successful to avoid receiving this wound*.
 
 **Zupod** (*unique*)  
 $1,300 , 2 lbs.  
@@ -562,5 +562,5 @@ Upon inflicting a critical hit, *also inflicts a force critical hit effect*. If 
 **Zyclod's Javelin** (*unique*)  
 $2,500,000 , 7 lbs.  
 Javelin (large)  
-Composed of an eternal lightning boltning bolt, this item will inflict an electrical attack against any creature in contact with it at the end of each phase. Anytime an attack would be made with it, it instead inflicts an electric attack and a piercing attack. A creature applies their heroism to attack rolls made with the weapon for the purpose of inflicting a critical hit. If an attack would qualify to damage armor, *it inflicts an electric attack against each other creature with a number of yards equal to the attack roll result*.  
+Composed of an eternal lightning bolt, this item will inflict an electrical attack against any creature in contact with it at the end of each phase. Anytime an attack would be made with it, it instead inflicts an electric attack and a piercing attack. A creature applies their heroism to attack rolls made with the weapon for the purpose of inflicting a critical hit. If an attack would qualify to damage armor, *it inflicts an electric attack against each other creature within a number of yards equal to the attack roll result*.  
 If name is known (the narrator decides its name), *it can be returned to the user's hand by using their reaction*.
