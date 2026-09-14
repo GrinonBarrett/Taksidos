@@ -3958,6 +3958,23 @@ Natural winds cannot penetrate the spell's area. If the spellcheck is a critical
 
 **Critical Failure**: You produce the whirlwind as normal, but it will affect you as it would any other creature except the attacks gain a bonus against you equal to the spell's tier for the purpose of inflicting a critical hit. It will last for a number of phases equal to the points of failure.
 
+#### Siphon Spores
+
+**Minimum Tier**: 5
+
+**Casting Time**: 4 actions
+
+**Effect**: You cast spores out 6 yards from yourself in all directions and an additional cone of 10 yards. Each creature afflicted by the spores must succeed a [Fort] save or suffer disadvantage on all Attack rolls, [Body] checks/saves, [Fort] checks/saves, and counterspell checks until the end of the next round. A critical failure causes the creature to lose a hitpoint. You have a percentage chance of recovering a hitpoint based on the save result of each creature.  
+* Critical success = +0
+* Success = +1
+* Failure = +3
+* Critical Failure = +7
+A creature must have remaining hitpoints to contribute to the percentage chance of you recovering a hitpoint.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, you may choose to either increase the range of the cone by 3 yards or the range effect stretching out from yourself by 2 yards.
+
+**Critical Failure**: Feel yourself afflicted by a tocic attack which gains a bonus equal to the spell's tier. You then suffer a toxic attack which ignores armor and gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You are affected as though by the spores until end of round.
+
 #### Sludgery
 
 **Minimum Tier**: 2
@@ -4213,23 +4230,6 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 **At Higher Tiers**: Each tier beyond minimum increases the duration by 2 hours.
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
-
-#### Syphon Spores
-
-**Minimum Tier**: 5
-
-**Casting Time**: 4 actions
-
-**Effect**: You cast spores out 6 yards from yourself in all directions and an additional cone of 10 yards. Each creature afflicted by the spores must succeed a [Fort] save or suffer disadvantage on all Attack rolls, [Body] checks/saves, [Fort] checks/saves, and counterspell checks until the end of the next round. A critical failure causes the creature to lose a hitpoint. You have a percentage chance of recovering a hitpoint based on the save result of each creature.  
-* Critical success = +0
-* Success = +1
-* Failure = +3
-* Critical Failure = +7
-A creature must have remaining hitpoints to contribute to the percentage chance of you recovering a hitpoint.
-
-**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, you may choose to either increase the range of the cone by 3 yards or the range effect stretching out from yourself by 2 yards.
-
-**Critical Failure**: Feel yourself afflicted by a tocic attack which gains a bonus equal to the spell's tier. You then suffer a toxic attack which ignores armor and gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You are affected as though by the spores until end of round.
 
 ### T (15
 
