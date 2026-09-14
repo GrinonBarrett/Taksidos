@@ -378,7 +378,7 @@ If name is known, *anytime the user presses attack while already vulnerable- the
 **Rai** (*unique*)  
 $13,000 , 3.25 lbs.  
 Longsword (Large)  
-This shortsword is made for a gaint and features a wonderful keen blade. When the wielder presses attack, the attack type may be treated as a Cutting attack. *If the attack roll result of any attack with the weapon would be a 7, 13, or qualify to damage armor, it also inflicts an electrical attack*.  
+This shortsword is made for a giant and features a wonderful keen blade. When the wielder presses attack, the attack type may be treated as a Cutting attack. *If the attack roll result of any attack with the weapon would be a 7, 13, or qualify to damage armor, it also inflicts an electrical attack*.  
 If its name is known, *an electrical attack is inflicted against each foe within a cleave performed by the wielder*.
 
 **Ralafasse** (*unique*)  
