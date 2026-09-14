@@ -21,7 +21,7 @@ A finely made axe. When it successfully harms a foe with spell sickness, that fo
 **Amratakalget** (*unique*)  
 $12,000 , 5.5 lbs.  
 Spear  
-This spear reaches a mighty 12 feet (meaining the -1 penalty occurs to attacks within 2 yards). The unusual head of this spear is quite an artistic piece which seems to be unnecessary, but grants a +4 bonus for the purpose of determining a critical hit against Monsters. If an attack roll result with this weapon is a 20, *the user may use their reaction to take on a point of spell sickness. If they do, it also inflicts an exotic attack of their choice*.
+This spear reaches a mighty 12 feet (meaning the -1 penalty occurs to attacks within 2 yards). The unusual head of this spear is quite an artistic piece which seems to be unnecessary, but grants a +4 bonus for the purpose of determining a critical hit against Monsters. If an attack roll result with this weapon is a 20, *the user may use their reaction to take on a point of spell sickness. If they do, it also inflicts an exotic attack of their choice*.
 
 **Archeburn** (*unique*)  
 $12,000 , 5 lbs.  
