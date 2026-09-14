@@ -3228,7 +3228,7 @@ When the duration expires, the motes fade from existence. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (18
+### P (19
 
 #### Pagomancy
 
@@ -3524,6 +3524,18 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range at which you can reach a target is increased by 1 yard.
 
 **Critical Failure**: Yourself and the target receive a normal psychic attack as you unintentionally cause an unstable psychic connection. For a number of rounds equal to the combined [Inte] bonus of yourself and the target, it gains advantage on attacks and counterspell checks against you. At the end of this time, you receive a psychic attack with a bonus equal to the target's [Inte] bonus.
+
+#### Psyphon Spores
+
+**Minimum Tier**: 4
+
+**Casting Time**: 3 actions
+
+**Effect**: While you cast this spell, you think of a subject. You cast spores out stretching 3 yards from yourself or in a 4 yard cone. Inflict an undamaging attack against each creature within the spores (except yourself). If an attack is successful against a creature, you know if it knows something about the topic you do not. If it is a critical success, it incurs an instance of spell sickness and you gain some of its knowledge on the subject (ask your narrator). If the attack fails, you simply do not know. If the attack is a critical failure, it will render the opposite feeling as to whether or not it knows something you don't. If you choose a vague topic, the narrator may deem the creature can gain a bonus equal to its [Will] bonus against the attack. If psychic attacks against a creature have disadvantage, the attack has a -4 penalty. If that creature is immune to psychic attacks, this attack has disadvantage. Cannot affect a mindless creature (save for the spell sickness).
+
+**At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond minimum, you may choose to either increase the range by 1/3.
+
+**Critical Failure**: You become dazed for a number of rounds equal to the spell's tier and Psychic and Toxic attacks against you have advantage during this time.
 
 #### Puncture
 
