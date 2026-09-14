@@ -1,4 +1,4 @@
-Rarer than magical weapons, magical armor can be a major advantage in battle. FInding someone to repair such armor is difficult, as they must be partnered with or themselves a master smith and a skilled mage.
+Rarer than magical weapons, magical armor can be a major advantage in battle. Finding someone to repair such armor is difficult, as they must be partnered with or themselves a master smith and a skilled mage.
 
 **Armor Classification**  
 Name  
@@ -52,7 +52,7 @@ An enchanted armor costs 3 times the base price and an additional $4,000. Depend
 * Tuned: Sonic.
 * Vital: Toxic.
 
-Cost to repair is quadruiple the normal cost. Any competent armorer that gets ahold of this will understand its magical nature and will know if they can repair it.
+Cost to repair is quadruple the normal cost. Any competent armorer that gets ahold of this will understand its magical nature and will know if they can repair it.
 
 **Explosive Plates**  
 Cuirass  
@@ -77,7 +77,7 @@ A set of polished round plates that offers moderate protection against blades an
 Plate  
 $400,000, 55 lb.  
 2/4  
-A full suit of plate armor made with volcanic glass in addition to the standard materials. *The wearer is affected as though by a molten form spell while worn, though it is still considered to wear plate. The suit cannot be safely removed unless the armor is supressed by a Disimpress spell of 3rd tier or greater or some other magic nullifying effect*.
+A full suit of plate armor made with volcanic glass in addition to the standard materials. *The wearer is affected as though by a molten form spell while worn, though it is still considered to wear plate. The suit cannot be safely removed unless the armor is suppressed by a Disimpress spell of 3rd tier or greater or some other magic nullifying effect*.
 Cost to repair is $1,000 per point.
 
 **Planar Plates**  
