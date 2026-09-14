@@ -394,7 +394,7 @@ Can be found in any size, with each size category increasing the weight by half 
 **Roz** (*unique*)  
 $9,000 , 4 lbs.  
 Flail  
-This flail is more akin to a threshing flail than a chain mace w3ith a handle. It inflicts a club attack. *When an attack is performed, a number if is called and damaage type declared by the wielder. If the attack roll result is equal to the called number, it also inflicts an attack of the chosen type*.
+This flail is more akin to a threshing flail than a chain mace with a handle. It inflicts a club attack. *When an attack is performed, a number if is called and damage type declared by the wielder. If the attack roll result is equal to the called number, it also inflicts an attack of the chosen type*.
 
 **Shakasawt**  
 $10,000 , 6 lbs.  
