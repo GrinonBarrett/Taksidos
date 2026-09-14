@@ -407,6 +407,11 @@ $2,500 , .1 lb.
 Wand  
 Uses [Prcp]. *When used, a beam of energy is fired at the foe, inflicting a sonic attack. It sounds like a phantasmal voice is singing when used. If name is known, user cannot gain Spell Sickness from this weapon*.
 
+**Siphoning Sabre** (*unique*)  
+$8,500 , 3 lbs.  
+Longsword  
+A light sword that never seems to stain. If the sabre inflicts the killing blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
+
 **Sormreir** (*unique*)  
 $1,225 , neg.  
 Broadhead Arrow
@@ -434,11 +439,6 @@ $11,750 , 17 lbs.
 Maul  
 This "maul" is an oak shaft magically hewn into a rough cut shape of stone. Requires [Body] 17 to use in just two hands, or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
 It is said that large creatures can use it as though it were a large weapon, but still require the minimum [Body].
-
-**Syphoning Sabre** (*unique*)  
-$8,500 , 3 lbs.  
-Longsword  
-A light sword that never seems to stain. If the sabre inflicts the killing blow against a creature which has a maximim hitpoints of at least 2, *user recovers a single hitpoint*.
 
 **Talavaste** (*unique*)  
 $2,200 , 4 lb.  
@@ -492,7 +492,7 @@ A sword which may have been finely made, but has seen many damaging battles. Whe
 **Vengeance Burn** (*unique*)  
 $10,000 , 3.5 lbs.  
 Spear  
-An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less unwieldy than the common variety. This cause a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
+An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 yards, this spear is a bit less wieldy than the common variety. This causes a -1 to attacks made with it. *Anytime this weapon wounds a creature, it automatically applies the effect of a Fire critical hit*. If the wielder has Warrior Mastery with Spears, they ignore the -1 penalty with this weapon.
 
 **Vehemente's Escape** (*unique*)  
 $6,000 , 2 lbs.  
@@ -502,7 +502,7 @@ A staff of maple with a blade affixed quit smoothly into its shape. It can infli
 **Vicious Fang** (*unique*)  
 $5,000 , 2 lbs.  
 Katar  
-A keen blade and ornamented handle might deceive one into believing it to be a cermonial weapon. If the wielder has Warrior Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
+A keen blade and ornamented handle might deceive one into believing it to be a ceremonial weapon. If the wielder has Warrior Mastery with Katar weapons, the attacks gain an additional +1 for the purpose of determining a critical hit. *If name is known, the weapon gains a +1 to all attack rolls and beats*.
 
 **Vrelard's Way**  
 $ 1,900, 3 lb.  
