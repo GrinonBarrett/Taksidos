@@ -128,7 +128,7 @@ A greatsword from the time when elves ruled over castles, giants roamed the land
 **Dragon's Fist** (*unique*)  
 $6,700 , 2 lbs.  
 Katar  
-A serrated blade on this punching dagger grants it a -1 against foes in plate and foes blocking with a shield, but a +1 against unarmored foes and foes in gambeson or cuirass (unless blocking with a shield). When you clave with this weapon *you may use your reaction to gain 1d4-1 points of spell sickness. If you do, a flash of fire is produced, inflicting a fire attack against each creature your cleave attacks. The effects of the fire attacks have no effect on the cleave. If you have more spell sickness than the number of creatures within your cleave arc, you cannot do this*.  
+A serrated blade on this punching dagger grants it a -1 against foes in plate and foes blocking with a shield, but a +1 against unarmored foes and foes in gambeson or cuirass (unless blocking with a shield). When you cleave with this weapon *you may use your reaction to gain 1d4-1 points of spell sickness. If you do, a flash of fire is produced, inflicting a fire attack against each creature your cleave attacks. The effects of the fire attacks have no effect on the cleave. If you have more spell sickness than the number of creatures within your cleave arc, you cannot do this*.  
 If name is known *user may choose to have the critical hit of this weapon treated as that of a fire attack*.
 
 **Dragon's Tongue** (*unique*)  
@@ -195,7 +195,7 @@ This curved blade only reaches out 2 feet. *The user may take on a point of spel
 $5,680 , 5 lbs.  
 Pole Axe  
 This pole axe features a serrated backhead. It's not the most practical design but it has been known to terrify foes. *When an attack would qualify to damage armor or is a critical hit, the foe is filled with fear. It suffers a -1 to all attack rolls, checks, penalties, and defense until the end of the next round*.  
-Additionally, if name is known, *and user presses attack, a necrotic attack is also inflicted. Instead of inflicting the standard necrotic critical hit effect- the foe is filled with such terror that they must move away from the user using all of their m,ovement until the end of the next round*.
+Additionally, if name is known, *and user presses attack, a necrotic attack is also inflicted. Instead of inflicting the standard necrotic critical hit effect- the foe is filled with such terror that they must move away from the user using all of their movement until the end of the next round*.
 
 **Fetid Falchion** (*unique*)  
 $5,500 , 2 lbs.  
