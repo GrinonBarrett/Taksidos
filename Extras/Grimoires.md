@@ -11,6 +11,59 @@ The materials to create a grimoire sturdy enough to be reliable for one to learn
 $6,000, 2.5 lbs.  
 A generic tome contains 3 randomly determined basic spells at their minimum tier. These are often the result of one recording their own notes and transcribing other materials.
 
+**Codex Valder, Volume I**  
+*Unique*  
+$6,500, 5 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearance and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Aldervalder, 4th
+* Thornvalder, 4th
+* Wengevalder, 4th
+
+**Codex Valder, Volume II**  
+*Unique*  
+$6,500, 5 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearance and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Ertvalder, 4th
+* Fyrvalder, 4th
+* Waedervalder, 4th
+
+**Codex Valder, Volume III**  
+*Unique*  
+$6,500, 5 lbs  
+An intensive study of the folk magic spirits called valders. It includes tales of their appearance and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
+* Isevalder, 4th
+* Wildervalder, 4th
+* Wurmvalder, 4th
+
+**Fanijin's Tome**  
+*Unique*  
+$10,000 , 3.5 lbs.  
+A tome written by an immature elf long ago. This grimoire contains the following spells at the indicated tiers;  
+* Call Lightning, 2nd
+* Fyrvalder, 3rd
+* Green Ward, 1st
+* Flare, 2nd
+* Sunshower, 2nd
+
+**Grelald's Tome**  
+*Unique*  
+$9,400 , 6 lbs.  
+This tome is filled with more rambling than anything else. *Anyone marked by a Xanthic Sign will seem to see secret messages within the texts that encourages them to perform malicious tasks*. This grimoire contains the following spells at the indicated tiers;  
+* Behest, 2nd
+* Edify, 1st
+* Psychilysis, 4th
+* Sapiafi, 3rd
+* Xanthic Sign, 4th
+
+**Haldre's Tome**  
+*Unique*  
+$7,800, 3 lbs.  
+The personal tome of Haldre, writ before his untimely demise nearly a decade ago. Unfortunately, it doesn't seem he developed any unique spells in his life. This grimoire contains the following spells at the indicated tiers;  
+* Alarum, 1st
+* Faux Fos, 1st
+* Frost Lance, 3rd
+* Grasp, 2nd
+
 **Hu'Althur's Handbook for Healers**  
 $11,000 , 4 lbs  
 A copy of a tome written by Hu'Althur of the Sanctorum on those spells he thought should be basic to the Wardens of the Sanctorum. It also provides a +1 bonus to Medicine checks when used as a reference. This grimoire contains the following spells at the indicated tiers;
@@ -22,7 +75,7 @@ A copy of a tome written by Hu'Althur of the Sanctorum on those spells he though
 
 **Macabre Manual**  
 $11,000, 6 lbs  
-A more intensive study of a grimoire. This tome includes knowledge of taboo magicas and the undead. If using the Grimoire as a reference for Spellcraft or Zoology (undead) checks, it grants a +1 bonus . This grimoire contains the following spells at the indicated tiers;  
+A more intensive study of a grimoire. This tome includes knowledge of taboo magics and the undead. If using the Grimoire as a reference for Spellcraft or Zoology (undead) checks, it grants a +1 bonus . This grimoire contains the following spells at the indicated tiers;  
 * Abolish Abomination, 3rd
 * Animation, 3rd
 * Defiling Detonation, 3rd
@@ -66,7 +119,7 @@ A nearly forgotten work which expresses many approaches to disabling magical fie
 
 **Tome of the Flesh Shaper**  
 $10,000 , 4 lbs  
-A rare book bound in the tanned flesh of elves and ink in the ash of their ruins. This grimoire contains the following spells at the indicated tiers;
+A rare book bound in the tanned flesh of elves and inked in the ash of their ruins. This grimoire contains the following spells at the indicated tiers;
 * Animation, 2nd
 * Defiling Detonation, 3rd
 * Jaunt Macabre, 3rd
@@ -75,23 +128,32 @@ A rare book bound in the tanned flesh of elves and ink in the ash of their ruins
 
 **Tome of a Forgotten Magi**  
 $10,000, 3.5 lbs.  
-A tome written by some nameless arcane practioner. This grimoire contains the following spells at the indicated tiers;  
+A tome written by some nameless arcane practitioner. This grimoire contains the following spells at the indicated tiers;  
 * Alarum, 1st
 * Destructive Volley, 1st
 * Disimpress, 2nd
 * Imbue, 1st
 * Silent Alarm, 2nd
 
+**Tome of the Moonlit Night**  
+*Unique*  
+$8,300, 4 lbs.  
+This tome was created as a sort of instruction manual for a mage's pupil. Despite this, it is rather poetic in its manner of writing. This grimoire contains the following spells at the indicated tiers;  
+* Moonfire, 4th
+* Nightburn, 2nd
+* Threads of the Stars, 4th
+* Wild Orb, 3rd
+
 **Tome of the Pyromancer**  
 $8,000, 2.5 lbs.  
-One of a number of tomes written by one who has become obssessed with fire magic. This grimoire contains the following spells at the indicated tiers;  
-* Decumbustion, 3rd
+One of a number of tomes written by one who has become obsessed with fire magic. This grimoire contains the following spells at the indicated tiers;  
+* Decombustion, 3rd
 * Dragon's Breath, 2nd
 * Flameward, 1st
 * Lava Axe, 2nd
 
 **Tome of the Thermotiurgist**  
-$ 8,000, 3 lbs  
+$8,000, 3 lbs  
 A more intensive study of a grimoire. This is engaged in magics involving thermal energy. This grimoire contains the following spells at the indicated tiers;  
 * Everwarmth, 1st
 * Faux Fos, 1st
@@ -118,7 +180,7 @@ One of many copies of a once critical tome. This grimoire contains the following
 
 **Tome of the Warmage**  
 $10,000, 3.5 lbs.  
-A manual written to teach the most important spells for one caught on the battlefield. Many a warmage has sworn by the neccesity of the spells contained within. This grimoire contains the following spells at the indicated tiers;  
+A manual written to teach the most important spells for one caught on the battlefield. Many a warmage has sworn by the necessity of the spells contained within. This grimoire contains the following spells at the indicated tiers;  
 * Abatis, 2nd
 * Ablataive Guard, 3rd
 * Imbue, 1st
@@ -133,68 +195,6 @@ A scholarly tome which is directed at magics involving liquids. It's kind has be
 * Hydromorphy, 3rd
 * Waterworking, 1st
 * Ygroapathy, 3rd
-
-**Codex Valder, Volume I**  
-*Unique*  
-$6,500, 5 lbs  
-An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
-* Aldervalder, 4th
-* Thornvalder, 4th
-* Wengevalder, 4th
-
-**Codex Valder, Volume II**  
-*Unique*  
-$6,500, 5 lbs  
-An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
-* Ertvalder, 4th
-* Fyrvalder, 4th
-* Waedervalder, 4th
-
-**Codex Valder, Volume III**  
-*Unique*  
-$6,500, 5 lbs  
-An intensive study of the folk magic spirits called valders. It includes tales of their appearence and methods for summoning them. It has yet to be duplicated. This grimoire contains the following spells at the indicated tiers;  
-* Isevalder, 4th
-* Wildervalder, 4th
-* Wurmvalder, 4th
-
-**Fanijin's Tome**  
-*Unique*  
-$10,000 , 3.5 lbs.  
-A tome written by an immature elf long ago. This grimoire contains the following spells at the indicated tiers;  
-* Call Lightning, 2nd
-* Fyrvalder, 3rd
-* Green Ward, 1st
-* Flare, 2nd
-* Sunshower, 2nd
-
-**Grelald's Tome**  
-*Unique*  
-$9,400 , 6 lbs.  
-This tome is filled with more rambling than anything else. *Anyone marked by a Xanthic Sign will seem to see secret messages within the texts that encourages them to perform malicious tasks*. This grimoire contains the following spells at the indicated tiers;  
-* Behest, 2nd
-* Edify, 1st
-* Psychilysis, 4th
-* Sapiafi, 3rd
-* Xanthic Sign, 4th
-
-**Haldre's Tome**  
-*Unique*  
-$7,800, 3 lbs.  
-The personal tome of Haldre, writ before his untimely demise nearly a decade ago. Unfortunately, it doesn't seem he developed any unique spells in his life. This grimoire contains the following spells at the indicated tiers;  
-* Alarum, 1st
-* Faux Fos, 1st
-* Frost Lance, 3rd
-* Grasp, 2nd
-
-**Tome of the Moonlit Night**  
-*Unique*  
-$8,300, 4 lbs.  
-This tome was created as a sort of instuction manual for a mage's pupil. Despite this, it is rarher poetic in its manner of writing. This grimoire contains the followibg spells at the indicated tiers;  
-* Moonfire, 4th
-* Nightburn, 2nd
-* Threads of the Stars, 4th
-* Wild Orb, 3rd
 
 **Zorne's Tome**  
 *Unique*  
