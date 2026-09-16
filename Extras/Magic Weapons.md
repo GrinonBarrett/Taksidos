@@ -216,7 +216,7 @@ If the weapon's name is known, the user may *treat a critical hit with the weapo
 **Fœtith** (*unique*)  
 $9,000 , 3.5 lbs.  
 Longsword  
-This blade is nothing extraordinary, and the hilt is slightly uncomfortable to the touch and nose. When the user presses attack, *they may inflict a toxic or electric, as energy blasts from the blade*. The sword is cursed so that anytime a strike from it would qualify to damage armor, it will *inflict a toxic attack against both the foe and the user*.  
+This blade is nothing extraordinary, and the hilt is slightly uncomfortable to the touch and nose. When the user presses attack, *they may inflict a toxic or electric attack, as energy blasts from the blade*. The sword is cursed so that anytime a strike from it would qualify to damage armor, it will *inflict a toxic attack against both the foe and the user*.  
 If the name is known, the sword also functions as a staff for the spells Volt Switch and Vapors. If the sword is still cursed, a critical failure casting one of those spells *will inflict a toxic attack against the user*.  
 Removing the curse increases the value by about $3,000.
 
