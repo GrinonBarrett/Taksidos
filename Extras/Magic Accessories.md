@@ -54,7 +54,7 @@ An unusual handmade trinket worn around the neck. If the wearer is to be affecte
 
 **Charm of Wardance**, $2,800  
 1 lb.  
-A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to by one of those spells, they gains an additional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
+A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to be affected by one of those spells, they gains an additional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
 
 **Cloak of Silverwinds**, $3,600  
 1.75 lb.  
@@ -63,7 +63,7 @@ A silken cloak that appears to have a design like feathers, a bat's wing, or a s
 
 **Crosse Lantern**, $250  
 4 lb.  
-A lantern designed for use by a subterranean people. It has two loops for handles to make it easy to suspend it with rope. *The color of the flame changes color depending on whether or not there is a creature of the following types (drakomadiae, elemental, ephemera, monster) within 30 yards. To the human eye, the flame is normally a yellow-orange but will shift to a red color. Other eyes may see the color change differently, but will certainly notice it. So long as it is not in any area which supresses magic, it provides dim light out 15 yards. Otherwise,* it functions as a standard lantern. Regardless, it consumes oil at the same rate as a lantern.
+A lantern designed for use by a subterranean people. It has two loops for handles to make it easy to suspend it with rope. *The color of the flame changes color depending on whether or not there is a creature of the following types (drakomadiae, elemental, ephemera, monster) within 30 yards. To the human eye, the flame is normally a yellow-orange but will shift to a red color. Other eyes may see the color change differently, but will certainly notice it. So long as it is not in any area which suppresses magic, it provides dim light out 15 yards. Otherwise,* it functions as a standard lantern. Regardless, it consumes oil at the same rate as a lantern.
 
 **Dendalafaun's Ring**, $4,000  
 Unique.  
@@ -140,7 +140,7 @@ A well enough cloak, it is comforting to some. *The user may choose to take on a
 
 **Nefalesider**, $600 per yard  
 1.5 lb. per yard.  
-Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and difficulty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softest fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which supresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
+Made by cloudshapers forming clouds into a braid of chains, this rare material is not uncommon among korventennain hunters and adventurers. Its rarity and difficulty to craft offsets the cost by the lack of perceived value for most purposes. To anyone not affected by synnefopathy, it feels like the softest fabric imaginable, if it were lightly misted with moisture. It functions as a form of rope, *but does not deteriorate normally. If in an area which suppresses magic- it loses 1 point of strength per minute until it is destroyed by having no strength left*. It is unaffected by Electric, Fire, Necrotic, or Radiant attacks. Strength 4,000.  
 So long as it is being handled by a creature which is not affected by synnefopathy, it loses 1d4 points of strength per minute of handling. It also loses 1d6 points of strength for every minutes spent submerged or buried.
 
 **Periapt of Propulsion**, $10,000  
@@ -171,7 +171,7 @@ A ring that can very in quality, but always has either a pearl or piece of amber
 **Ring of Days**, $18,000  
 Neg.  
 A simple golden ring with a little embellishment.  
-*As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as phsyically possible. The wearer and everything on them is completely unaffected by the passage of time*.
+*As an action the wearer may choose to disappear from space and time. They will be gone for 1d12 days. They return as close to their original relative position as physically possible. The wearer and everything on them is completely unaffected by the passage of time*.
 
 **Ring of Electrocution**, $15,500  
 Unique  
@@ -191,7 +191,7 @@ Unique
 Neg.  
 The ring always displays cloudy reflections in its silver band. Occasionally, you could swear you see something behind you in the reflection.  
 *The user may cast the Creeping Death, Fogflow, and Vapors spells as though they knew them as wyrdings- even if they couldn't normally cast spells. The wearer also suffers a -3 to [Will] saves and a +3 to [Will] checks. The wearer cannot be obtunded by inebriation.
-When first worn by a creature for the day, it must succeed a DV 20 [Will] save or be stuporous for a number of minutes equal to the points of failure. If the wearer has never donned the ring before, the DV is increased by 1d12. A creature which rests with the ring one has their total rest level reduced to the previous level. Thus a short rest yields no benefit*.
+When first worn by a creature for the day, it must succeed a DV 20 [Will] save or be stuporous for a number of minutes equal to the points of failure. If the wearer has never donned the ring before, the DV is increased by 1d12. A creature which rests with the ring on has their total rest level reduced to the previous level. Thus a short rest yields no benefit*.
 
 **Ring of Greatness**, $7,800  
 Neg.  
