@@ -64,7 +64,7 @@ An unusual set of plate maile. Each piece is covered in an alchemical substance.
 Maile  
 $21,500, 37 lb.  
 2/4  
-Fine alder-dyed sliken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
+Fine alder-dyed silken layers beneath chain utilizing steel and hadrium present the wearer with *immunity to unarmed attacks with an odd attack roll*. 
 Cost to repair is $900 per point.  
 
 **Mirror Plate**  
@@ -84,7 +84,7 @@ Cost to repair is $1,000 per point.
 Plate  
 $125,000, 40 lb.  
 3/5  
-A full suit of plate armor made of materials which cannot be wholly gathered on the material plane. The armor itself is not bypassed by *ephemeral creatures* or by the innate ability of creatures from the ethereal and/or psychich planes to ignore material forms of protection, as this armor also partially exists on the those planes and has been affixed with proper warding sigils. Additionally, it provides a +4 bonus to defense against psychic attacks.  
+A full suit of plate armor made of materials which cannot be wholly gathered on the material plane. The armor itself is not bypassed by *ephemeral creatures* or by the innate ability of creatures from the ethereal and/or psychic planes to ignore material forms of protection, as this armor also partially exists on the those planes and has been affixed with proper warding sigils. Additionally, it provides a +4 bonus to defense against psychic attacks.  
 On the ethereal and psychic planes, the armor is considered to be half of its weight.  
 Cost to repair is $1,625 per point and can only be done by one with a very special set of tools.
 
@@ -123,7 +123,7 @@ A plate and chain suit made for the legendary Centaur warrior Yebris. It has bee
 Gambeson  
 $4,800, 12 lb.  
 2/4  
-A fine coat of natural fibers, adorned with charms and pauldrons of leather dyed by bark extractives. The style is based on traditional practices and is the desirable choice for wardens and druids. The wearer *may spend an action to affect themselves as though by the Xylary Form spell for five minutes. Once this is done, it cannot be done again during the same day. It also provides a +1 bonus to defense against bare, biting, and cutting attacks*.
+A fine coat of natural fibers, adorned with charms and pauldrons of leather dyed by bark extractions. The style is based on traditional practices and is the desirable choice for wardens and druids. The wearer *may spend an action to affect themselves as though by the Xylary Form spell for five minutes. Once this is done, it cannot be done again during the same day. It also provides a +1 bonus to defense against bare, biting, and cutting attacks*.
 Cost to repair is $200 per point.  
 
 **Zerician Cuirass**  
@@ -131,12 +131,12 @@ Cuirass
 $40,000 , 30 lbs.  
 2/4  
 Ancient Elven plate which cover the torso and includes bracers and vambraces. *The armor provides a bonus to defense against magical attacks equal to the damage still required to ruin the armor*.  
-Can only be tepaired by an elfish smith with the prerequisite knowledge at a cost of $275 per point.
+Can only be repaired by an elfish smith with the prerequisite knowledge at a cost of $275 per point.
 
 **Zerician Links**  
 Maile  
 $43,000 , 30 lbs.  
 3/4  
-Ancient elven maile composed of thin hammered rings riveted together using a now forgotton alloy. *The armor provides a +4 bonus to defense against magical ray attacks which is not factored when determining if the attack qualifies to be a critical hit*.  
+Ancient elven maile composed of thin hammered rings riveted together using a now forgotten alloy. *The armor provides a +4 bonus to defense against magical ray attacks which is not factored when determining if the attack qualifies to be a critical hit*.  
 Can only be repaired by an elfish smith with the prerequisite knowledge at a cost of $330 per point.  
 Interestingly, some very rare examples of this being made for other species' have been found but are now considered collectors items and have their price doubled.  
