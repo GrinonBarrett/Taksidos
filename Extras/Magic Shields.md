@@ -6,7 +6,6 @@ A shield made up of a complete manfolk skeleton and some ultrahard mud. There is
 
 **Battered Ward**, $3,150 , 12 lbs. (*unique*)  
 +0  
-Intended to provide as much cover from missiles as possible while also being practical in a melee, the tower shield is famously used in formation where its cover can be maximized.
 Requires 13 or greater [Body] to use. Does not provide a set bonus when blocking, instead it provides cover. If the shield is used to block for someone that does not have cover, it provides half cover. If they already have cover, it instead provides an additional one-quarter cover.
 When used to block for yourself, it is always treated as giving you an additional quarter of coverage.  
 *When used to block for someone else, it also grants a bonus to defense equal to the lowest of either your [Empy] bonus or theirs. If an attack you attempt to block would qualify to damage armor, it instead destroys this shield*.
@@ -46,7 +45,7 @@ A finely made rondache stained by wode and adorned with altyprium. *The wearer g
 
 **Grande Defence**, $4,400, 7 lbs.  
 +2  
-A masterwork craft of a parumla enchanted to provide further protections. *Blocking bonus is increased by +1*.
+A masterwork craft of a parmula enchanted to provide further protections. *Blocking bonus is increased by +1*.
 
 **Moor Ranger's Favor**, $350 , 3.75 lb.  
 +1  
@@ -58,7 +57,7 @@ An ornate kite shield wielded by the most holy of warriors. If the wearer is aff
 
 **Soul Plate**, $1,200 , 2.5 lb.  
 +1  
-A small style of shield with a polished silver boss. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It still inflicts a bare attack this way. *It provides an additional +3 to blocking magical attacks*.
+A small style of shield with a polished silver boss. It does not provide the passive protection against ranged attacks. It can also be used to turn your unarmed attack into a weapon attack. It inflicts a bare attack this way. *It provides an additional +3 to blocking magical attacks*.
 
 **Tainted Targe**, $900, 3.5 lb.  
 +1  
@@ -68,6 +67,6 @@ A small shield belonging to a forgotten adventurer. When the user inflicts a cri
 +2  
 A pale blue colored kite shield. *If name is known, the bonus for blocking is increased by 1. This is increased by an additional 1 against magical attacks*.
 
-**Vrelard's Guard**, $1,100 , 3 lb.  
+**Vrelard's Guard**, $1,100 , 3 lb. (*unique*)  
 +2  
 A moderately  sized shield that served its original owner well. *If user is capable of casting spells in any manner, they may cast the Abatis spell*.
