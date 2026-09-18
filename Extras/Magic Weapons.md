@@ -269,7 +269,7 @@ A well made axe. In the handle is inscribed the phrase "heart stealer". Whatever
 **Hehan's Heart** (*unique*)  
 $7,7500 , 2.5 lbs.  
 Flail  
-A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious signifigance.
+A light, yet durable, fine chain accompanies an unusual metal shape. It seems to be hollow, but is filled with some ash. The head of this flail uses clubs as the defense type. *All attack rolls have a d12 bonus. Against fiends and creatures of undeath, it is instead a 1d20 bonus*. This item holds some religious significance.
 
 **Imperfect Circle of Adragoraum** (*unique*)  
 $950, 1 lb.  
