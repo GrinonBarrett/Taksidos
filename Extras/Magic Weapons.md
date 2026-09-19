@@ -400,7 +400,7 @@ This flail is more akin to a threshing flail than a chain mace with a handle. It
 $10,000 , 6 lbs.  
 Flail  
 A whip made of vertebrae connected by chains. This weapon is made by a Dyllakhar using the spine of their first victim.  
-Does not have to be wound to use, but only rolls a d12 for the attack roll when used this way. Inflicts a cutting attack. A dyllakhar ignores that penalty and also gains a +1 bonus to attacks and parries if the weapon is wound. In place of damaging a foe's armor, they must succeed a [Rflx] save or be knocked prone, having been tripped, until they use and action or their movement to get back up. A creature without legs/wings ignores this of course. *Each of these is enchanted by a random enchantment like those available to standard weapons. Anytime the attack roll result is a 9, it also inflicts a necrotic attack against the foe*.
+Does not have to be wound to use, but only rolls a d12 for the attack roll when used this way. Inflicts a cutting attack. A dyllakhar ignores that penalty and also gains a +1 bonus to attacks and parries if the weapon is wound. In place of damaging a foe's armor, they must succeed a [Rflx] save or be knocked prone, having been tripped, until they use an action or their movement to get back up. A creature without legs/wings ignores this of course. *Each of these is enchanted by a random enchantment like those available to standard weapons. Anytime the attack roll result is a 9, it also inflicts a necrotic attack against the foe*.
 
 **Shme** (*unique*)  
 $2,500 , .1 lb.  
@@ -437,7 +437,7 @@ Made of bone, in the tradition of merfolk weapons, this blade has been passed do
 **Stormfist** (*unique*)  
 $11,750 , 17 lbs.  
 Maul  
-This "maul" is an oak shaft magically hewn into a rough cut shape of stone. Requires [Body] 17 to use in just two hands, or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
+This "maul" is an oak shaft magically sewn into a rough cut shape of stone. Requires [Body] 17 to use in just two hands, or 26 to be used in one hand (with disadvantage). The user gains a bonus equal to their body for the purpose of inflicting a critical hit. Gains a +3 bonus to beats and a -3 penalty to parries. *If name is known, a critical hit with this weapon will also inflict a critical hit effect of a force and crushing attack*.  
 It is said that large creatures can use it as though it were a large weapon, but still require the minimum [Body].
 
 **Talavaste** (*unique*)  
