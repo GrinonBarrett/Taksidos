@@ -54,9 +54,9 @@ An unusual handmade trinket worn around the neck. If the wearer is to be affecte
 
 **Charm of Wardance**, $2,800  
 1 lb.  
-A custom made runic necklace. *The creator chooses 3 spell they know when crafting the amulet. If the wearer is to be affected by one of those spells, they gains an additional +3 bonus to defense against attacks and +5 bonus to saves against the spell*.
+A custom made runic necklace. *The creator chooses 3 spells they know when crafting the amulet. If the wearer is to be affected by one of those spells, they gain an additional +3 bonus to defense against attacks of and +5 bonus to saves against the spell*.
 
-**Cloak of Silverwinds**, $3,600  
+**Cloak of Cloak of Silken Winds**, $3,600  
 1.75 lb.  
 A silken cloak that appears to have a design like feathers, a bat's wing, or a smooth wave. Some more expensive ones feature a depiction like some magnificent tapestry, but can cost up to 10 times as much.  
 *As an action or reaction, the wearer may push itself away from a surface or object capable of bearing its weight and perform a small burst of flight. It is treated as performing a jump, with the maximum height and distance doubled. This movement counts towards remaining airborne. The cloak fans out as faux wings when in use*.
