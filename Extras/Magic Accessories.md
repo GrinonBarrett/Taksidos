@@ -126,7 +126,7 @@ A rusty ring of iron. If first worn while wearing armor, it doesn't seem to do a
 * *Weight Capacity*. The wearer's weight load limits are increased by half at each level.
 * *Conductivity*. Electric attacks against the user have advantage.
 * *Appearance*. The wearer does not seem visibly affected by the spell.
-* If the spell Ironside would be cast on the wearer from another source while wearing the ring, it overides the effects of the ring's spell while the new spell lasts. Additionally, the ring cannot be removed during this time.
+* If the spell Ironside would be cast on the wearer from another source while wearing the ring, it overrides the effects of the ring's spell while the new spell lasts. Additionally, the ring cannot be removed during this time.
 
 A creature which has worn the ring to benefit finds the rust has stained their skin permanently. They will also appear to bear harmless patches of rust when affected by an Ironside spell from other sources.
 
@@ -271,7 +271,7 @@ Neg.
 A silver band of a ring which looks quite nice in the light.  
 *While worn, all spells cast by the wearer have their tier increased by 1. Anytime the wearer speaks a word which does not contain the letter S in it, they receive an unlisted attack. The ring cannot be removed without first being affected by a tier 4 or higher Disimpress spell. If name is known, the wearer also gain a +1 bonus to all counterspell checks*.
 
-**Wonderous Indices**, $70,000  
+**Wondrous Indices**, $70,000  
 Unique.  
 10 lbs.  
 A large tome which contains within its near limitless pages a great deal of knowledge on many topics. Anytime a reader gazes within for the first time, *their name is written in the index which prefices its contents and a chapter which only they can read begins to fill in the book*. The index which precedes all other contents already has several names stained upon it as follows (Tinto, Perin Arneson, Jinora, Rezerick of Eldfas, Merzhin Wyxt, Vehemente of the Lost Light).  
