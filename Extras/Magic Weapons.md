@@ -243,7 +243,7 @@ A hadrium punching dagger said to have been sharpened like the words of of a for
 **Greenfist** (*unique*)  
 $5,600 , 2.75 lbs.  
 Club  
-When wielded by an Elemental, Fey, Plant, or Sylvan creature- this club *gains a +1 bonus to all attacks, beats, and parries. Additionally, if name is known, user can cast the spell Green Ward using any of their spellcastiung methods and/or wyrding, even if they did not know it. A creature which is not normally capable of casting spells may still do so as a wyrding*.
+When wielded by an Elemental, Fey, Plant, or Sylvan creature- this club *gains a +1 bonus to all attacks, beats, and parries. Additionally, if name is known, user can cast the spell Green Ward using any of their spellcasting methods and/or wyrding, even if they did not know it. A creature which is not normally capable of casting spells may still do so as a wyrding*.
 
 **Grimfrost Flail**  
 $5,800 , 4 lbs.  
