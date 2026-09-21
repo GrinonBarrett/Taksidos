@@ -362,7 +362,7 @@ A rather normal longsword with a vaguely magical aura. *If name is known, the sw
 **Palefist**, (*unique*)  
 $9,000 , 4 lbs.  
 Mace  
-This glorious beater is made almost entriely of a single piece of ivory, save for a flanged crown of altyprium which rests securely inside it. When inflicting a critical hit, *if the name is known, it can inflict an additional exotic critical hit effect of the user's choice*.
+This glorious beater is made almost entirely of a single piece of ivory, save for a flanged crown of altyprium which rests securely inside it. When inflicting a critical hit, *if the name is known, it can inflict an additional exotic critical hit effect of the user's choice*.
 
 **Palladius** (*unique*)  
 $18,000 , 4.25 lbs.  
@@ -535,7 +535,7 @@ If name is known, *user gains a +1 bonus to attacks with it. Additionally, anyti
 **Zenetessore** (*unique*)  
 $8,650 , 8.75 lbs.  
 Crossbow  
-This oaken crossbow features inlays gilded in copper and brass depicting some creature's slaying- though no one can agree on what the creature is. *Attacks with this weapon gain a +1 bonus for the purpose of inflicting a critical hit. If name is known, when the weapon's attack would qualify to damage armor against an unarmored foe, that creature must perform an incapcitation save*.
+This oaken crossbow features inlays gilded in copper and brass depicting some creature's slaying- though no one can agree on what the creature is. *Attacks with this weapon gain a +1 bonus for the purpose of inflicting a critical hit. If name is known, when the weapon's attack would qualify to damage armor against an unarmored foe, that creature must perform an incapacitation save*.
 
 **Zerun's Eye**  
 $11,500 , neg.  
