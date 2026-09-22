@@ -30,7 +30,7 @@ A silver band clutching a jet, a piece of amber, and a piece of lapis lazuli.
 **Bauble of The Eye**, $25,000  
 Unique.  
 Neg.  
-A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop handle which allows it to be worn as a necklace. *The wearer gains a +1 bonus to all [Prcp] checks and saves involving vision. Additionally, a wearer capable of casting spells in some manner is able to spend an entire round focuing on the bauble. This causes it to expand in size, becoming a Sferakoz which is psychically linked to the wearer. It follows the wearer's command. If the sferakoz is destroyed, the bauble shatters. The wearer may spend a whole round in phsyical contact with the sferakoz to shrink it back down into its bauble form. While in its bauble form, the sferakoz is considered to be resting. If it rests for a whole week, it can benefit from an additional full rest for every whole week it is inactive. If the bauble would be destroyed in its basic item state, it forms a sferakoz which is hostile to all creatures and will never return to its bauble form*.
+A glass sphere no more than 3 inches in diameter, hand blown, with a small hoop handle which allows it to be worn as a necklace. *The wearer gains a +1 bonus to all [Prcp] checks and saves involving vision. Additionally, a wearer capable of casting spells in some manner is able to spend an entire round focusing on the bauble. This causes it to expand in size, becoming a Sferakoz which is psychically linked to the wearer. It follows the wearer's command. If the sferakoz is destroyed, the bauble shatters. The wearer may spend a whole round in phsyical contact with the sferakoz to shrink it back down into its bauble form. While in its bauble form, the sferakoz is considered to be resting. If it rests for a whole week, it can benefit from an additional full rest for every whole week it is inactive. If the bauble would be destroyed in its basic item state, it forms a sferakoz which is hostile to all creatures and will never return to its bauble form*.
 
 **Brass Cloak**, $25,000  
 6 lbs.  
@@ -42,7 +42,7 @@ A beautiful cape of the finest design. These items are fairly rare and often cer
 
 **Cape of Assurance**, $7,000  
 1.5 lb.  
-A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxurious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wesring this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
+A humble looking yet pleasant feeling cape to the touch. Some are made of much more luxurious materials and have a greater cost of course. *The wearer feels somewhat soothed from the anxiety of the day while wearing this. When worn by a creature with a character class, the minimum result of any check or save they make is equal to their character level. This does not apply to spellchecks or counterspell checks made against someone else casting a spell*.
 
 **Cape of Carpes**, $9,500  
 1 lb.  
@@ -50,7 +50,7 @@ A cape of some blue shade like the waters nearest its weaver. It has a faint wav
 
 **Charm of Mitigation**, $3,300  
 1 lb.  
-An unusual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, they gain an additional +3 bonus to defense against attacks from it and +5 bonus to saves against the spell.
+An unusual handmade trinket worn around the neck. If the wearer is to be affected by any spell they know, *they gain an additional +3 bonus to defense against attacks from it and +5 bonus to saves against the spell*.
 
 **Charm of Wardance**, $2,800  
 1 lb.  
@@ -68,7 +68,7 @@ A lantern designed for use by a subterranean people. It has two loops for handle
 **Dendalafaun's Ring**, $4,000  
 Unique.  
 Neg.  
-A broad gold band which makes the most pleasent resonating sound when struck by a wand.  
+A broad gold band which makes the most pleasant resonating sound when struck by a wand.  
 *Wearer gains a +2 to all attacks made with wands in the same hand as the ring for the purpose of inflicting a critical hit*.
 
 **Elfen Amulet**, $ 36,000  
@@ -99,7 +99,7 @@ Woven reeds, sequoia bark, and some unfamiliar moss hold these primitive yet wel
 **Grulth**, $4,400  
 Unique  
 Neg.  
-A ring which always seems to carry some flith to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
+A ring which always seems to carry some filth to it of unknown origin. It functions identically to a wand, requiring a [Will] of 13+ to operate and firing a toxic ray of energy. When used this way, it actually bestows 2 points of spell sickness on an odd attack roll.  
 Additionally, if name is known, *the wearer may cast the spell Sludgery as though they knew it*.
 
 **Helm of Silence**, $6,800  
@@ -195,7 +195,7 @@ When first worn by a creature for the day, it must succeed a DV 20 [Will] save o
 
 **Ring of Greatness**, $7,800  
 Neg.  
-This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness enhances a specific attribute of its wearer by 1.
+This represents a number of magical rings which might be found. They can be made of any material and the mentioned price is the minimum for a simple ring fashioned of a precious metal. Each ring of greatness *enhances a specific attribute of its wearer by 1*.
 
 **Ring of Guarding**, $8,600  
 Neg.  
@@ -260,7 +260,7 @@ This satchel magically refills itself with a single "dose" after 1d20+1d12+16 ho
 **Shining Helm**, $68,000  
 Unique  
 1.5 lb.  
-A fine helm polished to perfection. When worn, *it emits bright light out 1 yard, fair light a yard beyond that, and dim light 1 foot beyond that. When the wearer is wounded, the reach of the bright light is extended by a number a of feet equal to the attack result. Qhen this occurs, it inflicts a radiant attack against every creature within the bright light other than the wearer.
+A fine helm polished to perfection. When worn, *it emits bright light out 1 yard, fair light a yard beyond that, and dim light 1 foot beyond that. When the wearer is wounded, the reach of the bright light is extended by a number of feet equal to the attack result. When this occurs, it inflicts a radiant attack against every creature within the bright light other than the wearer*.
 
 **Spore Pouch**, $19,000
 1 lb.
@@ -269,12 +269,12 @@ This pouch can be looped into one's belt for convenience. Inside it contains a s
 **Sring**, $4,936  
 Neg.  
 A silver band of a ring which looks quite nice in the light.  
-*While worn, all spells cast by the wearer have their tier increased by 1. Anytime the wearer speaks a word which does not contain the letter S in it, they receive an unlisted attack. The ring cannot be removed without first being affected by a tier 4 or higher Disimpress spell. If name is known, the wearer also gain a +1 bonus to all counterspell checks*.
+*While worn, all spells cast by the wearer have their tier increased by 1. Anytime the wearer speaks a word which does not contain the letter S in it, they receive an unlisted attack. The ring cannot be removed without first being affected by a tier 4 or higher Disimpress spell. If name is known, the wearer also gains a +1 bonus to all counterspell checks*.
 
 **Wondrous Indices**, $70,000  
 Unique.  
 10 lbs.  
-A large tome which contains within its near limitless pages a great deal of knowledge on many topics. Anytime a reader gazes within for the first time, *their name is written in the index which prefices its contents and a chapter which only they can read begins to fill in the book*. The index which precedes all other contents already has several names stained upon it as follows (Tinto, Perin Arneson, Jinora, Rezerick of Eldfas, Merzhin Wyxt, Vehemente of the Lost Light).  
+A large tome which contains within its near limitless pages a great deal of knowledge on many topics. Anytime a reader gazes within for the first time, *their name is written in the index which prefaces its contents and a chapter which only they can read begins to fill in the book*. The index which precedes all other contents already has several names stained upon it as follows (Tinto, Perin Arneson, Jinora, Rezerick of Eldfas, Merzhin Wyxt, Vehemente of the Lost Light).  
 If consulted while making a Alchemy, Lore, Masonry, or Spellcraft- it provides a +1 bonus to the check *or a +2 bonus if so desired*. Additionally, the chapter which is borne from the reader's gazing into the book holds proper material to learn a basic spell at its base level. The spell is determined when the character first studies the tome and will always appear the same to that character.
 
 ###### As a narrator, feel free to add names to this book.
