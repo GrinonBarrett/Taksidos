@@ -79,9 +79,9 @@ A petrified creature can only be so by the effect of magic. The creature has bec
 
   • Ignores the effects of cold, necrotic, psychic and toxic attacks.
 
-  • Not subject to incapaitation.
+  • Not subject to incapacitation.
 
-  • Is not afected by wounds at the time of occurance, but will still receive them and their effects when restored.
+  • Is not affected by wounds at the time of occurrance, but will still receive them and their effects when restored.
 
   • Does not lose hitpoints as a result of attacks.
 
