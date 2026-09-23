@@ -456,20 +456,6 @@ A critical success with the spellcheck allows you to tether a creature to a mova
 
 **Critical Failure**: The spell explodes in your face, inflicting an unlisted attack with a bonus equal to the spell tier. A critical hit from the spell will immobilize you until the end of the next round.
 
-#### Break
-
-**Minimum Tier**: 3
-
-**Casting Time**: 7 actions
-
-**Effect**: You cause a magical forcefield you touch created by a spell of equal or lower tier to instantly shatter. If a magical effect/spell (but not a magical item) would interact with the Dismipress spell, treat this spell as the same- but its tier is considered to be doubled.
-
-Alternatively, if cast against a construct or undead creature (or some object), it will inflict a sonic attack against it.
-
-**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to either reduce the casting time by 2 actions (to a minimum of 1 action) or allow the spell to reach out 15 yards further.
-
-**Critical Failure**: You gain 1d2 points of spell sickness. This die level is increased by 1 step for each tier beyond minimum.
-
 #### Bouncing Ooze
 
 **Minimum Tier**: 2
@@ -523,6 +509,20 @@ If the spellcheck is a critical success, a critical failure in the check by the 
 * the spell last an additional round after concentration is dropped.
 
 **Critical Failure**: The spell does nothing and you gains spell sickness equal to 1d4 + half (rounded down) of the spell's tier.
+
+#### Break
+
+**Minimum Tier**: 3
+
+**Casting Time**: 7 actions
+
+**Effect**: You cause a magical forcefield you touch created by a spell of equal or lower tier to instantly shatter. If a magical effect/spell (but not a magical item) would interact with the Dismipress spell, treat this spell as the same- but its tier is considered to be doubled.
+
+Alternatively, if cast against a construct or undead creature (or some object), it will inflict a sonic attack against it.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, in addition to the benefits noted above- you may choose to either reduce the casting time by 2 actions (to a minimum of 1 action) or allow the spell to reach out 15 yards further.
+
+**Critical Failure**: You gain 1d2 points of spell sickness. This die level is increased by 1 step for each tier beyond minimum.
 
 #### Breaker Strike
 
