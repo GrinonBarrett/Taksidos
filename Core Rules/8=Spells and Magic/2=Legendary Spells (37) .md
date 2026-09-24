@@ -187,7 +187,7 @@ If the spellcheck is a critical success, your attack can also reach into the eth
 
 **Duration**: 3 rounds
 
-**Effect**: You enter the ethereal plane for the duration of the spell. If you already occupied the ethereal plane, you now occupy the material plane. You can move through this plane using any of your movement modes. When you perform an attack, you return to your previous plane and gain a bonus to the attack equal to the spell's tier if it is a melee attack. While affected by the spell, your attacks (including those of your spells) can affect both the ethereal and material plane.
+**Effect**: You enter the ethereal plane for the duration of the spell. If you already occupied the ethereal plane, you now occupy the material plane. You can move through this plane using any of your movement modes. When you perform an attack, you return to your previous plane and gain a bonus to the attack equal to the spell's tier if it is a melee attack for the purpose of inflicting a critical hit. While affected by the spell, your attacks (including those of your spells) can affect both the ethereal and material plane.
 
 If the spellcheck is a critical success, the following types of attacks have disadvantage against you. (Bare, Ki, Necrotic, Radiant, Toxic)
 
