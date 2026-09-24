@@ -162,6 +162,51 @@ This spell cannot affect Construct, Eldritch, Elemental, Ephemera, Fey, Fiend, o
 
 **Critical Failure**: You are instead subject to the spell, with the attack gaining a bonus against you equal. If killed by the spell, you become a Aetherkin unless you were of a creature type which cannot be affected. If so, inflict a number of unlisted attacks against yourself equal to the spell's tier. For each successful attack, you gain a point of spell sickness. For each failed attack, you gain an instance of Archeblight.
 
+### Drekard (3
+A mighty warrior from a land torn by sickening radiance. He is known for sudeen and brutal strikes to accompany his near immortality in battle. He is not a traditional mage, and seems to channel his magic in a manner that aides his combat style.
+
+#### Drekard's Smite
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to your melee attack being successful (including a sunder)
+
+**Effect**: You inflict a ki attack and either a force attack or radiant attack.
+
+If the spellcheck is a critical success, your attack can also reach into the ethereal and psychic planes. If you already occupy one of those planes, the attack also reaches into the material plane.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to grant one of the spell's attack a +1 bonus or each attack a +1 bonus for the purpose of inflicting a critical hit.
+
+**Critical failure**: The energy you attempted to channel actually causes your initial attack to fail.
+
+#### Drekard's Vanishing Step
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to your movement
+
+**Duration**: 3 rounds
+
+**Effect**: You enter the ethereal plane for the duration of the spell. If you already occupied the ethereal plane, you now occupy the material plane. When you perform an attack, you return to your previous plane and gain a bonus to the attack equal to the spell's tier if it is a melee attack. While affected by the spell, your attacks (including those of your spells) can affect both the ethereal and material plane.
+
+If the spellcheck is a critical success, the following types of attacks have disadvantage against you. (Bare, Ki, Necrotic, Radiant, Toxic)
+
+**At Higher Tiers**: When cast at 4th tier or greater, in addition to the benefit mentioned above, you may choose to either increases the duration by 2 rounds or grant your attack a +1 bonus.
+
+**Critical failure**: You disappear from space and time for a number of phases equal to half of the spell's tier. When you return, you are dazed and vulnerable for a number of phases equal to the spell's tier.
+
+#### Drekard's Vaulting
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action or movement
+
+**Effect**: You leap, with the distance multiplied by the spell's tier. If this would cause a brawl, you gain a bonus to your brawl check equal to the spell's tier.
+
+**At Higher Tiers**: The benefits for casting at a higher tier is listed above.
+
+**Critical Failure**: You seize upp, causing nothing to happen.
+
 ### Etislaff (3
 A fiendish creature which seems to be growing a cult to hunt down practitioners of various forms of magic. It grants its followers the ability to read tomes of chosen magics in its own profanely artifical language.
 
