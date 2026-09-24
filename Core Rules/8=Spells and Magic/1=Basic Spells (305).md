@@ -2462,7 +2462,7 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (5
+### J (6
 
 #### Jaunt Macabre
 
@@ -2485,6 +2485,23 @@ If the spellcheck is a critical success, you may have an explosion escape from t
 * You may affect an additional corpse to allow an additional creature to transport. They may exit through the same corpse or a different corpse.
 
 **Critical Failure**: The corpse explodes, inflicting a cutting, necrotic, and piercing attack against you- in order. The cutting attack has disadvantage. If one of those attacks is successful against you, the following attacks each get an instance of advantage.
+
+#### Jaunting
+
+**Minimum Tier**: 4
+
+**Casting Time**: 36 actions
+
+**Duration**: 1 minute
+
+**Effect**: You enter the ethereal plane. If you already occupy the ethereal plane. You may move using any of your modes of movement. If the spellcheck is a critical success, you may spend an action to return yourself and any creatures you affected with this spell if they are touching you.
+
+**At Higher Tiers**: When cast at 5th tier or greater,for each tier beyond 4th, you may choose one of the following;  
+* The casting time is halved (rounded down, minimum 1 action)
+* The duration is increased by half
+* You may include an additional creature you are touching
+
+**Critical failure**: Your state of mind, key to the transference between planes, is somewhat torn. You receive a psychic attack which ignores armor and are dazed for a number of rounds equal to the spell's tier.
 
 #### Jet
 
