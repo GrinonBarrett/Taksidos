@@ -16,7 +16,7 @@ A much larger version of the blunderbuss, it uses a small paper and pine caniste
 * The number of attacks are increased to 1d4+6.
 * It cannot fire an arquebus bullet.
 * The cannister used for ammunition often includes an additional effect.
-* If an attack roll result is exactly a 9, the weapon becomes unuasable as the canister mucks up the barrel due to improper ignition.
+* If an attack roll result is exactly a 9, the weapon becomes unusable as the canister mucks up the barrel due to improper ignition.
 
 Blunderbuss Shot (per), $9.5, .25 lb.  
 Not too dissimilar from the same paper cartridge of most firearms, though it contains multiple smaller bullets within the shot.
