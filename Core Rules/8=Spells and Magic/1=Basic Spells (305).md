@@ -1375,7 +1375,7 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 
 **Effect**: You touch a corpse, hearing its last statement. You hear their voice and tone it was said in. You get no other context for the statement. It cannot be dead for more than 5 + [Magic] bonus minutes for you to hear this.
 
-**At Higher Tiers**: When cast at higher tiers, there is more leeway in how long they can be dead for you to retrieve their statement. At second tier, you can affect one that has been dead. At 3rd tier, it functions so long as they dead the same day. You can affect a corpse as old as a week at 4th tier. A month at 5th tier. A year at 6th tier. For 7th tier and beyond, you may affect a corpse which has has been dead for a number of years equal to the tier of the spell.
+**At Higher Tiers**: When cast at higher tiers, there is more leeway in how long they can be dead for you to retrieve their statement. At second tier, you can affect one that has been dead for an hour. At 3rd tier, it functions so long as they dead the same day. You can affect a corpse as old as a week at 4th tier. A month at 5th tier. A year at 6th tier. For 7th tier and beyond, you may affect a corpse which has has been dead for a number of years equal to the tier of the spell.
 
 **Critical Failure**: You hear something else calling, from a plane beyond. It will terrify you and apply points of spell sickness equal to half of the spell's tier (round up).
 
