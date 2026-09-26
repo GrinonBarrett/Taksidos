@@ -3245,7 +3245,7 @@ When the duration expires, the motes fade from existence. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (19
+### P (20
 
 #### Pagomancy
 
@@ -3421,6 +3421,23 @@ Anything within 30 yards suffers a penalty to [Prcp] checks/saves as the whippin
 **At Higher Tiers**: When cast at 5th tier or greater, for each tier beyond 4th, in addition to the benefits noted above- you may increase the size of the cylinder base and its height by 1 yard.
 
 **Critical Failure**: You produce the pillar, but it is centered on you and follows you. Your speed is reduced to 1/3 and its attacks have advantage against you.
+
+#### Planar Seal
+
+**Minimum Tier**: 7
+
+**Casting Time**: 100 actions
+
+**Duration**: 10 minutes
+
+**Effect**: You touch a creature. A virtual plane of existence is created to seal away the creature. You choose what medium the plane is filled with. It is filled with just enough to last for the duration of the spell. The plane is just slightly larger than the target.
+
+If the spellcheck is a critical success, the subject is dazed and prone while occupying that plane.
+
+**At Higher Tiers**: At 8th tier, you can have the plane stand for an hour. At 9th tier, it functions for a whole day. At 10th tier, the plane lasts for a week. 11th tier lasts for a month. A year at 12th tier. For 13th tier and beyond, it lasts for a number of years equal to one and a half of the spell's tier.
+
+**Critical Failure**: You have imprisoned yourself in the prison instead. Your time in the plane is divided by your [Magic] bonus if any (minimum 1).
+
 
 #### Plasma Ray
 
