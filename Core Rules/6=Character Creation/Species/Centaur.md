@@ -50,7 +50,7 @@ Choose an attribute. It is increased by 1.
 
 **Long Form**: Centaurs can use most equipment just fine, but armor must be made especially for them. Any variant of armor which is to be fit for a centaur cost twice as much and weighs half again as it would typically. 
 
-**Carrying Capacity**: A centuar's weight load limits are twice that of a normal character.
+**Carrying Capacity**: A centaur's weight load limits are twice that of a normal character.
 
 **Gallop**: If you sprinted twice this round, you may use your reaction to perform a move.
 
