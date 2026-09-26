@@ -17,5 +17,5 @@ A bunk is $48 per day.
 A closet sized room is $85 per day.  
 Personal quarters are $130 per day.
 
-##### Comission of a Full Ship  
+##### Commission of a Full Ship  
 To comission the entirety of a ship for a journey, a price of should be paid based on the tonnage. Between $1,000 to $2,200 per ton per day. There is also the cost of labor ($40-55 per crew member) and the cost of food (Between $25-40 per head).
