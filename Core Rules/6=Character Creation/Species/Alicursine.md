@@ -48,7 +48,7 @@ Choose an attribute. It is increased by 1.
 
 ### Special Features
 
-**Great Apetite**: You need twice as much food as a normal adventurer.
+**Great Appetite**: You need twice as much food as a normal adventurer.
 
 **Rough Hide**: Alicursines cannot use armor unless it states otherwise. When unarmored, an alicursine is treated as having Gambeson.
 
