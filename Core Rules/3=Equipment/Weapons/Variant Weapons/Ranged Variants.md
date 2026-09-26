@@ -11,7 +11,7 @@ Weight is increased to 3.5 lb and range is reduced by 1/3. In place of a normal 
 
 **Trunotor**, $400  
 Arquebus  
-An arquebus designed for smaller creatures. It can also be used by a younger member of the medium szied species. It fires a trunotonante bullet, has a total range of 180 Yards, and an optimal range of 3-90 yards. The weight is down to 7 pounds. Can be used with a [Body] of 10 or greater without ill effect. If used with a lower [Body] score, each point of difference brings with it a point of recoil. Treat as a trunotonante attack.
+An arquebus designed for smaller creatures. It can also be used by a younger member of the medium sized species. It fires a trunotonante bullet, has a total range of 180 Yards, and an optimal range of 3-90 yards. The weight is down to 7 pounds. Can be used with a [Body] of 10 or greater without ill effect. If used with a lower [Body] score, each point of difference brings with it a point of recoil. Treat as a trunotonante attack.
 
 **Lanciator**, $485  
 Musket  
@@ -25,7 +25,7 @@ Anytime the weapon is cranked and fired, there is a 1 in 20 chance the mechanism
 
 **Repeating Crossbow**, $200  
 Crossbow  
-A home defense weapon. This crossbow fires two proprietary bolt when attacking, inflicting a single thrown blade attack against a foe. The maximum range is only 120 yards with an optimal range of between 2 and 50 yards.If it is somehow fired with only one bolt, it suffers a -2 to its attack. Anytime the user performs an attack action with this weapon, if they have an additional limb available, they may perform two attacks. Each of these attacks consume ammunition. They may be against the same or different foes so long as they are in the same facing from the user.  
+A home defense weapon. This crossbow fires two proprietary bolt when attacking, inflicting a single thrown blade attack against a foe. The maximum range is only 120 yards with an optimal range of between 2 and 50 yards. If it is somehow fired with only one bolt, it suffers a -2 to its attack. Anytime the user performs an attack action with this weapon, if they have an additional limb available, they may perform two attacks. Each of these attacks consume ammunition. They may be against the same or different foes so long as they are in the same facing from the user.  
 Cannot damage armor.  
 Uses repeating bolts as the ammunition.
 
