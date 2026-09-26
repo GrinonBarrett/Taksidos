@@ -12,7 +12,7 @@ You may wield this sword with two hands. If you do, you may treat your attack to
 **Bygeswyrd**, $200, 4.25 lb.  
 Longsword  
 A curved sword intended for use on horseback. It is of emerian origin.  
-Reach is increased to 4 feet. You may wield this sword with two hands, when used this way, attacks gain a +1 bonus for the purrpose of inflicting a critical hit. When used while moving at more then double the foe's speed, you gain a +2 bonus for the purpose of inflicting a critical hit.
+Reach is increased to 4 feet. You may wield this sword with two hands, when used this way, attacks gain a +1 bonus for the purpose of inflicting a critical hit. When used while moving at more then double the foe's speed, you gain a +2 bonus for the purpose of inflicting a critical hit.
 
 **Bo**, $65, 2 lb.  
 Club  
@@ -26,13 +26,13 @@ Cannot Sunder.
 
 **Dandpatta**, $190, 3.5 lb  
 Longsword  
-Once used by the Kagaldine cavalry as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
+Once used by the Kagaladine cavalry as a slashing weapon, it has been largely abandoned. A shorter version of it has been adopted by infantry.  
 Range is increased to unarmed attack range + 1 yard. Proper cavalry weapon. Attacks made against a foe within half range suffer a -1 penalty.
 
 **Dire Flail**, $240, 4.5 lb  
 Flail  
 More of a status symbol used by commanders in the Kagaladine Military, the dire flail has multiple heads on it.  
-The bonus to Beats and Parries (including those made against the the weapon) are increased to +3. Each attack made by the dire flail is treated as two club attacks. Anything which would affect one attack, effects the other.
+The bonus to Beats and Parries (including those made against the weapon) are increased to +3. Each attack made by the dire flail is treated as two club attacks. Anything which would affect one attack, effects the other.
 
 **Greatflail**, $250, 4.5 lb.  
 Flail  
