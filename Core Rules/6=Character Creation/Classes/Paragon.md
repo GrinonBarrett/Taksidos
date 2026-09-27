@@ -74,7 +74,7 @@ At levels 5 and 10, you may choose to splash another class into your training or
 Anytime you perform a rest, you recover an additional point of authority.
 Your maximum pool of authority is increased by your [Empy] bonus.
 Anytime you are wounded while you have no remaining authority, you recover a single point of authority.  
-You gain a new command, **Defuse** (Choose an exotic damage type. This command prevents magical damage of that type until the end of the next round).
+You gain a new command, **Defuse** (Choose an exotic damage type. This command prevents magical damage of that type against the commanded ally until the end of the next round).
 
 #### Splash
 If you splash paragon as a member of another class, you gain the following:  
