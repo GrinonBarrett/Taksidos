@@ -1,5 +1,5 @@
 # Sorcerer
-A rare breed capable of powering superliminal effects with the energy stored in themeslves.
+A rare breed capable of powering superliminal effects with the energy stored in themselves.
 
 **Class Skills**: Select one of the following (Lore, Spellcraft, Volierence).
 
