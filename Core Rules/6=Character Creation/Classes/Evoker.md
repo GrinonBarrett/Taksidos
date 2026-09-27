@@ -29,7 +29,7 @@ You are capable of producing a burst of energy which can be propelled at a foe u
 You may also treat a single ki blast as though it were a thrown weapon attack with a total range in feet equal to your [Body] score. This means it can be used for attacks of opportunity. The foe does not gain the usual bonus to defense against a thrown weapon attack of opportunity this way.
 
 ### Ki Step
-You may spend at least 2 points of ki to instantly move up to a number of yards equal to the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. Attacks made against you as a response to this can still be rolled if you are still within an appropriate range for them. If you would be removed from their range, they still attack you before you are considered to move- but have disadvantage.  
+You may spend at least 2 points of ki to instantly move up to a number of yards equal to the ki spent -1 as a reaction. May only be done in response to your own movement, your own actions, or a foe's failed attack. This is not an action or reaction.  
 This does not provoke an attack of opportunity.
 
 ### Super Techniques
