@@ -72,7 +72,7 @@ If you posses an Edge and later receive an ability that is identical, you may ch
 
 • **Great Constitution**. You gain a +2 bonus to all [Fort] saves. Once per [Fort] save, you may spend a luck point to grant an additional +2 bonus.
 
-• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per [Rflc] save, you may spend a luck point to grant an additional +2 bonus.
+• **Lightning Reflexes**. You gain a +2 bonus to all [Rflx] saves. Once per [Rflx] save, you may spend a luck point to grant an additional +2 bonus.
 
 • **Indomitable Will**. You gain a +2 bonus to all [Will] saves. Once per [Will] save, you may spend a luck point to grant an additional +2 bonus.
 
@@ -137,7 +137,7 @@ Additionally, each level of training in your weapon grants you a +1 to your Parr
 
 • **Tumble**. You may grant yourself an advantage to a [Rflx] save or an Athletics check which uses your [Rflx]. You must complete a rest before doing so again.
 
-• **Tumbling Defense**. You must possess the Tumble feature before selecting this edge. When you are aware of an attack against you, you may use your reaction to expend the use of your Tumbble feature. If you do, you gain a bonus to defense against that attack equal to your [Rflx] bonus and your minimum possible defense against the attack cannot be lower than your [Rflx] score. Additionally, if the attack is a critical failure or would qualify to damage armor against you, you may perform a leap (representing your fantastic gymnastic getaway). That attacker cannot perform an attack of opportunity against this movement.
+• **Tumbling Defense**. You must possess the Tumble feature before selecting this edge. When you are aware of an attack against you, you may use your reaction to expend the use of your Tumble feature. If you do, you gain a bonus to defense against that attack equal to your [Rflx] bonus and your minimum possible defense against the attack cannot be lower than your [Rflx] score. Additionally, if the attack is a critical failure or would qualify to damage armor against you, you may perform a leap (representing your fantastic gymnastic getaway). That attacker cannot perform an attack of opportunity against this movement.
 
 • **Weapon Competency**. Select a weapon type. You gain a +1 bonus to all attacks made with the selected weapon type.  
 You may select this multiple times, choosing a new weapon type each time.
