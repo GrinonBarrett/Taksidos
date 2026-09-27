@@ -30,7 +30,7 @@ When you are wounded, you may use your reaction to gain one of the following ben
 * Perform a counterattack using an unarmed or melee attack against that foe
 * Move a number of feet equal to your missing hitpoints + heroism (so long as it does not exceed your mode of movement).
 * Gain a bonus to your next attack against that foe equal to your heroism, for the purpose of inflicting a critical hit, until the end of the next round.
-* Gain a bonus to defense equal to your herosim against the next attack made by that foe against you before the end of the next round.
+* Gain a bonus to defense equal to your heroism against the next attack made by that foe against you before the end of the next round.
 
 ### 3) Sentinel Response
 When you perform an attack of opportunity, call a number. If the die roll or total attack result matches the number, it does not count against your reaction.
