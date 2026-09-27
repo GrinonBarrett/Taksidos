@@ -60,8 +60,8 @@ At levels 5 and 10, you may choose to splash another class into your training or
 #### Specialize
 If you specialize as a sorcerer, you gain the following:  
 You are no longer limited by your heroism when using your Intensify Spell.  
-Anytime you cast a spell affecting a creature, you know how many hitpints it currently possesses.  
-When you cast a spell using reflexive casting, you gain a bonus to your spellcheck equal to your [Fort] bonus.
+Anytime you cast a spell affecting a creature, you know how many hitpoints it currently possesses.  
+When you cast a spell using reflexive casting, you may gain a bonus to your spellcheck equal to your [Fort] bonus by taking on a point of spell sickness.
 You gain a bonus to saves against magical effects equal to your remaining hitpoints.  
 So long as you have any hitpoints remaining, you gain a +1 bonus to defense against magical attacks.
 
