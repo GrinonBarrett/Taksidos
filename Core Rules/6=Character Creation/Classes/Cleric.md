@@ -27,10 +27,10 @@ Furthermore, when performing a counter-spell check, you may add your [Empy] bonu
 
 ### Liturgy
 You have learned several religious rites which can be used as an alternative to wyrdings. Each rite functions as a spell with a few differences;  
-* The time to cast the spell is multilpied by the tier of the spell. This increased time accounts for the motions of the ritual, perfomance of any incantations, the drawing of any glyphs or sigils, etc.  
+* The time to cast the spell is multiplied by the tier of the spell. This increased time accounts for the motions of the ritual, performance of any incantations, the drawing of any glyphs or sigils, etc.  
 * You must perform a recitation of holy scripture or mantra as you perform the spell. If you cannot hear yourself to ensure the recitation is proper, or are struggling to focus on the recitation, you have disadvantage on the spellcheck. If you cannot perform the recitation, you fail to cast the spell.  
 * You must have components (such as incense, an offering of wealth or food, etc.) whose value is the tier of the spell squared, multiplied by 10. Such things must be considered lost as a tribute for fear of incurring divine wrath. The exact nature of the tribute depends on the rite and is at the narrator's discretion.  
-* Any spell sickness you would recieve is reduced by 1.  
+* Any spell sickness you would receive is reduced by 1.  
 * A critical success will increase the tier of the cast spell by 1.  
 * A critical failure has a 50% chance not to apply its critical failure effect.
 
