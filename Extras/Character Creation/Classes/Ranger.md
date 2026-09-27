@@ -55,7 +55,7 @@ You may add your heroism to your initiative rolls. During the first round of an 
 When you aim against a foe within a number of yards equal to your [Prcp] score, you know how many hitpoints they have remaining. If you aim against a creature of a type you have the proper zoology skill for, the range is increased by a number of yards equal to your heroism.
 
 ### 8) Drywn Boon
-You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before doing so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
+You gain training in two weapons of your choice. You may cast any of the below listed spells at up to 4th tier. You must complete a full rest before attempting so agian. It is automatically successful and the points of success will be 1d12 + your heorism. This can cause it to become a critical success.  
 
 Abatis, Alacering, Aldervalder, Bramble Grasp, Burning Spores, Call Lightning, Conjure Water, Creeping Death, Disenchant, Dragon's Breath, Ertvalder, Everwarmth, Feyding Gesture, Flameward, Fogflow, Frostbite, Fyrvalder, Gnash, Green Ward, Hydromorphy, Illproofing, Isevalder, Kafteropidimatism, Moonfire, Noseblind, Pagomancy, Quell, Sobering, Sphere of Oppressive Cold, Sunshower, Thornvalder, Unrest for Undeath, Venting Burst, Waedervalder, Waterworking, Wengevalder, Wildervalder, Wurmvalder, Xylary Form.
 
@@ -134,7 +134,7 @@ If you splash ranger as a member of another class, you gain the Unconventional S
 * The amount of food and water you require is reduced by 25%. If you did not require such things, you instead learn 2 languages of your choice.
 
 **Reptile**. 
-* When you perform an opposed check while brawling, you may replace one of your attrbute bonuses with your heroism. If you do, you are vulnerable until the brawl ends.
+* When you perform an opposed check while brawling, you may replace one of your attribute bonuses with your heroism. If you do, you are vulnerable until the brawl ends.
 
 **Sylvan**.  
 * You gain a +2 bonus to defense against Bare, Biting, Club, Cutting, and Thrown Blade attacks.
