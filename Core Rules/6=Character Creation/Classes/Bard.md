@@ -47,9 +47,10 @@ You may use your reaction to provide a creature within a number of yards equal t
 You gain training in two weapons of your choice.
 
 ### 6) Myth Speaking
-Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. An affected creature which has heard the performance for at least two whole rounds gains the benefit of your Odd feature so long as they hear it and for a number of rounds after equal to your heroism.  
-Additionally, when such an affected creature would be affected by the attack of a wand or staff, you may expend the use of your Random Piece of Knowledge to apply disadvantage to that attack.  
-Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
+Your knowledge of obscure myths and legends is so powerful, that you may choose to use an action or forfeit your movement during a movement phase. If you do, you may maintain concentration on a chant, speech, or song (your choice of format). The creature must be able to hear and understand your performance to be affected. A creature which has heard the performance for at least two whole rounds is affected in the following ways;  
+•  It gains the benefit of your Odd feature so long as they hear it and for a number of rounds after equal to your heroism.  
+• Additionally, when such an affected creature would be affected by the attack of a wand or staff, you may expend the use of your Random Piece of Knowledge to apply disadvantage to that attack.  
+• Furthermore, if a creature affected by your performance attempts an attack against a legendary creature or a creature of a type included in your Odd feature- you may expend the use of your Random Piece of Knowledge to grant advantage on that attack.
 
 ### 6) Useful Tidbit
 You may expend the use of your Random Piece of Information to benefit a creature within 2 yards if it is attempting to make an appropriate check/save pertaining to your chosen subject.
@@ -58,7 +59,7 @@ You may expend the use of your Random Piece of Information to benefit a creature
 When a magical effect would inflict an attack against you, you may impose disadvantage on that attack. You must complete a long or full rest before doing so again.
 
 ### 7) More Random Knowledge
-Choose two creature types from the folowing (Bigenerae, Drakomadiae, Ephemera, Fey, Fiend, Monster). Your Random Piece of Knowledge can also apply to the appropriate checks/saves pertaining to the selected creature types.  
+Choose two creature types from the following (Bigenerae, Drakomadiae, Ephemera, Fey, Fiend, Monster). Your Random Piece of Knowledge can also apply to the appropriate checks/saves pertaining to the selected creature types.  
 Additionally, anytime a creature you can perceive casts a spells, you may expend your use of Random Piece of Knowledge to know the name of that spell. If you do, you may also use your reaction to attempt to counterspell it as though you knew the spell.
 
 ### 8) Spurn Spell
@@ -78,7 +79,7 @@ If you specialize as a bard, you gain the following:
 An additional time between rests, you may use your Random Piece of Knowledge feature.  
 Your total hitpoints is increased by 1.  
 You learn a random spell.  
-Your Odd feature now benefits you against Drakomadiae and Fiends as well.  
+Choose one of the creature types listed in the More Random Knowledge feature. It is included as a creature type for your Odd feature.
 When using your Random Piece of Knowledge feature to grant another a +2 bonus, it is now a +4.
 
 #### Splash
