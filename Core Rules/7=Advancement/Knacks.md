@@ -22,7 +22,7 @@ If you inflict a critical hit with your cleave and are not prone or vulnerable, 
 When attempting to use stealth, if you are not moving more than 1 foot, you may roll a d4 and add it to your visual stealth. Furthermore, while hiding this way, you may spend a whole round to reroll that d4 and take the new result.
 
 **Incantations**, 2 items  
-You memorize an incantation for casting your spells. When you roll your spellcheck, you gain a +1 bonus for each whole round the spellcasting takes. If the spell's casting times is measured in minutes or hours, the bonus is based on that unit of measurement instead. This bonus is not taken into account for determining if the spell check is a critical success and cannot exceed the spell's tier.
+You memorize an incantation for casting each of your spells. When you roll your spellcheck, you gain a +2 bonus for reciting the incantation. If you had difficulties in hearing yourself or otherwise being sure of the incantation, it is only a +1 bonus. If the spell’s duration is measured in hours, you may instead choose to gain a bonus equal to half of the hours spent on casting the spell, so long as it doesn’t exceed the spell’s tier.
 
 **Mobile Strikes**, 1 item  
 Once per round, when you attack, if you moved the entirety of your movement (either a typical mode of movement or sprint) since the beginning of the round or your previous action- you may use your reaction to grant yourself a +2 bonus to your melee attack or +1 bonus to another attack. If you do, and the attack is a critical failure, you are vulnerable until the end of the round.
