@@ -27,7 +27,7 @@ Additionally, you may enter a battle-rage as an action or reaction. While in thi
 * You gain advantage on opposed [Body] checks.
 * If you are unarmored, you gain a +1 bonus to defense against non-melee attacks.  
 
-This trance ends at the end of any 2nd consecutive round you do not successfuly inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1 + double the number of rounds the trance lasted.
+This trance ends at the end of any 2nd consecutive round you do not successfully inflict an attack against a foe. When this trance ends, you suffer a level of exhaustion and are dazed for a number of rounds equal to 1 + double the number of rounds the trance lasted.
 
 ### 2) Furious Blow
 The first attack you make each round while in your battle-rage trance gains a bonus equal to your heroism for the purpose of determining if the successful attack is a critical hit.
