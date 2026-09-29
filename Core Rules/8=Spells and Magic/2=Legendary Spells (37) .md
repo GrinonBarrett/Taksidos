@@ -173,7 +173,7 @@ A mighty warrior from a land torn by sickening radiance. He is known for sudeen 
 
 **Effect**: You inflict a ki attack and either a force attack or radiant attack.
 
-If the spellcheck is a critical success, your attack can also reach into the ethereal and psychic planes. If you already occupy one of those planes, the attack also reaches into the material plane.
+If the spellcheck is a critical success, your attacks can also prevent the foe from voluntarily leaving the material, ethereal, or psychic plane until the end of the next 0hase. This is cumulative with the triggering attack and each of the spell's attack.
 
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to grant one of the spell's attack a +1 bonus or each attack a +1 bonus for the purpose of inflicting a critical hit.
 
