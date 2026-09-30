@@ -1704,7 +1704,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (16
+### G (17
 
 #### Glacial Brand
 
@@ -1721,6 +1721,20 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 **At Higher Tiers**: When cast at 5th tier or higher, the range increases by 5 yards per tier beyond minimum.
 
 **Critical Failure**: The brand forms on you instead and lasts for a total of 5 rounds per spell tier.
+
+#### Glacial Rend
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Range**: 2 yards
+
+**Effect**: A scythe of ice manifests and swing at a target within range. This inflicts a cutting attack and then a cold attack. You may choose to have the cutting attack treated as a sunder. If the cutting attack is successful in any degee, the cold attack gains advantage.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 1 yard and you may choose to grant either attack a +1 bonus for the purpose of determining a critical hit.
+
+**Critical Failure**: This scythe targets you instead.
 
 #### Generovulnusism
 
