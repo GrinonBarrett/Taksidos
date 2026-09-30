@@ -889,7 +889,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack against you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (17
+### D (18
 
 #### Damper
 
@@ -1185,6 +1185,20 @@ The spell lasts until the end of the next phase so long as the caster concentrat
 **At Higher Tiers**: Each tier beyond the minimum allows you to spew the flames 1 yard further.
 
 **Critical Failure**: You attempt to ignite your breath, only for it to backfire- inflict a fire attack against yourself with a +1 bonus for each tier beyond minimum.
+
+#### Dragon's Fang
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to coming in contact with another creature or performing an opposed Brawl check (after the results are determined)
+
+**Effect**: You bite with a ferocity matched by few creatures. Inflict an unarmed biting attack against the foe. Then inflict an acid attack against the foe. If the biting attack was successful, the acid attack has advantage. If the biting attack qualified to damage armor, you may have the acid attack ignore the foe's armor.
+
+If the spellcheck was a critical success, and you would have features that allow you to perform or modify a form of bite attack you make, you may apply it to this spell's attack.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to grant either attack a +1 bonus.
+
+**Critical Failure**: Acid forms internally, inflicting a wound against you (no attack roll). If you are a creature of undeath, you lose points of undeath equal to 1d4+triple the spell's tier. Additionally, you cannot consume food while you have spell sickness.
 
 #### Dragon's Leer
 
