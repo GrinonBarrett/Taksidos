@@ -40,7 +40,7 @@ Commonly used for textiles, it has seen use as a medium to absorb alchemic mixtu
 **Cheap Spice** 		$70 per lb.  
 Spices which are common to the area and can be kept for sometime. May also be a dry cured spice which has lost some flavor.
 
-**Polveralicia**		$82 per lb.  
+**Parpostas**		$82 per lb.  
 A powder composed of fine charcoal, grey tin, and silver which has been soaked in a simple ether. It is used for potent alchemic products and used to produce smoked powder, an alternative to black powder.
 
 **Leather**    $86 per lb.  
