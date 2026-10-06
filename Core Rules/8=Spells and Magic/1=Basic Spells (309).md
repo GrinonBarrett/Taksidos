@@ -889,7 +889,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack against you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (18
+### D (19
 
 #### Damper
 
@@ -1173,6 +1173,23 @@ The spell lasts until the end of the next phase so long as the caster concentrat
 **At Higher Tiers**: When cast at 4th tier or higher, for each tier beyond minimum, you may choose to either increase the range of the spell (and the reach of the entity) by 1 yard or increases the number of senses it can produce stimuli for.
 
 **Critical Failure**: You instead conjure a number of Kefalypors equal to half of the spell tier and a number of Nralls equal to half of the spell tier (round up). These creatures are all hostile towards you and seek your end. The kefalypors will prioritize you as food.
+
+#### Divert Harm
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction, which you take in response to an attack against you being a critical failure
+
+**Range**: 3 Yards
+
+**Effect**: You redirect the attack to another valid target within range of your spell that would also be within range of the attack (but not the attacker). A new attack roll is made against that new target with disadvantage. This cannot redirect the attack of a spell beyond first tier.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you can choose one of the following;  
+* The range is doubled
+* The redirected attack gets a +1 bonus
+* The tier of spell attack you can redirect is increased by 1.
+
+**Critical Failure**: You forfeit being able to act in any capacity during the next phase and gain spell sickness equal to half of the spell's tier.
 
 #### Dragon's Breath
 
@@ -3465,7 +3482,6 @@ If the spellcheck is a critical success, the subject is dazed and prone while oc
 **At Higher Tiers**: At 8th tier, you can have the plane stand for an hour. At 9th tier, it functions for a whole day. At 10th tier, the plane lasts for a week. 11th tier lasts for a month. A year at 12th tier. For 13th tier and beyond, it lasts for a number of years equal to one and a half of the spell's tier.
 
 **Critical Failure**: You have imprisoned yourself in the prison instead. Your time in the plane is divided by your [Magic] bonus if any (minimum 1).
-
 
 #### Plasma Ray
 
