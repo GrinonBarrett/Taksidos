@@ -71,7 +71,8 @@ Cost to repair is $900 per point.
 Cuirass  
 $50,000 , 32 lbs.  
 1/3  
-A set of polished round plates that offers moderate protection against blades and exquisite protection against supernatural attacks. *Magical attacks which would qualify to damage armor or have a natural result of 1 are reflected back to their attacker*.
+A set of polished round plates that offers moderate protection against blades and exquisite protection against supernatural attacks. *Magical attacks which would qualify to damage armor or have a natural result of 1 are reflected back to their attacker*.  
+Cost to repair is $150 per point.
 
 **Obsidian Plate**  
 Plate  
