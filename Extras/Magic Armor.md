@@ -112,7 +112,8 @@ Cost to repair is $1,000 per point.
 Brigindine  
 $51,000 , 26 lbs.  
 2/4  
-A sturdy coat of plates with proper accompaniment of maile and padding. *Fire, cold, and electric attacks with an odd attack roll result have no effect on the wearer*.
+A sturdy coat of plates with proper accompaniment of maile and padding. *Fire, cold, and electric attacks with an odd attack roll result have no effect on the wearer*.  
+Cost to repair is $900 per point.
 
 **Yebris' Kit** (*unique*)  
 Plate   
