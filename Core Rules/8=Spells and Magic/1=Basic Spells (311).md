@@ -2809,7 +2809,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (16
+### M (17
 
 #### Macabre Messenger
 
@@ -3085,6 +3085,18 @@ This spell cannot be cast in sunlight. Attacks from this spell have a -2 penalty
 **At Higher Tiers**: For each tier beyond minimum, you may increase the duration by an hour. Alternatively, if cast as a 3rd tier or higher spell, you may halve the total duration to have the corpse formed to appear as any member of the same species so long as your are familiar with that subject or have a detailed reference.
 
 **Critical Failure**: You have managed deform it beyond recognition. You also receive additional points of spell-sickness equal to 1d3+half of the spell's tier.
+
+#### Mortal Proclamation
+
+**Minimum Tier**: 3
+
+**Casting Time**: 1 reaction, which you take in response to dying
+
+**Effect**: You send a psychic message to any number of creatures you are familiar with alerting them to your death and the villain responsible (if you know their identity). After 1d100 days, if you were felled by another, a Nrall manifests and seeks vengeance on your behalf. It will cease to be if it has accomplished its goal or after one year from your death.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for every three tiers beyond minimum, the number of Nralls summoned is increased by 1.
+
+**Critical Failure**: You gasp a word or two that only your assailant will know.
 
 #### Mutate
 
