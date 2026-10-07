@@ -3129,7 +3129,7 @@ Second list;
 
 **Critical Failure**: You have inverted the spell completely causing it to instead afflict you for as long as you have spell sickness. You also suffer an instance of Archeblight.
 
-### N (4
+### N (5
 
 #### Needle Burst
 
@@ -3181,6 +3181,25 @@ A critical success with the spellcheck prevents the caster from blasting themsel
 * The duration of the scent is increased or decreased by 1.5 hours
 
 **Critical Failure**: You overwhelm only yourself with the scent. Your save DV is instead equal to the points of failure multiplied by the spell's tier. The scent lingers on you to the point that it is repulsive and is sure to make socializing near impossible. This lasts for the intended duration of the spell as cast normally. While affected by the spell this way, the DV of tracking you by scenet is reduced by an amount equal to the spell's tier doubled.
+
+#### Nostalgia
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 15 yards
+
+**Effect**: You cause a creature you can perceive within range to become overcome by memories (often painful ones) and longing for something of the past and the familiar. These memories and feelings are not artificial, but instead enhanced and brought to the surface by the spells. That creature must succeed a [Will] save or become dazed for a number of minutes equal to the points of failure. A creature may use its action to perform a new save against the spell with a penalty equal to the spell's tier.  
+This spell cannot affect mindless creatures.  
+
+If the spell check is a critical success, the save DV is increased by your [Magic] bonus.
+
+A critical failure on a save against this spell will incur a special wound against the creature. While it has this wound, it suffers disadvantage on saves against this spell and similar effects. Such a wound must be healed by magical means. A creature cannot have more than one wound of this nature.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the range by half or increase the DV of the save by 1.
+
+**Critical Failure**: Your efforts have inspired the subject in an unexpected manner. It gains advantage on saves against your spells so long as you have spell sickness. Your spell attacks against it have disadvantage during this time. You gain spell sickness equal to the spell's tier and are dazed until the end of the next round.
 
 #### Nralling
 
