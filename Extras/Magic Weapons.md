@@ -128,7 +128,7 @@ A greatsword from the time when elves ruled over castles, giants roamed the land
 **Dragon's Fist** (*unique*)  
 $6,700 , 2 lbs.  
 Katar  
-A serrated blade on this punching dagger grants it a -1 against foes in plate and foes blocking with a shield, but a +1 against unarmored foes and foes in gambeson or cuirass (unless blocking with a shield). When you cleave with this weapon *you may use your reaction to gain 1d4-1 points of spell sickness or instead somply gain 1d6+1 points of spell sickness. If you do, a flash of fire is produced, inflicting a fire attack against each creature your cleave attacks. The effects of the fire attacks have no effect on the cleave. If you have more spell sickness than the number of creatures within your cleave arc, you cannot do this*.  
+A serrated blade on this punching dagger grants it a -1 against foes in plate and foes blocking with a shield, but a +1 against unarmored foes and foes in gambeson or cuirass (unless blocking with a shield). When you cleave with this weapon *you may use your reaction to gain 1d4-1 points of spell sickness or instead simply gain 1d6+1 points of spell sickness. If you do, a flash of fire is produced, inflicting a fire attack against each creature your cleave attacks. The effects of the fire attacks have no effect on the cleave. If you have more spell sickness than the number of creatures within your cleave arc, you cannot do this*.  
 If name is known *user may choose to have the critical hit of this weapon treated as that of a fire attack*.
 
 **Dragon's Tongue** (*unique*)  
