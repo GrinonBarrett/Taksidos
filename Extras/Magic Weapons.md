@@ -184,7 +184,7 @@ An enchanted weapon costs 3 times the base price and an additional $5,000. Depen
 **Elderfist** (*unique*)  
 $3,500 , 4.5 lbs.  
 Morningstar  
-This spiked weapon is capable of *projecting its protrusions out in a hemisphere out 1.5 yards, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
+This spiked weapon is capable of *projecting its protrusions out in a hemisphere out 1.5 yards as an action, inflicting a thrown blade attack against each creature caught within. Afterwards, it still functions as a mace. After 3d20+30 minutes, the spikes will have slowly reformed*.
 
 **Fanijin's Blade**, (*unique*)  
 $600, 3 lbs.  
