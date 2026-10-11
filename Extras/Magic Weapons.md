@@ -471,7 +471,7 @@ The finest crafted throwing knife you have seen in your life. While stuck in a f
 **Thunder's Whisper** (*unique*)  
 $6,000 , 9 lb.  
 Pike  
-This pike seems to resonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the use have disadvantage*.
+This pike seems to resonate with an eerie almost silent voice. The reach extends out 6 yards (meaning the penalty is applied to attacks within 13.5 feet). When pressing attack, *it can inflict a Sonic attack as well*. If name is known, *sonic attacks against the user have disadvantage*.
 
 **Tolminth** (*unique*)  
 $12,000, .33 lb.  
@@ -503,7 +503,7 @@ An ipe shaft and brass head make this a beautiful piece of weaponry. Reaching 5 
 **Vehemente's Escape** (*unique*)  
 $6,000 , 2 lbs.  
 Staff  
-A staff of maple with a blade affixed quit smoothly into its shape. It can inflict attacks like a spear if user also has training with spears and can benefit from any spear training when used this way. Uses [Inte]. Inflicts a fire attack. Contains the *Absenting* spell.
+A staff of maple with a blade affixed quite smoothly into its shape. It can inflict attacks like a spear if user also has training with spears and can benefit from any spear training when used this way. Uses [Inte]. Inflicts a fire attack. Contains the *Absenting* spell.
 
 **Vicious Fang** (*unique*)  
 $5,000 , 2 lbs.  
