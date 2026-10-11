@@ -3229,7 +3229,7 @@ A critical failure on a save against this spell will incur a special wound again
 
 ### O (6
 
-#### Odioususary
+#### Odiususary
 
 **Minimum Tier**: 3
 
