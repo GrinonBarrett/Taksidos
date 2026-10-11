@@ -383,6 +383,7 @@ If its name is known, *an electrical attack is inflicted against each foe within
 
 **Ralafasse** (*unique*)  
 $30,000 , 4 lbs.  
+Longsword  
 A blade brighter than any silver is adorned with a hilt of brass and the finest leather grip. The user will feel the thoughts of something wanting to fight a strong opponent. Eventually, it might start talking to the user. It will not reveal its name voluntarily unless a mighty foe is best by the user. *The sword gets to take a reaction each round so long as it is in a user's hand, but it must be an action involving the sword itself. A user attempting to prevent this by using their reaction in response. If name is known, they may have Ralafasse brace for reactions of their choice at the start of a combat- although Ralafasse may still choose to perform its own reaction. If the user has Warrior Mastery with longswords, Ralafasse can live up to its full potential- granting a +1 to all attacks, beats, and parries with the weapon*. 
 
 **Ritual Femur**  
@@ -407,6 +408,11 @@ $2,500 , .1 lb.
 Wand  
 Uses [Prcp]. *When used, a beam of energy is fired at the foe, inflicting a sonic attack. It sounds like a phantasmal voice is singing when used. If name is known, user cannot gain Spell Sickness from this weapon*.
 
+**Shnath'dyrfrin** (unique)  
+$9,000 , 4 lbs.  
+Flail  
+This flail is made of an elf's skull dipped in molten hadrium. *Attacks with this weapon inflict a point of spellsickness*. If name is known, *it also inflicts a necrotic attack against the foe if the weapon's attack, beat, or parry is successful*.
+
 **Siphoning Sabre** (*unique*)  
 $8,500 , 3 lbs.  
 Longsword  
@@ -421,7 +427,7 @@ If the user knows the arrow's name, they may choose to inflict the traditional c
 **Spooky Tooth**, (*unique*)  
 $9,500 , .6 lb.  
 Dagger (small)  
-The blade seems reluctant to allow reflections from its surface. When an attack roll against a foe is an odd result *it must succeed a [Will] save with a DV equal to the attack total or be overcome with fear, causing it to attempt to flee from the wielder for a number of rounds equal to 1 + the point of failure*.
+The blade seems reluctant to allow reflections from its surface. When an attack roll against a foe is an odd result *it must succeed a [Will] save with a DV equal to the attack total or be overcome with fear, causing it to attempt to flee from the wielder for a number of rounds equal to 1 + the points of failure*.
 
 **Storm Fang** (*unique*)  
 $22,000 , 5 lbs.  
