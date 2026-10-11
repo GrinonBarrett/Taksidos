@@ -3227,7 +3227,29 @@ A critical failure on a save against this spell will incur a special wound again
 
 **Critical Failure**: The spell seems to function as normal, but it only remains subservient to you for a number of rounds equal to your [Magic] bonus minus the spell's tier (minimum of 1 round).
 
-### O (5
+### O (6
+
+#### Odioususary
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 Actions
+
+**Effect**: You seek to inflict a terrible curse on the foe. This curse can manifest in one of five ways as you choose. Regardless of its form of manifestation, the subject performs a [Fort] save. If the save is a success, no effect of the spell is applied to the creature. If it is a critical success, it knows exactly what you trued to inflict against it and cannot be afflicted by that same option from you for a number of hours equal to the points of success. If the save is a failure in any degree, it is affected by the curse for a number of rounds equal to the points of failure multiplied by the spell's tier. This spell cannot affect a creature which is immune to its flesh being affect by magic.
+
+* Sandpaper Eyelids. Eyelids (or other features around the subject's eyes) begin to deform and harden on a micro scale, producing a painful and damaging pattern. The afflicted creature cannot concentrate because of the pain. Additionally, [Prcp] checks and saves made by the subject have disadvantage. Radiant attacks gain advantage against the subject. If the save is a critical failure, their vision is so fistorted by the scraping and watering that they are effectively blind.
+
+* Nauseous Expulsion. The subject's digestive system fails, making it vomit profusely in an instant and in so doing, cause them to forfeit their turn on the next phase and lose any benefit of food consumed for that day. Afterwards, during the duration, the creature will find the muscle aches to bring disadvantage on [Body] checks and saves. It also has disadvantage on [Prcp] checks and saves involving taste. Crushing attacks will have advantage against it. If the save was a critical failure, the subject loses their reaction for the round (if they had one) when first afflicted by this and cannot consume any food or liquids during the curse's duration.
+
+* Boils. Their flesh begins to bubble and fester. They suffer a -2 penalty to defense while not Vulnerable, have their movement speed reduced by 1/3, and disadvantage on [Prcp] checks and saves involving touch. Necrotic attacks against them gain advantage. If the save was a critical failure, cold, fire, toxic, and necrotic attacks gain a bonus against them equal to the spell's tier halved.
+
+* Horrid Leakage. The subjects begins to expell large amounts of some bodily fluid (other than blood), be it sweat, mucous, loose stool, etc. The creature loses benefits of any hydration they received for the day and require additional servings of fluid equal to the spell's tier. The subject has disadvantage on [Prcp] checks and saves involving smell. Additionally, opposed check against the subject or [Prcp] checks invloving track it by scent gain advantage. Sonic attacks against the creature have advantage. If the save was a critical failure, it is also prone for a number of rounds equal to the spell's tier as their body contorts to begin the leakage.
+
+* Waxing Flow. A sticky wax-like substance begins to emit from the creature's pores and orifaces, especially their ears. If the creature had the mucous feature, it is lost. If they did not have the mucous feature, they gain it and are prone. All checks pertaining to the use of an item (not to mention attack rolls, parries, and beats with items) have disadvantage. They also have disadvantage on [Prcp] checks and saves invloving hearing. Sonic attacks against them have disadvantage, but fire attacks gain advantage against them. If the save was a critical failure, they also suffer a level of exhaustion as their body works overtime to produce this material.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for every tier beyond minimum, you may affect an additional creature.
+
+**Critical Failure**: You not only affect yourself with the spell, gaining disadvantage on the save but suffer worse effects. On a critical failure of your save, you are also subject to one of the unchosen options (roll a d4 to determine).
 
 #### Ominous Mist
 
