@@ -286,7 +286,7 @@ If name is known, the user may also simply choose to apply this to a single atta
 **Kalazael** (*unique*)  
 $14,200 , 5.5 lbs.  
 Pole Axe  
-A longer variant of the pole axe that reaches out to 3 yards. Because of its length, it suffers a -1 penalty to all and an additional -1 to attacks within 1 yard. A critical hit or successful follow up attack from the weapon will also *inflict an electrical attack. If name is known, you may take on 1d4 points of spell sickness as a reaction upon a successful hit against a foe. If you do, you cause an explosion affecting the struck foe and everything within 1 yard of it. Those within the explosion are subject to an electric attack and an acid attack*.
+A longer variant of the pole axe that reaches out to 3 yards. Because of its length, it suffers a -1 penalty to all attacks and an additional -1 to attacks within 1 yard. A critical hit or successful follow up attack from the weapon will also *inflict an electrical attack. If name is known, you may take on 1d4 points of spell sickness as a reaction upon a successful hit against a foe. If you do, you cause an explosion affecting the struck foe and everything within 1 yard of it. Those within the explosion are subject to an electric attack and an acid attack*.
 
 **Khaleurthet** (*unique*)  
 $12,000 , 5 lbs.  
@@ -378,7 +378,7 @@ If name is known, *anytime the user presses attack while already vulnerable- the
 **Rai** (*unique*)  
 $13,000 , 3.25 lbs.  
 Longsword (Large)  
-This shortsword is made for a giant and features a wonderful keen blade. When the wielder presses attack, the attack type may be treated as a Cutting attack. *If the attack roll result of any attack with the weapon would be a 7, 13, or qualify to damage armor, it also inflicts an electrical attack*.  
+This sword is made for a giant and features a wonderful keen blade. When the wielder presses attack, the attack type may be treated as a Cutting attack. *If the attack roll result of any attack with the weapon would be a 7, 13, or qualify to damage armor, it also inflicts an electrical attack*.  
 If its name is known, *an electrical attack is inflicted against each foe within a cleave performed by the wielder*.
 
 **Ralafasse** (*unique*)  
