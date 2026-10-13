@@ -289,3 +289,8 @@ Unique.
 2 pounds  
 A girdle fit for a king. Though it seems modest at first glance, the craftsmanship is quite fine.
 *The wearer doubles their [Body] bonus for all checks. Additionally, for all intents and purposes, the wearer's [Body] bonus is added to the [Body] score. This does not further increase the [Body] bonus*.
+
+**Zucian**, $30,000
+Unique.
+Neg.
+A ring made of bone. *Unarmed and necrotic attacks against the wearer have disadvantage*. If the ring's name is known, *the user is actually immune to unarmed attacks*.
