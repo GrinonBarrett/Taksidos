@@ -2827,7 +2827,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (17
+### M (18
 
 #### Macabre Messenger
 
@@ -3158,6 +3158,20 @@ Second list;
 **At Higher Tiers**: In addition to the benefits listed above, each tier beyond minimum allows the caster to reach out an additional 2 yards with the spell.
 
 **Critical Failure**: You have inverted the spell completely causing it to instead afflict you for as long as you have spell sickness. You also suffer an instance of Archeblight.
+
+#### Mystic Ray
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Effect**: Your fingertip glows mildly as you touch a point in space. This leaves behind a tiny glowing sphere (producing dim light for 1 inch). This sphere remains as long as you concentrate. An object or creature interacting with it will dispel it. As an action or reaction, you may have the sphere disappear into a narrow beam of light to strike a foe within 30 yards of it that you can perceive. This is a radiant ray attack. If the attack is successful to any degree, it also inflicts a ki attack. If either attack qualifies to damage armor, it also inflicts a point of spell sickness.
+
+If the spellcheck is a critical success, you may use any training you have with wands/staves to benefit the radiant attack.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, you may choose to either increase the reach of the ray by 3 yards or grant the attacks of the spell a +1 for the purpose of determining a critical hit.
+
+**Critical Failure**: Your fingertip glows dimly, and then flashes in a fraction of a moment. This inflicts a rafiant attack against yourself with a bonus equal to the spellcheck's points of failure for the purpose of determining a critical hit. You are also blind for a number of phases equal to the spell's tier +1. Anything that can see in your general direction has certainly spotted you.
 
 ### N (5
 
