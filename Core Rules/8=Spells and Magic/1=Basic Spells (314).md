@@ -3884,7 +3884,7 @@ If the caster has already cast this spell successfully, they will continue to fe
 
 **Duration**: 1 minute
 
-**Effect**: You draft glowing runes into the air as an expression of your magical powers. These runes hover about you for the duration of the spell. While accompanied by the runes, you gain a bonus to all Spellcraft checks equal to the spell's tier. Additionally, you may rearrange the runes to produce one of the following effects. If you do, they disappear into a momentary flash of light as the spell ends prematurely.
+**Effect**: You draft glowing runes into the air as an expression of your magical powers. These runes hover about you for the duration of the spell. While accompanied by the runes, you gain a bonus to all Spellcraft checks equal to the spell's tier. Additionally, you may rearrange the runes to produce a runeword representing one of the following effects. If you do, they disappear into a momentary flash of light as the spell ends prematurely.
 
 ***Slow***. You attempt to hold a creature's movements within 10 yards as a reaction. Its movement speed is halved (including fall speed and knockback effects) until end of round.
 
@@ -3949,7 +3949,7 @@ Additionally, for every two tiers beyond 5th, the number of attacks (before bein
 
 **Critical Failure**: Your words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
-### S (27
+### S (28
 
 #### Sapiafi
 
@@ -4201,6 +4201,22 @@ Excluded creatures include Constructs, Elementals, Ephemera, Fiends, and Undead.
 **At Higher Tiers**: Each tier beyond minimum sees the sphere extend out an additional foot in all directions.
 
 **Critical Failure**: Flip a coin. If tails, you produce the sphere centered on you lasting for a single round. Regardless, you are completely frozen (see condition).
+
+#### Spiteful Retort
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to a critical hit effect against you
+
+**Range** 5 yards
+
+**Effect**: You weave your pain and a mysterious force together to lash out. Inflicting the exact same critical hit effect (including its points of success) against a number of creatures within range up to the spell's tier.If multiple critical hit effects were to be applied against you simultaneously, you choose one.  
+
+If the spellcheck was a critical success, you may choose to either lower the points of success against you for the purpose of that critical hit effect by a number of points equal to your [Magic] bonus (without affecting that of those you afflict with this spell) or increase the points of success for the purpose of the critical hit effect(s) applied to other creatures through this spell by an amount equal to your [Magic] bonus.
+
+**At Higher Tiers**: In addition to the above benefits, for each tier beyond minimum, you may choose either to increase the maximum range by 3 yards or the total number of critical hit effects you received that will be passed on to others (if any).
+
+**Critical Failure**: After a number of rounds equal to the points of failure, you receive additional critical hit effects of the nature(s) you tried to apply this way. They are considered to have points of success equal to the spellcheck's points of failure multiplied by the spell's tier.
 
 #### Spook
 
