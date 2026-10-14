@@ -1233,7 +1233,7 @@ If the spellcheck is a critical success, the spell ignores shields and cover.
 
 **Critical Failure**: Your eyes burn, causing you to lose a hitpoint if you had any (or 1d8 points of undeath) and you have disadvantage on [Prcp] checks and saves for a number of rounds equal to the points of failure.
 
-### E (10
+### E (11
 
 #### Edify
 
@@ -1353,6 +1353,24 @@ The spirit is capable of moving through sand, dirt, and stone unimpeded. The spi
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 2 yards.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a crushing attack. You are prone during this time.
+
+#### Ethereal Blades
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Duration**: 1 hour
+
+**Effect**: You produce a number of whirling blade shapes that spin around you equal to the spell's tier. They exist solely on the ethereal plane. Anytime a creature comes with 3 yards of you on the ethereal plane or ends a phase within 3 yards of you, one of the blades will collide with it, inflicting a chakram attack against it. When a blade impacts, it ceases to be.
+
+Additionally, you may direct a blade out as a ray attack as an action. This range is a number of yards equal to the spellcheck result multiplied by the spell tier with an optimal range up to half of that distance. Regardless of whether the blade strikes anything this way, it will dissipate by the end of its range and not be usuable again.
+
+If the spellcheck is a critical success, you may alter the distance the blades travel around you to be as low as half of the usual range or half again the maximum range. You can also use your reaction to redirect a blade when it would impact with a creature to prevent that.
+
+**At Higher Tiers**: In addition to the above benefits, for each tier beyond minimum, you may choose either to increase the total number of blades by 1 or the range the blades travel from you by 1.5 yards.
+
+**Critical Failure**: One of your senses (randomly chosen) now accesses the ethereal plane exclusively (or material plane if you are on the ethereal plane). This causes disorientation that imposes disadvantage on all [Prcp] checks and saves so long as you have spell sickness. You are also vulnerable to attacks originating from the ethereal plane during this time and psychic attacks gain advantage against you while you have spell sickness.
 
 #### Everwarmth
 
