@@ -4422,7 +4422,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (15
+### T (16
 
 #### Telekinesis 
 
@@ -4695,6 +4695,22 @@ The forcefield impairs senses.
 * The DV of the save is increased by 2.
 
 **Critical Failure**: You have locked yourself in a forcefield for as long as you have spell sickness. You can do nothing during this time. The container can survive a number of hits equal to the tier of the spell and its defense is equal to 10 + your points of failure.
+
+#### Trigram
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 33 yards
+
+**Effect**: Three triangular metallic shards, festuring a mirror polish to them, manifest before you and are sent to the same target. Each has a slight tint to their sheen, one reddish, another bluish, and the last yellowed. These shards inflict either a chakram attack or brusgiata attack (your choice when casting). The critical hit effect of each is replaced, with one being that of fire, the other cold, and then an electric. If an attack from one of these shards would qualify to damage armor, it instead binds the foe to prevent them from performing movement (including movement features like Tactical step) until the end of the next phase. This is cumulative with each such strike.
+
+A creature bound by this spell is not considered immobile, grappled, or prone.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, the range is increased by 3 yards or you may choose to grant an attack a +1 bonus for the purpose of determining a critical hit.
+
+**Critical Failure**: Choose two of the following critical hit effects (Cold, Cutting, Electric, Fire). They are applied against you as though an attack had points of success equal to the spellcheck's points of failure. You receive an attack of the unchosen type, which gains a bonus against you equal to the spell's tier. You cannot move (as though by the effect of the spell) until the end of the next phase.
 
 #### Turn
 
