@@ -3369,9 +3369,9 @@ When the duration expires, the motes fade from existence. When a mote is used, i
 
 **Casting Time**: 2 Actions
 
-**Effect**: You project a serious of nearly resonant waves out in a 3 yard cone. Anything within the cone is subject to a sonic attack
+**Effect**: You project a serious of nearly resonant waves out in a 3 yard cone. Anything within the cone is subject to a sonic attack.
 
-**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1 yard, but also increases the casting time by 1 action.
+**At Higher Tiers**: Each tier beyond minimum allows you to extend the range of the spell's cone by 1.5 yards, but also increases the casting time by 1 action.
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
