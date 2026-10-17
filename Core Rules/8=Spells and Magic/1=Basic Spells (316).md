@@ -604,7 +604,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Minimum Tier**: 5
 
-**Casting Time**: 2 actions
+**Casting Time**: 3 actions
 
 **Range**: 30 yards
 
@@ -996,7 +996,7 @@ Effects that restore points of undeath from within the field or affecting a targ
 
 **Minimum Tier**: 1
 
-**Casting Time**: 8 actions
+**Casting Time**: 6 actions
 
 **Range**: 1 yard
 
@@ -1525,7 +1525,7 @@ These flares last 15 minutes
 
 **Critical Failure**: You produce a flare, but it automatically sticks to you. When this occurs, it inflicts a proper radiant attack against you, with a bonus equal to the spell's tier for the purpose of determining if it is a critical hit.
 
-[Flare Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. What he wanted was a utility spell that could also have some use in a fight if a player thought to use it that way."
+[Flare Spell]: # " Created at the request of Michael Hasty, who wanted a spell that produced 'missiles of light' which 'could blind'. What he wanted was a utility spell that could also have some use in a fight if a player thought to use it that way. Except that I misinterpreted that he actually wanted a combat spell that could blind."
 
 #### Flash Cannon
 
