@@ -3710,7 +3710,7 @@ Regardless of the spell's effect, if it is cast successfully, the caster knows t
 
 **Effect**: You fire a fine ray of rapidly rotating energy at a foe within range, inflicting a piercing attack.
 
-If the spell check is a critical hit, you may have the spell's ray continue through any obstacle on its way. This can cause it to inflict a piercing attack against that obstacle.
+If the spell check is a critical success, you may have the spell's ray continue through any obstacle on its way. This can cause it to inflict a piercing attack against that obstacle.
 
 **At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, you may choose to increase the range by 15 yards.
 
@@ -3959,7 +3959,7 @@ Additionally, for every two tiers beyond 5th, the number of attacks (before bein
 
 **Effect**: You speak foul words which can manifest fetid wounds against a foe's flesh. Target foe within range suffers a necrotic attack. This has disadvantage against a creature that cannot hear you and the spell does not work if you cannot express the words (or equivalent sounds). The foe need not understand the words to be subject to them.
 
-**At Higher Tiers**: Each tier beyond the minimum increases the range by 3 yards.
+**At Higher Tiers**: Each tier beyond the minimum doubles the spell's range.
 
 **Critical Failure**: Your words fail to produce their intended meaning and the fumbling causes great dissonance to yourself, leaving you vulnerable for a number of rounds equal to the points of failure or until an ally spends an action helping you come to your senses.
 
