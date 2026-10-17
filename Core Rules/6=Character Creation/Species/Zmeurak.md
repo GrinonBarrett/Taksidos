@@ -24,9 +24,9 @@ Choose two attributes. They are each increased by 1.
 |--------|-------------------|----------------------------------------------------------------|
 |   1    | Attacker's Choice |                                                                |
 |   2    | Crippled          | Your movement speed is halved until this wound is healed.      |
-|   3    | Lost Vine      | Until this wound is healed, one of your vines is no longer functional. |
+|   3    | Lost Vine         | Until this wound is healed, one of your vines is no longer functional. |
 |   4    | Mortal Blow       | Until the this wound is healed, you have disadvantage on saves which prevent death. |
-|   5    | Lost an Eye       | You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
+|   5    | Lost an Eye       | You cannot take any action except Sprinting during the action phases until the end of the next round. You have a -1 to your attack rolls until the end of the next round. During this time, attacks made against you gain a +1 bonus to their result. You also suffer a -3 penalty to checks and saves relying on your sight until this wound is healed. |
 |   6    | Winded            | You must succeeded a [Fort] save against the attack result or be dazed until the end of the next round. You have a -1 to all other saves during this time.|
 |   7    | Stumble | **Biased wound**. You are prone or vulnerable until the end of the round, your choice. If you already suffer from one, you must choose the other. |
 |   8    | Glancing Blow     | No ill effects.                                     |
