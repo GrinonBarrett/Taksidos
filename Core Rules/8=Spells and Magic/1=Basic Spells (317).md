@@ -1414,7 +1414,7 @@ If the spellcheck is a critical success, you may alter the distance the blades t
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (20
+### F (21
 
 #### Fallen Words
 
@@ -1495,6 +1495,24 @@ Cannot affect Fey, Fiends, Elementals, Ephemera, Sylvan, or Undead creatures.
 
 **Critical Failure**: You find your senses distort for just a moment as your headspace changes. You gain points of inebriation equal to the tier of the spell and are dazed for a number of rounds equal to the points of failure.
 
+#### Finger of Doom
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 Action
+
+**Range**: 15 yards
+
+**Effect**: You direct a ray of pointed energy at a foe. This is a ki ray attack. This ray ignores armor. If the foe is afflicted by a fear effect, this attack has advantage.  
+If the target can perceive you, this ray ignores cover and will ignore shields unless used to block.  
+This ray has disadvantage against mindless creatures. If it would have multiple instances of disadvantage, it cannot affect that creature at all.
+
+If the spellcheck is a critical success, you may change the damage type to any exotic damage type.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, the range is increased by 10 yards.
+
+**Critical Failure**: You incite doom upon yourself. Some malevolent force is quite showingly berrating you, which can be detected by any that perceive you. You are vulnerable for a number of rounds equal to the spell tier.
+
 #### Flameward
 
 **Minimum Tier**: 1
@@ -1533,7 +1551,7 @@ These flares last 15 minutes
 
 **Casting Time**: 1 Action
 
-**Effect**: You hold your hand out, producing a sphere of light. This produces bright light out for 1 foot, fair light out to 3 yards, and dim light another 2 yards beyond that. You may concentrate on the sphere up to a number of phases equal to the spell's tier. Once the concentration stops, a beam erupts from the sphere in a direction you choose out 7 yards in a line. It is up to .5 foot wide and equally tall. This beam lasts for a number of phases equal to the number of phases the sphere had been concentrated on. Anything in the area suffers a radiant attack. While the beam is active, it and the sphere it emits from produce bright light up to 1 yard, fair light 4 yards beyond that, and dim light 1 yard beyond that.
+**Effect**: You hold your hand out, producing a sphere of light. This produces bright light out for 1 foot, fair light out to 3 yards, and dim light another 2 yards beyond that. You may concentrate on the sphere up to a number of phases equal to the spell's tier. Once the concentration stops, a beam erupts from the sphere in a direction you choose out 7 yards in a line. It is up to .5 foot wide and equally tall. This beam lasts for a number of phases equal to the number of phases the sphere had been concentrated on. Anything in the area when it is loosed, passing through it, and anything ending the phase in it suffers a radiant attack. While the beam is active, it and the sphere it emits from produce bright light up to 1 yard, fair light 4 yards beyond that, and dim light 1 yard beyond that.
 
 You may choose not to have the beam inflict a wound on a successful hit. If you do, you may increase the range by half. It will still inflict the result of a critical hit this way.
 
