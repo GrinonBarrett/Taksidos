@@ -94,8 +94,20 @@ A critical success with the spell check allows you to increase the rotation to 4
 
 **Critical Failure**: You throw the orb but it eventually curves too much and returns to you, inflicting an attack against you with a +1 bonus for the purpose of inflicting a critical hit per tier of the spell. A critical hit against you is treated as ki, necrotic, and radiant.
 
-### Auraklos (1
-Anauz Auraklos was a sorcer of some small innate talent. Most that know of him have heard of his quest for his ass, Abernathy.
+### Auraklos (2
+Anauz Auraklos was a sorcerer of some small innate talent. Most that know of him have heard of his quest for his ass, Abernathy.
+
+#### Auraklos' Denial
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction, which you take in response to a success in any degree
+
+**Effect**: You cause a disruptive surge of magic to flow into the foe. So long as you are both brawling each other or one has the other restrained, the foe suffers a penalty to spellchecks and counterspell checks equal to the spell's tier. If the spellcheck was a critical success, they are also incapable of casting spell or performing counterspells for a number of phases equal to the spell's tier 
+
+**At Higher Tiers**: Benefits are noted above.
+
+**Critical Failure**: Your focus loosens, causing you to stop concentrating for the moment and giving your next opposed check or counterspell check (whichever comes first) during this this brawl/grapple to suffer a penalty equal to the spell's tier.
 
 #### Auraklos' Snap
 
