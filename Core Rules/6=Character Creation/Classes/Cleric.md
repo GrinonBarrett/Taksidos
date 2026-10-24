@@ -53,7 +53,7 @@ Anytime you lose hitpoints, you lose an equal number of spell-sickness.
 You gain a bonus to your saves against magical effects equal to your [Empy] bonus.
 
 ### 7) Divine Favor
-When you successfully perform a rite, you may choose to increase the spell's tier by 1. You must perform a long or full rest before doing so again. 
+When you successfully perform a rite, you may choose to increase the spell's tier by 1. You must perform a long or full rest before doing so again. You may counter spells you know rites for, even if you don't know it.
 
 ### 8) Prayer  
 When you finish a rite, you may choose to delay the activation of the spell by taking on a point of spell-sickness. Before your next long or full rest, you may activate the delayed rite by spending a full round in prayer per spell tier. Once you have delayed a rite this way, you cannot delay another until you have completed a long or full rest.
