@@ -1757,7 +1757,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (17
+### G (18
 
 #### Glacial Brand
 
@@ -1788,6 +1788,21 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 **At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 1 yard and you may choose to grant either attack a +1 bonus for the purpose of determining a critical hit.
 
 **Critical Failure**: This scythe targets you instead.
+
+#### Gloom Bolt
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 Action
+
+**Range**: 20 yards
+
+**Effect**: You fire a ray of translucent blue-violet energy at a foe. This is a psychic ray attack. This ray ignores armor and physical matter other than the target (thus ignoring cover). If fired at a foe you cannot currently perceive, your attack has disadvantage. So long as this attack doesn't have disadvantage, it gains a bonus equal to the foe's current spellsickness and archeblight.
+Cannot affect a mindless creature.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 2 yards.
+
+**Critical Failure**: You gain spell sickness equal to the spell's tier and suffer a crushing attack which ignores armor. If that attack is a critical hit, it applies the effect of a psychic critical hit instead.
 
 #### Generovulnusism
 
