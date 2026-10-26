@@ -87,13 +87,13 @@ A shapeshifting creature which feeds on books to acquire all knowledge contained
 
 **Some Knowledge**: It has proficiency in a random non-zoology skill and a random zoology skill.
 
-**Book Eater**: The Frimpiyr conumes books whole to gain their knowledge. This takes 1 round for every half pound of the book. After a book is consumed, the creeature gains any benefit the book would provide and can instantly recall any information it contained. If it consumes a grimoire this way, it gains the ability to cast the contained spells at the tier indicated by the grimoire by wyrding.  
+**Book Eater**: The Frimpiyr consumes books whole to gain their knowledge. This takes 1 round for every half pound of the book. After a book is consumed, the creeature gains any benefit the book would provide and can instantly recall any information it contained. If it consumes a grimoire this way, it gains the ability to cast the contained spells at the tier indicated by the grimoire by wyrding.  
 Every time a frimpiyr reads a completely new volume which contains a meaningful difference from all other books it has consumed, there is a % chance it gains a permanent increase to its [Inte] equal to the number of such books it has eaten since the previous time it would have received such a benefit.
 
 **Tricky Form**: It can use an entire round to change its form from its humanshape form to that of some miscellaneous object no smaller than small size and no larger than medium size. It retains its own stats and features in either form, regardless of size. It must spend an entire round to change its form, during which time it is vulnerable.
 
 **Spew**: Once per encounter, as an action, the frimpiyr may spew acid in a 1.5 yard semifan. This inflicts an acid attack. It smells awful.
 
-**Unnatural Creeping**: When you it is prone, it does not suffer the usual penalty to movement.
+**Unnatural Creeping**: When it is prone, it does not suffer the usual penalty to movement.
 
 **Natural Magic**: The frimpiyr is capable of casting wyrdings, such as those spells obtained from its Book Eater feature. It also knows a random basic spell and a random legendary spell. When casting a spell it knows, it gains a bonus to its spellcheck equal to its [Inte] bonus. It also gains this bonus for counterspell checks with such spells. When casting a spell obtained through its Book Eater feature, the bonus is instead equal to the number of different tiers available to it. It gains no bonus to counterspell checks for spells obtained through Book Eater.
