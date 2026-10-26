@@ -4183,6 +4183,18 @@ A creature must have remaining hitpoints to contribute to the percentage chance 
 
 **Critical Failure**: Feel yourself afflicted by a tocic attack which gains a bonus equal to the spell's tier. You then suffer a toxic attack which ignores armor and gains a bonus equal to the spell's tier for the purpose of inflicting a critical hit. You are affected as though by the spores until end of round.
 
+#### Sludgesweep
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Effect**: You cast a wave of noxious compounds in a 5 yard semifan. This inflicts a toxic attack against anything caught within. If the attack would qualify to damage armor or is a critical hit, it instead inflicts an additional acid attack. If the initial toxic attack would do both, it also inflicts an additional toxic attack against that creature's [Fort].
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range of the fan may be increased 1.5 yards.
+
+**Critical Failure**: You feel something aweful rising inside of you. You receive a toxic attack against your [Fort] and an additional attack. If the additional attack roll is even it is acid. If Odd, necrotic.
+
 #### Sludgery
 
 **Minimum Tier**: 2
