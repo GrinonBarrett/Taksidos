@@ -4455,7 +4455,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (16
+### T (17
 
 #### Telekinesis 
 
@@ -4590,6 +4590,20 @@ If the creature did not actually die when you cast this, the spell fails.
 **At Higher Tiers**: For each tier beyond minimum, you may increase the range by 2.5 yards.
 
 **Critical Failure**: You instead peer into a realm you should not have accessed. You gain inebriation equal to the spell's tier.
+
+#### Thermavlavi
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 Action
+
+**Range**: 10 yards
+
+**Effect**: You draw heat away from a creature, inflicting a cold attack against it. This energy is directed as a bolt of fire against another creature or object within range, inflicting a fiery ray attack. If the spellcheck was a critical success, the next fire or cold attack inflicted against any creature damaged by this spell before the end of the next round gets advantage.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 2 yards.
+
+**Critical Failure**: You instead sap heat away from yourself. This inflicts a cold attack against yourself which ignores armor and gains a bonus equal to the spell's tier.
 
 #### Thornvalder
 
