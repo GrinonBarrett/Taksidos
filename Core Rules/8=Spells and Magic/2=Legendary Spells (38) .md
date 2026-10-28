@@ -101,7 +101,7 @@ Anauz Auraklos was a sorcerer of some small innate talent. Most that know of him
 
 **Minimum Tier**: 1
 
-**Casting Time**: 1 reaction, which you take in response to a success in any degree
+**Casting Time**: 1 reaction, which you take in response to a success in any degree with a brawl check
 
 **Effect**: You cause a disruptive surge of magic to flow into the foe. So long as you are both brawling each other or one has the other restrained, the foe suffers a penalty to spellchecks and counterspell checks equal to the spell's tier. If the spellcheck was a critical success, they are also incapable of casting spell or performing counterspells for a number of phases equal to the spell's tier 
 
