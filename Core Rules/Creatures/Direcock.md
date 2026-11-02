@@ -87,7 +87,7 @@ When a hen's egg is harbored by a venomous reptile, it can hatch into a terrifyi
 
 **Terrifying Leap**: Once per encounter, the direcock may quadruple its leap distance.
 
-**Skiddish**: During the first round of an encounter, when the cat first performs a reaction, roll a d4 and apply the appropriate result.  
+**Skiddish**: During the first round of an encounter, when the direcock first performs a reaction, roll a d4 and apply the appropriate result.  
 1. No additional effect.
 2. The cat does not perform the reaction, loses their reaction for the round, and is prone until the end of the next round.
 3. The cat performs the reaction as normal but is prone until the end of the next round.
