@@ -89,8 +89,8 @@ When a hen's egg is harbored by a venomous reptile, it can hatch into a terrifyi
 
 **Skiddish**: During the first round of an encounter, when the direcock first performs a reaction, roll a d4 and apply the appropriate result.  
 1. No additional effect.
-2. The cat does not perform the reaction, loses their reaction for the round, and is prone until the end of the next round.
-3. The cat performs the reaction as normal but is prone until the end of the next round.
+2. The direcock does not perform the reaction, loses their reaction for the round, and is prone until the end of the next round.
+3. The direcock performs the reaction as normal but is prone until the end of the next round.
 4. The reaction does not count against their reaction for the round.
 
 **Venomous Spray**: Once per encounter, as an action or reaction, the direcock may spray a creature within a number of feet equal to 10 + [Fort]. This is a toxic attack. If the attack would qualify to damage armor, it instead causes the creature to perform a [Fort] save with a DV equal to the attack result. If the save is failed, the creature is prone for a number of rounds equal to the points of failure. If it is a critical failure, it is instead petrified during this time. If it is a critical success, it is immune to the same direcock's Venomous Spray.
