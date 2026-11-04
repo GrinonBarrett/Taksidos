@@ -5117,7 +5117,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (20
+### W (21
 
 #### Waedervalder
 
@@ -5401,6 +5401,20 @@ If the spell check was a critical success  you may choose to have it empower a d
 **At Higher Tiers**: Each tier beyond minimum sees the range increase by 2 yards or allow you to tranpsort one additional willing creature you are touching.
 
 **Critical Failure**: You manage to get halfway to your target, but fail to appear properly and are prone until the end of the round as you lose your bearings. Each tier beyond 1st adds another round in which you are disoriented, leaving you prone.
+
+#### Wisp o Will
+
+**Minimum Tier**: 3
+
+**Casting Time**: 2 actions
+
+**Effect**: You create a small wisping mote of colorful light (in a color or color pattern of your choice) which will track down a creature you can perceive. The mote recognizes the visual appearance, heat signature, and can perceive its psychic signature on the psychic plane. It moves at a speed during movement and action phases equal to the spell's tier. When it makes contact, it inflicts a ki attack, then a radiant attack. If the radiant attack is a critical success- treat as that of a fire attack. This mote can track the foe for a number of rounds equal to the spellcheck result multiplied by the spell's tier.
+
+If the spellcheck is a critical success, the mote's movement during movement phases is increased by [Magic] bonus feet.
+
+**At Higher Tiers**: The benefits for casting at higher tiers is noted above.
+
+**Critical Failure**: A bright flash of light blasts you, inflicting a radiant attack against you with a bonus equal to the spell's tier for the purpose of critical hits. If the attack is a critical hit, it also inflicts the effect of a fire attack.
 
 #### Wretched Ray
 
