@@ -21,4 +21,4 @@ Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A
 | **Jester** | Disour | Tiggy | Madcap | ***Denner*** |
 | **Skirmisher** | Swashbuckler | Harrier | Wardancer | ***Dervish*** |
 | **Monk** | Learner | Portan | Elder | ***Master*** |
-| **Mystic** | Witchea | Antegrim | Grim | ***Goetiar*** |
+| **Mystic** | Magikhar | Antegrim | Grim | ***Goetiar*** |
