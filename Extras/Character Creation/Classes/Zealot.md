@@ -33,7 +33,7 @@ When you are wounded, you may use your reaction to gain one of the following ben
 * Gain a bonus to defense equal to your heroism against the next attack made by that foe against you before the end of the next round.
 
 ### 3) Sentinel Response
-When you perform an attack of opportunity, call a number. If the die roll or total attack result matches the number, it does not count against your reaction.
+When you perform an attack of opportunity or counterattack, call a number. If the die roll or total attack result matches the number, it does not count against your reaction.
 
 ### 4) Painful Drive
 Each time you are wounded while you have no hitpoints, if you have used your reaction, you regain the use of your reaction.
@@ -45,13 +45,13 @@ When you side-step, the next attack made against you before the end of the round
 When you cleave, for each successful attack inflicted by the cleave, the attack gains a bonus for the purpose of inflicting a critical hit equal to the number of successful attacks made by the cleave so far. If an attack is a failure, this bonus is lost.
 
 ### 7) Grievous Clutch
-As an additional option when you have a critical success during a brawl, you may trade your turn order chit with the foe's- even if they do not consent to it.
+As an additional option when you have a critical success during a brawl, you may trade your turn order chit with the foe's- even if they do not consent to it. If you do, you gain advantage on your next brawl check against that foe during this encounter.
 
 ### 8) Skilled Defense
 If you are attacked with a weapon or unarmed attack and have a greater total level of training than the attacker, you may use your reaction to prevent them from gaining any benefits of their training. If you have the same level of training, you may choose to prevent them from gaining one specific benefit from their training.
 
 ### 9) Greater Zeal
-When you perform a an attack while you have no remaining hitpoints, you may call a number. If the die roll result is the called number, you gain a bonus equal to your level for the purpose of inflicting a critical hit.
+When you perform an attack while you have no remaining hitpoints, you may call a number. If the die roll result is the called number, you gain a bonus equal to your level for the purpose of inflicting a critical hit. If the result is equal to or less than your total number of wounds, you may use your reaction to gain a bonus to the attack roll equal to your missing hitpoints.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
