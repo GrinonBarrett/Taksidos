@@ -52,7 +52,7 @@ You gain a bonus to your saves against magical effects equal to your [Fort] bonu
 You may now affect 2nd tier spells with your Cantripancy feature.
 
 ### 9) Sorcerous Wave
-Choose an exotic damage type. Once this decision is made, it cannot be changed. You may use your action to produce a ray attack against a foe within a number of yards equal to your level + [Fort] score. This incurs a level of fatigue aginst you, but inflicts an attack against the foe of the chosen type with a bonus equal to your [Fort] bonus for the purpose of determining if it is a critical hit. If the attack is a critical hit, you may knock that foe back a number of feet equal to the points of success or knock it prone.
+Choose an exotic damage type. Once this decision is made, it cannot be changed. You may use your action to produce a ray attack against a foe within a number of yards equal to your level + [Fort] score. This incurs a level of fatigue against you, but inflicts an attack against the foe of the chosen type with a bonus equal to your [Fort] bonus + level of fatigue. If the attack is a critical hit, you may knock that foe back a number of feet equal to the points of success or knock it prone.
 
 ### Splash or Specialize
 At levels 5 and 10, you may choose to splash another class into your training or choose instead to specialize. If you already specialized, you must splash.
