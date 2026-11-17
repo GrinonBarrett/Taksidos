@@ -14,6 +14,7 @@ Each class can achieve a title upon reaching levels 3, 8, and 10 of the class. A
 | **Rogue** | Rambler | Scoundrel | Venturer | ***Freewalker*** |
 | **Sorcerer** | Source-Touched | Yiftomantai | Source-Blood | ***Qerai*** |
 | **Warrior** | Fighter | Ergate | Hero | ***Superhero*** |
+| **Witche** | Warlock | Recludant | Epifinai | ***Befanai*** |
 | **Zealot** | Warchilde | Avenger | Palentinai | ***Paladin*** |
 | | | | |
 | **Desultor** | Fool | Sely | Vagari | ***Saeligar*** |
