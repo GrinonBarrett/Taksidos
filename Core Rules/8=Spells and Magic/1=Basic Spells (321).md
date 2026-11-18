@@ -431,7 +431,7 @@ If an attack is a critical failure, the spell inflicts an electrical attack agai
 
 **Range**: 30 yards
 
-**Effect**: You hurl a sphere of light which moves in a straight line. An undead creature struck by this is subject to a radiant attack. Any ephemera or fiend is subject to an undamaging attack, which will leave the creature prone if successful. If it impacts against any other creature, you may choose to have it inflict an undamaging attack with disadvantage. If successful, it restores a hitpoint.
+**Effect**: You hurl a sphere of light which moves in a straight line. An undead creature struck by this is subject to a radiant attack. Any ephemera or fiend is subject to an undamaging attack, which will leave the creature prone if successful. If it impacts against any other creature, you may choose to have it inflict an undamaging attack.  If you do, and the attack is successful, it has a percentage chance to restore a hitpoint to that creature equal to the attack's points of success.  
 This globe produces bright light in it path, which extends fair light out 5 yards and dim light outwards further another yard.
 
 **At Higher Tiers**: For each tier beyond minimum, the range is increased by 3 yards and the attack gains a +1 bonus.
