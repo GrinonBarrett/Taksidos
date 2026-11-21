@@ -584,7 +584,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (16
+### C (17
 
 #### Call Lightning
 
@@ -686,6 +686,21 @@ You cannot leave the area of the cloak. If the spellcheck is a critical success,
 * The duration is increased by 1 round
 
 **Critical Failure**: You are blind and vulnerable for a number of rounds equal to the spell's tier. The cloak never materializes.
+
+#### Cleansing Fire
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Range**: 20 yards
+
+**Effect**:  You conjure mystical flames to seallow your target, inflicting a fire attack. If it is successful, you may choose not to have it inflict a wound but instead remove a poison, venom, or a magical effect of a spell whose tier is half or less of this spell. If there is no valid affliction, it inflicts a wound as normal. If the attack is a critical success you may change the critical effect to be a bonus to the next save they make against a poison, venom, disease, or effect that would alter their flesh/form equal to the spell's tier.  
+If this spell target's a monster or creature of undeath, it simply inflicts a fire attack with a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond 3rd, in addition to the benefits noted above. The range is increased by 5 yards.
+
+**Critical Failure**: You consume your in fire, suffering a fire attack which ignores armor and gains a bonus equal to the spell tier + your spell sockness for the purpose of inflicting a critical hit.
 
 #### Cloak of Radiance
 
