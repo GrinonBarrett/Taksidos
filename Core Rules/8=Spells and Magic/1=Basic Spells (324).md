@@ -2573,7 +2573,24 @@ The spirit ceases to be after a number of rounds equal to the spell's tier.
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a cold attack. You are prone during this time.
 
-### J (6
+### J (7
+
+#### Japery
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 actions
+
+**Range**: 20 yards
+
+**Effect**: You create an illusory entity which takes a form of your choice and is small, medium, large, or great. Regardless, it moves at a speed upto 3 + spell tier yards. You can psychically command the entity to attack a creature withi 1 yard of it as an action or reaction, causing it to influct a psychic attack. If it would come into contact with a foe of is successful with its attack, it forces an opposed [Will] check to be made (the entity uses the better of your [Magic] or the spell's tier for its bonus). If the entity succeeds, it will breack the foe's concentration.  
+The entity will attempt to be whimsical and comical, but is just as likely ro be annoying. 
+
+The entity exists for a number of rounds equal to the spell check's points of success so long as the caster is concentrating on it. A magical attack result of 10 or greater will also cause the entity to blink out of existence.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond 3rd, in addition to the benefits noted above. The entity can last 2 rounds without concentration.
+
+**Critical Failure**: You suffer a terrible migraine. You receive a psychic attack and cannot concentrate while you possess spell sickness.
 
 #### Jaunt Macabre
 
