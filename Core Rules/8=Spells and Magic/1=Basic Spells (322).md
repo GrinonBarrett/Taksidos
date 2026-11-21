@@ -4467,7 +4467,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (17
+### T (18
 
 #### Telekinesis 
 
@@ -4652,6 +4652,20 @@ This spell is capable of binding ephemera. Undead, Fiends, and Ephemera have dis
 * The duration is increased by 1 minute.
 
 **Critical Failure**: You conjure the threads, but find them warp around you instead. If you do not break free before the duration ends- you are spirited away to another plane of existence by the threads.
+
+#### Thunder
+
+**Minimum Tier**: 4
+
+**Casting Time**: 4 actions
+
+**Effect**:  A crack of thunder is loosed, audible for miles, as you try to direct some of the energy. Call a number. All creatures within 7 yards of you are subject to a force attack. Additionally, you project a 10 yard cone which inflicts a force attack (a creature may only receive one force attack this way). If an attack roll result matches your called number, a sonic attack is also inflicted against that creature.
+
+If the spell check is a critical success, the sonic attack also occurs when the force attack is a critical hit.
+
+**At Higher Tiers**: The benefits for casting at higher tiers is noted above.
+
+**Critical Failure**: You find yourself struck by the sound but no wave of energy seems to come forth. At the end of the round, you lose 1 hitpoint, suffer a sonic attack which ignores armor, and a force attack. The attacks both gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. A loud crack is audible for miles and you become deafened for a number of rounds equal to the spellcheck's points of failure.
 
 #### Thwanething
 
