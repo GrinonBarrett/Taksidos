@@ -3452,7 +3452,7 @@ When the duration expires, the motes fade from existence. When a mote is used, i
 
 **Critical Failure**: You falter in projecting the waves and inflict a sonic attack against yourself with a bonus equal to the spell's tier.
 
-### P (20
+### P (21
 
 #### Pagomancy
 
@@ -3524,6 +3524,22 @@ If your spellcheck is a critical success, the attacks have disadvantage against 
 * The attacks each gain a +1 bonus for the purpose of inflicting a critical hit. This does not affect the attacks against you.
 
 **Critical Failure**: You are immediately afflicted with a number of unlisted attacks equal to the spell's tier. There is also a % chance equal to the spell's tier that you summon a Deep Lord at a point within range of the spell at the narrator's discretion.
+
+#### Phantasmal Face
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 action
+
+**Duration**: 5 minutes
+
+**Effect**:  Choose two of your senses. You appear to remove your face. What you actually do is produce a mask shaped forcefield which bears an illusory representation of your face. Your real face features either a grotesque or horrifying visage. Any non-mindless creature which perceives your face must make a save ([Fort] if Grotesque or [Will] if Horrifying) or be so overcome with fear as to be Vulnerable until end of round. So long as you concentrate on the spell, you can perceive from the faux face as though it were a part of you and can speak from it. Additionally, as long as your concentration hasn't been broken, it can move with a hover speed in feet equal to your spellcheck.
+
+If the spellcheck is a critical success, you may have the faux face inflict a force or necrotic attack (your choice) upon contact with a foe. If you do, it is destroyed.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond 2nd, you may choose to double the duration or increase the movement speed by a number of feet equal to the spell's total tier.
+
+**Critical Failure**: You tear at yourself and make a horrible discovery. The selected senses no longer function so long as you have spell sickness and you receive an unlisted attack which ignores armor an gains a bonus equal to the spell's tier. The unlisted attack will inflict a necrotic attack as its critical hit effect.
 
 #### Phantom Chain
 
