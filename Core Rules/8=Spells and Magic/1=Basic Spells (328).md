@@ -2904,7 +2904,7 @@ You may cast this on an object to make it hover at a distance above the ground n
 
 **Critical Failure**: You and whatever you intended on affecting begin to float but do not possess the level of control as expected. Each affected creature is prone and vulnerable, with the speed given by this spell measured in inches, not yards. This state continues for a number of rounds equal to the points of success multiplied by this spell's tier. You gain a point of spell sickness for each other creature you had sought to affect when casting this spell.
 
-### M (18
+### M (19
 
 #### Macabre Messenger
 
@@ -3235,6 +3235,22 @@ Second list;
 **At Higher Tiers**: In addition to the benefits listed above, each tier beyond minimum allows the caster to reach out an additional 2 yards with the spell.
 
 **Critical Failure**: You have inverted the spell completely causing it to instead afflict you for as long as you have spell sickness. You also suffer an instance of Archeblight.
+
+#### Mysterious Mist
+
+**Minimum Tier**: 3
+
+**Casting Time**: 4 actions
+
+**Range**: 35 yards
+
+**Duration**: 10 minutes
+
+**Effect**: Choose one of your senses (or one you have possessed at some point). A mist slowly manifests to encompass everything with range. A the end of the round, it has reached its peak density. All [Prcp] checks/saves based on sight have disadvantage in or through the mist. Your movement speed, so long as you remain in the mist, is doubled. Additionally, as long as you concentrate on the spell, you are completely imperceptible to the selected sense while within the mist.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond 3rd, you may choose to double the duration or increase the range of the spell by 10 yards. Alternatively, two additional tiers beyond minimum can be used to select an additional sense for this spell.
+
+**Critical Failure**: You produce a strange mist but find it instead only offers penalties to yourself and you lose function of your selected sense(s) while within the mist. Your movement speed is not affected by the spell.
 
 #### Mystic Ray
 
