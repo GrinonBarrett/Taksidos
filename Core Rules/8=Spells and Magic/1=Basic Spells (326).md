@@ -4511,7 +4511,7 @@ Those that drink the water of this spell suffer 1d3 points of spell sickness equ
 
 **Critical Failure**: You have managed to really mess up the enchantment. The subject is prone for 1d4 rounds times the spell's tier and you are petrified for a number of rounds equal to the spell's tier as a msyterious fog encases around you.
 
-### T (18
+### T (19
 
 #### Telekinesis 
 
@@ -4710,6 +4710,18 @@ If the spell check is a critical success, the sonic attack also occurs when the 
 **At Higher Tiers**: The benefits for casting at higher tiers is noted above.
 
 **Critical Failure**: You find yourself struck by the sound but no wave of energy seems to come forth. At the end of the round, you lose 1 hitpoint, suffer a sonic attack which ignores armor, and a force attack. The attacks both gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit. A loud crack is audible for miles and you become deafened for a number of rounds equal to the spellcheck's points of failure.
+
+#### Thunder Roll
+
+**Minimum Tier**: 3
+
+**Casting Time**: 3 actions
+
+**Effect**:  A crack of thunder is loosed, audible for half a mile. You loose a 30 yard fan of energy that manifests 3 yards at a time. This is the first 3 yards when the spell is cast, the next 3 yards at the end of the following phase, the 3 yards beyond that at the end of the following phase, etc. A creature within the affected area receives a force attack. If the attack would qualify to damage armor, it instead inflicts a sonic attack.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond 3rd, the fan's length is increased by 6 yards.
+
+**Critical Failure**: You fail to properly cause the crack of energy to be directed. You suffer a sonic attack and a force attack which ignores armor.
 
 #### Thwanething
 
