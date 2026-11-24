@@ -584,7 +584,7 @@ The user must succeed a [Rflx] save equal to the spellcheck's difficulty or also
 
 **Critical Failure**: You somehow manage to cover yourself in spores instead and receive a fire attack at the end of each phase for a number of phases equal to the spell's tier. These spores can still burn you in water or similar fluids.
 
-### C (17
+### C (18
 
 #### Call Lightning
 
@@ -686,6 +686,18 @@ You cannot leave the area of the cloak. If the spellcheck is a critical success,
 * The duration is increased by 1 round
 
 **Critical Failure**: You are blind and vulnerable for a number of rounds equal to the spell's tier. The cloak never materializes.
+
+#### Chugury
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions
+
+**Effect**: You consume a potion or some other liquid. You may have the time before it is actually processed (take effect) be delayed by an hour. You must concentrate on this effect to maintain it unless your slellcheck is a critical success.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, the maximum duration is instead hours equal to the spell tier squared.
+
+**Critical Failure**: Delay it only a number of phases equal to the spell's tier. You also suffer a penalty to any saves pertaining to it equal to the spell's tier and receive 1d4-1 additional spell sickness.
 
 #### Cleansing Fire
 
