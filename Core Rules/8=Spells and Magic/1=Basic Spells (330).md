@@ -322,7 +322,7 @@ If the spellcheck was a critical success, you may choose to explode with necroti
 **Critical Failure**: You die.
 
 
-### B (16
+### B (17
 
 #### Band of Thorns
 
@@ -553,6 +553,22 @@ If the spell check is a critical success, you may apply this to a weapon attack 
 **At Higher Tiers**: When cast at higher tiers, the attack gains a +1 bonus for every tier beyond minimum. Additionally, every 3 whole tiers beyond minimum provides a +1 bonus to the attack.
 
 **Critical Failure**: You conjure light in a small flash, disorienting you. You are dazed for a number of minutes equal to the spell's tier. You produce light like a torch until the end of the next phase.
+
+#### Brutery
+
+**Minimum Tier**: 1
+
+**Casting Time**: 1 reaction which you take in response to yourself performing a weapon attack against a foe within range
+
+**Range** 15 yards
+
+**Effect**: You amplify the force of the blow in such a way as to inflict knockback against the for up to a number of feet equal to the spellcheck's points of success + spell tier. If the attack failed, but was not a critical failure, this is insead a number of feet equal to th spell tier -1. A critical failure yields no knockback.
+
+If your spellcheck is a critical success, you may choose not to wound if the attack is successful. If so, and the attack would have been successful, the base knackback is instead equal to your spellcheck result + spell tier.
+
+**At Higher Tiers**: When cast at 2nd tier or greaer, for each tier beyond minimum, you may either increase the range by half or the knockback by half.
+
+**Critical Failure**: You failed to properly direct the energy and suffer knockback in feet equal to the points of failure in a random direction and are vulnerable and prone until the end of the next phase.
 
 #### Burning Mote
 
