@@ -2705,7 +2705,7 @@ If you have the foe grappled, both attacks gain a bonus equal to the spell's tie
 
 **Critical Failure**: The force you conjure is channeled into your body rather than the foe. The crushing attack is instead inflicted against you, and you become prone for a number of rounds equal to the spell's tier.
 
-### K (4
+### K (5
 
 #### Kafteropidimatism
 
@@ -2740,6 +2740,18 @@ The caster may spend an entire round concentrating to end the connection prematu
 **At Higher Tiers**: For each tier above minimum, in addition to the benefits listed above, the duration may be increased by 1 minute.
 
 **Critical Failure**: You swear you see something, but it vanishes before you can identify it. After a number of rounds equal to the spellcheck's points of failure, you suffer a psychic attack and gain spell sickness equal to the spell's tier.
+
+#### Kineticism
+
+**Minimum Tier**: 2
+
+**Casting Time**: 1 reaction which you take in response to a successful unarmed, weapon, cutting, piercing, or force attack against yourself
+
+**Effect**: You are able to redirect aome of the force of the incoming attack in a controlled manner. You move up to a number of feet equal to the attack's pounts of success multiplied by the spell's tier. If your spellcheck result was half again the attack roll total, you are not wounded by the attack (or otherwise affected by any substituted effect) though critical hits and damage to armor can still occur.
+
+**At Higher Tiers**: The benefits of casting at higher tiers are noted above.
+
+**Critical Failure**: You failed to properly direct the energy and are subject to an additional attack identical to the triggering one.
 
 #### Kiss of Death
 
