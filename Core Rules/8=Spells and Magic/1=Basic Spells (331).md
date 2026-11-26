@@ -932,7 +932,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack against you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (19
+### D (20
 
 #### Damper
 
@@ -1151,6 +1151,24 @@ Note that as it only affects projectiles, meaning rays are unaffected by the spe
 **At Higher Tiers**: The benefits for higher tiers are noted above.
 
 **Critical Failure**: The glowing particles actually pull in the projectile, giving it a bonus for the purpose of determining a critical hit equal to the spell's tier.
+
+#### Delayed Missile
+
+**Minimum Tier**: 1
+
+**Range**: 30 Yards
+
+**Casting Time**: 1 reaction which you take in response to readying a thrown/projectile weapon (such as knocking an arrow or holding a javelin)
+
+**Effect**: You must concentrate on this spell. You cause the projectile in question to hang in the air for as long as you concentrate on the spell. When concentration is dropped (voluntarily or otherwise) the projectile is loosed against a target in its forward direction. If voluntarily dropped, the caster may choose a foe they can perceive within that direction (or none at all). Otherwise, it will seek the nearest target in its arc. The range and attack itself is just as though the caster performed a normal attack (and is not magical in nature unless the attack would have been).
+
+If the spell check is a critical success, the projectile will get a bonus for the purpose of determening a critical hit equal to the phases the projectile was held, up to the spell's tier squared.
+
+If at any point the caster leaves the spell's range from the projectile, it simply drops to the ground and the spell ends. A powerful force acting on the projectile can also end the spell prematurely.
+
+**At Higher Tiers**: When cast at 2nd tier or gretaer, in addition to the above noted benefits, you may increase the range by 15 yards.
+
+**Critical Failure**: The projectile shakes in the air for a moment and drops.
 
 #### Destructive Volley
 
