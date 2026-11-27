@@ -1818,7 +1818,22 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (18
+### G (19
+
+#### Generovulnusism
+**Minimum Tier**: 5
+
+**Casting Time**: 5 actions
+
+**Range**: 20 yards
+
+**Effect**: You cause a creature you can perceive to perform an incapacitation save. It does not inflict the typical effect if it is a failure in any degree, instead causing a wound to be inflicted. A critical failure with the save will also cause the creature to hemorrhage. Regardless, if a wound is inflicted this way, it will create a Wrathful Fiend which will manifest after 1d100 rounds. A creature which does not suffer wounds or their effects has its maximum hitpoints reduced by 1 as the effect of this spell's wound (granting the Wrathful Fiend an increased maximum hitpoint total).
+
+If your spellcheck was a critical success, the fiend is not hostile towards you in any way until the end of the round following its creation unless. It being harmed before then will end this peace.
+
+**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond 5th, you may choose to either increase the range by 10 yards or increase the DV of the incapacitation save by 1. Additionally, every three tiers beyond minimum increases the Wrathful Fiend's maximum hitpoints by 1.
+
+**Critical Failure**: You afflict yourself with great malady. Roll a wound a number of times equal to half of the spell's tier. You suffer the indicated wounds, and Wrathful Fiend are created from them. If you do not receive wounds or their effects, your maximum hitpoints are reduced by 1 (for each wound) as the effect of the wound- causing that Wrathful Fiend's hitpoint maximum to be increased accordingly.
 
 #### Glacial Brand
 
@@ -1850,37 +1865,6 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: This scythe targets you instead.
 
-#### Gloom Bolt
-
-**Minimum Tier**: 2
-
-**Casting Time**: 1 Action
-
-**Range**: 20 yards
-
-**Effect**: You fire a ray of translucent blue-violet energy at a foe. This is a psychic ray attack. This ray ignores armor and physical matter other than the target (thus ignoring cover). If fired at a foe you cannot currently perceive, your attack has disadvantage. So long as this attack doesn't have disadvantage, it gains a bonus equal to the foe's current spellsickness and archeblight.
-Cannot affect a mindless creature.
-
-**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 2 yards.
-
-**Critical Failure**: You gain spell sickness equal to the spell's tier and suffer a crushing attack which ignores armor. If that attack is a critical hit, it applies the effect of a psychic critical hit instead.
-
-#### Generovulnusism
-
-**Minimum Tier**: 5
-
-**Casting Time**: 5 actions
-
-**Range**: 20 yards
-
-**Effect**: You cause a creature you can perceive to perform an incapacitation save. It does not inflict the typical effect if it is a failure in any degree, instead causing a wound to be inflicted. A critical failure with the save will also cause the creature to hemorrhage. Regardless, if a wound is inflicted this way, it will create a Wrathful Fiend which will manifest after 1d100 rounds. A creature which does not suffer wounds or their effects has its maximum hitpoints reduced by 1 as the effect of this spell's wound (granting the Wrathful Fiend an increased maximum hitpoint total).
-
-If your spellcheck was a critical success, the fiend is not hostile towards you in any way until the end of the round following its creation unless. It being harmed before then will end this peace.
-
-**At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond 5th, you may choose to either increase the range by 10 yards or increase the DV of the incapacitation save by 1. Additionally, every three tiers beyond minimum increases the Wrathful Fiend's maximum hitpoints by 1.
-
-**Critical Failure**: You afflict yourself with great malady. Roll a wound a number of times equal to half of the spell's tier. You suffer the indicated wounds, and Wrathful Fiend are created from them. If you do not receive wounds or their effects, your maximum hitpoints are reduced by 1 (for each wound) as the effect of the wound- causing that Wrathful Fiend's hitpoint maximum to be increased accordingly.
-
 #### Glitter
 
 **Minimum Tier**: 2
@@ -1899,8 +1883,22 @@ Hypothetically, 5 whole minutes of fully submerged washing could preemptively di
 
 **Critical Failure**: You create a small puff of the glitter- just enough to coat yourself. It lasts as long as you have spell sickness.
 
-#### Gloom Maw
+#### Gloom Bolt
 
+**Minimum Tier**: 2
+
+**Casting Time**: 1 Action
+
+**Range**: 20 yards
+
+**Effect**: You fire a ray of translucent blue-violet energy at a foe. This is a psychic ray attack. This ray ignores armor and physical matter other than the target (thus ignoring cover). If fired at a foe you cannot currently perceive, your attack has disadvantage. So long as this attack doesn't have disadvantage, it gains a bonus equal to the foe's current spellsickness and archeblight.
+Cannot affect a mindless creature.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the range is increased by 2 yards.
+
+**Critical Failure**: You gain spell sickness equal to the spell's tier and suffer a crushing attack which ignores armor. If that attack is a critical hit, it applies the effect of a psychic critical hit instead.
+
+#### Gloom Maw
 **Minimum Tier**: 5
 
 **Casting Time**: 5 actions
@@ -1912,6 +1910,24 @@ This area stretches out a number of yards equal to the spell's tier squared. A c
 **At Higher Tiers**: When cast at 6th tier or greater, for each tier beyond minimum, in addition to the benefits mentioned above- you may grant yourself a +1 to defense against the attacks.
 
 **Critical Failure**: You conjure a darkness that envelops you, inflicting a number of biting attacks equal to half of the spell's tier which gain a bonus equal to the spell's tier for the purpose of inflicting a critical hit.
+
+#### Glowany
+
+**Minimum Tier**: 1
+
+**Casting Time**: 2 actions
+
+**Duration**: 1 minute
+
+**Effect**: You begin to radiate light, as though you were a torch. This continues so long as you concentrate on the spell or the duation ends (whichever is first. You may choose whether or not you yourself are affected by the light. This light is of an unnatural color and will make those that spend more than a moment inside of it wary of the caster.
+
+If the spellcheck is a critical success, you also gain a bonus to defense against radiant attacks equal to the spell's tier for the purpose of determining a critical hit. Against a ray attack, this is simply a bonus to defense against it.
+
+This spell is automatically ended when it comes in contact with any magical darkness, magical light if an equal or greater spell tier, or a radiant attack against you would be a critical hit or qualify to damage armor.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, in addition to the benefits noted above, the maximum duration is tripled.
+
+**Critical Failure**: You find a mysterious light seems to have afflicted your vision, causing you disadvantage on vision related [Prcp] checks and saves so long as you still have spell aickness. Aditionally, you are dazed until the end of the next round.
 
 #### Gnash
 
