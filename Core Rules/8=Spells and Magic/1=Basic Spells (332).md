@@ -3930,7 +3930,7 @@ If the spellcheck is a critical success, the creature will always know the direc
 
 **Critical Failure**: There is no creature coming to your call. All creatures of its kind will be hostile to you as long as you have spell sickness. You cannot conjure a creature of that kind so long as you have spell sickness.
 
-### R (11
+### R (12
 
 #### Rage Fist
 
@@ -3947,6 +3947,18 @@ You cannot use items with any body part affected this way.
 **At Higher Tiers**: For each tier beyond minimum, you may either increase the duration by 5 rounds or reduce the casting time by 1 action (to a minimum of 1 action).
 
 **Critical Failure**: You channel the magical energy but fail to control it, an attack of the chosen type is inflicted against you of the chosen type with a bonus equal to the spell's tier for the purpose of determining a critical hit.
+
+#### Rapid Healing
+
+**Minimum Tier**: 5
+
+**Casting Time**: 1 reaction which you take in response to receiving a wound
+
+**Effect**: You must concentrate on the spell. If you receive another wound while concentrating on this spell, you must succeed either a [Fort] or [Will] save (your choice) with a DV equal to that attack's result or lose concentration on the spell. If you concentrate for 600 rounds divided by the spell's tier, without losing concentration, the wound you receive is recovered.
+
+**At Higher Tiers**: The benefit for casting at higher tiers is noted above.
+
+**Critical Failure**: You suffer a penalty to all [Fort] saves equal to the spell's tier so long as you have spell sickness.
 
 #### Refulgence Barrier
 
