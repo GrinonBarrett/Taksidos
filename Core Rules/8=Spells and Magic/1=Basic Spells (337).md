@@ -1835,6 +1835,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 ### G (19
 
 #### Generovulnusism
+
 **Minimum Tier**: 5
 
 **Casting Time**: 5 actions
@@ -1913,6 +1914,7 @@ Cannot affect a mindless creature.
 **Critical Failure**: You gain spell sickness equal to the spell's tier and suffer a crushing attack which ignores armor. If that attack is a critical hit, it applies the effect of a psychic critical hit instead.
 
 #### Gloom Maw
+
 **Minimum Tier**: 5
 
 **Casting Time**: 5 actions
@@ -2182,7 +2184,7 @@ If it is damaged, fails an incapacitation save in any degree, or would be divide
 
 **Critical Failure**: You transform, regardless of what creature you tried to affect. You have managed to lose your wits in the process, you are immobile during the duration. This lasts for a number of rounds equal to the points of failure plus the spell's tier.
 
-### H (15
+### H (16
 
 #### Hablliwism
 
@@ -2231,6 +2233,20 @@ This spell can only affect Ephemera, Fiends, Monsters, and Undead creatures.
 **At Higher Tiers**: For each tier beyond minimum, in addition to the benefits noted above, the range is increased by 3 yards.
 
 **Critical Failure**: You have angered the entity in question, alerting it to your exact location for a number of minutes equal to the points of failure. You also take on points of spell sickness equal to the spell's tier.
+
+#### Halting
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 20 yards
+
+**Effect**: You make a gesture or speak a command which forces all mindless creatures within range to make a [Will] save. A failure causes it to stop moving for a number of rounds equal to the points of failure. A critical failure makes it completely immobile during this time. A creature that is damaged can make a new save and take the better result. Even if a creature save is successful, but not a critical success, i cannot perform a move or sprint during the next phase (though it may divert its attention to you).
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, the drange is increased by 5 yards.
+
+**Critical Failure**: You attract all would be targets to you and garner an additional point of the spell sickness.
 
 #### Havery
 
