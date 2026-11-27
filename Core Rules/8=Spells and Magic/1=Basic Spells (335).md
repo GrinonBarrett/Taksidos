@@ -932,7 +932,7 @@ You may only produce a number of items equal to the tier of the spell, with a cr
 
 **Critical Failure**: The ice shatters, inflicting a piercing attack against you with a bonus equal to the tier of the spell for the purpose of determining if it is a critical hit.
 
-### D (20
+### D (21
 
 #### Damper
 
@@ -1183,6 +1183,20 @@ If the spellcheck was a critical success, you may gain a bonus to one of the att
 **At Higher Tiers**: For each tier beyond minimum, an additional such ray is fired.
 
 **Critical Failure**: You instead are subject to a number of the wand's attacks equal to the spell's tier. The wand is still destroyed.
+
+#### Dimblade
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Range**: 50 yards
+
+**Effect**: You conjure a strange force which will cut away at a foe. This inflicts a cutting attack against a creature in dim light or darkness. If the attack is successful, or the target is in total darkness, it also inflicts a necrotic attack.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, the attacks each get a +1 bonus for the purpose of inflicting a critical hit and the range is increased by 2.5 yards.
+
+**Critical Failure**: A strange force besets you. So long as you have spell sickness, you suffer a -1 penalty to defense and saves against magical forces.
 
 #### Disenchant
 
