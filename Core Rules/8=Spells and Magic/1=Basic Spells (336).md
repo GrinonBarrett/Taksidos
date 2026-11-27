@@ -3342,7 +3342,21 @@ If the spellcheck is a critical success, you may use any training you have with 
 
 **Critical Failure**: Your fingertip glows dimly, and then flashes in a fraction of a moment. This inflicts a rafiant attack against yourself with a bonus equal to the spellcheck's points of failure for the purpose of determining a critical hit. You are also blind for a number of phases equal to the spell's tier +1. Anything that can see in your general direction has certainly spotted you.
 
-### N (5
+### N (6
+
+#### Naked Ward
+
+**Minimum Tier**: 1
+
+**Casting Time**: 7 actions
+
+**Duration**: 1 hour
+
+**Effect**: You touch a creature which is not wearing armor. While it is unarmored, it is immune to unarmed attacks. If it dons armor, unarmed attacks against it still have disadvantage.
+
+**At Higher Tiers**: When cast at 2nd tier or greater, for each tier beyond minimum, the duration is increased by half.
+
+**Critical Failure**: You ruin your clothes somehow.
 
 #### Needle Burst
 
