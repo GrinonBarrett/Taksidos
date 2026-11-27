@@ -5277,7 +5277,7 @@ This can blow away gasses and vapors, including those of a magical nature.
 
 **Critical Failure**: You create a strange vortex which instead inflicts the undamaging attack against you. It then also does so at the end of each round for a number of rounds equal to the spell's tier.
 
-### W (21
+### W (22
 
 #### Waedervalder
 
@@ -5575,6 +5575,20 @@ If the spellcheck is a critical success, the mote's movement during movement pha
 **At Higher Tiers**: The benefits for casting at higher tiers is noted above.
 
 **Critical Failure**: A bright flash of light blasts you, inflicting a radiant attack against you with a bonus equal to the spell's tier for the purpose of critical hits. If the attack is a critical hit, it also inflicts the effect of a fire attack.
+
+#### Witchetint
+
+**Minimum Tier**: 1
+
+**Casting Time**: 3 actions
+
+**Effect**: You transfer the writings of a grimoire to yourself, causeing them to appear as a network of tattos across your form. This allows you to cast the spells at the indicated tiers just as though you were using the grimoire for reference. Once cast, it disappears. Any spellcheck involving the spell gains a bonus for each tier this spell is above the grimoire's spell. The tattoo lasts for 2 hours.
+
+The grimoire is destroyed by this.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, in addition to the benefits noted above, the tattoo lasts half again as long.
+
+**Critical Failure**: You see the pages blot and crumble to dust. No transfer occurs.
 
 #### Wretched Ray
 
