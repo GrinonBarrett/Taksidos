@@ -1489,7 +1489,7 @@ If the spellcheck is a critical success, you may alter the distance the blades t
 
 **Critical Failure**: The sphere originates just beneath you, propelling you upwards and making you prone, in addition to ejecting other creatures and objects as normal. You then fall. The sphere ceases to exist by the time you would reenter its space from the fall.
 
-### F (21
+### F (22
 
 #### Fallen Words
 
@@ -1663,6 +1663,20 @@ If the spellcheck is a critical success, it applies an additional fear based eff
 **At Higher Tiers**: When cast at 2nd tier or higher, for each tier beyond minimum, you may either increase the range by 2 years or affect an additional creature.
 
 **Critical Failure**: You instead incur spell sickness equal to half of the spell tier plus one.
+
+#### Fleshward
+
+**Minimum Tier**: 2
+
+**Casting Time**: 2 actions
+
+**Duration**: 1 hour
+
+**Effect**: A creature you touch gains a magical ward which prevents their flesh from being manipulated in any way. If a magical effect is already affecting the subject, it is not prevented.
+
+**At Higher Tiers**: When cast at 3rd tier or greater, for each tier beyond minimum, the duration is doubled.
+
+**Critical Failure**: Your immune system suffers a shock, causing you to have disadvantage on [Fort] saves as long as you have spell sickness.
 
 #### Flowany
 
