@@ -1846,7 +1846,7 @@ The caster may use their reaction to redirect the spirit to attack another, infl
 
 **Critical Failure**: The spirit conjured is quite upset with you. It grapples you for a number of rounds equal to the spell's tier. You cannot fight against this. During the primary action phase while you are grappled, it inflicts a biting attack against you. During the secondary action phase of each such round, it inflicts a fire attack. You are prone during this time.
 
-### G (19
+### G (20
 
 #### Generovulnusism
 
@@ -2019,6 +2019,20 @@ A critical success on the save prevents the creature from being affected by the 
 * The casting time is reduced by 1 action (to a minimum of 1 action)
 
 **Critical Failure**: The powers you sought to invoke have burdened you with deformity and a touch of madness. You lose [Empy] equal to the spell's tier and are petrified as long as you have spell sickness. Each point of [Empy] lost this way can be recovered as a wound.
+
+#### Grand Garbing
+
+**Minimum Tier**: 3
+
+**Casting Time**: 5 minutes
+
+**Duration**: 1 hour
+
+**Effect**: You touch the clothes worn by another creature. If they were not armor, they can now provide protection as though they were gambeson. If the spellcheck is a critical success, you may choose to either make the clothing appear fantastical in nature or choose to have it treated as brigandine instead. If treated as brigandine, the duration of the spell is reduced to a quarter of its duration after all other modifiers.
+
+**At Higher Tiers**: When cast at 4th tier or greater, for each tier beyond minimum, the duration is increased by half again.
+
+**Critical Failure**: You suffer additional spell sickness equal to the spell's tier.
 
 #### Grasp
 
